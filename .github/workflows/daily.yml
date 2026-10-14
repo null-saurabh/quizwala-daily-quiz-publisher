@@ -5,12 +5,13 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  id-token: write
 concurrency:
   group: daily-quiz
   cancel-in-progress: false
 jobs:
   generate:
-    if: vars.FREE_TIER_CONFIRMED == 'true'
+    if: vars.DAILY_GENERATION_ENABLED == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 6
     steps:
@@ -19,10 +20,7 @@ jobs:
           persist-credentials: true
       - name: Reserve today's single request before calling AI
         id: reserve
-        env:
-          FREE_KEY: ${{ secrets.GEMINI_FREE_API_KEY }}
         run: |
-          if [ -z "$FREE_KEY" ]; then echo 'Configure the free-tier API key first.'; exit 1; fi
           DAY=$(TZ=Asia/Kolkata date +%F)
           if [ -e "state/$DAY.json" ]; then echo 'Already attempted today; no repeat API call.'; exit 0; fi
           mkdir -p state
@@ -33,11 +31,21 @@ jobs:
           git commit -m "Reserve daily generation $DAY"
           git push
           echo "day=$DAY" >> "$GITHUB_OUTPUT"
+      - name: Short-lived Vertex credentials
+        if: steps.reserve.outputs.day != ''
+        id: auth
+        uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: projects/527093269107/locations/global/workloadIdentityPools/recall-daily-github/providers/github
+          service_account: recall-daily@project-2af1ec64-67d0-4b99-b40.iam.gserviceaccount.com
+          token_format: access_token
+          create_credentials_file: false
+          access_token_lifetime: 600s
       - name: Generate once from public news excerpts
         if: steps.reserve.outputs.day != ''
         env:
-          FREE_TIER_CONFIRMED: ${{ vars.FREE_TIER_CONFIRMED }}
-          GEMINI_FREE_API_KEY: ${{ secrets.GEMINI_FREE_API_KEY }}
+          DAILY_GENERATION_ENABLED: ${{ vars.DAILY_GENERATION_ENABLED }}
+          VERTEX_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
           RESERVED_DATE: ${{ steps.reserve.outputs.day }}
         run: python3 generate.py
       - name: Publish validated data

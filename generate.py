@@ -1,4 +1,5 @@
-"""One request, bounded public-source context, no paid fallback or AI retry."""
+"""One approved Vertex request per day; bounded public-source context, no AI retry."""
+from concurrent.futures import ThreadPoolExecutor
 import datetime as dt
 import email.utils
 import html
@@ -17,6 +18,9 @@ MODEL = 'gemini-3.5-flash-lite'
 FEEDS = [
     'https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1',
     'https://www.newsonair.gov.in/feed/',
+    'https://feeds.bbci.co.uk/news/world/asia/india/rss.xml',
+    'https://feeds.bbci.co.uk/news/business/rss.xml',
+    'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml',
 ]
 
 
@@ -26,7 +30,7 @@ def clean(value):
 
 def read_url(url):
     request = urllib.request.Request(url, headers={'User-Agent': 'RecallDaily/1.0 (public education RSS reader)'})
-    with urllib.request.urlopen(request, timeout=25) as response:
+    with urllib.request.urlopen(request, timeout=8) as response:
         raw = response.read(1_000_001)
         if len(raw) > 1_000_000:
             raise ValueError('Source exceeds size limit')
@@ -36,9 +40,15 @@ def read_url(url):
 def sources():
     result, seen = [], set()
     now = dt.datetime.now(dt.timezone.utc)
-    for feed in FEEDS:
+    def fetch(feed):
+        try: return read_url(feed)
+        except OSError: return b''
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        raws = list(pool.map(fetch, FEEDS))
+    for raw in raws:
         try:
-            root = ET.fromstring(read_url(feed))
+            root = ET.fromstring(raw)
+            per_feed = 0
             for item in root.findall('.//item'):
                 title = clean(item.findtext('title'))
                 link = (item.findtext('link') or '').strip()
@@ -55,8 +65,9 @@ def sources():
                 seen.add(link)
                 result.append({'id': str(len(result)+1), 'title': title[:220], 'url': link,
                                'published': date.isoformat(), 'text': clean(item.findtext('description'))[:1000]})
-                if len(result) >= 18:
-                    return result
+                per_feed += 1
+                if len(result) >= 18: return result
+                if per_feed >= 6: break
         except (OSError, ValueError, ET.ParseError):
             print('A news feed was unavailable; using other available public sources.')
     return result
@@ -91,7 +102,7 @@ def validate(data, evidence):
                 ready.append({'id': f'{TODAY}-{total}', 'prompt': prompt,
                     'options': [{'id': o['id'], 'label': o['id'].upper(), 'text': o['text']} for o in options],
                     'correct_option_id': q['correct_option_id'],
-                    'explanation': {'en': explanation['en']+'\nSource: '+source['url'], 'hi': explanation.get('hi')},
+                    'explanation': {'en': explanation['en']+'\nSource: '+ ('BBC News · ' if 'bbc.' in source['url'] else '') +source['url'], 'hi': explanation.get('hi')},
                     'section': str(block.get('title', 'Daily briefing'))[:100],
                     'source_label': source['url'], 'status': 'ready', 'warnings': [], 'page': 1})
                 if total >= 18:
@@ -110,11 +121,11 @@ def validate(data, evidence):
 
 
 def main():
-    if os.environ.get('FREE_TIER_CONFIRMED') != 'true':
-        raise SystemExit('Disabled: configure a billing-disabled Gemini project and confirm FREE_TIER_CONFIRMED=true.')
-    key = os.environ.get('GEMINI_FREE_API_KEY')
-    if not key:
-        raise SystemExit('Disabled: GEMINI_FREE_API_KEY secret is missing.')
+    if os.environ.get('DAILY_GENERATION_ENABLED') != 'true':
+        raise SystemExit('Daily generation is disabled.')
+    token = os.environ.get('VERTEX_ACCESS_TOKEN')
+    if not token:
+        raise SystemExit('Short-lived Vertex identity is missing.')
     marker = ROOT/'state'/f'{TODAY}.json'
     # Workflow commits the marker BEFORE making the API request: reruns cannot double spend.
     if os.environ.get('RESERVED_DATE') != TODAY:
@@ -135,9 +146,9 @@ Return JSON only: {"sets":[{"title":"...","questions":[{"source_id":"1","evidenc
 Stay within the output budget, complete valid JSON rather than truncating. Date: '''+TODAY+'\n'+json.dumps(evidence, ensure_ascii=False)
     body = {'contents':[{'parts':[{'text':prompt}]}], 'generationConfig':{
         'responseMimeType':'application/json', 'maxOutputTokens':6000, 'temperature':0.3}}
-    request = urllib.request.Request('https://generativelanguage.googleapis.com/v1beta/models/'+MODEL+':generateContent',
-        data=json.dumps(body).encode(), headers={'Content-Type':'application/json','x-goog-api-key':key}, method='POST')
-    # Exactly one HTTP attempt. Never switch to Vertex, another model, or a paid project.
+    request = urllib.request.Request('https://aiplatform.googleapis.com/v1/projects/project-2af1ec64-67d0-4b99-b40/locations/global/publishers/google/models/'+MODEL+':generateContent',
+        data=json.dumps(body).encode(), headers={'Content-Type':'application/json','Authorization':'Bearer '+token}, method='POST')
+    # Exactly one approved Vertex HTTP attempt. No alternate model, project or automatic retry.
     try:
         with urllib.request.urlopen(request, timeout=150) as response:
             result = json.load(response)
@@ -156,7 +167,8 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
         raise ValueError('Publication too large')
     (ROOT/'site'/'latest.json').write_text(encoded)
     marker.write_text(json.dumps({'date':TODAY,'status':'published','questions':sum(len(s['questions']) for s in decks)}))
-    print(f'Published {len(decks)} sets; bounded to one AI request.')
+    payload_usage = result.get('usageMetadata', {})
+    print(f'Published {len(decks)} sets; one AI request; usage: {json.dumps(payload_usage)}')
 
 if __name__ == '__main__':
     main()
