@@ -1,1 +1,254 @@
-{"schema_version":1,"status":"awaiting_configuration","date":null,"sets":[],"sources":[]}
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "generated_at": "2026-10-14T21:41:47.763691+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Protests and Corporate Affairs in India",
+      "source_filename": "daily-2026-10-15.json",
+      "questions": [
+        {
+          "id": "2026-10-15-1",
+          "prompt": {
+            "en": "On what charges were the youth leaders sent to custody regarding Jantar Mantar?",
+            "hi": "जंतर मंतर पर युवा नेताओं को किस आरोप में हिरासत में भेजा गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Charges of trespassing at a now denotified protest site",
+                "hi": "अब गैर-अधिसूचित प्रदर्शन स्थल पर अतिक्रमण के आरोप"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Charges of vandalism and property destruction",
+                "hi": "तोड़फोड़ और संपत्ति को नुकसान पहुंचाने के आरोप"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Charges of sedition and unlawful assembly",
+                "hi": "राजद्रोह और गैरकानूनी सभा के आरोप"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Charges of extortion and public nuisance",
+                "hi": "जबरन वसूली और सार्वजनिक उपद्रव के आरोप"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The leaders were sent to custody specifically on charges of trespassing at Jantar Mantar, a denotified protest site.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6q8n09l1ny0o?at_medium=RSS&at_campaign=rss",
+            "hi": "नेताओं को विशेष रूप से एक गैर-अधिसूचित प्रदर्शन स्थल, जंतर मंतर पर अतिक्रमण के आरोप में हिरासत में भेजा गया था।"
+          },
+          "section": "National Protests and Corporate Affairs in India",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6q8n09l1ny0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1
+        },
+        {
+          "id": "2026-10-15-2",
+          "prompt": {
+            "en": "What was the core demand of the protesters who climbed barricades in central Delhi?",
+            "hi": "मध्य दिल्ली में बैरिकेड पार करने वाले प्रदर्शनकारियों की मुख्य मांग क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To demand the resignation of the election chief over revised voter lists",
+                "hi": "संशोधित मतदाता सूचियों को लेकर चुनाव प्रमुख के इस्तीफे की मांग करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To protest against new corporate tax reforms",
+                "hi": "नए कॉर्पोरेट कर सुधारों के खिलाफ विरोध प्रदर्शन करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To demand a complete lockdown of Delhi",
+                "hi": "दिल्ली के पूर्ण लॉकडाउन की मांग करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To protest against higher fuel prices",
+                "hi": "ईंधन की अधिक कीमतों के खिलाफ विरोध प्रदर्शन करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Protesters demanded that the election chief resign over revised voter lists.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+            "hi": "प्रदर्शनकारियों ने मांग की कि संशोधित मतदाता सूचियों को लेकर चुनाव प्रमुख इस्तीफा दें।"
+          },
+          "section": "National Protests and Corporate Affairs in India",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1
+        },
+        {
+          "id": "2026-10-15-3",
+          "prompt": {
+            "en": "What aspects of the Indian conglomerate are called into question by the boardroom dispute?",
+            "hi": "बोर्डरूम विवाद द्वारा भारतीय समूह के किन पहलुओं पर सवाल उठाए जाते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Governance, succession plans and future",
+                "hi": "शासन, उत्तराधिकार योजनाएं और भविष्य"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "International trade policy and tariffs",
+                "hi": "अंतर्राष्ट्रीय व्यापार नीति और शुल्क"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Environmental compliance and green energy credits",
+                "hi": "पर्यावरणीय अनुपालन और हरित ऊर्जा क्रेडिट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Workforce diversity and labor laws",
+                "hi": "कार्यबल विविधता और श्रम कानून"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The dispute raises questions concerning the Indian conglomerate's governance, succession plans, and future.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+            "hi": "यह विवाद भारतीय समूह के शासन, उत्तराधिकार योजनाओं और भविष्य के संबंध में सवाल खड़े करता है।"
+          },
+          "section": "National Protests and Corporate Affairs in India",
+          "source_label": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "India's 'cockroach' leaders jailed after holding protest",
+      "url": "https://www.bbc.co.uk/news/articles/c6q8n09l1ny0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T07:05:32+00:00"
+    },
+    {
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T07:31:10+00:00"
+    },
+    {
+      "title": "Boardroom feud tests trusted Indian business empire",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T23:10:32+00:00"
+    },
+    {
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T15:19:17+00:00"
+    },
+    {
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T17:46:30+00:00"
+    },
+    {
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T16:47:32+00:00"
+    },
+    {
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T15:54:04+00:00"
+    },
+    {
+      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T11:04:12+00:00"
+    },
+    {
+      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T13:45:34+00:00"
+    },
+    {
+      "title": "How long will humans be needed for translation?",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:05:29+00:00"
+    },
+    {
+      "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
+      "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T14:13:37+00:00"
+    },
+    {
+      "title": "More tea? How Scotland's crops of the future could be set to change",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T05:02:27+00:00"
+    },
+    {
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T05:00:35+00:00"
+    },
+    {
+      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+      "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:55:49+00:00"
+    },
+    {
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:26:54+00:00"
+    },
+    {
+      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T11:18:44+00:00"
+    }
+  ]
+}
