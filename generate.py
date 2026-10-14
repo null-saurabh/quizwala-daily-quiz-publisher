@@ -144,7 +144,7 @@ Return JSON only: {"sets":[{"title":"...","questions":[{"source_id":"1","evidenc
 {"id":"b","text":{"en":"..."}},{"id":"c","text":{"en":"..."}},{"id":"d","text":{"en":"..."}}],
 "correct_option_id":"a","explanation":{"en":"...","hi":"..."}}]}]}.
 Stay within the output budget, complete valid JSON rather than truncating. Date: '''+TODAY+'\n'+json.dumps(evidence, ensure_ascii=False)
-    body = {'contents':[{'parts':[{'text':prompt}]}], 'generationConfig':{
+    body = {'contents':[{'role':'user','parts':[{'text':prompt}]}], 'generationConfig':{
         'responseMimeType':'application/json', 'maxOutputTokens':6000, 'temperature':0.3}}
     request = urllib.request.Request('https://aiplatform.googleapis.com/v1/projects/project-2af1ec64-67d0-4b99-b40/locations/global/publishers/google/models/'+MODEL+':generateContent',
         data=json.dumps(body).encode(), headers={'Content-Type':'application/json','Authorization':'Bearer '+token}, method='POST')
@@ -153,7 +153,8 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
         with urllib.request.urlopen(request, timeout=150) as response:
             result = json.load(response)
     except urllib.error.HTTPError as error:
-        raise SystemExit(f'AI request failed (HTTP {error.code}); no retry, previous briefing retained.') from None
+        detail = error.read(4000).decode('utf-8', errors='replace')
+        raise SystemExit(f'AI request failed (HTTP {error.code}): {detail}; no automatic retry.') from None
     candidate = result.get('candidates', [{}])[0]
     if candidate.get('finishReason') != 'STOP':
         raise SystemExit('Incomplete response; no publication and no retry.')
