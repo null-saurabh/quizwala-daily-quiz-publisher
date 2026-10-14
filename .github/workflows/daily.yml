@@ -1,0 +1,48 @@
+name: Daily current affairs
+on:
+  schedule:
+    - cron: '30 0 * * *' # 06:00 Asia/Kolkata; GitHub can delay scheduled runs.
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-quiz
+  cancel-in-progress: false
+jobs:
+  generate:
+    if: vars.FREE_TIER_CONFIRMED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Reserve today's single request before calling AI
+        id: reserve
+        env:
+          FREE_KEY: ${{ secrets.GEMINI_FREE_API_KEY }}
+        run: |
+          if [ -z "$FREE_KEY" ]; then echo 'Configure the free-tier API key first.'; exit 1; fi
+          DAY=$(TZ=Asia/Kolkata date +%F)
+          if [ -e "state/$DAY.json" ]; then echo 'Already attempted today; no repeat API call.'; exit 0; fi
+          mkdir -p state
+          printf '{"date":"%s","status":"reserved"}\n' "$DAY" > "state/$DAY.json"
+          git config user.name 'Recall daily publisher'
+          git config user.email 'daily-publisher@users.noreply.github.com'
+          git add state
+          git commit -m "Reserve daily generation $DAY"
+          git push
+          echo "day=$DAY" >> "$GITHUB_OUTPUT"
+      - name: Generate once from public news excerpts
+        if: steps.reserve.outputs.day != ''
+        env:
+          FREE_TIER_CONFIRMED: ${{ vars.FREE_TIER_CONFIRMED }}
+          GEMINI_FREE_API_KEY: ${{ secrets.GEMINI_FREE_API_KEY }}
+          RESERVED_DATE: ${{ steps.reserve.outputs.day }}
+        run: python3 generate.py
+      - name: Publish validated data
+        if: success() && steps.reserve.outputs.day != ''
+        run: |
+          git add site state
+          git commit -m 'Publish daily briefing'
+          git push
