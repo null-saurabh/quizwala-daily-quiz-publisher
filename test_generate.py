@@ -108,7 +108,7 @@ class DailyGenerationTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             (root / 'site').mkdir()
-            (root / 'site/latest.json').write_text(json.dumps({'date': '2026-10-21', 'status': 'ready', 'preview': True, 'sets': []}))
+            (root / 'site/latest.json').write_text(json.dumps({'date': '2026-10-21', 'status': 'ready', 'sets': []}))
             generate.publish(publication(EDITION_DATE), root)
             self.assertEqual(json.loads((root / 'site/history.json').read_text())['editions'], [])
             self.assertFalse((root / 'site/editions/2026-10-21.json').exists())
@@ -172,7 +172,7 @@ class DailyGenerationTests(unittest.TestCase):
             root = Path(directory)
             payload = publication(EDITION_DATE)
             payload['sets'][0]['questions'] = payload['sets'][0]['questions'][:8]
-            with self.assertRaisesRegex(ValueError, 'at least 3'):
+            with self.assertRaisesRegex(ValueError, 'at least one complete set'):
                 generate.publish(payload, root)
             payload = publication(EDITION_DATE)
             payload['sets'][1]['questions'][0]['prompt'] = payload['sets'][0]['questions'][0]['prompt']

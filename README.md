@@ -38,8 +38,8 @@ attempt budget. A complete published edition makes further reservations no-ops.
 The publisher owns the generation contract, independently of Flutter. Responses
 are source/schema validated, then unique questions are merged into
 `state/candidates/DATE.json`. Existing candidate questions and IDs are preserved.
-No public edition is written until **all retained sets have at least 10 unique
-questions and there are at least 3 sets**. Incomplete topics are not discarded.
+A public edition is written as soon as **at least one retained set has 10 unique
+questions**. Complete sets publish while underfilled topics remain in candidate state for later top-ups.
 The 10–15 range is a target, not an upper bound: unique extra questions survive.
 The complete edition is published once; its set order, question IDs and wave
 assignment are then immutable. This avoids invalidating existing app attempts.
@@ -64,9 +64,9 @@ complete question object from decoding, a later attempt starts without it.
 Workflow cancellation or a failed Git push can prevent candidate persistence;
 inspect/recover the available runner state before retrying in that situation.
 
-Each Flash-Lite request uses at most 18 source excerpts / 24,000 output tokens. Each edition has at least 3 distinct topics with at least 10 validated questions each, normally 10–15. Typical editions have 30–60 questions; more topics may exceed 60 without shrinking topic sets. PIB, Akashvani and BBC News RSS provide public current news without paid search grounding. Only sources dated within 72 hours are accepted. Source quote matching and schema checks reject unsupported/malformed items; this is not an independent fact check. No complete articles are republished.
+Each Flash-Lite request uses at most 18 source excerpts / 24,000 output tokens. Generation aims for at least 3 distinct topics, normally 10–15 questions each; one complete 10-question topic is enough to publish when other topics are incomplete. Typical editions have 30–60 questions; more topics may exceed 60 without shrinking topic sets. PIB, Akashvani and BBC News RSS provide public current news without paid search grounding. Only sources dated within 72 hours are accepted. Source quote matching and schema checks reject unsupported/malformed items; this is not an independent fact check. No complete articles are republished.
 
-All topic sets are stored together in `site/latest.json` when the candidate meets the publication minimum. The publisher assigns balanced release waves at 06:30, 13:00 and 18:00 Asia/Kolkata; any remainder goes to later waves. The app uses each set's `release_at` timestamp to show upcoming topics and unlock them on device. No AI request or backend job runs at release time. Released sets remain in the saved edition until the next edition's first release at 06:30 IST; publishing tomorrow early does not remove today.
+All topic sets are stored together in `site/latest.json` when the candidate has at least one complete set. The publisher assigns balanced release waves at 06:30, 13:00 and 18:00 Asia/Kolkata; any remainder goes to later waves. The app uses each set's `release_at` timestamp to show upcoming topics and unlock them on device. No AI request or backend job runs at release time. Released sets remain in the saved edition until the next edition's first release at 06:30 IST; publishing tomorrow early does not remove today.
 
 `site/latest.json` is the published feed. The app can read it through GitHub raw content; Pages supplies a readable public landing page. No Cloud Run or Cloud Scheduler job is required.
 
@@ -80,10 +80,4 @@ and tomorrow (only after all of today's sets are live) when prepared. These
 feeds are served from GitHub raw content;
 Firebase and the main API backend do not store these editions.
 
-Development history starts empty. Earlier dated test content is marked
-`preview: true` and is ignored by the normal app feed loader. It is not copied
-into the real edition archive. Local-only preview mode uses bundled fixtures.
-No real historical editions are required for development acceptance.
-
-The app and publisher changes remain local until deliberately released together.
-No production generation or deployment was triggered during this audit.
+The app loads published editions only; no bundled daily quiz sample is shipped.
