@@ -1,0 +1,639 @@
+{
+  "date": "2026-10-22",
+  "sets": [
+    {
+      "title": "Corporate and Financial News",
+      "source_filename": "daily-2026-10-22.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "How much does Jio's share sale aim to raise?",
+            "hi": "जियो की शेयर बिक्री से कितनी राशि जुटाने का लक्ष्य है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$3.2bn",
+                "hi": "$3.2 अरब"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$18bn",
+                "hi": "$18 अरब"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$25bn",
+                "hi": "$25 अरब"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$1bn",
+                "hi": "$1 अरब"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Jio's mega share sale aims to raise $3.2bn.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+            "hi": "जियो की मेगा शेयर बिक्री का लक्ष्य $3.2 अरब जुटाना है।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-1"
+        },
+        {
+          "prompt": {
+            "en": "What is notable about the $25bn fine levied against Meta?",
+            "hi": "मेटा पर लगाए गए $25 अरब के जुर्माने के बारे में क्या उल्लेखनीय है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is the smallest fine to date",
+                "hi": "यह अब तक का सबसे कम जुर्माना है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is larger than an $18bn deal with California",
+                "hi": "यह कैलिफोर्निया के साथ $18 अरब के समझौते से बड़ा है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It was issued by the Indian government",
+                "hi": "इसे भारत सरकार द्वारा जारी किया गया था"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It relates to a tax violation",
+                "hi": "यह कर उल्लंघन से संबंधित है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The $25bn fine is larger than an $18bn deal with California.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+            "hi": "$25 अरब का जुर्माना कैलिफोर्निया के साथ $18 अरब के समझौते से बड़ा है।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-2"
+        },
+        {
+          "prompt": {
+            "en": "What did Elon Musk state about the potential merger of SpaceX and Tesla?",
+            "hi": "एलन मस्क ने स्पेसएक्स और टेस्ला के संभावित विलय के बारे में क्या कहा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "There is a lot to be gained",
+                "hi": "बहुत कुछ हासिल किया जाना बाकी है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It would be illegal",
+                "hi": "यह अवैध होगा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It will fail",
+                "hi": "यह असफल हो जाएगा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "No financial gain is expected",
+                "hi": "कोई वित्तीय लाभ की उम्मीद नहीं है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Musk noted there is a lot to be gained by combining the firms.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+            "hi": "मस्क ने उल्लेख किया कि दोनों फर्मों को मिलाने से बहुत कुछ हासिल किया जा सकता है।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-3"
+        },
+        {
+          "prompt": {
+            "en": "From which date does Airbnb's updated policy regarding guest chores apply?",
+            "hi": "मेहमानों के घरेलू कामों से संबंधित Airbnb की अद्यतन नीति किस तारीख से लागू होगी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "20 November",
+                "hi": "20 नवंबर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "21 October",
+                "hi": "21 अक्टूबर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "1 December",
+                "hi": "1 दिसंबर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "19 October",
+                "hi": "19 अक्टूबर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The updated policy applies to reservations booked on or after 20 November.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+            "hi": "अद्यतन नीति 20 नवंबर या उसके बाद बुक की गई आरक्षितियों पर लागू होती है।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-4"
+        },
+        {
+          "prompt": {
+            "en": "What has the UK Treasury calculated for the first time?",
+            "hi": "ब्रिटिश राजकोष (Treasury) ने पहली बार क्या गणना की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "How much the UK could have raised by investing North Sea proceeds",
+                "hi": "यूके ने उत्तर सागर आय का निवेश करके कितना जुटाया हो सकता था"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The exact cost of the Jackdaw project",
+                "hi": "जैकडाव परियोजना की सटीक लागत"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The total carbon emissions of Indonesia",
+                "hi": "इंडोनेशिया का कुल कार्बन उत्सर्जन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The global price of PHP programming",
+                "hi": "PHP प्रोग्रामिंग की वैश्विक कीमत"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Treasury calculated how much the UK could have raised by investing North Sea proceeds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+            "hi": "राजकोष ने गणना की कि यूके उत्तर सागर से प्राप्त आय का निवेश करके कितना धन जुटा सकता था।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-5"
+        },
+        {
+          "prompt": {
+            "en": "Jio's share sale represents which type of offering in the context of recent market activity?",
+            "hi": "हालिया बाजार गतिविधि के संदर्भ में जियो की शेयर बिक्री किस प्रकार की पेशकश का प्रतिनिधित्व करती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India's second mega IPO in a month",
+                "hi": "एक महीने में भारत का दूसरा मेगा आईपीओ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The first public offering of a space firm",
+                "hi": "किसी अंतरिक्ष फर्म का पहला सार्वजनिक निर्गम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A government-backed bond",
+                "hi": "सरकार समर्थित बॉन्ड"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An emergency bailout fund",
+                "hi": "एक आपातकालीन राहत कोष"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "It is India's second mega IPO in a month.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+            "hi": "यह एक महीने में भारत का दूसरा मेगा आईपीओ है।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-6"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason Meta was fined $25bn?",
+            "hi": "मेटा पर $25 अरब का जुर्माना लगाने का मुख्य कारण क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lies over user data privacy",
+                "hi": "उपयोगकर्ता डेटा गोपनीयता पर 'झूठ'"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Tax evasion in California",
+                "hi": "कैलिफोर्निया में कर चोरी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Unauthorised satellite launches",
+                "hi": "अनधिकृत उपग्रह प्रक्षेपण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "failing to pay its employees",
+                "hi": "अपने कर्मचारियों को भुगतान करने में विफल रहना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Meta was fined for lies over user data privacy.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+            "hi": "मेटा पर यूजर डेटा प्राइवेसी को लेकर झूठ बोलने के लिए जुर्माना लगाया गया।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-7"
+        },
+        {
+          "prompt": {
+            "en": "Which two companies are involved in the mega-merger plotted by Elon Musk?",
+            "hi": "एलन मस्क द्वारा रचे गए मेगा-विलय में कौन सी दो कंपनियां शामिल हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "SpaceX and Tesla",
+                "hi": "स्पेसएक्स और टेस्ला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Meta and Facebook",
+                "hi": "मेटा और फेसबुक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jio and GE Aerospace",
+                "hi": "जियो और जी एयरोस्पेस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "NASA and Treasury",
+                "hi": "नासा और ट्रेजरी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The merger involves SpaceX and Tesla.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+            "hi": "इस विलय में स्पेसएक्स और टेस्ला शामिल हैं।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-8"
+        },
+        {
+          "prompt": {
+            "en": "Under Airbnb's new rules, what are hosts no longer allowed to make guests do?",
+            "hi": "Airbnb के नए नियमों के तहत, मेजबान अब मेहमानों से क्या नहीं करवा सकते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Strip beds and wash dishes",
+                "hi": "बिस्तरों से चादरें हटाना और बर्तन धोना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Pay booking fees in advance",
+                "hi": "बुकिंग शुल्क का अग्रिम भुगतान करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Leave the property before noon",
+                "hi": "दोपहर से पहले संपत्ति छोड़ना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Review their stay online",
+                "hi": "अपने ठहरने की ऑनलाइन समीक्षा करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Hosts can no longer make guests strip beds and wash dishes.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+            "hi": "मेजबान अब मेहमानों से बिस्तर की चादरें हटाने और बर्तन धोने के लिए नहीं कह सकते।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-9"
+        },
+        {
+          "prompt": {
+            "en": "Whose proceeds were evaluated by the UK Treasury?",
+            "hi": "यूके ट्रेजरी द्वारा किसकी आय का मूल्यांकन किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "North Sea proceeds",
+                "hi": "उत्तर सागर की आय"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "SpaceX revenue",
+                "hi": "स्पेसएक्स का राजस्व"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jio share sales",
+                "hi": "जियो शेयर बिक्री"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Indonesia wildfire funds",
+                "hi": "इंडोनेशियाई जंगल की आग के फंड"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Treasury calculated based on North Sea proceeds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+            "hi": "राजकोष ने उत्तर सागर की आय के आधार पर गणना की।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-10"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T18:22:28+00:00",
+      "text": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
+    },
+    {
+      "id": "2",
+      "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T05:16:44+00:00",
+      "text": "India's second mega IPO in a month comes despite subdued equity markets and aims to raise $3.2bn."
+    },
+    {
+      "id": "3",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:04:08+00:00",
+      "text": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India."
+    },
+    {
+      "id": "4",
+      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T07:35:06+00:00",
+      "text": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd."
+    },
+    {
+      "id": "5",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:27:05+00:00",
+      "text": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
+    },
+    {
+      "id": "6",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T19:54:57+00:00",
+      "text": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+    },
+    {
+      "id": "7",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T21:49:07+00:00",
+      "text": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+    },
+    {
+      "id": "8",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:54:58+00:00",
+      "text": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+    },
+    {
+      "id": "9",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:12:06+00:00",
+      "text": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
+    },
+    {
+      "id": "10",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:04:03+00:00",
+      "text": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
+    },
+    {
+      "id": "11",
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:02:18+00:00",
+      "text": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade."
+    },
+    {
+      "id": "12",
+      "title": "Pupils who designed a badge sent to space meet NASA astronaut",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T19:39:38+00:00",
+      "text": "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space."
+    },
+    {
+      "id": "13",
+      "title": "Fuel leak which killed fish in River Taff stopped",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T18:28:06+00:00",
+      "text": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby."
+    },
+    {
+      "id": "14",
+      "title": "Will Jackdaw cut your energy bills?",
+      "url": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T16:17:49+00:00",
+      "text": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills."
+    },
+    {
+      "id": "15",
+      "title": "Orionid meteor shower to peak in UK skies into Thursday",
+      "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T15:44:20+00:00",
+      "text": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+    },
+    {
+      "id": "16",
+      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T11:57:49+00:00",
+      "text": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
+    }
+  ]
+}
