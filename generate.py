@@ -60,7 +60,7 @@ def clean(value):
 
 
 def read_url(url):
-    request = urllib.request.Request(url, headers={'User-Agent': 'RecallDaily/1.0 (public education RSS reader)'})
+    request = urllib.request.Request(url, headers={'User-Agent': 'QuizwalaDaily/1.0 (public education RSS reader)'})
     with urllib.request.urlopen(request, timeout=8) as response:
         raw = response.read(1_000_001)
         if len(raw) > 1_000_000:

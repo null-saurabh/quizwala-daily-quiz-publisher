@@ -1,4 +1,4 @@
-# Recall daily quizzes
+# Quizwala Daily Quiz Publisher
 
 Public quiz data and its generator only. No Flutter source, user material, credentials or private study history.
 
