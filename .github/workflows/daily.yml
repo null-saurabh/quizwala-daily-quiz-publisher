@@ -1,8 +1,15 @@
 name: Daily current affairs
 on:
   schedule:
-    - cron: '30 0 * * *' # 06:00 Asia/Kolkata; GitHub can delay scheduled runs.
+    - cron: '0 12 * * *' # 17:30 IST: prepare tomorrow using today's news.
+    - cron: '0 15 * * *' # 20:30 IST: automatic retry for an incomplete target.
+    - cron: '0 18 * * *' # 23:30 IST: final bounded automatic attempt.
   workflow_dispatch:
+    inputs:
+      edition_date:
+        description: 'Optional target date (YYYY-MM-DD); omit to resume the oldest incomplete edition'
+        required: false
+        type: string
 permissions:
   contents: write
   id-token: write
@@ -13,18 +20,19 @@ jobs:
   generate:
     if: vars.DAILY_GENERATION_ENABLED == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - name: Reserve today's single request before calling AI
+          ref: main
+      - name: Reserve the target edition before calling AI
         id: reserve
+        env:
+          EDITION_DATE: ${{ inputs.edition_date }}
         run: |
-          DAY=$(TZ=Asia/Kolkata date +%F)
-          if [ -e "state/$DAY.json" ]; then echo 'Already attempted today; no repeat API call.'; exit 0; fi
-          mkdir -p state
-          printf '{"date":"%s","status":"reserved"}\n' "$DAY" > "state/$DAY.json"
+          DAY=$(python3 generate.py --reserve)
+          if [ -z "$DAY" ]; then echo 'Edition complete or attempt budget exhausted.'; exit 0; fi
           git config user.name 'Recall daily publisher'
           git config user.email 'daily-publisher@users.noreply.github.com'
           git add state
@@ -47,10 +55,12 @@ jobs:
           DAILY_GENERATION_ENABLED: ${{ vars.DAILY_GENERATION_ENABLED }}
           VERTEX_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
           RESERVED_DATE: ${{ steps.reserve.outputs.day }}
+          EDITION_DATE: ${{ steps.reserve.outputs.day }}
         run: python3 generate.py
-      - name: Publish validated data
-        if: success() && steps.reserve.outputs.day != ''
+      - name: Persist candidate progress and validated publication
+        if: always() && steps.reserve.outputs.day != ''
         run: |
           git add site state
-          git commit -m 'Publish daily briefing'
+          git diff --cached --quiet && exit 0
+          git commit -m 'Save daily edition progress'
           git push

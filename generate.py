@@ -1,4 +1,4 @@
-"""One approved Vertex request per day; bounded public-source context, no AI retry."""
+"""One immutable edition per date; bounded, persistent candidate top-ups."""
 from concurrent.futures import ThreadPoolExecutor
 import datetime as dt
 import email.utils
@@ -7,15 +7,44 @@ import json
 import os
 from pathlib import Path
 import re
+import sys
+import unicodedata
+from difflib import SequenceMatcher
+from copy import deepcopy
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).parent
-TODAY = dt.datetime.now(ZoneInfo('Asia/Kolkata')).date().isoformat()
 MODEL = 'gemini-3.5-flash-lite'
 KOLKATA = ZoneInfo('Asia/Kolkata')
+
+
+def edition_for_run(now):
+    """Return tomorrow's date; evening runs can include today's news."""
+    return now.astimezone(KOLKATA).date() + dt.timedelta(days=1)
+
+
+def target_for_run(now, root=ROOT):
+    """Resume the oldest unpublished target before reserving a new tomorrow."""
+    state = root / 'state'
+    pending = []
+    if state.exists():
+        for marker in state.glob('????-??-??.json'):
+            try:
+                data = json.loads(marker.read_text())
+                day = dt.date.fromisoformat(marker.stem)
+            except (ValueError, OSError):
+                continue
+            if (data.get('date') == str(day) and data.get('status') != 'published'
+                    and data.get('attempts', 0) < MAX_ATTEMPTS
+                    and not (root / 'site' / 'editions' / f'{day}.json').exists()):
+                pending.append(day)
+    return min(pending) if pending else edition_for_run(now)
+
+
+EDITION_DAY = os.environ.get('EDITION_DATE') or edition_for_run(dt.datetime.now(dt.timezone.utc)).isoformat()
 RELEASE_TIMES = (dt.time(6, 30), dt.time(13, 0), dt.time(18, 0))
 FEEDS = [
     'https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1',
@@ -75,21 +104,60 @@ def sources():
     return result
 
 
-def validate(data, evidence, edition_date=None):
+MAX_ATTEMPTS = 3
+
+
+def normalized(text):
+    return ' '.join(re.findall(r'\w+', unicodedata.normalize('NFKC', clean(text)).casefold()))
+
+
+def duplicate(prompt, existing):
+    """Deterministic lexical near-duplicate filter, including reordered wording.
+
+    Distinct numbers are preserved to avoid conflating different years/amounts.
+    Semantic paraphrases with unrelated wording still require editorial review.
+    """
+    key = normalized(prompt)
+    stop = {'a', 'an', 'the', 'in', 'of', 'to', 'by', 'for', 'which', 'what', 'is', 'was', 'has'}
+    words = set(key.split()) - stop
+    numbers = re.findall(r'\d+', key)
+    for old in existing:
+        other = normalized(old)
+        if key == other:
+            return True
+        if numbers != re.findall(r'\d+', other):
+            continue
+        tokens = set(other.split()) - stop
+        union = words | tokens
+        if (len(words & tokens) >= 4 and union and len(words & tokens) / len(union) >= .7):
+            return True
+        if min(len(key), len(other)) >= 30 and SequenceMatcher(None, key, other).ratio() >= .9:
+            return True
+    return False
+
+
+def atomic_json(path, value):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(path.suffix + '.tmp')
+    temporary.write_text(json.dumps(value, ensure_ascii=False, indent=2))
+    temporary.replace(path)
+
+
+def validate(data, evidence, edition_date=None, *, partial=False, previous=()):
     if not isinstance(data, dict) or not isinstance(data.get('sets'), list):
         raise ValueError('Missing quiz sets')
     source_map = {s['id']: s for s in evidence}
-    edition_date = edition_date or dt.date.fromisoformat(TODAY)
-    decks, seen_questions, seen_topics, total = [], set(), set(), 0
+    edition_date = edition_date or dt.date.fromisoformat(EDITION_DAY)
+    decks, seen_questions, seen_topics, total = [], list(previous), set(), 0
     for block in data['sets']:
         if not isinstance(block, dict):
             continue
         title = str(block.get('title', '')).strip()[:100]
         topic_key = title.casefold()
-        if not title or topic_key in seen_topics:
+        if not title or (not partial and topic_key in seen_topics):
             continue
         ready = []
-        block_questions = set()
+        block_questions = []
         for q in block.get('questions', []):
             try:
                 source = source_map[str(q['source_id'])]
@@ -99,8 +167,8 @@ def validate(data, evidence, edition_date=None):
                 prompt = q['prompt']; options = q['options']; explanation = q['explanation']
                 if not isinstance(prompt, dict) or not isinstance(prompt.get('en'), str) or not prompt['en'].strip():
                     continue
-                signature = prompt['en'].strip().casefold()
-                if signature in seen_questions or signature in block_questions or not isinstance(options, list) or len(options) != 4:
+                signature = prompt['en']
+                if duplicate(signature, seen_questions + block_questions) or not isinstance(options, list) or len(options) != 4:
                     continue
                 if {o['id'] for o in options} != {'a','b','c','d'} or q['correct_option_id'] not in {'a','b','c','d'}:
                     continue
@@ -108,21 +176,19 @@ def validate(data, evidence, edition_date=None):
                     continue
                 if not isinstance(explanation, dict) or not isinstance(explanation.get('en'), str) or not explanation['en'].strip():
                     continue
-                block_questions.add(signature)
+                block_questions.append(signature)
                 ready.append({'prompt': prompt,
                     'options': [{'id': o['id'], 'label': o['id'].upper(), 'text': o['text']} for o in options],
                     'correct_option_id': q['correct_option_id'],
                     'explanation': {'en': explanation['en']+'\nSource: '+ ('BBC News · ' if 'bbc.' in source['url'] else '') +source['url'], 'hi': explanation.get('hi')},
                     'section': title,
                     'source_label': source['url'], 'status': 'ready', 'warnings': [], 'page': 1})
-                if len(ready) >= 15:
-                    break
             except (KeyError, TypeError, ValueError, AttributeError):
                 continue
-        if len(ready) < 10:
+        if not ready or (not partial and len(ready) < 10):
             continue
         seen_topics.add(topic_key)
-        seen_questions.update(block_questions)
+        seen_questions.extend(block_questions)
         for question in ready:
             total += 1
             question['id'] = f'{edition_date.isoformat()}-{total}'
@@ -130,10 +196,58 @@ def validate(data, evidence, edition_date=None):
             'source_filename': f'daily-{edition_date.isoformat()}.json', 'questions': ready,
             'quarantined': [],
             'warnings': ['AI-generated from linked public news sources. Check important facts against the source.']})
-    if len(decks) < 3:
+    if not partial and len(decks) < 3:
         raise ValueError('Fewer than three distinct topics with 10 source-backed questions each; previous edition retained')
-    assign_release_schedule(decks, edition_date)
+    if not partial:
+        assign_release_schedule(decks, edition_date)
     return decks
+
+
+def recover_complete_questions(raw):
+    """Recover fully closed question objects from truncated outer JSON only.
+
+    A question is accepted only when its whole object decodes independently;
+    the normal evidence, answer-shape and duplicate validation still follows.
+    A cut-off question object itself is never guessed or repaired.
+    """
+    headers = list(re.finditer(r'"title"\s*:\s*("(?:\\.|[^"\\])*")\s*,\s*"questions"\s*:\s*\[', raw))
+    recovered = []
+    for index, header in enumerate(headers):
+        end = headers[index + 1].start() if index + 1 < len(headers) else len(raw)
+        title = json.loads(header.group(1))
+        section = raw[header.end():end]
+        questions = []
+        for start, char in enumerate(section):
+            if char != '{':
+                continue
+            depth, quoted, escaped = 0, False, False
+            for cursor in range(start, len(section)):
+                token = section[cursor]
+                if quoted:
+                    if escaped:
+                        escaped = False
+                    elif token == '\\':
+                        escaped = True
+                    elif token == '"':
+                        quoted = False
+                    continue
+                if token == '"':
+                    quoted = True
+                elif token == '{':
+                    depth += 1
+                elif token == '}':
+                    depth -= 1
+                    if depth == 0:
+                        try:
+                            item = json.loads(section[start:cursor + 1])
+                        except json.JSONDecodeError:
+                            break
+                        if isinstance(item, dict) and {'source_id', 'evidence', 'prompt', 'options', 'correct_option_id', 'explanation'} <= item.keys():
+                            questions.append(item)
+                        break
+        if questions:
+            recovered.append({'title': title, 'questions': questions})
+    return {'sets': recovered}
 
 
 def assign_release_schedule(decks, edition_date):
@@ -171,16 +285,162 @@ def build_payload(decks, evidence, edition_date, generated_at):
     }
 
 
-def main():
+def publish(payload, root=ROOT):
+    """Keep immutable editions and a bounded archive for new app installations."""
+    site = root / 'site'
+    archive = site / 'editions'
+    archive.mkdir(parents=True, exist_ok=True)
+    day = dt.date.fromisoformat(payload['date'])
+    target = archive / f'{day}.json'
+    if target.exists():
+        raise ValueError('Edition already published')
+    decks = payload.get('sets', [])
+    if payload.get('preview') or len(decks) < 3 or any(len(d['questions']) < 10 for d in decks):
+        raise ValueError('Publication requires at least 3 real sets with 10 questions each')
+    seen, ids = [], set()
+    for deck in decks:
+        for question in deck['questions']:
+            if question['id'] in ids or duplicate(question['prompt']['en'], seen):
+                raise ValueError('Duplicate question in publication')
+            seen.append(question['prompt']['en'])
+            ids.add(question['id'])
+    if any(duplicate(prompt, previous_prompts(day, root)) for prompt in seen):
+        raise ValueError('Question repeats the previous edition')
+    scheduled = deepcopy(decks)
+    assign_release_schedule(scheduled, day)
+    if any(d.get('release_wave') != expected['release_wave'] or
+           d.get('release_at') != expected['release_at'] for d, expected in zip(decks, scheduled)):
+        raise ValueError('Invalid release schedule')
+    latest = site / 'latest.json'
+    if latest.exists():
+        latest_data = json.loads(latest.read_text())
+        if not latest_data.get('preview') and latest_data.get('date', '') > str(day):
+            raise ValueError('Cannot replace a newer feed with an older edition')
+
+    encoded = json.dumps(payload, ensure_ascii=False, indent=2)
+    if len(encoded.encode()) > 2_000_000:
+        raise ValueError('Publication too large; retained candidate is unchanged')
+    atomic_json(target, payload)
+    editions = []
+    # Tomorrow may be published while today is still live. Keep eight prior
+    # dates so both today and tomorrow can expose seven previous calendar days.
+    for offset in range(1, 9):
+        path = archive / f'{day - dt.timedelta(days=offset)}.json'
+        if path.exists():
+            editions.append(json.loads(path.read_text()))
+    (site / 'history.json').write_text(json.dumps({'editions': editions}, ensure_ascii=False))
+    latest.write_text(encoded)
+
+
+def reserve_attempt(edition_date, root=ROOT):
+    """Persist/commit this reservation before an API call; at most three per date."""
+    marker = root / 'state' / f'{edition_date}.json'
+    if (root / 'site' / 'editions' / f'{edition_date}.json').exists():
+        return None
+    old = json.loads(marker.read_text()) if marker.exists() else {}
+    count = old.get('attempts', 1 if old else 0)
+    if count >= MAX_ATTEMPTS or old.get('status') == 'published':
+        return None
+    attempt = count + 1
+    atomic_json(marker, {'date': str(edition_date), 'status': 'reserved', 'attempts': attempt})
+    return attempt
+
+
+def claim_generation(edition_date, root=ROOT):
+    marker = root / 'state' / f'{edition_date}.json'
+    try:
+        reservation = json.loads(marker.read_text())
+    except (OSError, ValueError):
+        raise SystemExit('A valid daily reservation is required.') from None
+    attempt = reservation.get('attempts', 1)
+    if (reservation.get('date') != str(edition_date) or reservation.get('status') != 'reserved'
+            or not isinstance(attempt, int) or not 1 <= attempt <= MAX_ATTEMPTS):
+        raise SystemExit('Daily reservation is not available.')
+    if (root / 'site' / 'editions' / f'{edition_date}.json').exists():
+        raise SystemExit('Edition already published.')
+    try:
+        with (root / 'state' / f'{edition_date}.request-{attempt}.json').open('x') as claimed:
+            json.dump({'date': str(edition_date), 'attempt': attempt}, claimed)
+    except FileExistsError:
+        raise SystemExit('This attempt was already attempted; reserve a bounded retry.') from None
+    return attempt
+
+
+def previous_prompts(edition_date, root=ROOT):
+    path = root / 'site' / 'editions' / f'{edition_date - dt.timedelta(days=1)}.json'
+    if not path.exists():
+        return []
+    payload = json.loads(path.read_text())
+    if payload.get('preview'):
+        return []
+    return [q['prompt']['en'] for deck in payload['sets'] for q in deck['questions']]
+
+
+def merge_candidate(incoming, evidence, edition_date, root=ROOT):
+    """Append unique valid questions; no previously retained question is mutated."""
+    path = root / 'state' / 'candidates' / f'{edition_date}.json'
+    candidate = json.loads(path.read_text()) if path.exists() else {'date': str(edition_date), 'sets': [], 'sources': []}
+    decks = candidate['sets']
+    blocked = previous_prompts(edition_date, root)
+    blocked += [q['prompt']['en'] for deck in decks for q in deck['questions']]
+    next_id = max([int(q['id'].rsplit('-', 1)[1]) for deck in decks for q in deck['questions']] or [0])
+    for incoming_deck in incoming:
+        deck = next((d for d in decks if normalized(d['title']) == normalized(incoming_deck['title'])), None)
+        for question in incoming_deck['questions']:
+            if duplicate(question['prompt']['en'], blocked):
+                continue
+            if deck is None:
+                deck = deepcopy(incoming_deck)
+                deck['questions'] = []
+                decks.append(deck)
+            saved = deepcopy(question)
+            next_id += 1
+            saved['id'] = f'{edition_date}-{next_id}'
+            deck['questions'].append(saved)
+            blocked.append(saved['prompt']['en'])
+    known = {source['url'] for source in candidate['sources']}
+    candidate['sources'].extend(source for source in evidence if source['url'] not in known)
+    atomic_json(path, candidate)
+    return candidate
+
+
+def candidate_payload(candidate, edition_date):
+    # Keep underfilled topics in state for future top-ups. Only publish once all
+    # retained topics meet the minimum; no valid question disappears at release.
+    decks = deepcopy(candidate['sets'])
+    if len(decks) < 3 or any(len(deck['questions']) < 10 for deck in decks):
+        raise ValueError('Incomplete edition retained for top-up: need at least 3 sets, each with 10 unique questions.')
+    assign_release_schedule(decks, edition_date)
+    return build_payload(decks, candidate['sources'], edition_date, dt.datetime.now(dt.timezone.utc))
+
+
+def main(root=ROOT):
     if os.environ.get('DAILY_GENERATION_ENABLED') != 'true':
         raise SystemExit('Daily generation is disabled.')
     token = os.environ.get('VERTEX_ACCESS_TOKEN')
     if not token:
         raise SystemExit('Short-lived Vertex identity is missing.')
-    marker = ROOT/'state'/f'{TODAY}.json'
+    marker = root/'state'/f'{EDITION_DAY}.json'
     # Workflow commits the marker BEFORE making the API request: reruns cannot double spend.
-    if os.environ.get('RESERVED_DATE') != TODAY:
+    if os.environ.get('RESERVED_DATE') != EDITION_DAY:
         raise SystemExit('A committed daily reservation is required.')
+    if (root / 'site' / 'editions' / f'{EDITION_DAY}.json').exists():
+        raise SystemExit('Edition already published; no repeat API call.')
+    edition_date = dt.date.fromisoformat(EDITION_DAY)
+    candidate_path = root / 'state' / 'candidates' / f'{EDITION_DAY}.json'
+    if candidate_path.exists():
+        retained = json.loads(candidate_path.read_text())
+        try:
+            recovered_payload = candidate_payload(retained, edition_date)
+        except ValueError:
+            pass  # Incomplete: retain it and request only a bounded top-up.
+        else:
+            publish(recovered_payload, root)
+            reservation = json.loads(marker.read_text())
+            reservation['status'] = 'published'
+            atomic_json(marker, reservation)
+            print('Published retained candidate without another AI request.')
+            return
     evidence = sources()
     if len(evidence) < 3:
         raise SystemExit('Not enough fresh evidence. No AI call made; previous briefing retained.')
@@ -197,36 +457,52 @@ Return JSON only: {"sets":[{"title":"...","questions":[{"source_id":"1","evidenc
 "prompt":{"en":"...","hi":"..."},"options":[{"id":"a","text":{"en":"...","hi":"..."}},
 {"id":"b","text":{"en":"..."}},{"id":"c","text":{"en":"..."}},{"id":"d","text":{"en":"..."}}],
 "correct_option_id":"a","explanation":{"en":"...","hi":"..."}}]}]}.
-    Stay within the output budget, complete valid JSON rather than truncating. Date: '''+TODAY+'\n'+json.dumps(evidence, ensure_ascii=False)
+    Stay within the output budget, complete valid JSON rather than truncating. Date: '''+EDITION_DAY+'\n'+json.dumps(evidence, ensure_ascii=False)
+    candidate_path = root / 'state' / 'candidates' / f'{EDITION_DAY}.json'
+    retained = json.loads(candidate_path.read_text()) if candidate_path.exists() else {'sets': []}
+    prompt += '\nExisting topics to top up (keep these titles): ' + json.dumps([
+        {'title': deck['title'], 'count': len(deck['questions'])} for deck in retained['sets']])
+    prompt += '\nDo not repeat these retained or previous-day prompts: ' + json.dumps(
+        [q['prompt']['en'] for deck in retained['sets'] for q in deck['questions']] + previous_prompts(edition_date, root))
     body = {'contents':[{'role':'user','parts':[{'text':prompt}]}], 'generationConfig':{
         'responseMimeType':'application/json', 'maxOutputTokens':24000, 'temperature':0.3}}
     request = urllib.request.Request('https://aiplatform.googleapis.com/v1/projects/project-2af1ec64-67d0-4b99-b40/locations/global/publishers/google/models/'+MODEL+':generateContent',
         data=json.dumps(body).encode(), headers={'Content-Type':'application/json','Authorization':'Bearer '+token}, method='POST')
-    # Exactly one approved Vertex HTTP attempt. No alternate model, project or automatic retry.
+    attempt = claim_generation(edition_date, root)
+    # One HTTP request per reserved attempt. A later workflow can top up (max 3).
     try:
         with urllib.request.urlopen(request, timeout=150) as response:
             result = json.load(response)
     except urllib.error.HTTPError as error:
         detail = error.read(4000).decode('utf-8', errors='replace')
         raise SystemExit(f'AI request failed (HTTP {error.code}): {detail}; no automatic retry.') from None
+    atomic_json(root / 'state' / 'responses' / f'{EDITION_DAY}-{attempt}.json', result)
     candidate = result.get('candidates', [{}])[0]
-    if candidate.get('finishReason') != 'STOP':
-        raise SystemExit('Incomplete response; no publication and no retry.')
     raw = ''.join(p.get('text','') for p in candidate.get('content',{}).get('parts',[]) if not p.get('thought'))
-    decks = validate(json.loads(raw), evidence)
-    payload = build_payload(
-        decks,
-        evidence,
-        dt.date.fromisoformat(TODAY),
-        dt.datetime.now(dt.timezone.utc),
-    )
-    encoded = json.dumps(payload, ensure_ascii=False, indent=2)
-    if len(encoded.encode()) > 2_000_000:
-        raise ValueError('Publication too large')
-    (ROOT/'site'/'latest.json').write_text(encoded)
-    marker.write_text(json.dumps({'date':TODAY,'status':'published','questions':sum(len(s['questions']) for s in decks)}))
+    # Parseable valid questions from incomplete responses are retained too.
+    try:
+        response_data = json.loads(raw)
+    except json.JSONDecodeError:
+        response_data = recover_complete_questions(raw)
+    if not response_data.get('sets'):
+        raise ValueError('No complete questions could be recovered; raw response retained for a later attempt.')
+    decks = validate(response_data, evidence, edition_date, partial=True,
+                     previous=previous_prompts(edition_date, root))
+    retained = merge_candidate(decks, evidence, edition_date, root)
+    payload = candidate_payload(retained, edition_date)
+    publish(payload, root)
+    atomic_json(marker, {'date': EDITION_DAY, 'status': 'published', 'attempts': attempt,
+                         'questions': sum(len(s['questions']) for s in payload['sets'])})
     payload_usage = result.get('usageMetadata', {})
-    print(f'Published {len(decks)} sets; one AI request; usage: {json.dumps(payload_usage)}')
+    print(f'Published {len(payload["sets"])} sets; attempt {attempt}; usage: {json.dumps(payload_usage)}')
 
 if __name__ == '__main__':
-    main()
+    if sys.argv[1:] == ['--edition-date']:
+        print(edition_for_run(dt.datetime.now(dt.timezone.utc)).isoformat())
+    elif sys.argv[1:] == ['--reserve']:
+        requested = os.environ.get('EDITION_DATE')
+        day = dt.date.fromisoformat(requested) if requested else target_for_run(dt.datetime.now(dt.timezone.utc))
+        if reserve_attempt(day) is not None:
+            print(day)
+    else:
+        main()

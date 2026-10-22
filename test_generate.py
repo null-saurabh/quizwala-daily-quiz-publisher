@@ -1,5 +1,10 @@
 import datetime as dt
 import unittest
+import tempfile
+import json
+import io
+from unittest.mock import patch
+from pathlib import Path
 
 import generate
 
@@ -33,7 +38,209 @@ def topic(index, count=10):
     return {'title': f'Topic {index}', 'questions': [question(index * 100 + n) for n in range(count)]}
 
 
+def publication(day):
+    # Different dates have distinct facts; this exercises cross-day filtering.
+    raw = {'sets': [topic(i + day.toordinal() * 10) for i in range(3)]}
+    decks = generate.validate(raw, EVIDENCE, day)
+    return generate.build_payload(decks, EVIDENCE, day, dt.datetime.now(dt.timezone.utc))
+
+
 class DailyGenerationTests(unittest.TestCase):
+    def test_evening_generation_targets_next_edition(self):
+        for instant in ['2026-10-21T12:00:00+00:00', '2026-10-21T15:00:00+00:00', '2026-10-21T18:00:00+00:00']:
+            self.assertEqual(generate.edition_for_run(dt.datetime.fromisoformat(instant)), EDITION_DATE)
+        self.assertEqual(generate.edition_for_run(dt.datetime.fromisoformat('2026-12-31T16:00:00+00:00')), dt.date(2027, 1, 1))
+        self.assertEqual(generate.edition_for_run(dt.datetime.fromisoformat('2028-02-28T16:00:00+00:00')), dt.date(2028, 2, 29))
+
+    def test_scheduled_retries_resume_oldest_incomplete_before_new_tomorrow(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            yesterday_target = EDITION_DATE - dt.timedelta(days=1)
+            generate.reserve_attempt(yesterday_target, root)
+            now = dt.datetime.fromisoformat('2026-10-22T05:05:00+00:00')  # 10:35 IST
+            self.assertEqual(generate.target_for_run(now, root), yesterday_target)
+            self.assertEqual(generate.reserve_attempt(generate.target_for_run(now, root), root), 2)
+            generate.reserve_attempt(yesterday_target + dt.timedelta(days=1), root)
+            self.assertEqual(generate.target_for_run(now, root), yesterday_target)
+            self.assertEqual(generate.reserve_attempt(yesterday_target, root), 3)
+            self.assertEqual(generate.target_for_run(now, root), yesterday_target + dt.timedelta(days=1))
+
+    def test_request_claim_requires_reservation_and_can_only_be_used_once(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            with self.assertRaisesRegex(SystemExit, 'reservation'):
+                generate.claim_generation(EDITION_DATE, root)
+            (root / 'state').mkdir()
+            marker = root / 'state' / f'{EDITION_DATE}.json'
+            marker.write_text(json.dumps({'date': str(EDITION_DATE), 'status': 'reserved'}))
+            generate.claim_generation(EDITION_DATE, root)
+            tomorrow = EDITION_DATE + dt.timedelta(days=1)
+            (root / 'state' / f'{tomorrow}.json').write_text(json.dumps({'date': str(tomorrow), 'status': 'reserved'}))
+            generate.claim_generation(tomorrow, root)
+            # Simulates a failed or interrupted request before publication.
+            with self.assertRaisesRegex(SystemExit, 'already attempted'):
+                generate.claim_generation(EDITION_DATE, root)
+
+    def test_published_or_wrong_day_reservations_cannot_trigger_generation(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'state').mkdir()
+            marker = root / 'state' / f'{EDITION_DATE}.json'
+            for date, status in [(str(EDITION_DATE), 'published'), ('2026-10-21', 'reserved')]:
+                marker.write_text(json.dumps({'date': date, 'status': status}))
+                with self.assertRaisesRegex(SystemExit, 'not available'):
+                    generate.claim_generation(EDITION_DATE, root)
+
+    def test_archive_keeps_history_for_today_and_early_published_tomorrow(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for offset in range(10):
+                day = EDITION_DATE + dt.timedelta(days=offset)
+                generate.publish(publication(day), root)
+            history = json.loads((root / 'site/history.json').read_text())['editions']
+            self.assertEqual(len(history), 8)
+            self.assertEqual(history[0]['date'], str(EDITION_DATE + dt.timedelta(days=8)))
+            self.assertEqual(history[-1]['date'], str(EDITION_DATE + dt.timedelta(days=1)))
+            with self.assertRaisesRegex(ValueError, 'already published'):
+                generate.publish(publication(day), root)
+
+    def test_first_real_publication_does_not_archive_development_latest(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'site').mkdir()
+            (root / 'site/latest.json').write_text(json.dumps({'date': '2026-10-21', 'status': 'ready', 'preview': True, 'sets': []}))
+            generate.publish(publication(EDITION_DATE), root)
+            self.assertEqual(json.loads((root / 'site/history.json').read_text())['editions'], [])
+            self.assertFalse((root / 'site/editions/2026-10-21.json').exists())
+
+    def test_partial_attempts_merge_without_changing_retained_ids_or_questions(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            first = generate.validate({'sets': [topic(1, 8), topic(2, 10)]}, EVIDENCE, EDITION_DATE, partial=True)
+            retained = generate.merge_candidate(first, EVIDENCE, EDITION_DATE, root)
+            snapshot = json.loads(json.dumps(retained['sets']))
+            with self.assertRaisesRegex(ValueError, 'Incomplete'):
+                generate.candidate_payload(retained, EDITION_DATE)
+            retry = generate.validate({'sets': [topic(1, 16), topic(2, 12), topic(3, 11)]}, EVIDENCE, EDITION_DATE, partial=True)
+            retained = generate.merge_candidate(retry, EVIDENCE, EDITION_DATE, root)
+            for deck, old in zip(retained['sets'], snapshot):
+                self.assertEqual(deck['questions'][:len(old['questions'])], old['questions'])
+            payload = generate.candidate_payload(retained, EDITION_DATE)
+            self.assertEqual([len(d['questions']) for d in payload['sets']], [16, 12, 11])
+            generate.publish(payload, root)
+            before = (root / 'site/latest.json').read_bytes()
+            self.assertIsNone(generate.reserve_attempt(EDITION_DATE, root))
+            with self.assertRaisesRegex(ValueError, 'already published'):
+                generate.publish(payload, root)
+            self.assertEqual((root / 'site/latest.json').read_bytes(), before)
+
+    def test_retries_bounded_per_edition_and_next_date_independent(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for attempt in range(1, 4):
+                self.assertEqual(generate.reserve_attempt(EDITION_DATE, root), attempt)
+                self.assertEqual(generate.claim_generation(EDITION_DATE, root), attempt)
+                with self.assertRaisesRegex(SystemExit, 'already attempted'):
+                    generate.claim_generation(EDITION_DATE, root)
+            self.assertIsNone(generate.reserve_attempt(EDITION_DATE, root))
+            self.assertEqual(generate.reserve_attempt(EDITION_DATE + dt.timedelta(days=1), root), 1)
+
+    def test_normalized_and_near_duplicates_across_attempts_and_previous_day(self):
+        prompt = 'Which Indian institution launched the national research programme?'
+        for variant in [prompt.upper(), 'Which Indian institution launched the national research programme!!!',
+                        'Which institution in India launched the national research programme?']:
+            self.assertTrue(generate.duplicate(variant, [prompt]))
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            prior = publication(EDITION_DATE - dt.timedelta(days=1))
+            generate.publish(prior, root)
+            previous = generate.previous_prompts(EDITION_DATE, root)
+            raw = question(999)
+            raw['prompt']['en'] = previous[0].upper()
+            parsed = generate.validate({'sets': [{'title': 'Repeated', 'questions': [raw]}]}, EVIDENCE, EDITION_DATE, partial=True, previous=previous)
+            self.assertEqual(parsed, [])
+            raw['prompt']['en'] = prompt
+            parsed = generate.validate({'sets': [{'title': 'Topic', 'questions': [raw]}]}, EVIDENCE, EDITION_DATE, partial=True)
+            retained = generate.merge_candidate(parsed, EVIDENCE, EDITION_DATE, root)
+            raw['prompt']['en'] = prompt.upper() + '!'
+            parsed = generate.validate({'sets': [{'title': 'Different topic', 'questions': [raw]}]}, EVIDENCE, EDITION_DATE, partial=True)
+            retained = generate.merge_candidate(parsed, EVIDENCE, EDITION_DATE, root)
+            self.assertEqual(sum(len(d['questions']) for d in retained['sets']), 1)
+
+    def test_publisher_independently_rejects_underfilled_and_duplicate_content(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            payload = publication(EDITION_DATE)
+            payload['sets'][0]['questions'] = payload['sets'][0]['questions'][:8]
+            with self.assertRaisesRegex(ValueError, 'at least 3'):
+                generate.publish(payload, root)
+            payload = publication(EDITION_DATE)
+            payload['sets'][1]['questions'][0]['prompt'] = payload['sets'][0]['questions'][0]['prompt']
+            with self.assertRaisesRegex(ValueError, 'Duplicate'):
+                generate.publish(payload, root)
+            self.assertFalse((root / 'site/latest.json').exists())
+
+    def test_main_incomplete_response_survives_and_later_run_tops_up(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            evidence = [dict(EVIDENCE[0], id=str(n)) for n in range(1, 4)]
+            def response(raw):
+                return io.StringIO(json.dumps({'candidates': [{'finishReason': 'STOP', 'content': {'parts': [{'text': json.dumps(raw)}]}}]}))
+            env = {'DAILY_GENERATION_ENABLED': 'true', 'VERTEX_ACCESS_TOKEN': 'test-only', 'RESERVED_DATE': str(EDITION_DATE)}
+            with patch.dict(generate.os.environ, env), patch.object(generate, 'EDITION_DAY', str(EDITION_DATE)), patch.object(generate, 'sources', return_value=evidence):
+                generate.reserve_attempt(EDITION_DATE, root)
+                with patch.object(generate.urllib.request, 'urlopen', return_value=response({'sets': [topic(1, 8)]})) as api:
+                    with self.assertRaisesRegex(ValueError, 'Incomplete'):
+                        generate.main(root)
+                    self.assertEqual(api.call_count, 1)
+                candidate = root / 'state/candidates' / f'{EDITION_DATE}.json'
+                original = json.loads(candidate.read_text())['sets'][0]['questions']
+                self.assertEqual(len(original), 8)
+                self.assertFalse((root / 'site/latest.json').exists())
+                generate.reserve_attempt(EDITION_DATE, root)
+                with patch.object(generate.urllib.request, 'urlopen', return_value=response({'sets': [topic(1, 12), topic(2), topic(3)]})) as api:
+                    generate.main(root)
+                    self.assertEqual(api.call_count, 1)
+                published = json.loads((root / 'site/latest.json').read_text())
+                self.assertEqual(published['sets'][0]['questions'][:8], original)
+                self.assertEqual(sum(len(d['questions']) for d in published['sets']), 32)
+
+    def test_truncated_outer_json_recovers_closed_questions_and_ignores_cut_question(self):
+        complete = [question(n) for n in range(1, 6)]
+        raw = '{"sets":[{"title":"Policy","questions":' + json.dumps(complete)[:-1] + ',{"source_id":"1","prompt":'
+        recovered = generate.recover_complete_questions(raw)
+        self.assertEqual(len(recovered['sets']), 1)
+        self.assertEqual(len(recovered['sets'][0]['questions']), 5)
+        self.assertEqual(recovered['sets'][0]['questions'][0]['prompt']['en'], complete[0]['prompt']['en'])
+
+    def test_http_failure_does_not_destroy_candidate_or_block_next_attempt(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            decks = generate.validate({'sets': [topic(1, 8)]}, EVIDENCE, EDITION_DATE, partial=True)
+            generate.merge_candidate(decks, EVIDENCE, EDITION_DATE, root)
+            candidate = root / 'state/candidates' / f'{EDITION_DATE}.json'
+            before = candidate.read_bytes()
+            generate.reserve_attempt(EDITION_DATE, root)
+            env = {'DAILY_GENERATION_ENABLED': 'true', 'VERTEX_ACCESS_TOKEN': 'test-only', 'RESERVED_DATE': str(EDITION_DATE)}
+            with patch.dict(generate.os.environ, env), patch.object(generate, 'EDITION_DAY', str(EDITION_DATE)), patch.object(generate, 'sources', return_value=EVIDENCE * 3), patch.object(generate.urllib.request, 'urlopen', side_effect=OSError('network interrupted')):
+                with self.assertRaisesRegex(OSError, 'network interrupted'):
+                    generate.main(root)
+            self.assertEqual(candidate.read_bytes(), before)
+            self.assertEqual(generate.reserve_attempt(EDITION_DATE, root), 2)
+            self.assertEqual(generate.claim_generation(EDITION_DATE, root), 2)
+
+    def test_complete_candidate_recovers_publication_without_api_request(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            decks = generate.validate({'sets': [topic(1), topic(2), topic(3)]}, EVIDENCE, EDITION_DATE, partial=True)
+            generate.merge_candidate(decks, EVIDENCE, EDITION_DATE, root)
+            generate.reserve_attempt(EDITION_DATE, root)
+            env = {'DAILY_GENERATION_ENABLED': 'true', 'VERTEX_ACCESS_TOKEN': 'test-only', 'RESERVED_DATE': str(EDITION_DATE)}
+            with patch.dict(generate.os.environ, env), patch.object(generate, 'EDITION_DAY', str(EDITION_DATE)), patch.object(generate.urllib.request, 'urlopen') as api:
+                generate.main(root)
+                api.assert_not_called()
+            self.assertTrue((root / 'site/latest.json').exists())
+
     def test_later_waves_receive_distribution_remainders(self):
         expected = {
             3: [1, 1, 1],
