@@ -101,8 +101,8 @@ def sources():
                 result.append({'id': str(len(result)+1), 'title': title[:220], 'url': link,
                                'published': date.isoformat(), 'text': clean(item.findtext('description'))[:1000]})
                 per_feed += 1
-                if len(result) >= 48: return result
-                if per_feed >= 8: break
+                if len(result) >= 54: return result
+                if per_feed >= 6: break
         except (OSError, ValueError, ET.ParseError):
             print('A news feed was unavailable; using other available public sources.')
     return result
@@ -194,9 +194,16 @@ def validate(data, evidence, edition_date=None, *, partial=False, previous=()):
         block_questions = []
         for q in block.get('questions', []):
             try:
-                source = source_map[str(q['source_id'])]
+                source = source_map.get(str(q['source_id']))
                 quote = clean(q['evidence'])
-                if len(quote) < 15 or quote.casefold() not in (source['title']+' '+source['text']).casefold():
+                if len(quote) < 15:
+                    continue
+                if source is None or quote.casefold() not in (source['title']+' '+source['text']).casefold():
+                    if len(evidence) > 1:
+                        source = next((s for s in evidence if quote.casefold() in (s['title']+' '+s['text']).casefold()), None)
+                    else:
+                        source = None
+                if source is None:
                     continue
                 prompt = q['prompt']; options = q['options']; explanation = q['explanation']
                 if not isinstance(prompt, dict) or not isinstance(prompt.get('en'), str) or not prompt['en'].strip():
@@ -246,6 +253,7 @@ def recover_complete_questions(raw):
     the normal evidence, answer-shape and duplicate validation still follows.
     A cut-off question object itself is never guessed or repaired.
     """
+    raw = re.sub(r'\}\s*,\s*\{\s*"id"\s*:\s*"a"', '}, "options": [{"id": "a"', raw)
     headers = list(re.finditer(r'"title"\s*:\s*("(?:\\.|[^"\\])*")\s*,\s*"questions"\s*:\s*\[', raw))
     recovered = []
     for index, header in enumerate(headers):
@@ -512,6 +520,7 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
     atomic_json(root / 'state' / 'responses' / f'{EDITION_DAY}-{attempt}.json', result)
     candidate = result.get('candidates', [{}])[0]
     raw = ''.join(p.get('text','') for p in candidate.get('content',{}).get('parts',[]) if not p.get('thought'))
+    raw = re.sub(r'\}\s*,\s*\{\s*"id"\s*:\s*"a"', '}, "options": [{"id": "a"', raw)
     # Parseable valid questions from incomplete responses are retained too.
     try:
         response_data = json.loads(raw)
