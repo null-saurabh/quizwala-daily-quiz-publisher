@@ -1,4 +1,5 @@
 import datetime as dt
+import email.utils
 import unittest
 import tempfile
 import json
@@ -299,6 +300,83 @@ class DailyGenerationTests(unittest.TestCase):
         result = generate.validate(raw, EVIDENCE, EDITION_DATE)
         self.assertEqual([deck['title'] for deck in result], ['Topic 2', 'Topic 3', 'Topic 4'])
         self.assertEqual([deck['release_wave'] for deck in result], [1, 2, 3])
+
+    def test_balance_options_distributes_correct_option_and_swaps_matching_text(self):
+        raw = {'sets': [topic(1, 12)]}
+        balanced = generate.balance_options(json.loads(json.dumps(raw)))
+        questions = balanced['sets'][0]['questions']
+        chosen = {q['correct_option_id'] for q in questions}
+        self.assertGreater(len(chosen), 1)
+        for index, q in enumerate(questions):
+            correct_opt = next(o for o in q['options'] if o['id'] == q['correct_option_id'])
+            self.assertEqual(correct_opt['text']['en'], f'Option a for {100 + index}')
+
+    def test_read_url_and_sources_filter_size_dates_schemes_and_deduplicate(self):
+        with patch.object(generate.urllib.request, 'urlopen') as mocked_open:
+            mocked_open.return_value.__enter__.return_value.read.return_value = b'x' * 1_000_001
+            with self.assertRaisesRegex(ValueError, 'size limit'):
+                generate.read_url('https://example.org/huge.rss')
+
+        now = dt.datetime.now(dt.timezone.utc)
+        fresh_pub = email.utils.format_datetime(now - dt.timedelta(hours=2))
+        stale_pub = email.utils.format_datetime(now - dt.timedelta(hours=90))
+        rss = f"""<?xml version="1.0"?>
+        <rss><channel>
+          <item><title>&lt;b&gt;Fresh item&lt;/b&gt;</title><link>https://feeds.bbci.co.uk/news/item-1</link><pubDate>{fresh_pub}</pubDate><description>Valid description for item one.</description></item>
+          <item><title>Duplicate link</title><link>https://feeds.bbci.co.uk/news/item-1</link><pubDate>{fresh_pub}</pubDate><description>Duplicate link should be skipped.</description></item>
+          <item><title>Stale item</title><link>https://example.org/stale</link><pubDate>{stale_pub}</pubDate><description>Too old.</description></item>
+          <item><title>Insecure link</title><link>http://example.org/insecure</link><pubDate>{fresh_pub}</pubDate><description>Non-https skipped.</description></item>
+          <item><title>Undated item</title><link>https://example.org/undated</link><description>No pubDate skipped.</description></item>
+        </channel></rss>""".encode('utf-8')
+
+        calls = {'count': 0}
+        def fake_read_url(url):
+            calls['count'] += 1
+            if calls['count'] == 1:
+                raise ValueError('Source exceeds size limit')
+            if calls['count'] == 2:
+                return rss
+            raise OSError('timeout')
+
+        with patch.object(generate, 'read_url', side_effect=fake_read_url):
+            items = generate.sources()
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]['title'], 'Fresh item')
+        self.assertEqual(items[0]['url'], 'https://feeds.bbci.co.uk/news/item-1')
+
+    def test_validate_rejects_malformed_questions_and_attributes_bbc_links(self):
+        bbc_evidence = [{
+            'id': '1',
+            'title': 'Space agency launches climate satellite',
+            'url': 'https://feeds.bbci.co.uk/news/science-1',
+            'published': '2026-10-22T00:00:00+00:00',
+            'text': 'The satellite measures atmospheric carbon and ocean temperatures globally.',
+        }]
+        good = question(1)
+        good['evidence'] = 'The satellite measures atmospheric carbon and ocean temperatures globally.'
+        short_quote = dict(good, evidence='too short', prompt={'en': 'Short quote question?'})
+        unmatched_quote = dict(good, evidence='Completely unrelated quote that is not in the source text.', prompt={'en': 'Unmatched quote?'})
+        bad_options = dict(good, options=[{'id': 'a', 'text': {'en': 'Only one'}}], prompt={'en': 'Bad options?'})
+        empty_explanation = dict(good, explanation={'en': '   '}, prompt={'en': 'Empty explanation?'})
+        decks = generate.validate(
+            {'sets': [{'title': 'Science', 'questions': [short_quote, unmatched_quote, bad_options, empty_explanation, good]}]},
+            bbc_evidence,
+            EDITION_DATE,
+            partial=True,
+        )
+        self.assertEqual(len(decks), 1)
+        self.assertEqual(len(decks[0]['questions']), 1)
+        self.assertIn('BBC News · https://feeds.bbci.co.uk/news/science-1', decks[0]['questions'][0]['explanation']['en'])
+
+    def test_publish_tolerates_corrupt_existing_latest_and_history_files(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'site/editions').mkdir(parents=True)
+            (root / 'site/latest.json').write_text('{corrupt-json')
+            (root / 'site/editions' / f'{EDITION_DATE - dt.timedelta(days=1)}.json').write_text('{corrupt-archive')
+            generate.publish(publication(EDITION_DATE), root)
+            published = json.loads((root / 'site/latest.json').read_text())
+            self.assertEqual(published['date'], str(EDITION_DATE))
 
 
 if __name__ == '__main__':

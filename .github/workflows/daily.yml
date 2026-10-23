@@ -28,13 +28,19 @@ jobs:
         with:
           persist-credentials: true
           ref: main
+      - name: Run unit tests
+        run: python3 -m unittest discover -v -s . -p "test*.py"
       - name: Reserve the target edition before calling AI
         id: reserve
         env:
           EDITION_DATE: ${{ inputs.edition_date }}
         run: |
           DAY=$(python3 generate.py --reserve)
-          if [ -z "$DAY" ]; then echo 'Edition complete or attempt budget exhausted.'; exit 0; fi
+          if [ -z "$DAY" ]; then
+            echo 'Edition complete or attempt budget exhausted.'
+            echo "### Daily Publisher: No reservation made (edition complete or attempt budget exhausted)" >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
           git config user.name 'Recall daily publisher'
           git config user.email 'daily-publisher@users.noreply.github.com'
           git add state
@@ -52,6 +58,7 @@ jobs:
           create_credentials_file: false
           access_token_lifetime: 600s
       - name: Generate once from public news excerpts
+        id: generate
         if: steps.reserve.outputs.day != ''
         env:
           DAILY_GENERATION_ENABLED: ${{ vars.DAILY_GENERATION_ENABLED }}
@@ -62,6 +69,11 @@ jobs:
       - name: Persist candidate progress and validated publication
         if: always() && steps.reserve.outputs.day != ''
         run: |
+          if [ "${{ steps.generate.outcome }}" != "success" ]; then
+            echo "### Daily Publisher: Generation attempt for ${{ steps.reserve.outputs.day }} did not complete publication (candidate state persisted)" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "### Daily Publisher: Published ${{ steps.reserve.outputs.day }}" >> "$GITHUB_STEP_SUMMARY"
+          fi
           git add site state
           git diff --cached --quiet && exit 0
           git commit -m 'Save daily edition progress'

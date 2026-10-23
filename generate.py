@@ -77,7 +77,7 @@ def sources():
     now = dt.datetime.now(dt.timezone.utc)
     def fetch(feed):
         try: return read_url(feed)
-        except OSError: return b''
+        except (OSError, ValueError): return b''
     with ThreadPoolExecutor(max_workers=9) as pool:
         raws = list(pool.map(fetch, FEEDS))
     for raw in raws:
@@ -160,8 +160,6 @@ def balance_options(response_data):
                 options = q.get('options', [])
                 correct_id = q.get('correct_option_id')
                 prompt_en = q.get('prompt', {}).get('en', '')
-                if prompt_en.startswith('Which fact is supported by the report, question '):
-                    continue
                 if len(options) != 4 or correct_id not in option_ids:
                     continue
                 by_id = {o['id']: o['text'] for o in options if isinstance(o, dict) and 'id' in o and 'text' in o}
@@ -218,10 +216,11 @@ def validate(data, evidence, edition_date=None, *, partial=False, previous=()):
                 if not isinstance(explanation, dict) or not isinstance(explanation.get('en'), str) or not explanation['en'].strip():
                     continue
                 block_questions.append(signature)
+                is_bbc = 'bbc.' in source['url'] or 'bbci.' in source['url']
                 ready.append({'prompt': prompt,
                     'options': [{'id': o['id'], 'label': o['id'].upper(), 'text': o['text']} for o in options],
                     'correct_option_id': q['correct_option_id'],
-                    'explanation': {'en': explanation['en']+'\nSource: '+ ('BBC News · ' if 'bbc.' in source['url'] else '') +source['url'], 'hi': explanation.get('hi')},
+                    'explanation': {'en': explanation['en']+'\nSource: '+ ('BBC News · ' if is_bbc else '') +source['url'], 'hi': explanation.get('hi')},
                     'section': title,
                     'source_label': source['url'], 'status': 'ready', 'warnings': [], 'page': 1})
             except (KeyError, TypeError, ValueError, AttributeError):
@@ -340,7 +339,7 @@ def publish(payload, root=ROOT):
         raise ValueError('Edition already published')
     decks = payload.get('sets', [])
     if len(decks) < 3 or any(len(d['questions']) < 10 for d in decks):
-        raise ValueError('Publication requires at least one complete set with 10 questions')
+        raise ValueError('Publication requires at least three complete sets (at least one complete set per release wave) with 10 questions')
     seen, ids = [], set()
     for deck in decks:
         for question in deck['questions']:
@@ -357,7 +356,10 @@ def publish(payload, root=ROOT):
         raise ValueError('Invalid release schedule')
     latest = site / 'latest.json'
     if latest.exists():
-        latest_data = json.loads(latest.read_text())
+        try:
+            latest_data = json.loads(latest.read_text())
+        except (OSError, ValueError):
+            latest_data = {}
         if latest_data.get('date', '') > str(day):
             raise ValueError('Cannot replace a newer feed with an older edition')
 
@@ -371,17 +373,23 @@ def publish(payload, root=ROOT):
     for offset in range(1, 9):
         path = archive / f'{day - dt.timedelta(days=offset)}.json'
         if path.exists():
-            editions.append(json.loads(path.read_text()))
-    (site / 'history.json').write_text(json.dumps({'editions': editions}, ensure_ascii=False))
-    latest.write_text(encoded)
+            try:
+                editions.append(json.loads(path.read_text()))
+            except (OSError, ValueError):
+                continue
+    atomic_json(site / 'history.json', {'editions': editions})
+    atomic_json(latest, payload)
 
 
 def reserve_attempt(edition_date, root=ROOT):
-    """Persist/commit this reservation before an API call; at most three per date."""
+    """Persist/commit this reservation before an API call; at most MAX_ATTEMPTS per date."""
     marker = root / 'state' / f'{edition_date}.json'
     if (root / 'site' / 'editions' / f'{edition_date}.json').exists():
         return None
-    old = json.loads(marker.read_text()) if marker.exists() else {}
+    try:
+        old = json.loads(marker.read_text()) if marker.exists() else {}
+    except (OSError, ValueError):
+        old = {}
     count = old.get('attempts', 1 if old else 0)
     if count >= MAX_ATTEMPTS or old.get('status') == 'published':
         return None
@@ -414,14 +422,20 @@ def previous_prompts(edition_date, root=ROOT):
     path = root / 'site' / 'editions' / f'{edition_date - dt.timedelta(days=1)}.json'
     if not path.exists():
         return []
-    payload = json.loads(path.read_text())
-    return [q['prompt']['en'] for deck in payload['sets'] for q in deck['questions']]
+    try:
+        payload = json.loads(path.read_text())
+        return [q['prompt']['en'] for deck in payload.get('sets', []) for q in deck.get('questions', [])]
+    except (OSError, ValueError, KeyError, TypeError):
+        return []
 
 
 def merge_candidate(incoming, evidence, edition_date, root=ROOT):
     """Append unique valid questions; no previously retained question is mutated."""
     path = root / 'state' / 'candidates' / f'{edition_date}.json'
-    candidate = json.loads(path.read_text()) if path.exists() else {'date': str(edition_date), 'sets': [], 'sources': []}
+    try:
+        candidate = json.loads(path.read_text()) if path.exists() else {'date': str(edition_date), 'sets': [], 'sources': []}
+    except (OSError, ValueError):
+        candidate = {'date': str(edition_date), 'sets': [], 'sources': []}
     decks = candidate['sets']
     blocked = previous_prompts(edition_date, root)
     blocked += [q['prompt']['en'] for deck in decks for q in deck['questions']]
@@ -510,7 +524,7 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
     request = urllib.request.Request('https://aiplatform.googleapis.com/v1/projects/project-2af1ec64-67d0-4b99-b40/locations/global/publishers/google/models/'+MODEL+':generateContent',
         data=json.dumps(body).encode(), headers={'Content-Type':'application/json','Authorization':'Bearer '+token}, method='POST')
     attempt = claim_generation(edition_date, root)
-    # One HTTP request per reserved attempt. A later workflow can top up (max 3).
+    # One HTTP request per reserved attempt. A later workflow can top up (max 5).
     try:
         with urllib.request.urlopen(request, timeout=150) as response:
             result = json.load(response)
