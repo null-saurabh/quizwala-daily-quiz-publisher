@@ -301,8 +301,8 @@ def publish(payload, root=ROOT):
     if target.exists():
         raise ValueError('Edition already published')
     decks = payload.get('sets', [])
-    if not decks or any(len(d['questions']) < 10 for d in decks):
-        raise ValueError('Publication requires at least one complete set with 10 questions')
+    if not decks or any(len(d['questions']) < 3 for d in decks):
+        raise ValueError('Publication requires valid sets with at least 3 questions each')
     seen, ids = [], set()
     for deck in decks:
         for question in deck['questions']:
