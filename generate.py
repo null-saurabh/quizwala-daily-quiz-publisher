@@ -27,21 +27,25 @@ def edition_for_run(now):
 
 
 def target_for_run(now, root=ROOT):
-    """Resume the oldest unpublished target before reserving a new tomorrow."""
-    state = root / 'state'
-    pending = []
-    if state.exists():
-        for marker in state.glob('????-??-??.json'):
-            try:
-                data = json.loads(marker.read_text())
-                day = dt.date.fromisoformat(marker.stem)
-            except (ValueError, OSError):
-                continue
-            if (data.get('date') == str(day) and data.get('status') != 'published'
-                    and data.get('attempts', 0) < MAX_ATTEMPTS
-                    and not (root / 'site' / 'editions' / f'{day}.json').exists()):
-                pending.append(day)
-    return min(pending) if pending else edition_for_run(now)
+    """Target today if unpublished, or tomorrow if evening or today is already published."""
+    local_now = now.astimezone(KOLKATA)
+    today = local_now.date()
+    tomorrow = today + dt.timedelta(days=1)
+
+    today_published = (root / 'site' / 'editions' / f'{today}.json').exists()
+    today_marker = root / 'state' / f'{today}.json'
+    today_attempts = 0
+    if today_marker.exists():
+        try:
+            today_attempts = json.loads(today_marker.read_text()).get('attempts', 0)
+        except (ValueError, OSError):
+            today_attempts = 0
+
+    # If today is not published and attempt budget not exhausted, target today
+    if not today_published and today_attempts < MAX_ATTEMPTS:
+        return today
+
+    return tomorrow
 
 
 EDITION_DAY = os.environ.get('EDITION_DATE') or edition_for_run(dt.datetime.now(dt.timezone.utc)).isoformat()
