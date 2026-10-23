@@ -1,0 +1,1548 @@
+{
+  "date": "2026-10-25",
+  "sets": [
+    {
+      "title": "Set 1: National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-10-25.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Why have local body elections been kept pending in certain villages of the Amaravati capital region in Andhra Pradesh?",
+            "hi": "आंध्र प्रदेश के अमरावती राजधानी क्षेत्र के कुछ गाँवों में स्थानीय निकाय चुनाव क्यों लंबित रखे गए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The State Election Commission declared the region completely autonomous.",
+                "hi": "राज्य चुनाव आयोग ने इस क्षेत्र को पूरी तरह से स्वायत्त घोषित कर दिया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Local villagers boycotted the elections due to infrastructure delays.",
+                "hi": "स्थानीय ग्रामीणों ने बुनियादी ढाँचे में देरी के कारण चुनावों का बहिष्कार किया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A massive cyclonic storm disrupted all administrative preparations.",
+                "hi": "एक भारी चक्रवाती तूफान ने सभी प्रशासनिक तैयारियों को बाधित कर दिया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The government is working on a separate governance framework for the mega capital city where land pooling is under way.",
+                "hi": "सरकार मेगा राजधानी शहर के लिए एक अलग शासन ढाँचे पर काम कर रही है जहाँ भूमि पूलिंग चल रही है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Elections in villages undergoing land pooling are pending because a separate governance framework is being built for the capital city.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/no-local-body-polls-in-amaravati-villages-in-andhra-pradesh/article71616273.ece",
+            "hi": "भूमि पूलिंग से गुजरने वाले गाँवों में चुनाव लंबित हैं क्योंकि राजधानी शहर के लिए एक अलग शासन ढाँचा बनाया जा रहा है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/no-local-body-polls-in-amaravati-villages-in-andhra-pradesh/article71616273.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-1"
+        },
+        {
+          "prompt": {
+            "en": "How many platoons of the Andhra Pradesh Special Police were deployed for election bandobust during the local body polls?",
+            "hi": "स्थानीय निकाय चुनावों के दौरान चुनाव बंदोबस्त के लिए आंध्र प्रदेश विशेष पुलिस की कितनी टुकड़ियों (प्लाटून) को तैनात किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "12 platoons",
+                "hi": "12 प्लाटून"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "36 platoons",
+                "hi": "36 प्लाटून"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "24 platoons",
+                "hi": "24 प्लाटून"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "50 platoons",
+                "hi": "50 प्लाटून"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "36 platoons of Andhra Pradesh Special Police were deployed for election security.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-14-cases-booked-on-the-last-day-of-nominations-says-andhra-pradesh-dgp/article71617034.ece",
+            "hi": "चुनाव सुरक्षा के लिए आंध्र प्रदेश स्पेशल पुलिस के 36 प्लाटून तैनात किए गए थे।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-14-cases-booked-on-the-last-day-of-nominations-says-andhra-pradesh-dgp/article71617034.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-2"
+        },
+        {
+          "prompt": {
+            "en": "What instructions were given to fishermen by the IMD regarding the approaching cyclonic storm expected to hit the North Andhra Pradesh coast?",
+            "hi": "उत्तर आंध्र प्रदेश तट से टकराने वाले संभावित चक्रवाती तूफान के संबंध में IMD द्वारा मछुआरों को क्या निर्देश दिए गए थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fishermen were asked to anchor their boats permanently and halt all fishing for a year.",
+                "hi": "मछुआरों से अपनी नौकाओं को स्थायी रूप से लंगर डालने और एक साल के लिए सभी मछली पकड़ने का काम रोकने को कहा गया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fishermen were advised to move further deep into the sea for safety.",
+                "hi": "मछुआरों को सुरक्षा के लिए समुद्र में और अंदर जाने की सलाह दी गई।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Fishermen who have ventured into the sea were asked to return to shore.",
+                "hi": "समुद्र में गए मछुआरों को तट पर लौटने के लिए कहा गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "No specific warnings were issued to fishermen.",
+                "hi": "मछुआरों को कोई विशिष्ट चेतावनी जारी नहीं की गई थी।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Fishermen out in the sea were asked to return to shore due to red warnings for extremely heavy rain.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-to-hit-north-andhra-pradesh-coast-on-october-28-says-imd/article71617203.ece",
+            "hi": "अत्यधिक भारी बारिश की लाल चेतावनियों के कारण समुद्र में गए मछुआरों को तट पर लौटने के लिए कहा गया।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-to-hit-north-andhra-pradesh-coast-on-october-28-says-imd/article71617203.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-3"
+        },
+        {
+          "prompt": {
+            "en": "According to Madhya Pradesh Chief Minister Mohan Yadav, how many employment opportunities could be generated by investment proposals worth around ₹5,800 crore?",
+            "hi": "मध्य प्रदेश के मुख्यमंत्री मोहन यादव के अनुसार, लगभग ₹5,800 करोड़ के निवेश प्रस्तावों से कितने रोजगार के अवसर पैदा हो सकते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Around 10,000 employment opportunities",
+                "hi": "लगभग 10,000 रोजगार के अवसर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Around 5,000 employment opportunities",
+                "hi": "लगभग 5,000 रोजगार के अवसर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Around 25,000 employment opportunities",
+                "hi": "लगभग 25,000 रोजगार के अवसर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Around 50,000 employment opportunities",
+                "hi": "लगभग 50,000 रोजगार के अवसर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Proposals worth around ₹5,800 crore have the potential to generate around 10,000 employment opportunities.\nSource: https://www.thehindu.com/news/national/madhya-pradesh/mp-receives-investment-proposals-of-over-15400-crore-at-semiconductor-summit/article71617335.ece",
+            "hi": "लगभग ₹5,800 करोड़ के प्रस्तावों में लगभग 10,000 रोजगार के अवसर पैदा करने की क्षमता है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/madhya-pradesh/mp-receives-investment-proposals-of-over-15400-crore-at-semiconductor-summit/article71617335.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-4"
+        },
+        {
+          "prompt": {
+            "en": "At which recent event did Madhya Pradesh receive investment proposals of over ₹15,400 crore?",
+            "hi": "हाल ही में मध्य प्रदेश को किस आयोजन में ₹15,400 करोड़ से अधिक के निवेश प्रस्ताव प्राप्त हुए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Semiconductor summit",
+                "hi": "सेमीकंडक्टर शिखर सम्मेलन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Global Investors Meet",
+                "hi": "ग्लोबल इन्वेस्टर्स मीट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Renewable Energy Conclave",
+                "hi": "अक्षय ऊर्जा कॉन्क्लेव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Information Technology Expo",
+                "hi": "सूचना प्रौद्योगिकी एक्सपो"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "M.P. received investment proposals of over ₹15,400 crore at a semiconductor summit.\nSource: https://www.thehindu.com/news/national/madhya-pradesh/mp-receives-investment-proposals-of-over-15400-crore-at-semiconductor-summit/article71617335.ece",
+            "hi": "मध्य प्रदेश को सेमीकंडक्टर शिखर सम्मेलन में ₹15,400 करोड़ से अधिक के निवेश प्रस्ताव मिले।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/madhya-pradesh/mp-receives-investment-proposals-of-over-15400-crore-at-semiconductor-summit/article71617335.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-5"
+        },
+        {
+          "prompt": {
+            "en": "What additional dimension does the government intend to capture by modifying the Periodic Labour Force Survey?",
+            "hi": "सरकार आवधिक श्रम बल सर्वेक्षण (Periodic Labour Force Survey) को संशोधित करके किस अतिरिक्त आयाम को शामिल करना चाहती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Labour underutilisation",
+                "hi": "श्रम अल्पउपयोग (Labour underutilisation)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Industrial power consumption rates",
+                "hi": "औद्योगिक बिजली खपत दर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Only agricultural yield metrics",
+                "hi": "केवल कृषि उपज मीट्रिक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Foreign tourist footfalls",
+                "hi": "विदेशी पर्यटकों की आमद"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Periodic Labour Force Survey is being modified to include questions measuring labour underutilisation.\nSource: https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+            "hi": "श्रम अल्पउपयोग को मापने के लिए आवधिक श्रम बल सर्वेक्षण में संशोधन किया जा रहा है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-6"
+        },
+        {
+          "prompt": {
+            "en": "Under which schedule of the Wildlife (Protection) Act 1972 are all cetaceans protected in India?",
+            "hi": "वन्यजीव (संरक्षण) अधिनियम 1972 की किस अनुसूची के तहत भारत में सभी सीटेशियन (व्हेल, डॉल्फ़िन आदि) संरक्षित हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Schedule IV",
+                "hi": "अनुसूची IV"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Schedule II",
+                "hi": "अनुसूची II"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Schedule I",
+                "hi": "अनुसूची I"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Schedule VI",
+                "hi": "अनुसूची VI"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+            "hi": "भारत में प्रत्येक सीटेशियन वन्यजीव (संरक्षण) अधिनियम 1972 की अनुसूची I के तहत संरक्षित है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-7"
+        },
+        {
+          "prompt": {
+            "en": "During his second trip to India, what agenda did US Secretary of State Marco Rubio prioritize over traditional diplomacy?",
+            "hi": "भारत की अपनी दूसरी यात्रा के दौरान, अमेरिकी विदेश मंत्री मार्को रुबियो ने पारंपरिक कूटनीति के मुकाबले किस एजेंडे को प्राथमिकता दी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Business and energy agenda",
+                "hi": "व्यापार और ऊर्जा एजेंडा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Environmental conservation and wildlife protection",
+                "hi": "पर्यावरण संरक्षण और वन्यजीव संरक्षण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cultural exchange and tourism development",
+                "hi": "सांस्कृतिक आदान-प्रदान और पर्यटन विकास"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Space exploration agreements",
+                "hi": "अंतरिक्ष अन्वेषण समझौते"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Marco Rubio pushed a business and energy agenda over diplomacy during his trip.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+            "hi": "मार्को रुबियो ने अपनी यात्रा के दौरान कूटनीति पर व्यापार और ऊर्जा एजेंडे को प्राथमिकता दी।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-8"
+        },
+        {
+          "prompt": {
+            "en": "For what specific purpose are some Indian workers being paid to record video footage of themselves?",
+            "hi": "कुछ भारतीय श्रमिकों को अपने स्वयं के वीडियो फुटेज रिकॉर्ड करने के लिए किस विशिष्ट उद्देश्य से भुगतान किया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To train artificial intelligence (AI)",
+                "hi": "आर्टिफिशियल इंटेलिजेंस (AI) को प्रशिक्षित करने के लिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To broadcast reality television shows",
+                "hi": "रियलिटी टेलीविज़न शो प्रसारित करने के लिए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To compile archival documentation for government labor ministries",
+                "hi": "सरकारी श्रम मंत्रालयों के लिए पुरालेख प्रलेखन संकलित करने के लिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To promote tourism on social media platforms",
+                "hi": "सोशल मीडिया प्लेटफार्मों पर पर्यटन को बढ़ावा देने के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Workers are paid to film themselves at work so the footage can be used to train AI.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+            "hi": "श्रमिकों को काम करते समय खुद को फिल्माने के लिए भुगतान किया जाता है ताकि उस फुटेज का उपयोग AI को प्रशिक्षित करने के लिए किया जा सके।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-9"
+        },
+        {
+          "prompt": {
+            "en": "What was the name of the popular Instagram finance account run by V Harish, who was recently found dead?",
+            "hi": "वी. हरीश द्वारा संचालित लोकप्रिय इंस्टाग्राम फाइनेंस अकाउंट का नाम क्या था, जिनका हाल ही में निधन पाया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Smart Finance Hub",
+                "hi": "स्मार्ट फाइनेंस हब"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Harish Wealth Builder",
+                "hi": "हरीश वेल्थ बिल्डर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Indian Money Talks",
+                "hi": "इंडियन मनी टॉक्स"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Finance with Harish",
+                "hi": "फाइनेंस विद हरीश"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "V Harish ran the popular Instagram account “Finance with Harish”.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+            "hi": "वी. हरीश लोकप्रिय इंस्टाग्राम अकाउंट \"Finance with Harish\" चलाते थे।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-10"
+        },
+        {
+          "prompt": {
+            "en": "What primary factors are making US residency a distant dream for many Indian tech workers?",
+            "hi": "कौन से प्राथमिक कारक कई भारतीय तकनीकी श्रमिकों के लिए अमेरिकी निवास को एक दूर का सपना बना रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Massive drops in American salary packages",
+                "hi": "अमेरिकी वेतन पैकेजों में भारी गिरावट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Immigration curbs and tech firms cutting foreign hiring",
+                "hi": "आप्रवासन प्रतिबंध और तकनीकी फर्मों द्वारा विदेशी नियुक्तियों में कटौती"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Strict language proficiency test requirements",
+                "hi": "कठोर भाषा दक्षता परीक्षा आवश्यकताएँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Complete closure of the United States border",
+                "hi": "संयुक्त राष्ट्र की सीमा का पूर्ण बंद होना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "US residency is becoming difficult due to immigration curbs and tech firms cutting foreign hiring.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+            "hi": "आप्रवासन प्रतिबंधों और तकनीकी फर्मों द्वारा विदेशी नियुक्तियों में कटौती के कारण अमेरिकी निवास कठिन होता जा रहा है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-11"
+        },
+        {
+          "prompt": {
+            "en": "Which movement was reported by authorities to be behind the attack on a Saudi airport where an Indian national was killed?",
+            "hi": "अधिकारियों द्वारा रिपोर्ट किए गए किस आंदोलन का हाथ सऊदी हवाई अड्डे पर हुए हमले के पीछे था जिसमें एक भारतीय नागरिक मारा गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Hezbollah faction",
+                "hi": "हिजबुल्लाह गुट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Houthi movement",
+                "hi": "हूथी आंदोलन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Al-Shabaab militia",
+                "hi": "अल-शबाब मिलिशिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Taleban insurgent group",
+                "hi": "तालिबान विद्रोही समूह"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The Houthi movement has carried out a series of attacks targeting airports and other sites in Saudi Arabia.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+            "hi": "हूथी आंदोलन ने सऊदी अरब में हवाई अड्डों और अन्य स्थलों को निशाना बनाते हुए कई हमले किए हैं।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Set 2: Economy, Business & Finance",
+      "source_filename": "daily-2026-10-25.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "How did Bharat Petroleum perform in terms of net profit during the second quarter (Q2) amid volatile crude prices?",
+            "hi": "अस्थिर कच्चे तेल की कीमतों के बीच दूसरी तिमाही (Q2) के दौरान भारत पेट्रोलियम ने शुद्ध लाभ के मामले में कैसा प्रदर्शन किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Net profit declined by 22.5%",
+                "hi": "शुद्ध लाभ में 22.5% की गिरावट आई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Net profit increased by 29%",
+                "hi": "शुद्ध लाभ में 29% की वृद्धि हुई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Net profit remained completely stagnant",
+                "hi": "शुद्ध लाभ पूरी तरह से स्थिर रहा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Net profit surged by 53.6%",
+                "hi": "शुद्ध लाभ में 53.6% की वृद्धि हुई"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Bharat Petroleum's net profit declined 22.5% on a year-over-year basis in Q2.\nSource: https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+            "hi": "Q2 में साल-दर-साल के आधार पर भारत पेट्रोलियम के शुद्ध लाभ में 22.5% की गिरावट आई।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-13"
+        },
+        {
+          "prompt": {
+            "en": "What was the fresh order intake value for Coforge in the September-quarter after doubling year-on-year?",
+            "hi": "साल-दर-साल दोगुना होने के बाद सितंबर तिमाही के लिए कोफोर्ज का नया ऑर्डर इनटेक मूल्य कितना था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1.04 billion",
+                "hi": "$1.04 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$2.50 billion",
+                "hi": "$2.50 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$500 million",
+                "hi": "$500 मिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$750 million",
+                "hi": "$750 मिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Fresh order intake doubled year-on-year to $1.04 billion for Coforge.\nSource: https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+            "hi": "कोफोर्ज के लिए ताजा ऑर्डर इनटेक साल-दर-साल दोगुना होकर $1.04 बिलियन हो गया।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-14"
+        },
+        {
+          "prompt": {
+            "en": "What did Kashim Chowdhury deny when he was charged with fraud after juggling five jobs?",
+            "hi": "जब काशिम चौधरी पर पांच नौकरियां करने के बाद धोखाधड़ी का आरोप लगाया गया, तो उन्होंने किस बात से इनकार किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Being dishonest",
+                "hi": "बेईमान होने से"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Receiving a monthly salary",
+                "hi": "मासिक वेतन प्राप्त करने से"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Working remotely from home",
+                "hi": "घर से दूरस्थ रूप से काम करने से"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Owning a laptop provided by the firm",
+                "hi": "फर्म द्वारा प्रदान किए गए लैपटॉप के मालिक होने से"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Kashim Chowdhury denied being dishonest when he didn't tell employers about his other jobs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+            "hi": "काशिम चौधरी ने बेईमान होने से इनकार किया जब उन्होंने नियोक्ताओं को अपने अन्य कामों के बारे में नहीं बताया था।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-15"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the housing scheme offering government-backed loans for first-time buyers purchasing new-builds in England with an earnings limit of up to £140K?",
+            "hi": "इंग्लैंड में नए निर्माण खरीदने वाले पहली बार घर खरीदने वालों के लिए ₹140K तक की कमाई की सीमा के साथ सरकारी समर्थित ऋण प्रदान करने वाली आवास योजना का नाम क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Help to Buy England",
+                "hi": "हेल्प टू बाय इंग्लैंड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Prime Minister Property Initiative",
+                "hi": "प्रधान मंत्री संपत्ति पहल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Your First Home scheme",
+                "hi": "योर फर्स्ट होम योजना (Your First Home scheme)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "National Housing Assistance Fund",
+                "hi": "राष्ट्रीय आवास सहायता कोष"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Your First Home scheme offers government-backed loans for those buying new-builds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+            "hi": "योर फर्स्ट होम योजना नए निर्माण खरीदने वालों के लिए सरकार समर्थित ऋण प्रदान करती है।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-16"
+        },
+        {
+          "prompt": {
+            "en": "According to L'Oreal's CEO, the use of which class of drugs is impacting beauty and skincare sales?",
+            "hi": "लोरियल (L'Oreal) के सीईओ के अनुसार, किस वर्ग की दवाओं का उपयोग सौंदर्य और स्किनकेयर बिक्री को प्रभावित कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "GLP-1s",
+                "hi": "GLP-1s"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Statins",
+                "hi": "स्टैटिन्स"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Antihistamines",
+                "hi": "एंटीहिस्टामाइन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Beta-blockers",
+                "hi": "बीटा-ब्लॉकर्स"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "L'Oreal says weight loss drugs like GLP-1s are impacting beauty and skincare sales.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+            "hi": "लोरियल का कहना है कि GLP-1s जैसी वजन घटाने वाली दवाएं सुंदरता और स्किनकेयर की बिक्री को प्रभावित कर रही हैं।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-17"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Set 3: Science, Environment & World Affairs",
+      "source_filename": "daily-2026-10-25.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Prior to the 2026-27 projections, how many very strong El Niño events had been recorded since the modern era began?",
+            "hi": "2026-27 के अनुमानों से पहले, आधुनिक युग की शुरुआत के बाद से कितने बहुत मजबूत अल नीनो घटनाएं दर्ज की गई थीं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ten",
+                "hi": "दस"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Five",
+                "hi": "पाँच"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Seven",
+                "hi": "सात"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Three",
+                "hi": "तीन"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "There have only been three very strong El Niño events in 2015-16, 1997-98, and 1982-83.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+            "hi": "2015-16, 1997-98 और 1982-83 में केवल तीन बहुत मजबूत अल नीनो घटनाएं हुई हैं।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-18"
+        },
+        {
+          "prompt": {
+            "en": "Which operator assured that lights will stay on this winter despite engineering concerns regarding adequate supply?",
+            "hi": "पर्याप्त आपूर्ति के संबंध में इंजीनियरों की चिंताओं के बावजूद किस ऑपरेटर ने आश्वासन दिया कि इस सर्दी में बत्तियां जलती रहेंगी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "European Electricity Syndicate",
+                "hi": "यूरोपीय बिजली सिंडिकेट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Global Power Grid Authority",
+                "hi": "ग्लोबल पावर ग्रिड अथॉरिटी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "National Energy System Operator",
+                "hi": "नेशनल एनर्जी सिस्टम ऑपरेटर (National Energy System Operator)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "British Petroleum Power Grid",
+                "hi": "ब्रिटिश पेट्रोलियम पावर ग्रिड"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The National Energy System Operator gave assurances that lights will stay on this winter.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+            "hi": "नेशनल एनर्जी सिस्टम ऑपरेटर ने आश्वासन दिया कि इस सर्दी में बिजली आपूर्ति बनी रहेगी।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-19"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the storm forecasted to bring heavy rain and winds of up to 80mph to Scotland?",
+            "hi": "स्कॉटलैंड में भारी बारिश और 80 मील प्रति घंटे तक की हवाएं लाने वाले पूर्वानुमानित तूफान का नाम क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Storm Austen",
+                "hi": "तूफान ऑस्टेन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Storm Babet",
+                "hi": "तूफान बैबेट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Storm Boelo",
+                "hi": "तूफान बोएलो (Storm Boelo)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Storm Ciaran",
+                "hi": "तूफान सियारान"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Storm Boelo is expected to bring heavy rain and strong winds with gusts of up to 80mph.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+            "hi": "तूफान बोएलो के कारण भारी बारिश और 80mph तक की तेज हवाएं चलने की उम्मीद है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-20"
+        },
+        {
+          "prompt": {
+            "en": "What approach is the Welsh government consulting on as part of its plan regarding electricity infrastructure?",
+            "hi": "वेल्श सरकार विद्युत बुनियादी ढाँचे से संबंधित अपनी योजना के हिस्से के रूप में किस दृष्टिकोण पर परामर्श कर रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "\"Wireless transmission grid framework\"",
+                "hi": "\"वायरलेस ट्रांसमिशन ग्रिड फ्रेमवर्क\""
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "\"Steel pylon mandatory policy\"",
+                "hi": "\"स्टील पाइलन अनिवार्य नीति\""
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "\"Solar canopy integration approach\"",
+                "hi": "\"सोलर कैनोप एकीकरण दृष्टिकोण\""
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "\"Undergrounding-first approach\"",
+                "hi": "\"अंडरग्राउंडिंग-फर्स्ट अप्रोच\" (जमीन के नीचे केबल बिछाना)"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Welsh government is consulting on an “undergrounding-first approach” to electricity lines.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+            "hi": "वेल्श सरकार बिजली लाइनों के लिए \"अंडरग्राउंडिंग-फर्स्ट अप्रोच\" पर परामर्श कर रही है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-21"
+        },
+        {
+          "prompt": {
+            "en": "What was captured by satellite images spreading for miles along the UAE coastline following a tanker strike?",
+            "hi": "टैंकर पर हमले के बाद यूएई तट के साथ मीलों तक फैलते हुए उपग्रह छवियों द्वारा क्या कैप्चर किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Toxic industrial foam",
+                "hi": "विषाक्त औद्योगिक झाग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Massive plastic debris",
+                "hi": "भारी प्लास्टिक मलबा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A dense chemical fog",
+                "hi": "एक घना रासायनिक कोहरा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An oil spill",
+                "hi": "तेल का रिसाव (oil spill)"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Satellite images showed an oil spill spreading for miles along the UAE coastline.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+            "hi": "उपग्रह छवियों से पता चला कि यूएई तट पर मीलों तक तेल का रिसाव फैल गया है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-22"
+        },
+        {
+          "prompt": {
+            "en": "President Emmanuel Macron described a deadly shooting near which major European capital as a 'racist terrorist attack'?",
+            "hi": "राष्ट्रपति इमैनुएल मैक्रोन ने किस प्रमुख यूरोपीय राजधानी के पास हुई घातक गोलीबारी को 'नस्लवादी आतंकवादी हमला' बताया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "London",
+                "hi": "लंदन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Berlin",
+                "hi": "बरलिन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rome",
+                "hi": "रोम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Paris",
+                "hi": "पेरिस"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Macron stated that a deadly shooting near Paris was a 'racist terrorist attack'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "hi": "मैक्रोन ने कहा कि पेरिस के पास हुई घातक गोलीबारी एक 'नस्लवादी आतंकवादी हमला' थी।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-23"
+        },
+        {
+          "prompt": {
+            "en": "In which governorate of Jordan were people shot dead by gunmen at a church funeral?",
+            "hi": "जॉर्डन के किस गवर्नर में चर्च के अंतिम संस्कार में बंदूकधारियों द्वारा लोगों की गोली मारकर हत्या कर दी गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Amman governorate",
+                "hi": "अम्मान गवर्नर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Zarqa governorate",
+                "hi": "ज़रका गवर्नर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Karak governorate",
+                "hi": "करक गवर्नर (Karak governorate)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Irbid governorate",
+                "hi": "इरबिड गवर्नर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Seven people were shot dead by gunmen at a church funeral in Jordan's southern Karak governorate.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+            "hi": "जॉर्डन के दक्षिणी करक गवर्नर में एक चर्च के अंतिम संस्कार में बंदूकधारियों ने सात लोगों की गोली मारकर हत्या कर दी।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-24"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "No local body polls in Amaravati capital region villages of Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/no-local-body-polls-in-amaravati-villages-in-andhra-pradesh/article71616273.ece",
+      "published": "2026-10-24T01:13:46+05:30",
+      "text": "Elections in villages where land pooling is under way have been kept pending for the time being as the government is working on a separate governance framework for the mega capital city"
+    },
+    {
+      "id": "2",
+      "title": "Local body polls: 14 cases booked on the last day of nominations, says Andhra Pradesh DGP",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-14-cases-booked-on-the-last-day-of-nominations-says-andhra-pradesh-dgp/article71617034.ece",
+      "published": "2026-10-24T01:10:00+05:30",
+      "text": "36 platoons of Andhra Pradesh Special Police have been deployed as part of election bandobust"
+    },
+    {
+      "id": "3",
+      "title": "Three arrested for allegedly stealing two-wheelers in Amberpet",
+      "url": "https://www.thehindu.com/news/national/telangana/three-arrested-for-allegedly-stealing-two-wheelers-in-amberpet/article71616901.ece",
+      "published": "2026-10-24T01:08:10+05:30",
+      "text": ""
+    },
+    {
+      "id": "4",
+      "title": "Cyclonic storm likely to hit North Andhra Pradesh coast on October 28, says IMD",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-to-hit-north-andhra-pradesh-coast-on-october-28-says-imd/article71617203.ece",
+      "published": "2026-10-24T01:07:29+05:30",
+      "text": "Red warnings for extremely heavy rain issued for October 27 and 28; fishermen who have ventured into the sea asked to return to shore"
+    },
+    {
+      "id": "5",
+      "title": "M.P. receives investment proposals of over ₹15,400 crore at semiconductor summit",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-receives-investment-proposals-of-over-15400-crore-at-semiconductor-summit/article71617335.ece",
+      "published": "2026-10-24T01:05:21+05:30",
+      "text": "Chief Minister Mohan Yadav said that the government also received proposals worth around ₹5,800 that have potential to generate around 10,000 employment opportunities"
+    },
+    {
+      "id": "6",
+      "title": "Bomb threat emails to Mumbai Mayor’s office, three Navi Mumbai schools trigger security alert",
+      "url": "https://www.thehindu.com/news/cities/mumbai/email-warns-of-attacks-on-mumbai-mayors-office-bachchan-home-diljit-dosanjhs-concert/article71616086.ece",
+      "published": "2026-10-24T00:59:49+05:30",
+      "text": "Prompted by the threat, law enforcement authorities have launched a comprehensive investigation to verify the authenticity of the message"
+    },
+    {
+      "id": "7",
+      "title": "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
+      "url": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+      "published": "2026-10-23T22:45:33+05:30",
+      "text": "Bharat Petroleum’s revenues spurred 29% whilst net profit declined 22.5% on a year-over-year basis in Q2"
+    },
+    {
+      "id": "8",
+      "title": "Coforge net profit rises 56.5% as ‘record’ deal wins boost growth",
+      "url": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+      "published": "2026-10-23T22:43:46+05:30",
+      "text": "September-quarter revenue climbs 53.6% to ₹6,171 crore; fresh order intake doubles year-on-year to $1.04 billion as company raises FY27 EBIT margin guidance to 16%"
+    },
+    {
+      "id": "9",
+      "title": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+      "url": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
+      "published": "2026-10-23T22:36:53+05:30",
+      "text": "The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago"
+    },
+    {
+      "id": "10",
+      "title": "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
+      "url": "https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
+      "published": "2026-10-23T22:29:56+05:30",
+      "text": "JioStar recently tied up with international streaming platform Starz Play to expand into the Middle East and North Africa regions. Last month it expanded into Singapore, the UK, and Canada"
+    },
+    {
+      "id": "11",
+      "title": "Government to modify labour survey to capture gig economy, unpaid household workers",
+      "url": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+      "published": "2026-10-23T22:29:40+05:30",
+      "text": "Periodic Labour Force Survey will include additional questions to measure labour underutilisation"
+    },
+    {
+      "id": "12",
+      "title": "Tata Motors reports Q2 net of ₹1,257 crore, Iveco acquisition on track",
+      "url": "https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+      "published": "2026-10-23T22:19:57+05:30",
+      "text": ""
+    },
+    {
+      "id": "13",
+      "title": "A ferocious El Niño is brewing thanks to record Pacific heat",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+      "published": "2026-10-23T09:19:29+05:30",
+      "text": "Since the modern era of instrumental records began, there have only been three very strong El Niño events, in 2015-16, 1997-98, and 1982-83, with the three-month averages of the temperature anomaly being 2.6°, 2.4°, and 2.1°C, respectively. The 2026-27 El Niño is projected to peak with an anomaly of 3.8°C"
+    },
+    {
+      "id": "14",
+      "title": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
+      "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+      "published": "2026-10-22T10:52:49+05:30",
+      "text": "Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure"
+    },
+    {
+      "id": "15",
+      "title": "The whales never stopped coming to Gujarat’s beaches, the watchers did",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+      "published": "2026-10-21T14:15:30+05:30",
+      "text": "Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972, which is the same level of protection accorded to tigers and lions. Yet most of us may not recognise a Bryde’s whale on the beach, may not know whom to call, and may never think to ask what happened to it afterwards"
+    },
+    {
+      "id": "16",
+      "title": "First Nation community in Canada uses data centre to preserve its heritage",
+      "url": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
+      "published": "2026-10-21T13:07:08+05:30",
+      "text": "Wiikwemkoong community stores Indigenous language recordings and other information locally to safeguard its cultural legacy and control its data"
+    },
+    {
+      "id": "17",
+      "title": "Being a good doctor is risky in India",
+      "url": "https://www.thehindu.com/sci-tech/health/being-a-good-doctor-is-risky-in-india/article71599608.ece",
+      "published": "2026-10-21T12:49:56+05:30",
+      "text": "When people cannot access adequate food, clean water, or timely healthcare, can the solution to their illness really end with a prescription?"
+    },
+    {
+      "id": "18",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:39:42+00:00",
+      "text": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year."
+    },
+    {
+      "id": "19",
+      "title": "The Indian workers filming their work to train AI",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:04:17+00:00",
+      "text": "Indian workers are being paid to film themselves at work and the footage is used to train AI."
+    },
+    {
+      "id": "20",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:55:39+00:00",
+      "text": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry."
+    },
+    {
+      "id": "21",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T14:08:10+00:00",
+      "text": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday."
+    },
+    {
+      "id": "22",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:06:37+00:00",
+      "text": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+    },
+    {
+      "id": "23",
+      "title": "Indian among two killed in attack on Saudi airport, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T13:46:33+00:00",
+      "text": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom."
+    },
+    {
+      "id": "24",
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:15:13+00:00",
+      "text": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs."
+    },
+    {
+      "id": "25",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T11:48:04+00:00",
+      "text": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
+    },
+    {
+      "id": "26",
+      "title": "Lights will stay on this winter, grid operator says after concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T06:47:10+00:00",
+      "text": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
+    },
+    {
+      "id": "27",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:20:38+00:00",
+      "text": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
+    },
+    {
+      "id": "28",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T18:26:56+00:00",
+      "text": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+    },
+    {
+      "id": "29",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T22:27:53+00:00",
+      "text": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+    },
+    {
+      "id": "30",
+      "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T19:31:02+00:00",
+      "text": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+    },
+    {
+      "id": "31",
+      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T18:48:18+00:00",
+      "text": "Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday."
+    },
+    {
+      "id": "32",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T16:44:13+00:00",
+      "text": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+    },
+    {
+      "id": "33",
+      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T16:13:11+00:00",
+      "text": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+    },
+    {
+      "id": "34",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:30:47+00:00",
+      "text": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
+    },
+    {
+      "id": "35",
+      "title": "Weather warnings in place ahead of Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:37:05+00:00",
+      "text": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+    },
+    {
+      "id": "36",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T19:42:08+00:00",
+      "text": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+    },
+    {
+      "id": "37",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T19:46:30+00:00",
+      "text": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+    },
+    {
+      "id": "38",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:37:07+00:00",
+      "text": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+    },
+    {
+      "id": "39",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T19:30:19+00:00",
+      "text": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    {
+      "id": "40",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T18:52:17+00:00",
+      "text": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
+    },
+    {
+      "id": "41",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T12:17:45+00:00",
+      "text": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years."
+    }
+  ]
+}
