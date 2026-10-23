@@ -1,0 +1,623 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T03:42:06.280200+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "Corporate Developments and Workforce Trends",
+      "source_filename": "daily-2026-10-23.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "How much does Mukesh Ambani's Jio aim to raise through its share sale?",
+            "hi": "मुकेश अंबानी के जियो ने अपने शेयर बिक्री के माध्यम से कितनी राशि जुटाने का लक्ष्य रखा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$3.2bn",
+                "hi": "$3.2 अरब"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$25bn",
+                "hi": "$25 अरब"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$1.5bn",
+                "hi": "$1.5 अरब"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$5.0bn",
+                "hi": "$5.0 अरब"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The share sale aims to raise $3.2bn despite subdued equity markets.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+            "hi": "कमजोर शेयर बाजारों के बावजूद इस शेयर बिक्री का उद्देश्य $3.2 अरब जुटाना है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-1"
+        },
+        {
+          "prompt": {
+            "en": "What market conditions are noted alongside Jio's mega share sale?",
+            "hi": "जियो की मेगा शेयर बिक्री के साथ किस प्रकार की बाजार स्थितियों का उल्लेख किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Subdued equity markets",
+                "hi": "कमजोर शेयर बाजार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Unprecedented bull run",
+                "hi": "अभूतपूर्व तेजी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "High foreign institutional inflow",
+                "hi": "उच्च विदेशी संस्थागत प्रवाह"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Stagnant trading volumes",
+                "hi": "स्थिर कारोबारी वॉल्यूम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The share sale takes place despite subdued equity markets.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+            "hi": "यह शेयर बिक्री कमजोर शेयर बाजारों के बावजूद हो रही है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-2"
+        },
+        {
+          "prompt": {
+            "en": "Barclays is cutting how many jobs as a result of increased reliance on AI?",
+            "hi": "एआई पर बढ़ती निर्भरता के परिणामस्वरूप बार्कलेज कितनी नौकरियां कम कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5,000 jobs",
+                "hi": "5,000 नौकरियां"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "10,000 jobs",
+                "hi": "10,000 नौकरियां"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2,500 jobs",
+                "hi": "2,500 नौकरियां"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "1,000 jobs",
+                "hi": "1,000 नौकरियां"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Barclays is cutting 5,000 jobs as it increases its reliance on AI.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+            "hi": "बार्कलेज एआई पर अपनी निर्भरता बढ़ाते हुए 5,000 नौकरियां कम कर रहा है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-3"
+        },
+        {
+          "prompt": {
+            "en": "What percentage reduction in its workforce does Barclays attribute to increased AI usage?",
+            "hi": "बार्कलेज ने एआई के बढ़ते उपयोग के कारण अपने कार्यबल में कितने प्रतिशत कटौती का श्रेय दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5%",
+                "hi": "5%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "10%",
+                "hi": "10%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2%",
+                "hi": "2%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "15%",
+                "hi": "15%"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The increased use of AI led to a 5% reduction in its workforce.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+            "hi": "एआई के बढ़ते उपयोग से इसके कार्यबल में 5% की कमी आई है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-4"
+        },
+        {
+          "prompt": {
+            "en": "Which pharmaceutical trend does L'Oreal's CEO describe as a very important phenomenon impacting sales?",
+            "hi": "लॉरियल के सीईओ ने किस फार्मास्युटिकल प्रवृत्ति को बिक्री को प्रभावित करने वाली एक बहुत महत्वपूर्ण घटना बताया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Use of GLP-1s",
+                "hi": "जीएलपी-1 का उपयोग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "mRNA vaccine development",
+                "hi": "एमआरएनए टीका विकास"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gene therapy expansion",
+                "hi": "जीन थेरेपी का विस्तार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Synthetic biology scaling",
+                "hi": "सिंथेटिक बायोलॉजी का विस्तार"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "L'Oreal's CEO noted that the use of GLP-1s is impacting beauty and skin care sales.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+            "hi": "लॉरियल के सीईओ ने उल्लेख किया कि GLP-1 का उपयोग सौंदर्य और त्वचा की देखभाल की बिक्री को प्रभावित कर रहा है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-5"
+        },
+        {
+          "prompt": {
+            "en": "According to L'Oreal, weight loss drugs are impacting sales in which sector?",
+            "hi": "लॉरियल के अनुसार, वजन घटाने वाली दवाएं किस क्षेत्र की बिक्री को प्रभावित कर रही हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Beauty and skin care",
+                "hi": "ब्यूटी और स्किन केयर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Automotive and electronics",
+                "hi": "ऑटोमोटिव और इलेक्ट्रॉनिक्स"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Heavy machinery and tools",
+                "hi": "भारी मशीनरी और उपकरण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Aerospace and defense",
+                "hi": "एयरोस्पेस और रक्षा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Weight loss drugs are impacting beauty and skin care sales.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+            "hi": "वजन घटाने वाली दवाएं ब्यूटी और स्किन केयर की बिक्री को प्रभावित कर रही हैं।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-6"
+        },
+        {
+          "prompt": {
+            "en": "What type of tax prompted the Meta boss to state he would exit California?",
+            "hi": "किस प्रकार के कर के कारण मेटा प्रमुख ने कैलिफोर्निया छोड़ने की बात कही थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A wealth tax",
+                "hi": "वेल्थ टैक्स (धन कर)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A carbon emission tax",
+                "hi": "कार्बन उत्सर्जन कर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An artificial intelligence tax",
+                "hi": "कृत्रिम बुद्धिमत्ता कर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A digital service tax",
+                "hi": "डिजिटल सेवा कर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Zuckerberg threatened to exit the state over a wealth tax that has not yet come into force.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+            "hi": "जुकरबर्ग ने एक ऐसे धन कर (वेल्थ टैक्स) को लेकर राज्य छोड़ने की धमकी दी थी जो अभी लागू नहीं हुआ है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-7"
+        },
+        {
+          "prompt": {
+            "en": "What did Zuckerberg win to help him foot the bill for a possible California tax?",
+            "hi": "कैलिफोर्निया के संभावित कर के बिल का भुगतान करने में मदद के लिए जुकरबर्ग ने क्या हासिल किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A Meta deal",
+                "hi": "एक मेटा डील"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A government bailout subsidy",
+                "hi": "एक सरकारी बेलआउट सब्सिडी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A special federal tax exemption",
+                "hi": "एक विशेष संघीय कर छूट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An international trade agreement",
+                "hi": "एक अंतरराष्ट्रीय व्यापार समझौता"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Zuckerberg wins a Meta deal to help him foot the bill for a possible California billionaire tax.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+            "hi": "जुकरबर्ग ने कैलिफोर्निया के संभावित अरबपति कर के बिल का भुगतान करने में मदद के लिए एक मेटा डील हासिल की है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-8"
+        },
+        {
+          "prompt": {
+            "en": "What is Kashim Chowdhury accused of doing regarding his employment?",
+            "hi": "काशिम चौधरी पर अपनी रोजगार को लेकर क्या करने का आरोप लगाया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fraudulently juggling multiple public sector jobs",
+                "hi": "धोखाधड़ी से कई सार्वजनिक क्षेत्र की नौकरियों को संभालना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Embezzling corporate funds from a private bank",
+                "hi": "एक निजी बैंक से कॉर्पोरेट फंड का गबन करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Evading income taxes on offshore accounts",
+                "hi": "अपतटीय खातों पर आयकर से बचना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Falsifying academic credentials for promotion",
+                "hi": "पदोन्नति के लिए शैक्षणिक साख में हेरफेर करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+            "hi": "काशिम चौधरी पर धोखाधड़ी से कई सार्वजनिक क्षेत्र की नौकरियों को संभालने का आरोप है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-9"
+        },
+        {
+          "prompt": {
+            "en": "How many jobs was the civil servant Kashim Chowdhury accused of holding?",
+            "hi": "सिविल सेवक काशिम चौधरी पर कितनी नौकरियां रखने का आरोप लगाया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Five jobs",
+                "hi": "पाँच नौकरियां"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Three jobs",
+                "hi": "तीन नौकरियां"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Two jobs",
+                "hi": "दो नौकरियां"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Four jobs",
+                "hi": "चार नौकरियां"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The civil servant is described as a five jobs civil servant.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+            "hi": "इस सिविल सेवक को पांच नौकरियों वाला सिविल सेवक बताया गया है।"
+          },
+          "section": "Corporate Developments and Workforce Trends",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-10"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-10-23T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:55:39+00:00"
+    },
+    {
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T14:08:10+00:00"
+    },
+    {
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:06:37+00:00"
+    },
+    {
+      "title": "Indian among two killed in attack on Saudi airport, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T13:46:33+00:00"
+    },
+    {
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T18:22:28+00:00"
+    },
+    {
+      "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T05:16:44+00:00"
+    },
+    {
+      "title": "Grid operator says lights will stay on this winter after concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:04:38+00:00"
+    },
+    {
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T18:26:56+00:00"
+    },
+    {
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T22:27:53+00:00"
+    },
+    {
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T15:05:47+00:00"
+    },
+    {
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T14:28:59+00:00"
+    },
+    {
+      "title": "Tank barrel production returns to UK after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T13:45:19+00:00"
+    },
+    {
+      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T00:08:43+00:00"
+    },
+    {
+      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T21:59:43+00:00"
+    },
+    {
+      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T21:21:22+00:00"
+    },
+    {
+      "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T18:48:59+00:00"
+    },
+    {
+      "title": "Weather warning in place ahead of Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T15:14:38+00:00"
+    },
+    {
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T15:11:49+00:00"
+    }
+  ]
+}
