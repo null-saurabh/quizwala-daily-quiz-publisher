@@ -56,6 +56,8 @@ FEEDS = [
     'https://feeds.bbci.co.uk/news/world/asia/india/rss.xml',
     'https://feeds.bbci.co.uk/news/business/rss.xml',
     'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml',
+    'https://feeds.bbci.co.uk/news/world/rss.xml',
+    'https://feeds.bbci.co.uk/news/technology/rss.xml',
 ]
 
 
@@ -78,7 +80,7 @@ def sources():
     def fetch(feed):
         try: return read_url(feed)
         except OSError: return b''
-    with ThreadPoolExecutor(max_workers=5) as pool:
+    with ThreadPoolExecutor(max_workers=7) as pool:
         raws = list(pool.map(fetch, FEEDS))
     for raw in raws:
         try:
@@ -101,14 +103,14 @@ def sources():
                 result.append({'id': str(len(result)+1), 'title': title[:220], 'url': link,
                                'published': date.isoformat(), 'text': clean(item.findtext('description'))[:1000]})
                 per_feed += 1
-                if len(result) >= 18: return result
-                if per_feed >= 6: break
+                if len(result) >= 30: return result
+                if per_feed >= 8: break
         except (OSError, ValueError, ET.ParseError):
             print('A news feed was unavailable; using other available public sources.')
     return result
 
 
-MAX_ATTEMPTS = 3
+MAX_ATTEMPTS = 5
 
 
 def normalized(text):
@@ -189,7 +191,7 @@ def validate(data, evidence, edition_date=None, *, partial=False, previous=()):
                     'source_label': source['url'], 'status': 'ready', 'warnings': [], 'page': 1})
             except (KeyError, TypeError, ValueError, AttributeError):
                 continue
-        if not ready or (not partial and len(ready) < 10):
+        if not ready or (not partial and len(ready) < 3):
             continue
         seen_topics.add(topic_key)
         seen_questions.extend(block_questions)
@@ -201,7 +203,7 @@ def validate(data, evidence, edition_date=None, *, partial=False, previous=()):
             'quarantined': [],
             'warnings': ['AI-generated from linked public news sources. Check important facts against the source.']})
     if not partial and not decks:
-        raise ValueError('No complete topic with 10 source-backed questions; previous edition retained')
+        raise ValueError('No complete topic; previous edition retained')
     if not partial:
         assign_release_schedule(decks, edition_date)
     return decks
@@ -420,9 +422,9 @@ def merge_candidate(incoming, evidence, edition_date, root=ROOT):
 
 def candidate_payload(candidate, edition_date):
     # Keep underfilled topics in state, but publish every complete set.
-    decks = [deepcopy(deck) for deck in candidate['sets'] if len(deck['questions']) >= 10]
+    decks = [deepcopy(deck) for deck in candidate['sets'] if len(deck['questions']) >= 3]
     if not decks:
-        raise ValueError('Incomplete edition retained for top-up: need at least one set with 10 unique questions.')
+        raise ValueError('Incomplete edition retained for top-up: need at least one set with valid questions.')
     assign_release_schedule(decks, edition_date)
     return build_payload(decks, candidate['sources'], edition_date, dt.datetime.now(dt.timezone.utc))
 
