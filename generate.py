@@ -110,7 +110,7 @@ def sources():
     return result
 
 
-MAX_ATTEMPTS = 5
+MAX_ATTEMPTS = 10
 
 
 def normalized(text):
