@@ -19,8 +19,8 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "$3.2bn",
-                "hi": "$3.2 अरब"
+                "en": "$1bn",
+                "hi": "$1 अरब"
               }
             },
             {
@@ -43,12 +43,12 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "$1bn",
-                "hi": "$1 अरब"
+                "en": "$3.2bn",
+                "hi": "$3.2 अरब"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
             "en": "Jio's mega share sale aims to raise $3.2bn.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
             "hi": "जियो की मेगा शेयर बिक्री का लक्ष्य $3.2 अरब जुटाना है।"
@@ -172,8 +172,8 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "20 November",
-                "hi": "20 नवंबर"
+                "en": "1 December",
+                "hi": "1 दिसंबर"
               }
             },
             {
@@ -188,8 +188,8 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "1 December",
-                "hi": "1 दिसंबर"
+                "en": "20 November",
+                "hi": "20 नवंबर"
               }
             },
             {
@@ -201,7 +201,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "The updated policy applies to reservations booked on or after 20 November.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
             "hi": "अद्यतन नीति 20 नवंबर या उसके बाद बुक की गई आरक्षितियों पर लागू होती है।"
@@ -274,16 +274,16 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "India's second mega IPO in a month",
-                "hi": "एक महीने में भारत का दूसरा मेगा आईपीओ"
+                "en": "The first public offering of a space firm",
+                "hi": "किसी अंतरिक्ष फर्म का पहला सार्वजनिक निर्गम"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The first public offering of a space firm",
-                "hi": "किसी अंतरिक्ष फर्म का पहला सार्वजनिक निर्गम"
+                "en": "India's second mega IPO in a month",
+                "hi": "एक महीने में भारत का दूसरा मेगा आईपीओ"
               }
             },
             {
@@ -303,7 +303,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
             "en": "It is India's second mega IPO in a month.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
             "hi": "यह एक महीने में भारत का दूसरा मेगा आईपीओ है।"
@@ -325,16 +325,16 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Lies over user data privacy",
-                "hi": "उपयोगकर्ता डेटा गोपनीयता पर 'झूठ'"
+                "en": "Tax evasion in California",
+                "hi": "कैलिफोर्निया में कर चोरी"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Tax evasion in California",
-                "hi": "कैलिफोर्निया में कर चोरी"
+                "en": "Lies over user data privacy",
+                "hi": "उपयोगकर्ता डेटा गोपनीयता पर 'झूठ'"
               }
             },
             {
@@ -354,7 +354,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
             "en": "Meta was fined for lies over user data privacy.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
             "hi": "मेटा पर यूजर डेटा प्राइवेसी को लेकर झूठ बोलने के लिए जुर्माना लगाया गया।"
@@ -376,8 +376,8 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "SpaceX and Tesla",
-                "hi": "स्पेसएक्स और टेस्ला"
+                "en": "NASA and Treasury",
+                "hi": "नासा और ट्रेजरी"
               }
             },
             {
@@ -400,12 +400,12 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "NASA and Treasury",
-                "hi": "नासा और ट्रेजरी"
+                "en": "SpaceX and Tesla",
+                "hi": "स्पेसएक्स और टेस्ला"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
             "en": "The merger involves SpaceX and Tesla.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
             "hi": "इस विलय में स्पेसएक्स और टेस्ला शामिल हैं।"
@@ -427,8 +427,8 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Strip beds and wash dishes",
-                "hi": "बिस्तरों से चादरें हटाना और बर्तन धोना"
+                "en": "Leave the property before noon",
+                "hi": "दोपहर से पहले संपत्ति छोड़ना"
               }
             },
             {
@@ -443,8 +443,8 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Leave the property before noon",
-                "hi": "दोपहर से पहले संपत्ति छोड़ना"
+                "en": "Strip beds and wash dishes",
+                "hi": "बिस्तरों से चादरें हटाना और बर्तन धोना"
               }
             },
             {
@@ -456,7 +456,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "Hosts can no longer make guests strip beds and wash dishes.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
             "hi": "मेजबान अब मेहमानों से बिस्तर की चादरें हटाने और बर्तन धोने के लिए नहीं कह सकते।"
@@ -540,7 +540,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Agriculture and solar photovoltaic energy"
+                "en": "Aquaculture and hydropower"
               }
             },
             {
@@ -554,7 +554,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Aquaculture and hydropower"
+                "en": "Agriculture and solar photovoltaic energy"
               }
             },
             {
@@ -565,7 +565,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "Agrivoltaics combines agricultural use with solar photovoltaic generation.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
             "hi": null
@@ -586,7 +586,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "More than 85 per cent"
+                "en": "About 25 per cent"
               }
             },
             {
@@ -607,11 +607,11 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "About 25 per cent"
+                "en": "More than 85 per cent"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
             "en": "The cited figure is more than 85 per cent.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
             "hi": null
@@ -632,7 +632,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "USD 52.55 billion"
+                "en": "USD 5.255 billion"
               }
             },
             {
@@ -653,11 +653,11 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "USD 5.255 billion"
+                "en": "USD 52.55 billion"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
             "en": "The release cites agricultural exports of USD 52.55 billion.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
             "hi": null
@@ -678,7 +678,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "308.03 GW"
+                "en": "380.03 GW"
               }
             },
             {
@@ -692,7 +692,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "380.03 GW"
+                "en": "308.03 GW"
               }
             },
             {
@@ -703,7 +703,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "The stated non-fossil capacity is 308.03 GW.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
             "hi": null
@@ -724,7 +724,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Three days"
+                "en": "Seven days"
               }
             },
             {
@@ -745,11 +745,11 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Seven days"
+                "en": "Three days"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
             "en": "The conference is being held over three days.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
             "hi": null
@@ -816,7 +816,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "More than 1,200"
+                "en": "About 500"
               }
             },
             {
@@ -830,7 +830,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "About 500"
+                "en": "More than 1,200"
               }
             },
             {
@@ -841,7 +841,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "The conference has more than 1,200 delegates.\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
             "hi": null
@@ -862,7 +862,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "IWMI"
+                "en": "New Zealand Customs Service"
               }
             },
             {
@@ -883,11 +883,11 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "New Zealand Customs Service"
+                "en": "IWMI"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
             "en": "IWMI developed the Book of Abstracts.\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
             "hi": null
@@ -954,7 +954,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Two"
+                "en": "Three"
               }
             },
             {
@@ -968,7 +968,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Three"
+                "en": "Two"
               }
             },
             {
@@ -979,7 +979,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "The programme lists an India Focus Track and two scientific tracks.\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
             "hi": null
@@ -1012,7 +1012,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "7.9 per cent"
+                "en": "18.4 per cent"
               }
             },
             {
@@ -1026,7 +1026,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "18.4 per cent"
+                "en": "7.9 per cent"
               }
             },
             {
@@ -1037,7 +1037,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "The index grew 7.9 per cent in September.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
             "hi": null
@@ -1058,7 +1058,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "5.9 per cent"
+                "en": "4.1 per cent"
               }
             },
             {
@@ -1072,7 +1072,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "4.1 per cent"
+                "en": "5.9 per cent"
               }
             },
             {
@@ -1083,7 +1083,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "August growth was revised to 5.9 per cent.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
             "hi": null
@@ -1150,7 +1150,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "5.1 per cent"
+                "en": "5.9 per cent"
               }
             },
             {
@@ -1164,7 +1164,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "5.9 per cent"
+                "en": "5.1 per cent"
               }
             },
             {
@@ -1175,7 +1175,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "Cumulative growth for April–September was 5.1 per cent.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
             "hi": null
@@ -1196,7 +1196,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "2022-23"
+                "en": "2015-16"
               }
             },
             {
@@ -1210,7 +1210,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "2015-16"
+                "en": "2022-23"
               }
             },
             {
@@ -1221,7 +1221,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "The index base year is 2022–23.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
             "hi": null
@@ -1242,7 +1242,7 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "CBIC"
+                "en": "DGFT"
               }
             },
             {
@@ -1256,7 +1256,7 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "DGFT"
+                "en": "CBIC"
               }
             },
             {
@@ -1267,7 +1267,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "CBIC signed the MoC with the New Zealand Customs Service.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
             "hi": null
@@ -1288,14 +1288,14 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Electronic exchange of origin data for trade in goods"
+                "en": "Digital payment settlement data"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Digital payment settlement data"
+                "en": "Electronic exchange of origin data for trade in goods"
               }
             },
             {
@@ -1313,7 +1313,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
             "en": "The MoC concerns electronic exchange of origin data for trade in goods.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
             "hi": null
@@ -1380,14 +1380,14 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Around 100"
+                "en": "Around 50"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Around 50"
+                "en": "Around 100"
               }
             },
             {
@@ -1405,7 +1405,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
             "en": "Around 100 businesses and startups are expected.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326057&lang=1&reg=3",
             "hi": null
@@ -1426,14 +1426,14 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Strengthening economic partnerships, trade and technology cooperation"
+                "en": "Negotiating a customs union with the EU"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Negotiating a customs union with the EU"
+                "en": "Strengthening economic partnerships, trade and technology cooperation"
               }
             },
             {
@@ -1451,7 +1451,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
             "en": "The visit aims to strengthen economic ties, trade and technology cooperation.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326057&lang=1&reg=3",
             "hi": null

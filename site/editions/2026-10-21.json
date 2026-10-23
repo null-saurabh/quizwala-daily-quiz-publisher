@@ -20,8 +20,8 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Tesla and SpaceX",
-                "hi": "टेस्ला और स्पेसएक्स"
+                "en": "Tesla and Neuralink",
+                "hi": "टेस्ला और न्यूरालिंक"
               }
             },
             {
@@ -36,8 +36,8 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Tesla and Neuralink",
-                "hi": "टेस्ला और न्यूरालिंक"
+                "en": "Tesla and SpaceX",
+                "hi": "टेस्ला और स्पेसएक्स"
               }
             },
             {
@@ -49,7 +49,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
             "en": "Elon Musk stated that special committees within both Tesla and SpaceX have been formed to look at a possible mega-merger.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
             "hi": "एलोन मस्क ने बताया कि संभावित मेगा-विलय पर विचार करने के लिए टेस्ला और स्पेसएक्स दोनों कंपनियों के भीतर विशेष समितियों का गठन किया गया है।"
@@ -71,16 +71,16 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The White House exceeded its authority and caused immediate harm to American businesses.",
-                "hi": "व्हाइट हाउस ने अपने अधिकार क्षेत्र का उल्लंघन किया और अमेरिकी व्यवसायों को तत्काल नुकसान पहुँचाया।"
+                "en": "The tariffs were too low to protect domestic industries.",
+                "hi": "घरेलू उद्योगों की रक्षा के लिए टैरिफ बहुत कम थे।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The tariffs were too low to protect domestic industries.",
-                "hi": "घरेलू उद्योगों की रक्षा के लिए टैरिफ बहुत कम थे।"
+                "en": "The White House exceeded its authority and caused immediate harm to American businesses.",
+                "hi": "व्हाइट हाउस ने अपने अधिकार क्षेत्र का उल्लंघन किया और अमेरिकी व्यवसायों को तत्काल नुकसान पहुँचाया।"
               }
             },
             {
@@ -100,7 +100,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
             "en": "The lawsuit argues that the White House exceeded its authority in imposing the latest tariffs on Canada and caused immediate harm to American businesses.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
             "hi": "मुकदमे में तर्क दिया गया है कि व्हाइट हाउस ने कनाडा पर नवीनतम टैरिफ लगाने में अपने अधिकार का उल्लंघन किया और अमेरिकी व्यवसायों को तत्काल नुकसान पहुँचाया।"
@@ -132,16 +132,16 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Austen",
-                "hi": "ऑस्टेन"
+                "en": "Jackdaw",
+                "hi": "जैकडाव"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Jackdaw",
-                "hi": "जैकडाव"
+                "en": "Austen",
+                "hi": "ऑस्टेन"
               }
             },
             {
@@ -161,7 +161,7 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
             "en": "Storm Austen is the first named storm of the season, bringing damaging winds and heavy rain to parts of the UK.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
             "hi": "स्टॉर्म ऑस्टेन इस सीज़न का पहला नामित तूफान है, जो यूके के कुछ हिस्सों में नुकसानदायक हवाएं और भारी बारिश लाएगा।"
@@ -183,8 +183,8 @@
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Fin whale",
-                "hi": "फिन व्हेल"
+                "en": "Sei whale",
+                "hi": "सेई व्हेल"
               }
             },
             {
@@ -207,12 +207,12 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Sei whale",
-                "hi": "सेई व्हेल"
+                "en": "Fin whale",
+                "hi": "फिन व्हेल"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
             "en": "Footage captured a giant fin whale, the world's second-largest whale species, lunge feeding off the Welsh coast.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
             "hi": "फुटेज में दुनिया की दूसरी सबसे बड़ी व्हेल प्रजाति, विशाल फिन व्हेल को वेल्श तट के पास भोजन करते हुए कैप्चर किया गया।"

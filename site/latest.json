@@ -1,157 +1,995 @@
 {
   "schema_version": 2,
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T07:14:38.276057+00:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T01:43:31.334010+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
     {
-      "title": "Law, Crime & Global Governance",
-      "source_filename": "daily-2026-10-23.json",
+      "title": "Corporate and Financial News",
+      "source_filename": "daily-2026-10-22.json",
       "questions": [
         {
           "prompt": {
-            "en": "What was the name of the popular Instagram account run by V Harish?",
-            "hi": "वी हरीश द्वारा चलाए जाने वाले लोकप्रिय इंस्टाग्राम अकाउंट का नाम क्या था?"
+            "en": "How much does Jio's share sale aim to raise?",
+            "hi": "जियो की शेयर बिक्री से कितनी राशि जुटाने का लक्ष्य है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "\"Finance with Harish\"",
-                "hi": "\"फाइनेंस विद हरीश\""
+                "en": "$1bn",
+                "hi": "$1 अरब"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "\"Instagram Finance\""
+                "en": "$18bn",
+                "hi": "$18 अरब"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "\"Harish Finance Updates\""
+                "en": "$25bn",
+                "hi": "$25 अरब"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "\"Popular Indian Finance\""
+                "en": "$3.2bn",
+                "hi": "$3.2 अरब"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
-            "en": "The text confirms he ran the Instagram account \"Finance with Harish\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ पुष्टि करता है कि वह \"Finance with Harish\" इंस्टाग्राम अकाउंट चलाते थे।"
+            "en": "Jio's mega share sale aims to raise $3.2bn.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+            "hi": "जियो की मेगा शेयर बिक्री का लक्ष्य $3.2 अरब जुटाना है।"
           },
-          "section": "Law, Crime & Global Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-3"
+          "id": "2026-10-22-1"
         },
         {
           "prompt": {
-            "en": "Saurav Das and Ashutosh Ranka were accused of breaking into a venue located in which city?",
-            "hi": "सौरव दास और आशुतोष रंका पर किस शहर में एक अनधिकृत विरोध स्थल में घुसने का आरोप लगाया गया था?"
+            "en": "What is notable about the $25bn fine levied against Meta?",
+            "hi": "मेटा पर लगाए गए $25 अरब के जुर्माने के बारे में क्या उल्लेखनीय है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Delhi",
-                "hi": "दिल्ली"
+                "en": "It is the smallest fine to date",
+                "hi": "यह अब तक का सबसे कम जुर्माना है"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Mumbai"
+                "en": "It is larger than an $18bn deal with California",
+                "hi": "यह कैलिफोर्निया के साथ $18 अरब के समझौते से बड़ा है"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Kolkata"
+                "en": "It was issued by the Indian government",
+                "hi": "इसे भारत सरकार द्वारा जारी किया गया था"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Bengaluru"
+                "en": "It relates to a tax violation",
+                "hi": "यह कर उल्लंघन से संबंधित है"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "The text states they were accused of breaking into an unauthorised protest venue in Delhi.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में कहा गया है कि उन पर दिल्ली में एक अनधिकृत विरोध स्थल में घुसने का आरोप लगाया गया था।"
+            "en": "The $25bn fine is larger than an $18bn deal with California.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+            "hi": "$25 अरब का जुर्माना कैलिफोर्निया के साथ $18 अरब के समझौते से बड़ा है।"
           },
-          "section": "Law, Crime & Global Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-4"
+          "id": "2026-10-22-2"
         },
         {
           "prompt": {
-            "en": "What is Kashim Chowdhury accused of doing fraudulently?",
-            "hi": "काशिम चौधरी पर किस चीज़ में धोखाधड़ी करने का आरोप है?"
+            "en": "What did Elon Musk state about the potential merger of SpaceX and Tesla?",
+            "hi": "एलन मस्क ने स्पेसएक्स और टेस्ला के संभावित विलय के बारे में क्या कहा?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Juggling multiple public sector jobs",
-                "hi": "कई सार्वजनिक क्षेत्र की नौकरियों को संभालना"
+                "en": "There is a lot to be gained",
+                "hi": "बहुत कुछ हासिल किया जाना बाकी है"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Embezzling bank funds"
+                "en": "It would be illegal",
+                "hi": "यह अवैध होगा"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Falsifying academic credentials"
+                "en": "It will fail",
+                "hi": "यह असफल हो जाएगा"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Dodging corporate taxes"
+                "en": "No financial gain is expected",
+                "hi": "कोई वित्तीय लाभ की उम्मीद नहीं है"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The text explicitly states he is accused of fraudulently juggling multiple public sector jobs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ स्पष्ट रूप से बताता है कि उस पर धोखाधड़ी से कई सार्वजनिक क्षेत्र की नौकरियों को संभालने का आरोप है।"
+            "en": "Musk noted there is a lot to be gained by combining the firms.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+            "hi": "मस्क ने उल्लेख किया कि दोनों फर्मों को मिलाने से बहुत कुछ हासिल किया जा सकता है।"
           },
-          "section": "Law, Crime & Global Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-5"
+          "id": "2026-10-22-3"
+        },
+        {
+          "prompt": {
+            "en": "From which date does Airbnb's updated policy regarding guest chores apply?",
+            "hi": "मेहमानों के घरेलू कामों से संबंधित Airbnb की अद्यतन नीति किस तारीख से लागू होगी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "1 December",
+                "hi": "1 दिसंबर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "21 October",
+                "hi": "21 अक्टूबर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "20 November",
+                "hi": "20 नवंबर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "19 October",
+                "hi": "19 अक्टूबर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The updated policy applies to reservations booked on or after 20 November.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+            "hi": "अद्यतन नीति 20 नवंबर या उसके बाद बुक की गई आरक्षितियों पर लागू होती है।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-4"
+        },
+        {
+          "prompt": {
+            "en": "What has the UK Treasury calculated for the first time?",
+            "hi": "ब्रिटिश राजकोष (Treasury) ने पहली बार क्या गणना की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "How much the UK could have raised by investing North Sea proceeds",
+                "hi": "यूके ने उत्तर सागर आय का निवेश करके कितना जुटाया हो सकता था"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The exact cost of the Jackdaw project",
+                "hi": "जैकडाव परियोजना की सटीक लागत"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The total carbon emissions of Indonesia",
+                "hi": "इंडोनेशिया का कुल कार्बन उत्सर्जन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The global price of PHP programming",
+                "hi": "PHP प्रोग्रामिंग की वैश्विक कीमत"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Treasury calculated how much the UK could have raised by investing North Sea proceeds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+            "hi": "राजकोष ने गणना की कि यूके उत्तर सागर से प्राप्त आय का निवेश करके कितना धन जुटा सकता था।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-5"
+        },
+        {
+          "prompt": {
+            "en": "Jio's share sale represents which type of offering in the context of recent market activity?",
+            "hi": "हालिया बाजार गतिविधि के संदर्भ में जियो की शेयर बिक्री किस प्रकार की पेशकश का प्रतिनिधित्व करती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The first public offering of a space firm",
+                "hi": "किसी अंतरिक्ष फर्म का पहला सार्वजनिक निर्गम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "India's second mega IPO in a month",
+                "hi": "एक महीने में भारत का दूसरा मेगा आईपीओ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A government-backed bond",
+                "hi": "सरकार समर्थित बॉन्ड"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An emergency bailout fund",
+                "hi": "एक आपातकालीन राहत कोष"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "It is India's second mega IPO in a month.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+            "hi": "यह एक महीने में भारत का दूसरा मेगा आईपीओ है।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-6"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason Meta was fined $25bn?",
+            "hi": "मेटा पर $25 अरब का जुर्माना लगाने का मुख्य कारण क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Tax evasion in California",
+                "hi": "कैलिफोर्निया में कर चोरी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lies over user data privacy",
+                "hi": "उपयोगकर्ता डेटा गोपनीयता पर 'झूठ'"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Unauthorised satellite launches",
+                "hi": "अनधिकृत उपग्रह प्रक्षेपण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "failing to pay its employees",
+                "hi": "अपने कर्मचारियों को भुगतान करने में विफल रहना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Meta was fined for lies over user data privacy.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+            "hi": "मेटा पर यूजर डेटा प्राइवेसी को लेकर झूठ बोलने के लिए जुर्माना लगाया गया।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-7"
+        },
+        {
+          "prompt": {
+            "en": "Which two companies are involved in the mega-merger plotted by Elon Musk?",
+            "hi": "एलन मस्क द्वारा रचे गए मेगा-विलय में कौन सी दो कंपनियां शामिल हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "NASA and Treasury",
+                "hi": "नासा और ट्रेजरी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Meta and Facebook",
+                "hi": "मेटा और फेसबुक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jio and GE Aerospace",
+                "hi": "जियो और जी एयरोस्पेस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "SpaceX and Tesla",
+                "hi": "स्पेसएक्स और टेस्ला"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The merger involves SpaceX and Tesla.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+            "hi": "इस विलय में स्पेसएक्स और टेस्ला शामिल हैं।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-8"
+        },
+        {
+          "prompt": {
+            "en": "Under Airbnb's new rules, what are hosts no longer allowed to make guests do?",
+            "hi": "Airbnb के नए नियमों के तहत, मेजबान अब मेहमानों से क्या नहीं करवा सकते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Leave the property before noon",
+                "hi": "दोपहर से पहले संपत्ति छोड़ना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Pay booking fees in advance",
+                "hi": "बुकिंग शुल्क का अग्रिम भुगतान करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Strip beds and wash dishes",
+                "hi": "बिस्तरों से चादरें हटाना और बर्तन धोना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Review their stay online",
+                "hi": "अपने ठहरने की ऑनलाइन समीक्षा करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Hosts can no longer make guests strip beds and wash dishes.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+            "hi": "मेजबान अब मेहमानों से बिस्तर की चादरें हटाने और बर्तन धोने के लिए नहीं कह सकते।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-9"
+        },
+        {
+          "prompt": {
+            "en": "Whose proceeds were evaluated by the UK Treasury?",
+            "hi": "यूके ट्रेजरी द्वारा किसकी आय का मूल्यांकन किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "North Sea proceeds",
+                "hi": "उत्तर सागर की आय"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "SpaceX revenue",
+                "hi": "स्पेसएक्स का राजस्व"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jio share sales",
+                "hi": "जियो शेयर बिक्री"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Indonesia wildfire funds",
+                "hi": "इंडोनेशियाई जंगल की आग के फंड"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Treasury calculated based on North Sea proceeds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+            "hi": "राजकोष ने उत्तर सागर की आय के आधार पर गणना की।"
+          },
+          "section": "Corporate and Financial News",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-10"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-10-22T06:30:00+05:30"
+    },
+    {
+      "title": "Agrivoltaics and Farm Energy",
+      "source_filename": "daily-2026-10-22.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What two activities does agrivoltaics combine?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Aquaculture and hydropower"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Agriculture and wind energy"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Agriculture and solar photovoltaic energy"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Forestry and geothermal energy"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Agrivoltaics combines agricultural use with solar photovoltaic generation.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-11"
+        },
+        {
+          "prompt": {
+            "en": "What share of Indian farmers are described as small and marginal?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "About 25 per cent"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "About 50 per cent"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than 95 per cent"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More than 85 per cent"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The cited figure is more than 85 per cent.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-12"
+        },
+        {
+          "prompt": {
+            "en": "What value is given for India’s agricultural exports?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "USD 5.255 billion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "USD 25.55 billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "USD 82.05 billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "USD 52.55 billion"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The release cites agricultural exports of USD 52.55 billion.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-13"
+        },
+        {
+          "prompt": {
+            "en": "What non-fossil installed electricity capacity is reported?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "380.03 GW"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "208.03 GW"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "308.03 GW"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "30.803 GW"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The stated non-fossil capacity is 308.03 GW.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-14"
+        },
+        {
+          "prompt": {
+            "en": "How long is the 7th AgriVoltaics World Conference being held?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Seven days"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "One day"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Two days"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Three days"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The conference is being held over three days.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-15"
+        },
+        {
+          "prompt": {
+            "en": "What is the conference theme?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Powering the Global South"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Energy for Every Farm"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Solar Futures for Europe"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Food Systems 2030"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The conference theme is “Powering the Global South.”\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-16"
+        },
+        {
+          "prompt": {
+            "en": "How many delegates are expected at the conference?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "About 500"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than 120"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than 1,200"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Exactly 150"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The conference has more than 1,200 delegates.\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-17"
+        },
+        {
+          "prompt": {
+            "en": "Which organisation developed the Book of Abstracts?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "New Zealand Customs Service"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "MNRE"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "CBIC"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "IWMI"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "IWMI developed the Book of Abstracts.\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-18"
+        },
+        {
+          "prompt": {
+            "en": "Which ministry prepared the AgriPV Policy Handbook?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "MNRE"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "IWMI"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "CBIC"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ministry of Commerce"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The AgriPV Policy Handbook was prepared by MNRE.\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-19"
+        },
+        {
+          "prompt": {
+            "en": "How many scientific tracks are included in the programme?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Three"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "One"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Two"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Four"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The programme lists an India Focus Track and two scientific tracks.\nSource: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+            "hi": null
+          },
+          "section": "Agrivoltaics and Farm Energy",
+          "source_label": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-20"
         }
       ],
       "quarantined": [],
@@ -159,155 +997,471 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-10-23T13:00:00+05:30"
+      "release_at": "2026-10-22T13:00:00+05:30"
     },
     {
-      "title": "International Security, Defense & Climate",
-      "source_filename": "daily-2026-10-23.json",
+      "title": "Trade and Industrial Growth",
+      "source_filename": "daily-2026-10-22.json",
       "questions": [
         {
           "prompt": {
-            "en": "Which movement is cited as targeting airports and other sites in the kingdom?",
-            "hi": "राजशाही में हवाई अड्डों और अन्य स्थलों को निशाना बनाने वाले किस आंदोलन का उल्लेख किया गया है?"
+            "en": "By how much did the Eight Core Industries index grow in September 2026?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The Houthi movement",
-                "hi": "हूती आंदोलन"
+                "en": "18.4 per cent"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "An international coalition"
+                "en": "5.9 per cent"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A domestic rebel faction"
+                "en": "7.9 per cent"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The border defense militia"
+                "en": "5.1 per cent"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The text attributes the attacks to the Houthi movement.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ हमलों का श्रेय हूती आंदोलन को देता है।"
+            "en": "The index grew 7.9 per cent in September.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+            "hi": null
           },
-          "section": "International Security, Defense & Climate",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-6"
+          "id": "2026-10-22-21"
         },
         {
           "prompt": {
-            "en": "According to the UK defence secretary, what production has returned to the UK after 20 years?",
-            "hi": "यूके के रक्षा सचिव के अनुसार, 20 वर्षों के बाद यूके में किस चीज़ का उत्पादन वापस आ गया है?"
+            "en": "What was the revised growth rate for the core industries index in August 2026?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Tank barrel production",
-                "hi": "टैंक बैरल उत्पादन"
+                "en": "4.1 per cent"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "fighter jet manufacturing"
+                "en": "7.9 per cent"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Naval warship construction"
+                "en": "5.9 per cent"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Small arms ammunition"
+                "en": "18.4 per cent"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The article title and context refer to tank barrel production returning to the UK.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-            "hi": "लेख का शीर्षक और संदर्भ यूके में टैंक बैरल उत्पादन की वापसी को संदर्भित करते हैं।"
+            "en": "August growth was revised to 5.9 per cent.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+            "hi": null
           },
-          "section": "International Security, Defense & Climate",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-7"
+          "id": "2026-10-22-22"
         },
         {
           "prompt": {
-            "en": "What is the name of the storm hitting parts of the UK, bringing powerful winds?",
-            "hi": "यूके के कुछ हिस्सों में तेज हवाएं लाने वाले तूफान का नाम क्या है?"
+            "en": "Which listed sector recorded 18.4 per cent growth?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Storm Austen",
-                "hi": "तूफान ऑस्टेन"
+                "en": "Iron ore production"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Storm Boelo"
+                "en": "Coal production"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Storm Phoenix"
+                "en": "Cement production"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Storm Caroline"
+                "en": "Crude oil production"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The text states that Storm Austen hits parts of the UK with powerful winds.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में कहा गया है कि तूफान ऑस्टेन तेज हवाओं के साथ यूके के कुछ हिस्सों से टकराता है।"
+            "en": "Iron ore production recorded 18.4 per cent growth.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+            "hi": null
           },
-          "section": "International Security, Defense & Climate",
-          "source_label": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-8"
+          "id": "2026-10-22-23"
+        },
+        {
+          "prompt": {
+            "en": "What was cumulative core industries growth from April to September 2026?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5.9 per cent"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "7.9 per cent"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "5.1 per cent"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "18.4 per cent"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Cumulative growth for April–September was 5.1 per cent.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-24"
+        },
+        {
+          "prompt": {
+            "en": "What is the base year of the Eight Core Industries index?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2015-16"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2011-12"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2022-23"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2020-21"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The index base year is 2022–23.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-25"
+        },
+        {
+          "prompt": {
+            "en": "Which Indian body signed the customs cooperation memorandum with New Zealand?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "DGFT"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "RBI"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "CBIC"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "NITI Aayog"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "CBIC signed the MoC with the New Zealand Customs Service.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-26"
+        },
+        {
+          "prompt": {
+            "en": "What information is covered by the India–New Zealand customs MoC?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Digital payment settlement data"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Electronic exchange of origin data for trade in goods"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Passenger travel records"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Agricultural weather data"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The MoC concerns electronic exchange of origin data for trade in goods.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-27"
+        },
+        {
+          "prompt": {
+            "en": "When did the India–New Zealand Free Trade Agreement enter into force?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "20 October 2026"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "19 October 2026"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "22 October 2026"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "24 October 2026"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The FTA entered into force on 20 October 2026.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-28"
+        },
+        {
+          "prompt": {
+            "en": "How many businesses and startups are expected to join Piyush Goyal’s visit?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Around 50"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Around 100"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Around 150"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Around 1,000"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Around 100 businesses and startups are expected.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326057&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326057&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-29"
+        },
+        {
+          "prompt": {
+            "en": "What is one stated goal of the Germany and Netherlands visit?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Negotiating a customs union with the EU"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Strengthening economic partnerships, trade and technology cooperation"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Launching a new currency"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Establishing a regional military alliance"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The visit aims to strengthen economic ties, trade and technology cooperation.\nSource: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326057&lang=1&reg=3",
+            "hi": null
+          },
+          "section": "Trade and Industrial Growth",
+          "source_label": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326057&lang=1&reg=3",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-22-30"
         }
       ],
       "quarantined": [],
@@ -315,30 +1469,10 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-10-23T18:00:00+05:30"
+      "release_at": "2026-10-22T18:00:00+05:30"
     }
   ],
   "sources": [
-    {
-      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T23:55:39+00:00"
-    },
-    {
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T14:08:10+00:00"
-    },
-    {
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:06:37+00:00"
-    },
-    {
-      "title": "Indian among two killed in attack on Saudi airport, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T13:46:33+00:00"
-    },
     {
       "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
       "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
@@ -350,64 +1484,99 @@
       "published": "2026-10-21T05:16:44+00:00"
     },
     {
-      "title": "Grid operator says lights will stay on this winter after concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T23:04:38+00:00"
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:04:08+00:00"
     },
     {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T18:26:56+00:00"
+      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T07:35:06+00:00"
     },
     {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T22:27:53+00:00"
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:27:05+00:00"
     },
     {
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T15:05:47+00:00"
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T19:54:57+00:00"
     },
     {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T14:28:59+00:00"
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T21:49:07+00:00"
     },
     {
-      "title": "Tank barrel production returns to UK after 20 years",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T13:45:19+00:00"
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:54:58+00:00"
     },
     {
-      "title": "Amber warning in place as Storm Austen hits parts of UK",
-      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T00:08:43+00:00"
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:12:06+00:00"
     },
     {
-      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T21:59:43+00:00"
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:04:03+00:00"
     },
     {
-      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T21:21:22+00:00"
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T22:02:18+00:00"
     },
     {
-      "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T18:48:59+00:00"
+      "title": "Pupils who designed a badge sent to space meet NASA astronaut",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T19:39:38+00:00"
     },
     {
-      "title": "Weather warning in place ahead of Storm Boelo",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T15:14:38+00:00"
+      "title": "Fuel leak which killed fish in River Taff stopped",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T18:28:06+00:00"
     },
     {
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T15:11:49+00:00"
+      "title": "Will Jackdaw cut your energy bills?",
+      "url": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T16:17:49+00:00"
+    },
+    {
+      "title": "Orionid meteor shower to peak in UK skies into Thursday",
+      "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T15:44:20+00:00"
+    },
+    {
+      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T11:57:49+00:00"
+    },
+    {
+      "title": "7th AgriVoltaics World Conference opens in New Delhi",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326059&lang=1&reg=3",
+      "published": "2026-10-22T00:00:00+05:30"
+    },
+    {
+      "title": "India hosts 7th AgriVoltaics World Conference",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326072&lang=2&reg=48",
+      "published": "2026-10-22T00:00:00+05:30"
+    },
+    {
+      "title": "Index of Eight Core Industries for September 2026",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326038&lang=1&reg=3",
+      "published": "2026-10-22T00:00:00+05:30"
+    },
+    {
+      "title": "India and New Zealand sign customs data exchange MoC",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326043&lang=1&reg=3",
+      "published": "2026-10-22T00:00:00+05:30"
+    },
+    {
+      "title": "Piyush Goyal to visit Germany and Netherlands",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2326057&lang=1&reg=3",
+      "published": "2026-10-22T00:00:00+05:30"
     }
   ]
 }
