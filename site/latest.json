@@ -1,42 +1,144 @@
 {
   "schema_version": 2,
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T08:09:36.557067+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-23T18:03:57.212281+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
     {
-      "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-10-23.json",
+      "title": "Set 1: National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-10-24.json",
       "questions": [
         {
           "prompt": {
-            "en": "Who among the following was selected for a national award after tragically dying in the line of duty in Telangana?",
-            "hi": "तेलंगाना में कर्तव्य निभाते हुए जान गंवाने वाले निम्नलिखित में से किसे राष्ट्रीय पुरस्कार के लिए चुना गया?"
+            "en": "In Nellore, family members of Minister Narayana campaigned for alliance candidates and sought votes for which mayoral candidate?",
+            "hi": "नेल्लोर में, मंत्री नारायण के परिवार के सदस्यों ने गठबंधन के उम्मीदवारों के लिए प्रचार किया और किस मेयर उम्मीदवार के लिए वोट मांगे?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Banoth Naveen",
-                "hi": "बानोथ नवीन"
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Ashutosh Ranka",
-                "hi": "आशुतोष रांका"
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Saurav Das",
-                "hi": "सौरव दास"
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "V Harish",
+                "hi": "वी हरीश"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Minister's family campaigned for mayoral candidate Roop Kumar Yadav in Nellore.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/narayanas-family-takes-part-in-poll-campaign-in-nellore/article71616954.ece",
+            "hi": "मंत्री के परिवार ने नेल्लोर में मेयर पद के उम्मीदवार रूप कुमार यादव के लिए प्रचार किया।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/narayanas-family-takes-part-in-poll-campaign-in-nellore/article71616954.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-1"
+        },
+        {
+          "prompt": {
+            "en": "Which organization urged Prime Minister Narendra Modi to deny operating permissions for SpaceX's Starlink?",
+            "hi": "किस संगठन ने प्रधानमंत्री नरेंद्र मोदी से स्पेसएक्स के स्टारलिंक के लिए परिचालन अनुमति देने से इनकार करने का आग्रह किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Swadeshi Jagaran Manch",
+                "hi": "स्वदेशी जागरण मंच"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Confederation of Indian Industry",
+                "hi": "भारतीय उद्योग परिसंघ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "FICCI",
+                "hi": "फिक्की"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Associated Chambers of Commerce",
+                "hi": "एसोचैम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Swadeshi Jagaran Manch urged the Prime Minister to deny operating permissions for SpaceX’s Starlink, emphasizing domestic infrastructure.\nSource: https://www.thehindu.com/news/national/swadeshi-jagaran-manch-urges-pm-modi-to-deny-operating-permissions-for-spacexs-starlink/article71616840.ece",
+            "hi": "स्वदेशी जागरण मंच ने प्रधानमंत्री से आग्रह किया कि घरेलू बुनियादी ढांचे पर जोर देते हुए स्पेसएक्स के स्टारलिंक को परिचालन अनुमति न दी जाए।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/swadeshi-jagaran-manch-urges-pm-modi-to-deny-operating-permissions-for-spacexs-starlink/article71616840.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-2"
+        },
+        {
+          "prompt": {
+            "en": "Who is the Kannada news channel head who secured interim-anticipatory bail in connection with a Karnataka 'sting operation' case?",
+            "hi": "कर्नाटक 'स्टिंग ऑपरेशन' मामले के सिलसिले में अंतरिम अग्रिम जमानत हासिल करने वाले कन्नड़ समाचार चैनल के प्रमुख कौन हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "V Harish",
+                "hi": "वी हरीश"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
               }
             },
             {
@@ -48,527 +150,935 @@
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "Banoth Naveen was selected for a national award after coming in contact with a live wire while chasing poachers.\nSource: https://www.thehindu.com/news/national/telangana/forest-beat-officer-who-died-in-line-of-duty-selected-for-national-award/article71612391.ece",
-            "hi": "शिकारियों का पीछा करते समय लाइव तार के संपर्क में आने के बाद बानोथ नवीन को राष्ट्रीय पुरस्कार के लिए चुना गया।"
+            "en": "Kannada news channel head Rakesh Shetty secured interim-anticipatory bail after being questioned by the cybercrime wing.\nSource: https://www.thehindu.com/news/national/karnataka/sting-operation-case-kannada-news-channel-head-moves-court-for-anticipatory-bail/article71614752.ece",
+            "hi": "साइबर क्राइम विंग द्वारा पूछताछ के बाद कन्नड़ समाचार चैनल के प्रमुख राकेश शेट्टी ने अंतरिम अग्रिम जमानत हासिल की।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/telangana/forest-beat-officer-who-died-in-line-of-duty-selected-for-national-award/article71612391.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/sting-operation-case-kannada-news-channel-head-moves-court-for-anticipatory-bail/article71614752.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-1"
+          "id": "2026-10-24-3"
         },
         {
           "prompt": {
-            "en": "Left parties and BRS staged a joint dharna in Telangana demanding the release of pending bills for incomplete houses sanctioned under which previous housing scheme?",
-            "hi": "वाम दलों और बीआरएस ने तेलंगाना में किस पिछली आवास योजना के तहत स्वीकृत अधूरे घरों के लंबित बिलों को जारी करने की मांग को लेकर संयुक्त धरना दिया?"
+            "en": "At least four people died in a blast in a house located in which district of Bihar?",
+            "hi": "बिहार के किस जिले में एक घर में हुए धमाके में कम से कम चार लोगों की मौत हो गई?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Pradhan Mantri Awas Yojana",
-                "hi": "प्रधानमंत्री आवास योजना"
+                "en": "Siwan district",
+                "hi": "सिवान जिला"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Indira Awaas Yojana",
-                "hi": "इंदिरा आवास योजना"
+                "en": "Patna district",
+                "hi": "पटना जिला"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Rajiv Gandhi Awas Yojana",
-                "hi": "राजीव गांधी आवास योजना"
+                "en": "Muzaffarpur district",
+                "hi": "मुजफ्फरपुर जिला"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Indiramma Housing Scheme",
-                "hi": "इंदिराम्मा आवास योजना"
+                "en": "Bhagalpur district",
+                "hi": "भागलपुर जिला"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "At least four individuals lost their lives in a firecracker-making house explosion in Bihar's Siwan district.\nSource: https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece",
+            "hi": "बिहार के सीवान जिले में पटाखा बनाने वाले एक घर में हुए विस्फोट में कम से कम चार लोगों की जान चली गई।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-4"
+        },
+        {
+          "prompt": {
+            "en": "Who is the US Secretary of State who visited India on his second trip this year to push a business and energy agenda?",
+            "hi": "इस वर्ष अपनी दूसरी यात्रा पर भारत आने वाले और व्यापार एवं ऊर्जा एजेंडे को आगे बढ़ाने वाले अमेरिकी विदेश मंत्री कौन हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Marco Rubio",
+                "hi": "मार्को रुबियो"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Antony Blinken",
+                "hi": "पिट एंटनी ब्लिंकन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lloyd Austin",
+                "hi": "लॉयड ऑस्टिन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jake Sullivan",
+                "hi": "जेक सुलिवन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "US Secretary of State Marco Rubio visited India to focus on business and energy.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+            "hi": "अमेरिकी विदेश मंत्री मार्को रुबियो ने व्यापार और ऊर्जा पर ध्यान केंद्रित करने के लिए भारत का दौरा किया।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-5"
+        },
+        {
+          "prompt": {
+            "en": "The popular Instagram account \"Finance with Harish\" was run by whom?",
+            "hi": "लोकप्रिय इंस्टाग्राम अकाउंट \"फाइनेंस विद हरीश\" किसके द्वारा चलाया जाता था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "V Harish",
+                "hi": "वी हरीश"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The parties demanded pending bills for houses sanctioned under the Indira Awaas Yojana and other previous schemes.\nSource: https://www.thehindu.com/news/national/telangana/left-parties-brs-stage-joint-dharna-demanding-transparency-in-indiramma-houses-beneficiary-selection/article71612250.ece",
-            "hi": "दलों ने इंदिरा आवास योजना और अन्य पिछली योजनाओं के तहत स्वीकृत घरों के लंबित बिलों की मांग की।"
+            "en": "V Harish ran the popular Instagram account \"Finance with Harish\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+            "hi": "वी हरीश लोकप्रिय इंस्टाग्राम अकाउंट \"फाइनेंस विद हरीश\" चलाते थे।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/telangana/left-parties-brs-stage-joint-dharna-demanding-transparency-in-indiramma-houses-beneficiary-selection/article71612250.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-2"
+          "id": "2026-10-24-6"
         },
         {
           "prompt": {
-            "en": "Which luxury train in Karnataka has been revamped and fully booked for the first time?",
-            "hi": "कर्नाटक की किस लग्जरी ट्रेन को नए रूप में तैयार किया गया है और पहली बार पूरी तरह से बुक किया गया है?"
+            "en": "Who was charged with fraud after juggling five jobs without informing his employers?",
+            "hi": "अपने नियोक्ताओं को बताए बिना पांच नौकरियां करने के बाद धोखाधड़ी का आरोपी किसे बनाया गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Golden Chariot",
-                "hi": "गोल्डन चैरियट"
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Palace on Wheels",
-                "hi": "पैलेस ऑन व्हील्स"
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Maharajas' Express",
-                "hi": "महाराजा एक्सप्रेस"
+                "en": "V Harish",
+                "hi": "वी हरीश"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Deccan Odyssey",
-                "hi": "दक्कन ओडिसी"
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Civil servant Kashim Chowdhury was charged with fraud for holding multiple jobs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+            "hi": "सिविल सेवक काशिम चौधरी पर कई नौकरियां रखने के लिए धोखाधड़ी का आरोप लगाया गया था।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-7"
+        },
+        {
+          "prompt": {
+            "en": "What does the Welsh government plan to ban as part of its newly launched consultation?",
+            "hi": "वेल्श सरकार अपनी नई शुरू की गई परामर्श प्रक्रिया के हिस्से के रूप में किस पर प्रतिबंध लगाने की योजना बना रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Steel pylons",
+                "hi": "स्टील के खंभे (पायलन)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Diesel vehicles",
+                "hi": "डीजल वाहन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Plastic bags",
+                "hi": "प्लास्टिक बैग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Coal-fired generation",
+                "hi": "कोयला आधारित उत्पादन"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The Golden Chariot has been revamped and fully booked for the first time, featuring a diversified food menu.\nSource: https://www.thehindu.com/news/national/karnataka/golden-chariot-revamped-fully-booked-for-the-first-time/article71611630.ece",
-            "hi": "गोल्डन चैरियट को नए रूप में सजाया गया है और पहली बार यह पूरी तरह बुक है।"
+            "en": "The Welsh government launched a consultation on banning steel pylons by preferring an undergrounding-first approach.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+            "hi": "वेल्श सरकार ने भूमिगत दृष्टिकोण को प्राथमिकता देते हुए स्टील पाइल पर प्रतिबंध लगाने पर परामर्श शुरू किया है।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/karnataka/golden-chariot-revamped-fully-booked-for-the-first-time/article71611630.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-3"
+          "id": "2026-10-24-8"
         },
         {
           "prompt": {
-            "en": "In Karnataka, teachers from government and aided schools have been assigned as Booth Level Officers for what specific duty?",
-            "hi": "कर्नाटक में सरकारी और सहायता प्राप्त स्कूलों के शिक्षकों को किस विशिष्ट कर्तव्य के लिए बूथ लेवल ऑफिसर नियुक्त किया गया है?"
+            "en": "A deadly shooting near which European capital is being investigated as a 'crime of terrorism'?",
+            "hi": "किस यूरोपीय राजधानी के पास हुई एक घातक गोलीबारी की जांच 'आतंकवाद के अपराध' के रूप में की जा रही है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Special Intensive Revision of electoral rolls",
-                "hi": "मतदाता सूचियों का विशेष गहन पुनरीक्षण"
+                "en": "Paris",
+                "hi": "पेरिस"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "National Census Operations",
-                "hi": "राष्ट्रीय जनगणना संचालन"
+                "en": "Berlin",
+                "hi": "बर्लिन"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Mid-Day Meal Auditing",
-                "hi": "मध्याह्न भोजन लेखा परीक्षा"
+                "en": "London",
+                "hi": "लंदन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Pulse Polio Immunization Drive",
-                "hi": "पल्स पोलियो प्रतिरक्षण अभियान"
+                "en": "Madrid",
+                "hi": "मैड्रिड"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "Teachers have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
-            "hi": "शिक्षकों को मतदाता सूचियों के विशेष गहन पुनरीक्षण के लिए बूथ लेवल ऑफिसर नियुक्त किया गया है।"
+            "en": "A deadly shooting near Paris is being investigated as an act of terrorism.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "hi": "पेरिस के पास हुई घातक गोलीबारी की जांच आतंकवाद के कृत्य के रूप में की जा रही है।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-4"
+          "id": "2026-10-24-9"
         },
         {
           "prompt": {
-            "en": "Scientists recently petitioned to scrap an exercise referred to as SIR. What does SIR stand for in this context?",
-            "hi": "वैज्ञानिकों ने हाल ہی में एसआईआर (SIR) कहे जाने वाले अभ्यास को रद्द करने की याचिका दायर की है। इस संदर्भ में SIR का पूर्ण रूप क्या है?"
+            "en": "In which southern governorate did gunmen shoot dead six people at a church funeral?",
+            "hi": "किस दक्षिणी गवर्नरट में बंदूकधारियों ने चर्च के अंतिम संस्कार में छह लोगों की गोली मारकर हत्या कर दी?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "State Information Report",
-                "hi": "राज्य सूचना रिपोर्ट"
+                "en": "Zarqa governorate",
+                "hi": "जरका गवर्नरट"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Scientific Inquiry Research",
-                "hi": "वैज्ञानिक जांच अनुसंधान"
+                "en": "Amman governorate",
+                "hi": "अम्मान गवर्नरट"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Special Intensive Revision",
-                "hi": "विशेष गहन पुनरीक्षण"
+                "en": "Karak governorate",
+                "hi": "करक गवर्नरट"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Strategic Infrastructure Review",
-                "hi": "रणनीतिक बुनियादी ढांचा समीक्षा"
+                "en": "Irbid governorate",
+                "hi": "इरबिड गवर्नरट"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "In the context of the electoral roll revision petition by scientists, SIR stands for Special Intensive Revision.\nSource: https://www.thehindu.com/news/national/scientists-petition-to-scrap-sir-disenfranchisement-exercise/article71615040.ece",
-            "hi": "वैज्ञानिकों की याचिका के संदर्भ में SIR का अर्थ स्पेशल इंटेंसिव रिवीजन है।"
+            "en": "Six people were shot dead at a church funeral in Jordan's southern Karak governorate.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+            "hi": "जॉर्डन के दक्षिणी करक गवर्नरट में एक चर्च के अंतिम संस्कार में छह लोगों की गोली मारकर हत्या कर दी गई।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/scientists-petition-to-scrap-sir-disenfranchisement-exercise/article71615040.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-5"
+          "id": "2026-10-24-10"
         },
         {
           "prompt": {
-            "en": "Which court stayed a Division Bench order for seven days regarding an appeal by a former Chief Minister in the CMRL-Exalogic pay-off case?",
-            "hi": "सीएमआरएल-एक्सालाजिक पे-ऑफ मामले में पूर्व मुख्यमंत्री द्वारा अपील के संबंध में किस अदालत ने डिवीजन बेंच के आदेश पर सात दिनों के लिए रोक लगा दी?"
+            "en": "Who has been named as the chairperson of the newly formed Society of Indian Screen Editors?",
+            "hi": "नवगठित सोसाइटी ऑफ इंडियन स्क्रीन एडिटर्स की अध्यक्ष किसे नामित किया गया है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Supreme Court",
-                "hi": "उच्चतम न्यायालय"
+                "en": "Deepa Mehta",
+                "hi": "दीपा मेहता"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Madras High Court",
-                "hi": "मद्रास उच्च न्यायालय"
+                "en": "Shreya Ghoshal",
+                "hi": "श्रेया घोषाल"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Kerala High Court",
-                "hi": "केरल उच्च न्यायालय"
+                "en": "Aparna Sen",
+                "hi": "अपर्णा सेन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Karnataka High Court",
-                "hi": "कर्नाटक उच्च न्यायालय"
+                "en": "Bina Paul",
+                "hi": "बीना पॉल"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Film editor Bina Paul is the chairperson of the Society of Indian Screen Editors.\nSource: https://www.thehindu.com/news/national/kerala/society-of-indian-screen-editors-formed/article71617254.ece",
+            "hi": "फिल्म संपादक बीना पॉल सोसाइटी ऑफ इंडियन स्क्रीन एडिटर्स की अध्यक्ष हैं।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/society-of-indian-screen-editors-formed/article71617254.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-27"
+        },
+        {
+          "prompt": {
+            "en": "Which state's administration has decided to conduct a Statewide child vulnerability mapping exercise?",
+            "hi": "किस राज्य के प्रशासन ने राज्यव्यापी बाल कमजोरी मानचित्रण अभ्यास करने का निर्णय लिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Karnataka",
+                "hi": "कर्नाटक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Keralam",
+                "hi": "केरलम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Keralam is set to conduct Statewide child vulnerability mapping with Women and Child Development Officers made responsible.\nSource: https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-to-conduct-statewide-child-vulnerability-mapping/article71617387.ece",
+            "hi": "केरलम राज्यव्यापी बाल वल्नरेबिलिटी मैपिंग आयोजित करने के लिए तैयार है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-to-conduct-statewide-child-vulnerability-mapping/article71617387.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-28"
+        },
+        {
+          "prompt": {
+            "en": "In Karnataka, the Chief Minister suspected an attempted sting operation after meeting a businessman wearing which specific accessory?",
+            "hi": "कर्नाटक में, मुख्यमंत्री ने किस विशिष्ट एक्सेसरी को पहने हुए एक व्यवसायी से मिलने के बाद एक स्टिंग ऑपरेशन के प्रयास का संदेह जताया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Meta AI glasses",
+                "hi": "मेटा एआई चश्मा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Google Smart Cap",
+                "hi": "गूगल स्मार्ट कैप"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Apple Vision Pro",
+                "hi": "एप्पल विजन प्रो"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Smart Ring",
+                "hi": "स्मार्ट रिंग"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The Supreme Court stayed the order for seven days and redirected the matter.\nSource: https://www.thehindu.com/news/national/kerala/cmrl-exalogic-pay-off-case-kerala-hc-to-hear-pinarayi-vijayan-kins-appeal-against-fir-order-on-october-26/article71614865.ece",
-            "hi": "उच्चतम न्यायालय ने सात दिनों के लिए आदेश पर रोक लगाई और मामले को पुनर्विचार के लिए भेजा।"
+            "en": "The Karnataka CM suspected an attempted sting operation by a businessman wearing Meta AI glasses.\nSource: https://www.thehindu.com/news/national/karnataka/congress-high-command-asks-karnataka-cm-to-start-probe-into-alleged-sting-operation-attempt/article71617393.ece",
+            "hi": "कर्नाटक के सीएम को मेटा एआई चश्मा पहने एक व्यवसायी द्वारा स्टिंग ऑपरेशन के प्रयास का संदेह था।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-pay-off-case-kerala-hc-to-hear-pinarayi-vijayan-kins-appeal-against-fir-order-on-october-26/article71614865.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/congress-high-command-asks-karnataka-cm-to-start-probe-into-alleged-sting-operation-attempt/article71617393.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-6"
+          "id": "2026-10-24-29"
         },
         {
           "prompt": {
-            "en": "According to statements made at the UN regarding the Kargil war, what did Pakistan refuse to accept?",
-            "hi": "कारगिल युद्ध के संबंध में संयुक्त राष्ट्र में दिए गए बयानों के अनुसार, पाकिस्तान ने किसे स्वीकार करने से इनकार कर दिया था?"
+            "en": "The government is modifying which survey to capture the gig economy and unpaid household workers?",
+            "hi": "गिग अर्थव्यवस्था और अवैतनिक घरेलू कामगारों को पकड़ने के लिए सरकार किस सर्वेक्षण में संशोधन कर रही है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "International observers",
-                "hi": "अंतर्राष्ट्रीय पर्यवेक्षक"
+                "en": "Periodic Labour Force Survey",
+                "hi": "आवधिक श्रम बल सर्वेक्षण"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Human rights documentation",
-                "hi": "मानवाधिकार प्रलेखन"
+                "en": "National Family Health Survey",
+                "hi": "राष्ट्रीय पारिवारिक स्वास्थ्य सर्वेक्षण"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Ceasefire violations report",
-                "hi": "युद्धविराम उल्लंघन रिपोर्ट"
+                "en": "All India Economic Census",
+                "hi": "अखिल भारतीय आर्थिक जनगणना"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Bodies of its own soldiers killed in Kargil war",
-                "hi": "कारगिल युद्ध में मारे गए अपने ही सैनिकों के शव"
+                "en": "Rural Employment Tracking Poll",
+                "hi": "ग्रामीण रोजगार ट्रैकिंग पोल"
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "India stated at the UN that Pakistan refused to accept the bodies of its own soldiers killed in the Kargil war.\nSource: https://www.thehindu.com/news/national/pakistan-refused-to-accept-bodies-of-its-own-soldiers-killed-in-kargil-war-india-at-un/article71614773.ece",
-            "hi": "भारत ने संयुक्त राष्ट्र में कहा कि पाकिस्तान ने कारगिल युद्ध में मारे गए अपने सैनिकों के शवों को लेने से इनकार किया था।"
+            "en": "The Periodic Labour Force Survey is being modified to capture the gig economy and unpaid workers.\nSource: https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+            "hi": "गिग अर्थव्यवस्था और अवैतनिक श्रमिकों को कैप्चर करने के लिए आवधिक श्रम बल सर्वेक्षण को संशोधित किया जा रहा है।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/pakistan-refused-to-accept-bodies-of-its-own-soldiers-killed-in-kargil-war-india-at-un/article71614773.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-7"
+          "id": "2026-10-24-30"
         },
         {
           "prompt": {
-            "en": "Under which schedule of the Wildlife (Protection) Act 1972 are all cetaceans protected in India?",
-            "hi": "वन्यजीव (संरक्षण) अधिनियम 1972 की किस अनुसूची के तहत भारत में सभी सेटेशियंस (व्हेल आदि) संरक्षित हैं?"
+            "en": "The Inspector General (IG) of which elite security force recently urged students to cultivate discipline and courage?",
+            "hi": "किस विशिष्ट सुरक्षा बल के महानिरीक्षक (IG) ने हाल ही में छात्रों से अनुशासन और साहस विकसित करने का आग्रह किया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Schedule IV",
-                "hi": "अनुसूची IV"
+                "en": "OCTOPUS",
+                "hi": "ऑक्टोपस"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Schedule II",
-                "hi": "अनुसूची II"
+                "en": "NSG",
+                "hi": "एनएसजी"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Schedule III",
-                "hi": "अनुसूची III"
+                "en": "COBRA",
+                "hi": "कोबरा"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Schedule I",
-                "hi": "अनुसूची I"
+                "en": "GARUD",
+                "hi": "गरुड़"
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
-            "hi": "भारत में प्रत्येक सेटेशियन वन्यजीव (संरक्षण) अधिनियम 1972 की अनुसूची I के तहत संरक्षित है।"
+            "en": "The OCTOPUS IG urged students to cultivate discipline and courage.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/octopus-ig-urges-students-to-cultivate-discipline-and-courage/article71617315.ece",
+            "hi": "ऑक्टोपस आईजी ने छात्रों से अनुशासन और साहस विकसित करने का आग्रह किया।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/octopus-ig-urges-students-to-cultivate-discipline-and-courage/article71617315.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-8"
+          "id": "2026-10-24-31"
         },
         {
           "prompt": {
-            "en": "What did Indian scientists recently identify in connection with planetary exploration studies?",
-            "hi": "भारतीय वैज्ञानिकों ने हाल ही में ग्रहीय अन्वेषण अध्ययनों के संबंध में क्या पहचाना है?"
+            "en": "Which political figure continued allegations regarding NICE road toll collection?",
+            "hi": "किस राजनेता ने NICE रोड टोल संग्रह के संबंध में आरोप जारी रखे?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Lunar water reservoirs",
-                "hi": "चंद्र जल भंडार"
+                "en": "Siddaramaiah",
+                "hi": "सिद्धारमैया"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Solar flare patterns",
-                "hi": "सौर लपटों के पैटर्न"
+                "en": "H.D. Kumaraswamy",
+                "hi": "एच.डी. कुमारस्वामी"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Venusian atmospheric layers",
-                "hi": "शुक्र की वायुमंडलीय परतें"
+                "en": "D.K. Shivakumar",
+                "hi": "डी.के. शिवकुमार"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Martian analogue sites",
-                "hi": "मंगल ग्रह के अनुरूप स्थल (Martian analogue sites)"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Indian scientists identified Martian analogue sites as a pressing requirement for planetary exploration.\nSource: https://www.thehindu.com/sci-tech/science/indian-scientists-identify-martian-analogue-sites/article71604126.ece",
-            "hi": "भारतीय वैज्ञानिकों ने गहन ग्रहीय अन्वेषण के लिए मंगल ग्रह के अनुरूप स्थलों की पहचान की है।"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/science/indian-scientists-identify-martian-analogue-sites/article71604126.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-9"
-        },
-        {
-          "prompt": {
-            "en": "Saurav Das and Ashutosh Ranka, referred to in reports as leaders who called on an election chief to quit, were freed from jail after being accused of what?",
-            "hi": "सौरव दास और आशुतोष रंका, जिन्हें रिपोर्टों में एक चुनाव प्रमुख को इस्तीफा देने के लिए कहने वाले नेताओं के रूप में संदर्भित किया गया है, को किस आरोप के बाद जेल से रिहा किया गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Embezzling public election funds",
-                "hi": "सार्वजनिक चुनाव धन का गबन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Breaking into an unauthorised protest venue in Delhi",
-                "hi": "दिल्ली में एक अनधिकृत प्रदर्शन स्थल में घुसना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Violating cyber security laws",
-                "hi": "साइबर सुरक्षा कानूनों का उल्लंघन करना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Publishing false exit polls",
-                "hi": "झूठे एग्जिट पोल प्रकाशित करना"
+                "en": "B.S. Yediyurappa",
+                "hi": "बी.एस. येदियुरप्पा"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "They were freed after being accused of breaking into an unauthorised protest venue in Delhi.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-            "hi": "उन्हें दिल्ली में एक अनधिकृत प्रदर्शन स्थल में घुसने के आरोप के बाद रिहा किया गया।"
+            "en": "H.D. Kumaraswamy continued his allegations against NICE road toll collection.\nSource: https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-continues-allegations-against-nice-road-toll-collection/article71616700.ece",
+            "hi": "एच.डी. कुमारस्वामी ने NICE रोड टोल संग्रह के खिलाफ अपने आरोप जारी रखे।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-continues-allegations-against-nice-road-toll-collection/article71616700.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-10"
+          "id": "2026-10-24-32"
         },
         {
           "prompt": {
-            "en": "Restrictions on satellite services to Ukraine by Elon Musk's entities highlighted risks regarding India's dependence on what?",
-            "hi": "एलन मस्क की संस्थाओं द्वारा यूक्रेन को उपग्रह सेवाओं पर प्रतिबंध लगाने से भारत की किस पर निर्भरता के जोखिम उजागर हुए?"
+            "en": "According to Keralam's child vulnerability mapping decision, who will be fully responsible at the district level for ensuring children’s safety?",
+            "hi": "केरलम के बाल वल्नरेबिलिटी मैपिंग निर्णय के अनुसार, बच्चों की सुरक्षा सुनिश्चित करने के लिए जिला स्तर पर पूरी तरह से कौन जिम्मेदार होगा?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "International shipping lanes",
-                "hi": "अंतर्राष्ट्रीय नौवहन मार्ग"
+                "en": "District Collectors",
+                "hi": "जिला कलेक्टर"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Foreign financial grants",
-                "hi": "विदेशी वित्तीय अनुदान"
+                "en": "Superintendents of Police",
+                "hi": "पुलिस अधीक्षक"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Imported petroleum products",
-                "hi": "आयातित पेट्रोलियम उत्पाद"
+                "en": "Chief Educational Officers",
+                "hi": "मुख्य शिक्षा अधिकारी"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Foreign-controlled technology",
-                "hi": "विदेशी-नियंत्रित तकनीक"
+                "en": "Women and Child Development Officers",
+                "hi": "महिला और बाल विकास अधिकारी"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The restrictions highlighted risks of India's dependence on foreign-controlled technology.\nSource: https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
-            "hi": "प्रतिबंधों ने विदेशी-नियंत्रित तकनीक पर भारत की निर्भरता के जोखिमों को उजागर किया।"
+            "en": "Women and Child Development Officers in districts will be fully responsible for children's safety and rehabilitation.\nSource: https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-to-conduct-statewide-child-vulnerability-mapping/article71617387.ece",
+            "hi": "जिलों में महिला एवं बाल विकास अधिकारी बच्चों की सुरक्षा और पुनर्वास के लिए पूरी तरह जिम्मेदार होंगे।"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-to-conduct-statewide-child-vulnerability-mapping/article71617387.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-11"
+          "id": "2026-10-24-33"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the newly formed professional organization for screen editors in India?",
+            "hi": "भारत में स्क्रीन संपादकों के लिए नवगठित पेशेवर संगठन का नाम क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Indian Film Editors Guild",
+                "hi": "इंडियन फिल्म एडिटर्स गिल्ड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Society of Indian Screen Editors",
+                "hi": "सोसाइटी ऑफ इंडियन स्क्रीन एडिटर्स"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "National Federation of Screen Cutters",
+                "hi": "नेशनल फेडरेशन ऑफ स्क्रीन कटर्स"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Screen Media Professionals Association",
+                "hi": "स्क्रीन मीडिया प्रोफेशनल्स एसोसिएशन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The Society of Indian Screen Editors was newly formed with Bina Paul as chairperson.\nSource: https://www.thehindu.com/news/national/kerala/society-of-indian-screen-editors-formed/article71617254.ece",
+            "hi": "बीना पॉल को अध्यक्ष बनाकर सोसाइटी ऑफ इंडियन स्क्रीन एडिटर्स का गठन किया गया है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/society-of-indian-screen-editors-formed/article71617254.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-34"
+        },
+        {
+          "prompt": {
+            "en": "What additional aspect does the modified Periodic Labour Force Survey aim to measure?",
+            "hi": "संशोधित आवधिक श्रम बल सर्वेक्षण किस अतिरिक्त पहलू को मापने का लक्ष्य रखता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Digital literacy rates",
+                "hi": "डिजिटल साक्षरता दर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Urban migration patterns",
+                "hi": "शहरी प्रवासन पैटर्न"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Labour underutilisation",
+                "hi": "श्रम कम उपयोग (अंडरयूटिलाइजेशन)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Household energy consumption",
+                "hi": "घरेलू ऊर्जा खपत"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The survey will include additional questions to measure labour underutilisation.\nSource: https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+            "hi": "सर्वेक्षण में श्रम कम उपयोग को मापने के लिए अतिरिक्त प्रश्न शामिल होंगे।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-35"
+        },
+        {
+          "prompt": {
+            "en": "In which media platform did the Karnataka Chief Minister discuss the suspected sting operation attempt involving Meta AI glasses?",
+            "hi": "किस मीडिया प्लेटफॉर्म पर कर्नाटक के मुख्यमंत्री ने मेटा AI चश्मे से जुड़े संदिग्ध स्टिंग ऑपरेशन के प्रयास पर चर्चा की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A Kannada television channel",
+                "hi": "एक कन्नड़ टेलीविजन चैनल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A national news radio broadcast",
+                "hi": "एक राष्ट्रीय समाचार रेडियो प्रसारण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An official press release portal",
+                "hi": "एक आधिकारिक प्रेस विज्ञप्ति पोर्टल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A social media livestream",
+                "hi": "एक सोशल मीडिया लाइवस्ट्रीम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Chief Minister made the claim in an interview with a Kannada television channel.\nSource: https://www.thehindu.com/news/national/karnataka/congress-high-command-asks-karnataka-cm-to-start-probe-into-alleged-sting-operation-attempt/article71617393.ece",
+            "hi": "मुख्यमंत्री ने एक कन्नड़ टेलीविजन चैनल को दिए साक्षात्कार में यह दावा किया था।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/congress-high-command-asks-karnataka-cm-to-start-probe-into-alleged-sting-operation-attempt/article71617393.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-36"
+        },
+        {
+          "prompt": {
+            "en": "What qualities did the OCTOPUS IG urge students to cultivate?",
+            "hi": "ऑक्टोपस आईजी ने छात्रों से किन गुणों को विकसित करने का आग्रह किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Patience and creativity",
+                "hi": "धैर्य और रचनात्मकता"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ambition and technological skill",
+                "hi": "महत्वाकांक्षा और तकनीकी कौशल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Discipline and courage",
+                "hi": "अनुशासन और साहस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Speed and endurance",
+                "hi": "गति और सहनशक्ति"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The IG urged students to cultivate discipline and courage.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/octopus-ig-urges-students-to-cultivate-discipline-and-courage/article71617315.ece",
+            "hi": "आईजी ने छात्रों से अनुशासन और साहस विकसित करने का आग्रह किया।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/octopus-ig-urges-students-to-cultivate-discipline-and-courage/article71617315.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-37"
         }
       ],
       "quarantined": [],
@@ -576,220 +1086,322 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-10-23T06:30:00+05:30"
+      "release_at": "2026-10-24T06:30:00+05:30"
     },
     {
-      "title": "Economy, Business & Finance",
-      "source_filename": "daily-2026-10-23.json",
+      "title": "Set 2: Economy, Business & Finance",
+      "source_filename": "daily-2026-10-24.json",
       "questions": [
         {
           "prompt": {
-            "en": "Following a data breach, which bank stated that it individually informed all affected customers?",
-            "hi": "डेटा उल्लंघन के बाद, किस बैंक ने कहा कि उसने व्यक्तिगत रूप से सभी प्रभावित ग्राहकों को सूचित कर दिया है?"
+            "en": "What was the net Foreign Direct Investment (FDI) figure recorded in September 2026?",
+            "hi": "सितंबर 2026 में दर्ज शुद्ध प्रत्यक्ष विदेशी निवेश (FDI) का आंकड़ा कितना था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "State Bank of India",
-                "hi": "भारतीय स्टेट बैंक"
+                "en": "$1.2 billion",
+                "hi": "$1.2 बिलियन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Punjab National Bank",
-                "hi": "पंजाब नेशनल बैंक"
+                "en": "$5.0 billion",
+                "hi": "$5.0 बिलियन"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Bank of Baroda",
-                "hi": "बैंक ऑफ बड़ौदा"
+                "en": "$3.3 billion",
+                "hi": "$3.3 बिलियन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "ICICI Bank",
-                "hi": "आईसीआईसीआई बैंक"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "SBI stated that it individually informed all affected customers after coming under criticism.\nSource: https://www.thehindu.com/business/Industry/data-breach-sbi-says-it-individually-informed-all-affected-customers/article71615008.ece",
-            "hi": "एसबीआई ने कहा कि आलोचना के बाद उसने सभी प्रभावित ग्राहकों को व्यक्तिगत रूप से सूचित कर दिया है।"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/data-breach-sbi-says-it-individually-informed-all-affected-customers/article71615008.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-12"
-        },
-        {
-          "prompt": {
-            "en": "What factor dampened investors' sentiment and kept stock market gains modest despite a rebound?",
-            "hi": "किस कारक ने निवेशकों की भावना को कमजोर किया और रिबाउंड के बावजूद शेयर बाजार के लाभ को मामूली बनाए रखा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Mass withdrawal of foreign institutional investments",
-                "hi": "विदेशी संस्थागत निवेश की भारी निकासी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Domestic agricultural output decline",
-                "hi": "घरेलू कृषि उत्पादन में गिरावट"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Sudden revision of corporate tax rates",
-                "hi": "कॉर्पोरेट कर दरों का अचानक संशोधन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Soaring crude oil prices amid escalating tensions in West Asia",
-                "hi": "पश्चिम एशिया में बढ़ते तनाव के बीच आसमान छूती कच्चे तेल की कीमतें"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Gains remained modest as soaring crude oil prices amid tensions in West Asia dampened sentiment.\nSource: https://www.thehindu.com/business/markets/sensex-nifty-opening-on-october-23-2026/article71614681.ece",
-            "hi": "पश्चिम एशिया में तनाव के बीच कच्चे तेल की बढ़ती कीमतों के कारण लाभ मामूली रहा।"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/sensex-nifty-opening-on-october-23-2026/article71614681.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-13"
-        },
-        {
-          "prompt": {
-            "en": "How many job cuts worldwide were announced by Volvo Cars amidst a difficult global landscape for European auto companies?",
-            "hi": "यूपीय ऑटो कंपनियों के लिए कठिन वैश्विक परिदृश्य के बीच वोल्वो कारों द्वारा दुनिया भर में कितनी नौकरी में कटौती की घोषणा की गई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "1,000 jobs",
-                "hi": "1,000 नौकरियां"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "5,000 jobs",
-                "hi": "5,000 नौकरियां"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "2,500 jobs",
-                "hi": "2,500 नौकरियां"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "10,000 jobs",
-                "hi": "10,000 नौकरियां"
+                "en": "$7.1 billion",
+                "hi": "$7.1 बिलियन"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Volvo Cars announced 2,500 job cuts worldwide as part of its cost-cutting efforts.\nSource: https://www.thehindu.com/business/Industry/volvo-cars-announces-2500-job-cuts/article71614892.ece",
-            "hi": "वोल्वो कारों ने लागत में कटौती के प्रयासों के तहत दुनिया भर में 2,500 नौकरियों में कटौती की घोषणा की।"
+            "en": "Net FDI stood at $3.3 billion in September 2026, remaining positive for the third consecutive month.\nSource: https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+            "hi": "सितंबर 2026 में शुद्ध एफडीआई 3.3 बिलियन डॉलर रहा, जो लगातार तीसरे महीने सकारात्मक रहा।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/volvo-cars-announces-2500-job-cuts/article71614892.ece",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-14"
+          "id": "2026-10-24-11"
         },
         {
           "prompt": {
-            "en": "By how much did the Indian rupee rise against the U.S. dollar in early trade under macroeconomic headwinds?",
-            "hi": "मैक्रोएकोनॉमिक headwinds के बीच शुरुआती कारोबार में भारतीय रुपया अमेरिकी डॉलर के मुकाबले कितना बढ़ा?"
+            "en": "Meta decided to delay new commercial terms following complaints to antitrust authorities of which regions?",
+            "hi": "किस क्षेत्र के एंटीट्रस्ट प्राधिकरणों से शिकायत मिलने के बाद मेटा ने नई व्यावसायिक शर्तों में देरी करने का फैसला किया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "15 paise",
-                "hi": "15 पैसे"
+                "en": "European Union and the U.K.",
+                "hi": "यूरोपीय संघ और यू.के."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "5 paise",
-                "hi": "5 पैसे"
+                "en": "United States and Canada",
+                "hi": "संयुक्त राज्य अमेरिका और कनाडा"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "10 paise",
-                "hi": "10 पैसे"
+                "en": "Japan and South Korea",
+                "hi": "जापान और दक्षिण कोरिया"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "3 paise",
-                "hi": "3 पैसे"
+                "en": "Australia and New Zealand",
+                "hi": "ऑस्ट्रेलिया और न्यूजीलैंड"
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The rupee rose by 3 paise against the U.S. dollar in early trade.\nSource: https://www.thehindu.com/business/markets/rupee-rises-against-us-dollar-on-october-23-2026/article71614598.ece",
-            "hi": "शुरुआती कारोबार में रुपया अमेरिकी डॉलर के मुकाबले 3 पैसे बढ़ा।"
+            "en": "Meta delayed terms after publishers complained to European Union and U.K. antitrust authorities.\nSource: https://www.thehindu.com/business/Industry/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers/article71616814.ece",
+            "hi": "प्रकाशकों द्वारा यूरोपीय संघ और यू.के. के एंटीट्रस्ट प्राधिकरणों से शिकायत करने के बाद मेटा ने शर्तों में देरी की।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/rupee-rises-against-us-dollar-on-october-23-2026/article71614598.ece",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers/article71616814.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-15"
+          "id": "2026-10-24-12"
         },
         {
           "prompt": {
-            "en": "Mark Zuckerberg made a deal with Meta to help him pay a proposed billionaire tax on the ballot in which U.S. state?",
-            "hi": "मार्क जुकरबर्ग ने किस अमेरिकी राज्य के मतपत्र पर प्रस्तावित अरबपति कर का भुगतान करने में मदद के लिए मेटा के साथ एक सौदा किया?"
+            "en": "According to the RBI Bulletin, where was inflation found to be higher?",
+            "hi": "आरबीआई बुलेटिन के अनुसार, कहाँ पर मुद्रास्फीति अधिक पाई गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Urban areas",
+                "hi": "शहरी क्षेत्रों में"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Metropolitan cities only",
+                "hi": "केवल महानगरों में"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rural areas",
+                "hi": "ग्रामीण क्षेत्रों में"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Export-oriented zones",
+                "hi": "निर्यात-उन्मुख क्षेत्रों में"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The RBI Bulletin noted that inflation in rural areas was higher than in urban areas.\nSource: https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+            "hi": "आरबीआई बुलेटिन में उल्लेख किया गया है कि ग्रामीण क्षेत्रों में मुद्रास्फीति शहरी क्षेत्रों की तुलना में अधिक थी।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-13"
+        },
+        {
+          "prompt": {
+            "en": "Brent crude futures touched an intraday high of how much per barrel following Houthi attacks on Saudi infrastructure?",
+            "hi": "सउदी बुनियादी ढांचे पर हूती हमलों के बाद ब्रेंट क्रूड फ्यूचर्स ने प्रति बैरल कितने का इंट्राडे उच्च स्तर छुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$94.12",
+                "hi": "$94.12"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$114.94",
+                "hi": "$114.94"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$102.50",
+                "hi": "$102.50"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$120.08",
+                "hi": "$120.08"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Brent crude futures touched an intraday high of $114.94 a barrel amid regional attacks.\nSource: https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+            "hi": "क्षेत्रीय हमलों के बीच ब्रेंट क्रूड फ्यूचर्स ने 114.94 डॉलर प्रति बैरल का इंट्राडे उच्च स्तर छुआ।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-14"
+        },
+        {
+          "prompt": {
+            "en": "By how much did Adani Total Gas raise CNG prices?",
+            "hi": "अदानी टोटल गैस ने सीएनजी की कीमतों में कितने की बढ़ोतरी की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹4.45 per kg",
+                "hi": "₹4.45 प्रति किलोग्राम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹2.10 per kg",
+                "hi": "₹2.10 प्रति किलोग्राम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹6.80 per kg",
+                "hi": "₹6.80 प्रति किलोग्राम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹8.15 per kg",
+                "hi": "₹8.15 प्रति किलोग्राम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Adani Total Gas raised CNG prices by ₹4.45 per kg following supply cost pressures.\nSource: https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+            "hi": "आपूर्ति लागत के दबाव के चलते अदानी टोटल गैस ने सीएनजी की कीमतों में ₹4.45 प्रति किलोग्राम की बढ़ोतरी की।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-15"
+        },
+        {
+          "prompt": {
+            "en": "What is the earnings limit of up to £140K associated with in the housing market?",
+            "hi": "आवास बाजार से जुड़ी £140K तक की कमाई की सीमा किसके लिए है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "First-time buyers loan scheme in England",
+                "hi": "इंग्लैंड में पहली बार घर खरीदने वालों के लिए ऋण योजना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Commercial real estate tax credits",
+                "hi": "वाणिज्यिक रियल एस्टेट कर क्रेडिट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Social housing rent caps",
+                "hi": "सामाजिक आवास किराया सीमा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Agricultural land subsidies",
+                "hi": "कृषि भूमि सब्सिडी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "An earnings limit of up to £140K applies to the 'Your First Home' first-time buyers loan scheme.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+            "hi": "£140K तक की आय सीमा 'योर फर्स्ट होम' पहली बार घर खरीदने वालों के लिए ऋण योजना पर लागू होती है।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-16"
+        },
+        {
+          "prompt": {
+            "en": "Mark Zuckerberg won a deal with Meta to help him foot the bill for a possible wealth tax in which state?",
+            "hi": "मार्क जुकरबर्ग ने किस राज्य में संभावित धन कर के भुगतान में मदद के लिए मेटा के साथ एक सौदा जीता?"
           },
           "options": [
             {
@@ -827,321 +1439,729 @@
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The proposed billionaire tax is on the ballot in California.\nSource: https://www.thehindu.com/sci-tech/technology/mark-zuckerberg-makes-deal-with-meta-to-help-him-pay-billionaire-tax-if-it-passes/article71614441.ece",
-            "hi": "प्रस्तावित अरबपति कर कैलिफोर्निया के मतपत्र पर है।"
+            "en": "Zuckerberg secured a deal with Meta regarding a proposed billionaire wealth tax in California.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+            "hi": "जुकरबर्ग ने कैलिफोर्निया में प्रस्तावित अरबपति धन कर के संबंध में मेटा के साथ एक सौदा सुरक्षित किया।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/sci-tech/technology/mark-zuckerberg-makes-deal-with-meta-to-help-him-pay-billionaire-tax-if-it-passes/article71614441.ece",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-16"
+          "id": "2026-10-24-17"
         },
         {
           "prompt": {
-            "en": "Billionaire Mukesh Ambani's Jio launched a share sale aiming to raise how much capital?",
-            "hi": "अरबपति मुकेश अंबानी के जियो ने कितनी पूंजी जुटाने के उद्देश्य से शेयर बिक्री शुरू की?"
+            "en": "What policy changes in the United States are testing Indian tech workers' American dream according to recent reports?",
+            "hi": "हालिया रिपोर्टों के अनुसार, संयुक्त राज्य अमेरिका में कौन से नीतिगत बदलाव भारतीय तकनीकी श्रमिकों के अमेरिकी सपने की परीक्षा ले रहे हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "$1.5 billion",
-                "hi": "$1.5 बिलियन"
+                "en": "Green card curbs and tech firms cutting foreign hiring",
+                "hi": "ग्रीन कार्ड प्रतिबंध और तकनीकी फर्मों द्वारा विदेशी नियुक्तियों में कटौती"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "$3.2 billion",
-                "hi": "$3.2 बिलियन"
+                "en": "Mandatory corporate tax increases",
+                "hi": "अनिवार्य कॉर्पोरेट कर में वृद्धि"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "$2.0 billion",
-                "hi": "$2.0 बिलियन"
+                "en": "Elimination of H-1B lottery fees",
+                "hi": "H-1B लॉटरी शुल्क की समाप्ति"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "$5.0 billion",
-                "hi": "$5.0 बिलियन"
+                "en": "Removal of minimum wage requirements",
+                "hi": "न्यूनतम मजदूरी आवश्यकताओं को हटाना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Green card curbs and reduced foreign hiring by tech firms are challenging Indian professionals in the US.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+            "hi": "ग्रीन कार्ड प्रतिबंध और टेक फर्मों द्वारा विदेशी काम पर रखने में कमी अमेरिका में भारतीय पेशवरों के लिए चुनौती बन रहे हैं।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-18"
+        },
+        {
+          "prompt": {
+            "en": "What factors caused Indian markets to snap their one-week rally?",
+            "hi": "किन कारकों के कारण भारतीय बाजारों की एक सप्ताह की तेजी टूट गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic retail inflation collapse",
+                "hi": "घरेलू खुदरा मुद्रास्फीति में गिरावट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Surge in crude and FII outflows",
+                "hi": "कच्चे तेल में उछाल और FII की निकासी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Massive domestic retail stock buying",
+                "hi": "व्यापक घरेलू खुदरा शेयर खरीद"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sudden interest rate cuts by RBI",
+                "hi": "आरबीआई द्वारा अचानक ब्याज दरों में कटौती"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "Jio's share sale aims to raise $3.2 billion.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
-            "hi": "जियो की शेयर बिक्री का उद्देश्य $3.2 बिलियन जुटाना है।"
+            "en": "A surge in crude oil prices and FII outflows caused Indian markets to snap their rally.\nSource: https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
+            "hi": "कच्चे तेल की कीमतों में उछाल और एफआईआई की निकासी के कारण भारतीय बाजार की तेजी टूट गई।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-17"
+          "id": "2026-10-24-19"
         },
         {
           "prompt": {
-            "en": "Which beauty giant stated that weight loss drugs (GLP-1s) are impacting its beauty and skincare sales?",
-            "hi": "किस ब्यूटी दिग्गज ने कहा है कि वजन घटाने वाली दवाएं (GLP-1s) उसके सौंदर्य और स्किनकेयर की बिक्री को प्रभावित कर रही हैं?"
+            "en": "For what purpose are some Indian workers being paid to film themselves at work?",
+            "hi": "किस उद्देश्य के लिए कुछ भारतीय श्रमिकों को काम करते समय खुद का वीडियो बनाने के लिए भुगतान किया जा रहा है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Estee Lauder",
-                "hi": "एस्ते लाउडर"
+                "en": "To train AI using the footage",
+                "hi": "फुटेज का उपयोग करके एआई को प्रशिक्षित करने के लिए"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Procter & Gamble",
-                "hi": "प्रॉक्टर एंड गैंबल"
+                "en": "To conduct government labor audits",
+                "hi": "सरकारी श्रम ऑडिट आयोजित करने के लिए"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Unilever",
-                "hi": "यूनीलिवर"
+                "en": "To broadcast reality TV documentaries",
+                "hi": "रियलिटी टीवी वृत्तचित्रों का प्रसारण करने के लिए"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "L'Oreal",
-                "hi": "लोरियल"
+                "en": "To monitor workplace safety compliance",
+                "hi": "कार्यस्थल सुरक्षा अनुपालन की निगरानी के लिए"
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "L'Oreal's CEO stated that the use of GLP-1 weight loss drugs is impacting beauty and skincare sales.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-            "hi": "लोरियल के सीईओ ने कहा कि जीएलपी-1 वजन घटाने वाली दवाओं का उपयोग बिक्री को प्रभावित कर रहा है।"
+            "en": "Indian workers are being paid to film their work so the footage can be utilized to train AI systems.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+            "hi": "भारतीय श्रमिकों को अपने काम का वीडियो बनाने के लिए भुगतान किया जा रहा है ताकि फुटेज का उपयोग एआई को प्रशिक्षित करने के लिए किया जा सके।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-18"
+          "id": "2026-10-24-20"
         },
         {
           "prompt": {
-            "en": "Which banking institution announced 5,000 job cuts while increasing its reliance on artificial intelligence?",
-            "hi": "किस बैंकिंग संस्थान ने कृत्रिम बुद्धिमत्ता पर अपनी निर्भरता बढ़ाते हुए 5,000 नौकरियों में कटौती की घोषणा की?"
+            "en": "How did Bharat Petroleum perform in terms of net profit on a year-over-year basis in Q2 amid volatile crude prices?",
+            "hi": "कच्चे तेल की अस्थिर कीमतों के बीच Q2 में साल-दर-साल के आधार पर भारत पेट्रोलियम ने शुद्ध लाभ के मामले में कैसा प्रदर्शन किया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Standard Chartered",
-                "hi": "स्टैंडर्ड चार्टर्ड"
+                "en": "Net profit declined 22.5%",
+                "hi": "शुद्ध लाभ 22.5% घटा"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "HSBC",
-                "hi": "एचएसबीसी"
+                "en": "Net profit surged 29%",
+                "hi": "शुद्ध लाभ 29% बढ़ा"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Barclays",
-                "hi": "बार्कलेज़"
+                "en": "Net profit remained completely flat",
+                "hi": "शुद्ध लाभ पूरी तरह स्थिर रहा"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Citigroup",
-                "hi": "सिटीग्रुप"
+                "en": "Net profit dropped by exactly 50%",
+                "hi": "शुद्ध लाभ ठीक 50% गिर गया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Bharat Petroleum's net profit declined 22.5% on a year-over-year basis in Q2.\nSource: https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+            "hi": "Q2 में साल-दर-साल के आधार पर भारत पेट्रोलियम का शुद्ध लाभ 22.5% घट गया।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-38"
+        },
+        {
+          "prompt": {
+            "en": "Coforge raised its FY27 EBIT margin guidance to what percentage following a strong September quarter?",
+            "hi": "मजबूत सितंबर तिमाही के बाद कोफोर्ज ने अपनी FY27 EBIT मार्जिन मार्गदर्शन को कितने प्रतिशत तक बढ़ा दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "12%",
+                "hi": "12%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "14%",
+                "hi": "14%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "16%",
+                "hi": "16%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "18%",
+                "hi": "18"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Barclays is cutting 5,000 jobs as it increases its reliance on AI.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-            "hi": "बार्कलेज़ एआई पर अपनी निर्भरता बढ़ाते हुए 5,000 नौकरियों में कटौती कर रहा है।"
+            "en": "Coforge raised its FY27 EBIT margin guidance to 16%.\nSource: https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+            "hi": "कोफोर्ज ने अपने FY27 EBIT मार्जिन मार्गदर्शन को 16% तक बढ़ा दिया।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-19"
+          "id": "2026-10-24-39"
         },
         {
           "prompt": {
-            "en": "Tesla's reliance on production from which city gives China considerable leverage over Elon Musk's business empire?",
-            "hi": "किस शहर से उत्पादन पर टेस्ला की निर्भरता चीन को एलन मस्क के व्यावसायिक साम्राज्य पर पर्याप्त लाभ देती है?"
+            "en": "What was IndusInd Bank's net interest income for Q2FY27?",
+            "hi": "Q2FY27 के लिए इंडसइंड बैंक की शुद्ध ब्याज आय (NII) कितनी थी?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Beijing",
-                "hi": "बीजिंग"
+                "en": "₹4,120 crore",
+                "hi": "₹4,120 करोड़"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Shenzhen",
-                "hi": "शेनजेन"
+                "en": "₹4,409 crore",
+                "hi": "₹4,409 करोड़"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Shanghai",
-                "hi": "शंघाई"
+                "en": "₹4,569 crore",
+                "hi": "₹4,569 करोड़"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Guangzhou",
-                "hi": "गुआंगज़ौ"
+                "en": "₹4,890 crore",
+                "hi": "₹4,890 करोड़"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Tesla's reliance on production from Shanghai gives China considerable leverage.\nSource: https://www.thehindu.com/sci-tech/technology/elon-musks-political-baggage-clouds-prospects-for-spacex-tesla-deal/article71614450.ece",
-            "hi": "शंघाई से उत्पादन पर टेस्ला की निर्भरता चीन को महत्वपूर्ण लाभ देती है।"
+            "en": "IndusInd Bank's net interest income stood at ₹4,569 crore in Q2FY27.\nSource: https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
+            "hi": "Q2FY27 में इंडसइंड बैंक की शुद्ध ब्याज आय ₹4,569 करोड़ रही।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/sci-tech/technology/elon-musks-political-baggage-clouds-prospects-for-spacex-tesla-deal/article71614450.ece",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-20"
+          "id": "2026-10-24-40"
         },
         {
           "prompt": {
-            "en": "India's core industrial sectors recorded a series-high growth rate of what percentage in September?",
-            "hi": "सितंबर में भारत के कोर औद्योगिक क्षेत्रों ने कितने प्रतिशत की श्रृंखला-उच्च वृद्धि दर दर्ज की?"
+            "en": "With which international streaming platform did JioStar tie up to expand into the Middle East and North Africa regions?",
+            "hi": "मध्य पूर्व और उत्तरी अफ्रीका क्षेत्रों में विस्तार करने के लिए जियोस्टार ने किस अंतरराष्ट्रीय स्ट्रीमिंग प्लेटफॉर्म के साथ समझौता किया है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "5.4%",
-                "hi": "5.4%"
+                "en": "Crunchyroll",
+                "hi": "क्रंचरोल"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "6.2%",
-                "hi": "6.2%"
+                "en": "Starz Play",
+                "hi": "स्टार्स प्ले"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "9.1%",
-                "hi": "9.1%"
+                "en": "Paramount+",
+                "hi": "पैरामाउंट+"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "7.9%",
-                "hi": "7.9%"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "India's core industrial sectors recorded a series-high growth rate of 7.9% in September.\nSource: https://www.thehindu.com/videos/record-growth-rising-risks-whats-really-driving-indias-core-industries-the-hindu-editorial/article71614823.ece",
-            "hi": "भारत के कोर औद्योगिक क्षेत्रों ने सितंबर में 7.9% की श्रृंखला-उच्च वृद्धि दर दर्ज की।"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/videos/record-growth-rising-risks-whats-really-driving-indias-core-industries-the-hindu-editorial/article71614823.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-21"
-        },
-        {
-          "prompt": {
-            "en": "The discussion on Meta's privacy case penalty involves which controversial former feature of Facebook?",
-            "hi": "मेटा के गोपनीयता मामले के जुर्माने पर चर्चा में फेसबुक की कौन सी विवादास्पद पूर्व विशेषता शामिल है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Wall poking tool",
-                "hi": "वॉल पोकिंग टूल"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Friend sharing feature",
-                "hi": "फ्रेंड शेयरिंग फीचर"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Super wall application",
-                "hi": "सुपर वॉल एप्लीकेशन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Notes tagging system",
-                "hi": "नोट्स टैगिंग सिस्टम"
+                "en": "Peacock",
+                "hi": "पीकॉक"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The context mentions Facebook's controversial 'friend sharing' feature alongside the Cambridge Analytica scandal.\nSource: https://www.thehindu.com/business/meta-ordered-to-pay-25-billion-over-cambridge-analytica-privacy-case/article71614455.ece",
-            "hi": "संदर्भ में कैंब्रिज एनालिटिका घोटाले के साथ फेसबुक की विवादास्पद 'फ्रेंड शेयरिंग' सुविधा का उल्लेख है।"
+            "en": "JioStar tied up with international streaming platform Starz Play for the Middle East and North Africa regions.\nSource: https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
+            "hi": "जियोस्टार ने मध्य पूर्व और उत्तरी अफ्रीका क्षेत्रों के लिए स्टार्स प्ले के साथ करार किया है।"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/meta-ordered-to-pay-25-billion-over-cambridge-analytica-privacy-case/article71614455.ece",
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-22"
+          "id": "2026-10-24-41"
+        },
+        {
+          "prompt": {
+            "en": "What was Tata Motors' reported net profit for the second quarter (Q2)?",
+            "hi": "टाटा मोटर्स द्वारा रिपोर्ट किया गया दूसरी तिमाही (Q2) का शुद्ध लाभ कितना था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1,120 crore",
+                "hi": "₹1,120 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,680 crore",
+                "hi": "₹1,680 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹1,450 crore",
+                "hi": "₹1,450 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,257 crore",
+                "hi": "₹1,257 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Tata Motors reported a Q2 net profit of ₹1,257 crore.\nSource: https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+            "hi": "टाटा मोटर्स ने ₹1,257 करोड़ का Q2 शुद्ध लाभ दर्ज किया।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-42"
+        },
+        {
+          "prompt": {
+            "en": "By what percentage did Bharat Petroleum's revenues increase on a year-over-year basis in Q2?",
+            "hi": "Q2 में साल-दर-साल के आधार पर भारत पेट्रोलियम के राजस्व में कितने प्रतिशत की वृद्धि हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "29%",
+                "hi": "29%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "22.5%",
+                "hi": "22.5%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "15%",
+                "hi": "15%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "35%",
+                "hi": "35%"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Bharat Petroleum's revenues spurred 29% in Q2 on a year-over-year basis.\nSource: https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+            "hi": "Q2 में साल-दर-साल आधार पर भारत पेट्रोलियम का राजस्व 29% बढ़ा।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-43"
+        },
+        {
+          "prompt": {
+            "en": "What was Coforge's fresh order intake value in the September-quarter, which doubled year-on-year?",
+            "hi": "सितंबर तिमाही में कोफोर्ज का नया ऑर्डर इनटेक मूल्य कितना था, जो साल-दर-साल दोगुना हो गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$0.75 billion",
+                "hi": "$0.75 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$2.00 billion",
+                "hi": "$2.00 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$1.50 billion",
+                "hi": "$1.50 बिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$1.04 billion",
+                "hi": "$1.04 बिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Coforge's fresh order intake doubled year-on-year to $1.04 billion.\nSource: https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+            "hi": "कोफोर्ज का नया ऑर्डर इनटेक दोगुना होकर $1.04 बिलियन हो गया।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-44"
+        },
+        {
+          "prompt": {
+            "en": "What was IndusInd Bank's net profit posted for Q2?",
+            "hi": "Q2 के लिए इंडसइंड बैंक का शुद्ध लाभ कितना दर्ज किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1,120 crore",
+                "hi": "₹1,120 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,242 crore",
+                "hi": "₹1,242 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹1,350 crore",
+                "hi": "₹1,350 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,500 crore",
+                "hi": "₹1,500 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "IndusInd Bank posted a profit of ₹1,242 crores in Q2.\nSource: https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
+            "hi": "इंडसइंड बैंक ने Q2 में ₹1,242 करोड़ का लाभ दर्ज किया।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-45"
+        },
+        {
+          "prompt": {
+            "en": "In the month prior to its Middle East and North Africa expansion, into which countries/regions did JioStar expand?",
+            "hi": "मध्य और उत्तरी अफ्रीका विस्तार से पिछले महीने, जियोस्टार ने किन देशों/क्षेत्रों में विस्तार किया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Australia, New Zealand, and Germany",
+                "hi": "ऑस्ट्रेलिया, न्यूजीलैंड और जर्मनी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Singapore, the UK, and Canada",
+                "hi": "सिंगापुर, यूके और कनाडा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "France, Italy, and Spain",
+                "hi": "फ्रांस, इटली और स्पेन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Japan, South Korea, and Malaysia",
+                "hi": "जापान, दक्षिण कोरिया और मलेशिया"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Last month JioStar expanded into Singapore, the UK, and Canada.\nSource: https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
+            "hi": "पिछले महीने जियोस्टार ने सिंगापुर, यूके और कनाडा में विस्तार किया था।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-46"
+        },
+        {
+          "prompt": {
+            "en": "Which major company acquisition was reported to be on track alongside Tata Motors' Q2 financial results?",
+            "hi": "टाटा मोटर्स के Q2 वित्तीय परिणामों के साथ किस प्रमुख कंपनी के अधिग्रहण को पटरी पर बताया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Volvo",
+                "hi": "वोल्वो"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Iveco",
+                "hi": "इवेको"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Scania",
+                "hi": "स्कैनिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "MAN SE",
+                "hi": "MAN SE"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Tata Motors reported that its Iveco acquisition is on track.\nSource: https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+            "hi": "टाटा मोटर्स ने बताया कि उसका इवेको अधिग्रहण ट्रैक पर है।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-47"
+        },
+        {
+          "prompt": {
+            "en": "By what percentage did Coforge's September-quarter revenue climb?",
+            "hi": "कोफोर्ज का सितंबर तिमाही का राजस्व कितने प्रतिशत बढ़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "29.5%",
+                "hi": "29.5%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "41.2%",
+                "hi": "41.2%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "65.4%",
+                "hi": "65.4"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "53.6%",
+                "hi": "53.6%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Coforge's September-quarter revenue climbed 53.6% to ₹6,171 crore.\nSource: https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+            "hi": "कोफोर्ज का सितंबर तिमाही का राजस्व 53.6% बढ़कर ₹6,171 करोड़ हो गया।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-48"
         }
       ],
       "quarantined": [],
@@ -1149,271 +2169,67 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-10-23T13:00:00+05:30"
+      "release_at": "2026-10-24T13:00:00+05:30"
     },
     {
-      "title": "Science, Environment & World Affairs",
-      "source_filename": "daily-2026-10-23.json",
+      "title": "Set 3: Science, Environment & World Affairs",
+      "source_filename": "daily-2026-10-24.json",
       "questions": [
         {
           "prompt": {
-            "en": "With what projected temperature anomaly peak is the 2026-27 El Niño estimated to occur due to record Pacific heat?",
-            "hi": "प्रशांत महासागर की रिकॉर्ड गर्मी के कारण 2026-27 के अल नीनो के कितने तापमान विसंगति शिखर के साथ होने का अनुमान है?"
+            "en": "Which operator gave assurances that lights will stay on this winter despite engineering concerns?",
+            "hi": "किस ऑपरेटर ने आश्वासन दिया है कि इंजीनियरिंग चिंताओं के बावजूद इस सर्दी में बिजली चालू रहेगी?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "3.8°C",
-                "hi": "3.8°से."
+                "en": "National Energy System Operator",
+                "hi": "नेशनल एनर्जी सिस्टम ऑपरेटर"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "2.6°C",
-                "hi": "2.6°से."
+                "en": "European Grid Management Agency",
+                "hi": "यूरोपीय ग्रिड प्रबंधन एजेंसी"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "2.1°C",
-                "hi": "2.1°से."
+                "en": "Global Power Dispatch Bureau",
+                "hi": "ग्लोबल पावर डिस्पैच ब्यूरो"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "4.5°C",
-                "hi": "4.5°से."
+                "en": "UK Power Networks Trust",
+                "hi": "यूके पावर नेटवर्क्स ट्रस्ट"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The 2026-27 El Niño is projected to peak with an anomaly of 3.8°C.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
-            "hi": "2026-27 के अल नीनो के 3.8°C की विसंगति के साथ चरम पर पहुंचने का अनुमान है।"
+            "en": "The National Energy System Operator assured that energy supply will be adequate during the winter.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+            "hi": "नेशनल एनर्जी सिस्टम ऑपरेटर ने आश्वासन दिया कि सर्दियों के दौरान ऊर्जा की आपूर्ति पर्याप्त होगी।"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-23"
+          "id": "2026-10-24-21"
         },
         {
           "prompt": {
-            "en": "Which First Nation community in Canada uses a local data centre to preserve its Indigenous language recordings and cultural heritage?",
-            "hi": "कनाडा का कौन सा फर्स्ट नेशन समुदाय अपनी स्वदेशी भाषा की रिकॉर्डिंग और सांस्कृतिक विरासत को संरक्षित करने के लिए स्थानीय डेटा सेंटर का उपयोग करता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Inuit Tapiriit",
-                "hi": "इनुइट तापीरीट"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Haida Nation",
-                "hi": "हैडा राष्ट्र"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Cree Nation",
-                "hi": "क्री राष्ट्र"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Wiikwemkoong community",
-                "hi": "वीक्वेमकोन्ग समुदाय"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The Wiikwemkoong community uses a local data centre to store Indigenous language recordings.\nSource: https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
-            "hi": "वीक्वेमकोन्ग समुदाय स्वदेशी भाषा की रिकॉर्डिंग संग्रहीत करने के लिए स्थानीय डेटा सेंटर का उपयोग करता है।"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-24"
-        },
-        {
-          "prompt": {
-            "en": "In which animal did researchers unearth a new instance of 'contagious cancer' involving melanoma?",
-            "hi": "शोधकर्ताओं ने किस जानवर में मेलेनोमा से जुड़े 'संक्रामक कैंसर' के एक नए उदाहरण का पता लगाया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Tasmanian devil",
-                "hi": "तस्मानियाई डेविल"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Brown bullhead catfish",
-                "hi": "ब्राउन बुलहेड कैटफ़िश"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Soft-shell clam",
-                "hi": "सॉफ्ट-शेल क्लैम"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Green sea turtle",
-                "hi": "हरी समुद्री कछुआ"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Researchers studied melanoma in the brown bullhead catfish, revealing a new instance of contagious cancer.\nSource: https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece",
-            "hi": "शोधकर्ताओं ने ब्राउन बुलहेड कैटफ़िश में मेलेनोमा का अध्ययन किया, जो संक्रामक कैंसर का एक नया मामला है।"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-25"
-        },
-        {
-          "prompt": {
-            "en": "An attack on a Saudi airport resulting in casualties including an Indian national was carried out by which movement?",
-            "hi": "एक भारतीय नागरिक सहित हताहतों वाले सऊदी हवाई अड्डे पर हमला किस आंदोलन द्वारा किया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Hamas",
-                "hi": "हमास"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Al-Shabaab",
-                "hi": "अल-शबाब"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Hezbollah",
-                "hi": "हिजबुल्लाह"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Houthi movement",
-                "hi": "हुती आंदोलन"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The attack was part of a series of attacks by the Houthi movement targeting airports in Saudi Arabia.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-            "hi": "यह हमला सऊदी अरब में हवाई अड्डों को निशाना बनाने वाले हुती आंदोलन के हमलों का हिस्सा था।"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-26"
-        },
-        {
-          "prompt": {
-            "en": "Production of which military equipment component has returned to the UK after 20 years?",
-            "hi": "20 वर्षों के बाद किस सैन्य उपकरण के घटक का उत्पादन यूके में वापस आया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Fighter jet engine manufacturing",
-                "hi": "फाइटर जेट इंजन निर्माण"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Tank barrel production",
-                "hi": "टैंक बैरल उत्पादन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Submarine hull assembly",
-                "hi": "परमाणु पनडुब्बी हल असेंबली"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Assault rifle receiver casting",
-                "hi": "असॉल्ट राइफल रिसीवर कास्टिंग"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Tank barrel production has returned to the UK after 20 years.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-            "hi": "20 साल बाद टैंक बैरल का उत्पादन यूके में लौट आया है।"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-23-27"
-        },
-        {
-          "prompt": {
-            "en": "What is the name of the storm that swept across Scotland bringing heavy rain and wind warnings?",
-            "hi": "स्कॉटलैंड में भारी बारिश और हवा की चेतावनी लेकर आने वाले तूफान का क्या नाम है?"
+            "en": "What is the name of the storm that triggered an amber alert and 80mph wind gusts in Scotland?",
+            "hi": "उस तूफान का नाम क्या है जिसके कारण स्कॉटलैंड में एम्बर अलर्ट और 80 मील प्रति घंटे की रफ्तार से हवाएं चलीं?"
           },
           "options": [
             {
@@ -1436,285 +2252,693 @@
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Storm Babet",
-                "hi": "स्टॉर्म बैबेट"
+                "en": "Storm Dennis",
+                "hi": "स्टॉर्म डेनिस"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Storm Ciarán",
-                "hi": "स्टॉर्म सियारान"
+                "en": "Storm Ciara",
+                "hi": "स्टॉर्म कियारा"
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "Storm Austen swept across Scotland bringing rain and wind warnings.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-            "hi": "स्टॉर्म ऑस्टेन स्कॉटलैंड के ऊपर से गुजरा जिससे बारिश और हवा की चेतावनियां जारी हुईं।"
+            "en": "Storm Boelo brought an amber weather alert and 80mph wind gusts to Scotland.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+            "hi": "स्टॉर्म बोेलो ने स्कॉटलैंड में एम्बर मौसम अलर्ट और 80 मील प्रति घंटे की रफ्तार से हवाएं चलाईं।"
           },
-          "section": "Science, Environment & World Affairs",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-28"
+          "id": "2026-10-24-22"
         },
         {
           "prompt": {
-            "en": "How many hens were lost by the first English farmer hit by bird flu this season?",
-            "hi": "इस सीजन में बर्ड फ्लू की चपेट में आने वाले पहले अंग्रेजी किसान के पास कितनी मुर्गियां मारी गईं?"
+            "en": "How many days of essential supplies has the UK government warned households to stockpile?",
+            "hi": "यूके सरकार ने परिवारों को कितने दिनों की आवश्यक आपूर्ति का स्टॉक रखने की चेतावनी दी है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "10,000 hens",
-                "hi": "10,000 मुर्गियां"
+                "en": "One day",
+                "hi": "एक दिन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "25,000 hens",
-                "hi": "25,000 मुर्गियां"
+                "en": "Three days",
+                "hi": "तीन दिन"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "50,000 hens",
-                "hi": "50,000 मुर्गियां"
+                "en": "Seven days",
+                "hi": "सात दिन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "32,000 hens",
-                "hi": "32,000 मुर्गियां"
+                "en": "Fourteen days",
+                "hi": "चौदह दिन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The UK government warned households to keep three days of essential supplies on hand.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+            "hi": "यूके सरकार ने परिवारों को तीन दिन की आवश्यक आपूर्ति हाथ में रखने की चेतावनी दी है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-23"
+        },
+        {
+          "prompt": {
+            "en": "October's full moon is traditionally known by what name?",
+            "hi": "अक्टूबर के पूर्ण चंद्रमा को पारंपरिक रूप से किस नाम से जाना जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Harvest Moon",
+                "hi": "हार्वेस्ट मून"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Beaver Moon",
+                "hi": "बीवर मून"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Blood Moon",
+                "hi": "ब्लड मून"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Hunter's Moon",
+                "hi": "हंटर्स मून"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The farmer experienced the loss of 32,000 hens due to bird flu.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
-            "hi": "किसान को बर्ड फ्लू के कारण 32,000 मुर्गियों के नुकसान का सामना करना पड़ा।"
+            "en": "October's full moon is known as the Hunter's Moon.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
+            "hi": "अक्टूबर के पूर्ण चंद्रमा को हंटर्स मून के रूप में जाना जाता है।"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-29"
+          "id": "2026-10-24-24"
         },
         {
           "prompt": {
-            "en": "According to findings by the BBC and statements by UN human rights chief Volker Türk, hospitals have been deliberately targeted in Sudan by which group?",
-            "hi": "बीबीसी के निष्कर्षों और संयुक्त राष्ट्र मानवाधिकार प्रमुख वोल्कर तुर्क के बयानों के अनुसार, सूडान में किस समूह द्वारा अस्पतालों को जानबूझकर निशाना बनाया गया है?"
+            "en": "Israeli forces began demolishing Palestinian buildings in which city after two soldiers were shot dead?",
+            "hi": "दो सैनिकों की गोली मारकर हत्या करने के बाद इजरायली बलों ने किस शहर में फिलिस्तीनी इमारतों को गिराना शुरू कर दिया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "SPLM-North rebels",
-                "hi": "एसपीएलएम-नार्थ विद्रोही"
+                "en": "Jericho",
+                "hi": "येरीहो"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Sudanese Armed Forces",
-                "hi": "सूडानी सशस्त्र बल"
+                "en": "Ramallah",
+                "hi": "रामallah"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "RSF fighters",
-                "hi": "RSF लड़ाके"
+                "en": "Hebron",
+                "hi": "हेब्रोन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Janjaweed militias",
-                "hi": "जानजावीद मिलिशिया"
+                "en": "Bethlehem",
+                "hi": "बेथलेहम"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Sudan's RSF fighters have deliberately targeted hospitals, which the UN says may amount to war crimes.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-            "hi": "सूडान के आरएसएफ लड़ाकों ने अस्पतालों को जानबूझकर निशाना बनाया है, जिसे संयुक्त राष्ट्र युद्ध अपराध मान सकता है।"
+            "en": "Israeli forces began demolishing Palestinian buildings in Hebron following an attack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+            "hi": "एक हमले के बाद इजरायली बलों ने हेब्रोन में फिलिस्तीनी इमारतों को गिराना शुरू कर दिया।"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-30"
+          "id": "2026-10-24-25"
         },
         {
           "prompt": {
-            "en": "A powerful earthquake recently struck a mountainous area killing 16 people in which region?",
-            "hi": "हाल ही में किस क्षेत्र में एक शक्तिशाली भूकंप आने से 16 लोगों की मौत हो गई?"
+            "en": "According to the White House, who brokered a truce for the Ukrainian city of Oleshky?",
+            "hi": "व्हाइट हाउस के अनुसार, यूक्रेन के ओलेशकी शहर के लिए किसने संघर्षविराम कराया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Xinjiang",
-                "hi": "झिंजियांग"
+                "en": "Ivanka Trump",
+                "hi": "इवांका ट्रम्प"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Tibet",
-                "hi": "तिब्बत"
+                "en": "Jill Biden",
+                "hi": "जिल बाइडन"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Qinghai",
-                "hi": "किंगहाई"
+                "en": "Melania Trump",
+                "hi": "मेलानिया ट्रम्प"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Inner Mongolia",
-                "hi": "आंतरिक मंगोलिया"
+                "en": "Kamala Harris",
+                "hi": "कमला हैरिस"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Melania Trump brokered a truce for the Russian-occupied Ukrainian city of Oleshky.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+            "hi": "मेलानिया ट्रम्प ने रूस के कब्जे वाले यूक्रेनी शहर ओलेशकी के लिए संघर्षविराम कराया।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-26"
+        },
+        {
+          "prompt": {
+            "en": "Which specific Indian military action or operation was condemned by Azerbaijan, leading to a souring of bilateral ties before the recent reset?",
+            "hi": "हालिया रीसेट से पहले किस विशिष्ट भारतीय सैन्य कार्रवाई या ऑपरेशन की अज़रबैजान द्वारा निंदा की गई थी, जिससे द्विपक्षीय संबंध खट्टे हो गए थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Operation Vijay",
+                "hi": "ऑपरेशन विजय"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Operation Sindoor",
+                "hi": "ऑपरेशन सिंदूर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Operation Meghdoot",
+                "hi": "ऑपरेशन मेघदूत"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Operation Rakshak",
+                "hi": "ऑपरेशन रक्षक"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "A powerful earthquake hit a mountainous area in Tibet, killing 16 people.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-            "hi": "तिब्बत के एक पहाड़ी इलाके में शक्तिशाली भूकंप आने से 16 लोगों की मौत हो गई।"
+            "en": "Bilateral ties had soured with Azerbaijan's condemnation of Operation Sindoor.\nSource: https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
+            "hi": "ऑपरेशन सिंदूर की अज़रबैजान की निंदा के साथ द्विपक्षीय संबंध खट्टे हो गए थे।"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-31"
+          "id": "2026-10-24-49"
         },
         {
           "prompt": {
-            "en": "Which member of the British royal family made a surprise appearance on the Graham Norton Show to mark the Earthshot Prize?",
-            "hi": "अर्थशॉट प्राइज को चिह्नित करने के लिए ग्राहम नॉर्टन शो में किस ब्रिटिश शाही परिवार के सदस्य ने अचानक उपस्थिति दर्ज कराई?"
+            "en": "With what temperature anomaly is the 2026-27 El Niño projected to peak?",
+            "hi": "2026-27 का अल नीनो किस तापमान विसंगति (anomaly) के साथ चरम पर होने का अनुमान है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Prince Edward, Duke of Edinburgh",
-                "hi": "प्रिंस एडवर्ड, एडिनबर्ग के ड्यूक"
+                "en": "3.8°C",
+                "hi": "3.8°C"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Prince Harry, Duke of Sussex",
-                "hi": "प्रिंस हैरी, ससेक्स के ड्यूक"
+                "en": "2.6°C",
+                "hi": "2.6°C"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Prince William, Prince of Wales",
-                "hi": "प्रिंस विलियम, वेल्स के राजकुमार"
+                "en": "3.2°C",
+                "hi": "3.2°C"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "King Charles III",
-                "hi": "किंग चार्ल्स तृतीय"
+                "en": "2.1°C",
+                "hi": "2.1°C"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "Prince William made a surprise appearance on the Graham Norton Show to mark his Earthshot Prize.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-            "hi": "प्रिंस विलियम ने अपने अर्थशॉट प्राइज को चिह्नित करने के लिए ग्राहम नॉर्टन शो में सरप्राइज एंट्री की।"
+            "en": "The 2026-27 El Niño is projected to peak with an anomaly of 3.8°C.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+            "hi": "2026-27 के अल नीनो के 3.8°C की विसंगति के साथ चरम पर होने का अनुमान है।"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-32"
+          "id": "2026-10-24-50"
         },
         {
           "prompt": {
-            "en": "For the first time, what has the UK Treasury calculated regarding North Sea proceeds?",
-            "hi": "पहली बार, यूके ट्रेजरी ने उत्तरी सागर की आय के संबंध में किसकी गणना की है?"
+            "en": "Elon Musk's reported restrictions on satellite services to which country highlighted the risks of reliance on foreign-controlled tech?",
+            "hi": "एलोन मस्क द्वारा किस देश को उपग्रह सेवाओं पर कथित प्रतिबंधों ने विदेशी नियंत्रित तकनीक पर निर्भरता के जोखिमों को उजागर किया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Environmental cleanup costs accrued",
-                "hi": "पर्यावरणीय सफाई की लागत"
+                "en": "Taiwan",
+                "hi": "तैयावान"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Total tax revenue lost to foreign firms",
-                "hi": "विदेशी फर्मों को खोया हुआ कुल कर राजस्व"
+                "en": "Ukraine",
+                "hi": "यूक्रेन"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "How much the UK could have raised by investing them",
-                "hi": "कि उन्हें निवेश करके यूके कितना जुटा सकता था"
+                "en": "Israel",
+                "hi": "इजराइल"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Subsidies paid to fossil fuel producers",
-                "hi": "जीवाश्म ईंधन उत्पादकों को भुगतान की गई सब्सिडी"
+                "en": "South Korea",
+                "hi": "दक्षिण कोरिया"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Elon Musk's reported restrictions on satellite services to Ukraine highlighted these tech dependency risks.\nSource: https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+            "hi": "यूक्रेन को उपग्रह सेवाओं पर एलोन मस्क के कथित प्रतिबंधों ने इन तकनीकी निर्भरता जोखिमों को उजागर किया।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-51"
+        },
+        {
+          "prompt": {
+            "en": "Who is the Foreign Minister of Azerbaijan who recently held discussions with his Indian counterpart to highlight trade and energy ties?",
+            "hijson": "अज़रबैजान के विदेश मंत्री कौन हैं जिन्होंने हाल ही में व्यापार और ऊर्जा संबंधों को उजागर करने के लिए अपने भारतीय समकक्ष के साथ चर्चा की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sahiba Gafarova",
+                "hi": "साहिबा गफरोवा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ilham Aliyev",
+                "hi": "इल्हाम अलीयेव"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Ali Asadov",
+                "hi": "अली असदोर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jeyhun Bayramov",
+                "hi": "जेह्युन बाय्रामोव"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Azerbaijani Foreign Minister Bayramov highlighted ties after discussions with his Indian counterpart.\nSource: https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
+            "hi": "अज़रबैजानी विदेश मंत्री बाय्रामोव ने अपने भारतीय समकक्ष के साथ चर्चा के बाद संबंधों पर प्रकाश डाला।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-52"
+        },
+        {
+          "prompt": {
+            "en": "According to instrumental records, how many very strong El Niño events have occurred prior to the 2026-27 projections?",
+            "hi": "वाद्य रिकॉर्ड के अनुसार, 2026-27 के अनुमानों से पहले कितने बहुत मजबूत अल नीनो घटनाएं हो चुकी हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Three",
+                "hi": "तीन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Two",
+                "hi": "दो"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Four",
+                "hi": "चार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Five",
+                "hi": "पांच"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "There have only been three very strong El Niño events in 2015-16, 1997-98, and 1982-83.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+            "hi": "2015-16, 1997-98 और 1982-83 में केवल तीन बहुत मजबूत अल नीनो घटनाएं हुई हैं।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-53"
+        },
+        {
+          "prompt": {
+            "en": "Marco Rubio, who visited India to push a business and energy agenda, holds which official position in the United States government?",
+            "hi": "मार्को रुबियो, जिन्होंने व्यवसाय और ऊर्जा एजेंडे को आगे बढ़ाने के लिए भारत का दौरा किया, अमेरिकी सरकार में किस आधिकारिक पद पर हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "US Secretary of Treasury",
+                "hi": "यूएस ट्रेजरी सचिव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "National Security Advisor",
+                "hi": "राष्ट्रीय सुरक्षा सलाहकार"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "US Secretary of State",
+                "hi": "यूएस सेक्रेटरी ऑफ स्टेट (विदेश मंत्री)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Secretary of Energy",
+                "hi": "ऊर्जा सचिव"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The Treasury calculated how much the UK could have raised by investing North Sea proceeds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-            "hi": "ट्रेजरी ने गणना की कि यूके उत्तरी सागर की आय का निवेश करके कितना धन जुटा सकता था।"
+            "en": "Marco Rubio is the US Secretary of State.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+            "hi": "मार्को रुबियो यूएस सेक्रेटरी ऑफ स्टेट हैं।"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-23-33"
+          "id": "2026-10-24-54"
+        },
+        {
+          "prompt": {
+            "en": "Whale sightings along which Indian state's beaches prompted discussions about wildlife observation and protection?",
+            "hi": "किस भारतीय राज्य के समुद्र तटों पर व्हेल देखे जाने से वन्यजीव अवलोकन और संरक्षण पर चर्चा शुरू हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gujarat",
+                "hi": "गुजरात"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Goa",
+                "hi": "गोवा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Maharashtra",
+                "hi": "महाराष्ट्र"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Odisha",
+                "hi": "ओडिशा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Whales never stopped coming to Gujarat's beaches, but watchers did.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+            "hi": "व्हेल गुजरात के समुद्र तटों पर आना बंद नहीं हुई, बल्कि देखने वाले बंद हो गए।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-55"
+        },
+        {
+          "prompt": {
+            "en": "In which country is the First Nation community that uses a local data centre to preserve its heritage located?",
+            "hi": "अपनी विरासत को संरक्षित करने के लिए स्थानीय डेटा सेंटर का उपयोग करने वाला फर्स्ट नेशन समुदाय किस देश में स्थित है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "United States",
+                "hi": "संयुक्त राज्य अमेरिका"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Canada",
+                "hi": "कनाडा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Australia",
+                "hi": "ऑस्ट्रेलिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "New Zealand",
+                "hi": "न्यूजीलैंड"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The First Nation community is located in Canada.\nSource: https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
+            "hi": "फर्स्ट नेशन समुदाय कनाडा में स्थित है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-56"
+        },
+        {
+          "prompt": {
+            "en": "According to the analysis on foreign tech dependence, gaps in which domestic capabilities can leave critical infrastructure exposed to external pressure?",
+            "hi": "विदेशी तकनीक निर्भरता के विश्लेषण के अनुसार, किस घरेलू क्षमता में कमी महत्वपूर्ण बुनियादी ढांचे को बाहरी दबाव के संपर्क में छोड़ सकती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic capabilities in agriculture and irrigation",
+                "hi": "कृषि और सिंचाई में घरेलू क्षमताएं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Domestic capabilities in textile manufacturing",
+                "hi": "कपड़ा विनिर्माण में घरेलू क्षमताएं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Domestic capabilities across satellite navigation, cloud computing, and military equipment",
+                "hi": "उपग्रह नेविगेशन, क्लाउड कंप्यूटिंग और सैन्य उपकरण में घरेलू क्षमताएं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Domestic capabilities in pharmaceutical exports",
+                "hi": "फार्मास्युटिकल निर्यात में घरेलू क्षमताएं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Gaps in domestic capabilities from satellite navigation to cloud computing and military equipment leave infrastructure exposed.\nSource: https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+            "hi": "उपग्रह नेविगेशन से लेकर क्लाउड कंप्यूटिंग और सैन्य उपकरणों तक घरेलू क्षमताओं में अंतराल बुनियादी ढाँचे को उजागर छोड़ता है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-57"
         }
       ],
       "quarantined": [],
@@ -1722,84 +2946,69 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-10-23T18:00:00+05:30"
+      "release_at": "2026-10-24T18:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "CMRL-Exalogic pay-off case: Kerala HC to hear Pinarayi Vijayan, kin’s appeal against FIR order on October 26",
-      "url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-pay-off-case-kerala-hc-to-hear-pinarayi-vijayan-kins-appeal-against-fir-order-on-october-26/article71614865.ece",
-      "published": "2026-10-23T13:28:35+05:30"
+      "title": "Govt. sanctions ₹20 crore for Panagal temple",
+      "url": "https://www.thehindu.com/news/national/telangana/govt-sanctions-20-crore-for-panagal-temple/article71617182.ece",
+      "published": "2026-10-23T21:15:41+05:30"
     },
     {
-      "title": "Telangana Forest Beat Officer who died in line of duty selected for national award",
-      "url": "https://www.thehindu.com/news/national/telangana/forest-beat-officer-who-died-in-line-of-duty-selected-for-national-award/article71612391.ece",
-      "published": "2026-10-23T13:13:29+05:30"
+      "title": "Narayana’s family takes part in poll campaign in Nellore",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/narayanas-family-takes-part-in-poll-campaign-in-nellore/article71616954.ece",
+      "published": "2026-10-23T21:15:40+05:30"
     },
     {
-      "title": "Left parties, BRS stage joint dharna demanding transparency in Indiramma Houses beneficiary selection",
-      "url": "https://www.thehindu.com/news/national/telangana/left-parties-brs-stage-joint-dharna-demanding-transparency-in-indiramma-houses-beneficiary-selection/article71612250.ece",
-      "published": "2026-10-23T13:11:48+05:30"
+      "title": "Swadeshi Jagaran Manch urges PM Modi to deny operating permissions for SpaceX’s Starlink",
+      "url": "https://www.thehindu.com/news/national/swadeshi-jagaran-manch-urges-pm-modi-to-deny-operating-permissions-for-spacexs-starlink/article71616840.ece",
+      "published": "2026-10-23T21:13:18+05:30"
     },
     {
-      "title": "Golden Chariot revamped, fully booked for the first time",
-      "url": "https://www.thehindu.com/news/national/karnataka/golden-chariot-revamped-fully-booked-for-the-first-time/article71611630.ece",
-      "published": "2026-10-23T13:10:24+05:30"
+      "title": "Online petition urges Telangana government to ‘unchoke’ Hyderabad roads",
+      "url": "https://www.thehindu.com/news/national/telangana/online-petition-urges-telangana-government-to-unchoke-hyderabad-roads/article71616832.ece",
+      "published": "2026-10-23T21:13:16+05:30"
     },
     {
-      "title": "Karnataka SIR: Teaching on the back burner",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
-      "published": "2026-10-23T13:06:44+05:30"
+      "title": "Karnataka ‘sting operation’: Kannada news channel head secures interim-anticipatory bail",
+      "url": "https://www.thehindu.com/news/national/karnataka/sting-operation-case-kannada-news-channel-head-moves-court-for-anticipatory-bail/article71614752.ece",
+      "published": "2026-10-23T21:12:20+05:30"
     },
     {
-      "title": "Scientists petition to scrap SIR ‘disenfranchisement exercise’",
-      "url": "https://www.thehindu.com/news/national/scientists-petition-to-scrap-sir-disenfranchisement-exercise/article71615040.ece",
-      "published": "2026-10-23T13:06:01+05:30"
+      "title": "At least four dead in blast in Bihar’s Siwan district",
+      "url": "https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece",
+      "published": "2026-10-23T21:11:43+05:30"
     },
     {
-      "title": "Pakistan refused to accept bodies of its own soldiers killed in Kargil war: India at UN",
-      "url": "https://www.thehindu.com/news/national/pakistan-refused-to-accept-bodies-of-its-own-soldiers-killed-in-kargil-war-india-at-un/article71614773.ece",
-      "published": "2026-10-23T13:05:21+05:30"
+      "title": "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+      "url": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+      "published": "2026-10-23T21:10:30+05:30"
     },
     {
-      "title": "Record growth, rising risks: What’s really driving India’s core industries? | The Hindu Editorial",
-      "url": "https://www.thehindu.com/videos/record-growth-rising-risks-whats-really-driving-indias-core-industries-the-hindu-editorial/article71614823.ece",
-      "published": "2026-10-23T11:44:08+05:30"
+      "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+      "url": "https://www.thehindu.com/business/Industry/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers/article71616814.ece",
+      "published": "2026-10-23T20:10:21+05:30"
     },
     {
-      "title": "Data breach: SBI says it individually informed all affected customers",
-      "url": "https://www.thehindu.com/business/Industry/data-breach-sbi-says-it-individually-informed-all-affected-customers/article71615008.ece",
-      "published": "2026-10-23T12:53:52+05:30"
+      "title": "Data suggests broad-based increase in food prices: RBI Bulletin",
+      "url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+      "published": "2026-10-23T20:01:20+05:30"
     },
     {
-      "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying",
-      "url": "https://www.thehindu.com/business/markets/sensex-nifty-opening-on-october-23-2026/article71614681.ece",
-      "published": "2026-10-23T12:17:56+05:30"
-    },
-    {
-      "title": "Volvo Cars announces 2,500 job cuts worldwide",
-      "url": "https://www.thehindu.com/business/Industry/volvo-cars-announces-2500-job-cuts/article71614892.ece",
-      "published": "2026-10-23T12:17:42+05:30"
+      "title": "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+      "url": "https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+      "published": "2026-10-23T18:13:00+05:30"
     },
     {
       "title": "Elon Musk's political baggage clouds prospects for SpaceX-Tesla deal",
       "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-political-baggage-clouds-prospects-for-spacex-tesla-deal/article71614450.ece",
-      "published": "2026-10-23T12:10:05+05:30"
+      "published": "2026-10-23T17:35:19+05:30"
     },
     {
-      "title": "Rupee rises 3 paise to 94.78 against USD in early trade",
-      "url": "https://www.thehindu.com/business/markets/rupee-rises-against-us-dollar-on-october-23-2026/article71614598.ece",
-      "published": "2026-10-23T11:43:24+05:30"
-    },
-    {
-      "title": "Cambridge Analytica, Facebook’s ‘friend sharing’ feature, and $25 billion penalty | Explained",
-      "url": "https://www.thehindu.com/business/meta-ordered-to-pay-25-billion-over-cambridge-analytica-privacy-case/article71614455.ece",
-      "published": "2026-10-23T11:00:43+05:30"
-    },
-    {
-      "title": "Mark Zuckerberg makes deal with Meta to help him pay billionaire tax if it passes",
-      "url": "https://www.thehindu.com/sci-tech/technology/mark-zuckerberg-makes-deal-with-meta-to-help-him-pay-billionaire-tax-if-it-passes/article71614441.ece",
-      "published": "2026-10-23T10:01:29+05:30"
+      "title": "Indian markets snap 1-week rally following surge in crude, FII outflows",
+      "url": "https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
+      "published": "2026-10-23T17:24:04+05:30"
     },
     {
       "title": "A ferocious El Niño is brewing thanks to record Pacific heat",
@@ -1822,14 +3031,34 @@
       "published": "2026-10-21T13:07:08+05:30"
     },
     {
-      "title": "Indian scientists identify Martian analogue sites",
-      "url": "https://www.thehindu.com/sci-tech/science/indian-scientists-identify-martian-analogue-sites/article71604126.ece",
-      "published": "2026-10-20T19:43:18+05:30"
+      "title": "Being a good doctor is risky in India",
+      "url": "https://www.thehindu.com/sci-tech/health/being-a-good-doctor-is-risky-in-india/article71599608.ece",
+      "published": "2026-10-21T12:49:56+05:30"
     },
     {
-      "title": "Scientists unearth new instance of ‘contagious cancer’ in animals",
-      "url": "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece",
-      "published": "2026-10-20T17:30:56+05:30"
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:39:42+00:00"
+    },
+    {
+      "title": "The Indian workers filming their work to train AI",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:04:17+00:00"
+    },
+    {
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:55:39+00:00"
+    },
+    {
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T14:08:10+00:00"
+    },
+    {
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:06:37+00:00"
     },
     {
       "title": "Indian among two killed in attack on Saudi airport, authorities say",
@@ -1837,14 +3066,29 @@
       "published": "2026-10-22T13:46:33+00:00"
     },
     {
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T18:22:28+00:00"
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:15:13+00:00"
     },
     {
-      "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
-      "url": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T05:16:44+00:00"
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T11:48:04+00:00"
+    },
+    {
+      "title": "Lights will stay on this winter, grid operator says after concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T06:47:10+00:00"
+    },
+    {
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:20:38+00:00"
+    },
+    {
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T18:26:56+00:00"
     },
     {
       "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
@@ -1852,44 +3096,134 @@
       "published": "2026-10-22T22:27:53+00:00"
     },
     {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T14:28:59+00:00"
-    },
-    {
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:27:05+00:00"
-    },
-    {
-      "title": "Tank barrel production returns to UK after 20 years",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T13:45:19+00:00"
-    },
-    {
-      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
       "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T05:12:55+00:00"
+      "published": "2026-10-23T14:44:59+00:00"
     },
     {
-      "title": "'Shock' of first England farmer hit by bird flu this season",
-      "url": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T05:10:30+00:00"
+      "title": "Weather warnings in place ahead of Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:37:05+00:00"
     },
     {
-      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T21:21:22+00:00"
+      "title": "Why should I stockpile and what will I need?",
+      "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T13:30:32+00:00"
     },
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T07:52:32+00:00"
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T13:26:02+00:00"
     },
     {
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T05:16:37+00:00"
+      "title": "October's full Hunter's Moon to light up night sky this weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T12:24:20+00:00"
+    },
+    {
+      "title": "Storm Austen hits UK as yellow wind warnings in effect",
+      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T09:30:03+00:00"
+    },
+    {
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:15:23+00:00"
+    },
+    {
+      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:15:18+00:00"
+    },
+    {
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:37:07+00:00"
+    },
+    {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:48:04+00:00"
+    },
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T11:01:08+00:00"
+    },
+    {
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:30:47+00:00"
+    },
+    {
+      "title": "OCTOPUS IG urges students to cultivate discipline and courage",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/octopus-ig-urges-students-to-cultivate-discipline-and-courage/article71617315.ece",
+      "published": "2026-10-23T23:18:05+05:30"
+    },
+    {
+      "title": "Society of Indian Screen Editors formed",
+      "url": "https://www.thehindu.com/news/national/kerala/society-of-indian-screen-editors-formed/article71617254.ece",
+      "published": "2026-10-23T23:14:54+05:30"
+    },
+    {
+      "title": "H.D. Kumaraswamy continues allegations against NICE road toll collection",
+      "url": "https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-continues-allegations-against-nice-road-toll-collection/article71616700.ece",
+      "published": "2026-10-23T23:11:36+05:30"
+    },
+    {
+      "title": "Keralam to conduct Statewide child vulnerability mapping",
+      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/keralam-to-conduct-statewide-child-vulnerability-mapping/article71617387.ece",
+      "published": "2026-10-23T23:03:44+05:30"
+    },
+    {
+      "title": "Congress high command asks Karnataka CM to start probe into alleged sting operation attempt",
+      "url": "https://www.thehindu.com/news/national/karnataka/congress-high-command-asks-karnataka-cm-to-start-probe-into-alleged-sting-operation-attempt/article71617393.ece",
+      "published": "2026-10-23T23:03:26+05:30"
+    },
+    {
+      "title": "Jaishankar meets Azerbaijan President, Foreign Minister as India attempts reset of ties",
+      "url": "https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
+      "published": "2026-10-23T23:01:34+05:30"
+    },
+    {
+      "title": "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
+      "url": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+      "published": "2026-10-23T22:45:33+05:30"
+    },
+    {
+      "title": "Coforge net profit rises 56.5% as ‘record’ deal wins boost growth",
+      "url": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+      "published": "2026-10-23T22:43:46+05:30"
+    },
+    {
+      "title": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+      "url": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
+      "published": "2026-10-23T22:36:53+05:30"
+    },
+    {
+      "title": "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
+      "url": "https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
+      "published": "2026-10-23T22:29:56+05:30"
+    },
+    {
+      "title": "Government to modify labour survey to capture gig economy, unpaid household workers",
+      "url": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+      "published": "2026-10-23T22:29:40+05:30"
+    },
+    {
+      "title": "Tata Motors reports Q2 net of ₹1,257 crore, Iveco acquisition on track",
+      "url": "https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+      "published": "2026-10-23T22:19:57+05:30"
+    },
+    {
+      "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T16:39:46+00:00"
+    },
+    {
+      "title": "Denmark to ban mink farming in government U-turn",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T12:17:45+00:00"
     }
   ]
 }
