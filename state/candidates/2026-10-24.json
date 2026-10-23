@@ -1,0 +1,1650 @@
+{
+  "date": "2026-10-24",
+  "sets": [
+    {
+      "title": "Set 1: National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-10-24.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "In Nellore, family members of Minister Narayana campaigned for alliance candidates and sought votes for which mayoral candidate?",
+            "hi": "नेल्लोर में, मंत्री नारायण के परिवार के सदस्यों ने गठबंधन के उम्मीदवारों के लिए प्रचार किया और किस मेयर उम्मीदवार के लिए वोट मांगे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "V Harish",
+                "hi": "वी हरीश"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Minister's family campaigned for mayoral candidate Roop Kumar Yadav in Nellore.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/narayanas-family-takes-part-in-poll-campaign-in-nellore/article71616954.ece",
+            "hi": "मंत्री के परिवार ने नेल्लोर में मेयर पद के उम्मीदवार रूप कुमार यादव के लिए प्रचार किया।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/narayanas-family-takes-part-in-poll-campaign-in-nellore/article71616954.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-1"
+        },
+        {
+          "prompt": {
+            "en": "Which organization urged Prime Minister Narendra Modi to deny operating permissions for SpaceX's Starlink?",
+            "hi": "किस संगठन ने प्रधानमंत्री नरेंद्र मोदी से स्पेसएक्स के स्टारलिंक के लिए परिचालन अनुमति देने से इनकार करने का आग्रह किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Swadeshi Jagaran Manch",
+                "hi": "स्वदेशी जागरण मंच"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Confederation of Indian Industry",
+                "hi": "भारतीय उद्योग परिसंघ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "FICCI",
+                "hi": "फिक्की"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Associated Chambers of Commerce",
+                "hi": "एसोचैम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Swadeshi Jagaran Manch urged the Prime Minister to deny operating permissions for SpaceX’s Starlink, emphasizing domestic infrastructure.\nSource: https://www.thehindu.com/news/national/swadeshi-jagaran-manch-urges-pm-modi-to-deny-operating-permissions-for-spacexs-starlink/article71616840.ece",
+            "hi": "स्वदेशी जागरण मंच ने प्रधानमंत्री से आग्रह किया कि घरेलू बुनियादी ढांचे पर जोर देते हुए स्पेसएक्स के स्टारलिंक को परिचालन अनुमति न दी जाए।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/swadeshi-jagaran-manch-urges-pm-modi-to-deny-operating-permissions-for-spacexs-starlink/article71616840.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-2"
+        },
+        {
+          "prompt": {
+            "en": "Who is the Kannada news channel head who secured interim-anticipatory bail in connection with a Karnataka 'sting operation' case?",
+            "hi": "कर्नाटक 'स्टिंग ऑपरेशन' मामले के सिलसिले में अंतरिम अग्रिम जमानत हासिल करने वाले कन्नड़ समाचार चैनल के प्रमुख कौन हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "V Harish",
+                "hi": "वी हरीश"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Kannada news channel head Rakesh Shetty secured interim-anticipatory bail after being questioned by the cybercrime wing.\nSource: https://www.thehindu.com/news/national/karnataka/sting-operation-case-kannada-news-channel-head-moves-court-for-anticipatory-bail/article71614752.ece",
+            "hi": "साइबर क्राइम विंग द्वारा पूछताछ के बाद कन्नड़ समाचार चैनल के प्रमुख राकेश शेट्टी ने अंतरिम अग्रिम जमानत हासिल की।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/sting-operation-case-kannada-news-channel-head-moves-court-for-anticipatory-bail/article71614752.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-3"
+        },
+        {
+          "prompt": {
+            "en": "At least four people died in a blast in a house located in which district of Bihar?",
+            "hi": "बिहार के किस जिले में एक घर में हुए धमाके में कम से कम चार लोगों की मौत हो गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Siwan district",
+                "hi": "सिवान जिला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Patna district",
+                "hi": "पटना जिला"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Muzaffarpur district",
+                "hi": "मुजफ्फरपुर जिला"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bhagalpur district",
+                "hi": "भागलपुर जिला"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "At least four individuals lost their lives in a firecracker-making house explosion in Bihar's Siwan district.\nSource: https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece",
+            "hi": "बिहार के सीवान जिले में पटाखा बनाने वाले एक घर में हुए विस्फोट में कम से कम चार लोगों की जान चली गई।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-4"
+        },
+        {
+          "prompt": {
+            "en": "Who is the US Secretary of State who visited India on his second trip this year to push a business and energy agenda?",
+            "hi": "इस वर्ष अपनी दूसरी यात्रा पर भारत आने वाले और व्यापार एवं ऊर्जा एजेंडे को आगे बढ़ाने वाले अमेरिकी विदेश मंत्री कौन हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Marco Rubio",
+                "hi": "मार्को रुबियो"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Antony Blinken",
+                "hi": "पिट एंटनी ब्लिंकन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lloyd Austin",
+                "hi": "लॉयड ऑस्टिन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jake Sullivan",
+                "hi": "जेक सुलिवन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "US Secretary of State Marco Rubio visited India to focus on business and energy.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+            "hi": "अमेरिकी विदेश मंत्री मार्को रुबियो ने व्यापार और ऊर्जा पर ध्यान केंद्रित करने के लिए भारत का दौरा किया।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-5"
+        },
+        {
+          "prompt": {
+            "en": "The popular Instagram account \"Finance with Harish\" was run by whom?",
+            "hi": "लोकप्रिय इंस्टाग्राम अकाउंट \"फाइनेंस विद हरीश\" किसके द्वारा चलाया जाता था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "V Harish",
+                "hi": "वी हरीश"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "V Harish ran the popular Instagram account \"Finance with Harish\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+            "hi": "वी हरीश लोकप्रिय इंस्टाग्राम अकाउंट \"फाइनेंस विद हरीश\" चलाते थे।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-6"
+        },
+        {
+          "prompt": {
+            "en": "Who was charged with fraud after juggling five jobs without informing his employers?",
+            "hi": "अपने नियोक्ताओं को बताए बिना पांच नौकरियां करने के बाद धोखाधड़ी का आरोपी किसे बनाया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rakesh Shetty",
+                "hi": "राकेश शेट्टी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "V Harish",
+                "hi": "वी हरीश"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Roop Kumar Yadav",
+                "hi": "रूप कुमार यादव"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Civil servant Kashim Chowdhury was charged with fraud for holding multiple jobs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+            "hi": "सिविल सेवक काशिम चौधरी पर कई नौकरियां रखने के लिए धोखाधड़ी का आरोप लगाया गया था।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-7"
+        },
+        {
+          "prompt": {
+            "en": "What does the Welsh government plan to ban as part of its newly launched consultation?",
+            "hi": "वेल्श सरकार अपनी नई शुरू की गई परामर्श प्रक्रिया के हिस्से के रूप में किस पर प्रतिबंध लगाने की योजना बना रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Steel pylons",
+                "hi": "स्टील के खंभे (पायलन)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Diesel vehicles",
+                "hi": "डीजल वाहन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Plastic bags",
+                "hi": "प्लास्टिक बैग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Coal-fired generation",
+                "hi": "कोयला आधारित उत्पादन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Welsh government launched a consultation on banning steel pylons by preferring an undergrounding-first approach.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+            "hi": "वेल्श सरकार ने भूमिगत दृष्टिकोण को प्राथमिकता देते हुए स्टील पाइल पर प्रतिबंध लगाने पर परामर्श शुरू किया है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-8"
+        },
+        {
+          "prompt": {
+            "en": "A deadly shooting near which European capital is being investigated as a 'crime of terrorism'?",
+            "hi": "किस यूरोपीय राजधानी के पास हुई एक घातक गोलीबारी की जांच 'आतंकवाद के अपराध' के रूप में की जा रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Paris",
+                "hi": "पेरिस"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Berlin",
+                "hi": "बर्लिन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "London",
+                "hi": "लंदन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Madrid",
+                "hi": "मैड्रिड"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "A deadly shooting near Paris is being investigated as an act of terrorism.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "hi": "पेरिस के पास हुई घातक गोलीबारी की जांच आतंकवाद के कृत्य के रूप में की जा रही है।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-9"
+        },
+        {
+          "prompt": {
+            "en": "In which southern governorate did gunmen shoot dead six people at a church funeral?",
+            "hi": "किस दक्षिणी गवर्नरट में बंदूकधारियों ने चर्च के अंतिम संस्कार में छह लोगों की गोली मारकर हत्या कर दी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Zarqa governorate",
+                "hi": "जरका गवर्नरट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Amman governorate",
+                "hi": "अम्मान गवर्नरट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Karak governorate",
+                "hi": "करक गवर्नरट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Irbid governorate",
+                "hi": "इरबिड गवर्नरट"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Six people were shot dead at a church funeral in Jordan's southern Karak governorate.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+            "hi": "जॉर्डन के दक्षिणी करक गवर्नरट में एक चर्च के अंतिम संस्कार में छह लोगों की गोली मारकर हत्या कर दी गई।"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-10"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Set 2: Economy, Business & Finance",
+      "source_filename": "daily-2026-10-24.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What was the net Foreign Direct Investment (FDI) figure recorded in September 2026?",
+            "hi": "सितंबर 2026 में दर्ज शुद्ध प्रत्यक्ष विदेशी निवेश (FDI) का आंकड़ा कितना था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1.2 billion",
+                "hi": "$1.2 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$5.0 billion",
+                "hi": "$5.0 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$3.3 billion",
+                "hi": "$3.3 बिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$7.1 billion",
+                "hi": "$7.1 बिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Net FDI stood at $3.3 billion in September 2026, remaining positive for the third consecutive month.\nSource: https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+            "hi": "सितंबर 2026 में शुद्ध एफडीआई 3.3 बिलियन डॉलर रहा, जो लगातार तीसरे महीने सकारात्मक रहा।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-11"
+        },
+        {
+          "prompt": {
+            "en": "Meta decided to delay new commercial terms following complaints to antitrust authorities of which regions?",
+            "hi": "किस क्षेत्र के एंटीट्रस्ट प्राधिकरणों से शिकायत मिलने के बाद मेटा ने नई व्यावसायिक शर्तों में देरी करने का फैसला किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "European Union and the U.K.",
+                "hi": "यूरोपीय संघ और यू.के."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "United States and Canada",
+                "hi": "संयुक्त राज्य अमेरिका और कनाडा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Japan and South Korea",
+                "hi": "जापान और दक्षिण कोरिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Australia and New Zealand",
+                "hi": "ऑस्ट्रेलिया और न्यूजीलैंड"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Meta delayed terms after publishers complained to European Union and U.K. antitrust authorities.\nSource: https://www.thehindu.com/business/Industry/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers/article71616814.ece",
+            "hi": "प्रकाशकों द्वारा यूरोपीय संघ और यू.के. के एंटीट्रस्ट प्राधिकरणों से शिकायत करने के बाद मेटा ने शर्तों में देरी की।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers/article71616814.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-12"
+        },
+        {
+          "prompt": {
+            "en": "According to the RBI Bulletin, where was inflation found to be higher?",
+            "hi": "आरबीआई बुलेटिन के अनुसार, कहाँ पर मुद्रास्फीति अधिक पाई गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Urban areas",
+                "hi": "शहरी क्षेत्रों में"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Metropolitan cities only",
+                "hi": "केवल महानगरों में"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rural areas",
+                "hi": "ग्रामीण क्षेत्रों में"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Export-oriented zones",
+                "hi": "निर्यात-उन्मुख क्षेत्रों में"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The RBI Bulletin noted that inflation in rural areas was higher than in urban areas.\nSource: https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+            "hi": "आरबीआई बुलेटिन में उल्लेख किया गया है कि ग्रामीण क्षेत्रों में मुद्रास्फीति शहरी क्षेत्रों की तुलना में अधिक थी।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-13"
+        },
+        {
+          "prompt": {
+            "en": "Brent crude futures touched an intraday high of how much per barrel following Houthi attacks on Saudi infrastructure?",
+            "hi": "सउदी बुनियादी ढांचे पर हूती हमलों के बाद ब्रेंट क्रूड फ्यूचर्स ने प्रति बैरल कितने का इंट्राडे उच्च स्तर छुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$94.12",
+                "hi": "$94.12"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$114.94",
+                "hi": "$114.94"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$102.50",
+                "hi": "$102.50"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$120.08",
+                "hi": "$120.08"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Brent crude futures touched an intraday high of $114.94 a barrel amid regional attacks.\nSource: https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+            "hi": "क्षेत्रीय हमलों के बीच ब्रेंट क्रूड फ्यूचर्स ने 114.94 डॉलर प्रति बैरल का इंट्राडे उच्च स्तर छुआ।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-14"
+        },
+        {
+          "prompt": {
+            "en": "By how much did Adani Total Gas raise CNG prices?",
+            "hi": "अदानी टोटल गैस ने सीएनजी की कीमतों में कितने की बढ़ोतरी की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹4.45 per kg",
+                "hi": "₹4.45 प्रति किलोग्राम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹2.10 per kg",
+                "hi": "₹2.10 प्रति किलोग्राम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹6.80 per kg",
+                "hi": "₹6.80 प्रति किलोग्राम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹8.15 per kg",
+                "hi": "₹8.15 प्रति किलोग्राम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Adani Total Gas raised CNG prices by ₹4.45 per kg following supply cost pressures.\nSource: https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+            "hi": "आपूर्ति लागत के दबाव के चलते अदानी टोटल गैस ने सीएनजी की कीमतों में ₹4.45 प्रति किलोग्राम की बढ़ोतरी की।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-15"
+        },
+        {
+          "prompt": {
+            "en": "What is the earnings limit of up to £140K associated with in the housing market?",
+            "hi": "आवास बाजार से जुड़ी £140K तक की कमाई की सीमा किसके लिए है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "First-time buyers loan scheme in England",
+                "hi": "इंग्लैंड में पहली बार घर खरीदने वालों के लिए ऋण योजना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Commercial real estate tax credits",
+                "hi": "वाणिज्यिक रियल एस्टेट कर क्रेडिट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Social housing rent caps",
+                "hi": "सामाजिक आवास किराया सीमा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Agricultural land subsidies",
+                "hi": "कृषि भूमि सब्सिडी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "An earnings limit of up to £140K applies to the 'Your First Home' first-time buyers loan scheme.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+            "hi": "£140K तक की आय सीमा 'योर फर्स्ट होम' पहली बार घर खरीदने वालों के लिए ऋण योजना पर लागू होती है।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-16"
+        },
+        {
+          "prompt": {
+            "en": "Mark Zuckerberg won a deal with Meta to help him foot the bill for a possible wealth tax in which state?",
+            "hi": "मार्क जुकरबर्ग ने किस राज्य में संभावित धन कर के भुगतान में मदद के लिए मेटा के साथ एक सौदा जीता?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "New York",
+                "hi": "न्यू यॉर्क"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Texas",
+                "hi": "टेक्सास"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "California",
+                "hi": "कैलिफोर्निया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Washington",
+                "hi": "वाशिंगटन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Zuckerberg secured a deal with Meta regarding a proposed billionaire wealth tax in California.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+            "hi": "जुकरबर्ग ने कैलिफोर्निया में प्रस्तावित अरबपति धन कर के संबंध में मेटा के साथ एक सौदा सुरक्षित किया।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-17"
+        },
+        {
+          "prompt": {
+            "en": "What policy changes in the United States are testing Indian tech workers' American dream according to recent reports?",
+            "hi": "हालिया रिपोर्टों के अनुसार, संयुक्त राज्य अमेरिका में कौन से नीतिगत बदलाव भारतीय तकनीकी श्रमिकों के अमेरिकी सपने की परीक्षा ले रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Green card curbs and tech firms cutting foreign hiring",
+                "hi": "ग्रीन कार्ड प्रतिबंध और तकनीकी फर्मों द्वारा विदेशी नियुक्तियों में कटौती"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mandatory corporate tax increases",
+                "hi": "अनिवार्य कॉर्पोरेट कर में वृद्धि"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Elimination of H-1B lottery fees",
+                "hi": "H-1B लॉटरी शुल्क की समाप्ति"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Removal of minimum wage requirements",
+                "hi": "न्यूनतम मजदूरी आवश्यकताओं को हटाना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Green card curbs and reduced foreign hiring by tech firms are challenging Indian professionals in the US.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+            "hi": "ग्रीन कार्ड प्रतिबंध और टेक फर्मों द्वारा विदेशी काम पर रखने में कमी अमेरिका में भारतीय पेशवरों के लिए चुनौती बन रहे हैं।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-18"
+        },
+        {
+          "prompt": {
+            "en": "What factors caused Indian markets to snap their one-week rally?",
+            "hi": "किन कारकों के कारण भारतीय बाजारों की एक सप्ताह की तेजी टूट गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic retail inflation collapse",
+                "hi": "घरेलू खुदरा मुद्रास्फीति में गिरावट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Surge in crude and FII outflows",
+                "hi": "कच्चे तेल में उछाल और FII की निकासी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Massive domestic retail stock buying",
+                "hi": "व्यापक घरेलू खुदरा शेयर खरीद"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sudden interest rate cuts by RBI",
+                "hi": "आरबीआई द्वारा अचानक ब्याज दरों में कटौती"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "A surge in crude oil prices and FII outflows caused Indian markets to snap their rally.\nSource: https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
+            "hi": "कच्चे तेल की कीमतों में उछाल और एफआईआई की निकासी के कारण भारतीय बाजार की तेजी टूट गई।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-19"
+        },
+        {
+          "prompt": {
+            "en": "For what purpose are some Indian workers being paid to film themselves at work?",
+            "hi": "किस उद्देश्य के लिए कुछ भारतीय श्रमिकों को काम करते समय खुद का वीडियो बनाने के लिए भुगतान किया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To train AI using the footage",
+                "hi": "फुटेज का उपयोग करके एआई को प्रशिक्षित करने के लिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To conduct government labor audits",
+                "hi": "सरकारी श्रम ऑडिट आयोजित करने के लिए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To broadcast reality TV documentaries",
+                "hi": "रियलिटी टीवी वृत्तचित्रों का प्रसारण करने के लिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To monitor workplace safety compliance",
+                "hi": "कार्यस्थल सुरक्षा अनुपालन की निगरानी के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Indian workers are being paid to film their work so the footage can be utilized to train AI systems.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+            "hi": "भारतीय श्रमिकों को अपने काम का वीडियो बनाने के लिए भुगतान किया जा रहा है ताकि फुटेज का उपयोग एआई को प्रशिक्षित करने के लिए किया जा सके।"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-20"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Set 3: Science, Environment & World Affairs",
+      "source_filename": "daily-2026-10-24.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Which operator gave assurances that lights will stay on this winter despite engineering concerns?",
+            "hi": "किस ऑपरेटर ने आश्वासन दिया है कि इंजीनियरिंग चिंताओं के बावजूद इस सर्दी में बिजली चालू रहेगी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "National Energy System Operator",
+                "hi": "नेशनल एनर्जी सिस्टम ऑपरेटर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "European Grid Management Agency",
+                "hi": "यूरोपीय ग्रिड प्रबंधन एजेंसी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Global Power Dispatch Bureau",
+                "hi": "ग्लोबल पावर डिस्पैच ब्यूरो"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "UK Power Networks Trust",
+                "hi": "यूके पावर नेटवर्क्स ट्रस्ट"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The National Energy System Operator assured that energy supply will be adequate during the winter.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+            "hi": "नेशनल एनर्जी सिस्टम ऑपरेटर ने आश्वासन दिया कि सर्दियों के दौरान ऊर्जा की आपूर्ति पर्याप्त होगी।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-21"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the storm that triggered an amber alert and 80mph wind gusts in Scotland?",
+            "hi": "उस तूफान का नाम क्या है जिसके कारण स्कॉटलैंड में एम्बर अलर्ट और 80 मील प्रति घंटे की रफ्तार से हवाएं चलीं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Storm Boelo",
+                "hi": "स्टॉर्म बोेलो"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Storm Austen",
+                "hi": "स्टॉर्म ऑस्टेन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Storm Dennis",
+                "hi": "स्टॉर्म डेनिस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Storm Ciara",
+                "hi": "स्टॉर्म कियारा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Storm Boelo brought an amber weather alert and 80mph wind gusts to Scotland.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+            "hi": "स्टॉर्म बोेलो ने स्कॉटलैंड में एम्बर मौसम अलर्ट और 80 मील प्रति घंटे की रफ्तार से हवाएं चलाईं।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-22"
+        },
+        {
+          "prompt": {
+            "en": "How many days of essential supplies has the UK government warned households to stockpile?",
+            "hi": "यूके सरकार ने परिवारों को कितने दिनों की आवश्यक आपूर्ति का स्टॉक रखने की चेतावनी दी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "One day",
+                "hi": "एक दिन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Three days",
+                "hi": "तीन दिन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Seven days",
+                "hi": "सात दिन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Fourteen days",
+                "hi": "चौदह दिन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The UK government warned households to keep three days of essential supplies on hand.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+            "hi": "यूके सरकार ने परिवारों को तीन दिन की आवश्यक आपूर्ति हाथ में रखने की चेतावनी दी है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-23"
+        },
+        {
+          "prompt": {
+            "en": "October's full moon is traditionally known by what name?",
+            "hi": "अक्टूबर के पूर्ण चंद्रमा को पारंपरिक रूप से किस नाम से जाना जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Harvest Moon",
+                "hi": "हार्वेस्ट मून"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Beaver Moon",
+                "hi": "बीवर मून"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Blood Moon",
+                "hi": "ब्लड मून"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Hunter's Moon",
+                "hi": "हंटर्स मून"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "October's full moon is known as the Hunter's Moon.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
+            "hi": "अक्टूबर के पूर्ण चंद्रमा को हंटर्स मून के रूप में जाना जाता है।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-24"
+        },
+        {
+          "prompt": {
+            "en": "Israeli forces began demolishing Palestinian buildings in which city after two soldiers were shot dead?",
+            "hi": "दो सैनिकों की गोली मारकर हत्या करने के बाद इजरायली बलों ने किस शहर में फिलिस्तीनी इमारतों को गिराना शुरू कर दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Jericho",
+                "hi": "येरीहो"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ramallah",
+                "hi": "रामallah"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Hebron",
+                "hi": "हेब्रोन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bethlehem",
+                "hi": "बेथलेहम"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Israeli forces began demolishing Palestinian buildings in Hebron following an attack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+            "hi": "एक हमले के बाद इजरायली बलों ने हेब्रोन में फिलिस्तीनी इमारतों को गिराना शुरू कर दिया।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-25"
+        },
+        {
+          "prompt": {
+            "en": "According to the White House, who brokered a truce for the Ukrainian city of Oleshky?",
+            "hi": "व्हाइट हाउस के अनुसार, यूक्रेन के ओलेशकी शहर के लिए किसने संघर्षविराम कराया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ivanka Trump",
+                "hi": "इवांका ट्रम्प"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Jill Biden",
+                "hi": "जिल बाइडन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Melania Trump",
+                "hi": "मेलानिया ट्रम्प"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kamala Harris",
+                "hi": "कमला हैरिस"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Melania Trump brokered a truce for the Russian-occupied Ukrainian city of Oleshky.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+            "hi": "मेलानिया ट्रम्प ने रूस के कब्जे वाले यूक्रेनी शहर ओलेशकी के लिए संघर्षविराम कराया।"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-24-26"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "Govt. sanctions ₹20 crore for Panagal temple",
+      "url": "https://www.thehindu.com/news/national/telangana/govt-sanctions-20-crore-for-panagal-temple/article71617182.ece",
+      "published": "2026-10-23T21:15:41+05:30",
+      "text": ""
+    },
+    {
+      "id": "2",
+      "title": "Narayana’s family takes part in poll campaign in Nellore",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/narayanas-family-takes-part-in-poll-campaign-in-nellore/article71616954.ece",
+      "published": "2026-10-23T21:15:40+05:30",
+      "text": "The Minister’s wife and daughters campaign for alliance candidates across city divisions, highlighting development works and seeking votes for mayoral candidate Roop Kumar Yadav"
+    },
+    {
+      "id": "3",
+      "title": "Swadeshi Jagaran Manch urges PM Modi to deny operating permissions for SpaceX’s Starlink",
+      "url": "https://www.thehindu.com/news/national/swadeshi-jagaran-manch-urges-pm-modi-to-deny-operating-permissions-for-spacexs-starlink/article71616840.ece",
+      "published": "2026-10-23T21:13:18+05:30",
+      "text": "Swadeshi Jagaran Manch says India must develop its own satellite internet infrastructure for both commercial and strategic reasons"
+    },
+    {
+      "id": "4",
+      "title": "Online petition urges Telangana government to ‘unchoke’ Hyderabad roads",
+      "url": "https://www.thehindu.com/news/national/telangana/online-petition-urges-telangana-government-to-unchoke-hyderabad-roads/article71616832.ece",
+      "published": "2026-10-23T21:13:16+05:30",
+      "text": ""
+    },
+    {
+      "id": "5",
+      "title": "Karnataka ‘sting operation’: Kannada news channel head secures interim-anticipatory bail",
+      "url": "https://www.thehindu.com/news/national/karnataka/sting-operation-case-kannada-news-channel-head-moves-court-for-anticipatory-bail/article71614752.ece",
+      "published": "2026-10-23T21:12:20+05:30",
+      "text": "According to CCB sources, the agency’s cybercrime wing had earlier questioned Rakesh Shetty in connection with the case"
+    },
+    {
+      "id": "6",
+      "title": "At least four dead in blast in Bihar’s Siwan district",
+      "url": "https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece",
+      "published": "2026-10-23T21:11:43+05:30",
+      "text": "The blast occurred in a house where firecrackers were being made; rescue operations under way"
+    },
+    {
+      "id": "7",
+      "title": "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+      "url": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+      "published": "2026-10-23T21:10:30+05:30",
+      "text": "FDI inflows exceeded outflows in seven out of the last eight months, a reversal of what occurred in the five months before that"
+    },
+    {
+      "id": "8",
+      "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+      "url": "https://www.thehindu.com/business/Industry/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers/article71616814.ece",
+      "published": "2026-10-23T20:10:21+05:30",
+      "text": "Meta's ⁠move followed ⁠complaints by publishers and digital advertisers to European Union and the ​U.K. antitrust ‌authorities about its new commercial terms"
+    },
+    {
+      "id": "9",
+      "title": "Data suggests broad-based increase in food prices: RBI Bulletin",
+      "url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+      "published": "2026-10-23T20:01:20+05:30",
+      "text": "Inflation in rural areas was found to be higher than in urban areas; headline CPI inflation edged up over the months and showed signs of greater generalisation across commodities"
+    },
+    {
+      "id": "10",
+      "title": "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+      "url": "https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+      "published": "2026-10-23T18:13:00+05:30",
+      "text": "Brent crude futures touched an intraday high of $114.94 a barrel on Friday after Houthi attacks on Saudi Arabia’s civilian and energy infrastructure, with India’s crude basket averaging $120.08 so far this month; Adani Total Gas raised CNG prices by ₹4.45 per kg"
+    },
+    {
+      "id": "11",
+      "title": "Elon Musk's political baggage clouds prospects for SpaceX-Tesla deal",
+      "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-political-baggage-clouds-prospects-for-spacex-tesla-deal/article71614450.ece",
+      "published": "2026-10-23T17:35:19+05:30",
+      "text": "Tesla’s reliance on production from Shanghai already gives China considerable leverage over Musk’s business empire"
+    },
+    {
+      "id": "12",
+      "title": "Indian markets snap 1-week rally following surge in crude, FII outflows",
+      "url": "https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
+      "published": "2026-10-23T17:24:04+05:30",
+      "text": ""
+    },
+    {
+      "id": "13",
+      "title": "A ferocious El Niño is brewing thanks to record Pacific heat",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+      "published": "2026-10-23T09:19:29+05:30",
+      "text": "Since the modern era of instrumental records began, there have only been three very strong El Niño events, in 2015-16, 1997-98, and 1982-83, with the three-month averages of the temperature anomaly being 2.6°, 2.4°, and 2.1°C, respectively. The 2026-27 El Niño is projected to peak with an anomaly of 3.8°C"
+    },
+    {
+      "id": "14",
+      "title": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
+      "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+      "published": "2026-10-22T10:52:49+05:30",
+      "text": "Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure"
+    },
+    {
+      "id": "15",
+      "title": "The whales never stopped coming to Gujarat’s beaches, the watchers did",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+      "published": "2026-10-21T14:15:30+05:30",
+      "text": "Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972, which is the same level of protection accorded to tigers and lions. Yet most of us may not recognise a Bryde’s whale on the beach, may not know whom to call, and may never think to ask what happened to it afterwards"
+    },
+    {
+      "id": "16",
+      "title": "First Nation community in Canada uses data centre to preserve its heritage",
+      "url": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
+      "published": "2026-10-21T13:07:08+05:30",
+      "text": "Wiikwemkoong community stores Indigenous language recordings and other information locally to safeguard its cultural legacy and control its data"
+    },
+    {
+      "id": "17",
+      "title": "Being a good doctor is risky in India",
+      "url": "https://www.thehindu.com/sci-tech/health/being-a-good-doctor-is-risky-in-india/article71599608.ece",
+      "published": "2026-10-21T12:49:56+05:30",
+      "text": "When people cannot access adequate food, clean water, or timely healthcare, can the solution to their illness really end with a prescription?"
+    },
+    {
+      "id": "18",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:39:42+00:00",
+      "text": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year."
+    },
+    {
+      "id": "19",
+      "title": "The Indian workers filming their work to train AI",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:04:17+00:00",
+      "text": "Indian workers are being paid to film themselves at work and the footage is used to train AI."
+    },
+    {
+      "id": "20",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:55:39+00:00",
+      "text": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry."
+    },
+    {
+      "id": "21",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T14:08:10+00:00",
+      "text": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday."
+    },
+    {
+      "id": "22",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:06:37+00:00",
+      "text": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+    },
+    {
+      "id": "23",
+      "title": "Indian among two killed in attack on Saudi airport, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T13:46:33+00:00",
+      "text": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom."
+    },
+    {
+      "id": "24",
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:15:13+00:00",
+      "text": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs."
+    },
+    {
+      "id": "25",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T11:48:04+00:00",
+      "text": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
+    },
+    {
+      "id": "26",
+      "title": "Lights will stay on this winter, grid operator says after concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T06:47:10+00:00",
+      "text": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
+    },
+    {
+      "id": "27",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:20:38+00:00",
+      "text": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
+    },
+    {
+      "id": "28",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T18:26:56+00:00",
+      "text": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+    },
+    {
+      "id": "29",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T22:27:53+00:00",
+      "text": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+    },
+    {
+      "id": "30",
+      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:44:59+00:00",
+      "text": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+    },
+    {
+      "id": "31",
+      "title": "Weather warnings in place ahead of Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:37:05+00:00",
+      "text": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+    },
+    {
+      "id": "32",
+      "title": "Why should I stockpile and what will I need?",
+      "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T13:30:32+00:00",
+      "text": "The UK government has warned households to have three days of essential supplies on hand."
+    },
+    {
+      "id": "33",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T13:26:02+00:00",
+      "text": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+    },
+    {
+      "id": "34",
+      "title": "October's full Hunter's Moon to light up night sky this weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T12:24:20+00:00",
+      "text": "October's full Moon, known as the Hunter's Moon, will rise on Sunday night. Will the weather be in your favour?"
+    },
+    {
+      "id": "35",
+      "title": "Storm Austen hits UK as yellow wind warnings in effect",
+      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T09:30:03+00:00",
+      "text": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
+    },
+    {
+      "id": "36",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:15:23+00:00",
+      "text": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+    },
+    {
+      "id": "37",
+      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:15:18+00:00",
+      "text": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way."
+    },
+    {
+      "id": "38",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:37:07+00:00",
+      "text": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
+    },
+    {
+      "id": "39",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:48:04+00:00",
+      "text": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    {
+      "id": "40",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T11:01:08+00:00",
+      "text": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
+    },
+    {
+      "id": "41",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:30:47+00:00",
+      "text": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
+    }
+  ]
+}
