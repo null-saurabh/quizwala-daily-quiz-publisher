@@ -1,9 +1,11 @@
 name: Daily current affairs
 on:
   schedule:
-    - cron: '0 12 * * *' # 17:30 IST: prepare tomorrow using today's news.
-    - cron: '0 15 * * *' # 20:30 IST: automatic retry for an incomplete target.
-    - cron: '0 18 * * *' # 23:30 IST: final bounded automatic attempt.
+    - cron: '30 11 * * *' # 17:00 IST: 1st run - prepare tomorrow from evening news
+    - cron: '0 14 * * *'  # 19:30 IST: 2nd run - top-up/retry if incomplete
+    - cron: '30 16 * * *' # 22:00 IST: 3rd run - top-up/retry if incomplete
+    - cron: '30 19 * * *' # 01:00 IST: 4th run - overnight retry if incomplete
+    - cron: '30 22 * * *' # 04:00 IST: 5th run - final pre-dawn retry before 06:30 IST release
   workflow_dispatch:
     inputs:
       edition_date:

@@ -18,17 +18,18 @@ Set Actions repository variable `DAILY_GENERATION_ENABLED=true` to enable, or
 eligibility and expiry limits. Input/output caps bound usage, not an exact currency
 amount. No immediate automatic HTTP retry or alternate model is used; bounded top-up workflow runs are supported.
 
-The workflow first runs at 12:00 UTC / 5:30 PM IST and generates the complete
-**tomorrow** edition from news available that evening. Two more runs at 8:30 PM
-and 11:30 PM IST automatically retry an incomplete target. Each run resumes
-the oldest unpublished target before starting a new tomorrow edition. A
-successful first attempt makes later same-day runs no-ops. This leaves an
-overnight buffer before the target edition's first 6:30 AM release. GitHub can
-delay or skip scheduled runs, so scheduling is not a delivery SLA.
+The workflow first runs at 11:30 UTC / 5:00 PM IST and generates the complete
+**tomorrow** edition from news available that evening. Four more scheduled runs
+at 7:30 PM, 10:00 PM, 1:00 AM, and 4:00 AM IST automatically top-up or retry
+an incomplete target (up to the maximum of 5 attempts per target date). Each run
+resumes the oldest unpublished target before starting a new tomorrow edition. A
+successful first attempt makes all later same-day runs instant no-ops. This leaves
+an overnight buffer well before the target edition's first 6:30 AM IST release.
+GitHub can delay or skip scheduled runs, so scheduling is not a delivery SLA.
 
 The duplicate-run guard applies to each reserved attempt, with a maximum of
 five attempts per target edition. A failed or incomplete edition can be retried
-through scheduled runs later the same day. Workflow dispatch can also resume it,
+through scheduled runs later that evening/night. Workflow dispatch can also resume it,
 optionally specifying `edition_date`.
 Each attempt is committed before its API call. Candidate state and raw responses
 are committed by the final workflow step even when generation/validation fails.
