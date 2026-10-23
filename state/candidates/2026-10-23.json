@@ -1,0 +1,455 @@
+{
+  "date": "2026-10-23",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-10-23.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Who among the following was selected for a national award after tragically dying in the line of duty in Telangana?",
+            "hi": "तेलंगाना में कर्तव्य निभाते हुए जान गंवाने वाले निम्नलिखित में से किसे राष्ट्रीय पुरस्कार के लिए चुना गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Banoth Naveen",
+                "hi": "बानोथ नवीन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ashutosh Ranka",
+                "hi": "आशुतोष रांका"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Saurav Das",
+                "hi": "सौरव दास"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kashim Chowdhury",
+                "hi": "काशिम चौधरी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Banoth Naveen was selected for a national award after coming in contact with a live wire while chasing poachers.\nSource: https://www.thehindu.com/news/national/telangana/forest-beat-officer-who-died-in-line-of-duty-selected-for-national-award/article71612391.ece",
+            "hi": "शिकारियों का पीछा करते समय लाइव तार के संपर्क में आने के बाद बानोथ नवीन को राष्ट्रीय पुरस्कार के लिए चुना गया।"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/telangana/forest-beat-officer-who-died-in-line-of-duty-selected-for-national-award/article71612391.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-1"
+        },
+        {
+          "prompt": {
+            "en": "Left parties and BRS staged a joint dharna in Telangana demanding the release of pending bills for incomplete houses sanctioned under which previous housing scheme?",
+            "hi": "वाम दलों और बीआरएस ने तेलंगाना में किस पिछली आवास योजना के तहत स्वीकृत अधूरे घरों के लंबित बिलों को जारी करने की मांग को लेकर संयुक्त धरना दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Pradhan Mantri Awas Yojana",
+                "hi": "प्रधानमंत्री आवास योजना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Indira Awaas Yojana",
+                "hi": "इंदिरा आवास योजना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rajiv Gandhi Awas Yojana",
+                "hi": "राजीव गांधी आवास योजना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Indiramma Housing Scheme",
+                "hi": "इंदिराम्मा आवास योजना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The parties demanded pending bills for houses sanctioned under the Indira Awaas Yojana and other previous schemes.\nSource: https://www.thehindu.com/news/national/telangana/left-parties-brs-stage-joint-dharna-demanding-transparency-in-indiramma-houses-beneficiary-selection/article71612250.ece",
+            "hi": "दलों ने इंदिरा आवास योजना और अन्य पिछली योजनाओं के तहत स्वीकृत घरों के लंबित बिलों की मांग की।"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/telangana/left-parties-brs-stage-joint-dharna-demanding-transparency-in-indiramma-houses-beneficiary-selection/article71612250.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-23-2"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "Telangana Forest Beat Officer who died in line of duty selected for national award",
+      "url": "https://www.thehindu.com/news/national/telangana/forest-beat-officer-who-died-in-line-of-duty-selected-for-national-award/article71612391.ece",
+      "published": "2026-10-23T13:13:29+05:30",
+      "text": "Banoth Naveen went chasing suspected poachers through a reserve forest when he came in contact with a live wire"
+    },
+    {
+      "id": "2",
+      "title": "Left parties, BRS stage joint dharna demanding transparency in Indiramma Houses beneficiary selection",
+      "url": "https://www.thehindu.com/news/national/telangana/left-parties-brs-stage-joint-dharna-demanding-transparency-in-indiramma-houses-beneficiary-selection/article71612250.ece",
+      "published": "2026-10-23T13:11:48+05:30",
+      "text": "The parties demand pending bills for incomplete houses sanctioned under the Indira Awaas Yojana and other previous housing schemes be released immediately"
+    },
+    {
+      "id": "3",
+      "title": "Golden Chariot revamped, fully booked for the first time",
+      "url": "https://www.thehindu.com/news/national/karnataka/golden-chariot-revamped-fully-booked-for-the-first-time/article71611630.ece",
+      "published": "2026-10-23T13:10:24+05:30",
+      "text": "The food menu on the train has been diversified, includes Jain and gluten-free options"
+    },
+    {
+      "id": "4",
+      "title": "Karnataka SIR: Teaching on the back burner",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-teaching-on-the-back-burner/article71606292.ece",
+      "published": "2026-10-23T13:06:44+05:30",
+      "text": "Children in government and aided schools across Karnataka have not seen several of their teachers for months, for most of them have been assigned as Booth Level Officers for the Special Intensive Revision of electoral rolls. Students tell Rishita Khanna that what initially seemed like fun with many free hours, is now making them anxious..."
+    },
+    {
+      "id": "5",
+      "title": "Scientists petition to scrap SIR ‘disenfranchisement exercise’",
+      "url": "https://www.thehindu.com/news/national/scientists-petition-to-scrap-sir-disenfranchisement-exercise/article71615040.ece",
+      "published": "2026-10-23T13:06:01+05:30",
+      "text": "The signatories say they have endorsed the statement in their individual capacities, and that their views are personal and do not represent their institutions"
+    },
+    {
+      "id": "6",
+      "title": "CMRL-Exalogic pay-off case: Kerala HC to hear Pinarayi Vijayan, kin’s appeal against FIR order on October 26",
+      "url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-pay-off-case-kerala-hc-to-hear-pinarayi-vijayan-kins-appeal-against-fir-order-on-october-26/article71614865.ece",
+      "published": "2026-10-23T13:05:37+05:30",
+      "text": "A Division Bench had denied former Chief Minister the permission to appeal against Single Bench order, after which he approached Supreme Court, which stayed the order for seven days and redirected the matter to be considered again"
+    },
+    {
+      "id": "7",
+      "title": "Pakistan refused to accept bodies of its own soldiers killed in Kargil war: India at UN",
+      "url": "https://www.thehindu.com/news/national/pakistan-refused-to-accept-bodies-of-its-own-soldiers-killed-in-kargil-war-india-at-un/article71614773.ece",
+      "published": "2026-10-23T13:05:21+05:30",
+      "text": "Ms. Mangalanandan added that burial rights for terrorists are being justified by indicating that States may restrict funeral rights of terrorists, but only within legal limits"
+    },
+    {
+      "id": "8",
+      "title": "Tamil Nadu government releases list of public holidays for 2027",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-releases-list-of-public-holidays-for-2027/article71611311.ece",
+      "published": "2026-10-23T13:04:36+05:30",
+      "text": ""
+    },
+    {
+      "id": "9",
+      "title": "Data breach: SBI says it individually informed all affected customers",
+      "url": "https://www.thehindu.com/business/Industry/data-breach-sbi-says-it-individually-informed-all-affected-customers/article71615008.ece",
+      "published": "2026-10-23T12:53:52+05:30",
+      "text": "SBI had come under criticism for not informing affected customers though it cared to intimate the incident to stock exchanges"
+    },
+    {
+      "id": "10",
+      "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying",
+      "url": "https://www.thehindu.com/business/markets/sensex-nifty-opening-on-october-23-2026/article71614681.ece",
+      "published": "2026-10-23T12:17:56+05:30",
+      "text": "Gains remained modest as soaring crude oil prices, amid escalating tensions in West Asia, dampened investors' sentiment"
+    },
+    {
+      "id": "11",
+      "title": "Volvo Cars announces 2,500 job cuts worldwide",
+      "url": "https://www.thehindu.com/business/Industry/volvo-cars-announces-2500-job-cuts/article71614892.ece",
+      "published": "2026-10-23T12:17:42+05:30",
+      "text": "Struggling along with other European auto companies in the face of a difficult global landscape, Volvo Cars last year announced an 18-billion-kronor cost-cutting plan"
+    },
+    {
+      "id": "12",
+      "title": "Elon Musk's political baggage clouds prospects for SpaceX-Tesla deal",
+      "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-political-baggage-clouds-prospects-for-spacex-tesla-deal/article71614450.ece",
+      "published": "2026-10-23T12:10:05+05:30",
+      "text": "Tesla’s reliance on production from Shanghai already gives China considerable leverage over Musk’s business empire"
+    },
+    {
+      "id": "13",
+      "title": "Record growth, rising risks: What’s really driving India’s core industries? | The Hindu Editorial",
+      "url": "https://www.thehindu.com/videos/record-growth-rising-risks-whats-really-driving-indias-core-industries-the-hindu-editorial/article71614823.ece",
+      "published": "2026-10-23T11:44:08+05:30",
+      "text": "India’s core industrial sectors recorded a series-high growth rate of 7.9% in September, driven by strong performances in coal, electricity, steel and refinery products. While the data points to a welcome industrial uptick, concerns remain about how sustainable the momentum will be. Much of the growth appears linked to temporary factors such as increased power demand during the heat wave and higher refining activity driven by imported oil. With global crude prices rising, foreign exchange pressures mounting and infrastructure spending continuing to shoulder much of the growth burden, economists are questioning whether the current surge can be sustained in the coming months."
+    },
+    {
+      "id": "14",
+      "title": "Rupee rises 3 paise to 94.78 against USD in early trade",
+      "url": "https://www.thehindu.com/business/markets/rupee-rises-against-us-dollar-on-october-23-2026/article71614598.ece",
+      "published": "2026-10-23T11:43:24+05:30",
+      "text": "The rupee rises by 3 paise against U.S. dollar on Friday, under pressure amid macroeconomic headwinds"
+    },
+    {
+      "id": "15",
+      "title": "Cambridge Analytica, Facebook’s ‘friend sharing’ feature, and $25 billion penalty | Explained",
+      "url": "https://www.thehindu.com/business/meta-ordered-to-pay-25-billion-over-cambridge-analytica-privacy-case/article71614455.ece",
+      "published": "2026-10-23T11:00:43+05:30",
+      "text": "What was Facebook’s controversial ‘friend sharing’ feature? What is the Cambridge Analytica scandal? How did Facebook respond to the controversy? What was the New Mexico court’s verdict? What was Meta’s response?"
+    },
+    {
+      "id": "16",
+      "title": "Mark Zuckerberg makes deal with Meta to help him pay billionaire tax if it passes",
+      "url": "https://www.thehindu.com/sci-tech/technology/mark-zuckerberg-makes-deal-with-meta-to-help-him-pay-billionaire-tax-if-it-passes/article71614441.ece",
+      "published": "2026-10-23T10:01:29+05:30",
+      "text": "Mark Zuckerberg has made a deal with Meta to help him pay a proposed billionaire tax that is on the ballot in California"
+    },
+    {
+      "id": "17",
+      "title": "A ferocious El Niño is brewing thanks to record Pacific heat",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+      "published": "2026-10-23T09:19:29+05:30",
+      "text": "Since the modern era of instrumental records began, there have only been three very strong El Niño events, in 2015-16, 1997-98, and 1982-83, with the three-month averages of the temperature anomaly being 2.6°, 2.4°, and 2.1°C, respectively. The 2026-27 El Niño is projected to peak with an anomaly of 3.8°C"
+    },
+    {
+      "id": "18",
+      "title": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
+      "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+      "published": "2026-10-22T10:52:49+05:30",
+      "text": "Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure"
+    },
+    {
+      "id": "19",
+      "title": "The whales never stopped coming to Gujarat’s beaches, the watchers did",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+      "published": "2026-10-21T14:15:30+05:30",
+      "text": "Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972, which is the same level of protection accorded to tigers and lions. Yet most of us may not recognise a Bryde’s whale on the beach, may not know whom to call, and may never think to ask what happened to it afterwards"
+    },
+    {
+      "id": "20",
+      "title": "First Nation community in Canada uses data centre to preserve its heritage",
+      "url": "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece",
+      "published": "2026-10-21T13:07:08+05:30",
+      "text": "Wiikwemkoong community stores Indigenous language recordings and other information locally to safeguard its cultural legacy and control its data"
+    },
+    {
+      "id": "21",
+      "title": "Being a good doctor is risky in India",
+      "url": "https://www.thehindu.com/sci-tech/health/being-a-good-doctor-is-risky-in-india/article71599608.ece",
+      "published": "2026-10-21T12:49:56+05:30",
+      "text": "When people cannot access adequate food, clean water, or timely healthcare, can the solution to their illness really end with a prescription?"
+    },
+    {
+      "id": "22",
+      "title": "Indian scientists identify Martian analogue sites",
+      "url": "https://www.thehindu.com/sci-tech/science/indian-scientists-identify-martian-analogue-sites/article71604126.ece",
+      "published": "2026-10-20T19:43:18+05:30",
+      "text": "Researchers added that identifying terrestrial analogue sites has become a pressing requirement in the era of intense planetary exploration since recent studies demonstrated that orbital data alone cannot fully characterise Martian minerals."
+    },
+    {
+      "id": "23",
+      "title": "What are ‘heat storms’?",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-are-heat-storms/article71604489.ece",
+      "published": "2026-10-20T17:51:38+05:30",
+      "text": "A consultation with two dozen climate researchers and an analysis of temperatures worldwide for for every hour since 1960 has yielded a new concept"
+    },
+    {
+      "id": "24",
+      "title": "Scientists unearth new instance of ‘contagious cancer’ in animals",
+      "url": "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece",
+      "published": "2026-10-20T17:30:56+05:30",
+      "text": "Researchers studied melanoma in the brown bullhead catfish, a resident of Lake Memphremagog, between Quebec in Canada and Vermont in the U.S.; the finding is interesting because it could reveal clues to keeping a human’s body from rejecting a transplanted organ"
+    },
+    {
+      "id": "25",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:55:39+00:00",
+      "text": "The attack on Shroff has revived memories of the 1990s, when gangsters wielded influence over the industry."
+    },
+    {
+      "id": "26",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T14:08:10+00:00",
+      "text": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday."
+    },
+    {
+      "id": "27",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:06:37+00:00",
+      "text": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+    },
+    {
+      "id": "28",
+      "title": "Indian among two killed in attack on Saudi airport, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T13:46:33+00:00",
+      "text": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom."
+    },
+    {
+      "id": "29",
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T18:22:28+00:00",
+      "text": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
+    },
+    {
+      "id": "30",
+      "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T05:16:44+00:00",
+      "text": "India's second mega IPO in a month comes despite subdued equity markets and aims to raise $3.2bn."
+    },
+    {
+      "id": "31",
+      "title": "Lights will stay on this winter, grid operator says after concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T06:47:10+00:00",
+      "text": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
+    },
+    {
+      "id": "32",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:20:38+00:00",
+      "text": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
+    },
+    {
+      "id": "33",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T18:26:56+00:00",
+      "text": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
+    },
+    {
+      "id": "34",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T22:27:53+00:00",
+      "text": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+    },
+    {
+      "id": "35",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T15:05:47+00:00",
+      "text": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
+    },
+    {
+      "id": "36",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T14:28:59+00:00",
+      "text": "The bank says it is using more AI leading to a 5% reduction in its workforce."
+    },
+    {
+      "id": "37",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T23:27:05+00:00",
+      "text": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
+    },
+    {
+      "id": "38",
+      "title": "Tank barrel production returns to UK after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T13:45:19+00:00",
+      "text": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces."
+    },
+    {
+      "id": "39",
+      "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T05:12:55+00:00",
+      "text": "The Met Office has issued a yellow warning for rain across Scotland on Friday, followed by a wind warning on Saturday."
+    },
+    {
+      "id": "40",
+      "title": "'Shock' of first England farmer hit by bird flu this season",
+      "url": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T05:10:30+00:00",
+      "text": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens."
+    },
+    {
+      "id": "41",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T05:05:03+00:00",
+      "text": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
+    },
+    {
+      "id": "42",
+      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T00:08:43+00:00",
+      "text": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
+    },
+    {
+      "id": "43",
+      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T21:21:22+00:00",
+      "text": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
+    },
+    {
+      "id": "44",
+      "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T18:48:59+00:00",
+      "text": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured."
+    },
+    {
+      "id": "45",
+      "title": "Weather warning in place ahead of Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T15:14:38+00:00",
+      "text": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday."
+    },
+    {
+      "id": "46",
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T15:11:49+00:00",
+      "text": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice."
+    },
+    {
+      "id": "47",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:16:16+00:00",
+      "text": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
+    },
+    {
+      "id": "48",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T05:16:37+00:00",
+      "text": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
+    }
+  ]
+}
