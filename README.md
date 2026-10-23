@@ -27,7 +27,7 @@ overnight buffer before the target edition's first 6:30 AM release. GitHub can
 delay or skip scheduled runs, so scheduling is not a delivery SLA.
 
 The duplicate-run guard applies to each reserved attempt, with a maximum of
-three attempts per target edition. A failed or incomplete edition can be retried
+five attempts per target edition. A failed or incomplete edition can be retried
 through scheduled runs later the same day. Workflow dispatch can also resume it,
 optionally specifying `edition_date`.
 Each attempt is committed before its API call. Candidate state and raw responses
@@ -38,7 +38,7 @@ attempt budget. A complete published edition makes further reservations no-ops.
 The publisher owns the generation contract, independently of Flutter. Responses
 are source/schema validated, then unique questions are merged into
 `state/candidates/DATE.json`. Existing candidate questions and IDs are preserved.
-A public edition is written as soon as **at least one retained set has 10 unique
+A public edition is written as soon as **at least three retained sets have 10 unique
 questions**. Complete sets publish while underfilled topics remain in candidate state for later top-ups.
 The 10–15 range is a target, not an upper bound: unique extra questions survive.
 The complete edition is published once; its set order, question IDs and wave
@@ -53,7 +53,7 @@ Conservative similarity filtering can also reject a closely worded distinct
 question. Different numerical facts are not treated as near-duplicates solely
 on textual similarity. Editorial review remains useful for semantic quality.
 
-Limits: at most three reserved attempts (including interrupted/uncertain runs),
+Limits: at most five reserved attempts (including interrupted/uncertain runs),
 one HTTP request each, and a 2 MB publication cap. Beyond that budget, operator
 review is required; no unbounded automatic retry occurs. Invalid/truncated JSON
 is retained as raw response data. The publisher also salvages individually

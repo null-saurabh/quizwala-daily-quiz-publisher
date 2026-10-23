@@ -63,6 +63,8 @@ class DailyGenerationTests(unittest.TestCase):
             generate.reserve_attempt(yesterday_target + dt.timedelta(days=1), root)
             self.assertEqual(generate.target_for_run(now, root), yesterday_target)
             self.assertEqual(generate.reserve_attempt(yesterday_target, root), 3)
+            self.assertEqual(generate.reserve_attempt(yesterday_target, root), 4)
+            self.assertEqual(generate.reserve_attempt(yesterday_target, root), 5)
             self.assertEqual(generate.target_for_run(now, root), yesterday_target + dt.timedelta(days=1))
 
     def test_request_claim_requires_reservation_and_can_only_be_used_once(self):
@@ -137,7 +139,7 @@ class DailyGenerationTests(unittest.TestCase):
     def test_retries_bounded_per_edition_and_next_date_independent(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            for attempt in range(1, 4):
+            for attempt in range(1, 6):
                 self.assertEqual(generate.reserve_attempt(EDITION_DATE, root), attempt)
                 self.assertEqual(generate.claim_generation(EDITION_DATE, root), attempt)
                 with self.assertRaisesRegex(SystemExit, 'already attempted'):
