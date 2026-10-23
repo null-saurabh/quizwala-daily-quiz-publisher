@@ -298,8 +298,6 @@ def publish(payload, root=ROOT):
     archive.mkdir(parents=True, exist_ok=True)
     day = dt.date.fromisoformat(payload['date'])
     target = archive / f'{day}.json'
-    if target.exists():
-        raise ValueError('Edition already published')
     decks = payload.get('sets', [])
     if not decks or any(len(d['questions']) < 3 for d in decks):
         raise ValueError('Publication requires valid sets with at least 3 questions each')
