@@ -407,6 +407,24 @@ class DailyGenerationTests(unittest.TestCase):
         self.assertEqual(len(decks[0]['questions']), 1)
         self.assertIn('स्रोत: https://example.org/news', decks[0]['questions'][0]['explanation']['hi'])
 
+    def test_populate_hindi_translations_fills_missing_hindi_via_gtx(self):
+        decks = generate.validate(
+            {'sets': [{'title': 'Policy', 'questions': [question(1)]}]},
+            EVIDENCE,
+            EDITION_DATE,
+            partial=True,
+        )
+        with patch.object(
+            generate,
+            '_gtx_translate_batch',
+            side_effect=lambda texts, **kw: [f'हिन्दी-{i}: {t}' for i, t in enumerate(texts)],
+        ):
+            generate.populate_hindi_translations(decks, force=True)
+        q = decks[0]['questions'][0]
+        self.assertTrue(q['prompt']['hi'].startswith('हिन्दी-0:'))
+        self.assertTrue(all(o['text'].get('hi', '').startswith('हिन्दी-') for o in q['options']))
+        self.assertIn('स्रोत: https://example.org/news', q['explanation']['hi'])
+
 
 if __name__ == '__main__':
     unittest.main()

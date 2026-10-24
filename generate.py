@@ -250,6 +250,120 @@ def balance_options(response_data):
     return response_data
 
 
+_GTX_SEP = '\n[[[QW_SEP]]]\n'
+_GTX_SEP_RE = re.compile(r'\[\[\[\s*QW_SEP\s*\]\]\]', re.I)
+
+
+_gtx_opener = urllib.request.build_opener()
+
+
+def _gtx_translate_batch(texts, sl='en', tl='hi'):
+    """Translate a list of strings via free Google Translate gtx endpoint without AI token spend."""
+    if not texts:
+        return []
+    import urllib.parse
+    joined = _GTX_SEP.join(texts)
+    params = urllib.parse.urlencode({'client': 'gtx', 'sl': sl, 'tl': tl, 'dt': 't'})
+    url = f'https://translate.googleapis.com/translate_a/single?{params}'
+    data = urllib.parse.urlencode({'q': joined}).encode('utf-8')
+    req = urllib.request.Request(
+        url,
+        data=data,
+        headers={
+            'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
+            'User-Agent': 'Mozilla/5.0',
+        },
+        method='POST',
+    )
+    with _gtx_opener.open(req, timeout=12) as resp:
+        payload = json.load(resp)
+    translated_full = ''.join(
+        seg[0] for seg in (payload[0] or []) if isinstance(seg, list) and seg and seg[0]
+    )
+    parts = [p.strip() for p in _GTX_SEP_RE.split(translated_full)]
+    if len(parts) != len(texts):
+        return []
+    return parts
+
+
+def populate_hindi_translations(decks, *, force=False):
+    """Fill missing Hindi ('hi') fields in validated decks using free Google Translate gtx batches."""
+    if not force:
+        if os.environ.get('DAILY_GTX_TRANSLATE', 'true').lower() == 'false':
+            return decks
+        if os.environ.get('VERTEX_ACCESS_TOKEN') in {None, '', 'test-only'}:
+            return decks
+    tasks = []
+    for deck in decks:
+        if not isinstance(deck, dict):
+            continue
+        for q in deck.get('questions', []):
+            if not isinstance(q, dict):
+                continue
+            prompt = q.get('prompt')
+            if isinstance(prompt, dict) and prompt.get('en') and not (prompt.get('hi') or '').strip():
+                tasks.append(('prompt', prompt, prompt['en'].strip()))
+            for opt in q.get('options', []):
+                if isinstance(opt, dict) and isinstance(opt.get('text'), dict):
+                    t_obj = opt['text']
+                    if t_obj.get('en') and not (t_obj.get('hi') or '').strip():
+                        tasks.append(('option', t_obj, t_obj['en'].strip()))
+            expl = q.get('explanation')
+            if isinstance(expl, dict) and expl.get('en') and not (expl.get('hi') or '').strip():
+                # Strip trailing "\nSource: https://..." before translating and re-attach "\nस्रोत: ..."
+                raw_en = expl['en'].strip()
+                if '\nSource: ' in raw_en:
+                    body_en, src_suffix = raw_en.rsplit('\nSource: ', 1)
+                    tasks.append(('explanation_with_source', (expl, src_suffix), body_en.strip()))
+                else:
+                    tasks.append(('explanation', expl, raw_en))
+    if not tasks:
+        return decks
+
+    batch_size = 25
+    batches = [tasks[i:i + batch_size] for i in range(0, len(tasks), batch_size)]
+
+    def _run_batch(batch):
+        try:
+            texts = [item[2] for item in batch]
+            translated = _gtx_translate_batch(texts, sl='en', tl='hi')
+            if len(translated) == len(batch):
+                return list(zip(batch, translated))
+        except Exception:
+            pass
+        return []
+
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        results = list(pool.map(_run_batch, batches))
+
+    for batch_result in results:
+        for (kind, target, _src), hi_text in batch_result:
+            if not hi_text:
+                continue
+            if kind == 'explanation_with_source':
+                expl_dict, src_suffix = target
+                expl_dict['hi'] = f'{hi_text}\nस्रोत: {src_suffix}'
+            else:
+                target['hi'] = hi_text
+
+    # Ensure all 4 options in a question have distinct Hindi strings; otherwise clear partial option hi
+    for deck in decks:
+        if not isinstance(deck, dict):
+            continue
+        for q in deck.get('questions', []):
+            opts = q.get('options', [])
+            hi_vals = [
+                normalized(o['text'].get('hi', ''))
+                for o in opts
+                if isinstance(o, dict) and isinstance(o.get('text'), dict) and (o['text'].get('hi') or '').strip()
+            ]
+            if len(hi_vals) != len(opts) or len(set(hi_vals)) != len(opts):
+                for o in opts:
+                    if isinstance(o, dict) and isinstance(o.get('text'), dict):
+                        o['text'].pop('hi', None)
+    return decks
+
+
 def validate(data, evidence, edition_date=None, *, partial=False, previous=()):
     if not isinstance(data, dict) or not isinstance(data.get('sets'), list):
         raise ValueError('Missing quiz sets')
@@ -631,6 +745,7 @@ def candidate_payload(candidate, edition_date):
     decks = [deepcopy(deck) for deck in candidate['sets'] if len(deck['questions']) >= 10]
     if len(decks) < 3:
         raise ValueError('Incomplete edition retained for top-up: need at least three sets with 10 unique questions.')
+    populate_hindi_translations(decks)
     assign_release_schedule(decks, edition_date)
     return build_payload(decks, candidate['sources'], edition_date, dt.datetime.now(dt.timezone.utc))
 
@@ -691,13 +806,13 @@ Create 3 distinct topical sets (e.g. Set 1: National Affairs, Policy & Governanc
 Each topic set MUST contain 11–13 valid questions (33–39 questions total across the 3 sets). Never shrink sets below 10 questions.
 Focus on analytical depth: institutional mechanisms, policy objectives, economic indicators, and scientific significance rather than shallow headline-recall trivia.
 Each answer must follow directly from an exact verbatim substring quote (at least 20 characters) copied from its source title or text.
-English required, Hindi translation if it fits. Four plausible, distinct options, exactly one correct answer.
+Write in English only (do NOT include "hi" translations; Hindi is generated separately by our local translator). Four plausible, distinct options, exactly one correct answer.
 IMPORTANT: Distribute correct_option_id evenly across "a", "b", "c", and "d" (do NOT always put the correct answer in "a").
 Explanations must explain WHY the answer is correct using context from the excerpt (never merely repeat the question or option text).
 Return JSON only: {"sets":[{"title":"...","questions":[{"source_id":"1","evidence":"exact excerpt",
-"prompt":{"en":"...","hi":"..."},"options":[{"id":"a","text":{"en":"...","hi":"..."}},
+"prompt":{"en":"..."},"options":[{"id":"a","text":{"en":"..."}},
 {"id":"b","text":{"en":"..."}},{"id":"c","text":{"en":"..."}},{"id":"d","text":{"en":"..."}}],
-"correct_option_id":"b","explanation":{"en":"...","hi":"..."}}]}]}.
+"correct_option_id":"b","explanation":{"en":"..."}}]}]}.
 Stay within the output budget, complete valid JSON rather than truncating. Date: '''+EDITION_DAY+'\n'+json.dumps(evidence, ensure_ascii=False)
     candidate_path = root / 'state' / 'candidates' / f'{EDITION_DAY}.json'
     try:
