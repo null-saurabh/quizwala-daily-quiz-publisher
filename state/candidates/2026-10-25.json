@@ -973,6 +973,516 @@
           "warnings": [],
           "page": 1,
           "id": "2026-10-25-31"
+        },
+        {
+          "prompt": {
+            "en": "According to the statement released by the Chief Electoral Officer of Uttar Pradesh, out of nearly 14.8 million entries in the voter list, how many entries featured strange names for voters or relatives?",
+            "hi": "उत्तर प्रदेश के मुख्य निर्वाचन अधिकारी द्वारा जारी बयान के अनुसार, मतदाता सूची में लगभग 14.8 मिलियन प्रविष्टियों में से कितनी प्रविष्टियों में मतदाताओं या उनके रिश्तेदारों के नाम अजीब दिखाई दिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "1,580 entries",
+                "hi": "1,580 प्रविष्टियाँ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "15 entries",
+                "hi": "15 प्रविष्टियाँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "15,800 entries",
+                "hi": "15,800 प्रविष्टियाँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "158 entries",
+                "hi": "158 प्रविष्टियाँ"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The official statement noted that out of 14,81,310 total entries, precisely 158 entries contained strange names due to initial compilation errors.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece",
+            "hi": "आधिकारिक बयान में उल्लेख किया गया है कि 14,81,310 कुल प्रविष्टियों में से ठीक 158 प्रविष्टियों में प्रारंभिक संकलन त्रुटियों के कारण अजीब नाम थे।\nस्रोत: https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-40"
+        },
+        {
+          "prompt": {
+            "en": "The student demonstration at Mumbai University organised by the Disha Students’ Organisation and BSJAY called for the repeal of which legislation?",
+            "hi": "दिशा स्टूडेंट्स ऑर्गनाइजेशन और बीएसजेएवाई द्वारा मुंबई विश्वविद्यालय में आयोजित छात्र प्रदर्शन में किस कानून को निरस्त करने की मांग की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The 2023 law governing the appointment of Election Commissioners",
+                "hi": "चुनाव आयुक्तों की नियुक्ति को नियंत्रित करने वाला 2023 का कानून"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The 2021 Electoral Bonds Amendment Act",
+                "hi": "2021 का चुनावी बॉन्ड संशोधन अधिनियम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The 2022 Delimitation Commission Act",
+                "hi": "2022 का परिसीमन आयोग अधिनियम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The 2024 Voter Verification Act",
+                "hi": "2024 का मतदाता सत्यापन अधिनियम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The demonstration explicitly called for the repeal of the specific 2023 law governing how Election Commissioners are appointed.\nSource: https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
+            "hi": "प्रदर्शन में विशेष रूप से चुनाव आयुक्तों की नियुक्ति को विनियमित करने वाले 2023 के कानून को निरस्त करने की मांग की गई।\nस्रोत: https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-41"
+        },
+        {
+          "prompt": {
+            "en": "Where is the concluding ceremony of the year-long birth centenary celebrations of the singer scheduled to be held on November 29?",
+            "hi": "29 नवंबर को गायिका की वर्ष भर चलने वाली जन्म शताब्दी समारोह का समापन समारोह कहाँ आयोजित किया जाना है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vigyan Bhavan, New Delhi",
+                "hi": "विज्ञान भवन, नई दिल्ली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Guwahati University, Assam",
+                "hi": "गुवाहाटी विश्वविद्यालय, असम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Bharat Mandapam in New Delhi",
+                "hi": "नई दिल्ली में भारत मंडपम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rabindra Sadan, Kolkata",
+                "hi": "रवींद्र सदन, कोलकाता"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Chief Minister Sarma noted that the event will take place at Bharat Mandapam in New Delhi.\nSource: https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece",
+            "hi": "मुख्यमंत्री सरमा ने उल्लेख किया कि यह कार्यक्रम नई दिल्ली के भारत मंडपम में आयोजित होगा।\nस्रोत: https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-42"
+        },
+        {
+          "prompt": {
+            "en": "How many lives were claimed in the stampede that broke out at a Durga Puja pandal in north Kolkata on October 17?",
+            "hi": "17 अक्टूबर को उत्तर कोलकाता के एक दुर्गा पूजा पंडाल में मची भगदड़ में कितने लोगों की जान चली गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "25 lives",
+                "hi": "25 लोगों की"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "12 lives",
+                "hi": "12 लोगों की"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "19 lives",
+                "hi": "19 लोगों की"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "9 lives",
+                "hi": "9 लोगों की"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The tragic incident in the narrow, dimly lit pandal caused 19 fatalities.\nSource: https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece",
+            "hi": "तंग और कम रोशनी वाले पंडाल में हुई इस दुखद घटना में 19 मौतें हुईं।\nस्रोत: https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-43"
+        },
+        {
+          "prompt": {
+            "en": "What specific aspect does the Periodic Labour Force Survey aim to measure by introducing additional questions?",
+            "hi": "आवधिक श्रम बल सर्वेक्षण (Periodic Labour Force Survey) अतिरिक्त प्रश्न शामिल करके किस विशिष्ट पहलू को मापने का लक्ष्य रखता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Labour underutilisation",
+                "hi": "श्रम अल्पउपयोग (Labour underutilisation)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Industrial productivity output",
+                "hi": "औद्योगिक उत्पादकता आउटपुट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Inflation expectations",
+                "hi": "मुद्रास्फीति की उम्मीदें"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rural agricultural income",
+                "hi": "ग्रामीण कृषि आय"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The government is modifying the labour survey to capture elements like the gig economy and unpaid household workers in order to measure labour underutilisation.\nSource: https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+            "hi": "सरकार श्रम अल्पउपयोग को मापने के लिए गिग इकोनॉमी और अवैतनिक घरेलू कामगारों जैसे तत्वों को शामिल करने हेतु श्रम सर्वेक्षण में संशोधन कर रही है।\nस्रोत: https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-44"
+        },
+        {
+          "prompt": {
+            "en": "Under which schedule of the Wildlife (Protection) Act 1972 are all cetaceans protected in India, matching the protection level of tigers and lions?",
+            "hi": "वन्यजीव (संरक्षण) अधिनियम 1972 की किस अनुसूची के तहत भारत में सभी सेटेशियंस (cetaceans) को संरक्षित किया गया है, जो बाघों और शेरों के समान स्तर प्रदान करता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Schedule I",
+                "hi": "अनुसूची I"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Schedule III",
+                "hi": "अनुसूची III"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Schedule II",
+                "hi": "अनुसूची II"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Schedule IV",
+                "hi": "अनुसूची IV"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Every cetacean in India falls under Schedule I, ensuring the highest level of legal protection equivalent to apex cats like tigers and lions.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+            "hi": "भारत में प्रत्येक सेटेशियन अनुसूची I के अंतर्गत आता है, जो बाघों और शेरों जैसी शीर्ष बिल्लियों के बराबर कानूनी संरक्षण का उच्चतम स्तर सुनिश्चित करता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/the-whales-never-stopped-coming-to-gujarat-beaches-the-watchers-did/article71606866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-45"
+        },
+        {
+          "prompt": {
+            "en": "What is driving half a dozen elite British schools to expand their presence into India?",
+            "hi": "आधा दर्जन संभ्रांत ब्रिटिश स्कूलों को भारत में अपनी उपस्थिति का विस्तार करने के लिए क्या प्रेरित कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Free-of-cost infrastructure provided under bilateral trade deals",
+                "hi": "द्विपक्षीय व्यापार समझौतों के तहत प्रदान किया जाने वाला मुफ्त बुनियादी ढांचा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Subsidized land grants offered by state governments",
+                "hi": "राज्य सरकारों द्वारा दी जाने वाली सब्सिडीयुक्त भूमि अनुदान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mandatory curriculum tie-ups required by local education boards",
+                "hi": "स्थानीय शिक्षा बोर्डों द्वारा आवश्यक अनिवार्य पाठ्यक्रम टाई-अप"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A boom in India's wealthy population",
+                "hi": "भारत की संपन्न आबादी में उछाल"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Elite British schools are seeking growth and profits in India specifically due to the expanding wealthy demographic.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+            "hi": "कुलीन ब्रिटिश स्कूल विशेष रूप से बढ़ते हुए समृद्ध जनसांख्यिकी के कारण भारत में विकास और लाभ की तलाश कर रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-46"
+        },
+        {
+          "prompt": {
+            "en": "In the UK Budget, the chancellor announced spending aimed at what specific technological defence?",
+            "hi": "यूके के बजट में, चांसलर ने किस विशिष्ट तकनीकी सुरक्षा के उद्देश्य से खर्च की घोषणा की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "National Cyber Firewall",
+                "hi": "राष्ट्रीय साइबर फ़ायरवॉल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Quantum Encryption Grid",
+                "hi": "क्वांटम एन्क्रिप्शन ग्रिड"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Autonomous Drone Fleet",
+                "hi": "स्वायत्त ड्रोन बेड़ा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "AI Biosecurity Lab",
+                "hi": "एआई बायोसुरक्षा लैब"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Chancellor's budget included funding dedicated to a world-first AI Biosecurity Lab to strengthen national defenses.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+            "hi": "चांसलर के बजट में राष्ट्रीय सुरक्षा को मजबूत करने के लिए दुनिया की पहली एआई बायोसिक्योरिटी लैब को समर्पित फंडिंग शामिल थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-47"
+        },
+        {
+          "prompt": {
+            "en": "Following a deadly shooting near Paris, how many casualties were officially reported in the attacks?",
+            "hi": "पेरिस के पास एक घातक गोलीबारी के बाद, हमलों में आधिकारिक तौर पर कितने हताहत होने की सूचना मिली थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "One person killed and five wounded",
+                "hi": "एक व्यक्ति मारा गया और पांच घायल हुए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Two persons killed and three wounded",
+                "hi": "दो लोग मारे गए और तीन घायल हुए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "No deaths and ten wounded",
+                "hi": "कोई मौत नहीं और दस घायल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Four persons killed and eight wounded",
+                "hi": "चार लोग मारे गए और आठ घायल हुए"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "President Macron addressed the attack where one individual was killed and five others sustained injuries.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "hi": "राष्ट्रपति मैक्रोन ने उस हमले को संबोधित किया जिसमें एक व्यक्ति मारा गया और पांच अन्य घायल हो गए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-48"
+        },
+        {
+          "prompt": {
+            "en": "In which southern governorate of Jordan did gunmen carry out a shooting attack at a church funeral?",
+            "hi": "जॉर्डन के किस दक्षिणी गवर्नरट में बंदूकधारियों ने चर्च के अंतिम संस्कार में गोलीबारी की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Zarqa governorate",
+                "hi": "जरका गवर्नरट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Amman governorate",
+                "hi": "अम्मान गवर्नरट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Irbid governorate",
+                "hi": "इरबिद गवर्नरट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Karak governorate",
+                "hi": "करक गवर्नरट"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The attack occurred in the southern Karak governorate of Jordan, leaving multiple casualties and thirty-four injured.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+            "hi": "यह हमला जॉर्डन के दक्षिणी करक गवर्नरट में हुआ, जिससे कई लोग हताहत हुए और चौंतीस घायल हो गए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-49"
         }
       ],
       "quarantined": [],
@@ -1544,6 +2054,210 @@
           "warnings": [],
           "page": 1,
           "id": "2026-10-25-37"
+        },
+        {
+          "prompt": {
+            "en": "What primary economic and policy factors are testing Indian tech workers' American dream in the United States?",
+            "hi": "संयुक्त राज्य अमेरिका में कौन से प्राथमिक आर्थिक और नीतिगत कारक भारतीय तकनीकी श्रमिकों के अमेरिकी सपने की परीक्षा ले रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Immigration curbs and tech firms cutting foreign hiring",
+                "hi": "आप्रवासन प्रतिबंध और तकनीकी फर्मों द्वारा विदेशी नियुक्तियों में कटौती"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Massive inflation spikes and currency devaluation",
+                "hi": "भारी मुद्रास्फीति में उछाल और मुद्रा का अवमूल्यन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mandatory local language proficiency exams",
+                "hi": "अनिवार्य स्थानीय भाषा दक्षता परीक्षा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Complete closure of IT export processing zones",
+                "hi": "आईटी निर्यात प्रसंस्करण क्षेत्रों का पूर्ण बंद होना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "US residency is becoming difficult due to strict immigration limits and technology companies trimming down their foreign recruitment numbers.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+            "hi": "सख्त आप्रवासन सीमाओं और प्रौद्योगिकी कंपनियों द्वारा अपनी विदेशी भर्ती संख्या में कटौती के कारण अमेरिकी निवास कठिन होता जा रहा है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-50"
+        },
+        {
+          "prompt": {
+            "en": "Starting October 30, the White House is easing tariffs on machinery while placing new tariffs on which specific product category?",
+            "hi": "30 अक्टूबर से, व्हाइट हाउस किस विशिष्ट उत्पाद श्रेणी पर नए टैरिफ लगाते हुए मशीनरी पर टैरिफ कम कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Semiconductors",
+                "hi": "सेमीकंडक्टर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Pharmaceuticals",
+                "hi": "औषधि (Pharmaceuticals)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Automobile components",
+                "hi": "ऑटोमोबाइल घटक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Carpets",
+                "hi": "कालीन (Carpets)"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The tariff adjustment lightens burdens on goods like machinery while imposing fresh levies on items such as carpets.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+            "hi": "टैरिफ समायोजन मशीनरी जैसे सामानों पर बोझ कम करता है जबकि कालीन जैसी वस्तुओं पर नए शुल्क लगाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-51"
+        },
+        {
+          "prompt": {
+            "en": "What was Tata Motors' reported net profit for the second quarter (Q2), alongside updates on its strategic acquisitions?",
+            "hi": "अपनी रणनीतिक अधिग्रहणों पर अपडेट के साथ, टाटा मोटर्स का दूसरी तिमाही (Q2) के लिए शुद्ध लाभ कितना दर्ज किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹2,140 crore",
+                "hi": "₹2,140 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,257 crore",
+                "hi": "₹1,257 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹850 crore",
+                "hi": "₹850 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹3,100 crore",
+                "hi": "₹3,100 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Tata Motors posted a Q2 net profit of ₹1,257 crore while confirming that its Iveco acquisition remains on track.\nSource: https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+            "hi": "टाटा मोटर्स ने ₹1,257 करोड़ का Q2 शुद्ध लाभ दर्ज किया और पुष्टि की कि उसका इवेको (Iveco) अधिग्रहण ट्रैक पर है।\nस्रोत: https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-52"
+        },
+        {
+          "prompt": {
+            "en": "According to recent reports, what task are some Indian workers being paid to perform to support artificial intelligence development?",
+            "hi": "हालिया रिपोर्टों के अनुसार, कृत्रिम बुद्धिमत्ता विकास का समर्थन करने के लिए कुछ भारतीय श्रमिकों को कौन सा कार्य करने का भुगतान किया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Manually annotate satellite imagery for military drones",
+                "hi": "सैन्य ड्रोनों के लिए उपग्रह इमेजरी को मैन्युअल रूप से एनोटेट करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Translate massive legal code into binary datasets",
+                "hi": "विशाल कानूनी कोड को बाइनरी डेटासेट में अनुवाद करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Film themselves at work for AI training footage",
+                "hi": "एआई प्रशिक्षण फुटेज के लिए काम करते समय खुद को फिल्माना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Transcribe ancient manuscripts into neural networks",
+                "hi": "प्राचीन पांडुलिपियों को न्यूरल नेटवर्क में ट्रांसक्राइब करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Workers receive payment for recording video footage of their daily work activities to train AI models.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+            "hi": "श्रमिकों को एआई मॉडल को प्रशिक्षित करने के लिए अपनी दैनिक कार्य गतिविधियों का वीडियो फुटेज रिकॉर्ड करने के लिए भुगतान मिलता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-53"
         }
       ],
       "quarantined": [],
@@ -2013,6 +2727,465 @@
           "warnings": [],
           "page": 1,
           "id": "2026-10-25-39"
+        },
+        {
+          "prompt": {
+            "en": "According to analyses of foreign tech dependence following restrictions in Ukraine, which domestic capability gaps expose critical infrastructure to external pressure?",
+            "hi": "यूक्रेन में प्रतिबंधों के बाद विदेशी तकनीकी निर्भरता के विश्लेषण के अनुसार, कौन सी घरेलू क्षमता अंतराल महत्वपूर्ण बुनियादी ढांचे को बाहरी दबाव के संपर्क में लाती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Deficiencies in commercial shipping tonnage and port logistics",
+                "hi": "वाणिज्यिक नौवहन टन भार और बंदरगाह रसद में कमियां"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Shortages in domestic agricultural grain storage and transport fleets",
+                "hi": "घरेलू कृषि खाद्यान्न भंडारण और परिवहन बेड़े में कमी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gaps in satellite navigation, cloud computing, and military equipment capabilities",
+                "hi": "उपग्रह नेविगेशन, क्लाउड कंप्यूटिंग और सैन्य उपकरण क्षमताओं में अंतराल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Inadequacies in renewable energy grid integration and battery storage",
+                "hi": "नवीकरणीय ऊर्जा ग्रिड एकीकरण और बैटरी भंडारण में अपर्याप्तता"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The commentary highlights that reliance on foreign tech in vital sectors like satellite navigation, cloud computing, and military gear creates severe exposure.\nSource: https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+            "hi": "यह टिप्पणी इस बात पर प्रकाश डालती है कि उपग्रह नेविगेशन, क्लाउड कंप्यूटिंग और सैन्य उपकरणों जैसे महत्वपूर्ण क्षेत्रों में विदेशी तकनीक पर निर्भरता गंभीर जोखिम पैदा करती है।\nस्रोत: https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-54"
+        },
+        {
+          "prompt": {
+            "en": "What maximum wind gusts are forecast for Scotland during the second named storm hitting the region?",
+            "hi": "इस क्षेत्र में आने वाले दूसरे नाम वाले तूफान के दौरान स्कॉटलैंड के लिए अधिकतम हवा के झोंकों का कितना अनुमान लगाया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gusts capped at 50mph",
+                "hi": "50mph तक सीमित झोंके"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Gusts of up to 60mph",
+                "hi": "60mph तक के झोंके"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gusts exceeding 100mph",
+                "hi": "100mph से अधिक के झोंके"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Gusts of up to 80mph",
+                "hi": "80mph तक के झोंके"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Meteorological forecasts warned of severe conditions bringing wind gusts reaching up to 80mph during the second consecutive storm.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+            "hi": "मौसम संबंधी पूर्वानुमानों ने चेतावनी दी थी कि लगातार दूसरे तूफान के दौरान हवा के झोंके 80mph तक पहुंच सकते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-55"
+        },
+        {
+          "prompt": {
+            "en": "What specific infrastructure approach is the Welsh government consulting on to replace steel pylons for electricity lines?",
+            "hi": "बिजली लाइनों के लिए स्टील के खंभों को बदलने के लिए वेल्श सरकार किस विशिष्ट बुनियादी ढांचे के दृष्टिकोण पर परामर्श कर रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A wireless satellite power distribution network",
+                "hi": "एक वायरलेस उपग्रह विद्युत वितरण नेटवर्क"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An \"undergrounding-first approach\"",
+                "hi": "एक \"अंडरग्राउंडिंग-फर्स्ट दृष्टिकोण\""
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "High-altitude micro-grid transmission towers",
+                "hi": "उच्च ऊंचाई वाले माइक्रोग्रिड ट्रांसमिशन टावर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sub-oceanic high-voltage direct current cables",
+                "hi": "उप-महासागरीय उच्च-वोल्टेज प्रत्यक्ष वर्तमान केबल"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Wales launched a consultation proposing an undergrounding-first approach to phase out traditional steel electricity pylons.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+            "hi": "वेल्स ने पारंपरिक स्टील बिजली के खंभों को चरणबद्ध तरीके से हटाने के लिए भूमिगत-प्रथम दृष्टिकोण का प्रस्ताव करते हुए एक परामर्श शुरू किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-56"
+        },
+        {
+          "prompt": {
+            "en": "What environmental disaster was detected via satellite images spreading along the UAE coastline following a tanker strike?",
+            "hi": "टैंकर पर हमले के बाद यूएई की तटरेखा के साथ फैलने वाली किस पर्यावरणीय आपदा का पता उपग्रह छवियों के माध्यम से चला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A toxic chemical plume",
+                "hi": "एक जहरीला रासायनिक गुबार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An oil spill",
+                "hi": "एक तेल रिसाव (oil spill)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A massive plastic debris convergence",
+                "hi": "एक विशाल प्लास्टिक मलबा अभिसरण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A widespread red tide algal bloom",
+                "hi": "एक व्यापक लाल ज्वार शैवाल प्रस्फुटन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Following a tanker strike, satellite imagery captured a major oil spill spreading across miles of coastline and endangering marine life.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+            "hi": "टैंकर पर हमले के बाद, उपग्रह इमेजरी ने तटरेखा के मीलों तक फैलने वाले और समुद्री जीवन को खतरे में डालने वाले एक बड़े तेल रिसाव को कैद किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-57"
+        },
+        {
+          "prompt": {
+            "en": "According to former Ukrainian prisoners, what treatment did a recently freed US citizen endure while detained in a Russian jail?",
+            "hi": "पूर्व यूक्रेनी कैदियों के अनुसार, रूसी जेल में बंद एक हाल ही में मुक्त हुए अमेरिकी नागरिक ने किस प्रकार के व्यवहार को सहन किया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Beatings and sexual humiliation by guards",
+                "hi": "रक्षकों द्वारा मारपीट और यौन अपमान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Solitary confinement without any human contact",
+                "hi": "बिना किसी मानवीय संपर्क के एकांत कारावास"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Starvation and denial of basic medical care",
+                "hi": "भुखमरी और बुनियादी चिकित्सा देखभाल से इनकार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Forced labor in hazardous uranium mines",
+                "hi": "खतरनाक यूरेनियम खदानों में जबरन श्रम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Fellow Ukrainian detainees witnessed instances of guards inflicting physical beatings and sexual humiliation on the American prisoner.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+            "hi": "साथी यूक्रेनी कैदियों ने गवाही दी कि रक्षकों ने अमेरिकी कैदी पर शारीरिक मारपीट और यौन अपमान किया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-58"
+        },
+        {
+          "prompt": {
+            "en": "In which West Bank city did Israeli forces begin demolishing Palestinian buildings following an attack at a checkpoint?",
+            "hi": "एक चेकपॉइंट पर हमले के बाद इजरायली बलों ने वेस्ट बैंक के किस शहर में फिलिस्तीनी इमारतों को गिराना शुरू किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Hebron",
+                "hi": "हेब्रोन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ramallah",
+                "hi": "रामallah"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Nablus",
+                "hi": "नाब्लस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jenin",
+                "hi": "जेنين"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Following the killing of two Israeli soldiers at a checkpoint outside Hebron, forces initiated building demolitions in the area.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+            "hi": "हेब्रोन के बाहर एक चेकपॉइंट पर दो इजरायली सैनिकों की हत्या के बाद, बलों ने इस क्षेत्र में इमारतों को ध्वस्त करना शुरू कर दिया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-59"
+        },
+        {
+          "prompt": {
+            "en": "According to the White House, a truce was brokered for which Ukrainian city where residents resorted to eating garden weeds?",
+            "hi": "व्हाइट हाउस के अनुसार, किस यूक्रेनी शहर के लिए संघर्ष विराम कराया गया जहाँ के निवासी जीवित रहने के लिए बगीचे के खरपतवार खाने को मजबूर थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Bakhmut",
+                "hi": "बखमुत"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Oleshky",
+                "hi": "ओलेशकी (Oleshky)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mariupol",
+                "hi": "मारियुपोल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kherson",
+                "hi": "खेरसॉन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "A truce was successfully arranged for Russian-occupied Oleshky to alleviate severe conditions where residents ate garden weeds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+            "hi": "रूस के कब्जे वाले ओलेशकी के लिए एक संघर्ष विराम सफलतापूर्वक व्यवस्थित किया गया ताकि उन गंभीर परिस्थितियों को कम किया जा सके जहाँ निवासी बगीचे के खरपतवार खाते थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-60"
+        },
+        {
+          "prompt": {
+            "en": "What was the core focus of the artificial intelligence spending unveiled by the UK chancellor in the budget?",
+            "hi": "बजट में यूके के चांसलर द्वारा अनावरण किए गए कृत्रिम बुद्धिमत्ता खर्च का मुख्य फोकस क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Automating national healthcare administrative records",
+                "hi": "राष्ट्रीय स्वास्थ्य सेवा प्रशासनिक रिकॉर्ड को स्वचालित करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Shoring up the UK's defences",
+                "hi": "यूके की सुरक्षा को मजबूत करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Developing commercial autonomous vehicle highways",
+                "hi": "वाणिज्यिक स्वायत्त वाहन राजमार्ग विकसित करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Expanding public school virtual reality classrooms",
+                "hi": "पब्लिक स्कूल वर्चुअल रियलिटी कक्षाओं का विस्तार करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The allocated AI funding announced by the chancellor was specifically designed to shore up the United Kingdom's defensive capabilities.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+            "hi": "चांसलर द्वारा घोषित आवंटित एआई फंडिंग विशेष रूप से यूनाइटेड किंगडम की रक्षात्मक क्षमताओं को मजबूत करने के लिए तैयार की गई थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-61"
+        },
+        {
+          "prompt": {
+            "en": "The Met Office amber weather warning for counties Antrim and Londonderry covers which time duration?",
+            "hi": "काउंटी एंट्रिम और लंदनडेरी के लिए मेट ऑफिस की एम्बर मौसम चेतावनी किस समय अवधि को कवर करती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sunday 00:00 GMT to Monday 18:00 GMT",
+                "hi": "रविवार 00:00 GMT से सोमवार 18:00 GMT तक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Friday 12:00 BST to Saturday 12:00 GMT",
+                "hi": "शुक्रवार 12:00 BST से शनिवार 12:00 GMT तक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Saturday 06:00 BST to Sunday 00:00 GMT",
+                "hi": "शनिवार 06:00 BST से रविवार 00:00 GMT तक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Saturday 21:00 BST to Sunday 21:00 GMT",
+                "hi": "शनिवार 21:00 BST से रविवार 21:00 GMT तक"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Met Office amber alert for Antrim and Londonderry remains in effect starting Saturday evening through Sunday evening.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+            "hi": "एंट्रिम और लंदनडेरी के लिए मेट ऑफिस का एम्बर अलर्ट शनिवार शाम से रविवार शाम तक प्रभावी रहता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-25-62"
         }
       ],
       "quarantined": [],
@@ -2343,6 +3516,55 @@
       "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T20:59:39+00:00",
       "text": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it."
+    },
+    {
+      "id": "1",
+      "title": "Election Commission sought explanation from officials as goof-up in voter list went viral",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece",
+      "published": "2026-10-24T05:26:51+05:30",
+      "text": "“There is a possibility of mistakes when doing any work for the first time. Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange. The strangeness of these names is due to such a mistake,” says statement released by Chief Electoral Officer, Uttar Pradesh"
+    },
+    {
+      "id": "2",
+      "title": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
+      "url": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
+      "published": "2026-10-24T04:19:21+05:30",
+      "text": "Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners"
+    },
+    {
+      "id": "3",
+      "title": "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
+      "url": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece",
+      "published": "2026-10-24T04:08:44+05:30",
+      "text": "Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma"
+    },
+    {
+      "id": "4",
+      "title": "Kolkata stampede: Death in the time of Durga Puja",
+      "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece",
+      "published": "2026-10-24T03:26:03+05:30",
+      "text": "On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives. The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining. Shrabana Chatterjee and Shiv Sahay Singh report on the lapses that led to the tragedy and the questions it has raised about accountability in West Bengal, where the new government’s first Durga Puja celebrations have been marred by controversy"
+    },
+    {
+      "id": "18",
+      "title": "Britain's posh schools are heading to India for students and profits",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:02:25+00:00",
+      "text": "Half a dozen elite British schools are chasing growth in India amid a boom in its wealthy population."
+    },
+    {
+      "id": "24",
+      "title": "How does the UK state pension compare with other countries?",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T00:09:12+00:00",
+      "text": "Do British pensioners have it better or worse than those in other countries?"
+    },
+    {
+      "id": "25",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T00:05:45+00:00",
+      "text": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
     }
   ]
 }
