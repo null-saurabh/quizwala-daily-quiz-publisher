@@ -378,6 +378,36 @@ class DailyGenerationTests(unittest.TestCase):
             published = json.loads((root / 'site/latest.json').read_text())
             self.assertEqual(published['date'], str(EDITION_DATE))
 
+    def test_corrupt_state_marker_preserves_attempt_budget_from_claims(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            self.assertEqual(generate.reserve_attempt(EDITION_DATE, root), 1)
+            self.assertEqual(generate.claim_generation(EDITION_DATE, root), 1)
+            self.assertEqual(generate.reserve_attempt(EDITION_DATE, root), 2)
+            self.assertEqual(generate.claim_generation(EDITION_DATE, root), 2)
+            marker = root / 'state' / f'{EDITION_DATE}.json'
+            marker.write_text('{corrupt-state-json')
+            self.assertEqual(generate.target_for_run(dt.datetime(2026, 10, 22, 12, tzinfo=dt.timezone.utc), root), EDITION_DATE)
+            self.assertEqual(generate.reserve_attempt(EDITION_DATE, root), 3)
+
+    def test_validate_rejects_duplicate_options_tautological_explanation_and_adds_hindi_source(self):
+        good = question(1)
+        good['explanation'] = {'en': 'This programme directly funds public research across India.', 'hi': 'यह कार्यक्रम भारत में सार्वजनिक अनुसंधान का समर्थन करता है।'}
+        dup_opt = question(2)
+        dup_opt['options'][1]['text']['en'] = dup_opt['options'][0]['text']['en']
+        tautological = question(3)
+        tautological['explanation'] = {'en': tautological['options'][0]['text']['en']}
+        decks = generate.validate(
+            {'sets': [{'title': 'Policy', 'questions': [dup_opt, tautological, good]}]},
+            EVIDENCE,
+            EDITION_DATE,
+            partial=True,
+        )
+        self.assertEqual(len(decks), 1)
+        self.assertEqual(len(decks[0]['questions']), 1)
+        self.assertIn('स्रोत: https://example.org/news', decks[0]['questions'][0]['explanation']['hi'])
+
 
 if __name__ == '__main__':
     unittest.main()
+
