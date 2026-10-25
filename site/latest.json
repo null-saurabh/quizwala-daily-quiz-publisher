@@ -1,574 +1,574 @@
 {
   "schema_version": 2,
-  "date": "2026-10-26",
-  "generated_at": "2026-10-24T18:55:53.824371+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-25T19:10:58.697392+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
     {
       "title": "Set 1: National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-10-26.json",
+      "source_filename": "daily-2026-10-27.json",
       "questions": [
         {
           "prompt": {
-            "en": "Who urged vote-counting supervisors and assistants to ensure transparency and accountability during the Karnataka Legislative Council West Graduates’ Constituency election?",
-            "hi": "कर्नाटक विधान परिषद पश्चिम स्नातक निर्वाचन क्षेत्र के चुनाव के दौरान किसने मतगणना पर्यवेक्षकों और सहायकों से पारदर्शिता और जवाबदेही सुनिश्चित करने का आग्रह किया?"
+            "en": "What triggered the Uttar Pradesh Chief Electoral Officer's order for the reverification of all forms submitted through computer operators?",
+            "hi": "कंप्यूटर ऑपरेटरों के माध्यम से जमा किए गए सभी प्रपत्रों के पुन: सत्यापन के लिए उत्तर प्रदेश के मुख्य निर्वाचन अधिकारी के आदेश की क्या वजह थी?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "P.S. Leela Alex",
-                "hi": "पी.एस. लीला एलेक्स"
+                "en": "A massive hardware failure across multiple district election offices",
+                "hi": "कई जिला चुनाव कार्यालयों में बड़े पैमाने पर हार्डवेयर विफलता"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "K.M. Janaki",
-                "hi": "के.एम. जानकी"
+                "en": "Controversy over errors found in electoral rolls published after the Special Intensive Revision",
+                "hi": "विशेष गहन पुनरीक्षण के बाद प्रकाशित मतदाता सूची में मिली त्रुटियों को लेकर विवाद"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Ashoke Sen",
-                "hi": "अशोक सेन"
+                "en": "Complaints regarding the non-payment of wages to data entry operators",
+                "hi": "डाटा एंट्री ऑपरेटरों को वेतन न मिलने की शिकायतें"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Narayan",
-                "hi": "नारायण"
+                "en": "Direct instructions issued by the Election Commission of India regarding software upgrades",
+                "hi": "भारत निर्वाचन आयोग द्वारा सॉफ्टवेयर अपग्रेडेशन के संबंध में सीधे निर्देश जारी"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "K.M. Janaki, the Returning Officer for the Karnataka Legislative Council West Graduates’ Constituency election, urged vote-counting supervisors and assistants to ensure transparency and accountability at every stage of the counting process.\nSource: https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece",
-            "hi": "के.एम. कर्नाटक विधान परिषद पश्चिम स्नातक निर्वाचन क्षेत्र चुनाव के रिटर्निंग अधिकारी जानकी ने मतगणना पर्यवेक्षकों और सहायकों से मतगणना प्रक्रिया के हर चरण में पारदर्शिता और जवाबदेही सुनिश्चित करने का आग्रह किया।\nस्रोत: https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece"
+            "en": "The action by the Uttar Pradesh CEO was prompted by controversy surrounding errors discovered in electoral rolls following the Special Intensive Revision.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
+            "hi": "उत्तर प्रदेश सीईओ की यह कार्रवाई विशेष गहन पुनरीक्षण के बाद मतदाता सूची में पाई गई त्रुटियों के विवाद से प्रेरित थी।\nस्रोत: https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-1"
+          "id": "2026-10-27-1"
         },
         {
           "prompt": {
-            "en": "Who filed the complaint against Anthropic PB regarding its Indian subsidiary?",
-            "hi": "एंथ्रोपिक पीबी के खिलाफ उसकी भारतीय सहायक कंपनी के संबंध में शिकायत किसने दर्ज की?"
+            "en": "How much financial allocation was approved by the Jammu and Kashmir administration's Roads and Buildings department for the improvement project near Shankaracharya road?",
+            "hi": "शंकराचार्य रोड के पास सुधार परियोजना के लिए जम्मू और कश्मीर प्रशासन के सड़क और भवन विभाग द्वारा कितना वित्तीय आवंटन स्वीकृत किया गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The founder of a Belagavi-based company",
-                "hi": "बेलगावी-आधारित कंपनी के संस्थापक"
+                "en": "₹22.15 lakhs",
+                "hi": "₹22.15 लाख"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "An official from the Ministry of Corporate Affairs",
-                "hi": "कॉर्पोरेट मामलों के मंत्रालय के एक अधिकारी"
+                "en": "₹44.37 lakhs",
+                "hi": "₹44.37 लाख"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A state election commissioner from Bengaluru",
-                "hi": "बेंगलुरु से एक राज्य चुनाव आयुक्त"
+                "en": "₹75.50 lakhs",
+                "hi": "₹75.50 लाख"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "A returning officer for the legislative council",
-                "hi": "विधान परिषद के लिए एक रिटर्निंग अधिकारी"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The complaint against Anthropic PB was filed by the founder of a Belagavi-based company who stated that contradicting earlier stands in court violates corporate ethics.\nSource: https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece",
-            "hi": "एंथ्रोपिक पीबी के खिलाफ शिकायत बेलगावी-आधारित कंपनी के संस्थापक द्वारा दायर की गई थी, जिन्होंने कहा था कि अदालत में पहले के रुख का खंडन करना कॉर्पोरेट नैतिकता का उल्लंघन है।\nस्रोत: https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-2"
-        },
-        {
-          "prompt": {
-            "en": "How did students mark the 90th anniversary of the Temple Entry Proclamation?",
-            "hi": "छात्रों ने मंदिर प्रवेश उद्घोषणा की 90वीं वर्षगांठ कैसे मनाई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "By staging a protest march outside legislative buildings",
-                "hi": "विधान भवनों के बाहर विरोध मार्च निकालकर"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "By distributing copies of the proclamation in houses and public spaces",
-                "hi": "उद्घोषणा की प्रतियां घरों और सार्वजनिक स्थानों पर वितरित करके"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "By organizing a national seminar on temple reforms",
-                "hi": "मंदिर सुधार पर राष्ट्रीय सेमिनार का आयोजन कर"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "By performing traditional cultural dances in temples",
-                "hi": "मंदिरों में पारंपरिक सांस्कृतिक नृत्य करके"
+                "en": "₹98.20 lakhs",
+                "hi": "₹98.20 लाख"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "Students marked the 90th anniversary of the Temple Entry Proclamation by distributing copies of the proclamation in houses and public spaces on Saturday.\nSource: https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece",
-            "hi": "छात्रों ने शनिवार को घरों और सार्वजनिक स्थानों पर उद्घोषणा की प्रतियां वितरित करके मंदिर प्रवेश उद्घोषणा की 90वीं वर्षगांठ मनाई।\nस्रोत: https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece"
+            "en": "The J&K administration's Roads and Buildings department approved ₹44.37 lakhs for the improvement of Astan Aliya Syed Usman Sahib on the way to Shankaracharya road.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
+            "hi": "जम्मू-कश्मीर प्रशासन के सड़क और भवन विभाग ने शंकराचार्य रोड के रास्ते में आस्तान आलिया सैयद उस्मान साहिब के सुधार के लिए ₹44.37 लाख मंजूर किए।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-3"
+          "id": "2026-10-27-2"
         },
         {
           "prompt": {
-            "en": "Why did the Tiruvannamalai Corporation set up 10 temporary shelters for families in Arunachala Hills?",
-            "hi": "तिरुवन्नामलाई निगम ने अरुणाचल हिल्स में परिवारों के लिए 10 अस्थायी आश्रय स्थल क्यों स्थापित किए?"
+            "en": "According to the ISRO chief, what critical infrastructure components will be featured at the upcoming Kulasekarapattinam spaceport facility?",
+            "hi": "इसरो प्रमुख के अनुसार, आगामी कुलसेकरपट्टिनम स्पेसपोर्ट सुविधा में कौन से महत्वपूर्ण बुनियादी ढांचे के घटकों को प्रदर्शित किया जाएगा?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "A massive industrial fire broke out near the hill slopes",
-                "hi": "पहाड़ी ढलानों के पास बड़े पैमाने पर औद्योगिक आग लग गई"
+                "en": "Integration buildings, launch pads, rail-track systems, telemetry, tracking, and command systems",
+                "hi": "एकीकरण भवन, लॉन्च पैड, रेल-ट्रैक सिस्टम, टेलीमेट्री, ट्रैकिंग और कमांड सिस्टम"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "An unexpected earthquake damaged residential infrastructure",
-                "hi": "एक अप्रत्याशित भूकंप ने आवासीय बुनियादी ढांचे को नुकसान पहुंचाया"
+                "en": "Deep-sea recovery vessels, cryogenic propellant factories, and astronaut training centrifuge units",
+                "hi": "गहरे समुद्र में पुनर्प्राप्ति पोत, क्रायोजेनिक प्रणोदक कारखाने, और अंतरिक्ष यात्री प्रशिक्षण अपकेंद्रित्र इकाइयाँ"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Severe drought conditions forced villagers to relocate",
-                "hi": "भीषण सूखे की स्थिति ने ग्रामीणों को स्थानांतरित होने के लिए मजबूर कर दिया"
+                "en": "Nuclear-powered generators, heavy lift gantry cranes, and subterranean storage silos",
+                "hi": "परमाणु-संचालित जनरेटर, भारी लिफ्ट गैन्ट्री क्रेन, और भूमिगत भंडारण साइलो"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Sudden showers for the past few days have inundated key stretches in the town",
-                "hi": "पिछले कुछ दिनों से हो रही अचानक बारिश से शहर के प्रमुख हिस्सों में पानी भर गया है"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The Tiruvannamalai Corporation set up 10 temporary shelters because sudden showers for the past few days had inundated key stretches in the town.\nSource: https://www.thehindu.com/news/national/tamil-nadu/tiruvannamalai-corporation-sets-up-10-temporary-shelters-for-families-in-arunachala-hills/article71620110.ece",
-            "hi": "तिरुवन्नामलाई निगम ने 10 अस्थायी आश्रय स्थल स्थापित किए क्योंकि पिछले कुछ दिनों से अचानक हुई बारिश के कारण शहर के प्रमुख हिस्सों में पानी भर गया था।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/tiruvannamalai-corporation-sets-up-10-temporary-shelters-for-families-in-arunachala-hills/article71620110.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/tiruvannamalai-corporation-sets-up-10-temporary-shelters-for-families-in-arunachala-hills/article71620110.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-4"
-        },
-        {
-          "prompt": {
-            "en": "With which entity did P.B. Siddhartha College sign an MoU to enhance students' employability?",
-            "hi": "किस इकाई के साथ पी.बी. सिद्धार्थ कॉलेज ने छात्रों की रोजगार क्षमता बढ़ाने के लिए एक समझौता ज्ञापन पर हस्ताक्षर किए?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Tech In",
-                "hi": "टेक इन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "ISRO",
-                "hi": "इसरो"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "AU Small Finance Bank",
-                "hi": "एयू स्मॉल फाइनेंस बैंक"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Kotak Mahindra",
-                "hi": "कोटक महिंद्रा"
+                "en": "Open-air testing stands, solar power farms, and liquid oxygen distillation plants",
+                "hi": "खुली हवा में परीक्षण स्टैंड, सौर ऊर्जा फार्म और तरल ऑक्सीजन आसवन संयंत्र"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "P.B. Siddhartha College signed an MoU with Tech In to enhance students' employability.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/pb-siddhartha-college-signs-mou-with-tech-in-to-enhance-students-employability/article71620721.ece",
-            "hi": "पी.बी. सिद्धार्थ कॉलेज ने छात्रों की रोजगार क्षमता बढ़ाने के लिए टेक इन के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/pb-siddhartha-college-signs-mou-with-tech-in-to-enhance-students-employability/article71620721.ece"
+            "en": "The ISRO chief outlined that the Kulasekarapattinam spaceport will house integration buildings, launch pads, rail-track systems, and telemetry, tracking, and command systems.\nSource: https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+            "hi": "इसरो प्रमुख ने बताया कि कुलसेकरपट्टिनम स्पेसपोर्ट में एकीकरण भवन, लॉन्च पैड, रेल-ट्रैक सिस्टम और टेलीमेट्री, ट्रैकिंग और कमांड सिस्टम होंगे।\nस्रोत: https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/pb-siddhartha-college-signs-mou-with-tech-in-to-enhance-students-employability/article71620721.ece",
+          "source_label": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-5"
+          "id": "2026-10-27-3"
         },
         {
           "prompt": {
-            "en": "Following an accident at a cracker unit in Vellore, who handed over the ex-gratia from the Chief Minister's Public Relief Fund?",
-            "hi": "वेल्लोर में एक पटाखा इकाई में दुर्घटना के बाद, किसने मुख्यमंत्री जन राहत कोष से अनुग्रह राशि सौंपी?"
+            "en": "The recent electoral roll controversy in Uttar Pradesh emerged specifically after the completion of which administrative process?",
+            "hi": "उत्तर प्रदेश में हालिया मतदाता सूची विवाद विशेष रूप से किस प्रशासनिक प्रक्रिया के पूरा होने के बाद उभरा?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Returning Officer K.M. Janaki",
-                "hi": "रिटर्निंग ऑफिसर के.एम. जानकी"
+                "en": "National Population Register Update",
+                "hi": "राष्ट्रीय जनसंख्या रजिस्टर अद्यतन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Collector P.S. Leela Alex",
-                "hi": "कलेक्टर पी.एस. लीला एलेक्स"
+                "en": "Special Intensive Revision",
+                "hi": "विशेष गहन पुनरीक्षण"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "ISRO Chairperson Narayanan",
-                "hi": "इसरो अध्यक्ष नारायणन"
+                "en": "Aadhaar Seeding Campaign",
+                "hi": "आधार सीडिंग अभियान"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Ashoke Sen",
-                "hi": "अशोक सेन"
+                "en": "Delimitation Commission Exercise",
+                "hi": "परिसीमन आयोग की कवायद"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "Collector P.S. Leela Alex handed over ₹4 lakh ex-gratia from the Chief Minister's Public Relief Fund to the family members of the deceased workers following the cracker unit incident in Vellore.\nSource: https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece",
-            "hi": "कलेक्टर पी.एस. लीला एलेक्स ने वेल्लोर में पटाखा इकाई की घटना के बाद मृत श्रमिकों के परिवार के सदस्यों को मुख्यमंत्री जन राहत कोष से ₹4 लाख की अनुग्रह राशि सौंपी।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece"
+            "en": "The controversy involving errors in electoral rolls in Uttar Pradesh followed the publication of rolls after the Special Intensive Revision.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
+            "hi": "उत्तर प्रदेश में मतदाता सूची में त्रुटियों को लेकर विवाद विशेष गहन पुनरीक्षण के बाद नामावली के प्रकाशन के बाद शुरू हुआ।\nस्रोत: https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-6"
+          "id": "2026-10-27-4"
         },
         {
           "prompt": {
-            "en": "What clarification did ISRO chairperson Narayanan provide regarding private companies?",
-            "hi": "इसरो अध्यक्ष नारायणन ने निजी कंपनियों को लेकर क्या स्पष्टीकरण दिया?"
+            "en": "Which specific Middle Eastern destinations were mentioned as part of the Air India Express services transitioning to NMIA?",
+            "hi": "एनएमआईए में परिवर्तित होने वाली एयर इंडिया एक्सप्रेस सेवाओं के हिस्से के रूप में किन विशिष्ट मध्य पूर्वी गंतव्यों का उल्लेख किया गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Contributions from private companies should not be misinterpreted as privatisation of the space agency",
-                "hi": "निजी कंपनियों के योगदान को अंतरिक्ष एजेंसी के निजीकरण के रूप में गलत नहीं समझा जाना चाहिए"
+                "en": "Dubai, Abu Dhabi, Kuwait, Bahrain, Cairo, and Amman",
+                "hi": "दुबई, अबू धाबी, कुवैत, बहरीन, काहिरा और अम्मान"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "ISRO will be fully privatised by the end of the year",
-                "hi": "साल के अंत तक इसरो का पूरी तरह निजीकरण हो जाएगा"
+                "en": "Jeddah, Riyadh, Dammam, Doha, Muscat, and Sharjah",
+                "hi": "जेद्दा, रियाद, दम्मम, दोहा, मस्कट और शारजाह"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Private companies will take over all satellite manufacturing operations",
-                "hi": "निजी कंपनियाँ सभी उपग्रह निर्माण कार्यों को अपने हाथ में ले लेंगी"
+                "en": "Tehran, Baghdad, Beirut, Sanaa, and Damascus",
+                "hi": "तेहरान, बगदाद, बेरूत, साना और दमिश्क"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "ISRO is partnering with foreign private entities for rocket launches",
-                "hi": "रॉकेट लॉन्च के लिए इसरो विदेशी निजी संस्थाओं के साथ साझेदारी कर रहा है"
+                "en": "Istanbul, Ankara, Tel Aviv, Amman, and Cairo",
+                "hi": "इस्तांबुल, अंकारा, तेल अवीव, अम्मान और काहिरा"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "ISRO chairperson Narayanan clarified that contributions from private companies should not be misinterpreted as privatisation of the space agency, affirming that ISRO will not be privatised.\nSource: https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece",
-            "hi": "इसरो के अध्यक्ष नारायणन ने स्पष्ट किया कि निजी कंपनियों के योगदान को अंतरिक्ष एजेंसी के निजीकरण के रूप में गलत नहीं समझा जाना चाहिए, उन्होंने पुष्टि की कि इसरो का निजीकरण नहीं किया जाएगा।\nस्रोत: https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece"
+            "en": "The Air India group statement explicitly lists Jeddah, Riyadh, Dammam, Doha, Muscat, and Sharjah for the progressive transition to NMIA.\nSource: https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
+            "hi": "एयर इंडिया समूह के बयान में एनएमआईए में प्रगतिशील परिवर्तन के लिए जेद्दा, रियाद, दम्मम, दोहा, मस्कट और शारजाह को स्पष्ट रूप से सूचीबद्ध किया गया है।\nस्रोत: https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece",
+          "source_label": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-7"
+          "id": "2026-10-27-5"
         },
         {
           "prompt": {
-            "en": "An attack on actor Tiger Shroff has revived memories of which decade when gangsters wielded influence over Bollywood?",
-            "hi": "अभिनेता टाइगर श्रॉफ पर हमले ने किस दशक की यादें ताजा कर दी हैं जब गैंगस्टरों का बॉलीवुड पर प्रभाव था?"
+            "en": "On what date did the Jammu and Kashmir administration's Roads and Buildings department approve the order for the improvement project near Shankaracharya road?",
+            "hi": "जम्मू और कश्मीर प्रशासन के सड़क और भवन विभाग ने किस तारीख को शंकराचार्य रोड के पास सुधार परियोजना के आदेश को मंजूरी दी?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The 1990s",
-                "hi": "1990 का दशक"
+                "en": "August 15",
+                "hi": "15 अगस्त"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The 1980s",
-                "hi": "1980 का दशक"
+                "en": "October 1",
+                "hi": "1 अक्टूबर"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The 1970s",
-                "hi": "1970 का दशक"
+                "en": "September 12",
+                "hi": "12 सितम्बर"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The 2000s",
-                "hi": "2000 का दशक"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The attack on actor Tiger Shroff has revived memories of the 1990s, a period when gangsters wielded significant influence over the film industry.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
-            "hi": "अभिनेता टाइगर श्रॉफ पर हुए हमले ने 1990 के दशक की यादें ताजा कर दी हैं, वह दौर जब गैंगस्टरों का फिल्म उद्योग पर महत्वपूर्ण प्रभाव था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-8"
-        },
-        {
-          "prompt": {
-            "en": "What was the name of the popular Instagram account run by V Harish, who was found dead?",
-            "hi": "वी हरीश, जो मृत पाए गए थे, द्वारा संचालित लोकप्रिय इंस्टाग्राम अकाउंट का नाम क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Finance with Harish",
-                "hi": "हरीश के साथ वित्त"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Indian Wealth Creator",
-                "hi": "भारतीय धन निर्माता"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Money Matters India",
-                "hi": "मनी मैटर्स इंडिया"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Stox and Shares",
-                "hi": "स्टॉक्स और शेयर"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "V Harish ran the hugely popular Instagram account named \"Finance with Harish\" before he was found dead.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-            "hi": "मृत पाए जाने से पहले वी हरीश \"फाइनेंस विद हरीश\" नाम से बेहद लोकप्रिय इंस्टाग्राम अकाउंट चलाते थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-9"
-        },
-        {
-          "prompt": {
-            "en": "What factor is making US residency a distant dream for many Indian tech workers according to recent reports?",
-            "hi": "हाल की रिपोर्टों के अनुसार कौन सा कारक कई भारतीय तकनीकी कर्मचारियों के लिए अमेरिकी निवास को एक दूर का सपना बना रहा है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The complete shutdown of the US embassy in New Delhi",
-                "hi": "नई दिल्ली में अमेरिकी दूतावास पूरी तरह बंद"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A ban on computer science graduates entering North America",
-                "hi": "कंप्यूटर विज्ञान स्नातकों के उत्तरी अमेरिका में प्रवेश पर प्रतिबंध"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Immigration curbs and tech firms cutting foreign hiring",
-                "hi": "आप्रवासन पर प्रतिबंध और तकनीकी कंपनियां विदेशी नियुक्तियों में कटौती कर रही हैं"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The abolition of H-1B visa sponsorships globally",
-                "hi": "वैश्विक स्तर पर एच-1बी वीज़ा प्रायोजन की समाप्ति"
+                "en": "November 20",
+                "hi": "20 नवंबर"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Immigration curbs and tech firms cutting foreign hiring are testing Indian tech workers' American dream, making US residency a distant dream for many.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-            "hi": "आव्रजन पर अंकुश और तकनीकी कंपनियां विदेशी नियुक्तियों में कटौती कर रही हैं, जो भारतीय तकनीकी कर्मचारियों के अमेरिकी सपने का परीक्षण कर रही हैं, जिससे कई लोगों के लिए अमेरिकी निवास एक दूर का सपना बन गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
+            "en": "The J&K administration's Roads and Buildings department issued the approval order on September 12 this year.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
+            "hi": "जम्मू-कश्मीर प्रशासन के सड़क और भवन विभाग ने इस साल 12 सितंबर को अनुमोदन आदेश जारी किया।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-10"
+          "id": "2026-10-27-6"
         },
         {
           "prompt": {
-            "en": "Why are elite British schools heading to India according to recent reports?",
-            "hi": "हालिया रिपोर्टों के अनुसार कुलीन ब्रिटिश स्कूल भारत की ओर क्यों जा रहे हैं?"
+            "en": "By what year does ISRO aim to have four operational launch pads, as highlighted in recent updates?",
+            "hi": "जैसा कि हालिया अपडेट में बताया गया है, इसरो ने किस वर्ष तक चार परिचालन लॉन्च पैड बनाने का लक्ष्य रखा है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "To comply with new UK educational mandates requiring overseas campuses",
-                "hi": "विदेशी परिसरों की आवश्यकता वाले नए यूके शैक्षिक अधिदेशों का अनुपालन करना"
+                "en": "2027",
+                "hi": "2027"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Chasing growth in India amid a boom in its wealthy population",
-                "hi": "भारत की धनी आबादी में उछाल के बीच विकास का लक्ष्य"
+                "en": "2028",
+                "hi": "2028"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "To offer free education as part of bilateral cultural agreements",
-                "hi": "द्विपक्षीय सांस्कृतिक समझौतों के हिस्से के रूप में मुफ्त शिक्षा की पेशकश करना"
+                "en": "2030",
+                "hi": "2030"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Because British schools are being shut down due to lack of local funding",
-                "hi": "क्योंकि स्थानीय फंडिंग की कमी के कारण ब्रिटिश स्कूल बंद हो रहे हैं"
+                "en": "2029",
+                "hi": "2029"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "ISRO's roadmap targets having four launch pads by the year 2029 alongside developing the Kulasekarapattinam spaceport facility.\nSource: https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+            "hi": "इसरो के रोडमैप का लक्ष्य कुलसेकरपट्टिनम स्पेसपोर्ट सुविधा विकसित करने के साथ-साथ वर्ष 2029 तक चार लॉन्च पैड बनाना है।\nस्रोत: https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-7"
+        },
+        {
+          "prompt": {
+            "en": "Who ordered the reverification of all forms submitted through computer operators in Uttar Pradesh following electoral roll errors?",
+            "hi": "मतदाता सूची में त्रुटियों के बाद उत्तर प्रदेश में कंप्यूटर ऑपरेटरों के माध्यम से जमा किए गए सभी फॉर्मों के पुन: सत्यापन का आदेश किसने दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "State Election Commissioner",
+                "hi": "राज्य चुनाव आयुक्त"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chief Electoral Officer (CEO)",
+                "hi": "मुख्य निर्वाचन अधिकारी (सीईओ)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Director General of Police",
+                "hi": "पुलिस महानिदेशक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Principal Secretary of Home Affairs",
+                "hi": "गृह मामलों के प्रमुख सचिव"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "Half a dozen elite British schools are heading to India to chase growth amid a boom in the country's wealthy population.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
-            "hi": "देश की धनी आबादी में उछाल के बीच विकास का पीछा करने के लिए आधा दर्जन विशिष्ट ब्रिटिश स्कूल भारत का रुख कर रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss"
+            "en": "The Uttar Pradesh CEO issued the directive for the reverification of all forms submitted through computer operators.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
+            "hi": "उत्तर प्रदेश सीईओ ने कंप्यूटर ऑपरेटरों के माध्यम से जमा किए गए सभी फॉर्मों के पुन: सत्यापन के निर्देश जारी किए।\nस्रोत: https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-11"
+          "id": "2026-10-27-8"
+        },
+        {
+          "prompt": {
+            "en": "Which specific landmark route was flagged by Kashmiri Pandits regarding a graveyard that 'cropped up suddenly'?",
+            "hi": "कश्मीरी पंडितों द्वारा 'अचानक सामने आए' कब्रिस्तान के संबंध में किस विशिष्ट ऐतिहासिक मार्ग को चिह्नित किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Along the Mughal Road corridor",
+                "hi": "मुगल रोड कॉरिडोर के साथ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Surrounding the Hazratbal Shrine",
+                "hi": "हज़रतबल तीर्थ के आसपास"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "En route to Shankaracharya Hill",
+                "hi": "शंकराचार्य हिल के रास्ते में"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Near the Amarnath Cave base camp",
+                "hi": "अमरनाथ गुफा आधार शिविर के पास"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Kashmiri Pandits flagged a graveyard that cropped up suddenly en route to Shankaracharya Hill.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
+            "hi": "कश्मीरी पंडितों ने शंकराचार्य हिल के रास्ते में अचानक सामने आए एक कब्रिस्तान को हरी झंडी दिखा दी।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-9"
+        },
+        {
+          "prompt": {
+            "en": "Which department or facility development is associated with the integration buildings, launch pads, and rail-track systems mentioned by the ISRO chief?",
+            "hi": "इसरो प्रमुख द्वारा उल्लिखित एकीकरण भवनों, लॉन्च पैड और रेल-ट्रैक सिस्टम से कौन सा विभाग या सुविधा विकास जुड़ा हुआ है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sriharikota Range (SHAR)",
+                "hi": "श्रीहरिकोटा रेंज (SHAR)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Kulasekarapattinam spaceport facility",
+                "hi": "कुलसेकरपट्टिनम स्पेसपोर्ट सुविधा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Thiruvananthapuram Rocket Complex",
+                "hi": "तिरुवनंतपुरम रॉकेट कॉम्प्लेक्स"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mahendragiri Propulsion Complex",
+                "hi": "महेंद्रगिरि प्रणोदन परिसर"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text explicitly attributes the upcoming infrastructure featuring integration buildings and launch pads to the Kulasekarapattinam spaceport facility.\nSource: https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+            "hi": "पाठ स्पष्ट रूप से कुलसेकरपट्टिनम स्पेसपोर्ट सुविधा के लिए एकीकरण भवनों और लॉन्च पैड की विशेषता वाले आगामी बुनियादी ढांचे का श्रेय देता है।\nस्रोत: https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-10"
+        },
+        {
+          "prompt": {
+            "en": "Why are airlines such as IndiGo and Air India shifting flights to Navi Mumbai?",
+            "hi": "इंडिगो और एयर इंडिया जैसी एयरलाइंस नवी मुंबई के लिए उड़ानें क्यों स्थानांतरित कर रही हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Navi Mumbai airport offers zero landing fees for international carriers",
+                "hi": "नवी मुंबई हवाई अड्डा अंतरराष्ट्रीय वाहकों के लिए शून्य लैंडिंग शुल्क प्रदान करता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mumbai airport is permanently decommissioning its domestic runways",
+                "hi": "मुंबई हवाई अड्डा अपने घरेलू रनवे को स्थायी रूप से बंद कर रहा है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mumbai airport is preparing for Terminal 1 redevelopment",
+                "hi": "मुंबई हवाईअड्डा टर्मिनल 1 के पुनर्विकास की तैयारी कर रहा है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Stringent environmental noise caps imposed on Chhatrapati Shivaji Maharaj International Airport",
+                "hi": "छत्रपति शिवाजी महाराज अंतर्राष्ट्रीय हवाईअड्डे पर पर्यावरण संबंधी शोर की सख्त सीमाएं लगाई गईं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Airlines are shifting flights to Navi Mumbai because Mumbai airport is preparing for the redevelopment of Terminal 1.\nSource: https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
+            "hi": "एयरलाइंस नवी मुंबई के लिए उड़ानें स्थानांतरित कर रही हैं क्योंकि मुंबई हवाईअड्डा टर्मिनल 1 के पुनर्विकास की तैयारी कर रहा है।\nस्रोत: https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-11"
         }
       ],
       "quarantined": [],
@@ -576,521 +576,572 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-10-26T06:30:00+05:30"
+      "release_at": "2026-10-27T06:30:00+05:30"
     },
     {
       "title": "Set 2: Economy, Business & Finance",
-      "source_filename": "daily-2026-10-26.json",
+      "source_filename": "daily-2026-10-27.json",
       "questions": [
         {
           "prompt": {
-            "en": "What was the total income reported by AU Small Finance Bank in its regulatory filing for the quarter under review?",
-            "hi": "समीक्षाधीन तिमाही के लिए अपनी नियामक फाइलिंग में एयू स्मॉल फाइनेंस बैंक द्वारा रिपोर्ट की गई कुल आय कितनी थी?"
+            "en": "By what date are companies preparing for upcoming IPOs expected to announce their price band declarations and launch plans?",
+            "hi": "आगामी आईपीओ की तैयारी कर रही कंपनियों द्वारा अपने मूल्य बैंड की घोषणा और लॉन्च योजनाओं की घोषणा किस तारीख तक होने की उम्मीद है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "₹5,224 crore",
-                "hi": "₹5,224 करोड़"
+                "en": "November 5",
+                "hi": "5 नवंबर"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "₹34,390 crore",
-                "hi": "₹34,390 करोड़"
+                "en": "November 1",
+                "hi": "1 नवंबर"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "₹858 crore",
-                "hi": "₹858 करोड़"
+                "en": "November 10",
+                "hi": "10 नवंबर"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "₹6,382 crore",
-                "hi": "₹6,382 करोड़"
+                "en": "November 15",
+                "hi": "15 नवंबर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The companies eyeing close to ₹2,600 crore are expected to announce price band declarations and launch plans by November 5.\nSource: https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece",
+            "hi": "₹2,600 करोड़ पर नजर रखने वाली कंपनियों से 5 नवंबर तक मूल्य बैंड घोषणाओं और लॉन्च योजनाओं की घोषणा करने की उम्मीद है।\nस्रोत: https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-12"
+        },
+        {
+          "prompt": {
+            "en": "What was the cumulative Foreign Portfolio Investor (FPI) outflow from Indian equities for the entire year of 2025?",
+            "hi": "2025 के पूरे वर्ष के लिए भारतीय इक्विटी से संचयी विदेशी पोर्टफोलियो निवेशक (FPI) का बहिर्वाह क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1.12 lakh crore",
+                "hi": "₹1.12 लाख करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹3.08 lakh crore",
+                "hi": "₹3.08 लाख करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹2.45 lakh crore",
+                "hi": "₹2.45 लाख करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1.66 lakh crore",
+                "hi": "₹1.66 लाख करोड़"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "According to the bank's regulatory filing, total income rose to ₹6,382 crore in the quarter under review from ₹5,224 crore in the same period a year ago.\nSource: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
-            "hi": "बैंक की नियामक फाइलिंग के अनुसार, समीक्षाधीन तिमाही में कुल आय बढ़कर ₹6,382 करोड़ हो गई, जो एक साल पहले इसी अवधि में ₹5,224 करोड़ थी।\nस्रोत: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece"
+            "en": "Data showed that cumulative FPI withdrawals during the entire year 2025 stood at ₹1.66 lakh crore.\nSource: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
+            "hi": "आंकड़ों से पता चला कि पूरे वर्ष 2025 के दौरान संचयी एफपीआई निकासी ₹1.66 लाख करोड़ थी।\nस्रोत: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-13"
+        },
+        {
+          "prompt": {
+            "en": "What was AU Small Finance Bank's total income in the quarter under review compared to the same period a year ago?",
+            "hi": "एक साल पहले की समान अवधि की तुलना में समीक्षाधीन तिमाही में एयू स्मॉल फाइनेंस बैंक की कुल आय क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rose to ₹5,224 crore from ₹4,100 crore",
+                "hi": "₹4,100 करोड़ से बढ़कर ₹5,224 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rose to ₹6,382 crore from ₹5,224 crore",
+                "hi": "₹5,224 करोड़ से बढ़कर ₹6,382 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rose to ₹8,580 crore from ₹6,382 crore",
+                "hi": "₹6,382 करोड़ से बढ़कर ₹8,580 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rose to ₹7,450 crore from ₹5,224 crore",
+                "hi": "₹5,224 करोड़ से बढ़कर ₹7,450 करोड़ हो गया"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "According to its regulatory filing, AU Small Finance Bank's total income rose to ₹6,382 crore from ₹5,224 crore a year ago.\nSource: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
+            "hi": "इसकी नियामक फाइलिंग के अनुसार, एयू स्मॉल फाइनेंस बैंक की कुल आय एक साल पहले ₹5,224 करोड़ से बढ़कर ₹6,382 करोड़ हो गई।\nस्रोत: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
           "source_label": "https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-12"
+          "id": "2026-10-27-14"
         },
         {
           "prompt": {
-            "en": "How many comments were received during the consultation process for IRDAI's distribution reforms feedback?",
-            "hi": "IRDAI के वितरण सुधार फीडबैक के लिए परामर्श प्रक्रिया के दौरान कितनी टिप्पणियाँ प्राप्त हुईं?"
+            "en": "What primary global factor was cited alongside FPI equity withdrawals in October 2026?",
+            "hi": "अक्टूबर 2026 में एफपीआई इक्विटी निकासी के साथ किस प्राथमिक वैश्विक कारक का हवाला दिया गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Over 650 comments",
-                "hi": "650 से अधिक टिप्पणियाँ"
+                "en": "Sharp depreciation of the US Dollar index",
+                "hi": "अमेरिकी डॉलर सूचकांक का तीव्र अवमूल्यन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Over 350 comments",
-                "hi": "350 से अधिक टिप्पणियाँ"
+                "en": "Elevated crude oil prices",
+                "hi": "कच्चे तेल की बढ़ी कीमतें"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Over 150 comments",
-                "hi": "150 से अधिक टिप्पणियाँ"
+                "en": "Global semiconductor manufacturing shortages",
+                "hi": "वैश्विक सेमीकंडक्टर विनिर्माण की कमी"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Over 1,000 comments",
-                "hi": "1,000 से अधिक टिप्पणियाँ"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The consultation process received an encouraging response with over 650 comments received thus far, prompting an extension of the feedback timeline to October 31.\nSource: https://www.thehindu.com/business/Industry/irdai-extends-distribution-reforms-feedback-timeline-to-oct-31/article71620935.ece",
-            "hi": "परामर्श प्रक्रिया को उत्साहजनक प्रतिक्रिया मिली और अब तक 650 से अधिक टिप्पणियाँ प्राप्त हुईं, जिससे प्रतिक्रिया समयरेखा को 31 अक्टूबर तक बढ़ा दिया गया।\nस्रोत: https://www.thehindu.com/business/Industry/irdai-extends-distribution-reforms-feedback-timeline-to-oct-31/article71620935.ece"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/irdai-extends-distribution-reforms-feedback-timeline-to-oct-31/article71620935.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-13"
-        },
-        {
-          "prompt": {
-            "en": "How much did IDFC First Bank mobilise in FCNR(B) deposits despite having no overseas office?",
-            "hi": "कोई विदेशी कार्यालय न होने के बावजूद आईडीएफसी फर्स्ट बैंक ने एफसीएनआर (बी) जमा में कितना जुटाया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "₹1,045 crore",
-                "hi": "₹1,045 करोड़"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "₹34,390 crore",
-                "hi": "₹34,390 करोड़"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "₹6,382 crore",
-                "hi": "₹6,382 करोड़"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "₹5,224 crore",
-                "hi": "₹5,224 करोड़"
+                "en": "Sudden interest rate hikes by the European Central Bank",
+                "hi": "यूरोपीय सेंट्रल बैंक द्वारा अचानक ब्याज दरों में बढ़ोतरी"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "IDFC First Bank successfully mobilised ₹34,390 crore in FCNR(B) deposits despite having no branch, subsidiary or representative office outside India.\nSource: https://www.thehindu.com/business/idfc-first-bank-q2-pat-rises-197-to-1045-crore-on-lower-provisions/article71620674.ece",
-            "hi": "भारत के बाहर कोई शाखा, सहायक कंपनी या प्रतिनिधि कार्यालय न होने के बावजूद आईडीएफसी फर्स्ट बैंक ने सफलतापूर्वक एफसीएनआर (बी) जमा में ₹34,390 करोड़ जुटाए।\nस्रोत: https://www.thehindu.com/business/idfc-first-bank-q2-pat-rises-197-to-1045-crore-on-lower-provisions/article71620674.ece"
+            "en": "FPIs withdrew ₹48,056 crore from equities in October amid elevated crude oil prices.\nSource: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
+            "hi": "कच्चे तेल की ऊंची कीमतों के बीच एफपीआई ने अक्टूबर में इक्विटी से ₹48,056 करोड़ निकाले।\nस्रोत: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/idfc-first-bank-q2-pat-rises-197-to-1045-crore-on-lower-provisions/article71620674.ece",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-14"
+          "id": "2026-10-27-15"
         },
         {
           "prompt": {
-            "en": "What primary challenge does the ethanol procurement framework face according to recent feedstock discussions?",
-            "hi": "हाल की फीडस्टॉक चर्चाओं के अनुसार इथेनॉल खरीद ढांचे को किस प्राथमिक चुनौती का सामना करना पड़ता है?"
+            "en": "How much capital are the five companies opening IPOs next week collectively eyeing to raise?",
+            "hi": "अगले सप्ताह आईपीओ खोलने वाली पांच कंपनियां सामूहिक रूप से कितनी पूंजी जुटाने पर विचार कर रही हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Completely replacing fossil fuels with non-solar energy sources",
-                "hi": "जीवाश्म ईंधन को पूरी तरह से गैर-सौर ऊर्जा स्रोतों से बदलना"
+                "en": "Close to ₹1,200 crore",
+                "hi": "₹1,200 करोड़ के करीब"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Transporting maize across international maritime borders",
-                "hi": "अंतर्राष्ट्रीय समुद्री सीमाओं के पार मक्के का परिवहन"
+                "en": "Close to ₹1,850 crore",
+                "hi": "करीब ₹1,850 करोड़"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Balancing the availability and cost of different feedstocks",
-                "hi": "विभिन्न फीडस्टॉक की उपलब्धता और लागत को संतुलित करना"
+                "en": "Close to ₹4,500 crore",
+                "hi": "करीब ₹4,500 करोड़"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Eliminating rice cultivation entirely across all Indian states",
-                "hi": "सभी भारतीय राज्यों में चावल की खेती को पूरी तरह ख़त्म करना"
+                "en": "Close to ₹2,600 crore",
+                "hi": "करीब ₹2,600 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The five upcoming IPOs feature companies eyeing close to ₹2,600 crore.\nSource: https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece",
+            "hi": "पांच आगामी आईपीओ में कंपनियों की नजर करीब ₹2,600 करोड़ पर है।\nस्रोत: https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-16"
+        },
+        {
+          "prompt": {
+            "en": "What was the percentage jump in Q2 profit reported by AU Small Finance Bank?",
+            "hi": "एयू स्मॉल फाइनेंस बैंक द्वारा रिपोर्ट की गई दूसरी तिमाही के लाभ में कितने प्रतिशत की वृद्धि हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "35%",
+                "hi": "35%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "42%",
+                "hi": "42%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "68%",
+                "hi": "68%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "53%",
+                "hi": "53%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "AU Small Finance Bank reported a 53% jump in Q2 profit, reaching ₹858 crore.\nSource: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
+            "hi": "एयू स्मॉल फाइनेंस बैंक ने दूसरी तिमाही के मुनाफे में 53% की बढ़ोतरी दर्ज की, जो ₹858 करोड़ तक पहुंच गया।\nस्रोत: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-17"
+        },
+        {
+          "prompt": {
+            "en": "What is the total cumulative FPI outflow from Indian equities recorded in 2026 up to the reported period?",
+            "hi": "2026 में रिपोर्ट की गई अवधि तक भारतीय इक्विटी से कुल संचयी एफपीआई बहिर्वाह कितना दर्ज किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1.66 lakh crore",
+                "hi": "₹1.66 लाख करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹2.10 lakh crore",
+                "hi": "₹2.10 लाख करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹3.08 lakh crore",
+                "hi": "₹3.08 लाख करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹4.50 lakh crore",
+                "hi": "₹4.50 लाख करोड़"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The competing concerns regarding rice gaining ground over maize highlight the challenge facing the ethanol procurement framework: balancing the availability and cost of different feedstocks.\nSource: https://www.thehindu.com/business/Industry/ethanol-tender-sparks-feedstock-concerns-as-rice-gains-ground-over-maize/article71620019.ece",
-            "hi": "मक्के की तुलना में चावल की बढ़त को लेकर प्रतिस्पर्धात्मक चिंताएं इथेनॉल खरीद ढांचे के सामने आने वाली चुनौती को उजागर करती हैं: विभिन्न फीडस्टॉक की उपलब्धता और लागत को संतुलित करना।\nस्रोत: https://www.thehindu.com/business/Industry/ethanol-tender-sparks-feedstock-concerns-as-rice-gains-ground-over-maize/article71620019.ece"
+            "en": "Cumulative FPI outflows from Indian equities in 2026 reached ₹3.08 lakh crore according to the data.\nSource: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
+            "hi": "आंकड़ों के अनुसार 2026 में भारतीय इक्विटी से संचयी एफपीआई बहिर्वाह ₹3.08 लाख करोड़ तक पहुंच गया।\nस्रोत: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/ethanol-tender-sparks-feedstock-concerns-as-rice-gains-ground-over-maize/article71620019.ece",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-15"
+          "id": "2026-10-27-18"
         },
         {
           "prompt": {
-            "en": "To what level did Kotak Mahindra Bank's gross non-performing assets (GNPA) decline in its Q2 report?",
-            "hi": "कोटक महिंद्रा बैंक की दूसरी तिमाही रिपोर्ट में उसकी सकल गैर-निष्पादित परिसंपत्ति (जीएनपीए) किस स्तर तक गिर गई?"
+            "en": "How much capital did Foreign Portfolio Investors (FPIs) withdraw from Indian equities in October up to the reported timeframe?",
+            "hi": "अक्टूबर में रिपोर्ट की गई समय सीमा तक विदेशी पोर्टफोलियो निवेशकों (एफपीआई) ने भारतीय इक्विटी से कितनी पूंजी निकाली?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "2.05%",
-                "hi": "2.05%"
+                "en": "₹25,410 crore",
+                "hi": "₹25,410 करोड़"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "1.39%",
-                "hi": "1.39%"
+                "en": "₹38,120 crore",
+                "hi": "₹38,120 करोड़"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "1.04%",
-                "hi": "1.04%"
+                "en": "₹62,400 crore",
+                "hi": "₹62,400 करोड़"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "0.85%",
-                "hi": "0.85%"
+                "en": "₹48,056 crore",
+                "hi": "₹48,056 करोड़"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "d",
           "explanation": {
-            "en": "Asset quality improved for Kotak Mahindra Bank, with gross non-performing assets (GNPA) declining to 1.04% from 1.39% a year earlier.\nSource: https://www.thehindu.com/business/kotak-mahindra-bank-q2-net-up-26-on-higher-income-and-better-asset-quality/article71619693.ece",
-            "hi": "कोटक महिंद्रा बैंक की संपत्ति की गुणवत्ता में सुधार हुआ, सकल गैर-निष्पादित परिसंपत्ति (जीएनपीए) एक साल पहले के 1.39% से घटकर 1.04% हो गई।\nस्रोत: https://www.thehindu.com/business/kotak-mahindra-bank-q2-net-up-26-on-higher-income-and-better-asset-quality/article71619693.ece"
+            "en": "FPIs withdrew ₹48,056 crore from Indian equities in October so far.\nSource: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
+            "hi": "एफपीआई ने अक्टूबर में अब तक भारतीय इक्विटी से ₹48,056 करोड़ निकाले हैं।\nस्रोत: https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/kotak-mahindra-bank-q2-net-up-26-on-higher-income-and-better-asset-quality/article71619693.ece",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-16"
+          "id": "2026-10-27-19"
         },
         {
           "prompt": {
-            "en": "According to the RBI Bulletin, how did inflation in rural areas compare to urban areas?",
-            "hi": "RBI बुलेटिन के अनुसार, शहरी क्षेत्रों की तुलना में ग्रामीण क्षेत्रों में मुद्रास्फीति कैसे हुई?"
+            "en": "What was the net profit reported by AU Small Finance Bank for the second quarter?",
+            "hi": "एयू स्मॉल फाइनेंस बैंक द्वारा दूसरी तिमाही में कितना शुद्ध लाभ दर्ज किया गया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Rural inflation was found to be higher than in urban areas",
-                "hi": "ग्रामीण मुद्रास्फीति शहरी क्षेत्रों की तुलना में अधिक पाई गई"
+                "en": "₹524 crore",
+                "hi": "₹524 करोड़"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Rural inflation was lower than urban inflation",
-                "hi": "ग्रामीण मुद्रास्फीति शहरी मुद्रास्फीति से कम थी"
+                "en": "₹858 crore",
+                "hi": "₹858 करोड़"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Rural and urban inflation remained exactly equal",
-                "hi": "ग्रामीण और शहरी मुद्रास्फीति बिल्कुल बराबर रही"
+                "en": "₹638 crore",
+                "hi": "₹638 करोड़"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Rural areas experienced deflation while urban areas faced inflation",
-                "hi": "ग्रामीण क्षेत्रों में अपस्फीति का अनुभव हुआ जबकि शहरी क्षेत्रों में मुद्रास्फीति का सामना करना पड़ा"
+                "en": "₹1,250 crore",
+                "hi": "₹1,250 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "AU Small Finance Bank posted a Q2 profit of ₹858 crore.\nSource: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
+            "hi": "एयू स्मॉल फाइनेंस बैंक ने दूसरी तिमाही में ₹858 करोड़ का मुनाफा कमाया।\nस्रोत: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-20"
+        },
+        {
+          "prompt": {
+            "en": "The upcoming IPO schedules and price band declarations are planned ahead of which extended holiday period in a specific state?",
+            "hi": "आगामी आईपीओ कार्यक्रम और मूल्य बैंड घोषणाओं की योजना किसी विशिष्ट राज्य में किस विस्तारित अवकाश अवधि से पहले बनाई गई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Extended Pongal holiday period in Tamil Nadu",
+                "hi": "तमिलनाडु में पोंगल की छुट्टियों की अवधि बढ़ाई गई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Extended Diwali holiday period in Gujarat",
+                "hi": "गुजरात में दिवाली की छुट्टियों की अवधि बढ़ाई गई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Extended Onam holiday period in Kerala",
+                "hi": "केरल में ओणम की छुट्टियों की अवधि बढ़ाई गई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Extended Durga Puja holiday period in West Bengal",
+                "hi": "पश्चिम बंगाल में दुर्गा पूजा की छुट्टियों की अवधि बढ़ा दी गई है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The announcement timeline is set ahead of the extended Diwali holiday period in Gujarat.\nSource: https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece",
+            "hi": "घोषणा की समयसीमा गुजरात में विस्तारित दिवाली अवकाश अवधि से पहले निर्धारित की गई है।\nस्रोत: https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-21"
+        },
+        {
+          "prompt": {
+            "en": "In which type of official filing did AU Small Finance Bank disclose its financial figures for the quarter under review?",
+            "hi": "एयू स्मॉल फाइनेंस बैंक ने किस प्रकार की आधिकारिक फाइलिंग में समीक्षाधीन तिमाही के लिए अपने वित्तीय आंकड़ों का खुलासा किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A regulatory filing",
+                "hi": "एक नियामक फाइलिंग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A statutory audit report",
+                "hi": "एक वैधानिक लेखापरीक्षा रिपोर्ट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A stock exchange prospectus",
+                "hi": "एक स्टॉक एक्सचेंज प्रॉस्पेक्टस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A Reserve Bank of India directive",
+                "hi": "भारतीय रिज़र्व बैंक का एक निर्देश"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The RBI Bulletin noted that inflation in rural areas was found to be higher than in urban areas, with headline CPI inflation edging up over the months.\nSource: https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
-            "hi": "आरबीआई बुलेटिन में कहा गया है कि ग्रामीण क्षेत्रों में मुद्रास्फीति शहरी क्षेत्रों की तुलना में अधिक पाई गई, पिछले कुछ महीनों में हेडलाइन सीपीआई मुद्रास्फीति में बढ़ोतरी हुई है।\nस्रोत: https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece"
+            "en": "AU Small Finance Bank released its financial figures via a regulatory filing.\nSource: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
+            "hi": "एयू स्मॉल फाइनेंस बैंक ने एक नियामक फाइलिंग के माध्यम से अपने वित्तीय आंकड़े जारी किए।\nस्रोत: https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
+          "source_label": "https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-17"
-        },
-        {
-          "prompt": {
-            "en": "What agenda did US Secretary of State Marco Rubio push on his second trip to India this year?",
-            "hi": "इस वर्ष अपनी दूसरी भारत यात्रा पर अमेरिकी विदेश मंत्री मार्को रुबियो ने किस एजेंडे पर जोर दिया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Space exploration joint ventures exclusively",
-                "hi": "विशेष रूप से अंतरिक्ष अन्वेषण संयुक्त उद्यम"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Global military disarmament agreements",
-                "hi": "वैश्विक सैन्य निरस्त्रीकरण समझौते"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A business and energy agenda over diplomacy",
-                "hi": "कूटनीति पर एक व्यापार और ऊर्जा एजेंडा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Agricultural tariff hikes on Canadian goods",
-                "hi": "कनाडाई वस्तुओं पर कृषि शुल्क में बढ़ोतरी"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year as the US faces high oil prices.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
-            "hi": "अमेरिकी विदेश मंत्री मार्को रुबियो ने इस साल अपनी दूसरी भारत यात्रा पर कूटनीति के बजाय व्यापार और ऊर्जा एजेंडे को आगे बढ़ाया क्योंकि अमेरिका तेल की ऊंची कीमतों का सामना कर रहा है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-18"
-        },
-        {
-          "prompt": {
-            "en": "For what purpose is the footage of Indian workers filming themselves at work being used?",
-            "hi": "कार्यस्थल पर खुद को फिल्माते हुए भारतीय श्रमिकों के फुटेज का उपयोग किस उद्देश्य के लिए किया जा रहा है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To broadcast television documentaries on labor rights",
-                "hi": "श्रम अधिकारों पर टेलीविजन वृत्तचित्रों का प्रसारण करना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To audit workplace safety compliance for government regulators",
-                "hi": "सरकारी नियामकों के लिए कार्यस्थल सुरक्षा अनुपालन का ऑडिट करना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To train artificial intelligence (AI)",
-                "hi": "कृत्रिम बुद्धिमत्ता (एआई) को प्रशिक्षित करने के लिए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To create promotional materials for elite British schools",
-                "hi": "विशिष्ट ब्रिटिश स्कूलों के लिए प्रचार सामग्री तैयार करना"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Indian workers are being paid to film themselves at work, and the resulting footage is used to train artificial intelligence.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-            "hi": "भारतीय श्रमिकों को काम पर खुद को फिल्माने के लिए भुगतान किया जा रहा है, और परिणामी फुटेज का उपयोग कृत्रिम बुद्धिमत्ता को प्रशिक्षित करने के लिए किया जाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-19"
-        },
-        {
-          "prompt": {
-            "en": "Which products will see eased tariffs under the White House announcement starting October 30?",
-            "hi": "30 अक्टूबर से व्हाइट हाउस की घोषणा के तहत किन उत्पादों पर टैरिफ में ढील दी जाएगी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Certain machinery and select Canadian goods",
-                "hi": "कुछ मशीनरी और चुनिंदा कनाडाई सामान"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Carpets and textiles",
-                "hi": "कालीन और वस्त्र"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Crude oil and petroleum derivatives",
-                "hi": "कच्चा तेल और पेट्रोलियम डेरिवेटिव"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Agricultural feedstocks like maize and rice",
-                "hi": "मक्का और चावल जैसे कृषि फीडस्टॉक"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The White House announced that from October 30, tariffs will be eased on some Canadian products including certain machinery, while being placed on others such as carpets.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-            "hi": "व्हाइट हाउस ने घोषणा की कि 30 अक्टूबर से कुछ मशीनरी सहित कुछ कनाडाई उत्पादों पर टैरिफ कम कर दिया जाएगा, जबकि कालीन जैसे अन्य उत्पादों पर टैरिफ लगाया जाएगा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-20"
-        },
-        {
-          "prompt": {
-            "en": "What does the 'Your First Home' scheme offer to buyers in England?",
-            "hi": "'आपका पहला घर' योजना इंग्लैंड में खरीदारों को क्या प्रदान करती है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Free medical insurance for civil servants holding multiple jobs",
-                "hi": "एकाधिक नौकरियाँ रखने वाले सिविल सेवकों के लिए निःशुल्क चिकित्सा बीमा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Tax exemptions on all international financial transactions",
-                "hi": "सभी अंतरराष्ट्रीय वित्तीय लेनदेन पर कर छूट"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Government-backed loans for those buying new-builds",
-                "hi": "नई बिल्डिंग खरीदने वालों के लिए सरकार समर्थित ऋण"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Subsidized state pensions comparable to other European nations",
-                "hi": "अन्य यूरोपीय देशों की तुलना में रियायती राज्य पेंशन"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The Your First Home scheme offers government-backed loans for individuals purchasing new-build properties in England, subject to an earnings limit.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-            "hi": "योर फर्स्ट होम योजना इंग्लैंड में नई-निर्मित संपत्ति खरीदने वाले व्यक्तियों को कमाई सीमा के अधीन सरकार समर्थित ऋण प्रदान करती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-21"
+          "id": "2026-10-27-22"
         }
       ],
       "quarantined": [],
@@ -1098,572 +1149,521 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-10-26T13:00:00+05:30"
+      "release_at": "2026-10-27T13:00:00+05:30"
     },
     {
       "title": "Set 3: Science, Environment & World Affairs",
-      "source_filename": "daily-2026-10-26.json",
+      "source_filename": "daily-2026-10-27.json",
       "questions": [
         {
           "prompt": {
-            "en": "Ashoke Sen became the first Indian physicist to receive which prestigious medal?",
-            "hi": "अशोक सेन कौन सा प्रतिष्ठित पदक प्राप्त करने वाले पहले भारतीय भौतिक विज्ञानी बने?"
+            "en": "Which institutions jointly award the prestigious Oskar Klein Medal won by theoretical physicist Ashoke Sen?",
+            "hi": "कौन से संस्थान सैद्धांतिक भौतिक विज्ञानी अशोक सेन द्वारा जीते गए प्रतिष्ठित ऑस्कर क्लेन मेडल को संयुक्त रूप से प्रदान करते हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The Nobel Prize in Physics",
-                "hi": "भौतिकी में नोबेल पुरस्कार"
+                "en": "Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences",
+                "hi": "स्टॉकहोम विश्वविद्यालय और रॉयल स्वीडिश एकेडमी ऑफ साइंसेज की भौतिकी की नोबेल समिति"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The Dirac Medal",
-                "hi": "डिराक मेडल"
+                "en": "CERN and the European Physical Society",
+                "hi": "सर्न और यूरोपीय भौतिक सोसायटी"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The Copley Medal",
-                "hi": "कोपले पदक"
+                "en": "Max Planck Institute for Gravitational Physics and the Humboldt Foundation",
+                "hi": "मैक्स प्लैंक इंस्टीट्यूट फॉर ग्रेविटेशनल फिजिक्स और हम्बोल्ट फाउंडेशन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The Oskar Klein Medal",
-                "hi": "ऑस्कर क्लेन पदक"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Ashoke Sen became the first Indian physicist to receive the Oskar Klein Medal, recognized internationally for his work on S-duality and string field theory.\nSource: https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece",
-            "hi": "अशोक सेन ऑस्कर क्लेन मेडल प्राप्त करने वाले पहले भारतीय भौतिक विज्ञानी बने, जिन्हें एस-डुअलिटी और स्ट्रिंग फील्ड सिद्धांत पर उनके काम के लिए अंतरराष्ट्रीय स्तर पर मान्यता मिली।\nस्रोत: https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-22"
-        },
-        {
-          "prompt": {
-            "en": "Who discovered the moons Ariel and Umbriel 175 years ago on October 24, 1851?",
-            "hi": "175 साल पहले 24 अक्टूबर, 1851 को चंद्रमा एरियल और अम्ब्रिएल की खोज किसने की थी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Ashoke Sen",
-                "hi": "अशोक सेन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Marco Rubio",
-                "hi": "मार्को रुबियो"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Rosalind Franklin",
-                "hi": "रोज़ालिंड फ्रैंकलिन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "William Lassell",
-                "hi": "विलियम लैसेल"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Amateur astronomer William Lassell discovered Ariel and Umbriel, two of Uranus' moons, on October 24, 1851.\nSource: https://www.thehindu.com/sci-tech/science/ariel-umbriel-and-the-man-who-made-them-real/article71587499.ece",
-            "hi": "शौकिया खगोलशास्त्री विलियम लैसेल ने 24 अक्टूबर, 1851 को यूरेनस के दो चंद्रमाओं एरियल और उम्ब्रिएल की खोज की।\nस्रोत: https://www.thehindu.com/sci-tech/science/ariel-umbriel-and-the-man-who-made-them-real/article71587499.ece"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/ariel-umbriel-and-the-man-who-made-them-real/article71587499.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-23"
-        },
-        {
-          "prompt": {
-            "en": "According to research on sleep and health, what is the increased risk of fat deposition in the liver with every one-hour decrease in sleep time below the recommended 7-8 hours?",
-            "hi": "नींद और स्वास्थ्य पर शोध के अनुसार, अनुशंसित 7-8 घंटे से कम सोने के समय में हर एक घंटे की कमी से लीवर में वसा जमा होने का खतरा कितना बढ़ जाता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "10%",
-                "hi": "10%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "15%",
-                "hi": "15%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "50%",
-                "hi": "50%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "24%",
-                "hi": "24%"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "With every one-hour decrease in sleep time from the recommended seven-eight hours, the risk of fat deposition in the liver increased by 24%.\nSource: https://www.thehindu.com/sci-tech/science/inadequate-sleep-increases-the-risk-of-fatty-liver-disease/article66658540.ece",
-            "hi": "अनुशंसित सात-आठ घंटे की नींद के समय में हर एक घंटे की कमी के साथ, यकृत में वसा जमा होने का जोखिम 24% बढ़ जाता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/inadequate-sleep-increases-the-risk-of-fatty-liver-disease/article66658540.ece"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/inadequate-sleep-increases-the-risk-of-fatty-liver-disease/article66658540.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-24"
-        },
-        {
-          "prompt": {
-            "en": "Whose photograph was crucial to discovering DNA's structure, though her role was recognized decades later?",
-            "hi": "डीएनए की संरचना की खोज में किसकी तस्वीर महत्वपूर्ण थी, हालाँकि उसकी भूमिका को दशकों बाद पहचाना गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Leanne Gregory",
-                "hi": "लीन ग्रेगरी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "K.M. Janaki",
-                "hi": "के.एम. जानकी"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Rosalind Franklin",
-                "hi": "रोज़ालिंड फ्रैंकलिन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Vanessa Trump",
-                "hi": "वैनेसा ट्रम्प"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Rosalind Franklin's photograph was crucial to discovering DNA's structure, though the 1962 Nobel Prize went to Watson, Crick, and Wilkins, and her true role came to light decades later.\nSource: https://www.thehindu.com/sci-tech/health/remembering-rosalind-franklin-whose-photograph-was-crucial-to-discovering-dnas-structure/article70743082.ece",
-            "hi": "रोज़ालिंड फ्रैंकलिन की तस्वीर डीएनए की संरचना की खोज में महत्वपूर्ण थी, हालांकि 1962 का नोबेल पुरस्कार वॉटसन, क्रिक और विल्किंस को मिला और उनकी असली भूमिका दशकों बाद सामने आई।\nस्रोत: https://www.thehindu.com/sci-tech/health/remembering-rosalind-franklin-whose-photograph-was-crucial-to-discovering-dnas-structure/article70743082.ece"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/health/remembering-rosalind-franklin-whose-photograph-was-crucial-to-discovering-dnas-structure/article70743082.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-25"
-        },
-        {
-          "prompt": {
-            "en": "What is the UK government investing £100 million in, as part of the chancellor's budget announcements?",
-            "hi": "चांसलर की बजट घोषणाओं के हिस्से के रूप में यूके सरकार £100 मिलियन का निवेश किसमें कर रही है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Underground electricity steel pylons",
-                "hi": "भूमिगत बिजली स्टील तोरण"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A new satellite constellation for Ukraine",
-                "hi": "यूक्रेन के लिए एक नया उपग्रह समूह"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "An AI Biosecurity Lab",
-                "hi": "एक एआई बायोसिक्योरिटी लैब"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A space telescope to study Uranus' moons",
-                "hi": "यूरेनस के चंद्रमाओं का अध्ययन करने के लिए एक अंतरिक्ष दूरबीन"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The UK is investing £100m in a 'world first' AI Biosecurity Lab, unveiled by the chancellor to shore up the country's defenses.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-            "hi": "यूके 'दुनिया की पहली' एआई बायोसिक्योरिटी लैब में £100 मिलियन का निवेश कर रहा है, जिसका अनावरण चांसलर ने देश की सुरक्षा को मजबूत करने के लिए किया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-26"
-        },
-        {
-          "prompt": {
-            "en": "What is the name of the storm forecast to bring heavy rain, strong winds, and 80mph gusts to Scotland?",
-            "hi": "स्कॉटलैंड में भारी बारिश, तेज हवाएं और 80 मील प्रति घंटे की रफ्तार लाने वाले तूफान का पूर्वानुमान क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Storm Sen",
-                "hi": "तूफान सेन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Storm Franklin",
-                "hi": "तूफ़ान फ्रैंकलिन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Storm Lassell",
-                "hi": "तूफ़ान लैसेल"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Storm Boelo",
-                "hi": "तूफ़ान बोएलो"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Scotland prepared for Storm Boelo, which brought heavy rain, strong winds, and gusts of up to 80mph.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-            "hi": "स्कॉटलैंड तूफ़ान बोएलो के लिए तैयार था, जो भारी बारिश, तेज़ हवाएँ और 80 मील प्रति घंटे की रफ़्तार से आंधी लेकर आया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-27"
-        },
-        {
-          "prompt": {
-            "en": "What approach is the Welsh government consulting on regarding electricity lines?",
-            "hi": "वेल्श सरकार बिजली लाइनों के संबंध में किस दृष्टिकोण पर परामर्श कर रही है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Privatising the national grid operators",
-                "hi": "राष्ट्रीय ग्रिड ऑपरेटरों का निजीकरण"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The mandatory installation of towering steel pylons across all valleys",
-                "hi": "सभी घाटियों में ऊंचे स्टील के तोरणों की स्थापना अनिवार्य"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "An \"undergrounding-first approach\" to ban steel pylons",
-                "hi": "स्टील तोरणों पर प्रतिबंध लगाने के लिए \"भूमिगत-प्रथम दृष्टिकोण\"।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Transitioning entirely to satellite power transmission",
-                "hi": "पूरी तरह से उपग्रह विद्युत पारेषण में परिवर्तन"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The Welsh government launched a consultation on an \"undergrounding-first approach\" as it plans to ban steel pylons.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-            "hi": "वेल्श सरकार ने \"अंडरग्राउंडिंग-फर्स्ट अप्रोच\" पर एक परामर्श शुरू किया क्योंकि वह स्टील तोरणों पर प्रतिबंध लगाने की योजना बना रही है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-28"
-        },
-        {
-          "prompt": {
-            "en": "What impact did slowed Starlink connections have on Ukraine according to recent updates?",
-            "hi": "हाल के अपडेट के अनुसार धीमे स्टारलिंक कनेक्शन का यूक्रेन पर क्या प्रभाव पड़ा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It completely severed diplomatic ties with Western allies",
-                "hi": "इसने पश्चिमी सहयोगियों के साथ राजनयिक संबंध पूरी तरह से तोड़ दिए"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It halted all commercial banking transactions nationwide",
-                "hi": "इसने देश भर में सभी वाणिज्यिक बैंकिंग लेनदेन को रोक दिया"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It affected the country's military and drone operations for a week",
-                "hi": "इसका असर एक हफ्ते तक देश के सैन्य और ड्रोन ऑपरेशन पर पड़ा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It delayed the launch of the AI Biosecurity Lab",
-                "hi": "इससे एआई बायोसिक्योरिटी लैब के लॉन्च में देरी हुई"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Slowed Starlink connections affected Ukraine's military and drone operations for a week before connections stabilized again.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-            "hi": "धीमे स्टारलिंक कनेक्शन ने कनेक्शन फिर से स्थिर होने से पहले एक सप्ताह के लिए यूक्रेन की सेना और ड्रोन संचालन को प्रभावित किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-29"
-        },
-        {
-          "prompt": {
-            "en": "Following the killing of two Israeli soldiers by Palestinian gunmen, where did Israeli forces demolish homes, leading to displaced families?",
-            "hi": "फ़िलिस्तीनी बंदूकधारियों द्वारा दो इज़रायली सैनिकों की हत्या के बाद, इज़रायली बलों ने कहाँ घरों को ध्वस्त कर दिया, जिससे परिवार विस्थापित हो गए?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Nazareth",
-                "hi": "नाज़रेथ"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Tel Aviv",
-                "hi": "तेल अवीव"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Haifa",
-                "hi": "हाइफ़ा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Hebron",
-                "hi": "हेब्रोन"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Palestinian families were displaced as Israeli forces demolished homes in Hebron following the killing of two Israeli soldiers.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-            "hi": "दो इजरायली सैनिकों की हत्या के बाद इजरायली बलों ने हेब्रोन में घरों को ध्वस्त कर दिया, जिससे फिलिस्तीनी परिवार विस्थापित हो गए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-26-30"
-        },
-        {
-          "prompt": {
-            "en": "A fire broke out at which historical Alpine residence in Germany, also known as Hitler's mountaintop retreat?",
-            "hi": "जर्मनी में किस ऐतिहासिक अल्पाइन निवास में आग लग गई, जिसे हिटलर का पर्वतारोहण निवास भी कहा जाता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The Eagle's Nest",
-                "hi": "ईगल का घोंसला"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The Berlin Reichstag",
-                "hi": "बर्लिन रैहस्टाग"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The Munich Brown House",
-                "hi": "म्यूनिख ब्राउन हाउस"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The Nuremberg Palace",
-                "hi": "नूर्नबर्ग पैलेस"
+                "en": "Department of Atomic Energy, India and the International Centre for Theoretical Physics",
+                "hi": "परमाणु ऊर्जा विभाग, भारत और सैद्धांतिक भौतिकी के लिए अंतर्राष्ट्रीय केंद्र"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "A fire occurred at Hitler's mountaintop Eagle's Nest retreat in Germany, requiring the deployment of some 200 emergency personnel.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-            "hi": "जर्मनी में हिटलर के पर्वत शिखर ईगल्स नेस्ट रिट्रीट में आग लग गई, जिसके कारण लगभग 200 आपातकालीन कर्मियों की तैनाती की आवश्यकता पड़ी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+            "en": "The Oskar Klein Medal is awarded by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences.\nSource: https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+            "hi": "ऑस्कर क्लेन मेडल स्टॉकहोम विश्वविद्यालय और रॉयल स्वीडिश एकेडमी ऑफ साइंसेज की भौतिकी की नोबेल समिति द्वारा प्रदान किया जाता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece"
           },
           "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-31"
+          "id": "2026-10-27-23"
         },
         {
           "prompt": {
-            "en": "Who has been hailed as a hero for killing a school gunman in Oregon after the tragic shooting of three children and a teacher?",
-            "hi": "तीन बच्चों और एक शिक्षक की दुखद गोलीबारी के बाद ओरेगॉन में एक स्कूल बंदूकधारी की हत्या के लिए किसे नायक के रूप में सम्मानित किया गया है?"
+            "en": "How did the presence of feral dogs impact vultures feeding on carcasses at open dump sites according to scientific observations in the Thar desert?",
+            "hi": "थार रेगिस्तान में वैज्ञानिक अवलोकनों के अनुसार जंगली कुत्तों की उपस्थिति ने खुले डंप स्थलों पर शवों को खाने वाले गिद्धों को कैसे प्रभावित किया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Kashim Chowdhury",
-                "hi": "काशिम चौधरी"
+                "en": "Vultures spend half as long on carcasses at an open dump site than at dog-free enclosures",
+                "hi": "गिद्ध कुत्ते-मुक्त बाड़ों की तुलना में खुले डंप स्थल पर शवों पर आधा समय बिताते हैं"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Nathan Gregory",
-                "hi": "नाथन ग्रेगरी"
+                "en": "Vultures spend twice as long on carcasses at open dump sites than at dog-free enclosures",
+                "hi": "गिद्ध कुत्ते-मुक्त बाड़ों की तुलना में खुले डंप स्थलों पर शवों पर दोगुना समय बिताते हैं"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Kaylub Giamanco",
-                "hi": "कायलब जियामांको"
+                "en": "Vultures abandon open dump sites entirely when dogs are present",
+                "hi": "जब कुत्ते मौजूद होते हैं तो गिद्ध खुले कूड़ा स्थलों को पूरी तरह से छोड़ देते हैं"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "William Lassell",
-                "hi": "विलियम लैसेल"
+                "en": "Vultures consume 80 percent more food due to competition with feral dogs",
+                "hi": "जंगली कुत्तों से प्रतिस्पर्धा के कारण गिद्ध 80 प्रतिशत अधिक भोजन खाते हैं"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Scientists observed that vultures spend half as long on carcasses at open dump sites compared to dog-free enclosures because of feral dog threats.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece",
+            "hi": "वैज्ञानिकों ने देखा कि जंगली कुत्तों के खतरे के कारण गिद्ध खुले कूड़ा स्थलों पर कुत्तों से मुक्त बाड़ों की तुलना में शवों पर आधा समय बिताते हैं।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-24"
+        },
+        {
+          "prompt": {
+            "en": "What do linguistic hotspots offer glimpses into, according to authors of the new study on language and genetics?",
+            "hi": "भाषा और आनुवंशिकी पर नए अध्ययन के लेखकों के अनुसार, भाषाई हॉटस्पॉट किसकी झलक दिखाते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "How modern artificial intelligence algorithms process multilingual datasets",
+                "hi": "आधुनिक कृत्रिम बुद्धिमत्ता एल्गोरिदम बहुभाषी डेटासेट को कैसे संसाधित करते हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "How human languages became more varied before large migrations and population movements reshaped much of the world",
+                "hi": "बड़े पैमाने पर प्रवासन और जनसंख्या आंदोलनों ने दुनिया के अधिकांश हिस्सों को नया आकार देने से पहले मानव भाषाएँ कैसे अधिक विविध हो गईं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The direct correlation between gross domestic product and linguistic diversity",
+                "hi": "सकल घरेलू उत्पाद और भाषाई विविधता के बीच सीधा संबंध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The mechanisms behind phonetic shifts in industrialized urban centers",
+                "hi": "औद्योगिक शहरी केंद्रों में ध्वन्यात्मक बदलाव के पीछे के तंत्र"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The study indicates that linguistic hotspots offer glimpses into how human languages became more varied before major migrations reshaped the world.\nSource: https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
+            "hi": "अध्ययन से संकेत मिलता है कि भाषाई हॉटस्पॉट इस बात की झलक पेश करते हैं कि कैसे प्रमुख प्रवासन से दुनिया को नया रूप देने से पहले मानव भाषाएं अधिक विविध हो गईं।\nस्रोत: https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-25"
+        },
+        {
+          "prompt": {
+            "en": "Who is identified as the new CEO facing an early test regarding the reception of Apple's foldable device, the iPhone Duo?",
+            "hi": "एप्पल के फोल्डेबल डिवाइस, आईफोन डुओ के रिसेप्शन के संबंध में प्रारंभिक परीक्षण का सामना करने वाले नए सीईओ के रूप में किसे पहचाना गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Tim Cook",
+                "hi": "टिम कुक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Craig Federighi",
+                "hi": "क्रेग फेडेरिघी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "John Ternus",
+                "hi": "जॉन टर्नस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Greg Joswiak",
+                "hi": "ग्रेग जोस्वियाक"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Kaylub Giamanco, whose children were affected, has been hailed as a hero for killing the teenage gunman in Oregon.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-            "hi": "कायलुब जियामांको, जिनके बच्चे प्रभावित हुए थे, को ओरेगॉन में किशोर बंदूकधारी को मारने के लिए नायक के रूप में सम्मानित किया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+            "en": "John Ternus is identified as the new CEO whose early test is tied to the iPhone Duo's reception in the foldable market.\nSource: https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece",
+            "hi": "जॉन टर्नस की पहचान नए सीईओ के रूप में की गई है, जिसका प्रारंभिक परीक्षण फोल्डेबल बाजार में आईफोन डुओ के स्वागत से जुड़ा है।\nस्रोत: https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece"
           },
           "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-26-32"
+          "id": "2026-10-27-26"
+        },
+        {
+          "prompt": {
+            "en": "Why did Elon Musk limit Ukraine's access to the military-grade network of Starlink according to international reports?",
+            "hi": "अंतरराष्ट्रीय रिपोर्टों के अनुसार एलन मस्क ने स्टारलिंक के सैन्य-ग्रेड नेटवर्क तक यूक्रेन की पहुंच को सीमित क्यों कर दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because of unpaid subscription dues by the Ukrainian Ministry of Defense",
+                "hi": "यूक्रेनी रक्षा मंत्रालय द्वारा अवैतनिक सदस्यता बकाया के कारण"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Due to satellite bandwidth overload caused by commercial users",
+                "hi": "वाणिज्यिक उपयोगकर्ताओं के कारण उपग्रह बैंडविड्थ अधिभार के कारण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "After criticism of Kyiv’s strikes on Russia’s energy infrastructure",
+                "hi": "रूस के ऊर्जा बुनियादी ढांचे पर कीव के हमलों की आलोचना के बाद"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Following international regulatory orders issued by the European Union",
+                "hi": "यूरोपीय संघ द्वारा जारी अंतरराष्ट्रीय नियामक आदेशों का पालन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Elon Musk limited Ukraine's access to Starlink after criticism of Kyiv's strikes on Russia's energy infrastructure.\nSource: https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
+            "hi": "रूस के ऊर्जा बुनियादी ढांचे पर कीव के हमलों की आलोचना के बाद एलोन मस्क ने यूक्रेन की स्टारलिंक तक पहुंच सीमित कर दी।\nस्रोत: https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-27"
+        },
+        {
+          "prompt": {
+            "en": "In which geographical region did a recent study identify feral dogs as a major threat to vultures?",
+            "hi": "हाल के एक अध्ययन में किस भौगोलिक क्षेत्र में जंगली कुत्तों को गिद्धों के लिए एक बड़े खतरे के रूप में पहचाना गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sundarbans delta",
+                "hi": "सुंदरवन डेल्टा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rann of Kutch",
+                "hi": "कच्छ का रण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Western Ghats",
+                "hi": "पश्चिमी घाट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Thar desert",
+                "hi": "थार रेगिस्तान"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "A study found that feral dogs pose a major threat to vultures in the Thar desert.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece",
+            "hi": "एक अध्ययन में पाया गया कि थार रेगिस्तान में जंगली कुत्ते गिद्धों के लिए एक बड़ा खतरा हैं।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-28"
+        },
+        {
+          "prompt": {
+            "en": "What major political event in Venezuela preceded opposition leader María Machado's return from exile?",
+            "hi": "विपक्षी नेता मारिया मचाडो के निर्वासन से लौटने से पहले वेनेजुएला में कौन सी बड़ी राजनीतिक घटना हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The signing of a bilateral trade pact with the European Union",
+                "hi": "यूरोपीय संघ के साथ द्विपक्षीय व्यापार समझौते पर हस्ताक्षर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The seizure of Venezuelan President Nicolás Maduro by the US government",
+                "hi": "अमेरिकी सरकार द्वारा वेनेजुएला के राष्ट्रपति निकोलस मादुरो की गिरफ्तारी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A nationwide constitutional referendum abolishing the presidency",
+                "hi": "राष्ट्रपति पद को ख़त्म करने वाला एक राष्ट्रव्यापी संवैधानिक जनमत संग्रह"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The complete nationalization of foreign oil extraction assets",
+                "hi": "विदेशी तेल निष्कर्षण परिसंपत्तियों का पूर्ण राष्ट्रीयकरण"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+            "hi": "अमेरिकी सरकार द्वारा वेनेजुएला के राष्ट्रपति निकोलस मादुरो को जब्त करने से ठीक एक महीने पहले मचाडो ने देश छोड़ दिया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-29"
+        },
+        {
+          "prompt": {
+            "en": "What political dynamic is driving the elections in Serbia, as reflected in early turnout reports?",
+            "hi": "सर्बिया में चुनाव को कौन सी राजनीतिक गतिशीलता प्रेरित कर रही है, जैसा कि प्रारंभिक मतदान रिपोर्टों में दर्शाया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A coalition of labor unions demanding immediate accession to NATO",
+                "hi": "श्रमिक संघों का एक गठबंधन नाटो में तत्काल शामिल होने की मांग कर रहा है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A military junta organizing a transition to a parliamentary democracy",
+                "hi": "एक सैन्य जुंटा संसदीय लोकतंत्र में परिवर्तन का आयोजन कर रहा है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A student movement attempting to oust longtime populist leader Aleksandar Vučić",
+                "hi": "एक छात्र आंदोलन जो लंबे समय से लोकलुभावन नेता अलेक्जेंडर वुसिक को हटाने का प्रयास कर रहा है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A referendum called by the ruling party to expand presidential executive powers",
+                "hi": "राष्ट्रपति की कार्यकारी शक्तियों का विस्तार करने के लिए सत्तारूढ़ दल द्वारा जनमत संग्रह बुलाया गया"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Serbia's elections are taking place as a student movement attempts to oust longtime populist leader Aleksandar Vučić.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+            "hi": "सर्बिया के चुनाव एक छात्र आंदोलन के रूप में हो रहे हैं जो लंबे समय से लोकलुभावन नेता अलेक्जेंडर वुसिक को हटाने की कोशिश कर रहा है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-30"
+        },
+        {
+          "prompt": {
+            "en": "How did authorities in Gabon initially justify their eight-month ban on social media access before it was restored?",
+            "hi": "गैबॉन में अधिकारियों ने सोशल मीडिया एक्सेस को बहाल करने से पहले अपने आठ महीने के प्रतिबंध को शुरू में कैसे उचित ठहराया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By citing severe national fiber-optic cable infrastructure damage",
+                "hi": "गंभीर राष्ट्रीय फाइबर-ऑप्टिक केबल बुनियादी ढांचे की क्षति का हवाला देकर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By stating that online content was fuelling conflict",
+                "hi": "यह कहकर कि ऑनलाइन सामग्री संघर्ष को बढ़ावा दे रही है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "By implementing emergency cybersecurity protocols against foreign cyberattacks",
+                "hi": "विदेशी साइबर हमलों के विरुद्ध आपातकालीन साइबर सुरक्षा प्रोटोकॉल लागू करके"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "By enforcing mandatory taxation compliance for digital service providers",
+                "hi": "डिजिटल सेवा प्रदाताओं के लिए अनिवार्य कराधान अनुपालन लागू करके"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Gabon authorities justified the social media ban by asserting that online content was fuelling conflict.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+            "hi": "गैबॉन अधिकारियों ने यह कहकर सोशल मीडिया प्रतिबंध को उचित ठहराया कि ऑनलाइन सामग्री संघर्ष को बढ़ावा दे रही है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-31"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of Apple's new device with which the company is betting to remake the foldable market?",
+            "hi": "Apple के नए डिवाइस का नाम क्या है जिसके साथ कंपनी फोल्डेबल मार्केट का रीमेक बनाने का दांव लगा रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "iPhone Duo",
+                "hi": "आईफोन डुओ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "iPhone Fold Max",
+                "hi": "आईफोन फोल्ड मैक्स"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Apple Flex Pro",
+                "hi": "एप्पल फ्लेक्स प्रो"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "iSlate Dual",
+                "hi": "आईस्लेट डुअल"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Apple is betting on the iPhone Duo to remake the foldable market as sales begin.\nSource: https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece",
+            "hi": "बिक्री शुरू होते ही Apple फोल्डेबल मार्केट का रीमेक बनाने के लिए iPhone Duo पर दांव लगा रहा है।\nस्रोत: https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-27-32"
         }
       ],
       "quarantined": [],
@@ -1671,39 +1671,39 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-10-26T18:00:00+05:30"
+      "release_at": "2026-10-27T18:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "West Graduates’ Constituency: Counting staff told to ensure transparency",
-      "url": "https://www.thehindu.com/news/national/karnataka/west-graduates-constituency-counting-staff-told-to-ensure-transparency/article71620694.ece",
-      "published": "2026-10-25T00:17:06+05:30"
+      "title": "Uttar Pradesh CEO orders reverification of all forms submitted through computer operators",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-ceo-orders-reverification-of-all-forms-submitted-through-computer-operators/article71624427.ece",
+      "published": "2026-10-26T00:12:45+05:30"
     },
     {
-      "title": "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
-      "url": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece",
-      "published": "2026-10-25T00:03:11+05:30"
+      "title": "Kashmiri Pandits flag graveyard en route to Shankaracharya Hill, says ‘cropped up suddenly’",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiri-pandits-flag-graveyard-en-route-to-shankaracharyahill-says-cropped-up-suddenly/article71624129.ece",
+      "published": "2026-10-25T23:56:48+05:30"
     },
     {
-      "title": "Students mark 90th anniversary of Temple Entry Proclamation",
-      "url": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece",
-      "published": "2026-10-25T00:02:54+05:30"
+      "title": "IndiGo, Air India to shift flights to Navi Mumbai as Mumbai airport prepares Terminal 1 redevelopment",
+      "url": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
+      "published": "2026-10-25T19:22:27+05:30"
     },
     {
-      "title": "Tiruvannamalai Corporation sets up 10 temporary shelters for families in Arunachala Hills",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tiruvannamalai-corporation-sets-up-10-temporary-shelters-for-families-in-arunachala-hills/article71620110.ece",
-      "published": "2026-10-24T23:59:05+05:30"
+      "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
+      "url": "https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece",
+      "published": "2026-10-25T16:14:01+05:30"
     },
     {
-      "title": "P.B. Siddhartha College signs MoU with Tech In to enhance students’ employability",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pb-siddhartha-college-signs-mou-with-tech-in-to-enhance-students-employability/article71620721.ece",
-      "published": "2026-10-24T23:54:18+05:30"
+      "title": "Five IPOs to open next week; companies eye close to ₹2,600 crore",
+      "url": "https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece",
+      "published": "2026-10-25T15:13:46+05:30"
     },
     {
-      "title": "Another worker succumbs to injuries in Vellore; cracker unit owner arrested",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece",
-      "published": "2026-10-24T23:53:41+05:30"
+      "title": "FPIs withdraw ₹48,056 cr from equities in October so far amid elevated crude oil prices",
+      "url": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
+      "published": "2026-10-25T13:56:33+05:30"
     },
     {
       "title": "AU Small Finance Bank Q2 profit jumps 53% to 858 crore",
@@ -1711,129 +1711,44 @@
       "published": "2026-10-24T22:23:44+05:30"
     },
     {
-      "title": "IRDAI extends distribution reforms feedback timeline to Oct 31",
-      "url": "https://www.thehindu.com/business/Industry/irdai-extends-distribution-reforms-feedback-timeline-to-oct-31/article71620935.ece",
-      "published": "2026-10-24T21:50:13+05:30"
+      "title": "String theory pioneer Ashoke Sen wins Oskar Klein Medal",
+      "url": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+      "published": "2026-10-25T21:12:18+05:30"
     },
     {
-      "title": "IDFC First Bank Q2 PAT rises 197% to ₹1,045 crore on lower provisions",
-      "url": "https://www.thehindu.com/business/idfc-first-bank-q2-pat-rises-197-to-1045-crore-on-lower-provisions/article71620674.ece",
-      "published": "2026-10-24T20:34:38+05:30"
+      "title": "How people’s genes are revealing why some languages are so unique",
+      "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
+      "published": "2026-10-25T19:39:33+05:30"
     },
     {
-      "title": "Ethanol tender sparks feedstock concerns as rice gains ground over maize",
-      "url": "https://www.thehindu.com/business/Industry/ethanol-tender-sparks-feedstock-concerns-as-rice-gains-ground-over-maize/article71620019.ece",
-      "published": "2026-10-24T18:42:59+05:30"
+      "title": "Feral dogs ‘a major threat’ to vultures in Thar desert, study finds",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece",
+      "published": "2026-10-25T15:01:09+05:30"
     },
     {
-      "title": "Kotak Mahindra Bank Q2 net up 26% on higher income and better asset quality",
-      "url": "https://www.thehindu.com/business/kotak-mahindra-bank-q2-net-up-26-on-higher-income-and-better-asset-quality/article71619693.ece",
-      "published": "2026-10-24T16:41:12+05:30"
+      "title": "Starshield | The non-state sovereigns",
+      "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
+      "published": "2026-10-25T11:59:16+05:30"
     },
     {
-      "title": "Data suggests broad-based increase in food prices: RBI Bulletin",
-      "url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece",
-      "published": "2026-10-24T13:49:33+05:30"
+      "title": "ISRO to have four launch pads by 2029, says Narayanan",
+      "url": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece",
+      "published": "2026-10-25T11:23:44+05:30"
     },
     {
-      "title": "ISRO will not be privatised, says chairperson Narayanan",
-      "url": "https://www.thehindu.com/news/cities/chennai/isro-will-not-be-privatised-says-chairperson-narayanan/article71620020.ece",
-      "published": "2026-10-24T22:00:18+05:30"
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T18:29:00+00:00"
     },
     {
-      "title": "Ashoke Sen becomes first Indian physicist to receive Oskar Klein Medal",
-      "url": "https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece",
-      "published": "2026-10-24T13:48:49+05:30"
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T16:05:15+00:00"
     },
     {
-      "title": "Ariel, Umbriel and the man who made them real",
-      "url": "https://www.thehindu.com/sci-tech/science/ariel-umbriel-and-the-man-who-made-them-real/article71587499.ece",
-      "published": "2026-10-24T10:34:02+05:30"
-    },
-    {
-      "title": "Inadequate sleep increases the risk of fatty liver disease",
-      "url": "https://www.thehindu.com/sci-tech/science/inadequate-sleep-increases-the-risk-of-fatty-liver-disease/article66658540.ece",
-      "published": "2026-10-23T12:50:34+05:30"
-    },
-    {
-      "title": "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
-      "url": "https://www.thehindu.com/sci-tech/health/remembering-rosalind-franklin-whose-photograph-was-crucial-to-discovering-dnas-structure/article70743082.ece",
-      "published": "2026-10-23T11:39:12+05:30"
-    },
-    {
-      "title": "Britain's posh schools are heading to India for students and profits",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T23:02:25+00:00"
-    },
-    {
-      "title": "Rubio turns to small Indian town as US faces high oil prices",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:39:42+00:00"
-    },
-    {
-      "title": "The Indian workers filming their work to train AI",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:04:17+00:00"
-    },
-    {
-      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T23:55:39+00:00"
-    },
-    {
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T14:08:10+00:00"
-    },
-    {
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:06:37+00:00"
-    },
-    {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T00:05:45+00:00"
-    },
-    {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T00:36:47+00:00"
-    },
-    {
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T11:48:04+00:00"
-    },
-    {
-      "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T18:26:46+00:00"
-    },
-    {
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T10:04:29+00:00"
-    },
-    {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T12:12:40+00:00"
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T17:21:42+00:00"
-    },
-    {
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T15:21:44+00:00"
-    },
-    {
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T22:47:07+00:00"
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T14:39:47+00:00"
     }
   ]
 }
