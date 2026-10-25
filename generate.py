@@ -25,12 +25,38 @@ ROOT = Path(__file__).parent
 MODEL = os.environ.get('VERTEX_MODEL', 'gemini-3.5-flash-lite')
 FALLBACK_MODELS = tuple(
     m.strip()
-    for m in os.environ.get('VERTEX_FALLBACK_MODELS', 'gemini-2.5-flash,gemini-2.5-flash-lite').split(',')
+    for m in os.environ.get(
+        'VERTEX_FALLBACK_MODELS',
+        'gemini-3.7-flash,gemini-3-flash-preview,gemini-3.8-flash,gemini-3.7-flash-lite,gemini-2.5-flash,gemini-2.5-flash-lite,gemini-2.5-pro',
+    ).split(',')
     if m.strip() and m.strip() != MODEL
 )
 VERTEX_PROJECT = os.environ.get('VERTEX_PROJECT', 'project-2af1ec64-67d0-4b99-b40')
 VERTEX_LOCATION = os.environ.get('VERTEX_LOCATION', 'global')
 KOLKATA = ZoneInfo('Asia/Kolkata')
+
+
+def _resolve_models_to_try(root=ROOT):
+    """Return ordered (primary, *fallbacks), respecting state/model_config.json when present."""
+    cfg_path = root / 'state' / 'model_config.json'
+    if cfg_path.is_file() and 'VERTEX_MODEL' not in os.environ:
+        try:
+            cfg = json.loads(cfg_path.read_text(encoding='utf-8'))
+            primary = str(cfg.get('primary_model') or '').removeprefix('google/').strip()
+            fallbacks = [
+                str(m).removeprefix('google/').strip()
+                for m in (cfg.get('fallback_models') or [])
+                if str(m).strip()
+            ]
+            ordered = []
+            for m in ([primary] if primary else []) + fallbacks + [MODEL] + list(FALLBACK_MODELS):
+                if m and m not in ordered:
+                    ordered.append(m)
+            if ordered:
+                return tuple(ordered)
+        except Exception:
+            pass
+    return (MODEL,) + FALLBACK_MODELS
 
 
 @contextmanager
@@ -826,7 +852,7 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
     body = {'contents':[{'role':'user','parts':[{'text':prompt}]}], 'generationConfig':{
         'responseMimeType':'application/json', 'maxOutputTokens':24000, 'temperature':0.3}}
     attempt = claim_generation(edition_date, root)
-    models_to_try = (MODEL,) + FALLBACK_MODELS
+    models_to_try = _resolve_models_to_try(root)
     result = None
     last_http_error = None
     for idx, candidate_model in enumerate(models_to_try):
