@@ -1,574 +1,625 @@
 {
   "schema_version": 2,
-  "date": "2026-10-29",
-  "generated_at": "2026-10-27T19:11:15.551248+00:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-26T19:42:08.646645+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
     {
       "title": "Set 1: National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-10-29.json",
+      "source_filename": "daily-2026-10-28.json",
       "questions": [
         {
           "prompt": {
-            "en": "At which specific annual conference did the RBI Governor advise state representatives to adopt prudent borrowing strategies?",
-            "hi": "किस विशिष्ट वार्षिक सम्मेलन में RBI गवर्नर ने राज्य प्रतिनिधियों को विवेकपूर्ण उधार रणनीतियाँ अपनाने की सलाह दी?"
+            "en": "According to recent reports, the Tamil Nadu government amended which administrative rules to relax height restrictions on non-high rise buildings?",
+            "hi": "हाल की रिपोर्टों के अनुसार, तमिलनाडु सरकार ने गैर-ऊँची इमारतों पर ऊंचाई प्रतिबंधों में ढील देने के लिए किस प्रशासनिक नियम में संशोधन किया है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The Annual Reserve Bank State Planning Forum",
-                "hi": "वार्षिक रिज़र्व बैंक राज्य योजना फोरम"
+                "en": "The Tamil Nadu Municipal Corporation Building Rules, 2021",
+                "hi": "तमिलनाडु नगर निगम भवन नियम, 2021"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The 40th National Economic Development Conclave",
-                "hi": "40वां राष्ट्रीय आर्थिक विकास सम्मेलन"
+                "en": "The Tamil Nadu Urban Habitats and Building Regulations, 2020",
+                "hi": "तमिलनाडु शहरी आवास और भवन विनियम, 2020"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The 30th State Banking and Treasury Summit",
-                "hi": "30वां राज्य बैंकिंग और ट्रेजरी शिखर सम्मेलन"
+                "en": "The Chennai Metropolitan Urban Land Regulation Rules, 2018",
+                "hi": "चेन्नई महानगर शहरी भूमि विनियमन नियम, 2018"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The 36th Conference of State Finance Secretaries",
-                "hi": "राज्य वित्त सचिवों का 36वां सम्मेलन"
+                "en": "The Tamil Nadu Combined Development and Building Rules, 2019",
+                "hi": "तमिलनाडु संयुक्त विकास और भवन नियम, 2019"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The RBI Governor addressed the state finance secretaries during the 36th Conference of State Finance Secretaries, advising them on financial prudence.\nSource: https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece",
-            "hi": "आरबीआई गवर्नर ने राज्यों के वित्त सचिवों के 36वें सम्मेलन के दौरान राज्य के वित्त सचिवों को संबोधित किया और उन्हें वित्तीय समझदारी पर सलाह दी।\nस्रोत: https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece"
+            "en": "The State government amended the Tamil Nadu Combined Development and Building Rules, 2019, to alter the height restrictions for non-high rise structures.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece",
+            "hi": "राज्य सरकार ने गैर-ऊंची इमारतों के लिए ऊंचाई प्रतिबंधों को बदलने के लिए तमिलनाडु संयुक्त विकास और भवन नियम, 2019 में संशोधन किया।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-1"
+          "id": "2026-10-28-1"
         },
         {
           "prompt": {
-            "en": "Besides advising on prudent borrowing, what specific institutional forum did the RBI Governor ask states to utilize effectively?",
-            "hi": "विवेकपूर्ण उधार लेने की सलाह देने के अलावा, आरबीआई गवर्नर ने राज्यों को किस विशिष्ट संस्थागत मंच का प्रभावी ढंग से उपयोग करने के लिए कहा?"
+            "en": "To what new height limit have non-high rise buildings been relaxed under the amended Tamil Nadu rules?",
+            "hi": "संशोधित तमिलनाडु नियमों के तहत गैर-ऊंची इमारतों को किस नई ऊंचाई सीमा तक छूट दी गई है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The National Development Council (NDC)",
-                "hi": "राष्ट्रीय विकास परिषद (एनडीसी)"
+                "en": "20.2 metres",
+                "hi": "20.2 मीटर"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The State Level Bankers’ Committee (SLBC) forum",
-                "hi": "राज्य स्तरीय बैंकर्स समिति (एसएलबीसी) फोरम"
+                "en": "21.0 metres",
+                "hi": "21.0 मीटर"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The NITI Aayog Governing Council",
-                "hi": "नीति आयोग गवर्निंग काउंसिल"
+                "en": "18.5 metres",
+                "hi": "18.5 मीटर"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The Inter-State Council Secretariat",
-                "hi": "अंतर-राज्य परिषद सचिवालय"
+                "en": "19.5 metres",
+                "hi": "19.5 मीटर"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The height restriction on non-high rise buildings was specifically relaxed from 18.3 metres to 19.5 metres by the State government.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece",
+            "hi": "राज्य सरकार द्वारा गैर-ऊंची इमारतों पर ऊंचाई प्रतिबंध को विशेष रूप से 18.3 मीटर से घटाकर 19.5 मीटर कर दिया गया था।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-2"
+        },
+        {
+          "prompt": {
+            "en": "How many districts out of the total in Andhra Pradesh were issued red alerts by the IMD as cyclone 'Arnab' approached?",
+            "hi": "चक्रवात 'अर्नब' के निकट आते ही आईएमडी द्वारा आंध्र प्रदेश के कुल कितने जिलों में रेड अलर्ट जारी किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Five districts out of 26",
+                "hi": "26 में से पांच जिले"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Seven of the 28 districts",
+                "hi": "28 जिलों में से सात"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Ten of the 25 districts",
+                "hi": "25 जिलों में से दस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Fourteen of the 30 districts",
+                "hi": "30 जिलों में से चौदह"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The governor specifically advised states to make effective use of the State Level Bankers’ Committee (SLBC) forum during his address.\nSource: https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece",
-            "hi": "राज्यपाल ने अपने संबोधन के दौरान राज्यों को विशेष रूप से राज्य स्तरीय बैंकर्स समिति (एसएलबीसी) फोरम का प्रभावी उपयोग करने की सलाह दी।\nस्रोत: https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece"
+            "en": "The IMD issued red alerts specifically for seven of the 28 districts in Andhra Pradesh in anticipation of the approaching weather system.\nSource: https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
+            "hi": "आईएमडी ने आगामी मौसम प्रणाली की आशंका में विशेष रूप से आंध्र प्रदेश के 28 जिलों में से सात के लिए रेड अलर्ट जारी किया।\nस्रोत: https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece",
+          "source_label": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-2"
+          "id": "2026-10-28-3"
         },
         {
           "prompt": {
-            "en": "Regarding the high-speed rail project in Keralam, what reason did technocrat Sreedharan give for telling the government to ignore the technical panel's objections?",
-            "hi": "केरलम में हाई-स्पीड रेल परियोजना के संबंध में टेक्नोक्रेट श्रीधरन ने सरकार को तकनीकी पैनल की आपत्तियों को नजरअंदाज करने के लिए क्या कारण बताया?"
+            "en": "In the ongoing investigation regarding the Tiger Shroff firing case, what specific communication channel and evidence elements is the Mumbai Crime Branch trying to trace?",
+            "hi": "टाइगर श्रॉफ फायरिंग मामले को लेकर चल रही जांच में मुंबई क्राइम ब्रांच किस विशिष्ट संचार माध्यम और साक्ष्य तत्वों का पता लगाने की कोशिश कर रही है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The panel members had conflicts of interest with rival contractors",
-                "hi": "पैनल के सदस्यों का प्रतिद्वंद्वी ठेकेदारों के साथ हितों का टकराव था"
+                "en": "Telegram chats and international hawala channels",
+                "hi": "टेलीग्राम चैट और अंतर्राष्ट्रीय हवाला चैनल"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The panel failed to account for environmental compliance laws",
-                "hi": "पैनल पर्यावरण अनुपालन कानूनों का हिसाब देने में विफल रहा"
+                "en": "WhatsApp encrypted backups and offshore crypto wallets",
+                "hi": "व्हाट्सएप एन्क्रिप्टेड बैकअप और ऑफशोर क्रिप्टो वॉलेट"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The financial cost estimates were inflated by international consultants",
-                "hi": "वित्तीय लागत अनुमान अंतरराष्ट्रीय सलाहकारों द्वारा बढ़ा-चढ़ाकर पेश किए गए थे"
+                "en": "Signal communications, weapon supply, and local support network",
+                "hi": "सिग्नल संचार, हथियार आपूर्ति और स्थानीय सहायता नेटवर्क"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The panel did not study the proposal properly",
-                "hi": "पैनल ने प्रस्ताव का ठीक से अध्ययन नहीं किया"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Sreedharan stated that the technical panel did not study the proposal properly, hence why the Keralam government should ignore their objections.\nSource: https://www.thehindu.com/news/national/kerala/sreedharan-tells-keralam-govt-to-ignore-technical-panels-objections-over-high-speed-rail-project/article71632175.ece",
-            "hi": "श्रीधरन ने कहा कि तकनीकी पैनल ने प्रस्ताव का ठीक से अध्ययन नहीं किया, इसलिए केरल सरकार को उनकी आपत्तियों को क्यों नजरअंदाज करना चाहिए।\nस्रोत: https://www.thehindu.com/news/national/kerala/sreedharan-tells-keralam-govt-to-ignore-technical-panels-objections-over-high-speed-rail-project/article71632175.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/sreedharan-tells-keralam-govt-to-ignore-technical-panels-objections-over-high-speed-rail-project/article71632175.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-3"
-        },
-        {
-          "prompt": {
-            "en": "According to the announcement by the Highways Department regarding the linking of OMR and ECR, within what timeframe must the Detailed Project Report (DPR) be prepared?",
-            "hi": "ओएमआर और ईसीआर को जोड़ने के संबंध में राजमार्ग विभाग की घोषणा के अनुसार, विस्तृत परियोजना रिपोर्ट (डीपीआर) किस समय सीमा के भीतर तैयार की जानी चाहिए?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Within six months",
-                "hi": "छह महीने के भीतर"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Within one year",
-                "hi": "एक साल के अंदर"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The DPR has to be prepared in three months",
-                "hi": "तीन माह में डीपीआर तैयार करना है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Within 45 days",
-                "hi": "45 दिनों के भीतर"
+                "en": "Email servers, dark web forums, and physical postal mail",
+                "hi": "ईमेल सर्वर, डार्क वेब फ़ोरम और भौतिक डाक मेल"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The Highways Department called for consultants to prepare a DPR for linking OMR and ECR, stipulating that it has to be prepared in three months.\nSource: https://www.thehindu.com/news/cities/chennai/highways-dept-calls-for-consultants-to-prepare-dpr-on-linking-omr-ecr/article71632390.ece",
-            "hi": "राजमार्ग विभाग ने ओएमआर और ईसीआर को जोड़ने के लिए डीपीआर तैयार करने के लिए सलाहकारों को बुलाया, जिसमें कहा गया कि इसे तीन महीने में तैयार करना होगा।\nस्रोत: https://www.thehindu.com/news/cities/chennai/highways-dept-calls-for-consultants-to-prepare-dpr-on-linking-omr-ecr/article71632390.ece"
+            "en": "The Mumbai Crime Branch's investigation focuses on tracing the weapon supply, Signal communications, and local support network related to the case.\nSource: https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+            "hi": "मुंबई क्राइम ब्रांच की जांच मामले से संबंधित हथियार आपूर्ति, सिग्नल संचार और स्थानीय सहायता नेटवर्क का पता लगाने पर केंद्रित है।\nस्रोत: https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/cities/chennai/highways-dept-calls-for-consultants-to-prepare-dpr-on-linking-omr-ecr/article71632390.ece",
+          "source_label": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-4"
+          "id": "2026-10-28-4"
         },
         {
           "prompt": {
-            "en": "In the report regarding three missing girls in Tiruvannamalai, what did police note about the living situation of the parents?",
-            "hi": "तिरुवन्नामलाई में तीन लापता लड़कियों के संबंध में रिपोर्ट में, पुलिस ने माता-पिता की रहने की स्थिति के बारे में क्या नोट किया?"
+            "en": "What specific penalty and finding was levied against Britannia by the Central Consumer Protection Authority (CCPA)?",
+            "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (सीसीपीए) द्वारा ब्रिटानिया के खिलाफ क्या विशिष्ट जुर्माना और निष्कर्ष लगाया गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The parents operated a retail business in the neighboring state of Karnataka",
-                "hi": "माता-पिता पड़ोसी राज्य कर्नाटक में खुदरा व्यवसाय संचालित करते थे"
+                "en": "A fine of ₹1 lakh over '100% whole wheat bread' claim where the product contains only 62% wheat",
+                "hi": "'100% साबुत गेहूं की ब्रेड' के दावे पर ₹1 लाख का जुर्माना, जहां उत्पाद में केवल 62% गेहूं है"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The parents were permanently settled abroad for corporate employment",
-                "hi": "माता-पिता कॉर्पोरेट रोजगार के लिए स्थायी रूप से विदेश में बस गए थे"
+                "en": "A fine of ₹5 lakhs for mislabeling multigrain bread content",
+                "hi": "मल्टीग्रेन ब्रेड सामग्री पर गलत लेबल लगाने पर ₹5 लाख का जुर्माना"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The parents were employed locally within the district administration",
-                "hi": "माता-पिता जिला प्रशासन के भीतर स्थानीय स्तर पर कार्यरत थे"
+                "en": "A permanent ban on producing wheat-based bakery products",
+                "hi": "गेहूं आधारित बेकरी उत्पादों के उत्पादन पर स्थायी प्रतिबंध"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The parents stayed in Kerala for work as wage labourers, visiting home occasionally",
-                "hi": "माता-पिता मजदूरी के लिए केरल में रहे और कभी-कभार घर आते थे"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The police report highlighted that the girls' parents stayed in Kerala for work as wage labourers and visited home occasionally.\nSource: https://www.thehindu.com/news/national/tamil-nadu/three-girls-missing-in-tiruvannamalai/article71632323.ece",
-            "hi": "पुलिस रिपोर्ट में इस बात पर प्रकाश डाला गया कि लड़कियों के माता-पिता मजदूरी के लिए केरल में रहते थे और कभी-कभार घर आते थे।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/three-girls-missing-in-tiruvannamalai/article71632323.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/three-girls-missing-in-tiruvannamalai/article71632323.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-5"
-        },
-        {
-          "prompt": {
-            "en": "During the disruptions caused by Cyclone Arnab, how much rainfall did Visakhapatnam district record between 8:30 a.m. and 9 p.m.?",
-            "hi": "चक्रवात अर्नब के कारण हुए व्यवधान के दौरान, विशाखापत्तनम जिले में सुबह 8:30 बजे से रात 9 बजे के बीच कितनी वर्षा दर्ज की गई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "75.2 mm of rain",
-                "hi": "75.2 मिमी बारिश"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "98.4 mm of rain",
-                "hi": "98.4 मिमी बारिश"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "210.5 mm of rain",
-                "hi": "210.5 मिमी बारिश"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "147.9 mm of rain",
-                "hi": "147.9 मिमी बारिश हुई"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Visakhapatnam district received 147.9 mm of rain between 8.30 a.m. and 9 p.m. as heavy rain brought the city to a standstill.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-heavy-rain-brings-vizag-to-standstill-civic-agencies-on-high-alert/article71632812.ece",
-            "hi": "विशाखापत्तनम जिले में सुबह 8.30 बजे से रात 9 बजे के बीच 147.9 मिमी बारिश हुई। भारी बारिश के कारण शहर थम गया।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-heavy-rain-brings-vizag-to-standstill-civic-agencies-on-high-alert/article71632812.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-heavy-rain-brings-vizag-to-standstill-civic-agencies-on-high-alert/article71632812.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-6"
-        },
-        {
-          "prompt": {
-            "en": "What wind speed range was forecast for Cyclone Arnab as it prepared to make landfall on the Andhra Pradesh coast?",
-            "hi": "चक्रवात अर्नब के लिए किस हवा की गति सीमा का अनुमान लगाया गया था क्योंकि यह आंध्र प्रदेश तट पर भूस्खलन करने के लिए तैयार था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "80–90 km/h",
-                "hi": "80-90 किमी/घंटा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "95–110 km/h",
-                "hi": "95-110 किमी/घंटा"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "160–180 km/h",
-                "hi": "160-180 किमी/घंटा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "125–135 km/h",
-                "hi": "125-135 किमी/घंटा"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Cyclone Arnab was forecast to intensify into a very severe cyclone with wind speeds of 125–135 km/h upon making landfall on the Andhra Pradesh coast.\nSource: https://www.thehindu.com/news/national/cyclone-arnab-civil-aviation-ministry-reviews-situation-to-ensure-safety-of-flight-operations/article71633204.ece",
-            "hi": "अनुमान लगाया गया था कि चक्रवात अर्नब आंध्र प्रदेश तट पर टकराने पर 125-135 किमी/घंटा की हवा की गति के साथ एक बहुत गंभीर चक्रवात में बदल जाएगा।\nस्रोत: https://www.thehindu.com/news/national/cyclone-arnab-civil-aviation-ministry-reviews-situation-to-ensure-safety-of-flight-operations/article71633204.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/cyclone-arnab-civil-aviation-ministry-reviews-situation-to-ensure-safety-of-flight-operations/article71633204.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-7"
-        },
-        {
-          "prompt": {
-            "en": "According to live updates on Cyclone Arnab, what maximum gust speed was expected as the cyclone crossed the coast on Wednesday?",
-            "hi": "चक्रवात अर्नब पर लाइव अपडेट के अनुसार, बुधवार को चक्रवात के तट पार करते समय अधिकतम झोंके की गति कितनी होने की उम्मीद थी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "110 kmph",
-                "hi": "110 किमी प्रति घंटा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "180 kmph",
-                "hi": "180 किमी प्रति घंटा"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "135 kmph",
-                "hi": "135 किमी प्रति घंटा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "150 kmph",
-                "hi": "150 किमी प्रति घंटा"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The updates indicated that winds could gust up to 150 kmph as Cyclone Arnab crosses the coast on Wednesday.\nSource: https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-            "hi": "अपडेट से संकेत मिलता है कि बुधवार को चक्रवात अर्नब के तट पार करने पर 150 किमी प्रति घंटे की रफ्तार से हवाएं चल सकती हैं।\nस्रोत: https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-8"
-        },
-        {
-          "prompt": {
-            "en": "At which event did IRDAI official Ajay Seth state that the regulator will work to expedite health policy claims?",
-            "hi": "IRDAI के अधिकारी अजय सेठ ने किस कार्यक्रम में कहा कि नियामक स्वास्थ्य नीति दावों में तेजी लाने के लिए काम करेगा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The FICCI Annual General Meeting and Financial Summit",
-                "hi": "फिक्की की वार्षिक आम बैठक और वित्तीय शिखर सम्मेलन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The National Insurance and Pension Regulatory Conclave",
-                "hi": "राष्ट्रीय बीमा और पेंशन नियामक कॉन्क्लेव"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The annual Business Standard BFSI Insights Summit",
-                "hi": "वार्षिक बिजनेस स्टैंडर्ड बीएफएसआई इनसाइट्स शिखर सम्मेलन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The Reserve Bank of India Financial Stability Conference",
-                "hi": "भारतीय रिज़र्व बैंक वित्तीय स्थिरता सम्मेलन"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Ajay Seth made the statement regarding expediting health policy claims while speaking at the annual Business Standard BFSI Insights Summit.\nSource: https://www.thehindu.com/business/Industry/irdai-to-implement-distribution-reforms-only-after-consensus-ajay-seth/article71633033.ece",
-            "hi": "अजय सेठ ने वार्षिक बिजनेस स्टैंडर्ड बीएफएसआई इनसाइट्स शिखर सम्मेलन में बोलते हुए स्वास्थ्य नीति दावों में तेजी लाने के संबंध में बयान दिया।\nस्रोत: https://www.thehindu.com/business/Industry/irdai-to-implement-distribution-reforms-only-after-consensus-ajay-seth/article71633033.ece"
-          },
-          "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/Industry/irdai-to-implement-distribution-reforms-only-after-consensus-ajay-seth/article71633033.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-9"
-        },
-        {
-          "prompt": {
-            "en": "According to Ajay Seth, under what specific condition will IRDAI proceed to implement distribution reforms?",
-            "hi": "अजय सेठ के अनुसार, किस विशिष्ट स्थिति में IRDAI वितरण सुधारों को लागू करने के लिए आगे बढ़ेगा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Only after consensus is reached",
-                "hi": "सहमति बनने के बाद ही"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Immediately following the conclusion of the fiscal quarter",
-                "hi": "वित्तीय तिमाही के समापन के तुरंत बाद"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Upon receiving directives from the parliamentary standing committee",
-                "hi": "संसदीय स्थायी समिति से निर्देश प्राप्त होने पर"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "After mandatory international actuarial auditing",
-                "hi": "अनिवार्य अंतर्राष्ट्रीय बीमांकिक ऑडिटिंग के बाद"
+                "en": "A penalty of ₹10 lakhs for misleading nutritional supplement advertisements",
+                "hi": "भ्रामक पोषण अनुपूरक विज्ञापनों पर ₹10 लाख का जुर्माना"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "Ajay Seth clarified that IRDAI will implement distribution reforms only after consensus is reached among stakeholders.\nSource: https://www.thehindu.com/business/Industry/irdai-to-implement-distribution-reforms-only-after-consensus-ajay-seth/article71633033.ece",
-            "hi": "अजय सेठ ने स्पष्ट किया कि IRDAI हितधारकों के बीच आम सहमति बनने के बाद ही वितरण सुधारों को लागू करेगा।\nस्रोत: https://www.thehindu.com/business/Industry/irdai-to-implement-distribution-reforms-only-after-consensus-ajay-seth/article71633033.ece"
+            "en": "The CCPA penalized Britannia ₹1 lakh because their product claimed to be 100% whole wheat bread while actually containing only 62% wheat.\nSource: https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
+            "hi": "सीसीपीए ने ब्रिटानिया पर ₹1 लाख का जुर्माना लगाया क्योंकि उनके उत्पाद में 100% साबुत गेहूं की ब्रेड होने का दावा किया गया था जबकि वास्तव में इसमें केवल 62% गेहूं था।\nस्रोत: https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/Industry/irdai-to-implement-distribution-reforms-only-after-consensus-ajay-seth/article71633033.ece",
+          "source_label": "https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-10"
+          "id": "2026-10-28-5"
         },
         {
           "prompt": {
-            "en": "According to ratings agency Icra, what trend is expected to persist in private sector banks during the second half of FY27?",
-            "hi": "रेटिंग एजेंसी इक्रा के अनुसार, FY27 की दूसरी छमाही के दौरान निजी क्षेत्र के बैंकों में क्या रुझान बने रहने की उम्मीद है?"
+            "en": "Within how many days was Britannia asked to submit a compliance report following the CCPA order?",
+            "hi": "CCPA आदेश के बाद ब्रिटानिया को कितने दिनों के भीतर अनुपालन रिपोर्ट प्रस्तुत करने के लिए कहा गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "A sharp contraction in retail credit disbursements across all tiers",
-                "hi": "सभी स्तरों पर खुदरा ऋण वितरण में तीव्र संकुचन"
+                "en": "30 days",
+                "hi": "30 दिन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "A complete freeze on corporate lending portfolios",
-                "hi": "कॉर्पोरेट ऋण पोर्टफोलियो पर पूर्ण रोक"
+                "en": "7 days",
+                "hi": "7 दिन"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Unprecedented spikes in operational expenditure and credit costs",
-                "hi": "परिचालन व्यय और ऋण लागत में अभूतपूर्व वृद्धि"
+                "en": "15 days",
+                "hi": "15 दिन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Relatively higher loan slippages",
-                "hi": "अपेक्षाकृत अधिक ऋण फिसलन"
+                "en": "48 hours",
+                "hi": "48 घंटे"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The regulatory directive required Britannia to submit its compliance report within 15 days of the penalty order.\nSource: https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
+            "hi": "नियामक निर्देश के तहत ब्रिटानिया को जुर्माना आदेश के 15 दिनों के भीतर अपनी अनुपालन रिपोर्ट जमा करने की आवश्यकता थी।\nस्रोत: https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-6"
+        },
+        {
+          "prompt": {
+            "en": "According to analyses surrounding the implementation of the DPDP Act in healthcare, what must the government build and sustain to ensure compliance and better patient access?",
+            "hi": "स्वास्थ्य देखभाल में डीपीडीपी अधिनियम के कार्यान्वयन के आसपास के विश्लेषणों के अनुसार, अनुपालन और बेहतर रोगी पहुंच सुनिश्चित करने के लिए सरकार को क्या बनाना और बनाए रखना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An ecosystem that allows every health worker to comply and patients to access care",
+                "hi": "एक पारिस्थितिकी तंत्र जो प्रत्येक स्वास्थ्य कार्यकर्ता को अनुपालन करने और रोगियों को देखभाल तक पहुंचने की अनुमति देता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A centralized commercial data marketplace for pharmaceutical giants",
+                "hi": "फार्मास्युटिकल दिग्गजों के लिए एक केंद्रीकृत वाणिज्यिक डेटा बाज़ार"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mandatory arbitration cells inside private corporate hospitals",
+                "hi": "निजी कॉर्पोरेट अस्पतालों के अंदर अनिवार्य मध्यस्थता कक्ष"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A paper-based record-keeping protocol bypassing digital networks",
+                "hi": "डिजिटल नेटवर्क को दरकिनार करते हुए एक कागज-आधारित रिकॉर्ड-कीपिंग प्रोटोकॉल"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The government needs to finance, build, and sustain an ecosystem enabling health workers to comply under the DPDP Act while facilitating patient care access.\nSource: https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+            "hi": "सरकार को एक ऐसे पारिस्थितिकी तंत्र को वित्तपोषित करने, निर्माण करने और बनाए रखने की आवश्यकता है जो स्वास्थ्य कार्यकर्ताओं को रोगी देखभाल पहुंच की सुविधा प्रदान करते हुए डीपीडीपी अधिनियम के तहत अनुपालन करने में सक्षम बनाए।\nस्रोत: https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-7"
+        },
+        {
+          "prompt": {
+            "en": "Why do experts argue that simply passing the DPDP Act and waiting for complaints or litigation is insufficient in the current digital landscape?",
+            "hi": "विशेषज्ञ यह तर्क क्यों देते हैं कि केवल डीपीडीपी अधिनियम पारित करना और शिकायतों या मुकदमे की प्रतीक्षा करना वर्तमान डिजिटल परिदृश्य में अपर्याप्त है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because user data is routinely commoditised today and requires active ecosystem support",
+                "hi": "क्योंकि उपयोगकर्ता डेटा को आज नियमित रूप से कमोडिटाइज़ किया जाता है और इसके लिए सक्रिय पारिस्थितिकी तंत्र समर्थन की आवश्यकता होती है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because courts lack jurisdiction over digital medical records",
+                "hi": "क्योंकि अदालतों के पास डिजिटल मेडिकल रिकॉर्ड पर अधिकार क्षेत्र का अभाव है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because all medical records are currently stored exclusively in foreign jurisdictions",
+                "hi": "क्योंकि सभी मेडिकल रिकॉर्ड वर्तमान में विशेष रूप से विदेशी न्यायालयों में संग्रहीत हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Because clinical staff are legally exempt from data privacy protocols",
+                "hi": "क्योंकि क्लिनिकल स्टाफ को कानूनी तौर पर डेटा गोपनीयता प्रोटोकॉल से छूट प्राप्त है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Passive reliance on complaints or litigation fails because user data is routinely commoditised, demanding active government intervention and support.\nSource: https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+            "hi": "शिकायतों या मुकदमेबाजी पर निष्क्रिय निर्भरता विफल हो जाती है क्योंकि उपयोगकर्ता डेटा को नियमित रूप से कमोडिटीज़ किया जाता है, जो सक्रिय सरकारी हस्तक्षेप और समर्थन की मांग करता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-8"
+        },
+        {
+          "prompt": {
+            "en": "How are online restrictions affecting Indian cartoonists according to recent reports?",
+            "hi": "हालिया रिपोर्टों के अनुसार ऑनलाइन प्रतिबंध भारतीय कार्टूनिस्टों को कैसे प्रभावित कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They have resulted in the complete shutdown of independent social media accounts",
+                "hi": "इसके परिणामस्वरूप स्वतंत्र सोशल मीडिया अकाउंट पूरी तरह से बंद हो गए हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They have completely eradicated political commentary across digital platforms",
+                "hi": "उन्होंने डिजिटल प्लेटफॉर्म पर राजनीतिक टिप्पणियों को पूरी तरह से खत्म कर दिया है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have forced all cartoonists to migrate to print-only publications",
+                "hi": "उन्होंने सभी कार्टूनिस्टों को केवल प्रिंट वाले प्रकाशनों की ओर पलायन करने के लिए मजबूर कर दिया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are making satire harder",
+                "hi": "वे व्यंग्य को कठिन बना रहे हैं"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "Icra projected that the trend of relatively higher loan slippages at private sector banks would continue in the second half of FY27.\nSource: https://www.thehindu.com/business/fresh-bad-loan-generation-may-rise-in-fy27-private-banks-face-greater-pressure-report/article71632935.ece",
-            "hi": "इक्रा ने अनुमान लगाया कि वित्त वर्ष 2027 की दूसरी छमाही में निजी क्षेत्र के बैंकों में अपेक्षाकृत अधिक ऋण फिसलन की प्रवृत्ति जारी रहेगी।\nस्रोत: https://www.thehindu.com/business/fresh-bad-loan-generation-may-rise-in-fy27-private-banks-face-greater-pressure-report/article71632935.ece"
+            "en": "Online restrictions have increased the operational difficulty of creating satire, though practitioners continue their work.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+            "hi": "ऑनलाइन प्रतिबंधों ने व्यंग्य रचना की परिचालन कठिनाई को बढ़ा दिया है, हालांकि अभ्यासकर्ता अपना काम जारी रखते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/fresh-bad-loan-generation-may-rise-in-fy27-private-banks-face-greater-pressure-report/article71632935.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-11"
+          "id": "2026-10-28-9"
+        },
+        {
+          "prompt": {
+            "en": "What primary socioeconomic factor in India is driving elite British schools to expand their presence in the country?",
+            "hi": "भारत में कौन सा प्राथमिक सामाजिक-आर्थिक कारक कुलीन ब्रिटिश स्कूलों को देश में अपनी उपस्थिति बढ़ाने के लिए प्रेरित कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Free land grants provided by municipal corporations",
+                "hi": "नगर निगमों द्वारा निःशुल्क भूमि अनुदान प्रदान किया जाता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mandatory government subsidies for foreign educational institutions",
+                "hi": "विदेशी शिक्षण संस्थानों के लिए अनिवार्य सरकारी सब्सिडी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A sharp decline in domestic educational enrollment rates",
+                "hi": "घरेलू शैक्षिक नामांकन दरों में भारी गिरावट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A boom in its wealthy population",
+                "hi": "इसकी धनी आबादी में उछाल"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Elite British schools are pursuing growth in India to capitalize on the boom in its wealthy population.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+            "hi": "संभ्रांत ब्रिटिश स्कूल भारत में अपनी समृद्ध आबादी में वृद्धि का लाभ उठाने के लिए विकास का प्रयास कर रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-10"
+        },
+        {
+          "prompt": {
+            "en": "Which political figure is urging the energy secretary to approve the controversial plans regarding the Rosebank oil field?",
+            "hi": "कौन सी राजनीतिक हस्ती ऊर्जा सचिव से रोज़बैंक तेल क्षेत्र के संबंध में विवादास्पद योजनाओं को मंजूरी देने का आग्रह कर रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Energy minister Alex Salmond",
+                "hi": "ऊर्जा मंत्री एलेक्स सैल्मंड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chancellor John Healey",
+                "hi": "चांसलर जॉन हीली"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Prime Minister Keir Starmer",
+                "hi": "प्रधान मंत्री कीर स्टार्मर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Scottish Labour leader Michael Marra",
+                "hi": "स्कॉटिश लेबर नेता माइकल मार्रा"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Scottish Labour leader Michael Marra is pushing the energy secretary for the approval of the Rosebank oil field project.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+            "hi": "स्कॉटिश लेबर नेता माइकल मार्रा रोज़बैंक तेल क्षेत्र परियोजना की मंजूरी के लिए ऊर्जा सचिव पर दबाव डाल रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-11"
+        },
+        {
+          "prompt": {
+            "en": "What reason did Maurene Comey cite for believing she was illegally let go from her position as a federal prosecutor?",
+            "hi": "मॉरीन कोमी ने यह मानने के लिए क्या कारण बताया कि उन्हें संघीय अभियोजक के रूप में उनके पद से अवैध रूप से जाने दिया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Budgetary cutbacks implemented across the Department of Justice",
+                "hi": "न्याय विभाग में बजटीय कटौती लागू की गई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because her father is the former FBI director",
+                "hi": "क्योंकि उनके पिता एफबीआई के पूर्व निदेशक हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A conflict of interest regarding a high-profile corporate trial",
+                "hi": "एक हाई-प्रोफ़ाइल कॉर्पोरेट परीक्षण के संबंध में हितों का टकराव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Failure to meet internal case-closure quotas",
+                "hi": "आंतरिक केस-क्लोजर कोटा पूरा करने में विफलता"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Maurene Comey believes her termination from the federal prosecutor role was politically or personally motivated because her father is former FBI director James Comey.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+            "hi": "मॉरीन कोमी का मानना है कि संघीय अभियोजक की भूमिका से उनकी बर्खास्तगी राजनीतिक या व्यक्तिगत रूप से प्रेरित थी क्योंकि उनके पिता एफबीआई के पूर्व निदेशक जेम्स कॉमी हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-12"
         }
       ],
       "quarantined": [],
@@ -576,572 +627,572 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-10-29T06:30:00+05:30"
+      "release_at": "2026-10-28T06:30:00+05:30"
     },
     {
       "title": "Set 2: Economy, Business & Finance",
-      "source_filename": "daily-2026-10-29.json",
+      "source_filename": "daily-2026-10-28.json",
       "questions": [
         {
           "prompt": {
-            "en": "What percentage of L&T's consolidated order book as of September 30, 2026, was accounted for by international orders?",
-            "hi": "30 सितंबर, 2026 तक एलएंडटी की समेकित ऑर्डर बुक का कितना प्रतिशत अंतरराष्ट्रीय ऑर्डरों से आया था?"
+            "en": "By what percentage was Value Added Tax (VAT) on jet fuel reduced by the Tamil Nadu government?",
+            "hi": "तमिलनाडु सरकार द्वारा जेट ईंधन पर मूल्य वर्धित कर (वैट) कितने प्रतिशत कम कर दिया गया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "35%",
-                "hi": "35%"
+                "en": "From 30% to 15%",
+                "hi": "30% से 15% तक"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "54%",
-                "hi": "54%"
+                "en": "From 25% to 12%",
+                "hi": "25% से 12% तक"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "60%",
-                "hi": "60%"
+                "en": "From 22% to 10%",
+                "hi": "22% से 10% तक"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "42%",
-                "hi": "42%"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "International orders accounted for 54% of L&T's total order book of ₹8,53,514 crore as of September 30, 2026.\nSource: https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece",
-            "hi": "30 सितंबर, 2026 तक एलएंडटी की कुल ऑर्डर बुक ₹8,53,514 करोड़ में अंतर्राष्ट्रीय ऑर्डर का हिस्सा 54% था।\nस्रोत: https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-12"
-        },
-        {
-          "prompt": {
-            "en": "By what percentage did L&T's Profit After Tax (PAT) rise in the second quarter, reaching ₹5,202 crore?",
-            "hi": "दूसरी तिमाही में L&T का कर पश्चात लाभ (PAT) कितने प्रतिशत बढ़कर ₹5,202 करोड़ तक पहुँच गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "33%",
-                "hi": "33%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "25%",
-                "hi": "25%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "16%",
-                "hi": "16%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "40%",
-                "hi": "40%"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "L&T's Q2 PAT rose by 33% to ₹5,202 crore alongside a 16% increase in revenue.\nSource: https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece",
-            "hi": "एलएंडटी का Q2 PAT राजस्व में 16% की वृद्धि के साथ 33% बढ़कर ₹5,202 करोड़ हो गया।\nस्रोत: https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-13"
-        },
-        {
-          "prompt": {
-            "en": "Which company secured a long-term contract from JERA to supply green ammonia to Japan?",
-            "hi": "किस कंपनी ने जापान को हरित अमोनिया की आपूर्ति के लिए जेरा से दीर्घकालिक अनुबंध प्राप्त किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "AM Green",
-                "hi": "एएम ग्रीन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "GreenCo Power India",
-                "hi": "ग्रीनको पावर इंडिया"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Renewable Clean Tech Ltd",
-                "hi": "रिन्यूएबल क्लीन टेक लिमिटेड"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Adani Green Energy Solutions",
-                "hi": "अदानी ग्रीन एनर्जी सॉल्यूशंस"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "AM Green bagged the long-term contract from JERA to supply green ammonia in Japan.\nSource: https://www.thehindu.com/business/Industry/am-green-bags-long-term-contract-from-jera-to-supply-green-ammonia-in-japan/article71632300.ece",
-            "hi": "एएम ग्रीन को जापान में हरित अमोनिया की आपूर्ति के लिए जेरा से दीर्घकालिक अनुबंध प्राप्त हुआ।\nस्रोत: https://www.thehindu.com/business/Industry/am-green-bags-long-term-contract-from-jera-to-supply-green-ammonia-in-japan/article71632300.ece"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/am-green-bags-long-term-contract-from-jera-to-supply-green-ammonia-in-japan/article71632300.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-14"
-        },
-        {
-          "prompt": {
-            "en": "Under the contract with JERA, what is the annual volume of green ammonia AM Green is scheduled to supply?",
-            "hi": "जेरा के साथ अनुबंध के तहत, एएम ग्रीन द्वारा हरित अमोनिया की वार्षिक मात्रा कितनी आपूर्ति की जानी है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "150,000 tonnes annually over three years",
-                "hi": "तीन वर्षों में सालाना 150,000 टन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Around 70,000 tonnes annually over five years",
-                "hi": "पाँच वर्षों में प्रतिवर्ष लगभग 70,000 टन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "50,000 tonnes annually over ten years",
-                "hi": "दस वर्षों में प्रतिवर्ष 50,000 टन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "100,000 tonnes annually over seven years",
-                "hi": "सात वर्षों में प्रतिवर्ष 100,000 टन"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "AM Green will supply around 70,000 tonnes of green ammonia annually over five years under the secured contract.\nSource: https://www.thehindu.com/business/Industry/am-green-bags-long-term-contract-from-jera-to-supply-green-ammonia-in-japan/article71632300.ece",
-            "hi": "एएम ग्रीन सुरक्षित अनुबंध के तहत पांच वर्षों में सालाना लगभग 70,000 टन हरित अमोनिया की आपूर्ति करेगा।\nस्रोत: https://www.thehindu.com/business/Industry/am-green-bags-long-term-contract-from-jera-to-supply-green-ammonia-in-japan/article71632300.ece"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/am-green-bags-long-term-contract-from-jera-to-supply-green-ammonia-in-japan/article71632300.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-15"
-        },
-        {
-          "prompt": {
-            "en": "What primary factor was cited for the 27% drop in Maruti's Q2 profit despite a 26.5% surge in sales?",
-            "hi": "बिक्री में 26.5% की वृद्धि के बावजूद मारुति के Q2 लाभ में 27% की गिरावट के लिए कौन सा प्राथमिक कारक बताया गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Domestic raw material shortages and labor strikes",
-                "hi": "घरेलू कच्चे माल की कमी और श्रमिक हड़तालें"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Unfavorable currency fluctuations against the Euro",
-                "hi": "यूरो के मुकाबले मुद्रा में प्रतिकूल उतार-चढ़ाव"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Sudden hike in domestic fuel excise duties",
-                "hi": "घरेलू ईंधन उत्पाद शुल्क में अचानक बढ़ोतरी"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "West Asia headwinds",
-                "hi": "पश्चिम एशिया विपरीत हवाएँ"
+                "en": "From 29% to 16%",
+                "hi": "29% से 16% तक"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "Maruti's Q2 profit fell by 27% specifically due to West Asia headwinds, even as sales surged by 26.5%.\nSource: https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece",
-            "hi": "विशेष रूप से पश्चिम एशिया की प्रतिकूल परिस्थितियों के कारण मारुति का दूसरी तिमाही का लाभ 27% गिर गया, जबकि बिक्री में 26.5% की वृद्धि हुई।\nस्रोत: https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece"
+            "en": "The Tamil Nadu government reduced VAT on jet fuel from 29% to 16%, prompting airlines to assure increased flight services.\nSource: https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece",
+            "hi": "तमिलनाडु सरकार ने जेट ईंधन पर वैट 29% से घटाकर 16% कर दिया, जिससे एयरलाइंस को उड़ान सेवाओं में वृद्धि का आश्वासन देना पड़ा।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-16"
+          "id": "2026-10-28-13"
         },
         {
           "prompt": {
-            "en": "According to Maruti's Q2 financial performance report, approximately how many pending bookings did the company have?",
-            "hi": "मारुति की Q2 वित्तीय प्रदर्शन रिपोर्ट के अनुसार, कंपनी के पास लगभग कितनी बुकिंग लंबित थीं?"
+            "en": "Which key corporate divisions are slated to be impacted by Microsoft's voluntary exit offer involving around 60,000 employees?",
+            "hi": "लगभग 60,000 कर्मचारियों वाले माइक्रोसॉफ्ट के स्वैच्छिक निकास प्रस्ताव से कौन से प्रमुख कॉर्पोरेट डिवीजन प्रभावित होंगे?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "120,000 units",
-                "hi": "120,000 इकाइयाँ"
+                "en": "Hardware manufacturing, retail storefronts, and traditional desktop support",
+                "hi": "हार्डवेयर विनिर्माण, खुदरा स्टोरफ्रंट और पारंपरिक डेस्कटॉप समर्थन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "500,000 units",
-                "hi": "500,000 इकाइयाँ"
+                "en": "Azure Cloud infrastructure, LinkedIn, and GitHub operations exclusively",
+                "hi": "Azure क्लाउड इंफ्रास्ट्रक्चर, लिंक्डइन और GitHub संचालन विशेष रूप से"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "85,000 units",
-                "hi": "85,000 इकाइयाँ"
+                "en": "AI experiences, Copilot, finance, human resources, Xbox and Windows + Devices",
+                "hi": "एआई अनुभव, सहपायलट, वित्त, मानव संसाधन, एक्सबॉक्स और विंडोज + डिवाइस"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "265,000 units",
-                "hi": "265,000 इकाइयाँ"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Pending bookings stood at approximately 265,000 units as demand continued to outstrip supply.\nSource: https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece",
-            "hi": "लंबित बुकिंग लगभग 265,000 इकाइयों तक पहुंच गई क्योंकि मांग आपूर्ति से अधिक रही।\nस्रोत: https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-17"
-        },
-        {
-          "prompt": {
-            "en": "According to recent reports, what potential implication does Jio's upcoming Initial Public Offering (IPO) carry for Indian consumers?",
-            "hi": "हाल की रिपोर्टों के अनुसार, Jio की आगामी आरंभिक सार्वजनिक पेशकश (IPO) का भारतीय उपभोक्ताओं के लिए क्या संभावित प्रभाव है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The end of cheap mobile data for millions",
-                "hi": "लाखों लोगों के लिए सस्ते मोबाइल डेटा का अंत"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Mandatory migration to 6G network infrastructure",
-                "hi": "6जी नेटवर्क इंफ्रास्ट्रक्चर में अनिवार्य माइग्रेशन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Subsidized broadband rollout in rural Gram Panchayats",
-                "hi": "ग्रामीण ग्राम पंचायतों में सब्सिडीयुक्त ब्रॉडबैंड रोलआउट"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Complete waiver of all voice call tariffs",
-                "hi": "सभी वॉयस कॉल टैरिफ पर पूर्ण छूट"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Jio's IPO promises a windfall for investors but could signal the end of cheap mobile internet and data for millions.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
-            "hi": "जियो का आईपीओ निवेशकों के लिए अप्रत्याशित लाभ का वादा करता है लेकिन लाखों लोगों के लिए सस्ते मोबाइल इंटरनेट और डेटा के अंत का संकेत दे सकता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-18"
-        },
-        {
-          "prompt": {
-            "en": "What income range was cited in public consultations regarding expectations for the UK Budget?",
-            "hi": "यूके बजट की अपेक्षाओं के संबंध में सार्वजनिक परामर्श में किस आय सीमा का हवाला दिया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "£1,000 a month to £50,000 a year",
-                "hi": "£1,000 प्रति माह से £50,000 प्रति वर्ष तक"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "£2,000 a month to £200,000 a year",
-                "hi": "£2,000 प्रति माह से £200,000 प्रति वर्ष तक"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "£500 a month to £80,000 a year",
-                "hi": "£500 प्रति माह से £80,000 प्रति वर्ष तक"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "£380 a month to £150,000 a year",
-                "hi": "£380 प्रति माह से £150,000 प्रति वर्ष तक"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "People earning from £380 a month to £150,000 a year shared their budget expectations with the BBC.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-            "hi": "प्रति माह £380 से £150,000 तक कमाने वाले लोगों ने बीबीसी के साथ अपनी बजट अपेक्षाएँ साझा कीं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-19"
-        },
-        {
-          "prompt": {
-            "en": "Who is the Chancellor responsible for revealing new pay rates and cost-of-living measures in the Budget?",
-            "hi": "बजट में नई वेतन दरों और जीवन-यापन की लागत के उपायों का खुलासा करने के लिए चांसलर कौन जिम्मेदार है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Rishi Sunak",
-                "hi": "ऋषि सुनक"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Jeremy Hunt",
-                "hi": "जेरेमी हंट"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "John Healey",
-                "hi": "जॉन हीली"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Keir Starmer",
-                "hi": "कीर स्टार्मर"
+                "en": "Cybersecurity consulting, enterprise database systems, and mobile applications",
+                "hi": "साइबर सुरक्षा परामर्श, एंटरप्राइज़ डेटाबेस सिस्टम और मोबाइल एप्लिकेशन"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Chancellor John Healey was announced to reveal the new pay rates and cost-of-living measures in the Budget.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-            "hi": "चांसलर जॉन हीली ने बजट में नई वेतन दरों और जीवन-यापन की लागत के उपायों का खुलासा करने की घोषणा की।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+            "en": "Microsoft's voluntary buyout offer impacts major divisions such as AI experiences, Copilot, finance, HR, Xbox, and Windows + Devices.\nSource: https://www.thehindu.com/business/Industry/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
+            "hi": "माइक्रोसॉफ्ट का स्वैच्छिक बायआउट ऑफर एआई अनुभव, कोपायलट, वित्त, एचआर, एक्सबॉक्स और विंडोज + डिवाइसेस जैसे प्रमुख प्रभागों को प्रभावित करता है।\nस्रोत: https://www.thehindu.com/business/Industry/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/business/Industry/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-20"
+          "id": "2026-10-28-14"
         },
         {
           "prompt": {
-            "en": "Following recent public advisories to stock up, which items experienced large spikes in retail sales according to BBC Newsnight?",
-            "hi": "स्टॉक करने की हालिया सार्वजनिक सलाह के बाद, बीबीसी न्यूज़नाइट के अनुसार किन वस्तुओं की खुदरा बिक्री में बड़ी बढ़ोतरी देखी गई?"
+            "en": "What was the primary driver behind the $80.7 billion first-half net loss reported by Anthropic in its IPO filings?",
+            "hi": "एंथ्रोपिक द्वारा अपनी आईपीओ फाइलिंग में बताए गए $80.7 बिलियन के पहली छमाही के शुद्ध घाटे के पीछे प्राथमिक चालक क्या था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Torches, radios and power banks",
-                "hi": "टॉर्च, रेडियो और पावर बैंक"
+                "en": "Massive operating costs from hardware manufacturing plants",
+                "hi": "हार्डवेयर विनिर्माण संयंत्रों से भारी परिचालन लागत"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Solar water heaters and backup generators",
-                "hi": "सौर वॉटर हीटर और बैकअप जनरेटर"
+                "en": "Valuation-related accounting charges",
+                "hi": "मूल्यांकन-संबंधित लेखांकन शुल्क"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Bottled water and non-perishable canned goods",
-                "hi": "बोतलबंद पानी और न खराब होने वाले डिब्बाबंद सामान"
+                "en": "Heavy penalties imposed by antitrust regulatory bodies",
+                "hi": "अविश्वास नियामक निकायों द्वारा भारी जुर्माना लगाया गया"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Warm clothing and emergency thermal blankets",
-                "hi": "गर्म कपड़े और आपातकालीन थर्मल कंबल"
+                "en": "Sharp declines in subscription revenue from enterprise clients",
+                "hi": "एंटरप्राइज़ ग्राहकों से सदस्यता राजस्व में तीव्र गिरावट"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Anthropic's massive first-half net loss was largely attributed to valuation-related accounting charges despite strong revenue growth from existing customers.\nSource: https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
+            "hi": "मौजूदा ग्राहकों से मजबूत राजस्व वृद्धि के बावजूद एंथ्रोपिक का पहली छमाही में भारी शुद्ध घाटा काफी हद तक मूल्यांकन-संबंधित लेखांकन शुल्क के कारण हुआ।\nस्रोत: https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-15"
+        },
+        {
+          "prompt": {
+            "en": "By what multiple did Anthropic's revenue increase during the first half (H1) ahead of its IPO filing?",
+            "hi": "आईपीओ दाखिल करने से पहले पहली छमाही (H1) के दौरान एंथ्रोपिक का राजस्व कितने गुना बढ़ गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "14-fold to $16.3 billion",
+                "hi": "14 गुना होकर $16.3 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "9-fold to $10.1 billion",
+                "hi": "9 गुना होकर $10.1 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "20-fold to $25.5 billion",
+                "hi": "20 गुना बढ़कर $25.5 बिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "5-fold to $5.2 billion",
+                "hi": "5 गुना होकर $5.2 बिलियन"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "Figures obtained by BBC Newsnight showed large spikes in sales of torches, radios, and power banks after calls to stock up.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-            "hi": "बीबीसी न्यूज़नाइट द्वारा प्राप्त आंकड़ों से पता चलता है कि स्टॉक में स्टॉक करने के लिए कॉल के बाद टॉर्च, रेडियो और पावर बैंकों की बिक्री में बड़ी वृद्धि हुई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss"
+            "en": "Anthropic reported a 14-fold jump in revenue, reaching $16.3 billion in the first half.\nSource: https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
+            "hi": "एंथ्रोपिक ने राजस्व में 14 गुना वृद्धि दर्ज की, जो पहली छमाही में 16.3 बिलियन डॉलर तक पहुंच गई।\nस्रोत: https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-21"
+          "id": "2026-10-28-16"
         },
         {
           "prompt": {
-            "en": "Aside from radios and technical equipment, which food items saw a rise in sales according to retailers?",
-            "hi": "खुदरा विक्रेताओं के अनुसार रेडियो और तकनीकी उपकरणों के अलावा, किन खाद्य पदार्थों की बिक्री में वृद्धि देखी गई?"
+            "en": "According to reports on the Indian shipbuilding sector, what primary global market dynamic presents an uphill battle for domestic shipyards?",
+            "hi": "भारतीय जहाज निर्माण क्षेत्र पर रिपोर्टों के अनुसार, कौन सा प्राथमिक वैश्विक बाजार गतिशील घरेलू शिपयार्डों के लिए एक कठिन लड़ाई प्रस्तुत करता है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Frozen vegetables",
-                "hi": "जमी हुई सब्जियाँ"
+                "en": "Severe shortages of marine-grade steel across South Asia",
+                "hi": "पूरे दक्षिण एशिया में समुद्री ग्रेड स्टील की गंभीर कमी"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Packaged dry grains",
-                "hi": "पैकेज्ड सूखा अनाज"
+                "en": "Strict international environmental mandates penalizing diesel-powered cargo ships",
+                "hi": "सख्त अंतरराष्ट्रीय पर्यावरणीय आदेश में डीजल से चलने वाले मालवाहक जहाजों को दंडित करना शामिल है"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Tinned foods",
-                "hi": "डिब्बा बंद खाद्य पदार्थ"
+                "en": "Prohibitive international insurance tariffs for Indian-built vessels",
+                "hi": "भारतीय निर्मित जहाजों के लिए निषेधात्मक अंतर्राष्ट्रीय बीमा शुल्क"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Vacuum-sealed meats",
-                "hi": "वैक्यूम-सीलबंद मांस"
+                "en": "China dominating global orders",
+                "hi": "चीन वैश्विक आदेशों पर हावी हो रहा है"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "d",
           "explanation": {
-            "en": "Retailers reported a rise in sales of radios and tinned foods following public calls to stock up.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-            "hi": "खुदरा विक्रेताओं ने स्टॉक जमा करने के लिए सार्वजनिक आह्वान के बाद रेडियो और डिब्बाबंद खाद्य पदार्थों की बिक्री में वृद्धि दर्ज की।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss"
+            "en": "India's shipbuilding push faces an uphill battle because China completely dominates global shipbuilding orders.\nSource: https://www.thehindu.com/business/Industry/indian-shipyards-double-delivery-pipeline-but-still-hold-only-05-of-global-orders/article71611530.ece",
+            "hi": "भारत के जहाज निर्माण कार्य को एक कठिन लड़ाई का सामना करना पड़ रहा है क्योंकि चीन पूरी तरह से वैश्विक जहाज निर्माण ऑर्डर पर हावी है।\nस्रोत: https://www.thehindu.com/business/Industry/indian-shipyards-double-delivery-pipeline-but-still-hold-only-05-of-global-orders/article71611530.ece"
           },
           "section": "Set 2: Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/business/Industry/indian-shipyards-double-delivery-pipeline-but-still-hold-only-05-of-global-orders/article71611530.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-22"
+          "id": "2026-10-28-17"
+        },
+        {
+          "prompt": {
+            "en": "What was Indian Overseas Bank's (IOB) net profit for the corresponding quarter in the previous year?",
+            "hi": "पिछले वर्ष की इसी तिमाही में इंडियन ओवरसीज बैंक (IOB) का शुद्ध लाभ कितना था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1,962.67 crore",
+                "hi": "₹1,962.67 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,258.82 crore",
+                "hi": "₹1,258.82 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹950.40 crore",
+                "hi": "₹950.40 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,505.15 crore",
+                "hi": "₹1,505.15 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "In the year-ago period, IOB had reported a net profit of ₹1,258.82 crore, which rose to ₹1,962.67 crore in the September quarter.\nSource: https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece",
+            "hi": "एक साल पहले की अवधि में, IOB ने ₹1,258.82 करोड़ का शुद्ध लाभ दर्ज किया था, जो सितंबर तिमाही में बढ़कर ₹1,962.67 करोड़ हो गया।\nस्रोत: https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-18"
+        },
+        {
+          "prompt": {
+            "en": "When does Indian Overseas Bank (IOB) plan to launch its Qualified Institutional Placement (QIP) following its strong Q2 performance?",
+            "hi": "इंडियन ओवरसीज बैंक (IOB) अपने मजबूत Q2 प्रदर्शन के बाद अपना क्वालिफाइड इंस्टीट्यूशनल प्लेसमेंट (QIP) कब लॉन्च करने की योजना बना रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "In the next fiscal year's first quarter",
+                "hi": "अगले वित्तीय वर्ष की पहली तिमाही में"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By the end of the current month",
+                "hi": "चालू माह के अंत तक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "During the third quarter (Q3)",
+                "hi": "तीसरी तिमाही (Q3) के दौरान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "In the fourth quarter (Q4)",
+                "hi": "चौथी तिमाही में (Q4)"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "IOB announced plans to launch a QIP in Q4 after recording a 56% increase in net profit for the September quarter.\nSource: https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece",
+            "hi": "सितंबर तिमाही के लिए शुद्ध लाभ में 56% की वृद्धि दर्ज करने के बाद IOB ने Q4 में QIP लॉन्च करने की योजना की घोषणा की।\nस्रोत: https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-19"
+        },
+        {
+          "prompt": {
+            "en": "Which cities are included in the first phase of Tata Communications' planned 10,000-km AI data centre network?",
+            "hi": "टाटा कम्युनिकेशंस के नियोजित 10,000 किलोमीटर एआई डेटा सेंटर नेटवर्क के पहले चरण में कौन से शहर शामिल हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vizag, Bhubaneswar, Jamnagar and GIFT City",
+                "hi": "विजाग, भुवनेश्वर, जामनगर और गिफ्ट सिटी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mumbai, Pune, Hyderabad and Chennai",
+                "hi": "मुंबई, पुणे, हैदराबाद और चेन्नई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Bengaluru, Delhi, Kolkata and Ahmedabad",
+                "hi": "बेंगलुरु, दिल्ली, कोलकाता और अहमदाबाद"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Noida, Gurugram, Jaipur and Kochi",
+                "hi": "नोएडा, गुरुग्राम, जयपुर और कोच्चि"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The first phase of the network links data centre hubs specifically in Mumbai, Pune, Hyderabad, and Chennai.\nSource: https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece",
+            "hi": "नेटवर्क का पहला चरण विशेष रूप से मुंबई, पुणे, हैदराबाद और चेन्नई में डेटा सेंटर हब को जोड़ता है।\nस्रोत: https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-20"
+        },
+        {
+          "prompt": {
+            "en": "How much financial investment has Tata Communications committed toward its upcoming AI data centre network?",
+            "hi": "टाटा कम्युनिकेशंस ने अपने आगामी एआई डेटा सेंटर नेटवर्क के लिए कितना वित्तीय निवेश किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹2,500 crore",
+                "hi": "₹2,500 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹10,000 crore",
+                "hi": "₹10,000 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹7,800 crore",
+                "hi": "₹7,800 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹4,350 crore",
+                "hi": "₹4,350 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Tata Communications is investing ₹4,350 crore to build a 10,000-km AI data centre network.\nSource: https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece",
+            "hi": "टाटा कम्युनिकेशंस 10,000 किलोमीटर एआई डेटा सेंटर नेटवर्क बनाने के लिए ₹4,350 करोड़ का निवेश कर रही है।\nस्रोत: https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-21"
+        },
+        {
+          "prompt": {
+            "en": "Why are budget tax adjustments being planned in the UK regarding low-income pensioners?",
+            "hi": "यूके में कम आय वाले पेंशनभोगियों के संबंध में बजट कर समायोजन की योजना क्यों बनाई जा रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To prevent the full state pension from becoming liable for income tax after rising in April",
+                "hi": "अप्रैल में वृद्धि के बाद पूर्ण राज्य पेंशन को आयकर के लिए उत्तरदायी बनने से रोकने के लिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To fund universal basic income programs for all citizens over 60",
+                "hi": "60 वर्ष से अधिक उम्र के सभी नागरिकों के लिए सार्वभौमिक बुनियादी आय कार्यक्रमों को वित्तपोषित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To offset losses from falling corporate tax revenues in the energy sector",
+                "hi": "ऊर्जा क्षेत्र में कॉर्पोरेट कर राजस्व में गिरावट से होने वाले नुकसान की भरपाई करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To finance immediate infrastructure upgrades for rural healthcare facilities",
+                "hi": "ग्रामीण स्वास्थ्य सुविधाओं के लिए तत्काल बुनियादी ढांचे के उन्नयन के लिए वित्तपोषण करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Adjustments are designed to shield low-income pensioners from income tax liability once the flat-rate state pension increases in April.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+            "hi": "अप्रैल में फ्लैट-रेट राज्य पेंशन बढ़ने के बाद कम आय वाले पेंशनभोगियों को आयकर देनदारी से बचाने के लिए समायोजन तैयार किए गए हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-22"
+        },
+        {
+          "prompt": {
+            "en": "According to economic assessments in the UK, what outlook has been outlined for the Labour government heading into January?",
+            "hi": "यूके में आर्थिक आकलन के अनुसार, जनवरी में आने वाली लेबर सरकार के लिए क्या दृष्टिकोण रेखांकित किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That a severe recession will necessitate emergency IMF bailouts",
+                "hi": "गंभीर मंदी के लिए आपातकालीन आईएमएफ बेलआउट की आवश्यकता होगी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That the economy is positive now but things could become trickier come January",
+                "hi": "अर्थव्यवस्था अभी सकारात्मक है लेकिन जनवरी में चीजें और मुश्किल हो सकती हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That industrial manufacturing will experience double-digit contraction",
+                "hi": "औद्योगिक विनिर्माण में दोहरे अंकीय संकुचन का अनुभव होगा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That inflation will drop to zero across all consumer sectors",
+                "hi": "सभी उपभोक्ता क्षेत्रों में मुद्रास्फीति शून्य हो जाएगी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "While the current economic indicators are positive, analysts warn that conditions could become trickier for the government by January.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+            "hi": "हालांकि मौजूदा आर्थिक संकेतक सकारात्मक हैं, लेकिन विश्लेषकों ने चेतावनी दी है कि जनवरी तक सरकार के लिए स्थितियां और मुश्किल हो सकती हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-23"
         }
       ],
       "quarantined": [],
@@ -1149,623 +1200,572 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-10-29T13:00:00+05:30"
+      "release_at": "2026-10-28T13:00:00+05:30"
     },
     {
       "title": "Set 3: Science, Environment & World Affairs",
-      "source_filename": "daily-2026-10-29.json",
+      "source_filename": "daily-2026-10-28.json",
       "questions": [
         {
           "prompt": {
-            "en": "In his fourth term, President Lula gives Brazil an opportunity to advance climate leadership due to several strategic geopolitical factors. Which of the following is NOT among those mentioned?",
-            "hi": "अपने चौथे कार्यकाल में, राष्ट्रपति लूला ने कई रणनीतिक भू-राजनीतिक कारकों के कारण ब्राजील को जलवायु नेतृत्व को आगे बढ़ाने का अवसर दिया। निम्नलिखित में से कौन सा उल्लेखित लोगों में से नहीं है?"
+            "en": "According to a preprint paper uploaded to arXiv by Marathon scientists, how much gold could theoretically be produced annually for every gigawatt (GW) of thermal fusion power?",
+            "hi": "मैराथन वैज्ञानिकों द्वारा arXiv पर अपलोड किए गए एक प्रीप्रिंट पेपर के अनुसार, सैद्धांतिक रूप से थर्मल फ्यूजन पावर के प्रत्येक गीगावाट (जीडब्ल्यू) के लिए सालाना कितना सोना उत्पादित किया जा सकता है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Being host to most of the Amazon rainforest",
-                "hi": "अधिकांश अमेज़ॅन वर्षावनों का मेजबान होना"
+                "en": "Roughly 2 tonnes of gold annually",
+                "hi": "सालाना लगभग 2 टन सोना"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Holding permanent veto power within the United Nations Security Council",
-                "hi": "संयुक्त राष्ट्र सुरक्षा परिषद के भीतर स्थायी वीटो शक्ति धारण करना"
+                "en": "Exactly 500 kilograms of gold annually",
+                "hi": "सालाना ठीक 500 किलोग्राम सोना"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Serving as Latin America's largest economy",
-                "hi": "लैटिन अमेरिका की सबसे बड़ी अर्थव्यवस्था के रूप में कार्य करना"
+                "en": "Approximately 10 tonnes of gold annually",
+                "hi": "सालाना लगभग 10 टन सोना"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Maintaining diplomatic ties with the EU, US, China, and BRICS countries",
-                "hi": "यूरोपीय संघ, अमेरिका, चीन और ब्रिक्स देशों के साथ राजनयिक संबंध बनाए रखना"
+                "en": "50 tonnes of gold annually",
+                "hi": "सालाना 50 टन सोना"
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "Brazil holding permanent veto power in the UNSC is not mentioned in the text; the text highlights its economy, Amazon hosting, and international diplomatic relations.\nSource: https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
-            "hi": "यूएनएससी में स्थायी वीटो शक्ति रखने वाले ब्राजील का उल्लेख पाठ में नहीं किया गया है; पाठ इसकी अर्थव्यवस्था, अमेज़ॅन होस्टिंग और अंतर्राष्ट्रीय राजनयिक संबंधों पर प्रकाश डालता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece"
+            "en": "Marathon scientists predicted that the proposed fusion process could produce roughly 2 tonnes of gold annually per gigawatt of thermal fusion power.\nSource: https://www.thehindu.com/sci-tech/science/seven-caveats-in-the-claim-about-turning-mercury-into-gold-with-nuclear-fusion/article71626055.ece",
+            "hi": "मैराथन वैज्ञानिकों ने भविष्यवाणी की कि प्रस्तावित संलयन प्रक्रिया से प्रति गीगावाट तापीय संलयन शक्ति से सालाना लगभग 2 टन सोने का उत्पादन हो सकता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/seven-caveats-in-the-claim-about-turning-mercury-into-gold-with-nuclear-fusion/article71626055.ece"
           },
           "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
+          "source_label": "https://www.thehindu.com/sci-tech/science/seven-caveats-in-the-claim-about-turning-mercury-into-gold-with-nuclear-fusion/article71626055.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-23"
+          "id": "2026-10-28-24"
         },
         {
           "prompt": {
-            "en": "Physicist Claude Cohen-Tannoudji maintained connections with India, notably by acknowledging the work of which individual?",
-            "hi": "भौतिक विज्ञानी क्लाउड कोहेन-तन्नौदजी ने विशेष रूप से किस व्यक्ति के काम को स्वीकार करके भारत के साथ संबंध बनाए रखा?"
+            "en": "What specific political event prompted Elon Musk to limit Ukraine's access to the Starlink network?",
+            "hi": "किस विशिष्ट राजनीतिक घटना ने एलोन मस्क को स्टारलिंक नेटवर्क तक यूक्रेन की पहुंच को सीमित करने के लिए प्रेरित किया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
+              "text": {
+                "en": "European Union antitrust fines levied against SpaceX subsidiaries",
+                "hi": "यूरोपीय संघ ने स्पेसएक्स की सहायक कंपनियों के खिलाफ अविश्वास जुर्माना लगाया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Trump criticized Kyiv's strikes on Russia's energy infrastructure",
+                "hi": "ट्रम्प ने रूस के ऊर्जा बुनियादी ढांचे पर कीव के हमलों की आलोचना की"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "NATO failure to pay maintenance fees for satellite terminals",
+                "hi": "नाटो उपग्रह टर्मिनलों के लिए रखरखाव शुल्क का भुगतान करने में विफल रहा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "UN resolutions demanding immediate demilitarization of space communications",
+                "hi": "संयुक्त राष्ट्र के प्रस्तावों में अंतरिक्ष संचार के तत्काल विसैन्यीकरण की मांग की गई है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Access to Starlink was restricted after criticism was directed at Kyiv's strikes on Russian energy infrastructure.\nSource: https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
+            "hi": "रूसी ऊर्जा बुनियादी ढांचे पर कीव के हमलों की आलोचना के बाद स्टारलिंक तक पहुंच प्रतिबंधित कर दी गई थी।\nस्रोत: https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-25"
+        },
+        {
+          "prompt": {
+            "en": "Nobel laureate Claude Cohen-Tannoudji is noted for his scientific connections to India, specifically acknowledging the work of which category of researcher?",
+            "hi": "नोबेल पुरस्कार विजेता क्लाउड कोहेन-तन्नौदजी भारत के साथ अपने वैज्ञानिक संबंधों के लिए जाने जाते हैं, विशेष रूप से किस श्रेणी के शोधकर्ता के काम को स्वीकार करते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A contemporary ISRO aerospace engineer working on cryogenic engines",
+                "hi": "एक समकालीन इसरो एयरोस्पेस इंजीनियर क्रायोजेनिक इंजन पर काम कर रहा है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
               "text": {
                 "en": "A little-known Indian scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize",
                 "hi": "एक अल्पज्ञात भारतीय वैज्ञानिक जिनकी मृत्यु कोहेन-तन्नौदजी के नोबेल पुरस्कार जीतने से तीन दशक पहले हो गई थी"
               }
             },
             {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Satyendra Nath Bose regarding quantum statistics and foundational boson theories",
-                "hi": "क्वांटम सांख्यिकी और मूलभूत बोसोन सिद्धांतों के बारे में सत्येन्द्र नाथ बोस"
-              }
-            },
-            {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Homi J. Bhabha concerning cosmic ray elementary particle interactions",
-                "hi": "होमी जे. भाभा ब्रह्मांडीय किरण प्राथमिक कण अंतःक्रिया के विषय में"
+                "en": "A prominent mathematician from the ancient Vedic period",
+                "hi": "प्राचीन वैदिक काल के एक प्रमुख गणितज्ञ"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Meghnad Saha regarding thermal ionization equations in stellar atmospheres",
-                "hi": "तारकीय वायुमंडल में थर्मल आयनीकरण समीकरणों के बारे में मेघनाद साहा"
+                "en": "A modern nuclear physicist leading the Department of Atomic Energy",
+                "hi": "परमाणु ऊर्जा विभाग का नेतृत्व करने वाले एक आधुनिक परमाणु भौतिक विज्ञानी"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "Cohen-Tannoudji acknowledged the work of a little-known scientist who had died three decades before he won the Nobel Prize.\nSource: https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
-            "hi": "कोहेन-तन्नौदजी ने एक अल्पज्ञात वैज्ञानिक के काम को स्वीकार किया, जिनकी नोबेल पुरस्कार जीतने से तीन दशक पहले मृत्यु हो गई थी।\nस्रोत: https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece"
+            "en": "Cohen-Tannoudji acknowledged the work of a little-known Indian scientist who had passed away three decades prior to his Nobel victory.\nSource: https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
+            "hi": "कोहेन-तन्नौदजी ने एक अल्पज्ञात भारतीय वैज्ञानिक के काम को स्वीकार किया, जिनकी नोबेल जीत से तीन दशक पहले मृत्यु हो गई थी।\nस्रोत: https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece"
           },
           "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-24"
+          "id": "2026-10-28-26"
         },
         {
           "prompt": {
-            "en": "What did recent laboratory tests reveal regarding the protein content of the evaluated plant-based products compared to chicken counterparts?",
-            "hi": "हाल के प्रयोगशाला परीक्षणों से चिकन समकक्षों की तुलना में मूल्यांकित पौधे-आधारित उत्पादों की प्रोटीन सामग्री के बारे में क्या पता चला?"
+            "en": "Which two prestigious academic bodies jointly award the Oskar Klein Medal, recently won by Indian string theory pioneer Ashoke Sen?",
+            "hi": "कौन से दो प्रतिष्ठित शैक्षणिक निकाय संयुक्त रूप से ऑस्कर क्लेन मेडल प्रदान करते हैं, जो हाल ही में भारतीय स्ट्रिंग सिद्धांत के अग्रणी अशोक सेन ने जीता है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Lower amino acid dispersion across all tested samples",
-                "hi": "सभी परीक्षण किए गए नमूनों में कम अमीनो एसिड फैलाव"
+                "en": "The Massachusetts Institute of Technology and the American Physical Society",
+                "hi": "मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी और अमेरिकन फिजिकल सोसायटी"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Higher protein bioavailability in five plant-based products than in their chicken counterparts",
-                "hi": "पांच पौधे-आधारित उत्पादों में उनके चिकन समकक्षों की तुलना में उच्च प्रोटीन जैवउपलब्धता"
+                "en": "The University of Oxford and the UK Institute of Physics",
+                "hi": "ऑक्सफोर्ड विश्वविद्यालय और यूके इंस्टीट्यूट ऑफ फिजिक्स"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Identical nutritional absorption rates under clinical trials",
-                "hi": "नैदानिक ​​परीक्षणों के तहत समान पोषण अवशोषण दर"
+                "en": "Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences",
+                "hi": "स्टॉकहोम विश्वविद्यालय और रॉयल स्वीडिश एकेडमी ऑफ साइंसेज की भौतिकी की नोबेल समिति"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Significantly reduced nitrogen retention and digestive tolerance",
-                "hi": "नाइट्रोजन प्रतिधारण और पाचन सहनशीलता में उल्लेखनीय रूप से कमी आई"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Laboratory tests showed higher protein bioavailability in five plant-based products than in their chicken counterparts.\nSource: https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
-            "hi": "प्रयोगशाला परीक्षणों से पता चला कि पांच पौधों पर आधारित उत्पादों में उनके चिकन समकक्षों की तुलना में अधिक प्रोटीन जैवउपलब्धता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-25"
-        },
-        {
-          "prompt": {
-            "en": "According to genetic analyses of traditional Kashmiri rice varieties, they show closer genetic relationships with rice from which regions?",
-            "hi": "पारंपरिक कश्मीरी चावल की किस्मों के आनुवंशिक विश्लेषण के अनुसार, वे किस क्षेत्र के चावल के साथ घनिष्ठ आनुवंशिक संबंध दिखाते हैं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Southeast Asia and the Mekong Delta basin",
-                "hi": "दक्षिण पूर्व एशिया और मेकांग डेल्टा बेसिन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The Korean Peninsula and Northeast China",
-                "hi": "कोरियाई प्रायद्वीप और पूर्वोत्तर चीन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Central Asian high-altitude agricultural stations",
-                "hi": "मध्य एशियाई उच्च ऊंचाई वाले कृषि स्टेशन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The Anatolian plateau and Middle Eastern river basins",
-                "hi": "अनातोलियन पठार और मध्य पूर्वी नदी घाटियाँ"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The analysis indicated that traditional Kashmiri rice varieties are more closely related to those from the Korean Peninsula and Northeast China.\nSource: https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
-            "hi": "विश्लेषण से संकेत मिलता है कि पारंपरिक कश्मीरी चावल की किस्में कोरियाई प्रायद्वीप और पूर्वोत्तर चीन से अधिक निकटता से संबंधित हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-26"
-        },
-        {
-          "prompt": {
-            "en": "Why did French football star Mbappé issue an apology following a backlash in China?",
-            "hi": "चीन में विरोध के बाद फ्रांसीसी फुटबॉल स्टार एमबीप्पे ने माफी क्यों जारी की?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "For referring to the former Chinese leader Mao as a 'dictator' during an interview about memes",
-                "hi": "मीम्स के बारे में एक साक्षात्कार के दौरान पूर्व चीनी नेता माओ को 'तानाशाह' के रूप में संदर्भित करने के लिए"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "For mocking local football leagues during a televised broadcast",
-                "hi": "टेलीविज़न प्रसारण के दौरान स्थानीय फ़ुटबॉल लीग का मज़ाक उड़ाने के लिए"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "For refusing to participate in a promotional tour across Beijing and Shanghai",
-                "hi": "बीजिंग और शंघाई में एक प्रचार दौरे में भाग लेने से इनकार करने के लिए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "For violating copyright laws concerning Chinese digital artwork",
-                "hi": "चीनी डिजिटल कलाकृति से संबंधित कॉपीराइट कानूनों का उल्लंघन करने के लिए"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Mbappé apologized for an 'ill-judged' remark after referring to former Chinese leader Mao as a 'dictator' during an interview about memes.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-            "hi": "मीम्स के बारे में एक साक्षात्कार के दौरान पूर्व चीनी नेता माओ को 'तानाशाह' के रूप में संदर्भित करने के बाद एमबीप्पे ने 'गलत आलोचना' वाली टिप्पणी के लिए माफी मांगी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-27"
-        },
-        {
-          "prompt": {
-            "en": "What action did Apple announce regarding iPhone Duos affected by screen problems?",
-            "hi": "स्क्रीन समस्याओं से प्रभावित iPhone डुओस के संबंध में Apple ने क्या कार्रवाई की घोषणा की?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To issue a software patch disabling high-refresh-rate graphics",
-                "hi": "उच्च-ताज़ा-दर ग्राफ़िक्स को अक्षम करने वाला सॉफ़्टवेयर पैच जारी करना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To provide a partial cash refund to affected buyers",
-                "hi": "प्रभावित खरीदारों को आंशिक नकद वापसी प्रदान करना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To replace iPhone Duos affected by screen problem",
-                "hi": "स्क्रीन समस्या से प्रभावित iPhone डुओस को बदलने के लिए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To offer extended warranties without physical hardware replacement",
-                "hi": "भौतिक हार्डवेयर प्रतिस्थापन के बिना विस्तारित वारंटी की पेशकश करना"
+                "en": "CERN and the European Physical Society",
+                "hi": "सर्न और यूरोपीय भौतिक सोसायटी"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Apple announced it will replace iPhone Duos affected by screen problems after online photos exposed faults on its first foldable device.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-            "hi": "ऐप्पल ने घोषणा की कि वह अपने पहले फोल्डेबल डिवाइस में ऑनलाइन तस्वीरों के उजागर होने के बाद स्क्रीन समस्याओं से प्रभावित आईफोन डुओस को बदल देगा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
+            "en": "The Oskar Klein Medal is awarded by Stockholm University together with the Nobel Committee for Physics of the Royal Swedish Academy of Sciences.\nSource: https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+            "hi": "ऑस्कर क्लेन मेडल स्टॉकहोम विश्वविद्यालय द्वारा रॉयल स्वीडिश एकेडमी ऑफ साइंसेज की भौतिकी की नोबेल समिति के साथ मिलकर प्रदान किया जाता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece"
           },
           "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-28"
+          "id": "2026-10-28-27"
         },
         {
           "prompt": {
-            "en": "According to recent evaluations of Northern Ireland's protected nature sites, approximately what proportion of plants and animals fall short of 'favourable condition'?",
-            "hi": "उत्तरी आयरलैंड के संरक्षित प्रकृति स्थलों के हालिया मूल्यांकन के अनुसार, पौधों और जानवरों का लगभग कितना अनुपात 'अनुकूल स्थिति' से कम है?"
+            "en": "According to a recent study examining language uniqueness, what do linguistic hotspots offer glimpses into?",
+            "hi": "भाषा की विशिष्टता की जांच करने वाले एक हालिया अध्ययन के अनुसार, भाषाई हॉटस्पॉट किसकी झलक दिखाते हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "About 25%",
-                "hi": "लगभग 25%"
+                "en": "How modern artificial intelligence models process ancient syntax structures",
+                "hi": "आधुनिक कृत्रिम बुद्धिमत्ता मॉडल प्राचीन वाक्यविन्यास संरचनाओं को कैसे संसाधित करते हैं"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "About 15%",
-                "hi": "लगभग 15%"
+                "en": "How human languages became more varied before large migrations and population movements reshaped the world",
+                "hi": "बड़े प्रवासों और जनसंख्या आंदोलनों ने दुनिया को नया आकार देने से पहले मानव भाषाएँ कैसे अधिक विविध हो गईं"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "About 65%",
-                "hi": "लगभग 65%"
+                "en": "The economic trade routes utilized by Bronze Age civilizations",
+                "hi": "कांस्य युग की सभ्यताओं द्वारा उपयोग किए जाने वाले आर्थिक व्यापार मार्ग"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "About 40%",
-                "hi": "लगभग 40%"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for 'favourable condition'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-            "hi": "उत्तरी आयरलैंड में संरक्षित स्थलों में लगभग 40% पौधे और जानवर 'अनुकूल स्थिति' के मानक को पूरा करने में विफल हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-29"
-        },
-        {
-          "prompt": {
-            "en": "The recent auction sale of a rare Nanotyrannus skeleton in New York for $47.3m has reignited what debate among scientists?",
-            "hi": "हाल ही में न्यूयॉर्क में $47.3 मिलियन में एक दुर्लभ नैनोटायरनस कंकाल की नीलामी बिक्री ने वैज्ञानिकों के बीच किस बहस को फिर से जन्म दिया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Whether the fossil belongs to a juvenile Tyrannosaurus rex or a distinct species",
-                "hi": "चाहे जीवाश्म किशोर टायरानोसॉरस रेक्स का हो या किसी विशिष्ट प्रजाति का"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Whether paleontological excavations should be restricted in North America",
-                "hi": "क्या उत्तरी अमेरिका में जीवाश्मिकीय उत्खनन को प्रतिबंधित किया जाना चाहिए"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Whether dinosaur remains should end up in private hands or public view",
-                "hi": "क्या डायनासोर के अवशेषों को निजी हाथों में या सार्वजनिक रूप से सौंप दिया जाना चाहिए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Whether international export laws for fossils require immediate legislative tightening",
-                "hi": "क्या जीवाश्मों के लिए अंतर्राष्ट्रीय निर्यात कानूनों को तत्काल विधायी सख्ती की आवश्यकता है"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The sale of the rare skeleton reignited debate in the scientific community about whether dinosaur remains should end up in private hands or public view.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-            "hi": "दुर्लभ कंकाल की बिक्री ने वैज्ञानिक समुदाय में इस बात पर बहस फिर से शुरू कर दी कि क्या डायनासोर के अवशेषों को निजी हाथों में या सार्वजनिक रूप से सौंप दिया जाना चाहिए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-30"
-        },
-        {
-          "prompt": {
-            "en": "According to Scotland's environmental regulator Sepa, what percentage of waste did households recycle in 2025?",
-            "hi": "स्कॉटलैंड के पर्यावरण नियामक सेपा के अनुसार, 2025 में घरों ने कितने प्रतिशत कचरे का पुनर्चक्रण किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "38.5%",
-                "hi": "38.5%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "51.4%",
-                "hi": "51.4%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "49.1%",
-                "hi": "49.1%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "42.8%",
-                "hi": "42.8%"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Environmental regulator Sepa reported that Scottish households recycled 42.8% of waste in 2025, down from 44.3% the previous year.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-            "hi": "पर्यावरण नियामक सेपा ने बताया कि स्कॉटिश परिवारों ने 2025 में 42.8% कचरे का पुनर्चक्रण किया, जो पिछले वर्ष 44.3% से कम है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-31"
-        },
-        {
-          "prompt": {
-            "en": "What is the primary role of NASA's Artemis III mission in relation to subsequent lunar explorations?",
-            "hi": "बाद के चंद्र अन्वेषणों के संबंध में नासा के आर्टेमिस III मिशन की प्राथमिक भूमिका क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To test crucial systems needed for the planned Artemis IV Moon landing in 2028",
-                "hi": "2028 में नियोजित आर्टेमिस IV चंद्रमा लैंडिंग के लिए आवश्यक महत्वपूर्ण प्रणालियों का परीक्षण करना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To establish a permanent robotic base camp on the lunar south pole",
-                "hi": "चंद्रमा के दक्षिणी ध्रुव पर एक स्थायी रोबोटिक बेस कैंप स्थापित करना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To deploy commercial communication satellites into lunar orbit",
-                "hi": "वाणिज्यिक संचार उपग्रहों को चंद्र कक्षा में तैनात करना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To mine core samples of water ice from deep lunar craters",
-                "hi": "गहरे चंद्र क्रेटरों से पानी की बर्फ के मुख्य नमूने निकालने के लिए"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing scheduled for 2028.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
-            "hi": "आर्टेमिस III 2028 के लिए निर्धारित नियोजित आर्टेमिस IV चंद्रमा लैंडिंग के लिए आवश्यक महत्वपूर्ण प्रणालियों का परीक्षण करने में मदद करेगा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-32"
-        },
-        {
-          "prompt": {
-            "en": "What was the primary stated objective of the Oleshky ceasefire in Ukraine?",
-            "hi": "यूक्रेन में ओलेस्की युद्धविराम का प्राथमिक घोषित उद्देश्य क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To clear landmines along regional railway networks",
-                "hi": "क्षेत्रीय रेलवे नेटवर्क पर बारूदी सुरंगों को साफ़ करना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To permit international military inspectors to survey nuclear installations",
-                "hi": "अंतर्राष्ट्रीय सैन्य निरीक्षकों को परमाणु प्रतिष्ठानों का सर्वेक्षण करने की अनुमति देना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To facilitate bilateral peace treaty negotiations in a neutral European city",
-                "hi": "एक तटस्थ यूरोपीय शहर में द्विपक्षीय शांति संधि वार्ता को सुविधाजनक बनाना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To allow aid to get in and civilians to get out",
-                "hi": "सहायता को अंदर जाने और नागरिकों को बाहर निकलने की अनुमति देना"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The Oleshky ceasefire was meant to allow humanitarian aid to get in and civilians to get out of the city.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-            "hi": "ओलेस्की युद्धविराम का उद्देश्य मानवीय सहायता को शहर में प्रवेश करने और नागरिकों को शहर से बाहर निकलने की अनुमति देना था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-10-29-33"
-        },
-        {
-          "prompt": {
-            "en": "According to the official inquiry into the deaths of detainees in Nigeria, what caused the fatalities in a prison cell in Minna state?",
-            "hi": "नाइजीरिया में बंदियों की मौत की आधिकारिक जांच के अनुसार, मिन्ना राज्य की जेल की कोठरी में मौतों का कारण क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Structural collapse caused by severe flooding",
-                "hi": "भीषण बाढ़ के कारण संरचनात्मक पतन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Overcrowding and poor ventilation",
-                "hi": "अत्यधिक भीड़भाड़ और खराब वेंटिलेशन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Contaminated food supplies distributed during meal times",
-                "hi": "भोजन के समय दूषित खाद्य सामग्री वितरित की गई"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "An outbreak of an acute respiratory viral infection",
-                "hi": "तीव्र श्वसन वायरल संक्रमण का प्रकोप"
+                "en": "The genetic mutation rates across isolated island populations",
+                "hi": "पृथक द्वीप आबादी में आनुवंशिक उत्परिवर्तन दर"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The inquiry found that overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-            "hi": "जांच में पाया गया कि भीड़भाड़ और खराब वेंटिलेशन के कारण मिन्ना राज्य की एक जेल की कोठरी में 33 बंदियों की मौत हो गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss"
+            "en": "Linguistic hotspots provide insights into how human languages developed greater variety prior to major population movements and migrations.\nSource: https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
+            "hi": "भाषाई हॉटस्पॉट इस बात की अंतर्दृष्टि प्रदान करते हैं कि प्रमुख जनसंख्या आंदोलनों और प्रवासन से पहले मानव भाषाओं में अधिक विविधता कैसे विकसित हुई।\nस्रोत: https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
           },
           "section": "Set 3: Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-10-29-34"
+          "id": "2026-10-28-28"
+        },
+        {
+          "prompt": {
+            "en": "In which county were wedding guests left stranded on an island due to Storm Boelo?",
+            "hi": "तूफ़ान बोएलो के कारण किस काउंटी में शादी के मेहमान एक द्वीप पर फंसे रह गए थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "County Cork",
+                "hi": "काउंटी कॉर्क"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "County Galway",
+                "hi": "काउंटी गॉलवे"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "County Fermanagh",
+                "hi": "काउंटी फ़रमानघ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "County Antrim",
+                "hi": "काउंटी एंट्रीम"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Storm Boelo caused wedding guests to become stranded on an island located in County Fermanagh.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
+            "hi": "तूफ़ान बोएलो के कारण शादी में आए मेहमान काउंटी फ़रमानघ में स्थित एक द्वीप पर फंस गए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-29"
+        },
+        {
+          "prompt": {
+            "en": "Which regions were placed under a fresh wind warning by the Met Office starting Monday evening during Storm Boelo?",
+            "hi": "तूफान बोएलो के दौरान सोमवार शाम से मौसम कार्यालय द्वारा किन क्षेत्रों को ताज़ा हवा की चेतावनी के तहत रखा गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Scottish Highlands and the northernmost isles of Shetland",
+                "hi": "स्कॉटिश हाइलैंड्स और शेटलैंड के सबसे उत्तरी द्वीप"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Southern England and the English Channel islands exclusively",
+                "hi": "विशेष रूप से दक्षिणी इंग्लैंड और इंग्लिश चैनल द्वीप समूह"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Inland midlands and the eastern agricultural plains of Britain",
+                "hi": "अंतर्देशीय मध्यभूमि और ब्रिटेन के पूर्वी कृषि मैदान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The west coast of England, Wales and Scotland and eastern parts of Northern Ireland",
+                "hi": "इंग्लैंड, वेल्स और स्कॉटलैंड के पश्चिमी तट और उत्तरी आयरलैंड के पूर्वी हिस्से"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Met Office wind warning covered the west coast of England, Wales, Scotland, and eastern parts of Northern Ireland.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+            "hi": "मौसम कार्यालय की हवा की चेतावनी ने इंग्लैंड के पश्चिमी तट, वेल्स, स्कॉटलैंड और उत्तरी आयरलैंड के पूर्वी हिस्सों को कवर किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-30"
+        },
+        {
+          "prompt": {
+            "en": "In which continent's western region has a stretch of water been named the Amos Channel after a former BBC science correspondent?",
+            "hi": "किस महाद्वीप के पश्चिमी क्षेत्र में पानी के एक विस्तार को पूर्व बीबीसी विज्ञान संवाददाता के नाम पर अमोस चैनल नाम दिया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Antarctica",
+                "hi": "अंटार्कटिका"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Europe",
+                "hi": "यूरोप"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "South America",
+                "hi": "दक्षिण अमेरिका"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Australia",
+                "hi": "ऑस्ट्रेलिया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "A stretch of water in the west of Antarctica was named the Amos Channel after the former BBC journalist.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+            "hi": "पूर्व बीबीसी पत्रकार के नाम पर अंटार्कटिका के पश्चिम में पानी के एक हिस्से का नाम अमोस चैनल रखा गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-31"
+        },
+        {
+          "prompt": {
+            "en": "In the dramatic Brazil election comeback, which left-wing incumbent president defeated right-wing challenger Flávio Bolsonaro to win a fourth term?",
+            "hi": "नाटकीय ब्राज़ील चुनाव में वापसी में, किस वामपंथी निवर्तमान राष्ट्रपति ने दक्षिणपंथी चुनौती देने वाले फ्लेवियो बोल्सोनारो को हराकर चौथा कार्यकाल जीता?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lula",
+                "hi": "लूला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fernando Haddad",
+                "hi": "फर्नांडो हद्दाद"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Ciro Gomes",
+                "hi": "सिरो गोम्स"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Geraldo Alckmin",
+                "hi": "गेराल्डो एल्कमिन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Left-wing incumbent president Lula secured his fourth term after overcoming a first-round defeat to Flávio Bolsonaro.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+            "hi": "वामपंथी निवर्तमान राष्ट्रपति लूला ने फ्लेवियो बोल्सोनारो से पहले दौर में हार के बाद अपना चौथा कार्यकाल हासिल किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-32"
+        },
+        {
+          "prompt": {
+            "en": "Following elections in Serbia, the populist right-wing leader of 12 years lost to which political force?",
+            "hi": "सर्बिया में चुनावों के बाद, 12 साल का लोकलुभावन दक्षिणपंथी नेता किस राजनीतिक ताकत से हार गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An alliance of traditional communist party remnants",
+                "hi": "पारंपरिक कम्युनिस्ट पार्टी के अवशेषों का गठबंधन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A coalition of far-right nationalist military veterans",
+                "hi": "धुर दक्षिणपंथी राष्ट्रवादी सैन्य दिग्गजों का गठबंधन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A student-led protest movement",
+                "hi": "एक छात्र के नेतृत्व वाला विरोध आंदोलन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A foreign-backed technocratic council",
+                "hi": "एक विदेशी समर्थित तकनीकी परिषद"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Veteran ruler Vučić acknowledged losing the election after a challenge mounted by a student-led protest movement.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+            "hi": "वयोवृद्ध शासक वुसिक ने छात्र-नेतृत्व वाले विरोध आंदोलन द्वारा दी गई चुनौती के बाद चुनाव हारने की बात स्वीकार की।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-33"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the US Marine indicted by prosecutors for the murder and robbery of a woman in Japan, causing widespread public outrage?",
+            "hi": "जापान में एक महिला की हत्या और डकैती के लिए अभियोजकों द्वारा दोषी ठहराए गए अमेरिकी मरीन का नाम क्या है, जिससे व्यापक सार्वजनिक आक्रोश पैदा हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Marcus Tyler Vance",
+                "hi": "मार्कस टायलर वेंस"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Devin Jacob Ballard",
+                "hi": "डेविन जैकब बैलार्ड"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Christopher Ryan Sterling",
+                "hi": "क्रिस्टोफर रयान स्टर्लिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Brandon Lee Harrington",
+                "hi": "ब्रैंडन ली हैरिंगटन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Devin Jacob Ballard is the US Marine indicted for the murder and robbery in Japan.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+            "hi": "डेविन जैकब बैलार्ड अमेरिकी नौसैनिक हैं जिन पर जापान में हत्या और डकैती का आरोप लगाया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-28-34"
         }
       ],
       "quarantined": [],
@@ -1773,149 +1773,149 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-10-29T18:00:00+05:30"
+      "release_at": "2026-10-28T18:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "Cyclone ‘Arnab’ LIVE updates | Civil Aviation Ministry reviews situation to ensure safety of flight operations",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-      "published": "2026-10-28T00:35:24+05:30"
+      "title": "After slashing VAT on jet fuel, Tamil Nadu government asks airlines to add more services from Chennai airport",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/after-slashing-vat-on-jet-fuel-tamil-nadu-government-asks-airlines-to-add-more-services-from-chennai-airport/article71626942.ece",
+      "published": "2026-10-27T00:48:10+05:30"
     },
     {
-      "title": "Cyclone Arnab: Civil Aviation Ministry reviews situation to ensure safety of flight operations",
-      "url": "https://www.thehindu.com/news/national/cyclone-arnab-civil-aviation-ministry-reviews-situation-to-ensure-safety-of-flight-operations/article71633204.ece",
-      "published": "2026-10-28T00:33:50+05:30"
+      "title": "State government relaxes norms for height restriction on non-high rise buildings",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/state-government-relaxes-norms-for-height-restriction-on-non-high-rise-buildings/article71628586.ece",
+      "published": "2026-10-27T00:23:20+05:30"
     },
     {
-      "title": "Sreedharan tells Keralam govt. to ‘ignore’ technical panel’s objections over high-speed rail project",
-      "url": "https://www.thehindu.com/news/national/kerala/sreedharan-tells-keralam-govt-to-ignore-technical-panels-objections-over-high-speed-rail-project/article71632175.ece",
-      "published": "2026-10-28T00:29:41+05:30"
+      "title": "A.P., Odisha on alert as cyclone ‘Arnab’ nears land | LIVE",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
+      "published": "2026-10-27T00:02:22+05:30"
     },
     {
-      "title": "Three girls missing in Tiruvannamalai",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/three-girls-missing-in-tiruvannamalai/article71632323.ece",
-      "published": "2026-10-28T00:18:58+05:30"
+      "title": "Tiger Shroff firing case: Custody of four accused extended till Oct 28; 11th accused remanded till Oct 31",
+      "url": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+      "published": "2026-10-27T00:00:57+05:30"
     },
     {
-      "title": "Highways Dept. calls for consultants to prepare DPR on linking OMR, ECR",
-      "url": "https://www.thehindu.com/news/cities/chennai/highways-dept-calls-for-consultants-to-prepare-dpr-on-linking-omr-ecr/article71632390.ece",
-      "published": "2026-10-28T00:17:55+05:30"
+      "title": "Microsoft is offering buyouts to around 60,000 employees, reports say",
+      "url": "https://www.thehindu.com/business/Industry/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
+      "published": "2026-10-27T00:24:57+05:30"
     },
     {
-      "title": "Cyclone Arnab: heavy rain brings Vizag to standstill; civic agencies on high alert",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-heavy-rain-brings-vizag-to-standstill-civic-agencies-on-high-alert/article71632812.ece",
-      "published": "2026-10-28T00:16:50+05:30"
+      "title": "Anthropic files for IPO as revenue jumps 14-fold to $16.3 billion in H1",
+      "url": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
+      "published": "2026-10-26T23:16:17+05:30"
     },
     {
-      "title": "RBI Governor asks states to adopt prudent borrowing strategies",
-      "url": "https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece",
-      "published": "2026-10-27T22:44:31+05:30"
+      "title": "CCPA fines Britannia ₹1 lakh over '100% whole wheat bread' claim; product contains only 62% wheat",
+      "url": "https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
+      "published": "2026-10-26T22:49:44+05:30"
     },
     {
-      "title": "IRDAI to implement distribution reforms only after consensus: Ajay Seth",
-      "url": "https://www.thehindu.com/business/Industry/irdai-to-implement-distribution-reforms-only-after-consensus-ajay-seth/article71633033.ece",
-      "published": "2026-10-27T22:37:17+05:30"
+      "title": "Indian shipyards double delivery pipeline, but still hold only 0.5% of global orders",
+      "url": "https://www.thehindu.com/business/Industry/indian-shipyards-double-delivery-pipeline-but-still-hold-only-05-of-global-orders/article71611530.ece",
+      "published": "2026-10-26T22:39:05+05:30"
     },
     {
-      "title": "Fresh bad-loan generation may rise in FY27; private banks face greater pressure: Report",
-      "url": "https://www.thehindu.com/business/fresh-bad-loan-generation-may-rise-in-fy27-private-banks-face-greater-pressure-report/article71632935.ece",
-      "published": "2026-10-27T22:06:00+05:30"
+      "title": "IOB net profit up 56 pc at ₹1,962.67 crore in September quarter, bank plans to launch QIP in Q4",
+      "url": "https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece",
+      "published": "2026-10-26T22:36:12+05:30"
     },
     {
-      "title": "L&T Q2 PAT rises 33% to ₹5,202 crore, revenue up 16%",
-      "url": "https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece",
-      "published": "2026-10-27T21:19:34+05:30"
+      "title": "Tata Communications to invest ₹4,350 crore in 10,000-km AI data centre network",
+      "url": "https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece",
+      "published": "2026-10-26T22:24:13+05:30"
     },
     {
-      "title": "AM Green bags long term contract from JERA to supply green ammonia in Japan",
-      "url": "https://www.thehindu.com/business/Industry/am-green-bags-long-term-contract-from-jera-to-supply-green-ammonia-in-japan/article71632300.ece",
-      "published": "2026-10-27T20:49:04+05:30"
+      "title": "Seven caveats in the claim about turning mercury into gold with nuclear fusion",
+      "url": "https://www.thehindu.com/sci-tech/science/seven-caveats-in-the-claim-about-turning-mercury-into-gold-with-nuclear-fusion/article71626055.ece",
+      "published": "2026-10-26T13:45:55+05:30"
     },
     {
-      "title": "Maruti Q2 profit falls 27% on West Asia headwinds; sales surge 26.5%",
-      "url": "https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece",
-      "published": "2026-10-27T20:14:37+05:30"
+      "title": "India needs to train its clinical staff before erecting data shields",
+      "url": "https://www.thehindu.com/sci-tech/science/dpdp-act-patient-data-protection-privacy-clinical-staff-training/article71623153.ece",
+      "published": "2026-10-26T11:12:13+05:30"
     },
     {
-      "title": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain",
-      "url": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
-      "published": "2026-10-27T20:09:05+05:30"
+      "title": "Starshield | The non-state sovereigns",
+      "url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece",
+      "published": "2026-10-26T08:51:11+05:30"
     },
     {
       "title": "A physicist who took atoms near absolute zero, and physics further",
       "url": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
-      "published": "2026-10-27T18:19:46+05:30"
+      "published": "2026-10-26T07:19:34+05:30"
     },
     {
-      "title": "Plant-based meat yields higher share of absorbable protein than traditional meat: study",
-      "url": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
-      "published": "2026-10-27T18:17:34+05:30"
+      "title": "String theory pioneer Ashoke Sen wins Oskar Klein Medal",
+      "url": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+      "published": "2026-10-26T01:57:01+05:30"
     },
     {
-      "title": "In Kashmir’s traditional rice, clues to a journey from East Asia",
-      "url": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
-      "published": "2026-10-27T14:27:27+05:30"
+      "title": "How people’s genes are revealing why some languages are so unique",
+      "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
+      "published": "2026-10-25T19:39:33+05:30"
     },
     {
-      "title": "India's largest share sale could end cheap mobile internet for millions",
-      "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T00:00:30+00:00"
+      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T01:09:41+00:00"
     },
     {
-      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T13:08:26+00:00"
+      "title": "Britain's posh schools are heading to India for students and profits",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx1ldvz5vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T23:02:25+00:00"
     },
     {
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T15:01:27+00:00"
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T10:28:12+00:00"
     },
     {
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T06:33:11+00:00"
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T00:26:49+00:00"
     },
     {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T13:25:54+00:00"
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:09:49+00:00"
     },
     {
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T09:37:55+00:00"
+      "title": "'Safety first' as wedding guests stranded on island after Storm Boelo",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:09:39+00:00"
     },
     {
-      "title": "Will a new strategy help protect Northern Ireland's nature?",
-      "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T17:51:13+00:00"
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T17:22:51+00:00"
     },
     {
-      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T17:10:15+00:00"
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T14:54:40+00:00"
     },
     {
-      "title": "Scotland's recycling rates at five-year low. How is your area doing?",
-      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T15:32:40+00:00"
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:26:19+00:00"
     },
     {
-      "title": "What is Nasa's Artemis III mission? And what comes next?",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T10:33:26+00:00"
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T14:34:52+00:00"
     },
     {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T15:13:24+00:00"
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T19:27:21+00:00"
     },
     {
-      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-      "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T19:01:16+00:00"
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T14:13:18+00:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 name: Daily current affairs
 on:
   schedule:
-    - cron: '30 11 * * *' # 17:00 IST: 1st run - prepare tomorrow from evening news
+    - cron: '45 12 * * *' # 18:15 IST: 1st run - prepare tomorrow after all 3 waves of today are live (18:00 IST)
     - cron: '0 14 * * *'  # 19:30 IST: 2nd run - top-up/retry if incomplete
     - cron: '30 16 * * *' # 22:00 IST: 3rd run - top-up/retry if incomplete
     - cron: '30 19 * * *' # 01:00 IST: 4th run - overnight retry if incomplete

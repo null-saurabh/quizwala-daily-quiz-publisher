@@ -48,7 +48,12 @@ def publication(day):
 
 class DailyGenerationTests(unittest.TestCase):
     def test_evening_generation_targets_next_edition(self):
-        for instant in ['2026-10-21T12:00:00+00:00', '2026-10-21T15:00:00+00:00', '2026-10-21T18:00:00+00:00']:
+        # At or after 18:00 IST (12:30 UTC), all 3 waves of Oct 21 are live -> targets Oct 22 (EDITION_DATE)
+        for instant in ['2026-10-21T12:30:00+00:00', '2026-10-21T15:00:00+00:00', '2026-10-21T18:00:00+00:00']:
+            self.assertEqual(generate.edition_for_run(dt.datetime.fromisoformat(instant)), EDITION_DATE)
+        # Overnight retries after midnight IST (01:00 IST = 19:30 UTC, 04:00 IST = 22:30 UTC) and daytime before 18:00 IST
+        # MUST target Oct 22 (EDITION_DATE), NEVER Oct 23 (day after tomorrow)!
+        for instant in ['2026-10-21T19:30:00+00:00', '2026-10-21T22:30:00+00:00', '2026-10-22T12:00:00+00:00']:
             self.assertEqual(generate.edition_for_run(dt.datetime.fromisoformat(instant)), EDITION_DATE)
         self.assertEqual(generate.edition_for_run(dt.datetime.fromisoformat('2026-12-31T16:00:00+00:00')), dt.date(2027, 1, 1))
         self.assertEqual(generate.edition_for_run(dt.datetime.fromisoformat('2028-02-28T16:00:00+00:00')), dt.date(2028, 2, 29))
@@ -244,14 +249,14 @@ class DailyGenerationTests(unittest.TestCase):
                 api.assert_not_called()
             self.assertTrue((root / 'site/latest.json').exists())
 
-    def test_later_waves_receive_distribution_remainders(self):
+    def test_earlier_waves_receive_distribution_remainders(self):
         expected = {
             3: [1, 1, 1],
-            4: [1, 1, 2],
-            5: [1, 2, 2],
+            4: [2, 1, 1],
+            5: [2, 2, 1],
             6: [2, 2, 2],
-            7: [2, 2, 3],
-            8: [2, 3, 3],
+            7: [3, 2, 2],
+            8: [3, 3, 2],
         }
         for count, sizes in expected.items():
             with self.subTest(count=count):
