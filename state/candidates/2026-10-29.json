@@ -1318,6 +1318,476 @@
       "warnings": [
         "AI-generated from linked public news sources. Check important facts against the source."
       ]
+    },
+    {
+      "title": "Regional Governance & Infrastructure Development",
+      "source_filename": "daily-2026-10-29.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the primary objective of the Maritime Board (Amendment) Bill passed in the Kerala Assembly?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To decentralize port management to district-level panchayats."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To dissolve the maritime board permanently and transfer all assets to private operators."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To provide for reconstitution of the board to establish a centralised decision-making mechanism"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To restrict maritime trade exclusively to domestic coastal shipping."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states that the Bill provides for the reconstitution of the board to establish a centralised decision-making mechanism.\nSource: https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-29"
+        },
+        {
+          "prompt": {
+            "en": "According to speakers at the CII conference on advanced manufacturing, what must India move beyond?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Digital integration and automation"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Heavy industrial infrastructure"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Export-driven subsidies"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Manufacturing scale"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt notes that speakers underscored the need for India to move beyond manufacturing scale by focusing on value addition, design-led innovation, and tech ownership.\nSource: https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-30"
+        },
+        {
+          "prompt": {
+            "en": "During discussions regarding investments in West Bengal, what specific proposal did Vedanta chief Anil Agarwal make, according to the Chief Minister?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To establish a semiconductor fabrication plant in Kolkata"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To set up a manufacturing unit in Asansol"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To construct a deep-sea port in Haldia"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To develop a mega solar park in Siliguri"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The Chief Minister noted that the industrialist made a specific proposal to set up a unit in Asansol during their discussions.\nSource: https://www.thehindu.com/business/vedanta-chief-meets-suvendu-explores-investments-in-west-bengal/article71636273.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/business/vedanta-chief-meets-suvendu-explores-investments-in-west-bengal/article71636273.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-31"
+        },
+        {
+          "prompt": {
+            "en": "Why is the Ratnagiri LNG terminal currently operating at only about 50% capacity according to GAIL India executives?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because the heating unit is not ready"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Due to acute shortage of international LNG tankers"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because of strict environmental restrictions imposed by local authorities"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Due to pipeline connectivity failures across neighboring states"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt clearly explains that the facility operates at about 50% capacity because the heating unit is not ready.\nSource: https://www.thehindu.com/business/gail-india-to-invest-63-million-in-heating-unit-at-ratnagiri-lng-terminal-executive-says/article71637659.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/business/gail-india-to-invest-63-million-in-heating-unit-at-ratnagiri-lng-terminal-executive-says/article71637659.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-32"
+        },
+        {
+          "prompt": {
+            "en": "What was City Union Bank's net profit in the July-September quarter of the previous fiscal year before rising to ₹416 crore?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹329 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹315 crore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹290 crore"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹350 crore"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text reports that the bank had a net profit of ₹329 crore in the July-September quarter of the last fiscal.\nSource: https://www.thehindu.com/business/city-union-bank-q2-net-rises-26-pc-to-416-cr/article71637650.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/business/city-union-bank-q2-net-rises-26-pc-to-416-cr/article71637650.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-33"
+        },
+        {
+          "prompt": {
+            "en": "According to Chairman Anil Agarwal, what profit target has the Vedanta Group set for the current year?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$5 billion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$20 billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$15 billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$11 billion"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Anil Agarwal stated that Vedanta is targeting $11 billion in profits for the current year.\nSource: https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-34"
+        },
+        {
+          "prompt": {
+            "en": "According to economic assessments, what combination of factors drives India's risk of entering a middle-income, low-productivity trap?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Weak job creation, stagnant wages and sluggish investment"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "High inflation, excess currency reserves, and overproduction"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Excessive taxation, strict labor regulations, and low foreign direct investment"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rapid urbanization, agricultural distress, and power shortages"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text identifies that India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another.\nSource: https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-35"
+        },
+        {
+          "prompt": {
+            "en": "What geopolitical and economic advantage empowers Brazil's leadership to potentially bridge divides in climate negotiations?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Its leadership of the Organization of Petroleum Exporting Countries (OPEC)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Its position as Latin America’s largest economy, host to most of the Amazon, and broad diplomatic ties"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its exclusive status as the world's largest exporter of renewable energy technology"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Its complete military neutrality and absence of trade pacts"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt highlights Brazil's status as Latin America’s largest economy, host to most of the Amazon, and its diverse diplomatic relationships.\nSource: https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-36"
+        },
+        {
+          "prompt": {
+            "en": "According to recent genetic analysis, Kashmir's traditional rice varieties are found to be most closely related to varieties originating from which region?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Middle East and Central Asia"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Southeast Asia and the Indo-Gangetic plain"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Korean Peninsula and Northeast China"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Southern Europe and the Mediterranean basin"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text explicitly notes that the analysis indicated the traditional rice varieties are more closely related to those from the Korean Peninsula and Northeast China.\nSource: https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-37"
+        },
+        {
+          "prompt": {
+            "en": "What potential consequence for consumers has been associated with Jio's upcoming initial public offering (IPO) share sale?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A steep increase in domestic voice call tariffs across all operators"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mandatory migration to satellite-based communication networks"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The end of cheap mobile internet and data for millions"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The elimination of free bundled streaming services"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report notes that Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Regional Governance & Infrastructure Development",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-38"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
     }
   ],
   "sources": [
@@ -1600,6 +2070,27 @@
       "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T08:28:39+00:00",
       "text": "No official reason has been given for postponing next month’s hearing to May 2027, the family says."
+    },
+    {
+      "id": "1",
+      "title": "Maritime Board (Amendment) Bill passed in Assembly amid Opposition walkout",
+      "url": "https://www.thehindu.com/news/national/kerala/maritime-board-amendment-bill-passed-in-assembly-amid-opposition-walkout/article71637382.ece",
+      "published": "2026-10-29T00:31:47+05:30",
+      "text": "The Bill provides for reconstitution of the board to establish a centralised decision-making mechanism"
+    },
+    {
+      "id": "2",
+      "title": "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+      "published": "2026-10-29T00:15:54+05:30",
+      "text": "The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast"
+    },
+    {
+      "id": "23",
+      "title": "Five ways the Budget will affect you if you are under 25",
+      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:55:56+00:00",
+      "text": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage."
     }
   ]
 }
