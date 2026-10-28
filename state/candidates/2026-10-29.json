@@ -1,0 +1,1605 @@
+{
+  "date": "2026-10-29",
+  "sets": [
+    {
+      "title": "Banking, Finance & Industry Performance",
+      "source_filename": "daily-2026-10-29.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "By what percentage did City Union Bank's net profit increase in the July-September quarter compared to the previous fiscal?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "26 percent"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "18 percent"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "32 percent"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "41 percent"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "City Union Bank reported a 26 percent rise in its Q2 net profit, moving to ₹416 crore from ₹329 crore in the corresponding period of the previous fiscal.\nSource: https://www.thehindu.com/business/city-union-bank-q2-net-rises-26-pc-to-416-cr/article71637650.ece",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.thehindu.com/business/city-union-bank-q2-net-rises-26-pc-to-416-cr/article71637650.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-1"
+        },
+        {
+          "prompt": {
+            "en": "What is Vedanta targeting in terms of profits for the current year, according to Chairman Anil Agarwal?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$15 billion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$11 billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$20 billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$5 billion"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Chairman Anil Agarwal stated that Vedanta is targeting $11 billion in profits for the current year, while eyeing $20 billion over the next two years.\nSource: https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-2"
+        },
+        {
+          "prompt": {
+            "en": "During his meeting regarding potential investments in West Bengal, what specific proposal did the Vedanta chief make according to the Chief Minister?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To build a semiconductor fabrication plant in Haldia"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To set up a unit in Asansol"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To establish an aluminium refinery in Siliguri"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To open a mega logistics hub in Kolkata"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The Chief Minister noted that the industrialist made a specific proposal to set up a unit in Asansol while exploring investments in West Bengal.\nSource: https://www.thehindu.com/business/vedanta-chief-meets-suvendu-explores-investments-in-west-bengal/article71636273.ece",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.thehindu.com/business/vedanta-chief-meets-suvendu-explores-investments-in-west-bengal/article71636273.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-3"
+        },
+        {
+          "prompt": {
+            "en": "Why is the Ratnagiri LNG terminal currently operating at about 50% capacity?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because gas pipeline connectivity is incomplete"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because environmental clearances have expired"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because the heating unit is not ready"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Because of severe regional feedstock shortages"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "According to a GAIL executive, the facility is operating at about 50% capacity because the heating unit is not ready, prompting a $63 million investment.\nSource: https://www.thehindu.com/business/gail-india-to-invest-63-million-in-heating-unit-at-ratnagiri-lng-terminal-executive-says/article71637659.ece",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.thehindu.com/business/gail-india-to-invest-63-million-in-heating-unit-at-ratnagiri-lng-terminal-executive-says/article71637659.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-4"
+        },
+        {
+          "prompt": {
+            "en": "What milestone is associated with Jio's upcoming share sale as described in recent reports?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It represents the country's first cross-border telecom IPO"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is India's largest share sale and could impact cheap mobile internet"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is the smallest public offering by a digital service provider"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It guarantees permanent subsidies for rural data consumers"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Reports highlight that Jio's IPO promises a windfall for investors while potentially signaling the end of cheap mobile data for millions as India's largest share sale.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-5"
+        },
+        {
+          "prompt": {
+            "en": "What regulatory outcome did Dr. Reddy's Srikakulam manufacturing unit receive from the U.S. FDA?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A Voluntary Action Indicated (VAI) tag and closure of inspection"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An official warning letter and production halt"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A complete import ban across North American ports"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mandatory third-party oversight for five years"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The U.S. FDA issued a VAI (Voluntary Action Indicated) tag for Dr. Reddy's unit in Srikakulam and formally closed the inspection.\nSource: https://www.thehindu.com/business/Industry/us-fdas-vai-tag-for-dr-reddys-unit-in-srikakulam-inspection-closed/article71637226.ece",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.thehindu.com/business/Industry/us-fdas-vai-tag-for-dr-reddys-unit-in-srikakulam-inspection-closed/article71637226.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-6"
+        },
+        {
+          "prompt": {
+            "en": "At the CII conference on advanced manufacturing, what did speakers underscore as a necessity for India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Moving beyond manufacturing scale toward value addition, design-led innovation, and tech ownership"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Subsidizing raw material imports to cut production costs"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Restricting foreign technology collaborations to protect domestic monopolies"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Focusing solely on low-cost assembly line optimization"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Speakers at the CII conference underscored the need for India to move beyond manufacturing scale by focusing on value addition, design-led innovation, and tech ownership.\nSource: https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-7"
+        },
+        {
+          "prompt": {
+            "en": "According to economic assessments, what is required for India to escape the middle-income, low-productivity trap?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Higher import tariffs on consumer electronics and capital goods"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Immediate privatization of all heavy manufacturing public sector undertakings"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Complete reliance on foreign direct investment for job creation"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text states that escaping the low-productivity trap requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work.\nSource: https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-8"
+        },
+        {
+          "prompt": {
+            "en": "Who announced the new financial changes in the UK budget affecting pay, energy bills, and savings?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Treasurer Jeremy Hunt"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chancellor Rachel Reeves"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Prime Minister Keir Starmer"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Chancellor John Healey"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Chancellor John Healey set out the government's tax and spending plans in his first Budget, introducing measures affecting finances directly.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-9"
+        },
+        {
+          "prompt": {
+            "en": "For how many additional years have UK tax thresholds been frozen?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "One year"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Two years"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Three years"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Five years"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The thresholds at which individuals start paying tax or transition to a higher rate have been frozen for three more years.\nSource: BBC News · https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Banking, Finance & Industry Performance",
+          "source_label": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-10"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Science, Agriculture & Genetic Research",
+      "source_filename": "daily-2026-10-29.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What did laboratory tests reveal regarding plant-based meat products compared to their traditional chicken counterparts?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They contain lower levels of total amino acids"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They possess identical nutritional profiles with no measurable differences"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They yield a higher share of absorbable protein (protein bioavailability)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They exhibit significantly reduced shelf stability under ambient conditions"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Laboratory tests show higher protein bioavailability (absorbable protein) in five plant-based products than in their chicken counterparts, though researchers caution further health studies are needed.\nSource: https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-11"
+        },
+        {
+          "prompt": {
+            "en": "Traditional rice varieties in Kashmir were found by recent research to be most closely related to varieties from which regions?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Gangetic Plains and Eastern India"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Southeast Asia and the Mekong Delta"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Korean Peninsula and Northeast China"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Central Asia and the Iranian Plateau"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Analysis indicated that traditional Kashmiri rice varieties are more closely related to those from the Korean Peninsula and Northeast China, possessing valuable cold-tolerance genes.\nSource: https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-12"
+        },
+        {
+          "prompt": {
+            "en": "The recent auction sale of which rare dinosaur skeleton for $47.3 million in New York reignited a scientific debate?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Tyrannosaurus rex"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Triceratops"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Nanotyrannus"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Velociraptor"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The sale of the rare Nanotyrannus skeleton for $47.3 million in New York reignited debates among scientists regarding private ownership versus public museum display.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-13"
+        },
+        {
+          "prompt": {
+            "en": "According to Scotland's environmental regulator Sepa, what was the household recycling rate in 2025?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "42.8 percent"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "38.5 percent"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "46.1 percent"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "50.0 percent"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Sepa reported that Scottish households recycled 42.8% of waste in 2025, marking a decrease from 44.3% the previous year.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-14"
+        },
+        {
+          "prompt": {
+            "en": "How did Tanzania's energy minister describe the country's recent natural gas find?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A minor operational setback"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A temporary exploratory venture"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An unexpected ecological challenge"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A major milestone for the East African nation"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Tanzania celebrated its first natural gas discovery in over 10 years, with the energy minister describing it as a 'major milestone' for the nation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-15"
+        },
+        {
+          "prompt": {
+            "en": "What unique geopolitical and environmental position enables Brazil's president to potentially bridge divides in climate negotiations?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Its exclusive energy independence from fossil fuels"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Its sole leadership of the Organization of American States"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its status as Latin America's largest economy, host to most of the Amazon, and broad diplomatic ties"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Its complete military dominance across the Southern Hemisphere"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Brazil is positioned to navigate climate divides due to being Latin America's largest economy, housing most of the Amazon, and maintaining diplomatic relationships with the EU, U.S., China, and BRICS.\nSource: https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-16"
+        },
+        {
+          "prompt": {
+            "en": "Which scientific pioneer is noted for taking atoms near absolute zero and having notable connections to India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Enrico Fermi"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Max Planck"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Niels Bohr"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Claude Cohen-Tannoudji"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Claude Cohen-Tannoudji is recognized as a physicist who took atoms near absolute zero and acknowledged the work of an earlier Indian scientist.\nSource: https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-17"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of plants and animals in protected sites across Northern Ireland fall short of the 'favourable condition' standard?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "About 40 percent"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "About 25 percent"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "About 15 percent"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "About 65 percent"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Recent strategy assessments indicate that about 40% of the plants and animals in Northern Ireland's protected sites fall short of meeting the standard for favorable condition.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-18"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary function of NASA's Artemis III mission in relation to subsequent lunar explorations?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It will serve as the final manned flight to the International Space Station"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It will establish a permanent nuclear power plant on the lunar surface"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It will deploy automated asteroid-mining rovers"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It will test crucial systems needed for the planned Artemis IV Moon landing in 2028"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Artemis III is designed to help test crucial systems needed for the planned Artemis IV Moon landing scheduled for 2028.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Agriculture & Genetic Research",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-19"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "International Affairs, Politics & Governance",
+      "source_filename": "daily-2026-10-29.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Following recent MLC poll results in Maharashtra, which political leader called for introspection after a setback for the ruling NCP?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sharad Pawar"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Praful Patel"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Devendra Fadnavis"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ajit Pawar"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Senior leader Praful Patel called for introspection following setbacks for the ruling NCP during the Maharashtra MLC polls where counting continued.\nSource: https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls/article71637475.ece",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls/article71637475.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-20"
+        },
+        {
+          "prompt": {
+            "en": "Out of the 120 seats in the Israeli Knesset, how many are set to be won by Prime Minister Netanyahu's Likud party and its allies based on partial results?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "45 seats"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "68 seats"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "61 seats"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "53 seats"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset, falling short of an outright majority.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-21"
+        },
+        {
+          "prompt": {
+            "en": "What was the demographic background of the attacker who targeted an officer outside the Israeli embassy in Belgrade?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An underage male being monitored by security services"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A foreign mercenary with diplomatic immunity"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A radicalized university professor from Central Europe"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An active-duty military officer carrying official credentials"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Authorities reported that the individual who shot and killed a person after attacking an officer outside the Israeli embassy in Belgrade was an underage male monitored by security services.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-22"
+        },
+        {
+          "prompt": {
+            "en": "What recommendation did the UNESCO expert committee emphasize regarding the conservation of Hampi?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Complete commercial restriction around monument zones"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Immediate relocation of all resident populations outside city limits"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Stronger community participation in conservation efforts"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Transfer of management directly to international heritage agencies"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "A UNESCO expert committee explicitly sought stronger community participation to improve the conservation framework at Hampi.\nSource: https://www.thehindu.com/news/national/karnataka/unesco-expert-committee-seek-stronger-community-participation-in-hampi-conservation/article71636511.ece",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/unesco-expert-committee-seek-stronger-community-participation-in-hampi-conservation/article71636511.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-23"
+        },
+        {
+          "prompt": {
+            "en": "What directive was issued by the Additional Deputy Commissioner (ADC) regarding child labor?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To conduct awareness camps in rural schools"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To establish vocational training centers for rescued youth"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To intensify inspection to stop child labour"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To impose heavy financial penalties on municipal authorities"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The ADC instructed officials to intensify inspection to stop child labour effectively.\nSource: https://www.thehindu.com/news/national/karnataka/intensify-inspection-to-stop-child-labour-adc/article71635914.ece",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/intensify-inspection-to-stop-child-labour-adc/article71635914.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-24"
+        },
+        {
+          "prompt": {
+            "en": "What grounds did the former MLC cite when moving the High Court regarding the 'prohibitory list' of lands?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That the government was using the list to target BRS leaders"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That agricultural subsidies were illegally excluded from the register"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That tribal land titles were being transferred to corporate entities"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That urban zoning laws violated constitutional municipal rights"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "A former MLC moved the High Court questioning the 'prohibitory list' of lands, alleging that the government was specifically targeting BRS leaders.\nSource: https://www.thehindu.com/news/national/telangana/former-mlc-moves-hc-questioning-prohibitory-list-of-lands-says-government-targeting-brs-leaders/article71637731.ece",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.thehindu.com/news/national/telangana/former-mlc-moves-hc-questioning-prohibitory-list-of-lands-says-government-targeting-brs-leaders/article71637731.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-25"
+        },
+        {
+          "prompt": {
+            "en": "Against which national team did Abhishek Sharma score a 35-ball century (113 runs from 38 balls) in recent cricket matches?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "New Zealand"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "England"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Australia"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "South Africa"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Abhishek Sharma hit a fast century helping India chase a target of 199 against New Zealand in just 13.2 overs.\nSource: BBC News · https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-26"
+        },
+        {
+          "prompt": {
+            "en": "Why were luxury cruise passengers aboard the Villa Vie Odyssey stranded in Cambodia?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Due to a severe onboard outbreak of infectious illness"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because of unexpected port blockades imposed by local maritime authorities"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Due to soaring fuel costs forcing a suspension of the voyage"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Because the vessel suffered irreparable mechanical engine failure"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Luxury cruise passengers were stranded in Cambodia after the Villa Vie Odyssey suspended its voyage due to soaring fuel costs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-27"
+        },
+        {
+          "prompt": {
+            "en": "What event interrupted the cautious recovery path of India-China diplomatic ties according to recent reports?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Remarks made by a border official raising doubts about ground realities"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A naval standoff in the South China Sea"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sudden trade embargoes on electronics and pharmaceuticals"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The cancellation of bilateral climate cooperation pacts"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "India-China relations were recovering cautiously until a border official's remarks raised fresh doubts regarding ground realities.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "International Affairs, Politics & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-29-28"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "MLC polls: In Maharashtra, ruling Mahayuti gets 2 seats, counting continues for other seats",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls/article71637475.ece",
+      "published": "2026-10-28T23:44:51+05:30",
+      "text": "In Maha Vikas Aghadi, NCP SP leads on two seats; setback for ruling NCP prompts senior leader Praful Patel to call for introspection"
+    },
+    {
+      "id": "2",
+      "title": "Integrated village development programme inaugurated in Nanjangud",
+      "url": "https://www.thehindu.com/news/national/karnataka/integrated-village-development-programme-inaugurated-in-nanjangud/article71636988.ece",
+      "published": "2026-10-28T23:21:23+05:30",
+      "text": ""
+    },
+    {
+      "id": "3",
+      "title": "UNESCO expert committee seeks stronger community participation in Hampi conservation",
+      "url": "https://www.thehindu.com/news/national/karnataka/unesco-expert-committee-seek-stronger-community-participation-in-hampi-conservation/article71636511.ece",
+      "published": "2026-10-28T23:21:04+05:30",
+      "text": ""
+    },
+    {
+      "id": "4",
+      "title": "Manufacturers told to focus on value addition, design-led innovation, tech ownership",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/manufacturers-told-to-focus-on-value-addition-design-led-innovation-tech-ownership/article71637039.ece",
+      "published": "2026-10-28T23:19:24+05:30",
+      "text": "Speakers at the inaugural session of a CII conference on advanced manufacturing said this underscoring the need for India to move beyond manufacturing scale"
+    },
+    {
+      "id": "5",
+      "title": "Former MLC moves HC questioning ‘prohibitory list’ of lands, says government targeting BRS leaders",
+      "url": "https://www.thehindu.com/news/national/telangana/former-mlc-moves-hc-questioning-prohibitory-list-of-lands-says-government-targeting-brs-leaders/article71637731.ece",
+      "published": "2026-10-28T23:07:09+05:30",
+      "text": ""
+    },
+    {
+      "id": "6",
+      "title": "Intensify inspection to stop child labour: ADC",
+      "url": "https://www.thehindu.com/news/national/karnataka/intensify-inspection-to-stop-child-labour-adc/article71635914.ece",
+      "published": "2026-10-28T23:06:22+05:30",
+      "text": ""
+    },
+    {
+      "id": "7",
+      "title": "Vedanta chief meets Suvendu, explores investments in West Bengal",
+      "url": "https://www.thehindu.com/business/vedanta-chief-meets-suvendu-explores-investments-in-west-bengal/article71636273.ece",
+      "published": "2026-10-28T22:35:04+05:30",
+      "text": "Anil Agarwal says he will leave no stone unturned to invest in Bengal if the right opportunity presents itself; CM says the industrialist made a specific proposal to set up a unit in Asansol"
+    },
+    {
+      "id": "8",
+      "title": "GAIL India to invest $63 million in heating unit at Ratnagiri LNG terminal, executive says",
+      "url": "https://www.thehindu.com/business/gail-india-to-invest-63-million-in-heating-unit-at-ratnagiri-lng-terminal-executive-says/article71637659.ece",
+      "published": "2026-10-28T22:29:03+05:30",
+      "text": "The facility is ​operating at about 50% capacity as the heating ⁠unit is not ready"
+    },
+    {
+      "id": "9",
+      "title": "City Union Bank Q2 net rises 26 pc to ₹416 cr",
+      "url": "https://www.thehindu.com/business/city-union-bank-q2-net-rises-26-pc-to-416-cr/article71637650.ece",
+      "published": "2026-10-28T22:22:55+05:30",
+      "text": "The bank had a net profit of ₹329 crore in the July-September quarter of last fiscal"
+    },
+    {
+      "id": "10",
+      "title": "U.S. FDA’s VAI tag for Dr. Reddy’s unit in Srikakulam, inspection closed",
+      "url": "https://www.thehindu.com/business/Industry/us-fdas-vai-tag-for-dr-reddys-unit-in-srikakulam-inspection-closed/article71637226.ece",
+      "published": "2026-10-28T22:20:54+05:30",
+      "text": ""
+    },
+    {
+      "id": "11",
+      "title": "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal",
+      "url": "https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece",
+      "published": "2026-10-28T22:06:18+05:30",
+      "text": "Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said."
+    },
+    {
+      "id": "12",
+      "title": "The way out of the dangerous trap",
+      "url": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+      "published": "2026-10-28T21:50:43+05:30",
+      "text": "India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology and useful knowledge, and greater social value for skilled work"
+    },
+    {
+      "id": "13",
+      "title": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain",
+      "url": "https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece",
+      "published": "2026-10-27T20:09:05+05:30",
+      "text": "In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon, and its diplomatic relationships with the EU, the U.S., China, the BRICS countries and other devel"
+    },
+    {
+      "id": "14",
+      "title": "A physicist who took atoms near absolute zero, and physics further",
+      "url": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
+      "published": "2026-10-27T18:19:46+05:30",
+      "text": "Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize"
+    },
+    {
+      "id": "15",
+      "title": "Plant-based meat yields higher share of absorbable protein than traditional meat: study",
+      "url": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
+      "published": "2026-10-27T18:17:34+05:30",
+      "text": "Laboratory tests show higher protein bioavailability in five plant-based products than in their chicken counterparts; researchers caution further studies needed to assess health benefits"
+    },
+    {
+      "id": "16",
+      "title": "Your DNA says less about your personality than a short online quiz",
+      "url": "https://www.thehindu.com/sci-tech/science/your-dna-says-less-about-your-personality-than-a-short-online-quiz/article71630628.ece",
+      "published": "2026-10-27T15:08:11+05:30",
+      "text": "The findings of new research reinforce a long-standing idea in genetics that there is no single ‘personality gene’; the dataset the researchers used also directly challenged older theories that attempted to link traits to particular brain chemicals"
+    },
+    {
+      "id": "17",
+      "title": "In Kashmir’s traditional rice, clues to a journey from East Asia",
+      "url": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
+      "published": "2026-10-27T14:27:27+05:30",
+      "text": "Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research has found. The analysis also indicated the varieties are more closely related to those from the Korean Peninsula and Northeast China"
+    },
+    {
+      "id": "18",
+      "title": "Why scratching an itch feel so good",
+      "url": "https://www.thehindu.com/children/why-scratching-an-itch-feel-so-good/article71519105.ece",
+      "published": "2026-10-27T14:23:58+05:30",
+      "text": "Scratch, scratch… and then you hit the exact spot. Aah, yes! We have all had that satisfying moment when a stubborn itch finally disappears under our fingernails. But why does scratching an itch feel so good, and sometimes even feel pleasurable?"
+    },
+    {
+      "id": "19",
+      "title": "India and China were easing tensions - then a border official spoke out",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T00:06:27+00:00",
+      "text": "India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities."
+    },
+    {
+      "id": "20",
+      "title": "Abhishek hits 35-ball ton as India hammer New Zealand",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T11:26:17+00:00",
+      "text": "Abhishek Sharma's 113 from 38 balls helps India chase a target of 199 in just 13.2 overs against New Zealand."
+    },
+    {
+      "id": "21",
+      "title": "India's largest share sale could end cheap mobile internet for millions",
+      "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T00:00:30+00:00",
+      "text": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions."
+    },
+    {
+      "id": "22",
+      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T01:09:41+00:00",
+      "text": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up."
+    },
+    {
+      "id": "23",
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T16:43:35+00:00",
+      "text": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
+    },
+    {
+      "id": "24",
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T17:32:51+00:00",
+      "text": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options."
+    },
+    {
+      "id": "25",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T17:47:37+00:00",
+      "text": "Here is what you need to know about the payment that millions will receive from January."
+    },
+    {
+      "id": "26",
+      "title": "Budget 2026: Key points at a glance",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T16:55:27+00:00",
+      "text": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
+    },
+    {
+      "id": "27",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T00:01:10+00:00",
+      "text": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
+    },
+    {
+      "id": "28",
+      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:12:24+00:00",
+      "text": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
+    },
+    {
+      "id": "29",
+      "title": "Weather warning lifted as third storm to hit Scotland eases off",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T21:20:52+00:00",
+      "text": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain."
+    },
+    {
+      "id": "30",
+      "title": "Will a new strategy help protect Northern Ireland's nature?",
+      "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T17:51:13+00:00",
+      "text": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\"."
+    },
+    {
+      "id": "31",
+      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T17:10:15+00:00",
+      "text": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
+    },
+    {
+      "id": "32",
+      "title": "Scotland's recycling rates at five-year low. How is your area doing?",
+      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T15:32:40+00:00",
+      "text": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
+    },
+    {
+      "id": "33",
+      "title": "What's happening to our rubbish?",
+      "url": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T15:30:50+00:00",
+      "text": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish."
+    },
+    {
+      "id": "34",
+      "title": "What is Nasa's Artemis III mission? And what comes next?",
+      "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T10:33:26+00:00",
+      "text": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028."
+    },
+    {
+      "id": "35",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T16:59:47+00:00",
+      "text": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+    },
+    {
+      "id": "36",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T14:30:31+00:00",
+      "text": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
+    },
+    {
+      "id": "37",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T10:31:22+00:00",
+      "text": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
+    },
+    {
+      "id": "38",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T10:17:54+00:00",
+      "text": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+    },
+    {
+      "id": "39",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T10:18:40+00:00",
+      "text": "The energy minister described it as a \"major milestone\" for the East African nation."
+    },
+    {
+      "id": "40",
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T08:28:39+00:00",
+      "text": "No official reason has been given for postponing next month’s hearing to May 2027, the family says."
+    }
+  ]
+}
