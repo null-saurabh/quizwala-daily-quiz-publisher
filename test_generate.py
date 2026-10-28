@@ -121,14 +121,17 @@ class DailyGenerationTests(unittest.TestCase):
             self.assertEqual(json.loads((root / 'site/history.json').read_text())['editions'], [])
             self.assertFalse((root / 'site/editions/2026-10-21.json').exists())
 
-    def test_partial_attempts_merge_without_changing_retained_ids_or_questions(self):
+    def test_partial_attempts_publish_ready_sets_and_merge_without_changing_retained_ids(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             first = generate.validate({'sets': [topic(1, 8), topic(2, 10)]}, EVIDENCE, EDITION_DATE, partial=True)
             retained = generate.merge_candidate(first, EVIDENCE, EDITION_DATE, root)
             snapshot = json.loads(json.dumps(retained['sets']))
-            with self.assertRaisesRegex(ValueError, 'Incomplete'):
-                generate.candidate_payload(retained, EDITION_DATE)
+            # Ready set (Topic 2 with 10 questions) can be published immediately while Topic 1 (8 questions) waits for top-up
+            partial_payload = generate.candidate_payload(retained, EDITION_DATE)
+            self.assertEqual([len(d['questions']) for d in partial_payload['sets']], [10])
+            generate.publish(partial_payload, root)
+            self.assertEqual(generate.reserve_attempt(EDITION_DATE, root), 1)
             retry = generate.validate({'sets': [topic(1, 16), topic(2, 12), topic(3, 11)]}, EVIDENCE, EDITION_DATE, partial=True)
             retained = generate.merge_candidate(retry, EVIDENCE, EDITION_DATE, root)
             for deck, old in zip(retained['sets'], snapshot):
@@ -277,18 +280,17 @@ class DailyGenerationTests(unittest.TestCase):
                     [f'{EDITION_DATE.isoformat()}T18:00:00+05:30'] * sizes[2],
                 )
 
-    def test_validation_keeps_three_or_more_complete_topics_and_over_60_questions(self):
-        raw = {'sets': [topic(i, 15) for i in range(6)]}
+    def test_validation_keeps_large_sets_up_to_50_questions_without_truncation(self):
+        raw = {'sets': [topic(0, 10), topic(1, 20), topic(2, 50)]}
         result = generate.validate(raw, EVIDENCE, EDITION_DATE)
-        self.assertEqual(len(result), 6)
-        self.assertEqual(sum(len(deck['questions']) for deck in result), 90)
-        self.assertTrue(all(10 <= len(deck['questions']) <= 15 for deck in result))
+        self.assertEqual(len(result), 3)
+        self.assertEqual([len(deck['questions']) for deck in result], [10, 20, 50])
         self.assertTrue(all(deck['release_wave'] in (1, 2, 3) for deck in result))
         self.assertEqual(result[-1]['release_wave'], 3)
 
-    def test_validation_rejects_editions_with_fewer_than_three_valid_topics(self):
-        with self.assertRaisesRegex(ValueError, 'Fewer than three distinct topics'):
-            generate.validate({'sets': [topic(1), topic(2)]}, EVIDENCE, EDITION_DATE)
+    def test_validation_rejects_editions_with_zero_complete_topics(self):
+        with self.assertRaisesRegex(ValueError, 'No complete topic set'):
+            generate.validate({'sets': [topic(1, 5), topic(2, 8)]}, EVIDENCE, EDITION_DATE)
 
     def test_publication_payload_uses_v2_and_contains_all_scheduled_topics(self):
         decks = generate.validate(
