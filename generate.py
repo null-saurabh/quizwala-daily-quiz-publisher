@@ -521,6 +521,7 @@ def recover_complete_questions(raw):
     A cut-off question object itself is never guessed or repaired.
     """
     raw = re.sub(r'\}\s*,\s*\{\s*"id"\s*:\s*"a"', '}, "options": [{"id": "a"', raw)
+    raw = re.sub(r'\}\}\s*,\s*"correct_option_id"', '}}], "correct_option_id"', raw)
     headers = list(re.finditer(r'"title"\s*:\s*("(?:\\.|[^"\\])*")\s*,\s*"questions"\s*:\s*\[', raw))
     recovered = []
     for index, header in enumerate(headers):
@@ -955,6 +956,7 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
         print(f'Warning: generation finished with finishReason={finish_reason}; salvaging complete questions.')
     raw = ''.join(p.get('text','') for p in candidate.get('content',{}).get('parts',[]) if not p.get('thought'))
     raw = re.sub(r'\}\s*,\s*\{\s*"id"\s*:\s*"a"', '}, "options": [{"id": "a"', raw)
+    raw = re.sub(r'\}\}\s*,\s*"correct_option_id"', '}}], "correct_option_id"', raw)
     # Parseable valid questions from incomplete responses are retained too.
     try:
         response_data = json.loads(raw)
