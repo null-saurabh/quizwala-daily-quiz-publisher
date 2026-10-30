@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-10-31",
-  "generated_at": "2026-10-30T18:13:03.502624+00:00",
+  "generated_at": "2026-10-30T18:57:10.972943+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
@@ -357,7 +357,7 @@
           "correct_option_id": "b",
           "explanation": {
             "en": "According to the source, the audacious jailbreak began with a fake seizure and ended 36 hours later with the recapturing of all inmates.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र के अनुसार, दुस्साहसिक जेलब्रेक की शुरुआत नकली बरामदगी के साथ हुई और 36 घंटे बाद सभी कैदियों को फिर से पकड़ने के साथ समाप्त हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss"
+            "hi": "सूत्र के अनुसार, दुस्साहसिक जेलब्रेक की शुरुआत नकली बरामदगी के साथ हुई और 36 घंटे बाद सभी कैदियों को दोबारा पकड़ लेने के साथ समाप्त हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss"
           },
           "section": "Set 1: National Affairs, Policy & Governance",
           "source_label": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
@@ -420,7 +420,7 @@
         {
           "prompt": {
             "en": "Who topped the UK Black Powerlist in its 21st year of publication?",
-            "hi": "प्रकाशन के 21वें वर्ष में यूके ब्लैक पावरलिस्ट में शीर्ष स्थान पर कौन रहा?"
+            "hi": "प्रकाशन के 21वें वर्ष में यूके ब्लैक पॉवरलिस्ट में कौन शीर्ष पर रहा?"
           },
           "options": [
             {
@@ -471,7 +471,7 @@
         {
           "prompt": {
             "en": "Nicola Shaw, who announced her resignation following her firm's downgrading, served as the boss of which organization?",
-            "hi": "निकोला शॉ, जिन्होंने अपनी फर्म की डाउनग्रेडिंग के बाद अपने इस्तीफे की घोषणा की, ने किस संगठन के बॉस के रूप में कार्य किया?"
+            "hi": "निकोला शॉ, जिन्होंने अपनी कंपनी के डाउनग्रेडिंग के बाद अपने इस्तीफे की घोषणा की, ने किस संगठन के बॉस के रूप में कार्य किया?"
           },
           "options": [
             {
@@ -569,6 +569,516 @@
           "warnings": [],
           "page": 1,
           "id": "2026-10-31-11"
+        },
+        {
+          "prompt": {
+            "en": "How many packaged drinking water units were recently inspected over a two-day period in Karnataka, leading to the closure of units for violations?",
+            "hi": "हाल ही में कर्नाटक में दो दिनों की अवधि में कितनी पैकेज्ड पेयजल इकाइयों का निरीक्षण किया गया, जिसके कारण उल्लंघन के कारण इकाइयों को बंद कर दिया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "102 units",
+                "hi": "102 इकाइयाँ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "50 units",
+                "hi": "50 इकाइयाँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "150 units",
+                "hi": "150 इकाइयाँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "69 units",
+                "hi": "69 इकाइयाँ"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explicitly states that '102 units inspected in two days; 69 water samples collected for laboratory analysis' in relation to the crackdown on packaged drinking water units in Karnataka.\nSource: https://www.thehindu.com/news/national/karnataka/seven-packaged-drinking-water-units-closed-for-violations-in-karnataka/article71646042.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि 'दो दिनों में 102 इकाइयों का निरीक्षण किया गया; कर्नाटक में पैकेज्ड पेयजल इकाइयों पर कार्रवाई के संबंध में प्रयोगशाला विश्लेषण के लिए 69 पानी के नमूने एकत्र किए गए।\nस्रोत: https://www.thehindu.com/news/national/karnataka/seven-packaged-drinking-water-units-closed-for-violations-in-karnataka/article71646042.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/seven-packaged-drinking-water-units-closed-for-violations-in-karnataka/article71646042.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-28"
+        },
+        {
+          "prompt": {
+            "en": "Under Tasmac's revised liquor price policy announced to take effect from November 1, what specific refund amount is linked to the return of empty bottles?",
+            "hi": "1 नवंबर से प्रभावी होने की घोषणा की गई टैस्मैक की संशोधित शराब मूल्य नीति के तहत, खाली बोतलों की वापसी से कौन सी विशिष्ट रिफंड राशि जुड़ी हुई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹5",
+                "hi": "₹5"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹20",
+                "hi": "₹20"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹50",
+                "hi": "₹50"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹10",
+                "hi": "₹10"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "According to the report on Tasmac revising liquor prices, 'those who return the bottles will get a refund of ₹10' alongside the addition of an environment cess.\nSource: https://www.thehindu.com/news/national/tamil-nadu/tasmac-revises-liquor-prices-from-november-1-links-refund-to-bottle-returns/article71646333.ece",
+            "hi": "टैस्मैक द्वारा शराब की कीमतों में संशोधन पर रिपोर्ट के अनुसार, 'जो लोग बोतलें वापस करेंगे उन्हें पर्यावरण उपकर के अलावा ₹10' का रिफंड मिलेगा।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/tasmac-revises-liquor-prices-from-november-1-links-refund-to-bottle-returns/article71646333.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-revises-liquor-prices-from-november-1-links-refund-to-bottle-returns/article71646333.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-29"
+        },
+        {
+          "prompt": {
+            "en": "How many students were found consuming liquor at a Chevella farmhouse in an incident where four also tested positive for ganja?",
+            "hi": "एक घटना में चेवेल्ला फार्महाउस में कितने छात्र शराब पीते पाए गए, जिनमें से चार को गांजा के लिए भी पॉजिटिव पाया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "50 students",
+                "hi": "50 छात्र"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "69 students",
+                "hi": "69 छात्र"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "108 students",
+                "hi": "108 छात्र"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "102 students",
+                "hi": "102 छात्र"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source title clearly notes that '108 students found consuming liquor at Chevella farmhouse, four test positive for ganja'.\nSource: https://www.thehindu.com/news/national/telangana/108-students-found-consuming-liquor-at-chevella-farmhouse-four-test-positive-for-ganja/article71646607.ece",
+            "hi": "स्रोत शीर्षक में स्पष्ट रूप से लिखा है कि 'चेवेल्ला फार्महाउस में 108 छात्र शराब पीते पाए गए, चार में गांजा पाया गया।'\nस्रोत: https://www.thehindu.com/news/national/telangana/108-students-found-consuming-liquor-at-chevella-farmhouse-four-test-positive-for-ganja/article71646607.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/telangana/108-students-found-consuming-liquor-at-chevella-farmhouse-four-test-positive-for-ganja/article71646607.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-30"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary objective of the MSME conclave organised by the Bureau of Indian Standards (BIS) in Ranipet?",
+            "hi": "रानीपेट में भारतीय मानक ब्यूरो (बीआईएस) द्वारा आयोजित एमएसएमई सम्मेलन का प्राथमिक उद्देश्य क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To provide direct venture capital funding for technology startups",
+                "hi": "प्रौद्योगिकी स्टार्टअप के लिए प्रत्यक्ष उद्यम पूंजी वित्तपोषण प्रदान करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To strengthen awareness regarding standardization, product quality, certification requirements, and compliance assistance",
+                "hi": "मानकीकरण, उत्पाद की गुणवत्ता, प्रमाणन आवश्यकताओं और अनुपालन सहायता के बारे में जागरूकता को मजबूत करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To phase out traditional manufacturing units in favor of heavy automation",
+                "hi": "भारी स्वचालन के पक्ष में पारंपरिक विनिर्माण इकाइयों को चरणबद्ध तरीके से समाप्त करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To review export tariffs and establish international tax havens",
+                "hi": "निर्यात शुल्कों की समीक्षा करना और अंतर्राष्ट्रीय टैक्स हेवन स्थापित करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The BIS conclave was designed 'to strengthen awareness among MSMEs regarding standardization, product quality, certification requirements, and the financial and technical assistance available'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/bis-organises-msme-conclave-in-ranipet/article71645245.ece",
+            "hi": "बीआईएस कॉन्क्लेव को 'मानकीकरण, उत्पाद की गुणवत्ता, प्रमाणन आवश्यकताओं और उपलब्ध वित्तीय और तकनीकी सहायता के बारे में एमएसएमई के बीच जागरूकता को मजबूत करने के लिए' डिजाइन किया गया था।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/bis-organises-msme-conclave-in-ranipet/article71645245.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/bis-organises-msme-conclave-in-ranipet/article71645245.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-31"
+        },
+        {
+          "prompt": {
+            "en": "In the Vigilance probe ordered into KIIFB-financed land acquisition in Kannur, what was the total financial outlay and acreage involved in purchasing land for industrial zones?",
+            "hi": "कन्नूर में KIIFB-वित्तपोषित भूमि अधिग्रहण में सतर्कता जांच के आदेश में, औद्योगिक क्षेत्रों के लिए भूमि खरीदने में शामिल कुल वित्तीय परिव्यय और एकड़ कितना था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "4,896 acres for ₹12,240 crore",
+                "hi": "₹12,240 करोड़ में 4,896 एकड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "10,000 acres for ₹20,000 crore",
+                "hi": "₹20,000 करोड़ में 10,000 एकड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2,000 acres for ₹5,000 crore",
+                "hi": "₹5,000 करोड़ में 2,000 एकड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "1,500 acres for ₹3,200 crore",
+                "hi": "₹3,200 करोड़ में 1,500 एकड़"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text explicitly states that procedural lapses were alleged where '4,896 acres were bought for ₹12,240 crore' for Kannur industrial zones.\nSource: https://www.thehindu.com/news/cities/Thiruvananthapuram/orders-issued-on-vigilance-probe-into-kiifb-financed-land-acquisition-in-kannur/article71646348.ece",
+            "hi": "पाठ में स्पष्ट रूप से कहा गया है कि प्रक्रियात्मक खामियों का आरोप लगाया गया था जहां कन्नूर औद्योगिक क्षेत्रों के लिए '4,896 एकड़ जमीन ₹12,240 करोड़ में खरीदी गई थी।'\nस्रोत: https://www.thehindu.com/news/cities/Thiruvananthapuram/orders-issued-on-vigilance-probe-into-kiifb-financed-land-acquisition-in-kannur/article71646348.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/Thiruvananthapuram/orders-issued-on-vigilance-probe-into-kiifb-financed-land-acquisition-in-kannur/article71646348.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-32"
+        },
+        {
+          "prompt": {
+            "en": "From which Hindu pilgrimage site had the helicopter recently taken off before crashing in a northern Indian state, resulting in six deaths?",
+            "hi": "उत्तरी भारतीय राज्य में दुर्घटनाग्रस्त होने से पहले हेलीकॉप्टर ने हाल ही में किस हिंदू तीर्थ स्थल से उड़ान भरी थी, जिसके परिणामस्वरूप छह लोगों की मौत हो गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kedarnath",
+                "hi": "केदारनाथ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Badrinath",
+                "hi": "बद्रीनाथ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Amarnath",
+                "hi": "अमरनाथ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Vaishno Devi",
+                "hi": "वैष्णो देवी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The report notes that the crashed aircraft 'reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि दुर्घटनाग्रस्त विमान ने 'संपर्क टूटने से पहले कथित तौर पर शुक्रवार दोपहर को हिंदू तीर्थ स्थल बद्रीनाथ से उड़ान भरी थी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-33"
+        },
+        {
+          "prompt": {
+            "en": "According to recent reports, what primary socio-demographic shift in India is driving the growth and demand for start-ups specializing in eldercare?",
+            "hi": "हाल की रिपोर्टों के अनुसार, भारत में कौन सा प्राथमिक सामाजिक-जनसांख्यिकीय बदलाव बुजुर्गों की देखभाल में विशेषज्ञता वाले स्टार्ट-अप की वृद्धि और मांग को बढ़ा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rapid urbanization and migration of youth",
+                "hi": "तेजी से शहरीकरण और युवाओं का पलायन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mandatory government retirement policies",
+                "hi": "अनिवार्य सरकारी सेवानिवृत्ति नीतियां"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Changing family structures",
+                "hi": "पारिवारिक संरचनाएँ बदलना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Decline in institutional healthcare infrastructure",
+                "hi": "संस्थागत स्वास्थ्य देखभाल के बुनियादी ढांचे में गिरावट"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that 'Changing family structures in India are driving demand for start-ups offering services for eldercare' as younger generations become more mobile.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि 'भारत में बदलते पारिवारिक ढांचे के कारण बुजुर्गों की देखभाल के लिए सेवाएं देने वाले स्टार्ट-अप की मांग बढ़ रही है' क्योंकि युवा पीढ़ी अधिक मोबाइल बन गई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-34"
+        },
+        {
+          "prompt": {
+            "en": "In which specific regions has an intense building and construction boom put approximately 300,000 people in the path of potential Himalayan disasters?",
+            "hi": "किन विशिष्ट क्षेत्रों में तीव्र भवन निर्माण और निर्माण तेजी ने लगभग 300,000 लोगों को संभावित हिमालयी आपदाओं के रास्ते में डाल दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nepal and India's Uttarakhand",
+                "hi": "नेपाल और भारत का उत्तराखंड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Himachal Pradesh and Tibet",
+                "hi": "हिमाचल प्रदेश और तिब्बत"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sikkim and Bhutan",
+                "hi": "सिक्किम और भूटान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jammu and Kashmir and Ladakh",
+                "hi": "जम्मू-कश्मीर और लद्दाख"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt highlights that construction surged 'in parts of Nepal and India's Uttarakhand', placing hundreds of thousands in harm's way.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश इस बात पर प्रकाश डालता है कि 'नेपाल और भारत के उत्तराखंड के कुछ हिस्सों में' निर्माण में तेजी आई, जिससे सैकड़ों हजारों लोगों को नुकसान हुआ।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-35"
+        },
+        {
+          "prompt": {
+            "en": "What specifically disrupted the cautious recovery path of India-China diplomatic relations according to recent reports?",
+            "hi": "हाल की रिपोर्टों के अनुसार भारत-चीन राजनयिक संबंधों के सावधानीपूर्वक सुधार पथ में विशेष रूप से बाधा क्यों आई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A border official's remarks",
+                "hi": "एक सीमा अधिकारी की टिप्पणी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Trade tariff retaliations",
+                "hi": "व्यापार शुल्क प्रतिशोध"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Naval exercises in the Indian Ocean",
+                "hi": "हिंद महासागर में नौसेना अभ्यास"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Water-sharing disputes over trans-border rivers",
+                "hi": "सीमा पार नदियों पर जल-बंटवारा विवाद"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source notes that India-China ties 'were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि भारत-चीन संबंध 'जब तक एक सीमा अधिकारी की टिप्पणी ने जमीनी हकीकत के बारे में नए संदेह पैदा नहीं किए, तब तक सावधानीपूर्वक सुधार पथ पर थे।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-36"
+        },
+        {
+          "prompt": {
+            "en": "Following a high-speed train collision that killed at least 69 people, which minister in Spain faced fierce calls to resign?",
+            "hi": "हाई-स्पीड ट्रेन की टक्कर में कम से कम 69 लोगों की मौत के बाद, स्पेन के किस मंत्री को इस्तीफे के लिए जोरदार कॉल का सामना करना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Finance Minister Ian Thomas",
+                "hi": "वित्त मंत्री इयान थॉमस"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Transport Minister Óscar Puente",
+                "hi": "परिवहन मंत्री ऑस्कर पुएंते"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Environment Minister Nicola Shaw",
+                "hi": "पर्यावरण मंत्री निकोला शॉ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Energy Minister Joe Tidy",
+                "hi": "ऊर्जा मंत्री जो टाइडी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The report states that 'Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people' in his role as Spain's transport minister.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि स्पेन के परिवहन मंत्री के रूप में 'ऑस्कर पुएंते को सप्ताह की शुरुआत में दो हाई-स्पीड ट्रेनों की टक्कर में कम से कम 69 लोगों की मौत के बाद इस्तीफा देने के लिए कॉल का सामना करना पड़ रहा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-37"
         }
       ],
       "quarantined": [],
@@ -942,7 +1452,7 @@
         {
           "prompt": {
             "en": "According to crypto giant Binance, which nation-state is the $6.3bn stolen cryptocurrency hack linked to?",
-            "hi": "क्रिप्टो दिग्गज बिनेंस के अनुसार, 6.3 बिलियन डॉलर की चोरी वाली क्रिप्टोकरेंसी हैक किस देश-राज्य से जुड़ी है?"
+            "hi": "क्रिप्टो दिग्गज बिनेंस के अनुसार, 6.3 बिलियन डॉलर की चोरी वाली क्रिप्टोकरेंसी हैक किस राष्ट्र-राज्य से जुड़ी है?"
           },
           "options": [
             {
@@ -992,6 +1502,426 @@
         },
         {
           "prompt": {
+            "en": "According to recent drug quality scrutiny, locally manufactured Indian cough syrups were linked to child deaths in which foreign nations alongside domestic incidents?",
+            "hi": "हाल की दवा गुणवत्ता जांच के अनुसार, स्थानीय रूप से निर्मित भारतीय कफ सिरप घरेलू घटनाओं के साथ-साथ किन विदेशी देशों में बच्चों की मौत से जुड़े थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gambia and Uzbekistan",
+                "hi": "गाम्बिया और उज़्बेकिस्तान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Indonesia and Nepal",
+                "hi": "इंडोनेशिया और नेपाल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Spain and United Kingdom",
+                "hi": "स्पेन और यूनाइटेड किंगडम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Russia and Ukraine",
+                "hi": "रूस और यूक्रेन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text notes that regulatory scrutiny intensified after locally made cough syrups were linked to child deaths 'in India and also in countries including Gambia and Uzbekistan'.\nSource: https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece",
+            "hi": "पाठ में कहा गया है कि स्थानीय रूप से निर्मित कफ सिरप को 'भारत में और गाम्बिया और उज़्बेकिस्तान सहित देशों में' बच्चों की मौत से जोड़ने के बाद नियामक जांच तेज हो गई है।\nस्रोत: https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-38"
+        },
+        {
+          "prompt": {
+            "en": "According to the regulator's statement declaring November as grievance resolution month, what percentage of the 2.21 lakh pending cases before Consumer Commissions and judicial courts as of March 31 had been pending for more than a year?",
+            "hi": "नवंबर को शिकायत समाधान माह घोषित करने वाले नियामक के बयान के अनुसार, 31 मार्च तक उपभोक्ता आयोगों और न्यायिक अदालतों के समक्ष लंबित 2.21 लाख मामलों में से कितना प्रतिशत एक वर्ष से अधिक समय से लंबित था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "45.20%",
+                "hi": "45.20%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "72.49%",
+                "hi": "72.49%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "50.15%",
+                "hi": "50.15%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "88.30%",
+                "hi": "88.30%"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The regulator noted that 'around 2.21 lakh cases pending as on March 31 before Consumer Commissions and judicial courts with 72.49% of them for more than a year'.\nSource: https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece",
+            "hi": "नियामक ने कहा कि 'उपभोक्ता आयोगों और न्यायिक अदालतों के समक्ष 31 मार्च तक लगभग 2.21 लाख मामले लंबित थे, जिनमें से 72.49% मामले एक वर्ष से अधिक समय से लंबित थे।'\nस्रोत: https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-39"
+        },
+        {
+          "prompt": {
+            "en": "What was Sun Pharma's adjusted net profit for the second quarter after excluding exceptional items that caused a 36% plunge in headline profit?",
+            "hi": "असाधारण वस्तुओं को छोड़कर, जिसके कारण हेडलाइन लाभ में 36% की गिरावट आई, दूसरी तिमाही के लिए सन फार्मा का समायोजित शुद्ध लाभ क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹5,200 crore",
+                "hi": "₹5,200 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,540 crore",
+                "hi": "₹1,540 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹3,162 crore",
+                "hi": "₹3,162 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹2,890 crore",
+                "hi": "₹2,890 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report notes that 'Excluding the exceptional items, adjusted net profit stood at ₹3,162 crore' for Sun Pharma.\nSource: https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece",
+            "hi": "रिपोर्ट में कहा गया है कि 'असाधारण वस्तुओं को छोड़कर, सन फार्मा का समायोजित शुद्ध लाभ ₹3,162 करोड़ रहा।'\nस्रोत: https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-40"
+        },
+        {
+          "prompt": {
+            "en": "As US tech stocks experienced sharp declines amid artificial intelligence spending approaching $1 trillion, which stock market index opened at its lowest level in over two months?",
+            "hi": "कृत्रिम बुद्धिमत्ता खर्च के 1 ट्रिलियन डॉलर तक पहुंचने के बीच अमेरिकी तकनीकी शेयरों में तेज गिरावट का अनुभव हुआ, कौन सा शेयर बाजार सूचकांक दो महीनों में अपने सबसे निचले स्तर पर खुला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Dow Jones Industrial Average",
+                "hi": "डॉव जोन्स औद्योगिक औसत"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "S&P 500",
+                "hi": "एस एंड पी 500"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Russell 2000",
+                "hi": "रसेल 2000"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Nasdaq",
+                "hi": "नैस्डैक"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that 'Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि 'इंटेल के शेयरों में गिरावट जारी है जबकि टेक-हेवी नैस्डैक दो महीने से अधिक समय में अपने सबसे निचले स्तर पर खुला है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-41"
+        },
+        {
+          "prompt": {
+            "en": "Crypto giant Binance recently suffered a massive cyber-attack involving the theft of $6.3 billion, which is suspected to be what type of event?",
+            "hi": "क्रिप्टो दिग्गज बिनेंस को हाल ही में बड़े पैमाने पर साइबर हमले का सामना करना पड़ा जिसमें 6.3 बिलियन डॉलर की चोरी शामिल थी, यह किस प्रकार की घटना होने का संदेह है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The first decentralized finance collapse",
+                "hi": "पहला विकेन्द्रीकृत वित्त पतन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The biggest hack in history",
+                "hi": "इतिहास की सबसे बड़ी हैक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A routine regulatory liquidation",
+                "hi": "एक नियमित विनियामक परिसमापन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An internal software glitch",
+                "hi": "एक आंतरिक सॉफ़्टवेयर गड़बड़ी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The report notes that the $6.3bn hack is 'suspected to be the biggest hack in history'.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि 6.3 बिलियन डॉलर की हैक 'इतिहास की सबसे बड़ी हैक होने का संदेह' है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-42"
+        },
+        {
+          "prompt": {
+            "en": "According to fashion industry trends involving brands from Levi's to Primark, what sustainable practice is a new generation of consumers embracing?",
+            "hi": "लेवीज़ से लेकर प्राइमार्क तक के ब्रांडों से जुड़े फैशन उद्योग के रुझानों के अनुसार, उपभोक्ताओं की नई पीढ़ी किस स्थायी प्रथा को अपना रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Discarding garments after a single use",
+                "hi": "एक बार उपयोग के बाद कपड़ों को फेंक देना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Banning synthetic fibers entirely",
+                "hi": "सिंथेटिक फाइबर पर पूरी तरह से प्रतिबंध"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exclusively purchasing luxury couture",
+                "hi": "विशेष रूप से लक्जरी वस्त्र खरीदना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Embracing eye-catching patching and visible mends",
+                "hi": "आकर्षक पैचिंग और दृश्यमान सुधार"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The article details that 'A new generation is embracing eye-catching patching and visible mends' across fashion chains from Levi's to Primark.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+            "hi": "लेख में बताया गया है कि 'लेवीज़ से प्राइमार्क तक फैशन श्रृंखलाओं में 'एक नई पीढ़ी आकर्षक पैचिंग और दृश्यमान सुधारों को अपना रही है'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-43"
+        },
+        {
+          "prompt": {
+            "en": "According to environmental assessments of water companies in England despite substantial investment, how many companies achieved a rating other than 'poor' or 'requiring improvement'?",
+            "hi": "पर्याप्त निवेश के बावजूद इंग्लैंड में जल कंपनियों के पर्यावरण आकलन के अनुसार, कितनी कंपनियों ने 'खराब' या 'सुधार की आवश्यकता' के अलावा अन्य रेटिंग हासिल की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "All companies",
+                "hi": "सभी कंपनियाँ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Half of the companies",
+                "hi": "आधी कंपनियाँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exactly one company",
+                "hi": "बिल्कुल एक कंपनी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Zero companies",
+                "hi": "शून्य कंपनियां"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states that 'All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि 'इंग्लैंड की एक को छोड़कर सभी जल कंपनियों को पर्यावरणीय लक्ष्यों के लिए \"खराब\" या \"सुधार की आवश्यकता\" के रूप में दर्जा दिया गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-44"
+        },
+        {
+          "prompt": {
+            "en": "Crypto giant Binance's $6.3bn stolen cryptocurrency hack has been linked by investigations to which country/region?",
+            "hi": "क्रिप्टो दिग्गज बिनेंस की $6.3 बिलियन की चोरी हुई क्रिप्टोकरेंसी हैक को जांच द्वारा किस देश/क्षेत्र से जोड़ा गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Russia",
+                "hi": "रूस"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "North Korea",
+                "hi": "उत्तर कोरिया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Iran",
+                "hi": "ईरान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "China",
+                "hi": "चीन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The report specifies that the crypto giant Binance hack resulting in the theft of $6.3bn is 'linked to North Korea'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में निर्दिष्ट किया गया है कि क्रिप्टो दिग्गज बिनेंस हैक जिसके परिणामस्वरूप 6.3 बिलियन डॉलर की चोरी हुई, वह 'उत्तर कोरिया से जुड़ा हुआ' है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-45"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-10-31T13:00:00+05:30"
+    },
+    {
+      "title": "Set 3: Science, Environment & World Affairs",
+      "source_filename": "daily-2026-10-31.json",
+      "questions": [
+        {
+          "prompt": {
             "en": "According to recent botanical studies, insect pests currently cause approximately what percentage of global annual crop losses?",
             "hi": "हाल के वनस्पति अध्ययनों के अनुसार, कीट वर्तमान में वैश्विक वार्षिक फसल हानि का लगभग कितने प्रतिशत का कारण बनते हैं?"
           },
@@ -1034,7 +1964,7 @@
             "en": "The source indicates that insect pests are responsible for roughly 20% of global annual crop losses, a figure expected to rise with global warming.\nSource: https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
             "hi": "स्रोत इंगित करता है कि वैश्विक वार्षिक फसल हानि के लगभग 20% के लिए कीट कीट जिम्मेदार हैं, ग्लोबल वार्मिंग के साथ यह आंकड़ा बढ़ने की उम्मीद है।\nस्रोत: https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
           "status": "ready",
           "warnings": [],
@@ -1085,7 +2015,7 @@
             "en": "The source explains that the development of NavIC began following the 1999 Kargil War after the U.S. restricted GPS data access.\nSource: https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
             "hi": "सूत्र बताते हैं कि NavIC का विकास 1999 के कारगिल युद्ध के बाद शुरू हुआ जब अमेरिका ने जीपीएस डेटा एक्सेस को प्रतिबंधित कर दिया था।\nस्रोत: https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
           "status": "ready",
           "warnings": [],
@@ -1111,7 +2041,7 @@
               "label": "B",
               "text": {
                 "en": "It silences the viral DNA rather than targeting the virus directly.",
-                "hi": "यह सीधे तौर पर वायरस को निशाना बनाने के बजाय वायरल डीएनए को शांत कर देता है।"
+                "hi": "यह वायरस को सीधे लक्षित करने के बजाय वायरल डीएनए को शांत करता है।"
               }
             },
             {
@@ -1136,7 +2066,7 @@
             "en": "The excerpt highlights that CRMA-1001 is promising because, instead of targeting the virus directly, it silences the viral DNA to prevent virus rebound.\nSource: https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece",
             "hi": "अंश इस बात पर प्रकाश डालता है कि सीआरएमए-1001 आशाजनक है क्योंकि, वायरस को सीधे लक्षित करने के बजाय, यह वायरस के दोबारा फैलने को रोकने के लिए वायरल डीएनए को शांत कर देता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece",
           "status": "ready",
           "warnings": [],
@@ -1187,7 +2117,7 @@
             "en": "The source specifies that the GSLV-F18 rocket is scheduled to lift off from the second launch pad at the Satish Dhawan Space Centre.\nSource: https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
             "hi": "स्रोत निर्दिष्ट करता है कि जीएसएलवी-एफ18 रॉकेट को सतीश धवन अंतरिक्ष केंद्र के दूसरे लॉन्च पैड से उड़ान भरने के लिए निर्धारित किया गया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
           "status": "ready",
           "warnings": [],
@@ -1238,7 +2168,7 @@
             "en": "The source notes that some of Britain's rarest and most threatened bats were recorded in the south-west of England during the woodland bat survey.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
             "hi": "सूत्र का कहना है कि ब्रिटेन के कुछ दुर्लभ और सबसे खतरनाक चमगादड़ों को वुडलैंड चमगादड़ सर्वेक्षण के दौरान इंग्लैंड के दक्षिण-पश्चिम में दर्ज किया गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
@@ -1289,7 +2219,7 @@
             "en": "The report details that hundreds of people were evacuated from the Russian-occupied front-line town of Oleshky during a rare ceasefire.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
             "hi": "रिपोर्ट में बताया गया है कि एक दुर्लभ युद्धविराम के दौरान सैकड़ों लोगों को रूस के कब्जे वाले फ्रंट-लाइन शहर ओलेस्की से निकाला गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
@@ -1338,9 +2268,9 @@
           "correct_option_id": "a",
           "explanation": {
             "en": "The source states that Novaya Gazeta, one of Russia's most high-profile independent news outlets over the last three decades, has shut down under pressure.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र का कहना है कि पिछले तीन दशकों में रूस के सबसे हाई-प्रोफाइल स्वतंत्र समाचार आउटलेटों में से एक नोवाया गजेटा दबाव में बंद हो गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+            "hi": "सूत्र का कहना है कि पिछले तीन दशकों में रूस के सबसे हाई-प्रोफाइल स्वतंत्र समाचार आउटलेट्स में से एक नोवाया गजेटा दबाव में बंद हो गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
@@ -1391,20 +2321,173 @@
             "en": "The report explicitly notes that the Chicago-born pontiff mailed in a ballot for the US midterm elections.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
             "hi": "रिपोर्ट में स्पष्ट रूप से कहा गया है कि शिकागो में जन्मे पोप ने अमेरिकी मध्यावधि चुनावों के लिए मतपत्र भेजा था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
           },
-          "section": "Set 2: Economy, Business & Finance",
+          "section": "Set 3: Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
           "id": "2026-10-31-27"
+        },
+        {
+          "prompt": {
+            "en": "What notable technological equipment is integrated into the successfully launched NVS-03 navigation satellite alongside procured atomic clocks?",
+            "hi": "खरीदी गई परमाणु घड़ियों के साथ सफलतापूर्वक लॉन्च किए गए NVS-03 नेविगेशन उपग्रह में कौन से उल्लेखनीय तकनीकी उपकरण एकीकृत हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A dual-spectrum solar sail",
+                "hi": "एक दोहरे स्पेक्ट्रम वाला सौर पाल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A laser-guided propulsion thruster",
+                "hi": "एक लेज़र-निर्देशित प्रणोदन थ्रस्टर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A foreign-built quantum radar",
+                "hi": "एक विदेश निर्मित क्वांटम रडार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An indigenous atomic clock",
+                "hi": "एक स्वदेशी परमाणु घड़ी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The report notes that the 'NVS-03 satellite is equipped with an indigenous atomic clock alongside procured atomic clocks'.\nSource: https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
+            "hi": "रिपोर्ट में कहा गया है कि 'एनवीएस-03 उपग्रह खरीदी गई परमाणु घड़ियों के साथ-साथ एक स्वदेशी परमाणु घड़ी से सुसज्जित है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-46"
+        },
+        {
+          "prompt": {
+            "en": "According to recent scientific findings on plant defense systems, approximately what percentage of global annual crop losses are caused by insect pests?",
+            "hi": "पादप रक्षा प्रणालियों पर हाल के वैज्ञानिक निष्कर्षों के अनुसार, वैश्विक वार्षिक फसल हानि का लगभग कितना प्रतिशत कीटों के कारण होता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "10%",
+                "hi": "10%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "50%",
+                "hi": "50%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "35%",
+                "hi": "35%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "20%",
+                "hi": "20%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that 'Insect pests cause roughly 20% of global annual crop losses, a figure projected to rise with warming'.\nSource: https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
+            "hi": "अंश में कहा गया है कि 'वैश्विक वार्षिक फसल हानि का लगभग 20% कीट कीटों के कारण होता है, यह आंकड़ा वार्मिंग के साथ बढ़ने का अनुमान है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-47"
+        },
+        {
+          "prompt": {
+            "en": "From which specific launch pad at the Satish Dhawan Space Centre was the GSLV-F18 carrying the NVS-03 navigation satellite scheduled to lift off?",
+            "hi": "सतीश धवन अंतरिक्ष केंद्र के किस विशिष्ट लॉन्च पैड से NVS-03 नेविगेशन उपग्रह को ले जाने वाला GSLV-F18 उड़ान भरने वाला था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "First launch pad",
+                "hi": "पहला लॉन्च पैड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Kulasekarapattinam launch pad",
+                "hi": "कुलसेकरपट्टिनम लॉन्च पैड"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Second launch pad",
+                "hi": "दूसरा लॉन्च पैड"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Thumba equatorial launch pad",
+                "hi": "थुम्बा भूमध्यरेखीय लॉन्च पैड"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that the GSLV-F18 rocket lifted off 'from the second launch pad at the Satish Dhawan Space Centre'.\nSource: https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
+            "hi": "अंश में कहा गया है कि जीएसएलवी-एफ18 रॉकेट ने 'सतीश धवन अंतरिक्ष केंद्र के दूसरे लॉन्च पैड से' उड़ान भरी।\nस्रोत: https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece"
+          },
+          "section": "Set 3: Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-48"
         }
       ],
       "quarantined": [],
       "warnings": [
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
-      "release_wave": 2,
-      "release_at": "2026-10-31T13:00:00+05:30"
+      "release_wave": 3,
+      "release_at": "2026-10-31T18:00:00+05:30"
     }
   ],
   "sources": [
@@ -1412,6 +2495,11 @@
       "title": "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
       "url": "https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
       "published": "2026-10-30T23:37:38+05:30"
+    },
+    {
+      "title": "ISRO set to launch GSLV-F18 carrying navigation satellite NVS-03 | LIVE",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
+      "published": "2026-10-30T23:35:06+05:30"
     },
     {
       "title": "Senior advocate Ancha Pandu Ranga Rao sworn in as APERC member",
@@ -1474,6 +2562,11 @@
       "published": "2026-10-30T09:18:05+05:30"
     },
     {
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:06:05+00:00"
+    },
+    {
       "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T00:02:35+00:00"
@@ -1489,6 +2582,11 @@
       "published": "2026-10-28T23:11:59+00:00"
     },
     {
+      "title": "India and China were easing tensions - then a border official spoke out",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T00:06:27+00:00"
+    },
+    {
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T17:47:01+00:00"
@@ -1502,6 +2600,11 @@
       "title": "City of London chief tops UK Black Powerlist",
       "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T18:00:24+00:00"
+    },
+    {
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T00:00:35+00:00"
     },
     {
       "title": "Yorkshire Water boss resigns after firm downgraded",
@@ -1539,9 +2642,39 @@
       "published": "2026-10-30T11:23:06+00:00"
     },
     {
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:03:39+00:00"
+    },
+    {
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T14:48:22+00:00"
+    },
+    {
+      "title": "Seven packaged drinking water units closed for violations in Karnataka",
+      "url": "https://www.thehindu.com/news/national/karnataka/seven-packaged-drinking-water-units-closed-for-violations-in-karnataka/article71646042.ece",
+      "published": "2026-10-31T00:20:48+05:30"
+    },
+    {
+      "title": "Tasmac revises liquor prices from November 1, links refund to bottle returns",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-revises-liquor-prices-from-november-1-links-refund-to-bottle-returns/article71646333.ece",
+      "published": "2026-10-31T00:16:22+05:30"
+    },
+    {
+      "title": "108 students found consuming liquor at Chevella farmhouse, four test positive for ganja",
+      "url": "https://www.thehindu.com/news/national/telangana/108-students-found-consuming-liquor-at-chevella-farmhouse-four-test-positive-for-ganja/article71646607.ece",
+      "published": "2026-10-31T00:13:50+05:30"
+    },
+    {
+      "title": "BIS organises MSME conclave in Ranipet",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/bis-organises-msme-conclave-in-ranipet/article71645245.ece",
+      "published": "2026-10-31T00:10:32+05:30"
+    },
+    {
+      "title": "Orders issued on Vigilance probe into KIIFB-financed land acquisition in Kannur",
+      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/orders-issued-on-vigilance-probe-into-kiifb-financed-land-acquisition-in-kannur/article71646348.ece",
+      "published": "2026-10-31T00:05:45+05:30"
     }
   ]
 }
