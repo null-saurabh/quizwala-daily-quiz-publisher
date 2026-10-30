@@ -1,0 +1,1547 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-31",
+  "generated_at": "2026-10-30T18:13:03.502624+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "Set 1: National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-10-31.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to the Karnataka government's circular discussed in the High Court, what specific information are all hospital pharmacies mandated to disclose on bills?",
+            "hi": "उच्च न्यायालय में चर्चा किए गए कर्नाटक सरकार के परिपत्र के अनुसार, सभी अस्पताल फार्मेसियों को बिलों पर कौन सी विशिष्ट जानकारी का खुलासा करना अनिवार्य है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Only the maximum retail price of medicines and surgical items.",
+                "hi": "केवल दवाओं और सर्जिकल वस्तुओं का अधिकतम खुदरा मूल्य।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Only the landing purchase price of imported medical devices and consumables.",
+                "hi": "केवल आयातित चिकित्सा उपकरणों और उपभोग्य सामग्रियों का लैंडिंग खरीद मूल्य।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The net profit margin and operating cost of each pharmaceutical product.",
+                "hi": "प्रत्येक फार्मास्युटिकल उत्पाद का शुद्ध लाभ मार्जिन और परिचालन लागत।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The landing base/purchase price and maximum retail price of medicines, medical devices and consumables.",
+                "hi": "दवाओं, चिकित्सा उपकरणों और उपभोग्य सामग्रियों का लैंडिंग आधार/खरीद मूल्य और अधिकतम खुदरा मूल्य।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt explicitly states that the circular mandates hospital pharmacies to disclose both the landing base/purchase price and the maximum retail price of medicines, medical devices, and consumables on bills.\nSource: https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि परिपत्र अस्पताल फार्मेसियों को बिलों पर लैंडिंग बेस/खरीद मूल्य और दवाओं, चिकित्सा उपकरणों और उपभोग्य सामग्रियों के अधिकतम खुदरा मूल्य दोनों का खुलासा करने के लिए बाध्य करता है।\nस्रोत: https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-1"
+        },
+        {
+          "prompt": {
+            "en": "Before his swearing-in as an APERC member, Ancha Pandu Ranga Rao had extensive legal experience practicing primarily before which judicial body?",
+            "hi": "एपीईआरसी सदस्य के रूप में शपथ लेने से पहले, आंच पांडु रंगा राव को मुख्य रूप से किस न्यायिक निकाय के समक्ष प्रैक्टिस करने का व्यापक कानूनी अनुभव था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Supreme Court of India",
+                "hi": "भारत का सर्वोच्च न्यायालय"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Delhi High Court",
+                "hi": "दिल्ली उच्च न्यायालय"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Andhra Pradesh High Court",
+                "hi": "आंध्र प्रदेश उच्च न्यायालय"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The National Company Law Tribunal",
+                "hi": "राष्ट्रीय कंपनी कानून न्यायाधिकरण"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source notes that Ancha Pandu Ranga Rao has over three decades of experience practising before the Andhra Pradesh High Court, handling various civil, criminal, and writ matters.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/senior-advocate-ancha-pandu-ranga-raosworn-in-as-aperc-member/article71645524.ece",
+            "hi": "सूत्र का कहना है कि अंचा पांडु रंगा राव के पास आंध्र प्रदेश उच्च न्यायालय के समक्ष अभ्यास करने और विभिन्न नागरिक, आपराधिक और रिट मामलों को संभालने का तीन दशकों से अधिक का अनुभव है।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/senior-advocate-ancha-pandu-ranga-raosworn-in-as-aperc-member/article71645524.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/senior-advocate-ancha-pandu-ranga-raosworn-in-as-aperc-member/article71645524.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-2"
+        },
+        {
+          "prompt": {
+            "en": "According to the J&K High Court proceedings, what triggered the deportation of scores of Pakistan-born citizens married to J&K locals?",
+            "hi": "जम्मू-कश्मीर उच्च न्यायालय की कार्यवाही के अनुसार, जम्मू-कश्मीर के स्थानीय लोगों से शादी करने वाले पाकिस्तान में जन्मे कई नागरिकों के निर्वासन की वजह क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Pahalgam attack, which left 26 civilians dead",
+                "hi": "पहलगाम हमला, जिसमें 26 नागरिक मारे गए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "New immigration policy guidelines issued by the Union Home Ministry",
+                "hi": "केंद्रीय गृह मंत्रालय द्वारा नई आव्रजन नीति दिशानिर्देश जारी किए गए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Expired long-term visas and visa-violation investigations",
+                "hi": "लंबी अवधि के वीज़ा और वीज़ा-उल्लंघन की जांच समाप्त हो गई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Failure to register with local foreign registration offices within stipulated deadlines",
+                "hi": "निर्धारित समय सीमा के भीतर स्थानीय विदेशी पंजीकरण कार्यालयों के साथ पंजीकरण करने में विफलता"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source clearly notes that Pakistan-born citizens married to J&K residents were deported following the Pahalgam attack, which left 26 civilians dead.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-seeks-status-on-retrieval-of-pakistan-born-son-of-indian-deported-after-pahalgam-attack/article71646672.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से लिखा है कि जम्मू-कश्मीर के निवासियों से शादी करने वाले पाकिस्तान में जन्मे नागरिकों को पहलगाम हमले के बाद निर्वासित कर दिया गया था, जिसमें 26 नागरिक मारे गए थे।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-seeks-status-on-retrieval-of-pakistan-born-son-of-indian-deported-after-pahalgam-attack/article71646672.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-seeks-status-on-retrieval-of-pakistan-born-son-of-indian-deported-after-pahalgam-attack/article71646672.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-3"
+        },
+        {
+          "prompt": {
+            "en": "According to the Karnataka Minister's directive, what specific time window is permitted for bursting firecrackers?",
+            "hi": "कर्नाटक मंत्री के निर्देश के अनुसार, पटाखे फोड़ने के लिए किस विशिष्ट समय सीमा की अनुमति है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Between 6 p.m. and 8 p.m.",
+                "hi": "शाम 6 बजे के बीच और रात 8 बजे"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Between 7 p.m. and 9 p.m.",
+                "hi": "शाम 7 बजे के बीच और रात 9 बजे"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Between 8 p.m. and 10 p.m.",
+                "hi": "रात 8 बजे के बीच और रात 10 बजे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Between 9 p.m. and 11 p.m.",
+                "hi": "रात 9 बजे के बीच और रात्रि 11 बजे"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Minister's statement explicitly restricts the bursting of firecrackers to the time slot between 8 p.m. and 10 p.m.\nSource: https://www.thehindu.com/news/national/karnataka/bursting-of-firecrackers-only-between-8-pm-and-10-pm-says-minister/article71645973.ece",
+            "hi": "मंत्री का बयान स्पष्ट रूप से रात 8 बजे के बीच पटाखे फोड़ने को प्रतिबंधित करता है। और रात 10 बजे\nस्रोत: https://www.thehindu.com/news/national/karnataka/bursting-of-firecrackers-only-between-8-pm-and-10-pm-says-minister/article71645973.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/bursting-of-firecrackers-only-between-8-pm-and-10-pm-says-minister/article71645973.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-4"
+        },
+        {
+          "prompt": {
+            "en": "What concern did the regulator highlight regarding pending cases before Consumer Commissions and judicial courts as of March 31?",
+            "hi": "31 मार्च तक उपभोक्ता आयोगों और न्यायिक अदालतों के समक्ष लंबित मामलों के संबंध में नियामक ने क्या चिंता उजागर की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Around 2.21 lakh cases were pending, with 72.49% of them pending for more than a year.",
+                "hi": "लगभग 2.21 लाख मामले लंबित थे, जिनमें से 72.49% मामले एक वर्ष से अधिक समय से लंबित थे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Over 5 lakh insurance claims were dismissed without proper consumer hearings.",
+                "hi": "उचित उपभोक्ता सुनवाई के बिना 5 लाख से अधिक बीमा दावे खारिज कर दिए गए।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than 80% of pending disputes involved fraudulent medical insurance claims.",
+                "hi": "80% से अधिक लंबित विवादों में फर्जी चिकित्सा बीमा दावे शामिल थे।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Judicial courts had cleared all backlogs except for banking-related consumer disputes.",
+                "hi": "न्यायिक अदालतों ने बैंकिंग से संबंधित उपभोक्ता विवादों को छोड़कर सभी लंबित मामले निपटा दिए थे।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt highlights that around 2.21 lakh cases were pending before Consumer Commissions and judicial courts as of March 31, with 72.49% remaining unresolved for more than a year.\nSource: https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece",
+            "hi": "अंश इस बात पर प्रकाश डालता है कि 31 मार्च तक उपभोक्ता आयोगों और न्यायिक अदालतों के समक्ष लगभग 2.21 लाख मामले लंबित थे, जिनमें से 72.49% एक वर्ष से अधिक समय से अनसुलझे थे।\nस्रोत: https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-5"
+        },
+        {
+          "prompt": {
+            "en": "What primary societal shift in India is driving the surging demand for start-ups specializing in eldercare services?",
+            "hi": "भारत में कौन सा प्राथमिक सामाजिक बदलाव बुजुर्गों की देखभाल सेवाओं में विशेषज्ञता वाले स्टार्ट-अप की बढ़ती मांग को प्रेरित कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rapid urbanization and the collapse of traditional banking systems",
+                "hi": "तेजी से शहरीकरण और पारंपरिक बैंकिंग प्रणालियों का पतन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Changing family structures and younger generations becoming more mobile",
+                "hi": "पारिवारिक संरचनाएँ बदल रही हैं और युवा पीढ़ी अधिक गतिशील बन रही है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mandatory retirement age policies implemented across corporate sectors",
+                "hi": "कॉर्पोरेट क्षेत्रों में अनिवार्य सेवानिवृत्ति आयु नीतियां लागू की गईं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Government subsidies encouraging specialized private healthcare facilities",
+                "hi": "विशेष निजी स्वास्थ्य सुविधाओं को प्रोत्साहित करने वाली सरकारी सब्सिडी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text notes that changing family structures in India, combined with younger generations becoming more mobile, are driving the demand for eldercare start-ups.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में कहा गया है कि भारत में पारिवारिक संरचनाओं में बदलाव, युवा पीढ़ी के अधिक मोबाइल बनने के कारण बुजुर्गों की देखभाल के लिए स्टार्ट-अप की मांग बढ़ रही है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-6"
+        },
+        {
+          "prompt": {
+            "en": "How long did the Indian jailbreak incident last before all escaped prisoners were recaptured and brought back behind bars?",
+            "hi": "भारतीय जेल तोड़ने की घटना कितने समय तक चली, इससे पहले कि सभी भागे हुए कैदियों को फिर से पकड़ लिया गया और सलाखों के पीछे वापस लाया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "12 hours",
+                "hi": "12 घंटे"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "36 hours",
+                "hi": "36 घंटे"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "24 hours",
+                "hi": "24 घंटे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "72 hours",
+                "hi": "72 घंटे"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "According to the source, the audacious jailbreak began with a fake seizure and ended 36 hours later with the recapturing of all inmates.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र के अनुसार, दुस्साहसिक जेलब्रेक की शुरुआत नकली बरामदगी के साथ हुई और 36 घंटे बाद सभी कैदियों को फिर से पकड़ने के साथ समाप्त हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-7"
+        },
+        {
+          "prompt": {
+            "en": "In which specific regions has a surge in the construction of tourism facilities and housing put hundreds of thousands of people at risk of potential Himalayan disasters?",
+            "hi": "किस विशिष्ट क्षेत्र में पर्यटन सुविधाओं और आवास के निर्माण में वृद्धि ने सैकड़ों हजारों लोगों को संभावित हिमालयी आपदाओं के खतरे में डाल दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Parts of Nepal and India's Uttarakhand",
+                "hi": "नेपाल के कुछ हिस्से और भारत का उत्तराखंड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Himachal Pradesh and parts of Tibet",
+                "hi": "हिमाचल प्रदेश और तिब्बत के कुछ हिस्से"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sikkim and Bhutan",
+                "hi": "सिक्किम और भूटान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ladakh and Jammu and Kashmir",
+                "hi": "लद्दाख और जम्मू और कश्मीर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report explicitly highlights that a building boom involving tourism facilities and housing has surged in parts of Nepal and India's Uttarakhand.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट स्पष्ट रूप से उजागर करती है कि नेपाल और भारत के उत्तराखंड के कुछ हिस्सों में पर्यटन सुविधाओं और आवास से संबंधित भवन निर्माण में तेजी आई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-8"
+        },
+        {
+          "prompt": {
+            "en": "Who topped the UK Black Powerlist in its 21st year of publication?",
+            "hi": "प्रकाशन के 21वें वर्ष में यूके ब्लैक पावरलिस्ट में शीर्ष स्थान पर कौन रहा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ancha Pandu Ranga Rao, senior advocate and APERC member",
+                "hi": "अंचा पांडु रंगा राव, वरिष्ठ अधिवक्ता और एपीईआरसी सदस्य"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Nicola Shaw, former boss of Yorkshire Water",
+                "hi": "निकोला शॉ, यॉर्कशायर वॉटर के पूर्व बॉस"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Ian Thomas, head of the City of London Corporation",
+                "hi": "इयान थॉमस, सिटी ऑफ़ लंदन कॉरपोरेशन के प्रमुख"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Oscar Puente, Spain transport minister",
+                "hi": "ऑस्कर पुएंते, स्पेन के परिवहन मंत्री"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि इयान थॉमस, जो सिटी ऑफ़ लंदन कॉर्पोरेशन के प्रमुख हैं, अपने 21वें वर्ष में ब्लैक पॉवरलिस्ट में शीर्ष पर हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-9"
+        },
+        {
+          "prompt": {
+            "en": "Nicola Shaw, who announced her resignation following her firm's downgrading, served as the boss of which organization?",
+            "hi": "निकोला शॉ, जिन्होंने अपनी फर्म की डाउनग्रेडिंग के बाद अपने इस्तीफे की घोषणा की, ने किस संगठन के बॉस के रूप में कार्य किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Indraprastha Gas Ltd",
+                "hi": "इंद्रप्रस्थ गैस लिमिटेड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Binance UK branch",
+                "hi": "बिनेंस यूके शाखा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "City of London Corporation",
+                "hi": "सिटी ऑफ़ लंदन कॉर्पोरेशन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Yorkshire Water",
+                "hi": "यॉर्कशायर जल"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source notes that Nicola Shaw has led Yorkshire Water since 2022 and will step down in January after the firm was downgraded.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि निकोला शॉ 2022 से यॉर्कशायर वॉटर का नेतृत्व कर रही हैं और कंपनी की रेटिंग कम होने के बाद वह जनवरी में पद छोड़ देंगी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-10"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the vast estate secured through an Attenborough-backed appeal by wildlife groups?",
+            "hi": "वन्यजीव समूहों द्वारा एटनबरो समर्थित अपील के माध्यम से सुरक्षित की गई विशाल संपत्ति का नाम क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Rothbury Estate",
+                "hi": "रोथबरी एस्टेट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Oleshky Reserve",
+                "hi": "ओलेस्की रिजर्व"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Cappadocia Formation",
+                "hi": "कप्पाडोसिया संरचना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Badrinath Sanctuary",
+                "hi": "बद्रीनाथ अभयारण्य"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source details that the purchase of the vast Rothbury Estate was secured through a wildlife appeal backed by Attenborough.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत का विवरण है कि विशाल रोथबरी एस्टेट की खरीद एटनबरो द्वारा समर्थित वन्यजीव अपील के माध्यम से सुरक्षित की गई थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 1: National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-11"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-10-31T06:30:00+05:30"
+    },
+    {
+      "title": "Set 2: Economy, Business & Finance",
+      "source_filename": "daily-2026-10-31.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to recent regulatory reports, Indian drug quality standards came under intense scrutiny after locally manufactured cough syrups were linked to child deaths in which foreign countries?",
+            "hi": "हाल की नियामक रिपोर्टों के अनुसार, स्थानीय स्तर पर निर्मित कफ सिरप को किस विदेशी देश में बच्चों की मौत से जोड़ा गया था, जिसके बाद भारतीय दवा गुणवत्ता मानक गहन जांच के दायरे में आ गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kenya and Tanzania",
+                "hi": "केन्या और तंजानिया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Vietnam and Cambodia",
+                "hi": "वियतनाम और कंबोडिया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gambia and Uzbekistan",
+                "hi": "गाम्बिया और उज़्बेकिस्तान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sri Lanka and Bangladesh",
+                "hi": "श्रीलंका और बांग्लादेश"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that India's drug quality standards faced scrutiny after local cough syrups were linked to children's deaths in India as well as in Gambia and Uzbekistan.\nSource: https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece",
+            "hi": "सूत्र का कहना है कि भारत के दवा गुणवत्ता मानकों को जांच का सामना करना पड़ा क्योंकि स्थानीय कफ सिरप को भारत के साथ-साथ गाम्बिया और उज्बेकिस्तान में बच्चों की मौत से जोड़ा गया था।\nस्रोत: https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-12"
+        },
+        {
+          "prompt": {
+            "en": "According to the World Bank report, extreme poverty in India fell to what percentage in 2023 from 27.1% in 2011?",
+            "hi": "विश्व बैंक की रिपोर्ट के अनुसार, भारत में अत्यधिक गरीबी 2011 में 27.1% से घटकर 2023 में कितने प्रतिशत हो गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "1.2%",
+                "hi": "1.2%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "8.9%",
+                "hi": "8.9%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "5.4%",
+                "hi": "5.4%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2.6%",
+                "hi": "2.6%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The World Bank report highlights that extreme poverty in India dropped significantly, falling from 27.1% in 2011 down to 2.6% in 2023, driven by rising employment and government transfers.\nSource: https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece",
+            "hi": "विश्व बैंक की रिपोर्ट इस बात पर प्रकाश डालती है कि बढ़ते रोजगार और सरकारी हस्तांतरण के कारण भारत में अत्यधिक गरीबी में काफी गिरावट आई है, जो 2011 में 27.1% से घटकर 2023 में 2.6% हो गई है।\nस्रोत: https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-13"
+        },
+        {
+          "prompt": {
+            "en": "Despite reporting a sharp 93% plunge in net profit due to higher input gas costs, what was the year-over-year growth in Indraprastha Gas Ltd's overall sales?",
+            "hi": "उच्च इनपुट गैस लागत के कारण शुद्ध लाभ में 93% की तेज गिरावट दर्ज करने के बावजूद, इंद्रप्रस्थ गैस लिमिटेड की कुल बिक्री में साल-दर-साल वृद्धि क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5%",
+                "hi": "5%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "12%",
+                "hi": "12%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "8%",
+                "hi": "8%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "15%",
+                "hi": "15%"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text explicitly notes that Indraprastha Gas Ltd's overall sales grew by 8% on a year-over-year basis despite its net profit plummeting.\nSource: https://www.thehindu.com/business/Industry/igl-net-profit-plummets-93-on-higher-input-gas-cost-and-consumer-price-protection/article71646428.ece",
+            "hi": "पाठ में स्पष्ट रूप से लिखा गया है कि शुद्ध लाभ में गिरावट के बावजूद इंद्रप्रस्थ गैस लिमिटेड की कुल बिक्री साल-दर-साल आधार पर 8% बढ़ी।\nस्रोत: https://www.thehindu.com/business/Industry/igl-net-profit-plummets-93-on-higher-input-gas-cost-and-consumer-price-protection/article71646428.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/igl-net-profit-plummets-93-on-higher-input-gas-cost-and-consumer-price-protection/article71646428.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-14"
+        },
+        {
+          "prompt": {
+            "en": "What was Sun Pharma's adjusted net profit for the second quarter (Q2) after excluding exceptional items?",
+            "hi": "असाधारण वस्तुओं को छोड़कर दूसरी तिमाही (Q2) के लिए सन फार्मा का समायोजित शुद्ध लाभ क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹3,162 crore",
+                "hi": "₹3,162 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹2,410 crore",
+                "hi": "₹2,410 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹1,850 crore",
+                "hi": "₹1,850 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹4,500 crore",
+                "hi": "₹4,500 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source specifies that when excluding exceptional items, Sun Pharma's adjusted net profit for Q2 stood at ₹3,162 crore.\nSource: https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece",
+            "hi": "स्रोत निर्दिष्ट करता है कि असाधारण वस्तुओं को छोड़कर, Q2 के लिए सन फार्मा का समायोजित शुद्ध लाभ ₹3,162 करोड़ था।\nस्रोत: https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-15"
+        },
+        {
+          "prompt": {
+            "en": "As US tech stocks experienced sharp falls amid heavy artificial intelligence spending, which index opened at its lowest level in over two months?",
+            "hi": "भारी कृत्रिम बुद्धिमत्ता खर्च के बीच अमेरिकी तकनीकी शेयरों में भारी गिरावट का अनुभव हुआ, कौन सा सूचकांक दो महीनों में अपने सबसे निचले स्तर पर खुला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The tech-heavy Nasdaq",
+                "hi": "तकनीक-भारी नैस्डैक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Dow Jones Industrial Average",
+                "hi": "डॉव जोन्स इंडस्ट्रियल एवरेज"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The S&P 500",
+                "hi": "एस एंड पी 500"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Russell 2000",
+                "hi": "रसेल 2000"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report highlights that shares in companies like Intel fell while the tech-heavy Nasdaq opened at its lowest level in more than two months.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में बताया गया है कि इंटेल जैसी कंपनियों के शेयरों में गिरावट आई, जबकि टेक-हेवी नैस्डैक दो महीने से अधिक समय में अपने सबसे निचले स्तर पर खुला।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-16"
+        },
+        {
+          "prompt": {
+            "en": "Binance suffered a massive cyber-attack involving the theft of how much money, suspected to be the biggest hack in history?",
+            "hi": "बिनेंस को एक बड़े साइबर हमले का सामना करना पड़ा जिसमें कितने पैसे की चोरी शामिल थी, जिसे इतिहास में सबसे बड़ी हैक माना जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1.2 billion",
+                "hi": "$1.2 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$3.5 billion",
+                "hi": "$3.5 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$4.8 billion",
+                "hi": "$4.8 बिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$6.3 billion",
+                "hi": "$6.3 बिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source and related articles indicate that Binance's major hack involved an estimated $6.3 billion, described as the largest hack in history.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत और संबंधित लेखों से संकेत मिलता है कि बिनेंस की प्रमुख हैक में अनुमानित $6.3 बिलियन शामिल थे, जिसे इतिहास में सबसे बड़ी हैक के रूप में वर्णित किया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-17"
+        },
+        {
+          "prompt": {
+            "en": "According to environmental assessments of water companies in England, how many companies were rated as 'poor' or 'requiring improvement' for environmental targets?",
+            "hi": "इंग्लैंड में जल कंपनियों के पर्यावरण आकलन के अनुसार, कितनी कंपनियों को पर्यावरणीय लक्ष्यों के लिए 'खराब' या 'सुधार की आवश्यकता' के रूप में दर्जा दिया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "All of them without exception",
+                "hi": "वे सभी बिना किसी अपवाद के"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "All but one of England's water companies",
+                "hi": "इंग्लैंड की एक जल कंपनी को छोड़कर सभी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exactly half of the registered water firms",
+                "hi": "पंजीकृत जल कंपनियों का बिल्कुल आधा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Only a minor fraction comprising two regional suppliers",
+                "hi": "केवल एक छोटा सा अंश जिसमें दो क्षेत्रीय आपूर्तिकर्ता शामिल हैं"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states that all but one of England's water companies received ratings of 'poor' or 'requiring improvement' regarding environmental targets.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत स्पष्ट रूप से बताता है कि इंग्लैंड की एक को छोड़कर सभी जल कंपनियों को पर्यावरणीय लक्ष्यों के संबंध में 'खराब' या 'सुधार की आवश्यकता' की रेटिंग मिली है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-18"
+        },
+        {
+          "prompt": {
+            "en": "According to crypto giant Binance, which nation-state is the $6.3bn stolen cryptocurrency hack linked to?",
+            "hi": "क्रिप्टो दिग्गज बिनेंस के अनुसार, 6.3 बिलियन डॉलर की चोरी वाली क्रिप्टोकरेंसी हैक किस देश-राज्य से जुड़ी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "China",
+                "hi": "चीन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Iran",
+                "hi": "ईरान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Russia",
+                "hi": "रूस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "North Korea",
+                "hi": "उत्तर कोरिया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The report explicitly notes that the $6.3bn crypto hack targeting Binance is believed to be linked to North Korea.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में स्पष्ट रूप से कहा गया है कि बिनेंस को लक्षित करने वाली 6.3 बिलियन डॉलर की क्रिप्टो हैक उत्तर कोरिया से जुड़ी हुई मानी जाती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-19"
+        },
+        {
+          "prompt": {
+            "en": "According to recent botanical studies, insect pests currently cause approximately what percentage of global annual crop losses?",
+            "hi": "हाल के वनस्पति अध्ययनों के अनुसार, कीट वर्तमान में वैश्विक वार्षिक फसल हानि का लगभग कितने प्रतिशत का कारण बनते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "20%",
+                "hi": "20%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "15%",
+                "hi": "15%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "10%",
+                "hi": "10%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "35%",
+                "hi": "35%"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source indicates that insect pests are responsible for roughly 20% of global annual crop losses, a figure expected to rise with global warming.\nSource: https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
+            "hi": "स्रोत इंगित करता है कि वैश्विक वार्षिक फसल हानि के लगभग 20% के लिए कीट कीट जिम्मेदार हैं, ग्लोबल वार्मिंग के साथ यह आंकड़ा बढ़ने की उम्मीद है।\nस्रोत: https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-20"
+        },
+        {
+          "prompt": {
+            "en": "The development of India's regional satellite navigation system NavIC originally commenced in the aftermath of which major historical conflict?",
+            "hi": "भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली NavIC का विकास मूल रूप से किस प्रमुख ऐतिहासिक संघर्ष के बाद शुरू हुआ था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The 1999 Kargil War",
+                "hi": "1999 का कारगिल युद्ध"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The 1971 Bangladesh Liberation War",
+                "hi": "1971 का बांग्लादेश मुक्ति संग्राम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The 1965 Indo-Pak War",
+                "hi": "1965 का भारत-पाक युद्ध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The 2001 Parliament Attack Standoff",
+                "hi": "2001 संसद हमला गतिरोध"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explains that the development of NavIC began following the 1999 Kargil War after the U.S. restricted GPS data access.\nSource: https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
+            "hi": "सूत्र बताते हैं कि NavIC का विकास 1999 के कारगिल युद्ध के बाद शुरू हुआ जब अमेरिका ने जीपीएस डेटा एक्सेस को प्रतिबंधित कर दिया था।\nस्रोत: https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-21"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary mechanism of the experimental gene therapy CRMA-1001 in treating the hepatitis B virus?",
+            "hi": "हेपेटाइटिस बी वायरस के इलाज में प्रायोगिक जीन थेरेपी सीआरएमए-1001 का प्राथमिक तंत्र क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It stimulates antibody production to destroy infected liver cells.",
+                "hi": "यह संक्रमित लिवर कोशिकाओं को नष्ट करने के लिए एंटीबॉडी उत्पादन को उत्तेजित करता है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It silences the viral DNA rather than targeting the virus directly.",
+                "hi": "यह सीधे तौर पर वायरस को निशाना बनाने के बजाय वायरल डीएनए को शांत कर देता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It blocks liver cell receptors to prevent viral entry.",
+                "hi": "यह वायरल प्रवेश को रोकने के लिए लिवर सेल रिसेप्टर्स को ब्लॉक करता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It utilizes synthetic enzymes to completely dissolve the viral outer protein coat.",
+                "hi": "यह वायरल बाहरी प्रोटीन कोट को पूरी तरह से भंग करने के लिए सिंथेटिक एंजाइमों का उपयोग करता है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt highlights that CRMA-1001 is promising because, instead of targeting the virus directly, it silences the viral DNA to prevent virus rebound.\nSource: https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece",
+            "hi": "अंश इस बात पर प्रकाश डालता है कि सीआरएमए-1001 आशाजनक है क्योंकि, वायरस को सीधे लक्षित करने के बजाय, यह वायरस के दोबारा फैलने को रोकने के लिए वायरल डीएनए को शांत कर देता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-22"
+        },
+        {
+          "prompt": {
+            "en": "From which specific facility is ISRO's GSLV-F18 carrying the NVS-03 navigation satellite scheduled to lift off?",
+            "hi": "इसरो का GSLV-F18 किस विशिष्ट सुविधा से NVS-03 नेविगेशन उपग्रह को ले जाने वाला है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vikram Sarabhai Space Centre, Thiruvananthapuram",
+                "hi": "विक्रम साराभाई अंतरिक्ष केंद्र, तिरुवनंतपुरम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Dr. B.R. Ambedkar Launch Complex, Odisha",
+                "hi": "डॉ. बी.आर. अम्बेडकर लॉन्च कॉम्प्लेक्स, ओडिशा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kulasekarapattinam Spaceport, Tamil Nadu",
+                "hi": "कुलसेकरपट्टिनम स्पेसपोर्ट, तमिलनाडु"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Satish Dhawan Space Centre, Sriharikota",
+                "hi": "सतीश धवन अंतरिक्ष केंद्र, श्रीहरिकोटा"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source specifies that the GSLV-F18 rocket is scheduled to lift off from the second launch pad at the Satish Dhawan Space Centre.\nSource: https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
+            "hi": "स्रोत निर्दिष्ट करता है कि जीएसएलवी-एफ18 रॉकेट को सतीश धवन अंतरिक्ष केंद्र के दूसरे लॉन्च पैड से उड़ान भरने के लिए निर्धारित किया गया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-23"
+        },
+        {
+          "prompt": {
+            "en": "In which region of Britain were some of the rarest and most threatened bats recorded during a large woodland bat survey utilizing AI?",
+            "hi": "ब्रिटेन के किस क्षेत्र में एआई का उपयोग करते हुए एक बड़े वुडलैंड चमगादड़ सर्वेक्षण के दौरान कुछ दुर्लभ और सबसे खतरनाक चमगादड़ों को दर्ज किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The south-west of England",
+                "hi": "इंग्लैंड का दक्षिण-पश्चिम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Scottish Highlands",
+                "hi": "स्कॉटिश हाइलैंड्स"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Northern Ireland's lakelands",
+                "hi": "उत्तरी आयरलैंड की झीलभूमियाँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Welsh valleys",
+                "hi": "वेल्श घाटियाँ"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source notes that some of Britain's rarest and most threatened bats were recorded in the south-west of England during the woodland bat survey.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि ब्रिटेन के कुछ दुर्लभ और सबसे खतरनाक चमगादड़ों को वुडलैंड चमगादड़ सर्वेक्षण के दौरान इंग्लैंड के दक्षिण-पश्चिम में दर्ज किया गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-24"
+        },
+        {
+          "prompt": {
+            "en": "During a rare ceasefire, hundreds of people were evacuated from which Russian-occupied front-line town?",
+            "hi": "एक दुर्लभ युद्धविराम के दौरान, सैकड़ों लोगों को रूस के कब्जे वाले फ्रंट-लाइन शहर से निकाला गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Zaporizhzhia",
+                "hi": "Zaporizhzhia"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Kramatorsk",
+                "hi": "क्रामाटोर्सक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Oleshky",
+                "hi": "ओलेस्की"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kherson",
+                "hi": "खेरसॉन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report details that hundreds of people were evacuated from the Russian-occupied front-line town of Oleshky during a rare ceasefire.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में बताया गया है कि एक दुर्लभ युद्धविराम के दौरान सैकड़ों लोगों को रूस के कब्जे वाले फ्रंट-लाइन शहर ओलेस्की से निकाला गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-25"
+        },
+        {
+          "prompt": {
+            "en": "Which prominent independent Russian newspaper recently shut down under intense pressure from authorities?",
+            "hi": "कौन सा प्रमुख स्वतंत्र रूसी समाचार पत्र हाल ही में अधिकारियों के भारी दबाव के कारण बंद हो गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Novaya Gazeta",
+                "hi": "नोवाया गजेटा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Izvestia",
+                "hi": "इज़वेस्टिया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pravda",
+                "hi": "प्रावदा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kommersant",
+                "hi": "कोमर्सेंट"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states that Novaya Gazeta, one of Russia's most high-profile independent news outlets over the last three decades, has shut down under pressure.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि पिछले तीन दशकों में रूस के सबसे हाई-प्रोफाइल स्वतंत्र समाचार आउटलेटों में से एक नोवाया गजेटा दबाव में बंद हो गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-26"
+        },
+        {
+          "prompt": {
+            "en": "Pope Leo XIV made history by becoming the first pontiff to vote in a US election; where was the pontiff born?",
+            "hi": "पोप लियो XIV ने अमेरिकी चुनाव में मतदान करने वाले पहले पोप बनकर इतिहास रचा; पोप का जन्म कहाँ हुआ था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "New York, USA",
+                "hi": "न्यूयॉर्क, यूएसए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chicago, USA",
+                "hi": "शिकागो, यूएसए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rome, Italy",
+                "hi": "रोम, इटली"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Boston, USA",
+                "hi": "बोस्टन, यूएसए"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The report explicitly notes that the Chicago-born pontiff mailed in a ballot for the US midterm elections.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में स्पष्ट रूप से कहा गया है कि शिकागो में जन्मे पोप ने अमेरिकी मध्यावधि चुनावों के लिए मतपत्र भेजा था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Set 2: Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-10-31-27"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-10-31T13:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
+      "url": "https://www.thehindu.com/news/national/karnataka/will-not-enforce-circular-on-hospital-medicine-price-disclosure-for-now-karnataka-government-to-hc/article71645843.ece",
+      "published": "2026-10-30T23:37:38+05:30"
+    },
+    {
+      "title": "Senior advocate Ancha Pandu Ranga Rao sworn in as APERC member",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/senior-advocate-ancha-pandu-ranga-raosworn-in-as-aperc-member/article71645524.ece",
+      "published": "2026-10-30T23:31:18+05:30"
+    },
+    {
+      "title": "J&K High Court seeks status on retrieval of Pakistan-born son of Indian deported after Pahalgam attack",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-seeks-status-on-retrieval-of-pakistan-born-son-of-indian-deported-after-pahalgam-attack/article71646672.ece",
+      "published": "2026-10-30T23:23:39+05:30"
+    },
+    {
+      "title": "Bursting of firecrackers only between 8 p.m. and 10 p.m., says Minister",
+      "url": "https://www.thehindu.com/news/national/karnataka/bursting-of-firecrackers-only-between-8-pm-and-10-pm-says-minister/article71645973.ece",
+      "published": "2026-10-30T23:07:28+05:30"
+    },
+    {
+      "title": "India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
+      "url": "https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece",
+      "published": "2026-10-30T22:40:35+05:30"
+    },
+    {
+      "title": "India made ‘remarkable progress’ in reducing poverty: World Bank",
+      "url": "https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece",
+      "published": "2026-10-30T22:29:03+05:30"
+    },
+    {
+      "title": "IRDAI declares Nov grievance resolution month",
+      "url": "https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece",
+      "published": "2026-10-30T22:17:39+05:30"
+    },
+    {
+      "title": "IGL net profit plummets 93% on higher input gas cost and consumer price protection",
+      "url": "https://www.thehindu.com/business/Industry/igl-net-profit-plummets-93-on-higher-input-gas-cost-and-consumer-price-protection/article71646428.ece",
+      "published": "2026-10-30T22:06:05+05:30"
+    },
+    {
+      "title": "Sun Pharma Q2 profit plunges 36% on exceptional charges despite revenue growth",
+      "url": "https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece",
+      "published": "2026-10-30T21:51:00+05:30"
+    },
+    {
+      "title": "Indian scientists find new gateway in plants’ alarm system",
+      "url": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
+      "published": "2026-10-30T14:47:37+05:30"
+    },
+    {
+      "title": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
+      "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
+      "published": "2026-10-30T11:14:47+05:30"
+    },
+    {
+      "title": "Gene therapy offers to beat hepatitis B virus by muting its DNA",
+      "url": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece",
+      "published": "2026-10-30T10:18:02+05:30"
+    },
+    {
+      "title": "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03",
+      "url": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece",
+      "published": "2026-10-30T09:18:05+05:30"
+    },
+    {
+      "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T00:02:35+00:00"
+    },
+    {
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T09:17:05+00:00"
+    },
+    {
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T23:11:59+00:00"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T17:47:01+00:00"
+    },
+    {
+      "title": "What we know about Binance's $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T12:27:28+00:00"
+    },
+    {
+      "title": "City of London chief tops UK Black Powerlist",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T18:00:24+00:00"
+    },
+    {
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T16:04:55+00:00"
+    },
+    {
+      "title": "Largest woodland bat survey a 'nice story of AI for good'",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:10:43+00:00"
+    },
+    {
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T12:08:01+00:00"
+    },
+    {
+      "title": "Attenborough-backed appeal secures £30m estate",
+      "url": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:23:37+00:00"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T17:39:43+00:00"
+    },
+    {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T16:26:11+00:00"
+    },
+    {
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T11:23:06+00:00"
+    },
+    {
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T14:48:22+00:00"
+    }
+  ]
+}
