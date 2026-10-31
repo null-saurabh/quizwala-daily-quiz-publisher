@@ -510,6 +510,236 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-11"
+        },
+        {
+          "prompt": {
+            "en": "In the incident where a Class 10 girl was attacked with a chainsaw in a classroom in Anantapur, where was the perpetrator apprehended by authorities?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At Dharmavaram railway station"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Inside the classroom where the attack occurred"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At the state border while trying to flee"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At her residence in Bengaluru"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report explicitly notes that the perpetrator, who is a close relative of the victim, was arrested at Dharmavaram railway station within hours of the incident.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-32"
+        },
+        {
+          "prompt": {
+            "en": "During Prime Minister Modi's inauguration of tourism infrastructure projects in Gujarat's Ekta Nagar, what was the total combined financial outlay for the 31 projects following the foundation stone laying?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹118.88 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹4,504 crore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹426.71 crore"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,000 crore"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt details that the Prime Minister laid foundation stones for eight development projects worth ₹118.88 crore, which brought the total outlay for the 31 projects to ₹426.71 crore.\nSource: https://www.thehindu.com/news/national/gujarat/pm-modi-inaugurates-tourism-infrastructure-projects-in-gujarats-ekta-nagar/article71648518.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/gujarat/pm-modi-inaugurates-tourism-infrastructure-projects-in-gujarats-ekta-nagar/article71648518.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-33"
+        },
+        {
+          "prompt": {
+            "en": "Following a fatal crash that killed six people, what mandatory reporting requirement was imposed on all pilots by the Uttarakhand Civil Aviation Development Authority?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To submit a flight path approval prior to takeoff"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To carry at least two co-pilots on all single-engine aircraft"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To undergo monthly simulator training sessions"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To submit a report detailing weather conditions and operational information after every flight"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Uttarakhand Civil Aviation Development Authority made it compulsory for all pilots to submit a report to the authorities after every flight, detailing weather conditions and other important operational information.\nSource: https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-34"
+        },
+        {
+          "prompt": {
+            "en": "According to meteorological warnings following Cyclone Arnab, where is the impending severe cyclonic storm expected to make landfall?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At Chennai port limits"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Near Visakhapatnam and Kakinada"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Along the coastline of West Bengal"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Between Narsapur and Nellore"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that the depression over the Bay of Bengal is expected to intensify into a severe cyclonic storm with landfall anticipated between Narsapur and Nellore on November 3.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-35"
+        },
+        {
+          "prompt": {
+            "en": "In which specific regions has an intense building and construction boom put hundreds of thousands of people at risk of potential Himalayan disasters?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sikkim and Bhutan"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Himachal Pradesh and Jammu & Kashmir"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Parts of Nepal and India's Uttarakhand"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Arunachal Pradesh and the Assam border"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source specifies that the construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand, putting 300,000 people in harm's way.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-36"
         }
       ],
       "quarantined": [],
@@ -1072,6 +1302,98 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-23"
+        },
+        {
+          "prompt": {
+            "en": "How much additional instalment of tax devolution was recently released by the Centre to the State of Karnataka?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹4,504 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,09,000 crore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹118.88 crore"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹426.71 crore"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title and report explicitly record that the Centre released a ₹4,504-crore additional instalment of tax devolution to Karnataka.\nSource: https://www.thehindu.com/news/national/karnataka/centre-releases-4504-crore-additional-instalment-of-tax-devolution-to-karnataka/article71650706.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/centre-releases-4504-crore-additional-instalment-of-tax-devolution-to-karnataka/article71650706.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-37"
+        },
+        {
+          "prompt": {
+            "en": "Amid sharp falls in US tech stocks driven by surging artificial intelligence spending approaching $1 trillion, how did the tech-heavy Nasdaq open?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "With a moderate 2% gain across all major sectors"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At an all-time record high"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At its lowest level in more than two months"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Unchanged due to federal market stabilization interventions"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report states that shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-38"
         }
       ],
       "quarantined": [],
@@ -1745,6 +2067,48 @@
       "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T05:44:21+00:00",
       "text": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+    },
+    {
+      "id": "1",
+      "title": "Centre releases ₹4,504-crore additional instalment of tax devolution to Karnataka",
+      "url": "https://www.thehindu.com/news/national/karnataka/centre-releases-4504-crore-additional-instalment-of-tax-devolution-to-karnataka/article71650706.ece",
+      "published": "2026-10-31T23:30:32+05:30",
+      "text": ""
+    },
+    {
+      "id": "2",
+      "title": "Class 10 girl attacked with chainsaw in classroom in Anantapur; perpetrator nabbed within hours",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
+      "published": "2026-10-31T23:29:38+05:30",
+      "text": "Victim shifted to Bengaluru for better treatment; perpetrator, a close relative of the victim, was arrested at Dharmavaram railway station within hours of the incident"
+    },
+    {
+      "id": "3",
+      "title": "KBG launches ‘Ward One’ initiative",
+      "url": "https://www.thehindu.com/news/cities/bangalore/kbg-launches-ward-one-initiative/article71650634.ece",
+      "published": "2026-10-31T23:25:40+05:30",
+      "text": ""
+    },
+    {
+      "id": "4",
+      "title": "Modi says Opposition has become destructive force; calls for unity",
+      "url": "https://www.thehindu.com/news/national/gujarat/pm-modi-inaugurates-tourism-infrastructure-projects-in-gujarats-ekta-nagar/article71648518.ece",
+      "published": "2026-10-31T23:06:21+05:30",
+      "text": "The Prime Minister also laid the foundation stones for eight development projects worth ₹118.88 crore, taking the total outlay for the 31 projects to ₹426.71 crore"
+    },
+    {
+      "id": "5",
+      "title": "After ‘Arnab’, Andhra Pradesh may face another severe cyclonic storm",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
+      "published": "2026-10-31T23:04:37+05:30",
+      "text": "The depression over Bay of Bengal is likely to intensify into a severe cyclonic storm by November 2; landfall is expected between Narsapur and Nellore on November 3, with maximum wind speed of 120 kmph"
+    },
+    {
+      "id": "6",
+      "title": "Uttarakhand makes co-pilots mandatory on Char Dham chartered flights after crash killed six",
+      "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
+      "published": "2026-10-31T23:00:57+05:30",
+      "text": "The Uttarakhand Civil Aviation Development Authority has also made it compulsory for all pilots to submit a report to the authorities after every flight, detailing weather conditions and other important operational information"
     }
   ]
 }

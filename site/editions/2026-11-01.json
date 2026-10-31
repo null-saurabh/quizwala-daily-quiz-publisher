@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-11-01",
-  "generated_at": "2026-10-31T17:22:42.863222+00:00",
+  "generated_at": "2026-10-31T18:08:04.411532+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
@@ -12,7 +12,7 @@
         {
           "prompt": {
             "en": "According to investigations into the cross-border drug network busted by the Enforcement Directorate (ED), who was identified as the Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025?",
-            "hi": "प्रवर्तन निदेशालय (ईडी) द्वारा सीमा पार ड्रग नेटवर्क का भंडाफोड़ करने की जांच के अनुसार, अगस्त 2025 में जब्त की गई 49.1 किलोग्राम मेथमफेटामाइन खेप के म्यांमार स्थित आपूर्तिकर्ता के रूप में किसकी पहचान की गई थी?"
+            "hi": "प्रवर्तन निदेशालय (ईडी) द्वारा सीमा पार ड्रग नेटवर्क का भंडाफोड़ करने की जांच के अनुसार, अगस्त 2025 में जब्त की गई 49.1 किलोग्राम मेथामफेटामाइन खेप के म्यांमार स्थित आपूर्तिकर्ता के रूप में किसकी पहचान की गई थी?"
           },
           "options": [
             {
@@ -63,7 +63,7 @@
         {
           "prompt": {
             "en": "What specific administrative changes and actions regarding elections did Congress president Mallikarjun Kharge attribute to Gyanesh Kumar in his list of charges?",
-            "hi": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने अपने आरोपों की सूची में ज्ञानेश कुमार को चुनाव के संबंध में कौन से विशिष्ट प्रशासनिक परिवर्तन और कार्यों का श्रेय दिया?"
+            "hi": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने अपने आरोपों की सूची में ज्ञानेश कुमार को चुनाव के संबंध में कौन से विशिष्ट प्रशासनिक परिवर्तन और कार्रवाइयां बताईं?"
           },
           "options": [
             {
@@ -102,7 +102,7 @@
           "correct_option_id": "c",
           "explanation": {
             "en": "The text details that Mallikarjun Kharge listed charges against Gyanesh Kumar including facilitating vote theft, deleting 13.2 crore voter names and changing Form 6 without parliamentary oversight.\nSource: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
-            "hi": "पाठ में विवरण दिया गया है कि मल्लिकार्जुन खड़गे ने ज्ञानेश कुमार के खिलाफ वोट चोरी को बढ़ावा देने, 13.2 करोड़ मतदाताओं के नाम हटाने और संसदीय निरीक्षण के बिना फॉर्म 6 को बदलने सहित आरोप सूचीबद्ध किए हैं।\nस्रोत: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
+            "hi": "पाठ में बताया गया है कि मल्लिकार्जुन खड़गे ने ज्ञानेश कुमार के खिलाफ वोटों की चोरी को बढ़ावा देने, 13.2 करोड़ मतदाताओं के नाम हटाने और संसदीय निरीक्षण के बिना फॉर्म 6 को बदलने जैसे आरोप सूचीबद्ध किए हैं।\nस्रोत: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
           },
           "section": "National Affairs, Policy & Governance",
           "source_label": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
@@ -318,7 +318,7 @@
         {
           "prompt": {
             "en": "In the tragic helicopter crash that resulted in six deaths in a northern Indian state, from which prominent Hindu pilgrimage site had the aircraft taken off before losing contact?",
-            "hi": "उत्तर भारतीय राज्य में दुखद हेलीकॉप्टर दुर्घटना में छह लोगों की मौत हो गई, संपर्क टूटने से पहले विमान ने किस प्रमुख हिंदू तीर्थ स्थल से उड़ान भरी थी?"
+            "hi": "उत्तरी भारतीय राज्य में दुखद हेलीकॉप्टर दुर्घटना में छह लोगों की मौत हो गई, संपर्क टूटने से पहले विमान ने किस प्रमुख हिंदू तीर्थ स्थल से उड़ान भरी थी?"
           },
           "options": [
             {
@@ -569,6 +569,261 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-11"
+        },
+        {
+          "prompt": {
+            "en": "In the incident where a Class 10 girl was attacked with a chainsaw in a classroom in Anantapur, where was the perpetrator apprehended by authorities?",
+            "hi": "उस घटना में जहां अनंतपुर में कक्षा 10 की एक लड़की पर एक कक्षा में जंजीर से हमला किया गया था, अधिकारियों द्वारा अपराधी को कहां से पकड़ा गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At Dharmavaram railway station",
+                "hi": "धर्मावरम रेलवे स्टेशन पर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Inside the classroom where the attack occurred",
+                "hi": "कक्षा के अंदर जहां हमला हुआ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At the state border while trying to flee",
+                "hi": "भागने की कोशिश करते समय राज्य की सीमा पर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At her residence in Bengaluru",
+                "hi": "बेंगलुरु में उनके आवास पर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report explicitly notes that the perpetrator, who is a close relative of the victim, was arrested at Dharmavaram railway station within hours of the incident.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
+            "hi": "रिपोर्ट में स्पष्ट रूप से कहा गया है कि अपराधी, जो पीड़िता का करीबी रिश्तेदार है, को घटना के कुछ घंटों के भीतर धर्मावरम रेलवे स्टेशन पर गिरफ्तार कर लिया गया था।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-32"
+        },
+        {
+          "prompt": {
+            "en": "During Prime Minister Modi's inauguration of tourism infrastructure projects in Gujarat's Ekta Nagar, what was the total combined financial outlay for the 31 projects following the foundation stone laying?",
+            "hi": "प्रधान मंत्री मोदी द्वारा गुजरात के एकता नगर में पर्यटन बुनियादी ढांचा परियोजनाओं के उद्घाटन के दौरान, शिलान्यास के बाद 31 परियोजनाओं के लिए कुल संयुक्त वित्तीय परिव्यय क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹118.88 crore",
+                "hi": "₹118.88 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹4,504 crore",
+                "hi": "₹4,504 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹426.71 crore",
+                "hi": "₹426.71 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,000 crore",
+                "hi": "₹1,000 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt details that the Prime Minister laid foundation stones for eight development projects worth ₹118.88 crore, which brought the total outlay for the 31 projects to ₹426.71 crore.\nSource: https://www.thehindu.com/news/national/gujarat/pm-modi-inaugurates-tourism-infrastructure-projects-in-gujarats-ekta-nagar/article71648518.ece",
+            "hi": "अंश में बताया गया है कि प्रधान मंत्री ने ₹118.88 करोड़ की आठ विकास परियोजनाओं की आधारशिला रखी, जिससे 31 परियोजनाओं का कुल परिव्यय ₹426.71 करोड़ हो गया।\nस्रोत: https://www.thehindu.com/news/national/gujarat/pm-modi-inaugurates-tourism-infrastructure-projects-in-gujarats-ekta-nagar/article71648518.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/gujarat/pm-modi-inaugurates-tourism-infrastructure-projects-in-gujarats-ekta-nagar/article71648518.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-33"
+        },
+        {
+          "prompt": {
+            "en": "Following a fatal crash that killed six people, what mandatory reporting requirement was imposed on all pilots by the Uttarakhand Civil Aviation Development Authority?",
+            "hi": "एक घातक दुर्घटना के बाद जिसमें छह लोगों की मौत हो गई, उत्तराखंड नागरिक उड्डयन विकास प्राधिकरण द्वारा सभी पायलटों पर कौन सी अनिवार्य रिपोर्टिंग आवश्यकता लागू की गई थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To submit a flight path approval prior to takeoff",
+                "hi": "उड़ान भरने से पहले उड़ान पथ अनुमोदन प्रस्तुत करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To carry at least two co-pilots on all single-engine aircraft",
+                "hi": "सभी एकल इंजन वाले विमानों पर कम से कम दो सह-पायलट ले जाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To undergo monthly simulator training sessions",
+                "hi": "मासिक सिम्युलेटर प्रशिक्षण सत्र से गुजरना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To submit a report detailing weather conditions and operational information after every flight",
+                "hi": "प्रत्येक उड़ान के बाद मौसम की स्थिति और परिचालन संबंधी जानकारी का विवरण देते हुए एक रिपोर्ट प्रस्तुत करना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Uttarakhand Civil Aviation Development Authority made it compulsory for all pilots to submit a report to the authorities after every flight, detailing weather conditions and other important operational information.\nSource: https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
+            "hi": "उत्तराखंड नागरिक उड्डयन विकास प्राधिकरण ने सभी पायलटों के लिए प्रत्येक उड़ान के बाद अधिकारियों को एक रिपोर्ट जमा करना अनिवार्य कर दिया है, जिसमें मौसम की स्थिति और अन्य महत्वपूर्ण परिचालन जानकारी का विवरण दिया गया है।\nस्रोत: https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-34"
+        },
+        {
+          "prompt": {
+            "en": "According to meteorological warnings following Cyclone Arnab, where is the impending severe cyclonic storm expected to make landfall?",
+            "hi": "चक्रवात अर्नब के बाद मौसम संबंधी चेतावनियों के अनुसार, आसन्न भीषण चक्रवाती तूफान के कहाँ टकराने की आशंका है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At Chennai port limits",
+                "hi": "चेन्नई बंदरगाह सीमा पर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Near Visakhapatnam and Kakinada",
+                "hi": "विशाखापत्तनम और काकीनाडा के पास"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Along the coastline of West Bengal",
+                "hi": "पश्चिम बंगाल के समुद्र तट के साथ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Between Narsapur and Nellore",
+                "hi": "नरसापुर और नेल्लोर के बीच"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that the depression over the Bay of Bengal is expected to intensify into a severe cyclonic storm with landfall anticipated between Narsapur and Nellore on November 3.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
+            "hi": "सूत्र का कहना है कि बंगाल की खाड़ी के ऊपर दबाव के गंभीर चक्रवाती तूफान में तब्दील होने की आशंका है और 3 नवंबर को नरसापुर और नेल्लोर के बीच भूस्खलन की आशंका है।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-35"
+        },
+        {
+          "prompt": {
+            "en": "In which specific regions has an intense building and construction boom put hundreds of thousands of people at risk of potential Himalayan disasters?",
+            "hi": "किस विशिष्ट क्षेत्र में तीव्र भवन निर्माण और निर्माण कार्य ने सैकड़ों हजारों लोगों को संभावित हिमालयी आपदाओं के खतरे में डाल दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sikkim and Bhutan",
+                "hi": "सिक्किम और भूटान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Himachal Pradesh and Jammu & Kashmir",
+                "hi": "हिमाचल प्रदेश और जम्मू और कश्मीर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Parts of Nepal and India's Uttarakhand",
+                "hi": "नेपाल के कुछ हिस्से और भारत का उत्तराखंड"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Arunachal Pradesh and the Assam border",
+                "hi": "अरुणाचल प्रदेश और असम सीमा"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source specifies that the construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand, putting 300,000 people in harm's way.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत निर्दिष्ट करता है कि नेपाल और भारत के उत्तराखंड के कुछ हिस्सों में पर्यटन सुविधाओं, आवास और बुनियादी ढांचे का निर्माण बढ़ गया है, जिससे 300,000 लोगों को नुकसान हो रहा है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-36"
         }
       ],
       "quarantined": [],
@@ -711,7 +966,7 @@
               "label": "C",
               "text": {
                 "en": "Strict domestic tariff barriers made local procurement economically unviable for premium brands",
-                "hi": "सख्त घरेलू टैरिफ बाधाओं ने प्रीमियम ब्रांडों के लिए स्थानीय खरीद को आर्थिक रूप से अलाभकारी बना दिया"
+                "hi": "सख्त घरेलू टैरिफ बाधाओं ने प्रीमियम ब्रांडों के लिए स्थानीय खरीद को आर्थिक रूप से अव्यवहार्य बना दिया"
               }
             },
             {
@@ -754,7 +1009,7 @@
               "label": "B",
               "text": {
                 "en": "To raise exports to 50-60% of total sales while focusing exclusively on European Union markets",
-                "hi": "यूरोपीय संघ के बाजारों पर विशेष रूप से ध्यान केंद्रित करते हुए निर्यात को कुल बिक्री का 50-60% तक बढ़ाना"
+                "hi": "विशेष रूप से यूरोपीय संघ के बाजारों पर ध्यान केंद्रित करते हुए निर्यात को कुल बिक्री का 50-60% तक बढ़ाना"
               }
             },
             {
@@ -1170,7 +1425,7 @@
               "label": "C",
               "text": {
                 "en": "Purchasing second-hand garments exclusively through digital peer-to-peer marketplaces",
-                "hi": "विशेष रूप से डिजिटल पीयर-टू-पीयर मार्केटप्लेस के माध्यम से सेकेंड-हैंड कपड़ों की खरीदारी"
+                "hi": "विशेष रूप से डिजिटल पीयर-टू-पीयर मार्केटप्लेस के माध्यम से सेकेंड-हैंड परिधानों की खरीदारी"
               }
             },
             {
@@ -1193,6 +1448,108 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-23"
+        },
+        {
+          "prompt": {
+            "en": "How much additional instalment of tax devolution was recently released by the Centre to the State of Karnataka?",
+            "hi": "हाल ही में केंद्र द्वारा कर्नाटक राज्य को कर हस्तांतरण की कितनी अतिरिक्त किस्त जारी की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹4,504 crore",
+                "hi": "₹4,504 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,09,000 crore",
+                "hi": "₹1,09,000 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹118.88 crore",
+                "hi": "₹118.88 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹426.71 crore",
+                "hi": "₹426.71 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title and report explicitly record that the Centre released a ₹4,504-crore additional instalment of tax devolution to Karnataka.\nSource: https://www.thehindu.com/news/national/karnataka/centre-releases-4504-crore-additional-instalment-of-tax-devolution-to-karnataka/article71650706.ece",
+            "hi": "शीर्षक और रिपोर्ट में स्पष्ट रूप से दर्ज किया गया है कि केंद्र ने कर्नाटक को कर हस्तांतरण की ₹4,504 करोड़ की अतिरिक्त किस्त जारी की।\nस्रोत: https://www.thehindu.com/news/national/karnataka/centre-releases-4504-crore-additional-instalment-of-tax-devolution-to-karnataka/article71650706.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/centre-releases-4504-crore-additional-instalment-of-tax-devolution-to-karnataka/article71650706.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-37"
+        },
+        {
+          "prompt": {
+            "en": "Amid sharp falls in US tech stocks driven by surging artificial intelligence spending approaching $1 trillion, how did the tech-heavy Nasdaq open?",
+            "hi": "1 ट्रिलियन डॉलर के करीब पहुंच रहे कृत्रिम बुद्धिमत्ता खर्च में बढ़ोतरी के कारण अमेरिकी तकनीकी शेयरों में भारी गिरावट के बीच, तकनीक-भारी नैस्डैक कैसे खुला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "With a moderate 2% gain across all major sectors",
+                "hi": "सभी प्रमुख क्षेत्रों में मध्यम 2% की बढ़त के साथ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At an all-time record high",
+                "hi": "सर्वकालिक रिकॉर्ड ऊंचाई पर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At its lowest level in more than two months",
+                "hi": "दो महीने से ज्यादा के निचले स्तर पर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Unchanged due to federal market stabilization interventions",
+                "hi": "संघीय बाज़ार स्थिरीकरण हस्तक्षेपों के कारण अपरिवर्तित"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report states that shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि इंटेल के शेयरों में गिरावट जारी है जबकि टेक-हेवी नैस्डैक दो महीने से अधिक समय में अपने सबसे निचले स्तर पर खुला है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-38"
         }
       ],
       "quarantined": [],
@@ -1318,6 +1675,31 @@
       "title": "Spain train disaster clouds Sánchez chances of re-election",
       "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T05:44:21+00:00"
+    },
+    {
+      "title": "Centre releases ₹4,504-crore additional instalment of tax devolution to Karnataka",
+      "url": "https://www.thehindu.com/news/national/karnataka/centre-releases-4504-crore-additional-instalment-of-tax-devolution-to-karnataka/article71650706.ece",
+      "published": "2026-10-31T23:30:32+05:30"
+    },
+    {
+      "title": "Class 10 girl attacked with chainsaw in classroom in Anantapur; perpetrator nabbed within hours",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
+      "published": "2026-10-31T23:29:38+05:30"
+    },
+    {
+      "title": "Modi says Opposition has become destructive force; calls for unity",
+      "url": "https://www.thehindu.com/news/national/gujarat/pm-modi-inaugurates-tourism-infrastructure-projects-in-gujarats-ekta-nagar/article71648518.ece",
+      "published": "2026-10-31T23:06:21+05:30"
+    },
+    {
+      "title": "After ‘Arnab’, Andhra Pradesh may face another severe cyclonic storm",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
+      "published": "2026-10-31T23:04:37+05:30"
+    },
+    {
+      "title": "Uttarakhand makes co-pilots mandatory on Char Dham chartered flights after crash killed six",
+      "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
+      "published": "2026-10-31T23:00:57+05:30"
     }
   ]
 }
