@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-11-01",
-  "generated_at": "2026-10-31T20:10:49.816056+00:00",
+  "generated_at": "2026-10-31T22:40:28.113389+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
@@ -12,7 +12,7 @@
         {
           "prompt": {
             "en": "According to investigations into the cross-border drug network busted by the Enforcement Directorate (ED), who was identified as the Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025?",
-            "hi": "प्रवर्तन निदेशालय (ईडी) द्वारा सीमा पार ड्रग नेटवर्क का भंडाफोड़ करने की जांच के अनुसार, अगस्त 2025 में जब्त की गई 49.1 किलोग्राम मेथामफेटामाइन खेप के म्यांमार स्थित आपूर्तिकर्ता के रूप में किसकी पहचान की गई थी?"
+            "hi": "प्रवर्तन निदेशालय (ईडी) द्वारा सीमा पार ड्रग नेटवर्क का भंडाफोड़ करने की जांच के अनुसार, अगस्त 2025 में जब्त की गई 49.1 किलोग्राम मेथमफेटामाइन खेप के म्यांमार स्थित आपूर्तिकर्ता के रूप में किसकी पहचान की गई थी?"
           },
           "options": [
             {
@@ -63,7 +63,7 @@
         {
           "prompt": {
             "en": "What specific administrative changes and actions regarding elections did Congress president Mallikarjun Kharge attribute to Gyanesh Kumar in his list of charges?",
-            "hi": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने अपने आरोपों की सूची में ज्ञानेश कुमार को चुनाव के संबंध में कौन से विशिष्ट प्रशासनिक परिवर्तन और कार्रवाइयां बताईं?"
+            "hi": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने अपने आरोपों की सूची में ज्ञानेश कुमार को चुनाव के संबंध में कौन से विशिष्ट प्रशासनिक परिवर्तन और कार्यों का श्रेय दिया?"
           },
           "options": [
             {
@@ -102,7 +102,7 @@
           "correct_option_id": "c",
           "explanation": {
             "en": "The text details that Mallikarjun Kharge listed charges against Gyanesh Kumar including facilitating vote theft, deleting 13.2 crore voter names and changing Form 6 without parliamentary oversight.\nSource: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
-            "hi": "पाठ में बताया गया है कि मल्लिकार्जुन खड़गे ने ज्ञानेश कुमार के खिलाफ वोटों की चोरी को बढ़ावा देने, 13.2 करोड़ मतदाताओं के नाम हटाने और संसदीय निरीक्षण के बिना फॉर्म 6 को बदलने जैसे आरोप सूचीबद्ध किए हैं।\nस्रोत: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
+            "hi": "पाठ में विवरण दिया गया है कि मल्लिकार्जुन खड़गे ने ज्ञानेश कुमार के खिलाफ वोट चोरी को बढ़ावा देने, 13.2 करोड़ मतदाताओं के नाम हटाने और संसदीय निरीक्षण के बिना फॉर्म 6 को बदलने सहित आरोप सूचीबद्ध किए हैं।\nस्रोत: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
           },
           "section": "National Affairs, Policy & Governance",
           "source_label": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
@@ -318,7 +318,7 @@
         {
           "prompt": {
             "en": "In the tragic helicopter crash that resulted in six deaths in a northern Indian state, from which prominent Hindu pilgrimage site had the aircraft taken off before losing contact?",
-            "hi": "उत्तरी भारतीय राज्य में दुखद हेलीकॉप्टर दुर्घटना में छह लोगों की मौत हो गई, संपर्क टूटने से पहले विमान ने किस प्रमुख हिंदू तीर्थ स्थल से उड़ान भरी थी?"
+            "hi": "उत्तर भारतीय राज्य में दुखद हेलीकॉप्टर दुर्घटना में छह लोगों की मौत हो गई, संपर्क टूटने से पहले विमान ने किस प्रमुख हिंदू तीर्थ स्थल से उड़ान भरी थी?"
           },
           "options": [
             {
@@ -452,7 +452,7 @@
               "label": "D",
               "text": {
                 "en": "Police raided the chambers of the Supreme Court president to seize confidential case files.",
-                "hi": "पुलिस ने गोपनीय मामले की फाइलों को जब्त करने के लिए सुप्रीम कोर्ट के अध्यक्ष के चैंबर पर छापा मारा।"
+                "hi": "गोपनीय मामले की फाइलों को जब्त करने के लिए पुलिस ने सुप्रीम कोर्ट के अध्यक्ष के चैंबर पर छापा मारा।"
               }
             }
           ],
@@ -487,7 +487,7 @@
               "label": "B",
               "text": {
                 "en": "Because the prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-                "hi": "क्योंकि प्रधानमंत्री ने पहले भी अपनी सरकार की महत्वाकांक्षाओं के केंद्र में सैन्य तैयारियों पर जोर दिया है।"
+                "hi": "क्योंकि प्रधानमंत्री पहले भी अपनी सरकार की महत्वाकांक्षाओं के केंद्र में सैन्य तैयारियों पर जोर दे चुके हैं।"
               }
             },
             {
@@ -573,7 +573,7 @@
         {
           "prompt": {
             "en": "In the incident where a Class 10 girl was attacked with a chainsaw in a classroom in Anantapur, where was the perpetrator apprehended by authorities?",
-            "hi": "उस घटना में जहां अनंतपुर में कक्षा 10 की एक लड़की पर एक कक्षा में जंजीर से हमला किया गया था, अधिकारियों द्वारा अपराधी को कहां से पकड़ा गया था?"
+            "hi": "उस घटना में जहां अनंतपुर में कक्षा 10 की एक लड़की पर एक कक्षा में जंजीर से हमला किया गया था, अपराधी को अधिकारियों द्वारा कहाँ पकड़ा गया था?"
           },
           "options": [
             {
@@ -765,7 +765,7 @@
           "correct_option_id": "d",
           "explanation": {
             "en": "The source states that the depression over the Bay of Bengal is expected to intensify into a severe cyclonic storm with landfall anticipated between Narsapur and Nellore on November 3.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
-            "hi": "सूत्र का कहना है कि बंगाल की खाड़ी के ऊपर दबाव के गंभीर चक्रवाती तूफान में तब्दील होने की आशंका है और 3 नवंबर को नरसापुर और नेल्लोर के बीच भूस्खलन की आशंका है।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece"
+            "hi": "सूत्र का कहना है कि बंगाल की खाड़ी के ऊपर बना दबाव गंभीर चक्रवाती तूफान में तब्दील होने की आशंका है और 3 नवंबर को नरसापुर और नेल्लोर के बीच भूस्खलन की आशंका है।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece"
           },
           "section": "National Affairs, Policy & Governance",
           "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-andhra-pradesh-may-face-another-severe-cyclonic-storm/article71649303.ece",
@@ -777,7 +777,7 @@
         {
           "prompt": {
             "en": "In which specific regions has an intense building and construction boom put hundreds of thousands of people at risk of potential Himalayan disasters?",
-            "hi": "किस विशिष्ट क्षेत्र में तीव्र भवन निर्माण और निर्माण कार्य ने सैकड़ों हजारों लोगों को संभावित हिमालयी आपदाओं के खतरे में डाल दिया है?"
+            "hi": "किन विशिष्ट क्षेत्रों में तीव्र भवन निर्माण और निर्माण कार्य ने सैकड़ों हजारों लोगों को संभावित हिमालयी आपदाओं के खतरे में डाल दिया है?"
           },
           "options": [
             {
@@ -977,6 +977,516 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-41"
+        },
+        {
+          "prompt": {
+            "en": "According to recent reports regarding the Indian Olympic Association (IOA), when are the elections to choose the eight SOMs scheduled to be held?",
+            "hi": "भारतीय ओलंपिक संघ (आईओए) के संबंध में हालिया रिपोर्टों के अनुसार, आठ एसओएम को चुनने के लिए चुनाव कब होने वाले हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "November 9",
+                "hi": "9 नवंबर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "November 3",
+                "hi": "3 नवंबर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "November 15",
+                "hi": "15 नवंबर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "November 20",
+                "hi": "20 नवंबर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explicitly specifies that the polls to choose eight SOMs will be held on November 9, while the Athletes' Commission election takes place on November 3.\nSource: https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
+            "hi": "अंश स्पष्ट रूप से निर्दिष्ट करता है कि आठ एसओएम चुनने के लिए मतदान 9 नवंबर को होगा, जबकि एथलीट आयोग का चुनाव 3 नवंबर को होगा।\nस्रोत: https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-42"
+        },
+        {
+          "prompt": {
+            "en": "During his first visit as BJP's Bihar in-charge, what specific strategies did Harish Dwivedi emphasize for strengthening the party organisation?",
+            "hi": "बीजेपी के बिहार प्रभारी के रूप में अपने पहले दौरे के दौरान हरीश द्विवेदी ने पार्टी संगठन को मजबूत करने के लिए किन खास रणनीतियों पर जोर दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Door-to-door commercial audits and corporate donations",
+                "hi": "घर-घर जाकर वाणिज्यिक ऑडिट और कॉर्पोरेट दान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Frequent digital media advertising and virtual rallies",
+                "hi": "लगातार डिजिटल मीडिया विज्ञापन और आभासी रैलियाँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Massive youth mobilization through sports tournaments",
+                "hi": "खेल प्रतियोगिताओं के माध्यम से बड़े पैमाने पर युवाओं को संगठित करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Regular meetings and effective public outreach campaigns",
+                "hi": "नियमित बैठकें और प्रभावी जनपहुँच अभियान"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Harish Dwivedi provided explicit guidance on strengthening the party organisation specifically through regular meetings and effective public outreach campaigns.\nSource: https://www.thehindu.com/news/national/bihar/in-his-first-visit-bjps-bihar-in-charge-harish-dwivedi-stresses-on-strengthening-the-party/article71649638.ece",
+            "hi": "हरीश द्विवेदी ने विशेष रूप से नियमित बैठकों और प्रभावी सार्वजनिक आउटरीच अभियानों के माध्यम से पार्टी संगठन को मजबूत करने पर स्पष्ट मार्गदर्शन प्रदान किया।\nस्रोत: https://www.thehindu.com/news/national/bihar/in-his-first-visit-bjps-bihar-in-charge-harish-dwivedi-stresses-on-strengthening-the-party/article71649638.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/in-his-first-visit-bjps-bihar-in-charge-harish-dwivedi-stresses-on-strengthening-the-party/article71649638.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-43"
+        },
+        {
+          "prompt": {
+            "en": "When did the 1965 Union Cabinet decision regarding the continuation of English as a common language come to the notice of the Madras High Court Advocates Association, and through what mechanism?",
+            "hi": "आम भाषा के रूप में अंग्रेजी को जारी रखने के संबंध में 1965 के केंद्रीय मंत्रिमंडल का निर्णय मद्रास उच्च न्यायालय अधिवक्ता संघ के संज्ञान में कब और किस तंत्र के माध्यम से आया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "In 2025 pursuant to details obtained under the Right to Information Act, 2005",
+                "hi": "सूचना का अधिकार अधिनियम, 2005 के तहत प्राप्त विवरण के अनुसार 2025 में"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "In 2022 via parliamentary disclosure documents",
+                "hi": "2022 में संसदीय प्रकटीकरण दस्तावेजों के माध्यम से"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "In 2020 through a suo motu judicial inquiry",
+                "hi": "2020 में स्वप्रेरणा से न्यायिक जांच के माध्यम से"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "In 2024 through an internal audit report of the Supreme Court",
+                "hi": "2024 में सुप्रीम कोर्ट की आंतरिक ऑडिट रिपोर्ट के जरिए"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The association stated that the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005.\nSource: https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
+            "hi": "एसोसिएशन ने कहा कि सूचना का अधिकार अधिनियम, 2005 के तहत एक वकील द्वारा प्राप्त विवरण के अनुसार 1965 का निर्णय 2025 में उसके संज्ञान में आया।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-44"
+        },
+        {
+          "prompt": {
+            "en": "Which specific communities is Akhilesh Yadav attempting to reach out to by adopting the Gorakhpur versus Kashi narrative in Uttar Pradesh?",
+            "hi": "उत्तर प्रदेश में गोरखपुर बनाम काशी की कहानी अपनाकर अखिलेश यादव किस खास समुदाय तक पहुंचने की कोशिश कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Dalits and Yadavs",
+                "hi": "दलित और यादव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Muslims and Jats",
+                "hi": "मुसलमान और जाट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Thakurs and Kurmis",
+                "hi": "ठाकुर और कुर्मी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Brahmins and the Bania community",
+                "hi": "ब्राह्मण और बनिया समुदाय"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Akhilesh Yadav is attempting to make inroads among Brahmins and the Bania community by accusing the regime of being anti-Brahmins and Banias.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pitches-gorakhpur-vs-kashi-narrative-eyes-inroads-among-brahmins-business-community/article71650006.ece",
+            "hi": "अखिलेश यादव शासन पर ब्राह्मण और बनिया विरोधी होने का आरोप लगाकर ब्राह्मणों और बनिया समुदाय के बीच पैठ बनाने की कोशिश कर रहे हैं।\nस्रोत: https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pitches-gorakhpur-vs-kashi-narrative-eyes-inroads-among-brahmins-business-community/article71650006.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pitches-gorakhpur-vs-kashi-narrative-eyes-inroads-among-brahmins-business-community/article71650006.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-45"
+        },
+        {
+          "prompt": {
+            "en": "According to Jammu and Kashmir L-G Manoj Sinha, what positive transitions have occurred in the Union Territory following the abrogation of Article 370?",
+            "hi": "जम्मू-कश्मीर के एलजी मनोज सिन्हा के अनुसार, अनुच्छेद 370 के निरस्त होने के बाद केंद्र शासित प्रदेश में क्या सकारात्मक बदलाव हुए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Terror, separatism and stone-pelting have given way to democracy, development and public participation",
+                "hi": "आतंक, अलगाववाद और पत्थरबाजी ने लोकतंत्र, विकास और जनभागीदारी का मार्ग प्रशस्त कर दिया है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Industrial manufacturing output has doubled across all districts",
+                "hi": "सभी जिलों में औद्योगिक विनिर्माण उत्पादन दोगुना हो गया है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Agricultural subsidies have been completely replaced by direct cash transfers",
+                "hi": "कृषि सब्सिडी को पूरी तरह से प्रत्यक्ष नकद हस्तांतरण द्वारा प्रतिस्थापित कर दिया गया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Tourism footfall has decreased due to stricter security protocols",
+                "hi": "कड़े सुरक्षा प्रोटोकॉल के कारण पर्यटन पर्यटकों की संख्या में कमी आई है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "L-G Manoj Sinha noted that terror, separatism and stone-pelting have given way to democracy, development and public participation after Article 370 was removed.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece",
+            "hi": "उपराज्यपाल मनोज सिन्हा ने कहा कि अनुच्छेद 370 हटाए जाने के बाद आतंकवाद, अलगाववाद और पत्थरबाजी ने लोकतंत्र, विकास और सार्वजनिक भागीदारी का मार्ग प्रशस्त कर दिया है।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-46"
+        },
+        {
+          "prompt": {
+            "en": "Why did Radico Khaitan decide to expand its distribution and source malt whisky supplies from Scotland?",
+            "hi": "रेडिको खेतान ने स्कॉटलैंड से अपने वितरण और स्रोत माल्ट व्हिस्की की आपूर्ति का विस्तार करने का निर्णय क्यों लिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic manufacturing plants were permanently shut down due to regulatory non-compliance",
+                "hi": "नियामक अनुपालन न होने के कारण घरेलू विनिर्माण संयंत्र स्थायी रूप से बंद हो गए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Recent disruptions in the West Asia and Gulf corridor highlighted the risks of market concentration",
+                "hi": "पश्चिम एशिया और खाड़ी गलियारे में हाल के व्यवधानों ने बाजार एकाग्रता के जोखिमों को उजागर किया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Scottish government offered zero-tariff export subsidies for Indian liquor brands",
+                "hi": "स्कॉटिश सरकार ने भारतीय शराब ब्रांडों के लिए शून्य-टैरिफ निर्यात सब्सिडी की पेशकश की"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Surplus grain production in the UK made raw materials significantly cheaper than in India",
+                "hi": "ब्रिटेन में अतिरिक्त अनाज उत्पादन से कच्चा माल भारत की तुलना में काफी सस्ता हो गया"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Recent disruptions in the West Asia and Gulf corridor highlighted the risks of concentration in individual markets, prompting the company to strengthen distribution across other regions.\nSource: https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+            "hi": "पश्चिम एशिया और खाड़ी गलियारे में हाल के व्यवधानों ने व्यक्तिगत बाजारों में एकाग्रता के जोखिमों को उजागर किया, जिससे कंपनी को अन्य क्षेत्रों में वितरण को मजबूत करने के लिए प्रेरित किया गया।\nस्रोत: https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-47"
+        },
+        {
+          "prompt": {
+            "en": "What export targets and geographical expansion plans has EKA Mobility set for the coming years?",
+            "hi": "ईकेए मोबिलिटी ने आने वाले वर्षों के लिए कौन से निर्यात लक्ष्य और भौगोलिक विस्तार योजनाएं निर्धारित की हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To raise exports to 50% of total sales by targeting European Union markets",
+                "hi": "यूरोपीय संघ के बाजारों को लक्षित करके निर्यात को कुल बिक्री का 50% तक बढ़ाना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To eliminate exports entirely and focus exclusively on domestic public transport",
+                "hi": "निर्यात को पूरी तरह ख़त्म करना और विशेष रूप से घरेलू सार्वजनिक परिवहन पर ध्यान केंद्रित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To limit exports strictly to neighboring South Asian countries",
+                "hi": "पड़ोसी दक्षिण एशियाई देशों में निर्यात को सख्ती से सीमित करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To raise exports to 20-30% of total sales while exploring further opportunities in African markets",
+                "hi": "अफ़्रीकी बाज़ारों में और अवसर तलाशते हुए निर्यात को कुल बिक्री का 20-30% तक बढ़ाना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "EKA aims to raise exports to 20-30% of total sales over the next few years while exploring further opportunities in the African markets.\nSource: https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+            "hi": "ईकेए का लक्ष्य अफ्रीकी बाजारों में और अवसर तलाशते हुए अगले कुछ वर्षों में निर्यात को कुल बिक्री का 20-30% तक बढ़ाना है।\nस्रोत: https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-48"
+        },
+        {
+          "prompt": {
+            "en": "The successful launch of the NVS-03 navigation satellite by ISRO restored the NavIC constellation to which specific operational status?",
+            "hi": "इसरो द्वारा NVS-03 नेविगेशन उपग्रह के सफल प्रक्षेपण ने NavIC समूह को किस विशिष्ट परिचालन स्थिति में बहाल कर दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A two-satellite backup status linked with foreign GPS systems",
+                "hi": "विदेशी जीपीएस सिस्टम से जुड़ी दो-सैटेलाइट बैकअप स्थिति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A four-satellite, standalone operational status",
+                "hi": "एक चार-उपग्रह, स्टैंडअलोन परिचालन स्थिति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An experimental research-only orbital testing tier",
+                "hi": "एक प्रायोगिक अनुसंधान-केवल कक्षीय परीक्षण स्तर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A fully commercialized global navigation network",
+                "hi": "एक पूर्णतः व्यावसायीकृत वैश्विक नेविगेशन नेटवर्क"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "ISRO's successful launch of the NVS-03 satellite restored NavIC to a four-satellite, standalone operational status, advancing India's indigenous network.\nSource: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+            "hi": "इसरो के एनवीएस-03 उपग्रह के सफल प्रक्षेपण ने भारत के स्वदेशी नेटवर्क को आगे बढ़ाते हुए NavIC को चार-उपग्रह, स्टैंडअलोन परिचालन स्थिति में बहाल कर दिया।\nस्रोत: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-49"
+        },
+        {
+          "prompt": {
+            "en": "During a rare evacuation from the Russian-occupied front-line city of Oleshky, what extreme dangers did residents have to navigate in search of food?",
+            "hi": "रूस के कब्जे वाले फ्रंट-लाइन शहर ओलेस्की से एक दुर्लभ निकासी के दौरान, निवासियों को भोजन की तलाश में किन चरम खतरों से गुजरना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They crossed minefields in Oleshky",
+                "hi": "उन्होंने ओलेस्की में खदानों को पार किया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They swam across freezing maritime straits",
+                "hi": "वे बर्फ़ीली समुद्री जलधाराओं को तैरकर पार कर गए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They navigated active artillery fire in underground subway tunnels",
+                "hi": "उन्होंने भूमिगत मेट्रो सुरंगों में सक्रिय तोपखाने की आग को नेविगेट किया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They hiked across high mountain passes without winter gear",
+                "hi": "वे शीतकालीन गियर के बिना ऊंचे पहाड़ी दर्रों पर पदयात्रा करते रहे"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "An evacuated couple from Oleshky stated that they had to cross minefields in search of food during their escape from the front-line city.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+            "hi": "ओलेस्की से निकाले गए एक जोड़े ने कहा कि उन्हें फ्रंट-लाइन शहर से भागने के दौरान भोजन की तलाश में खदानों को पार करना पड़ा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-50"
+        },
+        {
+          "prompt": {
+            "en": "During their entrapment in the Russian-occupied city of Oleshky without food, water, and electricity, what did many residents resort to in order to survive?",
+            "hi": "रूस के कब्जे वाले शहर ओलेस्की में भोजन, पानी और बिजली के बिना फंसे रहने के दौरान, कई निवासियों ने जीवित रहने के लिए क्या सहारा लिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cooking garden weeds to survive",
+                "hi": "जीवित रहने के लिए बगीचे की खरपतवार पकाना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Consuming stored animal feed supplies",
+                "hi": "संग्रहीत पशु आहार आपूर्ति का उपभोग करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rationing imported medical nutrition packs",
+                "hi": "आयातित चिकित्सा पोषण पैक की राशनिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Melting snow for emergency hydration",
+                "hi": "आपातकालीन जलयोजन के लिए बर्फ पिघलाना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Residents trapped in Oleshky without food, water, and electricity had many resorting to cooking garden weeds to survive.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+            "hi": "भोजन, पानी और बिजली के बिना ओलेस्की में फंसे निवासियों को जीवित रहने के लिए बगीचे के खरपतवारों को पकाने का सहारा लेना पड़ा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-51"
         }
       ],
       "quarantined": [],
@@ -1095,7 +1605,7 @@
         {
           "prompt": {
             "en": "Why did Radico Khaitan set its sights on Scotland to secure malt whisky supplies and diversify its sourcing geography?",
-            "hi": "रैडिको खेतान ने माल्ट व्हिस्की की आपूर्ति सुनिश्चित करने और इसकी सोर्सिंग भूगोल में विविधता लाने के लिए स्कॉटलैंड पर अपना ध्यान क्यों केंद्रित किया?"
+            "hi": "रेडिको खेतान ने माल्ट व्हिस्की की आपूर्ति सुनिश्चित करने और इसकी सोर्सिंग भूगोल में विविधता लाने के लिए स्कॉटलैंड पर अपना ध्यान क्यों केंद्रित किया?"
           },
           "options": [
             {
@@ -1119,7 +1629,7 @@
               "label": "C",
               "text": {
                 "en": "Strict domestic tariff barriers made local procurement economically unviable for premium brands",
-                "hi": "सख्त घरेलू टैरिफ बाधाओं ने प्रीमियम ब्रांडों के लिए स्थानीय खरीद को आर्थिक रूप से अव्यवहार्य बना दिया"
+                "hi": "सख्त घरेलू टैरिफ बाधाओं ने प्रीमियम ब्रांडों के लिए स्थानीय खरीद को आर्थिक रूप से अलाभकारी बना दिया"
               }
             },
             {
@@ -1162,7 +1672,7 @@
               "label": "B",
               "text": {
                 "en": "To raise exports to 50-60% of total sales while focusing exclusively on European Union markets",
-                "hi": "विशेष रूप से यूरोपीय संघ के बाजारों पर ध्यान केंद्रित करते हुए निर्यात को कुल बिक्री का 50-60% तक बढ़ाना"
+                "hi": "यूरोपीय संघ के बाजारों पर विशेष रूप से ध्यान केंद्रित करते हुए निर्यात को कुल बिक्री का 50-60% तक बढ़ाना"
               }
             },
             {
@@ -1248,7 +1758,7 @@
         {
           "prompt": {
             "en": "Amid sharp falls in US tech stocks driven by surging artificial intelligence spending, how did the tech-heavy Nasdaq open?",
-            "hi": "कृत्रिम बुद्धिमत्ता खर्च में वृद्धि के कारण अमेरिकी तकनीकी शेयरों में भारी गिरावट के बीच, तकनीकी-भारी नैस्डैक कैसे खुला?"
+            "hi": "कृत्रिम बुद्धिमत्ता खर्च में बढ़ोतरी के कारण अमेरिकी तकनीकी शेयरों में भारी गिरावट के बीच, तकनीक-भारी नैस्डैक कैसे खुला?"
           },
           "options": [
             {
@@ -1703,6 +2213,210 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-38"
+        },
+        {
+          "prompt": {
+            "en": "What long-term export target and regional market expansion has EKA Mobility planned for the coming years?",
+            "hi": "ईकेए मोबिलिटी ने आने वाले वर्षों के लिए किस दीर्घकालिक निर्यात लक्ष्य और क्षेत्रीय बाजार विस्तार की योजना बनाई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To achieve 10% export share by entering Latin American markets",
+                "hi": "लैटिन अमेरिकी बाजारों में प्रवेश करके 10% निर्यात हिस्सेदारी हासिल करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To completely shift manufacturing operations to Southeast Asian trade zones",
+                "hi": "विनिर्माण कार्यों को पूरी तरह से दक्षिण पूर्व एशियाई व्यापार क्षेत्रों में स्थानांतरित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To raise exports to 20-30% of total sales while exploring further opportunities in African markets",
+                "hi": "अफ़्रीकी बाज़ारों में और अवसर तलाशते हुए निर्यात को कुल बिक्री का 20-30% तक बढ़ाना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To secure 40% export share exclusively through European Union partnerships",
+                "hi": "विशेष रूप से यूरोपीय संघ की भागीदारी के माध्यम से 40% निर्यात हिस्सेदारी सुरक्षित करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "EKA Mobility plans to raise its exports to 20-30% of total sales over the next few years while exploring further opportunities in African markets.\nSource: https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+            "hi": "ईकेए मोबिलिटी ने अफ्रीकी बाजारों में और अवसर तलाशते हुए अगले कुछ वर्षों में अपने निर्यात को कुल बिक्री का 20-30% तक बढ़ाने की योजना बनाई है।\nस्रोत: https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-52"
+        },
+        {
+          "prompt": {
+            "en": "Why did more than 320,000 people demonstrate in mass protests across France, leading to clashes with police?",
+            "hi": "पूरे फ़्रांस में 320,000 से अधिक लोगों ने बड़े पैमाने पर विरोध प्रदर्शन क्यों किया, जिसके कारण पुलिस के साथ झड़पें हुईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Against the rising cost of living and poor public services",
+                "hi": "जीवन यापन की बढ़ती लागत और खराब सार्वजनिक सेवाओं के खिलाफ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To protest new corporate tax breaks for multinational banks",
+                "hi": "बहुराष्ट्रीय बैंकों के लिए नई कॉर्पोरेट टैक्स छूट का विरोध करने के लिए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Against impending changes to national defense budget allocations",
+                "hi": "राष्ट्रीय रक्षा बजट आवंटन में आसन्न परिवर्तनों के विरुद्ध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To demand stricter regulatory oversight on foreign real estate investments",
+                "hi": "विदेशी रियल एस्टेट निवेश पर कड़ी नियामक निगरानी की मांग करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "More than 320,000 people demonstrated across France specifically against the rising cost of living and poor public services.\nSource: BBC News · https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+            "hi": "पूरे फ्रांस में 320,000 से अधिक लोगों ने विशेष रूप से जीवन यापन की बढ़ती लागत और खराब सार्वजनिक सेवाओं के खिलाफ प्रदर्शन किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-53"
+        },
+        {
+          "prompt": {
+            "en": "Following the massive $6.3 billion cyber-attack on crypto firm Binance, which nation-state did the Federal Bureau of Investigation (FBI) identify as responsible?",
+            "hi": "क्रिप्टो फर्म बिनेंस पर 6.3 बिलियन डॉलर के बड़े साइबर हमले के बाद, संघीय जांच ब्यूरो (एफबीआई) ने किस राष्ट्र-राज्य को जिम्मेदार माना है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Russia",
+                "hi": "रूस"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "China",
+                "hi": "चीन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Iran",
+                "hi": "ईरान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "North Korea",
+                "hi": "उत्तर कोरिया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Federal Bureau of Investigation (FBI) explicitly stated that North Korea was responsible for the massive crypto hack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+            "hi": "संघीय जांच ब्यूरो (एफबीआई) ने स्पष्ट रूप से कहा कि बड़े पैमाने पर क्रिप्टो हैक के लिए उत्तर कोरिया जिम्मेदार था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-54"
+        },
+        {
+          "prompt": {
+            "en": "Why did the Ethiopian Prime Minister order government ministers to undergo military training?",
+            "hi": "इथियोपियाई प्रधान मंत्री ने सरकारी मंत्रियों को सैन्य प्रशिक्षण लेने का आदेश क्यों दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because military preparedness has been previously emphasised as central to his government's ambitions",
+                "hi": "क्योंकि उनकी सरकार की महत्वाकांक्षाओं के केंद्र में पहले से ही सैन्य तैयारियों पर जोर दिया गया है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To prepare the cabinet for immediate deployment in UN peacekeeping missions",
+                "hi": "संयुक्त राष्ट्र शांति मिशनों में तत्काल तैनाती के लिए कैबिनेट तैयार करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To fulfill mandatory constitutional requirements for civil servants",
+                "hi": "सिविल सेवकों के लिए अनिवार्य संवैधानिक आवश्यकताओं को पूरा करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As a disciplinary measure following legislative budget failures",
+                "hi": "विधायी बजट विफलताओं के बाद एक अनुशासनात्मक उपाय के रूप में"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Prime Minister ordered ministers through military training because he has previously emphasised military preparedness as central to his government's ambitions.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+            "hi": "प्रधान मंत्री ने मंत्रियों को सैन्य प्रशिक्षण के माध्यम से आदेश दिया क्योंकि उन्होंने पहले ही अपनी सरकार की महत्वाकांक्षाओं के केंद्र में सैन्य तैयारियों पर जोर दिया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-55"
         }
       ],
       "quarantined": [],
@@ -1711,6 +2425,579 @@
       ],
       "release_wave": 2,
       "release_at": "2026-11-01T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-01.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Based on the mechanical principles of everyday objects like umbrellas and springs, what occurs when you close an umbrella?",
+            "hi": "छतरियों और स्प्रिंग्स जैसी रोजमर्रा की वस्तुओं के यांत्रिक सिद्धांतों के आधार पर, जब आप छाते को बंद करते हैं तो क्या होता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "You release all stored potential energy into the surrounding atmospheric air",
+                "hi": "आप सभी संग्रहीत संभावित ऊर्जा को आसपास की वायुमंडलीय हवा में छोड़ देते हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "You trigger an electromagnetic induction cycle that locks the canopy in place",
+                "hi": "आप एक विद्युत चुम्बकीय प्रेरण चक्र को ट्रिगर करते हैं जो कैनोपी को उसकी जगह पर लॉक कर देता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "You compress the spring and store energy in it",
+                "hi": "आप स्प्रिंग को संपीड़ित करते हैं और उसमें ऊर्जा संग्रहीत करते हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "You dissipate kinetic friction through thermal expansion of the metal rod",
+                "hi": "आप धातु की छड़ के थर्मल विस्तार के माध्यम से गतिज घर्षण को खत्म करते हैं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text clearly explains that when you close an umbrella, you compress the spring and store energy in it.\nSource: https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+            "hi": "पाठ स्पष्ट रूप से बताता है कि जब आप एक छाता बंद करते हैं, तो आप स्प्रिंग को संपीड़ित करते हैं और उसमें ऊर्जा जमा करते हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-24"
+        },
+        {
+          "prompt": {
+            "en": "By what year could the designs for India's first privately built tokamak, a nuclear reactor using fusion to produce energy by startup Pranos Fusion, be firmed up?",
+            "hi": "स्टार्टअप प्रानोस फ्यूजन द्वारा ऊर्जा उत्पादन के लिए फ्यूजन का उपयोग करने वाले परमाणु रिएक्टर, भारत के पहले निजी तौर पर निर्मित टोकामक के डिजाइन को किस वर्ष तक मजबूत किया जा सकता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2026",
+                "hi": "2026"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2030",
+                "hi": "2030"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2028",
+                "hi": "2028"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2027",
+                "hi": "2027"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that designs for the first privately built tokamak could be firmed up in 2027 by Bengaluru-based startup Pranos Fusion.\nSource: https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+            "hi": "अंश में कहा गया है कि पहले निजी तौर पर निर्मित टोकामक के डिजाइन को 2027 में बेंगलुरु स्थित स्टार्टअप प्रानोस फ्यूजन द्वारा तैयार किया जा सकता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-25"
+        },
+        {
+          "prompt": {
+            "en": "According to NASA's Brad Cenko, what specific materials and components from the failing 1 ½-ton telescope are expected to survive atmospheric reentry?",
+            "hi": "नासा के ब्रैड सेंको के अनुसार, 1 1/2 टन के असफल टेलीस्कोप से कौन सी विशिष्ट सामग्री और घटकों के वायुमंडलीय पुनः प्रवेश से बचे रहने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Titanium alloy support struts and carbon-fiber optical housings",
+                "hi": "टाइटेनियम मिश्र धातु समर्थन स्ट्रट्स और कार्बन-फाइबर ऑप्टिकल हाउसिंग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A handful of pieces made of denser-than-lead tungsten and some mirror parts",
+                "hi": "सीसे से भी सघन टंगस्टन से बने मुट्ठी भर टुकड़े और कुछ दर्पण वाले हिस्से"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Silicon solar panels and beryllium communication antennas",
+                "hi": "सिलिकॉन सौर पैनल और बेरिलियम संचार एंटेना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Gold-plated reaction wheels and platinum circuit boards",
+                "hi": "सोना चढ़ाया हुआ प्रतिक्रिया पहिये और प्लैटिनम सर्किट बोर्ड"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source specifies that pieces made of denser-than-lead tungsten and some mirror parts could survive reentry.\nSource: https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+            "hi": "स्रोत निर्दिष्ट करता है कि सीसे से अधिक सघन टंगस्टन से बने टुकड़े और कुछ दर्पण भाग पुनः प्रवेश से बच सकते हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-26"
+        },
+        {
+          "prompt": {
+            "en": "During recent global nature talks, what primary objective were countries attempting to get back on track through an international agreement?",
+            "hi": "हाल की वैश्विक प्रकृति वार्ता के दौरान, अंतरराष्ट्रीय समझौते के माध्यम से देश किस प्राथमिक उद्देश्य को पटरी पर लाने का प्रयास कर रहे थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To halt nature decline back on track.",
+                "hi": "प्रकृति की गिरावट को रोककर वापस पटरी पर लाना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To establish mandatory carbon taxation benchmarks across industrial economies",
+                "hi": "औद्योगिक अर्थव्यवस्थाओं में अनिवार्य कार्बन कराधान मानक स्थापित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To phase out global subsidies for fossil fuel extraction entirely by 2030",
+                "hi": "2030 तक जीवाश्म ईंधन निष्कर्षण के लिए वैश्विक सब्सिडी को पूरी तरह से समाप्त करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To finance cross-border reforestation projects in tropical river basins",
+                "hi": "उष्णकटिबंधीय नदी घाटियों में सीमा पार पुनर्वनीकरण परियोजनाओं को वित्तपोषित करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt notes that countries have been trying to get a global agreement to halt nature decline back on track.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि देश प्रकृति में गिरावट को वापस पटरी पर लाने के लिए एक वैश्विक समझौता करने की कोशिश कर रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-27"
+        },
+        {
+          "prompt": {
+            "en": "Following the 'wettest week in two years', what weather pattern is developing across the UK at the start of November according to meteorologists?",
+            "hi": "मौसम विज्ञानियों के अनुसार 'दो वर्षों में सबसे अधिक बारिश वाले सप्ताह' के बाद, नवंबर की शुरुआत में पूरे ब्रिटेन में मौसम का कौन सा पैटर्न विकसित हो रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Severe low-pressure cyclonic storms bringing persistent gale-force winds",
+                "hi": "गंभीर कम दबाव वाले चक्रवाती तूफान लगातार तूफानी हवाएँ ला रहे हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Widespread freezing fog and blizzard conditions across northern lowlands",
+                "hi": "उत्तरी तराई क्षेत्रों में व्यापक रूप से जमा देने वाला कोहरा और बर्फ़ीला तूफ़ान की स्थिति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Unseasonal subtropical warmth accompanied by heavy convective thunderstorms",
+                "hi": "भारी संवहनी तूफान के साथ बेमौसम उपोष्णकटिबंधीय गर्मी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "High pressure developing across the UK, making the start of November very settled with no significant rain in the forecast.",
+                "hi": "पूरे ब्रिटेन में उच्च दबाव विकसित हो रहा है, जिससे नवंबर की शुरुआत बहुत अच्छी हो गई है और कोई खास बारिश होने का अनुमान नहीं है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that with high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि पूरे ब्रिटेन में उच्च दबाव विकसित होने के साथ, नवंबर की शुरुआत बहुत व्यवस्थित दिख रही है और पूर्वानुमान में कोई महत्वपूर्ण बारिश नहीं है।\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-28"
+        },
+        {
+          "prompt": {
+            "en": "In the largest woodland bat survey described as a success for 'AI for good', where were some of Britain's rarest and most threatened bats recorded?",
+            "hi": "'एआई फॉर गुड' की सफलता के रूप में वर्णित सबसे बड़े वुडलैंड बैट सर्वेक्षण में, ब्रिटेन के कुछ दुर्लभ और सबसे खतरनाक चमगादड़ों को कहाँ दर्ज किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "In the south-west of England.",
+                "hi": "इंग्लैंड के दक्षिण-पश्चिम में."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "In the industrial heartlands of the English Midlands",
+                "hi": "इंग्लिश मिडलैंड्स के औद्योगिक गढ़ों में"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Across the highland glens of the Scottish borders",
+                "hi": "स्कॉटिश सीमाओं के ऊंचे पहाड़ी किनारों के पार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Throughout the urban parklands of Greater London",
+                "hi": "ग्रेटर लंदन के पूरे शहरी पार्कलैंड में"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text explicitly notes that some of Britain's rarest and most threatened bats have been recorded in the south-west of England.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में स्पष्ट रूप से लिखा गया है कि ब्रिटेन के कुछ दुर्लभ और सबसे खतरनाक चमगादड़ों को इंग्लैंड के दक्षिण-पश्चिम में दर्ज किया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-29"
+        },
+        {
+          "prompt": {
+            "en": "According to government data from the Democratic Republic of Congo concerning its deadliest Ebola outbreak, how many people have contracted the rare virus?",
+            "hi": "सबसे घातक इबोला प्रकोप के संबंध में कांगो लोकतांत्रिक गणराज्य के सरकारी आंकड़ों के अनुसार, कितने लोग इस दुर्लभ वायरस से संक्रमित हुए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "More than 5,000 people",
+                "hi": "5,000 से अधिक लोग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than 25,000 people",
+                "hi": "25,000 से अधिक लोग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than 10,000 people",
+                "hi": "10,000 से अधिक लोग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More than 50,000 people",
+                "hi": "50,000 से अधिक लोग"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that government data shows more than 10,000 people have contracted the rare virus.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि सरकारी आंकड़ों से पता चलता है कि 10,000 से अधिक लोग इस दुर्लभ वायरस की चपेट में आ चुके हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-30"
+        },
+        {
+          "prompt": {
+            "en": "In Edinburgh, environmental campaigners organized a Halloween-themed protest targeting which prominent location?",
+            "hi": "एडिनबर्ग में, पर्यावरण प्रचारकों ने किस प्रमुख स्थान को लक्षित करते हुए हेलोवीन-थीम वाले विरोध प्रदर्शन का आयोजन किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Scottish Parliament debating chamber",
+                "hi": "स्कॉटिश संसद वाद-विवाद कक्ष"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The headquarters of the state-owned energy regulatory agency",
+                "hi": "राज्य के स्वामित्व वाली ऊर्जा नियामक एजेंसी का मुख्यालय"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The first minister's residence in Edinburgh.",
+                "hi": "एडिनबर्ग में प्रथम मंत्री का निवास।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The historic Edinburgh Castle esplanade",
+                "hi": "ऐतिहासिक एडिनबर्ग कैसल एस्प्लेनेड"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text reports that a Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में बताया गया है कि जीवाश्म ईंधन के खिलाफ हैलोवीन-थीम वाले विरोध प्रदर्शन ने एडिनबर्ग में प्रथम मंत्री के आवास को निशाना बनाया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-31"
+        },
+        {
+          "prompt": {
+            "en": "ISRO successfully launched the NVS-03 navigation satellite on October 30, 2026. From which location did this launch take place?",
+            "hi": "इसरो ने 30 अक्टूबर, 2026 को NVS-03 नेविगेशन उपग्रह को सफलतापूर्वक लॉन्च किया। यह प्रक्षेपण किस स्थान से हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Thumba Equatorial Rocket Launching Station",
+                "hi": "थुम्बा इक्वेटोरियल रॉकेट लॉन्चिंग स्टेशन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Dr. B.R. Ambedkar Launch Complex",
+                "hi": "डॉ. बी.आर. अम्बेडकर लॉन्च कॉम्प्लेक्स"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kulasekarapattinam Spaceport",
+                "hi": "कुलसेकरपट्टिनम स्पेसपोर्ट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Satish Dhawan Space Centre in Sriharikota",
+                "hi": "श्रीहरिकोटा में सतीश धवन अंतरिक्ष केंद्र"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "ISRO successfully launched the NVS-03 navigation satellite from the Satish Dhawan Space Centre in Sriharikota on October 30, 2026.\nSource: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+            "hi": "इसरो ने 30 अक्टूबर, 2026 को श्रीहरिकोटा के सतीश धवन अंतरिक्ष केंद्र से NVS-03 नेविगेशन उपग्रह को सफलतापूर्वक लॉन्च किया।\nस्रोत: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-56"
+        },
+        {
+          "prompt": {
+            "en": "Which rare creature was found in Wales again after 60 years, easing fears that it had become extinct?",
+            "hi": "वेल्स में 60 वर्षों के बाद कौन सा दुर्लभ जीव फिर से पाया गया, जिससे यह आशंका कम हो गई कि यह विलुप्त हो गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Scottish Wildcat",
+                "hi": "स्कॉटिश वाइल्डकैट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Greater Horseshoe Bat",
+                "hi": "ग्रेटर हॉर्सशू बैट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Short-Necked Oil Beetle",
+                "hi": "छोटी गर्दन वाला तेल भृंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Pine Marten",
+                "hi": "पाइन मार्टन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Recent surveys confirmed the finding of the rare Short-Necked Oil Beetle in Wales after it was feared extinct.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+            "hi": "हाल के सर्वेक्षणों ने वेल्स में दुर्लभ शॉर्ट-नेक्ड ऑयल बीटल के विलुप्त होने की आशंका के बाद इसकी खोज की पुष्टि की है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-57"
+        },
+        {
+          "prompt": {
+            "en": "What severe weather warning was issued by the Met Office, bringing tricky conditions for the Friday morning commute?",
+            "hi": "मौसम कार्यालय द्वारा कौन सी गंभीर मौसम चेतावनी जारी की गई, जिससे शुक्रवार की सुबह आवागमन के लिए कठिन परिस्थितियाँ आ गईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A fog warning issued by the Met Office",
+                "hi": "मौसम कार्यालय द्वारा कोहरे की चेतावनी जारी की गई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A severe blizzard and freezing rain warning",
+                "hi": "भीषण बर्फ़ीला तूफ़ान और बर्फ़ीली बारिश की चेतावनी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A severe coastal flooding alert",
+                "hi": "गंभीर तटीय बाढ़ की चेतावनी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A high-velocity wind storm warning",
+                "hi": "तेज़ गति वाले तूफ़ान की चेतावनी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Met Office issued a fog warning bringing hazardous driving and tricky conditions for the Friday morning commute.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+            "hi": "मौसम कार्यालय ने कोहरे की चेतावनी जारी की, जिससे शुक्रवार की सुबह यात्रा के लिए खतरनाक ड्राइविंग और मुश्किल स्थिति सामने आ गई।\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-58"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-01T18:00:00+05:30"
     }
   ],
   "sources": [
@@ -1765,6 +3052,21 @@
       "published": "2026-10-31T20:58:14+05:30"
     },
     {
+      "title": "On umbrellas, springs, and superconductivity",
+      "url": "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+      "published": "2026-10-31T19:21:11+05:30"
+    },
+    {
+      "title": "India’s first fusion power company takes key steps",
+      "url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+      "published": "2026-10-31T19:19:34+05:30"
+    },
+    {
+      "title": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
+      "url": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+      "published": "2026-10-31T18:27:13+05:30"
+    },
+    {
       "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
       "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
       "published": "2026-10-31T15:59:18+05:30"
@@ -1800,6 +3102,31 @@
       "published": "2026-10-30T06:08:22+00:00"
     },
     {
+      "title": "Bute House protested by environmental campaigners",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T13:41:07+00:00"
+    },
+    {
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:27:05+00:00"
+    },
+    {
+      "title": "UK could see 10 days without rain after 'wettest week in two years'",
+      "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T00:06:31+00:00"
+    },
+    {
+      "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
+      "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:18:35+00:00"
+    },
+    {
+      "title": "Largest woodland bat survey a 'nice story of AI for good'",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:10:43+00:00"
+    },
+    {
       "title": "From Levi's to Primark - the fashion chains selling mended clothes",
       "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T00:00:35+00:00"
@@ -1813,6 +3140,11 @@
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T16:32:08+00:00"
+    },
+    {
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T15:16:20+00:00"
     },
     {
       "title": "Police deployed during stand-off over control of top Poland court",
@@ -1868,6 +3200,46 @@
       "title": "At CEC’s ‘public impeachment’, voters question deletion of names from rolls",
       "url": "https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
       "published": "2026-11-01T00:51:07+05:30"
+    },
+    {
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T19:22:26+00:00"
+    },
+    {
+      "title": "Clashes erupt between police and protesters in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T19:37:43+00:00"
+    },
+    {
+      "title": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
+      "url": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
+      "published": "2026-11-01T03:09:30+05:30"
+    },
+    {
+      "title": "In his first visit, BJP’s Bihar in-charge Harish Dwivedi stresses on strengthening the party",
+      "url": "https://www.thehindu.com/news/national/bihar/in-his-first-visit-bjps-bihar-in-charge-harish-dwivedi-stresses-on-strengthening-the-party/article71649638.ece",
+      "published": "2026-11-01T02:28:03+05:30"
+    },
+    {
+      "title": "Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
+      "published": "2026-11-01T02:27:53+05:30"
+    },
+    {
+      "title": "Akhilesh pitches Gorakhpur vs Kashi narrative, eyes inroads among Brahmins, business community",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pitches-gorakhpur-vs-kashi-narrative-eyes-inroads-among-brahmins-business-community/article71650006.ece",
+      "published": "2026-11-01T01:57:22+05:30"
+    },
+    {
+      "title": "We did not buy peace; we established peace in J&K: L-G Manoj Sinha on UT Foundation Day",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece",
+      "published": "2026-11-01T01:21:12+05:30"
+    },
+    {
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T22:07:56+00:00"
     }
   ]
 }
