@@ -1,0 +1,1323 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-01",
+  "generated_at": "2026-10-31T17:22:42.863222+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-01.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to investigations into the cross-border drug network busted by the Enforcement Directorate (ED), who was identified as the Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025?",
+            "hi": "प्रवर्तन निदेशालय (ईडी) द्वारा सीमा पार ड्रग नेटवर्क का भंडाफोड़ करने की जांच के अनुसार, अगस्त 2025 में जब्त की गई 49.1 किलोग्राम मेथमफेटामाइन खेप के म्यांमार स्थित आपूर्तिकर्ता के रूप में किसकी पहचान की गई थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lalrammuana",
+                "hi": "लालरमुआना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chintuang",
+                "hi": "चिन्तुआंग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jabrul Haque",
+                "hi": "जबरूल हक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Abu Saleh",
+                "hi": "अबू सालेह"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explicitly states that Chintuang was a Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025.\nSource: https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि चिंटुआंग अगस्त 2025 में जब्त की गई 49.1 किलोग्राम मेथामफेटामाइन खेप का म्यांमार स्थित आपूर्तिकर्ता था।\nस्रोत: https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-1"
+        },
+        {
+          "prompt": {
+            "en": "What specific administrative changes and actions regarding elections did Congress president Mallikarjun Kharge attribute to Gyanesh Kumar in his list of charges?",
+            "hi": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने अपने आरोपों की सूची में ज्ञानेश कुमार को चुनाव के संबंध में कौन से विशिष्ट प्रशासनिक परिवर्तन और कार्यों का श्रेय दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Redrawing parliamentary constituency boundaries in southern states without consultation",
+                "hi": "बिना परामर्श के दक्षिणी राज्यों में संसदीय निर्वाचन क्षेत्रों की सीमाओं को फिर से बनाना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Altering electronic voting machine software without judicial approval",
+                "hi": "न्यायिक अनुमोदन के बिना इलेक्ट्रॉनिक वोटिंग मशीन सॉफ़्टवेयर में परिवर्तन करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Facilitating vote theft, deleting 13.2 crore voter names and changing Form 6 without parliamentary oversight",
+                "hi": "वोट चोरी की सुविधा देना, 13.2 करोड़ मतदाताओं के नाम हटाना और संसदीय निरीक्षण के बिना फॉर्म 6 को बदलना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Extending the tenure of election commissioners through executive ordinances",
+                "hi": "कार्यकारी अध्यादेशों के माध्यम से चुनाव आयुक्तों का कार्यकाल बढ़ाना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text details that Mallikarjun Kharge listed charges against Gyanesh Kumar including facilitating vote theft, deleting 13.2 crore voter names and changing Form 6 without parliamentary oversight.\nSource: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+            "hi": "पाठ में विवरण दिया गया है कि मल्लिकार्जुन खड़गे ने ज्ञानेश कुमार के खिलाफ वोट चोरी को बढ़ावा देने, 13.2 करोड़ मतदाताओं के नाम हटाने और संसदीय निरीक्षण के बिना फॉर्म 6 को बदलने सहित आरोप सूचीबद्ध किए हैं।\nस्रोत: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-2"
+        },
+        {
+          "prompt": {
+            "en": "The Centre recently released an additional instalment of tax devolution amounting to ₹1.09 lakh crore to states. How is this release categorized in relation to regular fiscal transfers?",
+            "hi": "केंद्र ने हाल ही में राज्यों को ₹1.09 लाख करोड़ की कर हस्तांतरण की अतिरिक्त किस्त जारी की है। इस रिलीज़ को नियमित राजकोषीय हस्तांतरण के संबंध में कैसे वर्गीकृत किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It substitutes the regular monthly devolution for the final quarter of the financial year",
+                "hi": "यह वित्तीय वर्ष की अंतिम तिमाही के लिए नियमित मासिक हस्तांतरण का स्थान लेता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It represents an advance disbursement against next year's Finance Commission grants",
+                "hi": "यह अगले वर्ष के वित्त आयोग अनुदान के विरुद्ध अग्रिम संवितरण का प्रतिनिधित्व करता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "This is in addition to the regular monthly devolution and the second additional instalment this financial year",
+                "hi": "यह नियमित मासिक हस्तांतरण और इस वित्तीय वर्ष की दूसरी अतिरिक्त किस्त के अतिरिक्त है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is a special disaster relief fund allocation disbursed directly to state treasuries",
+                "hi": "यह एक विशेष आपदा राहत निधि आवंटन है जो सीधे राज्य के खजाने में वितरित किया जाता है"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source clarifies that the released additional instalment of tax devolution is in addition to the regular monthly devolution and the second additional instalment this financial year.\nSource: https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece",
+            "hi": "सूत्र ने स्पष्ट किया कि कर हस्तांतरण की जारी अतिरिक्त किस्त नियमित मासिक हस्तांतरण और इस वित्तीय वर्ष की दूसरी अतिरिक्त किस्त के अतिरिक्त है।\nस्रोत: https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-3"
+        },
+        {
+          "prompt": {
+            "en": "Cyclone Arnab recently hit the coast of Andhra Pradesh, marking the first cyclone of which specific weather season?",
+            "hi": "चक्रवात अर्नब हाल ही में आंध्र प्रदेश के तट से टकराया, जो किस विशिष्ट मौसम के मौसम का पहला चक्रवात है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "South-west monsoon season",
+                "hi": "दक्षिण-पश्चिम मानसून ऋतु"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Northeast monsoon season",
+                "hi": "पूर्वोत्तर मानसून का मौसम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pre-monsoon summer season",
+                "hi": "प्री-मानसून ग्रीष्म ऋतु"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Post-winter retreating season",
+                "hi": "सर्दियों के बाद वापसी का मौसम"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source specifies that Cyclone Arnab hitting the coast of Andhra Pradesh is just the first cyclone of the northeast monsoon season.\nSource: https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+            "hi": "सूत्र निर्दिष्ट करता है कि आंध्र प्रदेश के तट से टकराने वाला चक्रवात अर्नब पूर्वोत्तर मानसून के मौसम का पहला चक्रवात है।\nस्रोत: https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-4"
+        },
+        {
+          "prompt": {
+            "en": "The successful launch of the NVS-03 navigation satellite by ISRO on October 30, 2026, restored the NavIC constellation to which operational status?",
+            "hi": "30 अक्टूबर, 2026 को इसरो द्वारा NVS-03 नेविगेशन उपग्रह के सफल प्रक्षेपण ने NavIC समूह को किस परिचालन स्थिति में बहाल कर दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A four-satellite, standalone operational status advancing India's push for an indigenous network",
+                "hi": "एक चार-उपग्रह, स्टैंडअलोन परिचालन स्थिति एक स्वदेशी नेटवर्क के लिए भारत के प्रयास को आगे बढ़ा रही है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A six-satellite, hybrid operational status integrated with global positioning systems",
+                "hi": "वैश्विक पोजिशनिंग सिस्टम के साथ एकीकृत छह-उपग्रह, हाइब्रिड परिचालन स्थिति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A dual-frequency regional network dependent on foreign ground stations",
+                "hi": "एक दोहरी-आवृत्ति क्षेत्रीय नेटवर्क जो विदेशी ग्राउंड स्टेशनों पर निर्भर है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A backup experimental status restricted to meteorological data collection",
+                "hi": "एक बैकअप प्रयोगात्मक स्थिति मौसम संबंधी डेटा संग्रह तक सीमित है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt notes that the launch restored NavIC to a four-satellite, standalone operational status and advanced India's push for an indigenous, more precise space-time network.\nSource: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+            "hi": "अंश में कहा गया है कि प्रक्षेपण ने NavIC को चार-उपग्रह, स्टैंडअलोन परिचालन स्थिति में बहाल कर दिया और स्वदेशी, अधिक सटीक अंतरिक्ष-समय नेटवर्क के लिए भारत के प्रयास को आगे बढ़ाया।\nस्रोत: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-5"
+        },
+        {
+          "prompt": {
+            "en": "According to recent regional reports, a surge in what specific activities has put approximately 300,000 people in the path of potential disasters in parts of Nepal and India's Uttarakhand?",
+            "hi": "हाल की क्षेत्रीय रिपोर्टों के अनुसार, किस विशिष्ट गतिविधियों में वृद्धि ने नेपाल और भारत के उत्तराखंड के कुछ हिस्सों में लगभग 300,000 लोगों को संभावित आपदाओं की राह पर ला दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Large-scale open-cast mining and mineral extraction projects",
+                "hi": "बड़े पैमाने पर खुली खनन और खनिज निष्कर्षण परियोजनाएँ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "High-speed railway corridor laying and tunneling operations",
+                "hi": "हाई-स्पीड रेलवे कॉरिडोर बिछाने और सुरंग बनाने का कार्य"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Extensive agricultural terracing and river diversion schemes",
+                "hi": "व्यापक कृषि सीढ़ीदार और नदी मोड़ योजनाएँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+                "hi": "नेपाल और भारत के उत्तराखंड के कुछ हिस्सों में पर्यटन सुविधाओं, आवास और बुनियादी ढांचे के निर्माण में तेजी आई है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that the construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand, placing people at risk.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि नेपाल और भारत के उत्तराखंड के कुछ हिस्सों में पर्यटन सुविधाओं, आवास और बुनियादी ढांचे का निर्माण बढ़ गया है, जिससे लोगों को जोखिम में डाल दिया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-6"
+        },
+        {
+          "prompt": {
+            "en": "In the tragic helicopter crash that resulted in six deaths in a northern Indian state, from which prominent Hindu pilgrimage site had the aircraft taken off before losing contact?",
+            "hi": "उत्तर भारतीय राज्य में दुखद हेलीकॉप्टर दुर्घटना में छह लोगों की मौत हो गई, संपर्क टूटने से पहले विमान ने किस प्रमुख हिंदू तीर्थ स्थल से उड़ान भरी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kedarnath",
+                "hi": "केदारनाथ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Badrinath",
+                "hi": "बद्रीनाथ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gangotri",
+                "hi": "गंगोत्री"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Yamunotri",
+                "hi": "यमुनोत्री"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text reports that the aircraft had taken off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में बताया गया है कि संपर्क टूटने से पहले विमान ने शुक्रवार दोपहर को हिंदू तीर्थ स्थल बद्रीनाथ से उड़ान भरी थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-7"
+        },
+        {
+          "prompt": {
+            "en": "During a rare humanitarian evacuation from the Russian-occupied city of Oleshky, what extreme survival measures had residents been forced to resort to due to a lack of food, water, and electricity?",
+            "hi": "रूस के कब्जे वाले शहर ओलेस्की से एक दुर्लभ मानवीय निकासी के दौरान, भोजन, पानी और बिजली की कमी के कारण निवासियों को जीवित रहने के लिए कौन से चरम उपायों का सहारा लेना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Melting snow and rationing domestic livestock feed",
+                "hi": "बर्फ पिघल रही है और घरेलू पशुओं के चारे की राशनिंग हो रही है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cooking garden weeds to survive.",
+                "hi": "जीवित रहने के लिए बगीचे की खरपतवार पकाना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Consuming rainwater collected from damaged industrial rooftops",
+                "hi": "क्षतिग्रस्त औद्योगिक छतों से एकत्रित वर्षा जल का उपभोग करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Foraging for expired rations abandoned in military depots",
+                "hi": "सैन्य डिपो में छोड़े गए समाप्त हो चुके राशन की तलाश"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text highlights that Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में इस बात पर प्रकाश डाला गया है कि ओलेस्की निवासी भोजन, पानी और बिजली के बिना थे, कई लोग जीवित रहने के लिए बगीचे के खरपतवारों को पकाने का सहारा ले रहे थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-8"
+        },
+        {
+          "prompt": {
+            "en": "In Poland, a tense stand-off and police deployment occurred over the control of a top court. What immediate government action triggered this severe institutional escalation?",
+            "hi": "पोलैंड में, एक शीर्ष अदालत के नियंत्रण को लेकर तनावपूर्ण गतिरोध और पुलिस तैनाती हुई। किस तत्काल सरकारी कार्रवाई के कारण यह गंभीर संस्थागत वृद्धि हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The executive annulled all constitutional tribunal rulings delivered over the past decade.",
+                "hi": "कार्यपालिका ने पिछले दशक में दिए गए सभी संवैधानिक न्यायाधिकरण के फैसलों को रद्द कर दिया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The government suspended two senior justices and moved to bring criminal charges against them.",
+                "hi": "सरकार ने दो वरिष्ठ न्यायाधीशों को निलंबित कर दिया और उनके खिलाफ आपराधिक आरोप लगाने का कदम उठाया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Parliament passed a bill dissolving the entire judicial appointment council overnight.",
+                "hi": "संसद ने रातों-रात पूरी न्यायिक नियुक्ति परिषद को भंग करने वाला विधेयक पारित कर दिया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Police raided the chambers of the Supreme Court president to seize confidential case files.",
+                "hi": "पुलिस ने गोपनीय मामले की फाइलों को जब्त करने के लिए सुप्रीम कोर्ट के अध्यक्ष के चैंबर पर छापा मारा।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt notes that the escalation came after the government suspended two senior justices and moved to bring criminal charges against them.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि यह वृद्धि तब हुई जब सरकार ने दो वरिष्ठ न्यायाधीशों को निलंबित कर दिया और उनके खिलाफ आपराधिक आरोप लगाए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-9"
+        },
+        {
+          "prompt": {
+            "en": "Why did the Ethiopian Prime Minister order government ministers to undergo military training, reflecting his administration's core policy emphasis?",
+            "hi": "इथियोपियाई प्रधान मंत्री ने अपने प्रशासन की मुख्य नीति पर जोर देते हुए, सरकारी मंत्रियों को सैन्य प्रशिक्षण लेने का आदेश क्यों दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To prepare them for deployment in international peacekeeping missions across East Africa",
+                "hi": "उन्हें पूर्वी अफ़्रीका में अंतर्राष्ट्रीय शांति मिशनों में तैनाती के लिए तैयार करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because the prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+                "hi": "क्योंकि प्रधानमंत्री ने पहले भी अपनी सरकार की महत्वाकांक्षाओं के केंद्र में सैन्य तैयारियों पर जोर दिया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To counter an imminent domestic coup d'état attempted by regional insurgent groups",
+                "hi": "क्षेत्रीय विद्रोही समूहों द्वारा आसन्न घरेलू तख्तापलट के प्रयास का मुकाबला करने के लिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As part of a mandatory national civil service overhaul decreed by parliament",
+                "hi": "संसद द्वारा आदेशित अनिवार्य राष्ट्रीय सिविल सेवा ओवरहाल के भाग के रूप में"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explains that the prime minister has previously emphasised military preparedness as central to his government's ambitions.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र बताते हैं कि प्रधानमंत्री ने पहले भी अपनी सरकार की महत्वाकांक्षाओं के केंद्र में सैन्य तैयारियों पर जोर दिया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-10"
+        },
+        {
+          "prompt": {
+            "en": "In Spain, political prospects for Prime Minister Sánchez faced severe clouds ahead of a critical national vote due to which political circumstance?",
+            "hi": "स्पेन में, किस राजनीतिक परिस्थिति के कारण एक महत्वपूर्ण राष्ट्रीय वोट से पहले प्रधान मंत्री सांचेज़ की राजनीतिक संभावनाओं पर गंभीर बादल छा गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A massive corruption scandal involving regional infrastructure tenders and party funding",
+                "hi": "क्षेत्रीय बुनियादी ढांचे की निविदाओं और पार्टी फंडिंग से जुड़ा एक बड़ा भ्रष्टाचार घोटाला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A parliamentary no-confidence motion passed by a unified opposition coalition",
+                "hi": "एकीकृत विपक्षी गठबंधन द्वारा संसदीय अविश्वास प्रस्ताव पारित किया गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+                "hi": "स्पेन के प्रधानमंत्री आकस्मिक आम चुनाव से कुछ सप्ताह पहले लगातार संकटों से जूझ रहे हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Widespread nationwide general strikes paralyzing the transport and energy sectors",
+                "hi": "व्यापक राष्ट्रव्यापी आम हड़तालों ने परिवहन और ऊर्जा क्षेत्रों को ठप्प कर दिया"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt indicates that the Spanish PM is hit by a succession of crises just weeks before a snap general election.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश से संकेत मिलता है कि स्पैनिश प्रधान मंत्री आकस्मिक आम चुनाव से कुछ सप्ताह पहले लगातार संकटों से जूझ रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-11"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-01T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-01.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Why did the SEBI chairman state that the market regulator is keeping a close watch on Tata Group developments?",
+            "hi": "सेबी अध्यक्ष ने यह क्यों कहा कि बाजार नियामक टाटा समूह के घटनाक्रम पर कड़ी नजर रख रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Due to an unexpected merger proposal between core steel and automotive subsidiaries",
+                "hi": "कोर स्टील और ऑटोमोटिव सहायक कंपनियों के बीच एक अप्रत्याशित विलय प्रस्ताव के कारण"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Following a massive foreign institutional investor sell-off in group stocks",
+                "hi": "समूह शेयरों में बड़े पैमाने पर विदेशी संस्थागत निवेशकों की बिकवाली के बाद"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The comments came amid differences over governance matters at Tata Sons",
+                "hi": "टाटा संस में शासन संबंधी मामलों पर मतभेद के बीच ये टिप्पणियां आईं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "In response to regulatory non-compliance regarding environmental audit disclosures",
+                "hi": "पर्यावरणीय लेखापरीक्षा प्रकटीकरण के संबंध में विनियामक गैर-अनुपालन के जवाब में"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text explicitly mentions that the SEBI chairman's comments regarding keeping an eye on Tata Group developments came amid differences over governance matters at Tata Sons.\nSource: https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece",
+            "hi": "पाठ में स्पष्ट रूप से उल्लेख किया गया है कि टाटा समूह के घटनाक्रम पर नजर रखने के संबंध में सेबी अध्यक्ष की टिप्पणियां टाटा संस में शासन के मामलों पर मतभेदों के बीच आईं।\nस्रोत: https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-12"
+        },
+        {
+          "prompt": {
+            "en": "According to Anuj Jain, Director (Finance) at Indian Oil Corporation (IOC), what are the projected under-recoveries on domestic LPG cylinders for the months of November and December?",
+            "hi": "इंडियन ऑयल कॉरपोरेशन (आईओसी) के निदेशक (वित्त) अनुज जैन के अनुसार, नवंबर और दिसंबर के महीनों के लिए घरेलू एलपीजी सिलेंडर पर अनुमानित अंडर-रिकवरी क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹309/cylinder in November and ₹370/cylinder in December",
+                "hi": "नवंबर में ₹309/सिलेंडर और दिसंबर में ₹370/सिलेंडर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹205/cylinder in November and ₹250/cylinder in December",
+                "hi": "नवंबर में ₹205/सिलेंडर और दिसंबर में ₹250/सिलेंडर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹415/cylinder in November and ₹450/cylinder in December",
+                "hi": "नवंबर में ₹415/सिलेंडर और दिसंबर में ₹450/सिलेंडर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹180/cylinder in November and ₹210/cylinder in December",
+                "hi": "नवंबर में ₹180/सिलेंडर और दिसंबर में ₹210/सिलेंडर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt notes that under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December.\nSource: https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece",
+            "hi": "अंश में कहा गया है कि एलपीजी पर अंडर-रिकवरी नवंबर में ₹309/सिलेंडर और दिसंबर में ₹370/सिलेंडर होने का अनुमान है।\nस्रोत: https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-13"
+        },
+        {
+          "prompt": {
+            "en": "Why did Radico Khaitan set its sights on Scotland to secure malt whisky supplies and diversify its sourcing geography?",
+            "hi": "रैडिको खेतान ने माल्ट व्हिस्की की आपूर्ति सुनिश्चित करने और इसकी सोर्सिंग भूगोल में विविधता लाने के लिए स्कॉटलैंड पर अपना ध्यान क्यों केंद्रित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic malt production had fallen short due to severe unseasonal droughts across northern India",
+                "hi": "पूरे उत्तर भारत में गंभीर बेमौसम सूखे के कारण घरेलू माल्ट उत्पादन कम हो गया था"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "European trade agreements offered substantial tax rebates exclusively for Scottish imports",
+                "hi": "यूरोपीय व्यापार समझौतों ने विशेष रूप से स्कॉटिश आयात के लिए पर्याप्त कर छूट की पेशकश की"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Strict domestic tariff barriers made local procurement economically unviable for premium brands",
+                "hi": "सख्त घरेलू टैरिफ बाधाओं ने प्रीमियम ब्रांडों के लिए स्थानीय खरीद को आर्थिक रूप से अलाभकारी बना दिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Recent disruptions in the West Asia and Gulf corridor highlighted the risks of concentration in individual markets.",
+                "hi": "पश्चिम एशिया और खाड़ी गलियारे में हाल के व्यवधानों ने व्यक्तिगत बाजारों में एकाग्रता के जोखिमों को उजागर किया है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The text states that recent disruptions in the West Asia and Gulf corridor highlighted the risks of concentration in individual markets, prompting the company to diversify.\nSource: https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+            "hi": "पाठ में कहा गया है कि पश्चिम एशिया और खाड़ी गलियारे में हालिया व्यवधानों ने व्यक्तिगत बाजारों में एकाग्रता के जोखिमों को उजागर किया, जिससे कंपनी को विविधता लाने के लिए प्रेरित किया गया।\nस्रोत: https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-14"
+        },
+        {
+          "prompt": {
+            "en": "What long-term export target and geographical market expansion has EKA Mobility planned to achieve over the next few years?",
+            "hi": "ईकेए मोबिलिटी ने अगले कुछ वर्षों में कौन सा दीर्घकालिक निर्यात लक्ष्य और भौगोलिक बाजार विस्तार हासिल करने की योजना बनाई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To raise exports to 20-30% of total sales while exploring further opportunities in the African markets.",
+                "hi": "अफ़्रीकी बाज़ारों में और अवसर तलाशते हुए निर्यात को कुल बिक्री का 20-30% तक बढ़ाना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To raise exports to 50-60% of total sales while focusing exclusively on European Union markets",
+                "hi": "यूरोपीय संघ के बाजारों पर विशेष रूप से ध्यान केंद्रित करते हुए निर्यात को कुल बिक्री का 50-60% तक बढ़ाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To eliminate domestic sales entirely and concentrate on North American commercial vehicle tenders",
+                "hi": "घरेलू बिक्री को पूरी तरह खत्म करना और उत्तरी अमेरिकी वाणिज्यिक वाहन निविदाओं पर ध्यान केंद्रित करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To cap exports at 10% while building exclusive assembly lines in South America",
+                "hi": "दक्षिण अमेरिका में विशेष असेंबली लाइनों का निर्माण करते समय निर्यात को 10% तक सीमित करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source specifies that EKA aims to raise exports to 20-30% of total sales over the next few years and is exploring further opportunities in the African markets.\nSource: https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+            "hi": "स्रोत निर्दिष्ट करता है कि ईकेए का लक्ष्य अगले कुछ वर्षों में निर्यात को कुल बिक्री का 20-30% तक बढ़ाना है और अफ्रीकी बाजारों में और अवसर तलाश रहा है।\nस्रोत: https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-15"
+        },
+        {
+          "prompt": {
+            "en": "How has crypto giant Binance characterized the recent cyber-attack involving the theft of $6.3 billion?",
+            "hi": "क्रिप्टो दिग्गज बिनेंस ने 6.3 बिलियन डॉलर की चोरी से जुड़े हालिया साइबर हमले को कैसे चित्रित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As a routine malware intrusion targeting cold storage wallets",
+                "hi": "कोल्ड स्टोरेज वॉलेट को लक्षित करने वाली एक नियमित मैलवेयर घुसपैठ के रूप में"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "As a decentralized protocol exploit executed through automated smart contracts",
+                "hi": "एक विकेन्द्रीकृत प्रोटोकॉल शोषण के रूप में स्वचालित स्मार्ट अनुबंधों के माध्यम से निष्पादित किया जाता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As an inside job orchestrated by rogue compliance personnel",
+                "hi": "दुष्ट अनुपालन कर्मियों द्वारा आयोजित एक आंतरिक कार्य के रूप में"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As a complex cyber-attack believed to be the largest ever of its kind.",
+                "hi": "एक जटिल साइबर हमले के रूप में इसे अपनी तरह का अब तक का सबसे बड़ा हमला माना जा रहा है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The text describes the cyber-attack as complex and believed to be the largest ever of its kind.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में साइबर हमले को जटिल बताया गया है और माना जाता है कि यह अपनी तरह का अब तक का सबसे बड़ा हमला है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-16"
+        },
+        {
+          "prompt": {
+            "en": "Amid sharp falls in US tech stocks driven by surging artificial intelligence spending, how did the tech-heavy Nasdaq open?",
+            "hi": "कृत्रिम बुद्धिमत्ता खर्च में वृद्धि के कारण अमेरिकी तकनीकी शेयरों में भारी गिरावट के बीच, तकनीकी-भारी नैस्डैक कैसे खुला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Within a flat trading band after Federal Reserve intervention",
+                "hi": "फेडरल रिजर्व के हस्तक्षेप के बाद एक फ्लैट ट्रेडिंग बैंड के भीतर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At an all-time record high following semiconductor earnings beats",
+                "hi": "सेमीकंडक्टर की कमाई में बढ़ोतरी के बाद सर्वकालिक रिकॉर्ड ऊंचाई पर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At its lowest level in more than two months.",
+                "hi": "दो महीने से ज्यादा के निचले स्तर पर."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At a six-month high driven by cloud computing revenues",
+                "hi": "क्लाउड कंप्यूटिंग राजस्व छह महीने के उच्चतम स्तर पर है"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly notes that the tech-heavy Nasdaq opens at its lowest level in more than two months.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में स्पष्ट रूप से लिखा गया है कि टेक-हेवी नैस्डैक दो महीने से अधिक समय में अपने सबसे निचले स्तर पर खुला है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-17"
+        },
+        {
+          "prompt": {
+            "en": "Poundland grew from humble beginnings as a market stall in Wolverhampton to become a high street giant. What is its current business status?",
+            "hi": "वॉल्वरहैम्प्टन में एक मार्केट स्टॉल के रूप में साधारण शुरुआत से पाउंडलैंड एक हाई स्ट्रीट दिग्गज बन गया। इसकी वर्तमान व्यावसायिक स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is now at threat of collapse.",
+                "hi": "अब इसके ढहने का खतरा है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is undergoing a major cross-border merger with continental European discount chains",
+                "hi": "यह महाद्वीपीय यूरोपीय छूट श्रृंखलाओं के साथ एक प्रमुख सीमा-पार विलय के दौर से गुजर रहा है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It has been fully acquired by a multinational e-commerce conglomerate",
+                "hi": "इसे पूरी तरह से एक बहुराष्ट्रीय ई-कॉमर्स समूह द्वारा अधिग्रहित कर लिया गया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It has transitioned exclusively into an online digital marketplace model",
+                "hi": "यह विशेष रूप से एक ऑनलाइन डिजिटल मार्केटप्लेस मॉडल में परिवर्तित हो गया है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states that the retail giant, which started life at a Wolverhampton market, is now at threat of collapse.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि रिटेल दिग्गज, जिसने वॉल्वरहैम्प्टन बाजार में जीवन शुरू किया था, अब पतन के खतरे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-18"
+        },
+        {
+          "prompt": {
+            "en": "Following the massive cyber-attack and theft of $6.3 billion from crypto firm Binance, what did two analytics firms reveal regarding the identity of the perpetrators?",
+            "hi": "बड़े पैमाने पर साइबर हमले और क्रिप्टो फर्म बिनेंस से 6.3 बिलियन डॉलर की चोरी के बाद, दो एनालिटिक्स फर्मों ने अपराधियों की पहचान के संबंध में क्या खुलासा किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They concluded the breach originated from internal software testing vulnerabilities",
+                "hi": "उन्होंने निष्कर्ष निकाला कि उल्लंघन आंतरिक सॉफ़्टवेयर परीक्षण कमजोरियों से उत्पन्न हुआ है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They traced the funds to an unregulated exchange operating out of Eastern Europe",
+                "hi": "उन्होंने पूर्वी यूरोप से संचालित एक अनियमित एक्सचेंज में धन का पता लगाया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+                "hi": "उनके पास उत्तर कोरियाई राज्य समर्थित समूह को संभावित अपराधी के रूप में इंगित करने वाली मजबूत खुफिया जानकारी है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They identified a syndicate of rogue independent hackers with no state affiliation",
+                "hi": "उन्होंने बिना किसी राज्य संबद्धता वाले दुष्ट स्वतंत्र हैकरों के एक सिंडिकेट की पहचान की"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text states that two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में कहा गया है कि दो विश्लेषणात्मक फर्मों का कहना है कि उनके पास उत्तर कोरियाई राज्य समर्थित समूह को संभावित अपराधी के रूप में इंगित करने वाली मजबूत खुफिया जानकारी है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-19"
+        },
+        {
+          "prompt": {
+            "en": "What significant maritime milestone was recently achieved at the Vizhinjam port?",
+            "hi": "हाल ही में विझिंजम बंदरगाह पर कौन सा महत्वपूर्ण समुद्री मील का पत्थर हासिल किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The first container vessel was decommissioned after inaugural dry-docking",
+                "hi": "उद्घाटन ड्राई-डॉकिंग के बाद पहले कंटेनर जहाज को सेवामुक्त कर दिया गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A record-breaking export consignment of petroleum products was flagged off",
+                "hi": "पेट्रोलियम उत्पादों की रिकॉर्ड तोड़ निर्यात खेप को हरी झंडी दिखाई गई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The port completed its first fully automated terminal expansion project",
+                "hi": "बंदरगाह ने अपनी पहली पूर्णतः स्वचालित टर्मिनल विस्तार परियोजना पूरी कर ली"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "First import container arrives at Vizhinjam",
+                "hi": "पहला आयात कंटेनर विझिनजाम पहुंचा"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title and text excerpt confirm that the first import container arrived at Vizhinjam.\nSource: https://www.thehindu.com/news/national/kerala/first-import-container-arrives-at-vizhinjam/article71650187.ece",
+            "hi": "शीर्षक और पाठ अंश पुष्टि करते हैं कि पहला आयात कंटेनर विझिंजम पहुंचा।\nस्रोत: https://www.thehindu.com/news/national/kerala/first-import-container-arrives-at-vizhinjam/article71650187.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/first-import-container-arrives-at-vizhinjam/article71650187.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-20"
+        },
+        {
+          "prompt": {
+            "en": "Why has the textile industry expressed strong support and welcomed recent government trade announcements?",
+            "hi": "कपड़ा उद्योग ने हालिया सरकारी व्यापार घोषणाओं का मजबूत समर्थन और स्वागत क्यों किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Following the announcement of direct cash subsidies for handloom weavers",
+                "hi": "हथकरघा बुनकरों के लिए प्रत्यक्ष नकद सब्सिडी की घोषणा के बाद"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Due to the abolition of Goods and Services Tax (GST) on synthetic yarn manufacturing",
+                "hi": "सिंथेटिक यार्न विनिर्माण पर वस्तु एवं सेवा कर (जीएसटी) समाप्त होने के कारण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because of the customs duty exemption extension for cotton",
+                "hi": "कपास के लिए सीमा शुल्क छूट विस्तार के कारण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Owing to the complete waiver of export tariffs on ready-made garments",
+                "hi": "रेडीमेड कपड़ों पर निर्यात शुल्क में पूर्ण छूट के कारण"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states that the textile industry welcomes the customs duty exemption extension for cotton.\nSource: https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि कपड़ा उद्योग कपास के लिए सीमा शुल्क छूट विस्तार का स्वागत करता है।\nस्रोत: https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-21"
+        },
+        {
+          "prompt": {
+            "en": "According to historical accounts, who opened America's first Indian restaurant in 1901 before eventually becoming a fake prince?",
+            "hi": "ऐतिहासिक वृत्तांतों के अनुसार, नकली राजकुमार बनने से पहले 1901 में अमेरिका का पहला भारतीय रेस्तरां किसने खोला था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ranji Smile",
+                "hi": "रणजी मुस्कान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Dinshaw Maneckji Petit",
+                "hi": "दिनशॉ मानेकजी पेटिट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cowasjee Jehangir",
+                "hi": "कावसजी जहांगीर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sorabji Marker",
+                "hi": "सोराबजी मार्कर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text notes that Indian chef Ranji Smile opened America's first Indian restaurant in 1901 - then became a fake prince.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में लिखा है कि भारतीय शेफ रणजी स्माइल ने 1901 में अमेरिका का पहला भारतीय रेस्तरां खोला - फिर एक नकली राजकुमार बन गए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-22"
+        },
+        {
+          "prompt": {
+            "en": "Across fashion retail chains ranging from Levi's to Primark, what sustainable consumer trend is being embraced by a new generation of shoppers?",
+            "hi": "लेवीज़ से लेकर प्राइमार्क तक की फ़ैशन खुदरा शृंखलाओं में, नई पीढ़ी के खरीदारों द्वारा किस स्थायी उपभोक्ता प्रवृत्ति को अपनाया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Eye-catching patching and visible mends.",
+                "hi": "आकर्षक पैचिंग और दृश्यमान सुधार।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Renting high-end seasonal wear through subscription-based clothing libraries",
+                "hi": "सदस्यता-आधारित वस्त्र पुस्तकालयों के माध्यम से उच्च-स्तरीय मौसमी परिधान किराए पर लेना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Purchasing second-hand garments exclusively through digital peer-to-peer marketplaces",
+                "hi": "विशेष रूप से डिजिटल पीयर-टू-पीयर मार्केटप्लेस के माध्यम से सेकेंड-हैंड कपड़ों की खरीदारी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Trading old apparel directly at store counters for store credit vouchers",
+                "hi": "स्टोर क्रेडिट वाउचर के लिए सीधे स्टोर काउंटर पर पुराने परिधान का व्यापार करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source notes that a new generation is embracing eye-catching patching and visible mends across fashion chains.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि एक नई पीढ़ी फैशन श्रृंखलाओं में आकर्षक पैचिंग और दृश्यमान सुधारों को अपना रही है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-23"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-01T13:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ED arrests four more accused, including Myanmar national, in cross-border drug network",
+      "url": "https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+      "published": "2026-10-31T22:46:42+05:30"
+    },
+    {
+      "title": "First import container arrives at Vizhinjam",
+      "url": "https://www.thehindu.com/news/national/kerala/first-import-container-arrives-at-vizhinjam/article71650187.ece",
+      "published": "2026-10-31T22:36:35+05:30"
+    },
+    {
+      "title": "Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | HIGHLIGHTS",
+      "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+      "published": "2026-10-31T22:26:08+05:30"
+    },
+    {
+      "title": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to states",
+      "url": "https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece",
+      "published": "2026-10-31T22:06:48+05:30"
+    },
+    {
+      "title": "SEBI chairman says market regulator keeping eye on Tata Group developments",
+      "url": "https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece",
+      "published": "2026-10-31T22:00:20+05:30"
+    },
+    {
+      "title": "IOC says crude Q2 price volatile as procurement swings between discounts and premiums",
+      "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece",
+      "published": "2026-10-31T21:39:42+05:30"
+    },
+    {
+      "title": "Textile industry welcomes customs duty exemption extension for cotton",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece",
+      "published": "2026-10-31T21:16:43+05:30"
+    },
+    {
+      "title": "Radico Khaitan sets sights on Scotland to secure malt whisky supplies",
+      "url": "https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+      "published": "2026-10-31T20:19:11+05:30"
+    },
+    {
+      "title": "EKA Mobility plans ₹1,000-crore R&D investment, targets 40,000-unit capacity utilisation by 2030",
+      "url": "https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+      "published": "2026-10-31T19:28:07+05:30"
+    },
+    {
+      "title": "Beyond Cyclone Arnab: can India tackle the growing cost of natural disasters? | Insight India",
+      "url": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+      "published": "2026-10-31T20:58:14+05:30"
+    },
+    {
+      "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+      "published": "2026-10-31T15:59:18+05:30"
+    },
+    {
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T02:02:16+00:00"
+    },
+    {
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:06:05+00:00"
+    },
+    {
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T23:11:59+00:00"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T21:13:14+00:00"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:34:46+00:00"
+    },
+    {
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:08:22+00:00"
+    },
+    {
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T00:00:35+00:00"
+    },
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T15:50:41+00:00"
+    },
+    {
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T16:32:08+00:00"
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:11:43+00:00"
+    },
+    {
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T14:28:15+00:00"
+    },
+    {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T05:44:21+00:00"
+    }
+  ]
+}

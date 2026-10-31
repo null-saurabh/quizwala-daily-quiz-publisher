@@ -1,0 +1,1750 @@
+{
+  "date": "2026-11-01",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-01.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to investigations into the cross-border drug network busted by the Enforcement Directorate (ED), who was identified as the Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lalrammuana"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chintuang"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jabrul Haque"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Abu Saleh"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explicitly states that Chintuang was a Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025.\nSource: https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-1"
+        },
+        {
+          "prompt": {
+            "en": "What specific administrative changes and actions regarding elections did Congress president Mallikarjun Kharge attribute to Gyanesh Kumar in his list of charges?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Redrawing parliamentary constituency boundaries in southern states without consultation"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Altering electronic voting machine software without judicial approval"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Facilitating vote theft, deleting 13.2 crore voter names and changing Form 6 without parliamentary oversight"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Extending the tenure of election commissioners through executive ordinances"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text details that Mallikarjun Kharge listed charges against Gyanesh Kumar including facilitating vote theft, deleting 13.2 crore voter names and changing Form 6 without parliamentary oversight.\nSource: https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-2"
+        },
+        {
+          "prompt": {
+            "en": "The Centre recently released an additional instalment of tax devolution amounting to ₹1.09 lakh crore to states. How is this release categorized in relation to regular fiscal transfers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It substitutes the regular monthly devolution for the final quarter of the financial year"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It represents an advance disbursement against next year's Finance Commission grants"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "This is in addition to the regular monthly devolution and the second additional instalment this financial year"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is a special disaster relief fund allocation disbursed directly to state treasuries"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source clarifies that the released additional instalment of tax devolution is in addition to the regular monthly devolution and the second additional instalment this financial year.\nSource: https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-3"
+        },
+        {
+          "prompt": {
+            "en": "Cyclone Arnab recently hit the coast of Andhra Pradesh, marking the first cyclone of which specific weather season?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "South-west monsoon season"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Northeast monsoon season"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pre-monsoon summer season"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Post-winter retreating season"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source specifies that Cyclone Arnab hitting the coast of Andhra Pradesh is just the first cyclone of the northeast monsoon season.\nSource: https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-4"
+        },
+        {
+          "prompt": {
+            "en": "The successful launch of the NVS-03 navigation satellite by ISRO on October 30, 2026, restored the NavIC constellation to which operational status?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A four-satellite, standalone operational status advancing India's push for an indigenous network"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A six-satellite, hybrid operational status integrated with global positioning systems"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A dual-frequency regional network dependent on foreign ground stations"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A backup experimental status restricted to meteorological data collection"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt notes that the launch restored NavIC to a four-satellite, standalone operational status and advanced India's push for an indigenous, more precise space-time network.\nSource: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-5"
+        },
+        {
+          "prompt": {
+            "en": "According to recent regional reports, a surge in what specific activities has put approximately 300,000 people in the path of potential disasters in parts of Nepal and India's Uttarakhand?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Large-scale open-cast mining and mineral extraction projects"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "High-speed railway corridor laying and tunneling operations"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Extensive agricultural terracing and river diversion schemes"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that the construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand, placing people at risk.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-6"
+        },
+        {
+          "prompt": {
+            "en": "In the tragic helicopter crash that resulted in six deaths in a northern Indian state, from which prominent Hindu pilgrimage site had the aircraft taken off before losing contact?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kedarnath"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Badrinath"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gangotri"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Yamunotri"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text reports that the aircraft had taken off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-7"
+        },
+        {
+          "prompt": {
+            "en": "During a rare humanitarian evacuation from the Russian-occupied city of Oleshky, what extreme survival measures had residents been forced to resort to due to a lack of food, water, and electricity?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Melting snow and rationing domestic livestock feed"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cooking garden weeds to survive."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Consuming rainwater collected from damaged industrial rooftops"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Foraging for expired rations abandoned in military depots"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text highlights that Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-8"
+        },
+        {
+          "prompt": {
+            "en": "In Poland, a tense stand-off and police deployment occurred over the control of a top court. What immediate government action triggered this severe institutional escalation?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The executive annulled all constitutional tribunal rulings delivered over the past decade."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The government suspended two senior justices and moved to bring criminal charges against them."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Parliament passed a bill dissolving the entire judicial appointment council overnight."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Police raided the chambers of the Supreme Court president to seize confidential case files."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt notes that the escalation came after the government suspended two senior justices and moved to bring criminal charges against them.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-9"
+        },
+        {
+          "prompt": {
+            "en": "Why did the Ethiopian Prime Minister order government ministers to undergo military training, reflecting his administration's core policy emphasis?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To prepare them for deployment in international peacekeeping missions across East Africa"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because the prime minister has previously emphasised military preparedness as central to his government's ambitions."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To counter an imminent domestic coup d'état attempted by regional insurgent groups"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As part of a mandatory national civil service overhaul decreed by parliament"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explains that the prime minister has previously emphasised military preparedness as central to his government's ambitions.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-10"
+        },
+        {
+          "prompt": {
+            "en": "In Spain, political prospects for Prime Minister Sánchez faced severe clouds ahead of a critical national vote due to which political circumstance?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A massive corruption scandal involving regional infrastructure tenders and party funding"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A parliamentary no-confidence motion passed by a unified opposition coalition"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Widespread nationwide general strikes paralyzing the transport and energy sectors"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt indicates that the Spanish PM is hit by a succession of crises just weeks before a snap general election.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-11"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-01.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Why did the SEBI chairman state that the market regulator is keeping a close watch on Tata Group developments?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Due to an unexpected merger proposal between core steel and automotive subsidiaries"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Following a massive foreign institutional investor sell-off in group stocks"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The comments came amid differences over governance matters at Tata Sons"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "In response to regulatory non-compliance regarding environmental audit disclosures"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text explicitly mentions that the SEBI chairman's comments regarding keeping an eye on Tata Group developments came amid differences over governance matters at Tata Sons.\nSource: https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-12"
+        },
+        {
+          "prompt": {
+            "en": "According to Anuj Jain, Director (Finance) at Indian Oil Corporation (IOC), what are the projected under-recoveries on domestic LPG cylinders for the months of November and December?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹309/cylinder in November and ₹370/cylinder in December"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹205/cylinder in November and ₹250/cylinder in December"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹415/cylinder in November and ₹450/cylinder in December"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹180/cylinder in November and ₹210/cylinder in December"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt notes that under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December.\nSource: https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-13"
+        },
+        {
+          "prompt": {
+            "en": "Why did Radico Khaitan set its sights on Scotland to secure malt whisky supplies and diversify its sourcing geography?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic malt production had fallen short due to severe unseasonal droughts across northern India"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "European trade agreements offered substantial tax rebates exclusively for Scottish imports"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Strict domestic tariff barriers made local procurement economically unviable for premium brands"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Recent disruptions in the West Asia and Gulf corridor highlighted the risks of concentration in individual markets."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The text states that recent disruptions in the West Asia and Gulf corridor highlighted the risks of concentration in individual markets, prompting the company to diversify.\nSource: https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-14"
+        },
+        {
+          "prompt": {
+            "en": "What long-term export target and geographical market expansion has EKA Mobility planned to achieve over the next few years?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To raise exports to 20-30% of total sales while exploring further opportunities in the African markets."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To raise exports to 50-60% of total sales while focusing exclusively on European Union markets"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To eliminate domestic sales entirely and concentrate on North American commercial vehicle tenders"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To cap exports at 10% while building exclusive assembly lines in South America"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source specifies that EKA aims to raise exports to 20-30% of total sales over the next few years and is exploring further opportunities in the African markets.\nSource: https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-15"
+        },
+        {
+          "prompt": {
+            "en": "How has crypto giant Binance characterized the recent cyber-attack involving the theft of $6.3 billion?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As a routine malware intrusion targeting cold storage wallets"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "As a decentralized protocol exploit executed through automated smart contracts"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As an inside job orchestrated by rogue compliance personnel"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As a complex cyber-attack believed to be the largest ever of its kind."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The text describes the cyber-attack as complex and believed to be the largest ever of its kind.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-16"
+        },
+        {
+          "prompt": {
+            "en": "Amid sharp falls in US tech stocks driven by surging artificial intelligence spending, how did the tech-heavy Nasdaq open?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Within a flat trading band after Federal Reserve intervention"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At an all-time record high following semiconductor earnings beats"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At its lowest level in more than two months."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At a six-month high driven by cloud computing revenues"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly notes that the tech-heavy Nasdaq opens at its lowest level in more than two months.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-17"
+        },
+        {
+          "prompt": {
+            "en": "Poundland grew from humble beginnings as a market stall in Wolverhampton to become a high street giant. What is its current business status?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is now at threat of collapse."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is undergoing a major cross-border merger with continental European discount chains"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It has been fully acquired by a multinational e-commerce conglomerate"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It has transitioned exclusively into an online digital marketplace model"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states that the retail giant, which started life at a Wolverhampton market, is now at threat of collapse.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-18"
+        },
+        {
+          "prompt": {
+            "en": "Following the massive cyber-attack and theft of $6.3 billion from crypto firm Binance, what did two analytics firms reveal regarding the identity of the perpetrators?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They concluded the breach originated from internal software testing vulnerabilities"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They traced the funds to an unregulated exchange operating out of Eastern Europe"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They identified a syndicate of rogue independent hackers with no state affiliation"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text states that two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-19"
+        },
+        {
+          "prompt": {
+            "en": "What significant maritime milestone was recently achieved at the Vizhinjam port?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The first container vessel was decommissioned after inaugural dry-docking"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A record-breaking export consignment of petroleum products was flagged off"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The port completed its first fully automated terminal expansion project"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "First import container arrives at Vizhinjam"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title and text excerpt confirm that the first import container arrived at Vizhinjam.\nSource: https://www.thehindu.com/news/national/kerala/first-import-container-arrives-at-vizhinjam/article71650187.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/first-import-container-arrives-at-vizhinjam/article71650187.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-20"
+        },
+        {
+          "prompt": {
+            "en": "Why has the textile industry expressed strong support and welcomed recent government trade announcements?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Following the announcement of direct cash subsidies for handloom weavers"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Due to the abolition of Goods and Services Tax (GST) on synthetic yarn manufacturing"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because of the customs duty exemption extension for cotton"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Owing to the complete waiver of export tariffs on ready-made garments"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states that the textile industry welcomes the customs duty exemption extension for cotton.\nSource: https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-21"
+        },
+        {
+          "prompt": {
+            "en": "According to historical accounts, who opened America's first Indian restaurant in 1901 before eventually becoming a fake prince?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ranji Smile"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Dinshaw Maneckji Petit"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cowasjee Jehangir"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sorabji Marker"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text notes that Indian chef Ranji Smile opened America's first Indian restaurant in 1901 - then became a fake prince.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-22"
+        },
+        {
+          "prompt": {
+            "en": "Across fashion retail chains ranging from Levi's to Primark, what sustainable consumer trend is being embraced by a new generation of shoppers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Eye-catching patching and visible mends."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Renting high-end seasonal wear through subscription-based clothing libraries"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Purchasing second-hand garments exclusively through digital peer-to-peer marketplaces"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Trading old apparel directly at store counters for store credit vouchers"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source notes that a new generation is embracing eye-catching patching and visible mends across fashion chains.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-23"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-01.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Based on the mechanical principles of everyday objects like umbrellas and springs, what occurs when you close an umbrella?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "You release all stored potential energy into the surrounding atmospheric air"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "You trigger an electromagnetic induction cycle that locks the canopy in place"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "You compress the spring and store energy in it"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "You dissipate kinetic friction through thermal expansion of the metal rod"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text clearly explains that when you close an umbrella, you compress the spring and store energy in it.\nSource: https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-24"
+        },
+        {
+          "prompt": {
+            "en": "By what year could the designs for India's first privately built tokamak, a nuclear reactor using fusion to produce energy by startup Pranos Fusion, be firmed up?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2026"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2030"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2028"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2027"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that designs for the first privately built tokamak could be firmed up in 2027 by Bengaluru-based startup Pranos Fusion.\nSource: https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-25"
+        },
+        {
+          "prompt": {
+            "en": "According to NASA's Brad Cenko, what specific materials and components from the failing 1 ½-ton telescope are expected to survive atmospheric reentry?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Titanium alloy support struts and carbon-fiber optical housings"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A handful of pieces made of denser-than-lead tungsten and some mirror parts"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Silicon solar panels and beryllium communication antennas"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Gold-plated reaction wheels and platinum circuit boards"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source specifies that pieces made of denser-than-lead tungsten and some mirror parts could survive reentry.\nSource: https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-26"
+        },
+        {
+          "prompt": {
+            "en": "During recent global nature talks, what primary objective were countries attempting to get back on track through an international agreement?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To halt nature decline back on track."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To establish mandatory carbon taxation benchmarks across industrial economies"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To phase out global subsidies for fossil fuel extraction entirely by 2030"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To finance cross-border reforestation projects in tropical river basins"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt notes that countries have been trying to get a global agreement to halt nature decline back on track.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-27"
+        },
+        {
+          "prompt": {
+            "en": "Following the 'wettest week in two years', what weather pattern is developing across the UK at the start of November according to meteorologists?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Severe low-pressure cyclonic storms bringing persistent gale-force winds"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Widespread freezing fog and blizzard conditions across northern lowlands"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Unseasonal subtropical warmth accompanied by heavy convective thunderstorms"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "High pressure developing across the UK, making the start of November very settled with no significant rain in the forecast."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that with high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-28"
+        },
+        {
+          "prompt": {
+            "en": "In the largest woodland bat survey described as a success for 'AI for good', where were some of Britain's rarest and most threatened bats recorded?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "In the south-west of England."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "In the industrial heartlands of the English Midlands"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Across the highland glens of the Scottish borders"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Throughout the urban parklands of Greater London"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text explicitly notes that some of Britain's rarest and most threatened bats have been recorded in the south-west of England.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-29"
+        },
+        {
+          "prompt": {
+            "en": "According to government data from the Democratic Republic of Congo concerning its deadliest Ebola outbreak, how many people have contracted the rare virus?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "More than 5,000 people"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than 25,000 people"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than 10,000 people"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More than 50,000 people"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that government data shows more than 10,000 people have contracted the rare virus.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-30"
+        },
+        {
+          "prompt": {
+            "en": "In Edinburgh, environmental campaigners organized a Halloween-themed protest targeting which prominent location?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Scottish Parliament debating chamber"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The headquarters of the state-owned energy regulatory agency"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The first minister's residence in Edinburgh."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The historic Edinburgh Castle esplanade"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text reports that a Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-31"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "ED arrests four more accused, including Myanmar national, in cross-border drug network",
+      "url": "https://www.thehindu.com/news/national/ed-arrests-four-more-accused-including-myanmar-national-in-cross-border-drug-network/article71650417.ece",
+      "published": "2026-10-31T22:46:42+05:30",
+      "text": "Chintuang was a Myanmar-based supplier of the 49.1 kg methamphetamine consignment seized in August 2025, while Lalrammuana was the main handler and Jabrul Haque its intended receiver at Damchhera-Kanhmun border; Abu Saleh was allegedly the operator whose account received ₹11.44 crore"
+    },
+    {
+      "id": "2",
+      "title": "Four arrested for ATM theft in Bidar district; ₹32 lakh worth of property seized",
+      "url": "https://www.thehindu.com/news/national/karnataka/four-arrested-for-atm-theft-in-bidar-district-32-lakh-worth-of-property-seized/article71649774.ece",
+      "published": "2026-10-31T22:46:39+05:30",
+      "text": ""
+    },
+    {
+      "id": "3",
+      "title": "Shetty Institute of Technology hosts TechNova and NextGen Hackathon in Kalaburagi",
+      "url": "https://www.thehindu.com/news/national/karnataka/shetty-institute-of-technology-hosts-technova-and-nextgen-hackathon-in-kalaburagi/article71649632.ece",
+      "published": "2026-10-31T22:40:45+05:30",
+      "text": ""
+    },
+    {
+      "id": "4",
+      "title": "Protesters smear ink on Addanda Cariappa’s face over his play on Gandhiji",
+      "url": "https://www.thehindu.com/news/national/karnataka/protesters-smear-ink-on-addanda-cariappas-face-over-his-play-on-gandhi/article71650593.ece",
+      "published": "2026-10-31T22:39:58+05:30",
+      "text": ""
+    },
+    {
+      "id": "5",
+      "title": "First import container arrives at Vizhinjam",
+      "url": "https://www.thehindu.com/news/national/kerala/first-import-container-arrives-at-vizhinjam/article71650187.ece",
+      "published": "2026-10-31T22:36:35+05:30",
+      "text": ""
+    },
+    {
+      "id": "6",
+      "title": "Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | HIGHLIGHTS",
+      "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+      "published": "2026-10-31T22:26:08+05:30",
+      "text": "Congress president Mallikarjun Kharge lists six charges against Gyanesh Kumar, including facilitating vote theft, deleting 13.2 crore voter names and changing Form 6 without parliamentary oversight"
+    },
+    {
+      "id": "7",
+      "title": "Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to states",
+      "url": "https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece",
+      "published": "2026-10-31T22:06:48+05:30",
+      "text": "This is in addition to the regular monthly devolution and the second additional instalment this financial year"
+    },
+    {
+      "id": "8",
+      "title": "SEBI chairman says market regulator keeping eye on Tata Group developments",
+      "url": "https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece",
+      "published": "2026-10-31T22:00:20+05:30",
+      "text": "The comments came amid differences over governance matters at Tata Sons"
+    },
+    {
+      "id": "9",
+      "title": "IOC says crude Q2 price volatile as procurement swings between discounts and premiums",
+      "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece",
+      "published": "2026-10-31T21:39:42+05:30",
+      "text": "Anuj Jain, Director (Finance) at Indian Oil also stated under-recoveries on LPG is projected at ₹309/cylinder in November and ₹370/cylinder in December."
+    },
+    {
+      "id": "10",
+      "title": "Textile industry welcomes customs duty exemption extension for cotton",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece",
+      "published": "2026-10-31T21:16:43+05:30",
+      "text": ""
+    },
+    {
+      "id": "11",
+      "title": "Radico Khaitan sets sights on Scotland to secure malt whisky supplies",
+      "url": "https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece",
+      "published": "2026-10-31T20:19:11+05:30",
+      "text": "Recent disruptions in the West Asia and Gulf corridor highlighted the risks of concentration in individual markets. The company was working to strengthen distribution across other regions."
+    },
+    {
+      "id": "12",
+      "title": "EKA Mobility plans ₹1,000-crore R&D investment, targets 40,000-unit capacity utilisation by 2030",
+      "url": "https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece",
+      "published": "2026-10-31T19:28:07+05:30",
+      "text": "EKA aims to raise exports to 20-30% of total sales over the next few years. It is exploring further opportunities in the African markets."
+    },
+    {
+      "id": "13",
+      "title": "Beyond Cyclone Arnab: can India tackle the growing cost of natural disasters? | Insight India",
+      "url": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+      "published": "2026-10-31T20:58:14+05:30",
+      "text": "Cyclone Arnab hit the coast of Andhra Pradesh this week. In preparation, authorities evacuated people, halted transportation services and alerted disaster response forces. This is just the first cyclone of the northeast monsoon season. As climate change threatens to bring increasingly intense cyclones and other natural disasters, will India’s current disaster management programme be able to handle the social and economic costs I?n this episode, Sonikka Loganathan speaks to Safi Ahsan Rizvi, former Adviser to the National Disaster Management Authority, about what goes into disaster management, the costs to the economy and vulnerable populations, and how India has improved its strategy since 1999."
+    },
+    {
+      "id": "14",
+      "title": "On umbrellas, springs, and superconductivity",
+      "url": "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+      "published": "2026-10-31T19:21:11+05:30",
+      "text": "Springs are usually metal wires wound in a spiral, allowing us to store mechanical energy; the umbrella’s rod consists of multiple cylinders, and the spring opens them up in succession; when you close an umbrella, you compress the spring and store energy in it"
+    },
+    {
+      "id": "15",
+      "title": "India’s first fusion power company takes key steps",
+      "url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+      "published": "2026-10-31T19:19:34+05:30",
+      "text": "Designs for the first privately built tokamak, a nuclear reactor that uses fusion to produce energy, could be firmed up in 2027 by Bengaluru-based startup Pranos Fusion"
+    },
+    {
+      "id": "16",
+      "title": "The science of Gaganyaan parachutes | Explained",
+      "url": "https://www.thehindu.com/sci-tech/science/the-science-of-gaganyaan-parachutes-explained/article71491468.ece",
+      "published": "2026-10-31T19:14:41+05:30",
+      "text": "Why does Gaganyaan need multiple parachutes? How are they tested?"
+    },
+    {
+      "id": "17",
+      "title": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
+      "url": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+      "published": "2026-10-31T18:27:13+05:30",
+      "text": "Most of the 1 ½-ton telescope is expected to burn up in the atmosphere. But a handful of pieces made of denser-than-lead tungsten and some mirror parts could survive reentry, according to NASA's Brad Cenko, the mission's chief scientist"
+    },
+    {
+      "id": "18",
+      "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+      "published": "2026-10-31T15:59:18+05:30",
+      "text": "ISRO successfully launched the NVS-03 navigation satellite from the Satish Dhawan Space Centre in Sriharikota on October 30, 2026, restoring NavIC to a four-satellite, standalone operational status and advancing India’s push for an indigenous, more precise space-time network"
+    },
+    {
+      "id": "19",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T02:02:16+00:00",
+      "text": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince."
+    },
+    {
+      "id": "20",
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:06:05+00:00",
+      "text": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
+    },
+    {
+      "id": "21",
+      "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T00:02:35+00:00",
+      "text": "Changing family structures in India are driving demand for start-ups offering services for eldercare."
+    },
+    {
+      "id": "22",
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T09:17:05+00:00",
+      "text": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars."
+    },
+    {
+      "id": "23",
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T23:11:59+00:00",
+      "text": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
+    },
+    {
+      "id": "24",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T21:13:14+00:00",
+      "text": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+    },
+    {
+      "id": "25",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:34:46+00:00",
+      "text": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+    },
+    {
+      "id": "26",
+      "title": "What we know about Binance's $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T12:27:28+00:00",
+      "text": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
+    },
+    {
+      "id": "27",
+      "title": "City of London chief tops UK Black Powerlist",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T18:00:24+00:00",
+      "text": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year."
+    },
+    {
+      "id": "28",
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:08:22+00:00",
+      "text": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse."
+    },
+    {
+      "id": "29",
+      "title": "How video game remakes tap the power of nostalgia",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T07:45:00+00:00",
+      "text": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
+    },
+    {
+      "id": "30",
+      "title": "Bute House protested by environmental campaigners",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T13:41:07+00:00",
+      "text": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh."
+    },
+    {
+      "id": "31",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:27:05+00:00",
+      "text": "Countries have been trying to get a global agreement to halt nature decline back on track."
+    },
+    {
+      "id": "32",
+      "title": "UK could see 10 days without rain after 'wettest week in two years'",
+      "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T00:06:31+00:00",
+      "text": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast."
+    },
+    {
+      "id": "33",
+      "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
+      "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:18:35+00:00",
+      "text": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued."
+    },
+    {
+      "id": "34",
+      "title": "Largest woodland bat survey a 'nice story of AI for good'",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:10:43+00:00",
+      "text": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
+    },
+    {
+      "id": "35",
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T00:00:35+00:00",
+      "text": "A new generation is embracing eye-catching patching and visible mends."
+    },
+    {
+      "id": "36",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T15:50:41+00:00",
+      "text": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
+    },
+    {
+      "id": "37",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T16:32:08+00:00",
+      "text": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+    },
+    {
+      "id": "38",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T15:16:20+00:00",
+      "text": "Government data shows that more than 10,000 people have contracted the rare virus."
+    },
+    {
+      "id": "39",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:11:43+00:00",
+      "text": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+    },
+    {
+      "id": "40",
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T14:28:15+00:00",
+      "text": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
+    },
+    {
+      "id": "41",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T05:44:21+00:00",
+      "text": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+    }
+  ]
+}
