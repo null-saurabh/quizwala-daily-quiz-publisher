@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-11-01",
-  "generated_at": "2026-10-31T18:08:04.411532+00:00",
+  "generated_at": "2026-10-31T20:10:49.816056+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
@@ -824,6 +824,159 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-36"
+        },
+        {
+          "prompt": {
+            "en": "Why did the traders body in central Delhi urge Rahul Gandhi to postpone his public rally?",
+            "hi": "मध्य दिल्ली में व्यापारियों के संगठन ने राहुल गांधी से अपनी सार्वजनिक रैली स्थगित करने का आग्रह क्यों किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They requested local authorities to shut down central Delhi for security reasons.",
+                "hi": "उन्होंने स्थानीय अधिकारियों से सुरक्षा कारणों से मध्य दिल्ली को बंद करने का अनुरोध किया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They wanted to organize a competing political event at the same venue.",
+                "hi": "वे उसी स्थान पर एक प्रतिस्पर्धी राजनीतिक कार्यक्रम आयोजित करना चाहते थे।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They were concerned about the potential negative impact of the rally on their business during the festive season.",
+                "hi": "वे त्यौहारी सीज़न के दौरान अपने व्यवसाय पर रैली के संभावित नकारात्मक प्रभाव के बारे में चिंतित थे।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They demanded that political leaders boycott festival shopping from local traders.",
+                "hi": "उन्होंने मांग की कि राजनीतिक नेता स्थानीय व्यापारियों से त्यौहारी खरीदारी का बहिष्कार करें।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Congress leader’s appeal to shop locally followed requests from a traders body in central Delhi asking him to postpone the rally until Deepavali due to concerns over its adverse impact on their business.\nSource: https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+            "hi": "स्थानीय स्तर पर खरीदारी करने की कांग्रेस नेता की अपील के बाद मध्य दिल्ली के एक व्यापारी संगठन ने उनसे अपने व्यापार पर प्रतिकूल प्रभाव की चिंताओं के कारण दीपावली तक रैली स्थगित करने के लिए कहा।\nस्रोत: https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-39"
+        },
+        {
+          "prompt": {
+            "en": "What administrative action was taken in Rajasthan following the ordering of an ACB probe against an IAS officer?",
+            "hi": "राजस्थान में एक आईएएस अधिकारी के खिलाफ एसीबी जांच के आदेश के बाद क्या प्रशासनिक कार्रवाई की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The IAS officer was immediately suspended from service.",
+                "hi": "आईएएस अधिकारी को तुरंत सेवा से निलंबित कर दिया गया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Both officers were transferred to New Delhi.",
+                "hi": "दोनों अधिकारियों का तबादला नई दिल्ली कर दिया गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The IPS officer wife was removed from her official post.",
+                "hi": "आईपीएस अधिकारी की पत्नी को उनके आधिकारिक पद से हटा दिया गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A joint departmental inquiry was initiated against the couple.",
+                "hi": "दंपति के खिलाफ संयुक्त विभागीय जांच शुरू की गई।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The news report explicitly states that a Rajasthan IPS officer was removed from her position after an Anti-Corruption Bureau (ACB) probe was ordered against her IAS husband.\nSource: https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece",
+            "hi": "समाचार रिपोर्ट में स्पष्ट रूप से कहा गया है कि राजस्थान की एक आईपीएस अधिकारी को उनके आईएएस पति के खिलाफ भ्रष्टाचार निरोधक ब्यूरो (एसीबी) जांच के आदेश के बाद उनके पद से हटा दिया गया था।\nस्रोत: https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-40"
+        },
+        {
+          "prompt": {
+            "en": "Where was the event titled 'public impeachment' featuring the CEC and questioning the deletion of voter names held?",
+            "hi": "'सार्वजनिक महाभियोग' नामक कार्यक्रम कहाँ आयोजित किया गया था जिसमें सीईसी को दिखाया गया था और मतदाताओं के नाम हटाने पर सवाल उठाया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At the Constitution Club of India in New Delhi",
+                "hi": "नई दिल्ली में कॉन्स्टिट्यूशन क्लब ऑफ इंडिया में"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At Congress president Mallikarjun Kharge’s residence in New Delhi",
+                "hi": "नई दिल्ली में कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के आवास पर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At the Election Commission headquarters",
+                "hi": "चुनाव आयोग मुख्यालय में"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At a public ground in central Delhi near the Jantar Mantar",
+                "hi": "मध्य दिल्ली में जंतर मंतर के पास एक सार्वजनिक मैदान में"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The event, termed the CEC’s 'public impeachment' where voters questioned the deletion of names from electoral rolls, was held at Congress president Mallikarjun Kharge’s residence in New Delhi.\nSource: https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
+            "hi": "यह कार्यक्रम, जिसे सीईसी का 'सार्वजनिक महाभियोग' कहा गया, जहां मतदाताओं ने मतदाता सूची से नाम हटाने पर सवाल उठाया, नई दिल्ली में कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे के आवास पर आयोजित किया गया था।\nस्रोत: https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-41"
         }
       ],
       "quarantined": [],
@@ -1700,6 +1853,21 @@
       "title": "Uttarakhand makes co-pilots mandatory on Char Dham chartered flights after crash killed six",
       "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
       "published": "2026-10-31T23:00:57+05:30"
+    },
+    {
+      "title": "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+      "published": "2026-11-01T01:04:33+05:30"
+    },
+    {
+      "title": "Rajasthan IPS officer removed after ACB probe ordered against IAS husband",
+      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece",
+      "published": "2026-11-01T00:52:51+05:30"
+    },
+    {
+      "title": "At CEC’s ‘public impeachment’, voters question deletion of names from rolls",
+      "url": "https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
+      "published": "2026-11-01T00:51:07+05:30"
     }
   ]
 }

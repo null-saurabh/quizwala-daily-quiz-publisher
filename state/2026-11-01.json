@@ -1,5 +1,6 @@
 {
   "date": "2026-11-01",
-  "status": "reserved",
-  "attempts": 3
+  "status": "partial",
+  "attempts": 3,
+  "questions": 33
 }

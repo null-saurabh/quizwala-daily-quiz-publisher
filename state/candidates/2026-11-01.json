@@ -740,6 +740,144 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-01-36"
+        },
+        {
+          "prompt": {
+            "en": "Why did the traders body in central Delhi urge Rahul Gandhi to postpone his public rally?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They requested local authorities to shut down central Delhi for security reasons."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They wanted to organize a competing political event at the same venue."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They were concerned about the potential negative impact of the rally on their business during the festive season."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They demanded that political leaders boycott festival shopping from local traders."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Congress leader’s appeal to shop locally followed requests from a traders body in central Delhi asking him to postpone the rally until Deepavali due to concerns over its adverse impact on their business.\nSource: https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-39"
+        },
+        {
+          "prompt": {
+            "en": "What administrative action was taken in Rajasthan following the ordering of an ACB probe against an IAS officer?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The IAS officer was immediately suspended from service."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Both officers were transferred to New Delhi."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The IPS officer wife was removed from her official post."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A joint departmental inquiry was initiated against the couple."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The news report explicitly states that a Rajasthan IPS officer was removed from her position after an Anti-Corruption Bureau (ACB) probe was ordered against her IAS husband.\nSource: https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-40"
+        },
+        {
+          "prompt": {
+            "en": "Where was the event titled 'public impeachment' featuring the CEC and questioning the deletion of voter names held?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At the Constitution Club of India in New Delhi"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At Congress president Mallikarjun Kharge’s residence in New Delhi"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At the Election Commission headquarters"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At a public ground in central Delhi near the Jantar Mantar"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The event, termed the CEC’s 'public impeachment' where voters questioned the deletion of names from electoral rolls, was held at Congress president Mallikarjun Kharge’s residence in New Delhi.\nSource: https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-01-41"
         }
       ],
       "quarantined": [],
@@ -2109,6 +2247,62 @@
       "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-makes-co-pilots-mandatory-on-char-dham-chartered-flights-after-crash-killed-six/article71650558.ece",
       "published": "2026-10-31T23:00:57+05:30",
       "text": "The Uttarakhand Civil Aviation Development Authority has also made it compulsory for all pilots to submit a report to the authorities after every flight, detailing weather conditions and other important operational information"
+    },
+    {
+      "id": "1",
+      "title": "Slovakian couple had come for a holiday to India, man died hours after checking into Conrad",
+      "url": "https://www.thehindu.com/news/national/karnataka/slovakian-couple-had-come-for-a-holiday-to-india-man-died-hours-after-checking-into-conrad/article71650525.ece",
+      "published": "2026-11-01T01:19:29+05:30",
+      "text": "Wife says that she rushed to check on him after hearing a loud noise from near the pool, but found him motionless in the water."
+    },
+    {
+      "id": "2",
+      "title": "IIM-Bangalore records 100% summer placements, with median stipend at ₹2 lakh per month",
+      "url": "https://www.thehindu.com/news/national/karnataka/iim-bangalore-records-100-summer-placements-with-median-stipend-at-2-lakh-per-month/article71650178.ece",
+      "published": "2026-11-01T01:18:15+05:30",
+      "text": "Consulting accounts for 50.7% of offers; first-time recruiters account for 40% of participating organisations"
+    },
+    {
+      "id": "3",
+      "title": "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
+      "url": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+      "published": "2026-11-01T01:04:33+05:30",
+      "text": "The Congress leader’s request comes after a traders body in central Delhi urged him to postpone the rally until Deepavali as they expressed concern over its impact on their business."
+    },
+    {
+      "id": "4",
+      "title": "Devotees worried over conduct of Kandasashti festival at Kandakottam temple",
+      "url": "https://www.thehindu.com/news/cities/chennai/devotees-worried-over-conduct-of-kandasashti-festival-at-kandakottam-temple/article71650165.ece",
+      "published": "2026-11-01T00:57:36+05:30",
+      "text": ""
+    },
+    {
+      "id": "5",
+      "title": "Rajasthan IPS officer removed after ACB probe ordered against IAS husband",
+      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece",
+      "published": "2026-11-01T00:52:51+05:30",
+      "text": ""
+    },
+    {
+      "id": "6",
+      "title": "At CEC’s ‘public impeachment’, voters question deletion of names from rolls",
+      "url": "https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
+      "published": "2026-11-01T00:51:07+05:30",
+      "text": "Student leaders and activists also spoke at the event, which was held at Congress president Mallikarjun Kharge’s residence in New Delhi"
+    },
+    {
+      "id": "36",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T19:22:26+00:00",
+      "text": "One evacuated couple says they crossed minefields in Oleshky in a search for food."
+    },
+    {
+      "id": "38",
+      "title": "Clashes erupt between police and protesters in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T19:37:43+00:00",
+      "text": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services."
     }
   ]
 }
