@@ -1,0 +1,1845 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-02",
+  "generated_at": "2026-11-01T18:06:31.903737+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-02.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to Telangana State Government employees, what are the primary administrative and environmental benefits of implementing a five-day work week?",
+            "hi": "तेलंगाना राज्य सरकार के कर्मचारियों के अनुसार, पांच दिवसीय कार्य सप्ताह लागू करने के प्राथमिक प्रशासनिक और पर्यावरणीय लाभ क्या हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increasing industrial output and reducing state tax burdens",
+                "hi": "औद्योगिक उत्पादन बढ़ाना और राज्य कर बोझ कम करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Saving water and power, reducing road pollution, and enhancing employee efficiency",
+                "hi": "पानी और बिजली की बचत, सड़क प्रदूषण को कम करना और कर्मचारियों की दक्षता में वृद्धि करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Accelerating rural electrification and expanding public transport routes",
+                "hi": "ग्रामीण विद्युतीकरण में तेजी लाना और सार्वजनिक परिवहन मार्गों का विस्तार करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Lowering municipal waste generation and increasing tourism revenue",
+                "hi": "नगरपालिका अपशिष्ट उत्पादन को कम करना और पर्यटन राजस्व में वृद्धि करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explicitly notes that state government employees argued that a five-day work week can save water, power, reduce pollution on roads and enhance efficiency.\nSource: https://www.thehindu.com/news/national/telangana/el-nino-hyderabad-employees-seek-five-day-work-week/article71652504.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि राज्य सरकार के कर्मचारियों ने तर्क दिया कि पांच दिवसीय कार्य सप्ताह पानी, बिजली बचा सकता है, सड़कों पर प्रदूषण कम कर सकता है और दक्षता बढ़ा सकता है।\nस्रोत: https://www.thehindu.com/news/national/telangana/el-nino-hyderabad-employees-seek-five-day-work-week/article71652504.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/telangana/el-nino-hyderabad-employees-seek-five-day-work-week/article71652504.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-1"
+        },
+        {
+          "prompt": {
+            "en": "In the wake of storm 'Murasu' bringing very heavy rainfall to north Tamil Nadu, what administrative action was taken by Chennai District Collector S. Malathi Helen?",
+            "hi": "उत्तरी तमिलनाडु में बहुत भारी वर्षा लाने वाले तूफान 'मुरासु' के मद्देनजर, चेन्नई जिला कलेक्टर एस. मलाथी हेलेन द्वारा क्या प्रशासनिक कार्रवाई की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ordered an immediate evacuation of all coastal settlements",
+                "hi": "सभी तटीय बस्तियों को तत्काल खाली करने का आदेश दिया गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Announced a holiday for schools on account of heavy rains",
+                "hi": "भारी बारिश के कारण स्कूलों में छुट्टी की घोषणा की गई है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Imposed a curfew across all commercial districts in Chennai",
+                "hi": "चेन्नई के सभी वाणिज्यिक जिलों में कर्फ्यू लगा दिया गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Halted all railway operations connecting Chennai to neighboring districts",
+                "hi": "चेन्नई को पड़ोसी जिलों से जोड़ने वाले सभी रेलवे परिचालन को रोक दिया गया"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text states that Chennai District Collector S. Malathi Helen announced holiday for schools on account of heavy rains caused by storm Murasu.\nSource: https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
+            "hi": "पाठ में कहा गया है कि चेन्नई के जिला कलेक्टर एस. मलाथी हेलेन ने मुरासु तूफान के कारण हुई भारी बारिश के कारण स्कूलों में छुट्टी की घोषणा की है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-2"
+        },
+        {
+          "prompt": {
+            "en": "What conflicting claims arose regarding the political affiliation of independent MLCs in Bihar following a BJP press statement?",
+            "hi": "भाजपा के एक प्रेस बयान के बाद बिहार में स्वतंत्र एमएलसी की राजनीतिक संबद्धता के संबंध में क्या विरोधाभासी दावे सामने आए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Opposition parties claimed the MLCs had resigned, but the Speaker rejected the resignation letters.",
+                "hi": "विपक्षी दलों ने दावा किया कि एमएलसी ने इस्तीफा दे दिया है, लेकिन अध्यक्ष ने इस्तीफे पत्रों को खारिज कर दिया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The MLCs claimed they were appointed as ministers, which the BJP leadership flatly denied.",
+                "hi": "एमएलसी ने दावा किया कि उन्हें मंत्री नियुक्त किया गया है, जिसे भाजपा नेतृत्व ने सिरे से खारिज कर दिया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The BJP claimed they joined as full members, whereas the MLCs clarified they had not joined but were supporting the party.",
+                "hi": "भाजपा ने दावा किया कि वे पूर्ण सदस्य के रूप में शामिल हुए हैं, जबकि एमएलसी ने स्पष्ट किया कि वे शामिल नहीं हुए हैं बल्कि पार्टी का समर्थन कर रहे हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The BJP stated they were expelled, while the MLCs insisted they remained founding members.",
+                "hi": "भाजपा ने कहा कि उन्हें निष्कासित कर दिया गया है, जबकि एमएलसी ने जोर देकर कहा कि वे संस्थापक सदस्य बने रहेंगे।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Bihar BJP issued a press statement claiming they had joined the party, but amid controversy, both MLCs asserted they had not joined the party but were supporting the BJP.\nSource: https://www.thehindu.com/news/national/bihar/rjd-and-jsp-call-for-disqualification-of-independent-mlcs-who-joined-bjp/article71653634.ece",
+            "hi": "बिहार बीजेपी ने एक प्रेस बयान जारी कर दावा किया कि वे पार्टी में शामिल हो गए हैं, लेकिन विवाद के बीच, दोनों एमएलसी ने कहा कि वे पार्टी में शामिल नहीं हुए हैं बल्कि बीजेपी का समर्थन कर रहे हैं।\nस्रोत: https://www.thehindu.com/news/national/bihar/rjd-and-jsp-call-for-disqualification-of-independent-mlcs-who-joined-bjp/article71653634.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/rjd-and-jsp-call-for-disqualification-of-independent-mlcs-who-joined-bjp/article71653634.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-3"
+        },
+        {
+          "prompt": {
+            "en": "What specific administrative order was issued by the SEC (State Election Commission) concerning urban local bodies (ULBs)? inextricably linked to polling irregularities?",
+            "hi": "शहरी स्थानीय निकायों (यूएलबी) के संबंध में एसईसी (राज्य चुनाव आयोग) द्वारा कौन सा विशिष्ट प्रशासनिक आदेश जारी किया गया था? मतदान संबंधी अनियमितताओं से अभिन्न रूप से जुड़ा हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cancellation of municipal elections across the entire state",
+                "hi": "पूरे राज्य में नगर निगम चुनाव रद्द"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Suspension of all counting officers in major municipal corporations",
+                "hi": "प्रमुख नगर निगमों में सभी मतगणना अधिकारियों का निलंबन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Repolling in four wards across three ULBs",
+                "hi": "तीन यूएलबी में चार वार्डों में पुनर्मतदान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Postponement of mayoral polls indefinitely",
+                "hi": "मेयर चुनाव अनिश्चित काल के लिए स्थगित"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source title explicitly states that the SEC ordered repolling in four wards across three ULBs.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/sec-orders-repolling-in-four-wards-across-three-ulbs/article71653960.ece",
+            "hi": "स्रोत शीर्षक में स्पष्ट रूप से कहा गया है कि एसईसी ने तीन यूएलबी में चार वार्डों में पुनर्मतदान का आदेश दिया।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/sec-orders-repolling-in-four-wards-across-three-ulbs/article71653960.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/sec-orders-repolling-in-four-wards-across-three-ulbs/article71653960.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-4"
+        },
+        {
+          "prompt": {
+            "en": "What was the financial outlay of the civic projects inaugurated by Mayor Priya?",
+            "hi": "मेयर प्रिया द्वारा उद्घाटन की गई नागरिक परियोजनाओं का वित्तीय परिव्यय क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹2.31 crore",
+                "hi": "₹2.31 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹5.35 crore",
+                "hi": "₹5.35 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹34.84 crore",
+                "hi": "₹34.84 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹47.3 million",
+                "hi": "₹47.3 मिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source title states that Mayor Priya inaugurated ₹5.35-crore civic projects.\nSource: https://www.thehindu.com/news/national/tamil-nadu/mayor-priya-inaugurates-535-crorecivic-projects/article71652582.ece",
+            "hi": "स्रोत शीर्षक में कहा गया है कि मेयर प्रिया ने ₹5.35 करोड़ की नागरिक परियोजनाओं का उद्घाटन किया।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/mayor-priya-inaugurates-535-crorecivic-projects/article71652582.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/mayor-priya-inaugurates-535-crorecivic-projects/article71652582.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-5"
+        },
+        {
+          "prompt": {
+            "en": "Why were travelers heading to key transit hubs like Nampally Railway Station, Kachiguda Railway Station, and Shamshabad airport advised to start early?",
+            "hi": "नामपल्ली रेलवे स्टेशन, काचीगुडा रेलवे स्टेशन और शमशाबाद हवाई अड्डे जैसे प्रमुख पारगमन केंद्रों की ओर जाने वाले यात्रियों को जल्दी यात्रा शुरू करने की सलाह क्यों दी गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Following sudden cancellations of domestic flights due to storm warnings",
+                "hi": "तूफान की चेतावनी के कारण घरेलू उड़ानें अचानक रद्द कर दी गईं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because of a flash railway strike called by union leaders",
+                "hi": "यूनियन नेताओं द्वारा अचानक बुलाई गई रेलवे हड़ताल के कारण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Due to extensive traffic restrictions in place across central Hyderabad for events like the BJP padayatra",
+                "hi": "भाजपा पदयात्रा जैसे आयोजनों के लिए पूरे मध्य हैदराबाद में व्यापक यातायात प्रतिबंध लगाए गए हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To comply with mandatory security checks introduced for international passengers",
+                "hi": "अंतरराष्ट्रीय यात्रियों के लिए शुरू की गई अनिवार्य सुरक्षा जांच का अनुपालन करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Traffic restrictions in place across central Hyderabad on November 2 for a BJP padayatra prompted the advisory for travelers heading to the railway stations and airport to start early.\nSource: https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-place-across-central-hyderabad-for-bjp-padayatra-on-november-2/article71653037.ece",
+            "hi": "2 नवंबर को भाजपा की पदयात्रा के लिए पूरे मध्य हैदराबाद में यातायात प्रतिबंध के कारण रेलवे स्टेशनों और हवाईअड्डे की ओर जाने वाले यात्रियों को जल्दी यात्रा शुरू करने की सलाह दी गई।\nस्रोत: https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-place-across-central-hyderabad-for-bjp-padayatra-on-november-2/article71653037.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-place-across-central-hyderabad-for-bjp-padayatra-on-november-2/article71653037.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-6"
+        },
+        {
+          "prompt": {
+            "en": "What preparatory measures were undertaken by authorities along the Andhra Pradesh coast in response to Cyclone Arnab?",
+            "hi": "चक्रवात अर्नब के जवाब में आंध्र प्रदेश तट पर अधिकारियों द्वारा क्या प्रारंभिक उपाय किए गए थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Imposing statewide industrial shutdowns and power rationing",
+                "hi": "राज्यव्यापी औद्योगिक बंदी और बिजली राशनिंग लागू करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Deploying naval destroyers and establishing offshore medical camps",
+                "hi": "नौसैनिक विध्वंसकों की तैनाती और अपतटीय चिकित्सा शिविरों की स्थापना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Evacuating people, halting transportation services, and alerting disaster response forces",
+                "hi": "लोगों को निकालना, परिवहन सेवाओं को रोकना और आपदा प्रतिक्रिया बलों को सचेत करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Enacting a maritime blockade and suspending telecommunication networks",
+                "hi": "समुद्री नाकाबंदी लागू करना और दूरसंचार नेटवर्क को निलंबित करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "In preparation for Cyclone Arnab hitting the Andhra Pradesh coast, authorities evacuated people, halted transportation services, and alerted disaster response forces.\nSource: https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+            "hi": "चक्रवात अर्नब के आंध्र प्रदेश तट से टकराने की तैयारी में, अधिकारियों ने लोगों को निकाला, परिवहन सेवाएं रोक दीं और आपदा प्रतिक्रिया बलों को सतर्क कर दिया।\nस्रोत: https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-7"
+        },
+        {
+          "prompt": {
+            "en": "What key demand was raised by thousands of people who gathered in a mega rally in the heart of Delhi?",
+            "hi": "दिल्ली के मध्य में एक विशाल रैली में एकत्रित हुए हजारों लोगों ने कौन सी प्रमुख मांग उठाई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Calling for the Chief Election Commissioner to step down",
+                "hi": "मुख्य चुनाव आयुक्त से पद छोड़ने की मांग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Demanding immediate postponement of all parliamentary elections",
+                "hi": "सभी संसदीय चुनावों को तत्काल स्थगित करने की मांग की जा रही है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Protesting the introduction of electronic voting machines",
+                "hi": "इलेक्ट्रॉनिक वोटिंग मशीनों की शुरूआत का विरोध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Seeking universal basic income guarantees for urban workers",
+                "hi": "शहरी श्रमिकों के लिए सार्वभौमिक बुनियादी आय की गारंटी की मांग"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The opposition-led mega rally in Delhi featured thousands gathering to call for the Chief Election Commissioner to step down.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+            "hi": "दिल्ली में विपक्ष के नेतृत्व वाली मेगा रैली में मुख्य चुनाव आयुक्त को पद छोड़ने के लिए आह्वान करने के लिए हजारों लोग एकत्र हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-8"
+        },
+        {
+          "prompt": {
+            "en": "From which prominent Hindu pilgrimage site did the helicopter that suffered a fatal crash in northern India take off before losing contact?",
+            "hi": "उत्तर भारत में घातक दुर्घटना का शिकार हुए हेलीकॉप्टर ने संपर्क टूटने से पहले किस प्रमुख हिंदू तीर्थ स्थल से उड़ान भरी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kedarnath",
+                "hi": "केदारनाथ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Gangotri",
+                "hi": "गंगोत्री"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Amarnath",
+                "hi": "अमरनाथ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Badrinath",
+                "hi": "बद्रीनाथ"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The report states that the aircraft involved in the fatal northern Indian crash took off from the Hindu pilgrimage site of Badrinath.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि घातक उत्तरी भारतीय दुर्घटना में शामिल विमान ने हिंदू तीर्थ स्थल बद्रीनाथ से उड़ान भरी थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-9"
+        },
+        {
+          "prompt": {
+            "en": "According to recent reports, what primary societal trend in India is driving the growth and demand for start-ups specializing in eldercare services?",
+            "hi": "हाल की रिपोर्टों के अनुसार, भारत में कौन सी प्राथमिक सामाजिक प्रवृत्ति बुजुर्गों की देखभाल सेवाओं में विशेषज्ञता वाले स्टार्ट-अप की वृद्धि और मांग को बढ़ा रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rapid rural-to-urban migration by young professionals leaving parents behind",
+                "hi": "माता-पिता को पीछे छोड़कर युवा पेशेवरों का तेजी से ग्रामीण से शहरी प्रवास"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Government subsidies encouraging private nursing home establishments",
+                "hi": "निजी नर्सिंग होम प्रतिष्ठानों को प्रोत्साहित करने वाली सरकारी सब्सिडी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mandatory retirement age extensions for government employees",
+                "hi": "सरकारी कर्मचारियों के लिए अनिवार्य सेवानिवृत्ति आयु विस्तार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Changing family structures in India as the young become more mobile",
+                "hi": "भारत में युवा अधिक गतिशील होने के कारण पारिवारिक संरचनाएं बदल रही हैं"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt notes that changing family structures in India are driving demand for start-ups offering services for eldercare as the young become more mobile.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि भारत में बदलते पारिवारिक ढांचे के कारण बुजुर्गों की देखभाल के लिए सेवाओं की पेशकश करने वाले स्टार्ट-अप की मांग बढ़ रही है क्योंकि युवा अधिक मोबाइल बन रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-10"
+        },
+        {
+          "prompt": {
+            "en": "According to meteorological forecasts regarding storm 'Murasu', which districts in Tamil Nadu were predicted to receive heavy rainfall on November 2?",
+            "hi": "तूफान 'मुरासु' के संबंध में मौसम विभाग के पूर्वानुमान के अनुसार, 2 नवंबर को तमिलनाडु के किन जिलों में भारी वर्षा होने की भविष्यवाणी की गई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Salem, Namakkal, Dharmapuri, and Krishnagiri districts",
+                "hi": "सलेम, नामक्कल, धर्मपुरी और कृष्णागिरी जिले"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Madurai, Tiruchirappalli, Thanjavur, and Dindigul districts",
+                "hi": "मदुरै, तिरुचिरापल्ली, तंजावुर और डिंडीगुल जिले"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Coimbatore, Tiruppur, Erode, and Salem districts",
+                "hi": "कोयंबटूर, तिरुपुर, इरोड और सलेम जिले"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts",
+                "hi": "चेन्नई, चेंगलपट्टू, कांचीपुरम, रानीपेट और नीलगिरी जिले"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source specifies that isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall on Monday, November 2.\nSource: https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
+            "hi": "स्रोत निर्दिष्ट करता है कि चेन्नई, चेंगलपट्टू, कांचीपुरम, रानीपेट और नीलगिरी जिलों में अलग-अलग स्थानों पर सोमवार, 2 नवंबर को भारी वर्षा होने की संभावना है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-11"
+        },
+        {
+          "prompt": {
+            "en": "Who is Safi Ahsan Rizvi, who discussed India's disaster management strategy and economic costs following Cyclone Arnab?",
+            "hi": "सफ़ी अहसान रिज़वी कौन हैं, जिन्होंने चक्रवात अर्नब के बाद भारत की आपदा प्रबंधन रणनीति और आर्थिक लागत पर चर्चा की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Chairman of the National Disaster Response Force",
+                "hi": "राष्ट्रीय आपदा प्रतिक्रिया बल के अध्यक्ष"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Director General of the India Meteorological Department",
+                "hi": "भारत मौसम विज्ञान विभाग के महानिदेशक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Current Cabinet Secretary for Disaster Response",
+                "hi": "आपदा प्रतिक्रिया के लिए वर्तमान कैबिनेट सचिव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Former Adviser to the National Disaster Management Authority",
+                "hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण के पूर्व सलाहकार"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Safi Ahsan Rizvi is identified in the podcast discussion as the former Adviser to the National Disaster Management Authority.\nSource: https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+            "hi": "सफ़ी अहसान रिज़वी की पहचान पॉडकास्ट चर्चा में राष्ट्रीय आपदा प्रबंधन प्राधिकरण के पूर्व सलाहकार के रूप में की गई है।\nस्रोत: https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-02T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-02.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to Coal India, why does the 19% increase in its coal production assume greater operational significance?",
+            "hi": "कोल इंडिया के अनुसार, उसके कोयला उत्पादन में 19% की वृद्धि अधिक परिचालन महत्व क्यों रखती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To fulfill mandatory international export obligations under bilateral trade agreements",
+                "hi": "द्विपक्षीय व्यापार समझौतों के तहत अनिवार्य अंतर्राष्ट्रीय निर्यात दायित्वों को पूरा करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To supply raw materials exclusively to private steel manufacturing units",
+                "hi": "निजी इस्पात विनिर्माण इकाइयों को विशेष रूप से कच्चे माल की आपूर्ति करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To offset heavy financial losses incurred during the monsoon maintenance period",
+                "hi": "मानसून रखरखाव अवधि के दौरान होने वाले भारी वित्तीय नुकसान की भरपाई के लिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To augment coal stocks at thermal power plants amid rising power demand",
+                "hi": "बढ़ती बिजली मांग के बीच ताप विद्युत संयंत्रों में कोयले का भंडार बढ़ाना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Coal India stated that its production growth is significant due to the need to augment coal stocks at thermal power plants amid rising power demand.\nSource: https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece",
+            "hi": "कोल इंडिया ने कहा कि बिजली की बढ़ती मांग के बीच थर्मल पावर प्लांटों में कोयला स्टॉक बढ़ाने की आवश्यकता के कारण इसकी उत्पादन वृद्धि महत्वपूर्ण है।\nस्रोत: https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-13"
+        },
+        {
+          "prompt": {
+            "en": "What were the specific collection figures for domestic sales and import revenues under the gross GST mop-up in October?",
+            "hi": "अक्टूबर में सकल जीएसटी संग्रह के तहत घरेलू बिक्री और आयात राजस्व के विशिष्ट संग्रह आंकड़े क्या थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic sales rose 25% to over ₹1.80 lakh crore; import revenues climbed 50% to ₹85,000 crore",
+                "hi": "घरेलू बिक्री 25% बढ़कर ₹1.80 लाख करोड़ से अधिक हो गई; आयात राजस्व 50% बढ़कर ₹85,000 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Domestic sales rose 23% to over ₹2.01 lakh crore; import revenues climbed 15% to ₹50,000 crore",
+                "hi": "घरेलू बिक्री 23% बढ़कर ₹2.01 लाख करोड़ से अधिक हो गई; आयात राजस्व 15% बढ़कर ₹50,000 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Domestic sales rose 10% to over ₹1.20 lakh crore; import revenues climbed 30% to ₹60,000 crore",
+                "hi": "घरेलू बिक्री 10% बढ़कर ₹1.20 लाख करोड़ से अधिक हो गई; आयात राजस्व 30% बढ़कर ₹60,000 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Domestic sales rose 16% to over ₹1.59 lakh crore; import revenues climbed 42% to ₹72,246 crore",
+                "hi": "घरेलू बिक्री 16% बढ़कर ₹1.59 लाख करोड़ से अधिक हो गई; आयात राजस्व 42% बढ़कर ₹72,246 करोड़ हो गया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The text explicitly notes that gross GST collections from domestic sales rose 16% to over ₹1.59 lakh crore, and revenues from imports climbed 42% to ₹72,246 crore.\nSource: https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+            "hi": "पाठ में स्पष्ट रूप से लिखा गया है कि घरेलू बिक्री से सकल जीएसटी संग्रह 16% बढ़कर ₹1.59 लाख करोड़ से अधिक हो गया, और आयात से राजस्व 42% बढ़कर ₹72,246 करोड़ हो गया।\nस्रोत: https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-14"
+        },
+        {
+          "prompt": {
+            "en": "Despite Foreign Portfolio Investors (FPIs) pulling out ₹34,843 crore from Indian equities in October, what market behavior was observed towards the end of the month?",
+            "hi": "विदेशी पोर्टफोलियो निवेशकों (एफपीआई) द्वारा अक्टूबर में भारतीय इक्विटी से ₹34,843 करोड़ निकालने के बावजूद, महीने के अंत में बाजार का रुख क्या देखा गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "FPIs completely liquidated their remaining portfolios and exited Indian markets.",
+                "hi": "एफपीआई ने अपने शेष पोर्टफोलियो को पूरी तरह से समाप्त कर दिया और भारतीय बाजारों से बाहर निकल गए।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "FPIs shifted their investments entirely from equities to government bonds.",
+                "hi": "एफपीआई ने अपना निवेश पूरी तरह से इक्विटी से सरकारी बॉन्ड में स्थानांतरित कर दिया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "FPIs turned net buyers towards the end of the month.",
+                "hi": "महीने के अंत में एफपीआई शुद्ध खरीदार बन गए।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "FPI inflows surged past annual targets, setting a new record.",
+                "hi": "एफपीआई प्रवाह वार्षिक लक्ष्य से आगे बढ़ गया, जिसने एक नया रिकॉर्ड बनाया।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report highlights that FPIs pulled out ₹34,843 crore in October, but turned net buyers at the end of the month, though experts cautioned that it does not guarantee a sustained reversal.\nSource: https://www.thehindu.com/business/markets/fpis-pull-out-34843-crore-from-indian-equities-in-october-but-turn-net-buyers-end-of-the-month/article71653063.ece",
+            "hi": "रिपोर्ट में बताया गया है कि एफपीआई ने अक्टूबर में 34,843 करोड़ रुपये निकाले, लेकिन महीने के अंत में शुद्ध खरीदार बन गए, हालांकि विशेषज्ञों ने चेतावनी दी कि यह निरंतर उलटफेर की गारंटी नहीं देता है।\nस्रोत: https://www.thehindu.com/business/markets/fpis-pull-out-34843-crore-from-indian-equities-in-october-but-turn-net-buyers-end-of-the-month/article71653063.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-pull-out-34843-crore-from-indian-equities-in-october-but-turn-net-buyers-end-of-the-month/article71653063.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-15"
+        },
+        {
+          "prompt": {
+            "en": "What was the estimated range of domestic passenger vehicle dispatches in October, and what year-on-year growth did it represent?",
+            "hi": "अक्टूबर में घरेलू यात्री वाहन प्रेषण की अनुमानित सीमा क्या थी और यह साल-दर-साल किस वृद्धि का प्रतिनिधित्व करती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "6.0-6.2 lakh units, representing growth of around 20-22% year-on-year",
+                "hi": "6.0-6.2 लाख इकाइयाँ, जो साल-दर-साल लगभग 20-22% की वृद्धि का प्रतिनिधित्व करती हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "4.6-4.8 lakh units, representing growth of around 5-7% year-on-year",
+                "hi": "4.6-4.8 लाख इकाइयाँ, जो साल-दर-साल लगभग 5-7% की वृद्धि दर्शाती हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "5.25-5.3 lakh units, representing growth of around 13-15% year-on-year",
+                "hi": "5.25-5.3 लाख इकाइयाँ, जो साल-दर-साल लगभग 13-15% की वृद्धि का प्रतिनिधित्व करती हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "3.9-4.1 lakh units, representing a contraction of 4% year-on-year",
+                "hi": "3.9-4.1 लाख इकाइयाँ, जो वर्ष-दर-वर्ष 4% संकुचन का प्रतिनिधित्व करती हैं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Domestic passenger vehicle wholesales in October are estimated in the range of 5.25-5.3 lakh units against 4.6 lakh units in October 2025, representing a growth of around 13-15% year-on-year.\nSource: https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece",
+            "hi": "अक्टूबर में घरेलू यात्री वाहन थोक बिक्री अक्टूबर 2025 में 4.6 लाख इकाइयों के मुकाबले 5.25-5.3 लाख इकाइयों की सीमा में होने का अनुमान है, जो साल-दर-साल लगभग 13-15% की वृद्धि दर्शाता है।\nस्रोत: https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-16"
+        },
+        {
+          "prompt": {
+            "en": "Following the recent price revision, what is the new cost per litre for Aviation Turbine Fuel (ATF)?",
+            "hi": "हालिया मूल्य संशोधन के बाद, एविएशन टर्बाइन फ्यूल (एटीएफ) की प्रति लीटर नई लागत क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹125.0 per litre",
+                "hi": "₹125.0 प्रति लीटर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹142.0 per litre",
+                "hi": "₹142.0 प्रति लीटर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹138.5 per litre",
+                "hi": "₹138.5 प्रति लीटर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹150.2 per litre",
+                "hi": "₹150.2 प्रति लीटर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text explicitly states that the price of Aviation Turbine Fuel was hiked by ₹1.37 per litre and now costs ₹138.5 per litre.\nSource: https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece",
+            "hi": "पाठ में स्पष्ट रूप से कहा गया है कि एविएशन टर्बाइन ईंधन की कीमत में ₹1.37 प्रति लीटर की बढ़ोतरी की गई थी और अब इसकी कीमत ₹138.5 प्रति लीटर है।\nस्रोत: https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-17"
+        },
+        {
+          "prompt": {
+            "en": "By what percentage did the GST mop-up surge in October, reaching ₹2.31 lakh crore, driven by festive demand?",
+            "hi": "त्योहारी मांग के कारण अक्टूबर में जीएसटी संग्रह कितने प्रतिशत बढ़कर ₹2.31 लाख करोड़ तक पहुंच गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "16%",
+                "hi": "16%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "23%",
+                "hi": "23%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "19%",
+                "hi": "19%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "42%",
+                "hi": "42%"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source title and text state that the GST mop-up surged 23% to reach ₹2.31 lakh crore in October on festive demand boost.\nSource: https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+            "hi": "स्रोत शीर्षक और पाठ में कहा गया है कि त्योहारी मांग बढ़ने से अक्टूबर में जीएसटी संग्रह 23% बढ़कर ₹2.31 लाख करोड़ तक पहुंच गया।\nस्रोत: https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-18"
+        },
+        {
+          "prompt": {
+            "en": "What percentage increase in production was reported by Coal India as mining operations recovered following the monsoon slump?",
+            "hi": "मॉनसून मंदी के बाद खनन कार्यों में सुधार के कारण कोल इंडिया द्वारा उत्पादन में कितने प्रतिशत की वृद्धि दर्ज की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "13%",
+                "hi": "13%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "16%",
+                "hi": "16%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "23%",
+                "hi": "23%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "19%",
+                "hi": "19%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title of source 8 clearly indicates that Coal India’s production increased by 19% as mining recovers after the monsoon slump.\nSource: https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece",
+            "hi": "स्रोत 8 का शीर्षक स्पष्ट रूप से इंगित करता है कि मानसून मंदी के बाद खनन में सुधार के कारण कोल इंडिया का उत्पादन 19% बढ़ गया।\nस्रोत: https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-19"
+        },
+        {
+          "prompt": {
+            "en": "How much were commercial LPG prices hiked per cylinder in the recent revision?",
+            "hi": "हाल के संशोधन में वाणिज्यिक एलपीजी की कीमतों में प्रति सिलेंडर कितनी बढ़ोतरी की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹10",
+                "hi": "₹10"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹5",
+                "hi": "₹5"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹20",
+                "hi": "₹20"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹50",
+                "hi": "₹50"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source title explicitly states that commercial LPG prices were hiked by ₹10 per cylinder.\nSource: https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece",
+            "hi": "स्रोत शीर्षक में स्पष्ट रूप से बताया गया है कि वाणिज्यिक एलपीजी की कीमतों में ₹10 प्रति सिलेंडर की बढ़ोतरी की गई थी।\nस्रोत: https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-20"
+        },
+        {
+          "prompt": {
+            "en": "Within what timeframe is VBJ planning to look at going public?",
+            "hi": "वीबीजे किस समय सीमा के भीतर सार्वजनिक होने की योजना बना रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "1 to 2 years",
+                "hi": "1 से 2 साल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "5 to 6 years",
+                "hi": "5 से 6 साल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "3 to 4 years",
+                "hi": "3 से 4 साल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Within 6 months",
+                "hi": "6 महीने के अंदर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title of source 7 indicates that VBJ will look at going public in 3 to 4 years.\nSource: https://www.thehindu.com/news/cities/Coimbatore/vbj-to-look-at-going-public-in-3-to-4-years/article71653688.ece",
+            "hi": "स्रोत 7 का शीर्षक इंगित करता है कि वीबीजे 3 से 4 वर्षों में सार्वजनिक होने पर विचार करेगा।\nस्रोत: https://www.thehindu.com/news/cities/Coimbatore/vbj-to-look-at-going-public-in-3-to-4-years/article71653688.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/cities/Coimbatore/vbj-to-look-at-going-public-in-3-to-4-years/article71653688.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-21"
+        },
+        {
+          "prompt": {
+            "en": "What milestone was crossed by domestic passenger vehicle (PV) dispatches in October due to strong festive demand?",
+            "hi": "मजबूत त्योहारी मांग के कारण अक्टूबर में घरेलू यात्री वाहन (पीवी) प्रेषण ने कौन सा मील का पत्थर पार किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Crossed the four-lakh units mark",
+                "hi": "चार लाख यूनिट का आंकड़ा पार कर लिया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Crossed the two-lakh units mark",
+                "hi": "दो लाख यूनिट का आंकड़ा पार कर लिया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Crossed the ten-lakh units mark",
+                "hi": "दस लाख यूनिट का आंकड़ा पार कर गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Crossed the five-lakh units mark",
+                "hi": "पांच लाख यूनिट का आंकड़ा पार कर लिया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title of source 11 states that domestic PV dispatches crossed the five-lakh units mark in October on strong festive demand.\nSource: https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece",
+            "hi": "स्रोत 11 के शीर्षक में कहा गया है कि मजबूत त्योहारी मांग के कारण अक्टूबर में घरेलू पीवी डिस्पैच पांच लाख यूनिट का आंकड़ा पार कर गया।\nस्रोत: https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-22"
+        },
+        {
+          "prompt": {
+            "en": "What percentage increase was recorded in revenues derived from imports as part of the October GST collections?",
+            "hi": "अक्टूबर जीएसटी संग्रह के हिस्से के रूप में आयात से प्राप्त राजस्व में कितने प्रतिशत की वृद्धि दर्ज की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "16%",
+                "hi": "16%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "23%",
+                "hi": "23%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "42%",
+                "hi": "42%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "30%",
+                "hi": "30%"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text specifies that revenues from imports climbed 42% to reach ₹72,246 crore during the October GST collection period.\nSource: https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+            "hi": "पाठ निर्दिष्ट करता है कि अक्टूबर जीएसटी संग्रह अवधि के दौरान आयात से राजस्व 42% बढ़कर ₹72,246 करोड़ तक पहुंच गया।\nस्रोत: https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-23"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-02T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-02.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "By which year could the designs for India's first privately built tokamak, developed by Bengaluru-based startup Pranos Fusion, be firmed up?",
+            "hi": "बेंगलुरु स्थित स्टार्टअप प्रानोस फ्यूजन द्वारा विकसित भारत के पहले निजी तौर पर निर्मित टोकामक के डिजाइन को किस वर्ष तक मजबूत किया जा सकता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2026",
+                "hi": "2026"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2028",
+                "hi": "2028"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2027",
+                "hi": "2027"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2030",
+                "hi": "2030"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text explicitly states that designs for the first privately built tokamak by startup Pranos Fusion could be firmed up in 2027.\nSource: https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+            "hi": "पाठ में स्पष्ट रूप से कहा गया है कि स्टार्टअप प्रानोस फ़्यूज़न द्वारा पहले निजी तौर पर निर्मित टोकामक के लिए डिज़ाइन 2027 में तैयार किए जा सकते हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-24"
+        },
+        {
+          "prompt": {
+            "en": "According to NASA's mission chief scientist Brad Cenko, what specific dense material components of the failing telescope are expected to survive atmospheric reentry?",
+            "hi": "नासा के मिशन के मुख्य वैज्ञानिक ब्रैड सेंको के अनुसार, असफल दूरबीन के किस विशिष्ट सघन सामग्री घटक के वायुमंडलीय पुनः प्रवेश से बचे रहने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Titanium alloy struts and carbon-fiber panels",
+                "hi": "टाइटेनियम मिश्र धातु स्ट्रट्स और कार्बन-फाइबर पैनल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Denser-than-lead tungsten and some mirror parts",
+                "hi": "सीसे से भी सघन टंगस्टन और कुछ दर्पण भाग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gold-plated reflectors and platinum wiring",
+                "hi": "गोल्ड-प्लेटेड रिफ्लेक्टर और प्लैटिनम वायरिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Stainless steel shielding and copper heat sinks",
+                "hi": "स्टेनलेस स्टील परिरक्षण और तांबे के हीट सिंक"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "NASA's Brad Cenko explained that while most of the 1 ½-ton telescope will burn up, pieces made of denser-than-lead tungsten and some mirror parts could survive reentry.\nSource: https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+            "hi": "नासा के ब्रैड सेंको ने बताया कि डेढ़ टन के टेलीस्कोप का ज्यादातर हिस्सा जल जाएगा, लेकिन सीसे से भी सघन टंगस्टन से बने टुकड़े और कुछ दर्पण वाले हिस्से दोबारा प्रवेश से बच सकते हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-25"
+        },
+        {
+          "prompt": {
+            "en": "According to the scientific description of everyday objects like umbrellas and springs, what physical process occurs when you close an umbrella?",
+            "hi": "छतरियों और स्प्रिंग्स जैसी रोजमर्रा की वस्तुओं के वैज्ञानिक विवरण के अनुसार, जब आप छाते को बंद करते हैं तो कौन सी शारीरिक प्रक्रिया होती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "You release all stored thermal energy into the atmosphere.",
+                "hi": "आप सभी संग्रहीत तापीय ऊर्जा को वायुमंडल में छोड़ देते हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "You compress the spring and store mechanical energy in it.",
+                "hi": "आप स्प्रिंग को संपीड़ित करते हैं और उसमें यांत्रिक ऊर्जा संग्रहीत करते हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "You expand the cylindrical rod to its maximum potential length.",
+                "hi": "आप बेलनाकार छड़ को उसकी अधिकतम संभावित लंबाई तक विस्तारित करते हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "You discharge magnetic forces stored within the metal spiral.",
+                "hi": "आप धातु सर्पिल के भीतर संग्रहीत चुंबकीय बलों का निर्वहन करते हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explains that when you close an umbrella, you compress the spring and store energy in it, mirroring how mechanical energy is stored in spiral-wound metal wires.\nSource: https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+            "hi": "अंश बताता है कि जब आप एक छाता बंद करते हैं, तो आप स्प्रिंग को संपीड़ित करते हैं और उसमें ऊर्जा संग्रहीत करते हैं, यह दर्शाता है कि सर्पिल-घाव वाले धातु के तारों में यांत्रिक ऊर्जा कैसे संग्रहीत होती है।\nस्रोत: https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-26"
+        },
+        {
+          "prompt": {
+            "en": "From which space center did ISRO launch the NVS-03 navigation satellite on October 30, 2026?",
+            "hi": "30 अक्टूबर, 2026 को इसरो ने किस अंतरिक्ष केंद्र से NVS-03 नेविगेशन उपग्रह लॉन्च किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vikram Sarabhai Space Centre in Thiruvananthapuram",
+                "hi": "तिरुवनंतपुरम में विक्रम साराभाई अंतरिक्ष केंद्र"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Kulasekarapattinam Spaceport in Tamil Nadu",
+                "hi": "तमिलनाडु में कुलसेकरपट्टिनम स्पेसपोर्ट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Dr. Abdul Kalam Island launch facility in Odisha",
+                "hi": "ओडिशा में डॉ. अब्दुल कलाम द्वीप प्रक्षेपण सुविधा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Satish Dhawan Space Centre in Sriharikota",
+                "hi": "श्रीहरिकोटा में सतीश धवन अंतरिक्ष केंद्र"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The text explicitly states that ISRO successfully launched the NVS-03 navigation satellite from the Satish Dhawan Space Centre in Sriharikota.\nSource: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+            "hi": "पाठ में स्पष्ट रूप से कहा गया है कि इसरो ने श्रीहरिकोटा के सतीश धवन अंतरिक्ष केंद्र से एनवीएस-03 नेविगेशन उपग्रह को सफलतापूर्वक लॉन्च किया।\nस्रोत: https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-27"
+        },
+        {
+          "prompt": {
+            "en": "What is a tokamak, as described in connection with Bengaluru-based startup Pranos Fusion?",
+            "hi": "टोकामक क्या है, जैसा कि बेंगलुरु स्थित स्टार्टअप प्रानोस फ्यूजन के संबंध में बताया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A nuclear reactor that uses fusion to produce energy",
+                "hi": "एक परमाणु रिएक्टर जो ऊर्जा उत्पादन के लिए संलयन का उपयोग करता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An advanced satellite thruster for deep space probes",
+                "hi": "गहरे अंतरिक्ष जांच के लिए एक उन्नत उपग्रह थ्रस्टर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A high-altitude atmospheric research balloon",
+                "hi": "एक उच्च ऊंचाई वाला वायुमंडलीय अनुसंधान गुब्बारा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A subterranean particle accelerator for quantum experiments",
+                "hi": "क्वांटम प्रयोगों के लिए एक भूमिगत कण त्वरक"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text defines a tokamak as a nuclear reactor that uses fusion to produce energy.\nSource: https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+            "hi": "पाठ टोकामक को एक परमाणु रिएक्टर के रूप में परिभाषित करता है जो ऊर्जा उत्पन्न करने के लिए संलयन का उपयोग करता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-28"
+        },
+        {
+          "prompt": {
+            "en": "What was the fate of the NASA telescope following a failed rescue mission?",
+            "hi": "एक असफल बचाव अभियान के बाद नासा दूरबीन का भाग्य क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It successfully docked with the International Space Station for repairs.",
+                "hi": "यह मरम्मत के लिए अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के साथ सफलतापूर्वक जुड़ गया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It was successfully maneuvered into a higher stable parking orbit.",
+                "hi": "इसे सफलतापूर्वक उच्चतर स्थिर पार्किंग कक्षा में स्थापित किया गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is on the verge of plunging back to Earth after a failed rescue mission.",
+                "hi": "एक असफल बचाव अभियान के बाद यह वापस पृथ्वी पर गिरने की कगार पर है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was decommissioned and safely guided into the southern ocean graveyard.",
+                "hi": "इसे सेवामुक्त कर दिया गया और सुरक्षित रूप से दक्षिणी महासागर के कब्रिस्तान में ले जाया गया।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title of source 17 clearly indicates that the NASA telescope is on the verge of plunging back to Earth after a failed rescue mission.\nSource: https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+            "hi": "स्रोत 17 का शीर्षक स्पष्ट रूप से इंगित करता है कि नासा दूरबीन एक असफल बचाव अभियान के बाद पृथ्वी पर वापस गिरने की कगार पर है।\nस्रोत: https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-29"
+        },
+        {
+          "prompt": {
+            "en": "Following a massive cyber-attack involving a $6.3 billion hack on crypto firm Binance, what percentage of losses did the firm cover?",
+            "hi": "क्रिप्टो फर्म बिनेंस पर 6.3 बिलियन डॉलर के बड़े साइबर हमले के बाद, फर्म ने कितने प्रतिशत नुकसान की भरपाई की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "50%",
+                "hi": "50%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "90%",
+                "hi": "90%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "75%",
+                "hi": "75%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "100%",
+                "hi": "100%"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source title and text note that crypto firm Binance covers 90% of losses after the $6.3bn hack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत शीर्षक और पाठ नोट में बताया गया है कि क्रिप्टो फर्म बिनेंस $6.3 बिलियन की हैक के बाद 90% नुकसान को कवर करती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-30"
+        },
+        {
+          "prompt": {
+            "en": "According to the Federal Bureau of Investigation (FBI), which nation was responsible for the massive $6.3 billion hack on crypto firm Binance?",
+            "hi": "संघीय जांच ब्यूरो (एफबीआई) के अनुसार, क्रिप्टो फर्म बिनेंस पर 6.3 बिलियन डॉलर की भारी हैक के लिए कौन सा देश जिम्मेदार था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "China",
+                "hi": "चीन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Russia",
+                "hi": "रूस"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Iran",
+                "hi": "ईरान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "North Korea",
+                "hi": "उत्तर कोरिया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Federal Bureau of Investigation (FBI) stated that North Korea was responsible for the Binance hack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+            "hi": "संघीय जांच ब्यूरो (एफबीआई) ने कहा कि बिनेंस हैक के लिए उत्तर कोरिया जिम्मेदार था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-31"
+        },
+        {
+          "prompt": {
+            "en": "Which rare creature was found in Wales again after 60 years, easing fears of its extinction?",
+            "hi": "वेल्स में 60 साल बाद फिर से कौन सा दुर्लभ जीव पाया गया, जिससे इसके विलुप्त होने की आशंका कम हो गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Short-Necked Oil Beetle",
+                "hi": "छोटी गर्दन वाला तेल भृंग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Greater Horseshoe Bat",
+                "hi": "ग्रेटर हॉर्सशू बैट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Red-Billed Chough",
+                "hi": "रेड-बिल्ड चॉ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Scottish Wildcat",
+                "hi": "स्कॉटिश वाइल्डकैट"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report states that the Short-Necked Oil Beetle was found in Wales again after 60 years, easing extinction fears.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि शॉर्ट-नेक्ड ऑयल बीटल 60 साल बाद फिर से वेल्स में पाई गई, जिससे विलुप्त होने की आशंका कम हो गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-32"
+        },
+        {
+          "prompt": {
+            "en": "Amid cost-of-living protests that turned violent and involved shop looting in German cities like Berlin, Hamburg, and Frankfurt, hundreds of thousands also protested on the same day in which neighboring country?",
+            "hi": "बर्लिन, हैम्बर्ग और फ्रैंकफर्ट जैसे जर्मन शहरों में जीवन-यापन की लागत वाले विरोध प्रदर्शनों के हिंसक होने और दुकानों में लूटपाट होने के बीच, उसी दिन किस पड़ोसी देश में सैकड़ों हजारों लोगों ने विरोध प्रदर्शन किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Poland",
+                "hi": "पोलैंड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "France",
+                "hi": "फ़्रांस"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Italy",
+                "hi": "इटली"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Spain",
+                "hi": "स्पेन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The report notes that protests in German cities came on the same day hundreds of thousands also protested in France.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि जर्मन शहरों में विरोध प्रदर्शन उसी दिन हुआ, जिस दिन फ्रांस में भी हजारों लोगों ने विरोध प्रदर्शन किया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-02-33"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-02T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mayor Priya inaugurates ₹5.35-crorecivic projects",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/mayor-priya-inaugurates-535-crorecivic-projects/article71652582.ece",
+      "published": "2026-11-01T23:33:55+05:30"
+    },
+    {
+      "title": "SEC orders repolling in four wards across three ULBs",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sec-orders-repolling-in-four-wards-across-three-ulbs/article71653960.ece",
+      "published": "2026-11-01T23:29:57+05:30"
+    },
+    {
+      "title": "El Nino: Telangana employees seek five-day work week",
+      "url": "https://www.thehindu.com/news/national/telangana/el-nino-hyderabad-employees-seek-five-day-work-week/article71652504.ece",
+      "published": "2026-11-01T23:17:48+05:30"
+    },
+    {
+      "title": "Traffic restrictions in place across central Hyderabad on November 2; BJP padayatra from BJR Statue to MJ Market",
+      "url": "https://www.thehindu.com/news/national/telangana/traffic-restrictions-in-place-across-central-hyderabad-for-bjp-padayatra-on-november-2/article71653037.ece",
+      "published": "2026-11-01T23:16:46+05:30"
+    },
+    {
+      "title": "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
+      "url": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
+      "published": "2026-11-01T23:02:59+05:30"
+    },
+    {
+      "title": "RJD and JSP call for disqualification of independent MLCs who ‘joined’ BJP",
+      "url": "https://www.thehindu.com/news/national/bihar/rjd-and-jsp-call-for-disqualification-of-independent-mlcs-who-joined-bjp/article71653634.ece",
+      "published": "2026-11-01T22:58:48+05:30"
+    },
+    {
+      "title": "VBJ to look at going public in 3 to 4 years",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/vbj-to-look-at-going-public-in-3-to-4-years/article71653688.ece",
+      "published": "2026-11-01T22:29:52+05:30"
+    },
+    {
+      "title": "Coal India’s production increases 19% as mining recovers after monsoon slump",
+      "url": "https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece",
+      "published": "2026-11-01T22:06:30+05:30"
+    },
+    {
+      "title": "GST mop-up surges 23% to second-highest level of ₹2.31 lakh crore in October on festive demand boost",
+      "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+      "published": "2026-11-01T20:22:50+05:30"
+    },
+    {
+      "title": "FPIs pull out ₹34,843 crore from Indian equities in October, but turn net buyers end of the month",
+      "url": "https://www.thehindu.com/business/markets/fpis-pull-out-34843-crore-from-indian-equities-in-october-but-turn-net-buyers-end-of-the-month/article71653063.ece",
+      "published": "2026-11-01T19:51:56+05:30"
+    },
+    {
+      "title": "Domestic PV dispatches cross five-lakh units mark in October on strong festive demand",
+      "url": "https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece",
+      "published": "2026-11-01T18:53:05+05:30"
+    },
+    {
+      "title": "Commercial LPG prices hiked ₹10/cylinder; ATF hiked ₹1.37/litre",
+      "url": "https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece",
+      "published": "2026-11-01T18:17:36+05:30"
+    },
+    {
+      "title": "Beyond Cyclone Arnab: can India tackle the growing cost of natural disasters? | Insight India",
+      "url": "https://www.thehindu.com/videos/shows/beyond-cyclone-arnab-can-india-tackle-the-growing-cost-of-natural-disasters-insight-india/article71650324.ece",
+      "published": "2026-10-31T20:58:14+05:30"
+    },
+    {
+      "title": "On umbrellas, springs, and superconductivity",
+      "url": "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+      "published": "2026-10-31T19:21:11+05:30"
+    },
+    {
+      "title": "India’s first fusion power company takes key steps",
+      "url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+      "published": "2026-10-31T19:19:34+05:30"
+    },
+    {
+      "title": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
+      "url": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+      "published": "2026-10-31T18:27:13+05:30"
+    },
+    {
+      "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+      "published": "2026-10-31T15:59:18+05:30"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:00:55+00:00"
+    },
+    {
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:06:05+00:00"
+    },
+    {
+      "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T00:02:35+00:00"
+    },
+    {
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T13:11:37+00:00"
+    },
+    {
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T18:04:52+00:00"
+    },
+    {
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T11:57:48+00:00"
+    }
+  ]
+}
