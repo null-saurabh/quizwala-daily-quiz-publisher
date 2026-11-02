@@ -1,0 +1,1890 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "generated_at": "2026-11-02T21:56:24.732008+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Governance and Regional Disasters",
+      "source_filename": "daily-2026-11-03.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What specific administrative trigger prompted the Maharashtra government to declare drought in certain talukas during the Kharif season?",
+            "hi": "किस विशिष्ट प्रशासनिक कारण ने महाराष्ट्र सरकार को ख़रीफ़ सीज़न के दौरान कुछ तालुकाओं में सूखा घोषित करने के लिए प्रेरित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kharif season’s Trigger-1 assessment",
+                "hi": "ख़रीफ़ सीज़न का ट्रिगर-1 आकलन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rabi season moisture index analysis",
+                "hi": "रबी मौसम की नमी सूचकांक विश्लेषण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pre-monsoon crop yield estimation report",
+                "hi": "प्री-मानसून फसल उपज अनुमान रिपोर्ट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Post-monsoon groundwater depletion survey",
+                "hi": "मानसून के बाद भूजल की कमी का सर्वेक्षण"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Maharashtra government declared drought in specific talukas after deficient rainfall in 2026, based on talukas identified under the Kharif season's Trigger-1 assessment.\nSource: https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
+            "hi": "महाराष्ट्र सरकार ने 2026 में कम वर्षा के बाद, ख़रीफ़ सीज़न के ट्रिगर-1 मूल्यांकन के तहत पहचाने गए तालुकाओं के आधार पर, विशिष्ट तालुकाओं में सूखे की घोषणा की।\nस्रोत: https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-1"
+        },
+        {
+          "prompt": {
+            "en": "Which airports experienced cancellations of at least 19 domestic flights due to the intensification of cyclone Murasu?",
+            "hi": "चक्रवात मुरासु की तीव्रता के कारण किन हवाई अड्डों पर कम से कम 19 घरेलू उड़ानें रद्द की गईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Chennai, Madurai, and Coimbatore airports",
+                "hi": "चेन्नई, मदुरै और कोयंबटूर हवाई अड्डे"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Vijayawada, Tirupati and Visakhapatnam airports",
+                "hi": "विजयवाड़ा, तिरूपति और विशाखापत्तनम हवाई अड्डे"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Hyderabad, Bengaluru, and Chennai airports",
+                "hi": "हैदराबाद, बेंगलुरु और चेन्नई हवाई अड्डे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rajahmundry, Kadapa, and Kurnool airports",
+                "hi": "राजमुंदरी, कडप्पा और कुरनूल हवाई अड्डे"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "As cyclone Murasu intensified and brought heavy rain, at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam airports.\nSource: https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+            "hi": "जैसे ही चक्रवात मुरासु तेज हुआ और भारी बारिश हुई, विजयवाड़ा, तिरुपति और विशाखापत्तनम हवाई अड्डों पर कम से कम 19 घरेलू उड़ानें रद्द कर दी गईं।\nस्रोत: https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-2"
+        },
+        {
+          "prompt": {
+            "en": "According to BJP president Nitin Nabin, what was the primary accusation leveled against the Congress party regarding constitutional bodies?",
+            "hi": "बीजेपी अध्यक्ष नितिन नबीन के मुताबिक संवैधानिक संस्थाओं को लेकर कांग्रेस पार्टी पर लगाया गया प्राथमिक आरोप क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Attempting to privatize all public sector banking institutions",
+                "hi": "सभी सार्वजनिक क्षेत्र के बैंकिंग संस्थानों का निजीकरण करने का प्रयास"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Undermining federal fiscal devolution policies across opposition-ruled states",
+                "hi": "विपक्षी शासित राज्यों में संघीय राजकोषीय हस्तांतरण नीतियों को कमजोर करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Trying to spread anarchy in the entire country, by targeting constitutional institutions of the country",
+                "hi": "देश की संवैधानिक संस्थाओं को निशाना बनाकर पूरे देश में अराजकता फैलाने की कोशिश की जा रही है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Failing to implement agricultural reform measures in rural constituencies",
+                "hi": "ग्रामीण निर्वाचन क्षेत्रों में कृषि सुधार उपायों को लागू करने में विफल होना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "BJP president Nitin Nabin accused the Congress of trying to spread anarchy across the nation by specifically targeting constitutional institutions.\nSource: https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece",
+            "hi": "भाजपा अध्यक्ष नितिन नबीन ने कांग्रेस पर विशेष रूप से संवैधानिक संस्थानों को निशाना बनाकर देश भर में अराजकता फैलाने की कोशिश करने का आरोप लगाया।\nस्रोत: https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-3"
+        },
+        {
+          "prompt": {
+            "en": "What primary local safety hazard did villagers highlight prior to the tragic electrocution incident involving labourers in Rajasthan?",
+            "hi": "राजस्थान में मजदूरों से जुड़ी दुखद विद्युत दुर्घटना की घटना से पहले ग्रामीणों ने किस प्राथमिक स्थानीय सुरक्षा खतरे पर प्रकाश डाला था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Exposed transformer terminals lacking mandatory perimeter fencing",
+                "hi": "खुले ट्रांसफार्मर टर्मिनलों में अनिवार्य परिधि बाड़ की कमी है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Unprotected underground cables running beneath the active construction zone",
+                "hi": "सक्रिय निर्माण क्षेत्र के नीचे असुरक्षित भूमिगत केबल चल रहे हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Defective generator sets installed without grounding or circuit breakers",
+                "hi": "ग्राउंडिंग या सर्किट ब्रेकर के बिना स्थापित दोषपूर्ण जनरेटर सेट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "High-tension power lines were touching trees and substation staff were unavailable",
+                "hi": "हाई-टेंशन बिजली लाइनें पेड़ों को छू रही थीं और सबस्टेशन के कर्मचारी उपलब्ध नहीं थे"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Villagers stated that power lines were touching trees and that no staff members were present at the Grid Sub-Station when contacted to disconnect the electricity supply.\nSource: https://www.thehindu.com/news/national/rajasthan/labourers-electrocuted-in-jhunjhunu-rajasthan-while-working-on-road-construction-project/article71655841.ece",
+            "hi": "ग्रामीणों ने कहा कि बिजली की लाइनें पेड़ों को छू रही थीं और जब बिजली आपूर्ति बंद करने के लिए ग्रिड सब-स्टेशन से संपर्क किया गया तो वहां कोई भी कर्मचारी मौजूद नहीं था।\nस्रोत: https://www.thehindu.com/news/national/rajasthan/labourers-electrocuted-in-jhunjhunu-rajasthan-while-working-on-road-construction-project/article71655841.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/labourers-electrocuted-in-jhunjhunu-rajasthan-while-working-on-road-construction-project/article71655841.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-4"
+        },
+        {
+          "prompt": {
+            "en": "In the Dewas incident where a police inspector was mowed down, where was the illicit liquor being smuggled from and to?",
+            "hi": "देवास की घटना में जहां एक पुलिस इंस्पेक्टर को कुचल दिया गया, अवैध शराब की तस्करी कहां से और कहां की जा रही थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Smuggled from Dewas district to Madhya Pradesh capital",
+                "hi": "देवास जिले से मध्य प्रदेश की राजधानी तक तस्करी की गई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Smuggled from Bhopal district to Maharashtra",
+                "hi": "भोपाल जिले से महाराष्ट्र तक तस्करी की गई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Smuggled from Indore district to Rajasthan",
+                "hi": "इंदौर जिले से राजस्थान में तस्करी की गई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Smuggled from Harda district to Gujarat",
+                "hi": "हरदा जिले से गुजरात तक तस्करी की गई"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Police reported that the illicit liquor transported by the truck involved in mowing down the police inspector was being smuggled from Harda district to Gujarat.\nSource: https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece",
+            "hi": "पुलिस ने बताया कि पुलिस इंस्पेक्टर को कुचलने वाले ट्रक से अवैध शराब हरदा जिले से तस्करी कर गुजरात ले जाई जा रही थी।\nस्रोत: https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-5"
+        },
+        {
+          "prompt": {
+            "en": "What specific financial practice regarding the IDBI Bank sale was questioned by the opposition party?",
+            "hi": "विपक्षी दल ने आईडीबीआई बैंक की बिक्री के संबंध में किस विशिष्ट वित्तीय प्रथा पर सवाल उठाया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The inflation of asset values prior to public market flotation",
+                "hi": "सार्वजनिक बाज़ार प्रवाह से पहले परिसंपत्ति मूल्यों की मुद्रास्फीति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The direct transfer of sovereign equity reserves to foreign entities",
+                "hi": "संप्रभु इक्विटी भंडार का विदेशी संस्थाओं को सीधा हस्तांतरण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The exclusion of retail investors from bidding processes",
+                "hi": "खुदरा निवेशकों को बोली प्रक्रियाओं से बाहर करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The use of bank’s funds by Fairfax to finance acquisition",
+                "hi": "अधिग्रहण के वित्तपोषण के लिए फेयरफैक्स द्वारा बैंक के धन का उपयोग"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Congress party questioned the use of the bank's own funds by Fairfax to finance the acquisition and demanded the disclosure of valuation reports.\nSource: https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece",
+            "hi": "कांग्रेस पार्टी ने अधिग्रहण के वित्तपोषण के लिए फेयरफैक्स द्वारा बैंक के स्वयं के धन के उपयोग पर सवाल उठाया और मूल्यांकन रिपोर्ट के खुलासे की मांग की।\nस्रोत: https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-6"
+        },
+        {
+          "prompt": {
+            "en": "The Supreme Court dismissed the Union government's challenge against an order allowing which entities to enforce foreign arbitration awards?",
+            "hi": "सर्वोच्च न्यायालय ने किस संस्था को विदेशी मध्यस्थता पुरस्कारों को लागू करने की अनुमति देने वाले आदेश के खिलाफ केंद्र सरकार की चुनौती को खारिज कर दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vedanta Ltd. and Ravva Oil (Singapore) Pte. Ltd.",
+                "hi": "वेदांता लिमिटेड और राव्वा ऑयल (सिंगापुर) पीटीई। लिमिटेड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cairn India and Singapore Petroleum Company",
+                "hi": "केयर्न इंडिया और सिंगापुर पेट्रोलियम कंपनी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Reliance Industries Ltd. and Niko Resources",
+                "hi": "रिलायंस इंडस्ट्रीज लिमिटेड और निको रिसोर्सेज"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "ONGC Videsh and Mitsui Oil Exploration Co.",
+                "hi": "ओएनजीसी विदेश और मित्सुई ऑयल एक्सप्लोरेशन कंपनी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Supreme Court dismissed the Union government's challenge to a Delhi High Court order that permitted Vedanta Ltd. and Ravva Oil (Singapore) Pte. Ltd. to enforce foreign arbitration awards.\nSource: https://www.thehindu.com/news/national/supreme-court-raps-centre-for-stalling-enforcement-of-vedanta-arbitration-awards/article71656332.ece",
+            "hi": "सुप्रीम कोर्ट ने दिल्ली उच्च न्यायालय के उस आदेश के खिलाफ केंद्र सरकार की चुनौती को खारिज कर दिया, जिसमें वेदांता लिमिटेड और राव्वा ऑयल (सिंगापुर) पीटीई को अनुमति दी गई थी। लिमिटेड विदेशी मध्यस्थता पुरस्कारों को लागू करने के लिए।\nस्रोत: https://www.thehindu.com/news/national/supreme-court-raps-centre-for-stalling-enforcement-of-vedanta-arbitration-awards/article71656332.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/news/national/supreme-court-raps-centre-for-stalling-enforcement-of-vedanta-arbitration-awards/article71656332.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-7"
+        },
+        {
+          "prompt": {
+            "en": "According to editorial assessments of the ISRO GSLV-F18 mission, what fundamental requirement must be addressed to fulfill its mandate?",
+            "hi": "इसरो जीएसएलवी-एफ18 मिशन के संपादकीय आकलन के अनुसार, इसके अधिदेश को पूरा करने के लिए किस मूलभूत आवश्यकता पर ध्यान दिया जाना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The organization must completely outsource launch vehicle manufacturing",
+                "hi": "संगठन को लॉन्च वाहन निर्माण को पूरी तरह से आउटसोर्स करना होगा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "ISRO needs more human and material resources to fulfil its mandate",
+                "hi": "इसरो को अपने अधिदेश को पूरा करने के लिए अधिक मानव और भौतिक संसाधनों की आवश्यकता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Space agency funding should be diverted entirely to commercial payloads",
+                "hi": "अंतरिक्ष एजेंसी की फंडिंग को पूरी तरह से वाणिज्यिक पेलोड में स्थानांतरित किया जाना चाहिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "International partnerships must replace domestic rocket development",
+                "hi": "अंतर्राष्ट्रीय साझेदारियों को घरेलू रॉकेट विकास का स्थान लेना चाहिए"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The editorial notes that despite recovery efforts, ISRO requires additional human and material resources to effectively fulfill its expansive mandate.\nSource: https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
+            "hi": "संपादकीय में कहा गया है कि पुनर्प्राप्ति प्रयासों के बावजूद, इसरो को अपने व्यापक जनादेश को प्रभावी ढंग से पूरा करने के लिए अतिरिक्त मानव और भौतिक संसाधनों की आवश्यकता है।\nस्रोत: https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-8"
+        },
+        {
+          "prompt": {
+            "en": "What unexpected stellar phenomenon was revealed by the European Space Agency's Gaia mission data?",
+            "hi": "यूरोपीय अंतरिक्ष एजेंसी के गैया मिशन डेटा से कौन सी अप्रत्याशित तारकीय घटना का पता चला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "‘starquakes’—massive tsunami-like movements on the surface of stars",
+                "hi": "'स्टारक्वेक'-तारों की सतह पर भारी सुनामी जैसी हलचलें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Black hole mergers emitting gravitational ripples across galactic arms",
+                "hi": "ब्लैक होल का विलय आकाशगंगा की भुजाओं में गुरुत्वाकर्षण तरंगें उत्सर्जित करता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Planetary rings forming around white dwarf stellar remnants",
+                "hi": "सफेद बौने तारकीय अवशेषों के चारों ओर ग्रहों के छल्ले बन रहे हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Magnetic field reversals occurring in neutron star cores",
+                "hi": "न्यूट्रॉन स्टार कोर में होने वाला चुंबकीय क्षेत्र उत्क्रमण"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Data released by the European Space Agency's Gaia mission revealed 'starquakes', which are massive tsunami-like movements occurring on the surface of stars.\nSource: https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece",
+            "hi": "यूरोपीय अंतरिक्ष एजेंसी के गैया मिशन द्वारा जारी आंकड़ों से 'स्टारक्वेक' का पता चला, जो तारों की सतह पर होने वाली सुनामी जैसी विशाल हलचलें हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-9"
+        },
+        {
+          "prompt": {
+            "en": "What was the medical status of the young victim following a violent classroom assault incident reported from India?",
+            "hi": "भारत से रिपोर्ट की गई एक हिंसक कक्षा हमले की घटना के बाद युवा पीड़ित की चिकित्सा स्थिति क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Critically ill and dependent on life support systems",
+                "hi": "गंभीर रूप से बीमार और जीवन समर्थन प्रणालियों पर निर्भर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fully recovered with no physical or psychological scars",
+                "hi": "बिना किसी शारीरिक या मनोवैज्ञानिक घाव के पूरी तरह से ठीक हो गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Transferred abroad for specialized neurological rehabilitation",
+                "hi": "विशेष न्यूरोलॉजिकल पुनर्वास के लिए विदेश स्थानांतरित किया गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Seriously injured, out of danger, but remains traumatised by her assault",
+                "hi": "गंभीर रूप से घायल, खतरे से बाहर, लेकिन उसके हमले से सदमे में है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "According to her family, the young girl who suffered serious injuries in the classroom assault is out of danger but remains traumatized.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": "उसके परिवार के अनुसार, कक्षा में हमले में गंभीर रूप से घायल हुई युवा लड़की खतरे से बाहर है लेकिन सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Governance and Regional Disasters",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-10"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-03T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business and Finance",
+      "source_filename": "daily-2026-11-03.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to Finance Minister Nirmala Sitharaman, what shift in national discourse is necessary regarding India's economic path?",
+            "hi": "वित्त मंत्री निर्मला सीतारमण के मुताबिक भारत की आर्थिक राह को लेकर राष्ट्रीय विमर्श में क्या बदलाव जरूरी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India must to talk with optimism and there needs to be reduction in cynicism",
+                "hi": "भारत को आशावाद के साथ बात करनी होगी और संशयवाद में कमी लानी होगी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Economic projections must account for recurring global inflationary shocks",
+                "hi": "आर्थिक अनुमानों को बार-बार होने वाले वैश्विक मुद्रास्फीति के झटकों का हिसाब देना चाहिए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Fiscal deficits must be expanded indefinitely to support public consumption",
+                "hi": "सार्वजनिक उपभोग को समर्थन देने के लिए राजकोषीय घाटे को अनिश्चित काल तक बढ़ाया जाना चाहिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Private sector investments should completely replace governmental capital expenditure",
+                "hi": "निजी क्षेत्र के निवेश को पूरी तरह से सरकारी पूंजीगत व्यय का स्थान लेना चाहिए"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Finance Minister emphasized that India must talk with optimism and that there needs to be a reduction in cynicism.\nSource: https://www.thehindu.com/business/Economy/capex-push-to-continue-but-fiscal-prudence-non-negotiable-fm/article71657701.ece",
+            "hi": "वित्त मंत्री ने इस बात पर जोर दिया कि भारत को आशावाद के साथ बात करनी चाहिए और संशयवाद में कमी लाने की जरूरत है।\nस्रोत: https://www.thehindu.com/business/Economy/capex-push-to-continue-but-fiscal-prudence-non-negotiable-fm/article71657701.ece"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/capex-push-to-continue-but-fiscal-prudence-non-negotiable-fm/article71657701.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-11"
+        },
+        {
+          "prompt": {
+            "en": "How did Birla Estates MD and CEO K.T. Jithendran describe current market conditions for pricing and absorption?",
+            "hi": "बिड़ला एस्टेट के एमडी और सीईओ के.टी. जितेंद्रन मूल्य निर्धारण और अवशोषण के लिए वर्तमान बाजार स्थितियों का वर्णन करते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Extremely steady and positive with no sign of slowness",
+                "hi": "अत्यंत स्थिर और सकारात्मक, धीमेपन का कोई संकेत नहीं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Experiencing a severe contraction due to oversupply in commercial sectors",
+                "hi": "वाणिज्यिक क्षेत्रों में अत्यधिक आपूर्ति के कारण गंभीर संकुचन का अनुभव हो रहा है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Volatile and vulnerable to sudden interest rate fluctuations",
+                "hi": "अस्थिर और अचानक ब्याज दर में उतार-चढ़ाव के प्रति संवेदनशील"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sluggish across urban residential clusters but growing in semi-urban areas",
+                "hi": "शहरी आवासीय समूहों में सुस्ती है लेकिन अर्ध-शहरी क्षेत्रों में वृद्धि हो रही है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "K.T. Jithendran stated that there is no sign of slowness in the market because both pricing and absorption remain extremely steady and positive.\nSource: https://www.thehindu.com/business/Industry/birla-estates-eyes-top-three-spot-targets-10-fold-jump-in-office-rentals/article71657502.ece",
+            "hi": "के.टी. जितेंद्रन ने कहा कि बाजार में सुस्ती का कोई संकेत नहीं है क्योंकि मूल्य निर्धारण और अवशोषण दोनों बेहद स्थिर और सकारात्मक बने हुए हैं।\nस्रोत: https://www.thehindu.com/business/Industry/birla-estates-eyes-top-three-spot-targets-10-fold-jump-in-office-rentals/article71657502.ece"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/birla-estates-eyes-top-three-spot-targets-10-fold-jump-in-office-rentals/article71657502.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-12"
+        },
+        {
+          "prompt": {
+            "en": "According to Granules India CMD Chigurupati, what primary geopolitical factor drove higher input and logistics costs?",
+            "hi": "ग्रेन्यूल्स इंडिया के सीएमडी चिगुरुपति के अनुसार, किस प्राथमिक भू-राजनीतिक कारक ने उच्च इनपुट और लॉजिस्टिक्स लागत को प्रेरित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Latin American currency devaluation crises",
+                "hi": "लैटिन अमेरिकी मुद्रा अवमूल्यन संकट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "East European supply chain disruptions",
+                "hi": "पूर्वी यूरोपीय आपूर्ति श्रृंखला में व्यवधान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "South China Sea maritime trade restrictions",
+                "hi": "दक्षिण चीन सागर समुद्री व्यापार प्रतिबंध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "West Asia tensions",
+                "hi": "पश्चिम एशिया तनाव"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Granules India's CMD noted that higher input and logistics costs were driven by West Asia tensions, though revenue still crossed ₹1,500 crore.\nSource: https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece",
+            "hi": "ग्रेन्यूल्स इंडिया के सीएमडी ने कहा कि उच्च इनपुट और लॉजिस्टिक्स लागत पश्चिम एशिया तनाव के कारण हुई, हालांकि राजस्व अभी भी ₹1,500 करोड़ से अधिक है।\nस्रोत: https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-13"
+        },
+        {
+          "prompt": {
+            "en": "What specific geopolitical conflict did Ryanair warn could cause fuel prices to rise by €2 billion in 2028?",
+            "hi": "रयानएयर ने किस विशिष्ट भू-राजनीतिक संघर्ष के बारे में चेतावनी दी कि 2028 में ईंधन की कीमतें €2 बिलियन तक बढ़ सकती हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The ongoing territorial dispute in the South China Sea",
+                "hi": "दक्षिण चीन सागर में चल रहा क्षेत्रीय विवाद"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The prolonged civil conflict in the Horn of Africa",
+                "hi": "हॉर्न ऑफ़ अफ़्रीका में लंबे समय तक चला नागरिक संघर्ष"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The US-Israel war with Iran",
+                "hi": "ईरान के साथ अमेरिका-इजरायल युद्ध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The energy transit disputes in Eastern Europe",
+                "hi": "पूर्वी यूरोप में ऊर्जा पारगमन विवाद"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Ryanair stated that fuel prices may rise significantly by 2028 unless there is an end to the US-Israel war with Iran.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+            "hi": "रयानएयर ने कहा कि जब तक ईरान के साथ अमेरिका-इजरायल युद्ध समाप्त नहीं होता, तब तक ईंधन की कीमतें 2028 तक काफी बढ़ सकती हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-14"
+        },
+        {
+          "prompt": {
+            "en": "What investment intention was expressed by Steve Smith regarding the retail firm he originally founded in Wolverhampton?",
+            "hi": "स्टीव स्मिथ ने मूल रूप से वॉल्वरहैम्प्टन में स्थापित खुदरा फर्म के संबंध में क्या निवेश का इरादा व्यक्त किया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He plans to acquire majority voting shares from international creditors",
+                "hi": "वह अंतरराष्ट्रीय ऋणदाताओं से बहुमत वोटिंग शेयर हासिल करने की योजना बना रहा है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He wants to put some money back into the firm he started",
+                "hi": "वह अपनी शुरू की गई फर्म में कुछ पैसे वापस लगाना चाहता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He intends to liquidate remaining physical store inventories",
+                "hi": "वह शेष भौतिक भंडार सूची को समाप्त करने का इरादा रखता है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He has offered to underwrite corporate debt restructuring completely",
+                "hi": "उन्होंने कॉर्पोरेट ऋण पुनर्गठन को पूरी तरह से अंडरराइट करने की पेशकश की है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Steve Smith of Wolverhampton announced his desire to put some money back into the firm he originally started.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+            "hi": "वॉल्वरहैम्प्टन के स्टीव स्मिथ ने उस फर्म में कुछ पैसे वापस लगाने की इच्छा व्यक्त की जिसे उन्होंने मूल रूप से शुरू किया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-15"
+        },
+        {
+          "prompt": {
+            "en": "Following a major crypto hack resulting in massive withdrawals, which group was the incident linked to by investigators?",
+            "hi": "एक प्रमुख क्रिप्टो हैक के परिणामस्वरूप बड़े पैमाने पर निकासी के बाद, जांचकर्ताओं ने इस घटना को किस समूह से जोड़ा था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A state-sponsored Eastern European cyber syndicate",
+                "hi": "एक राज्य प्रायोजित पूर्वी यूरोपीय साइबर सिंडिकेट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A decentralized ransomware group operating from South America",
+                "hi": "दक्षिण अमेरिका से संचालित एक विकेन्द्रीकृत रैनसमवेयर समूह"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A North Korean group",
+                "hi": "एक उत्तर कोरियाई समूह"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An underground hacking collective based in Southeast Asia",
+                "hi": "दक्षिण पूर्व एशिया में स्थित एक भूमिगत हैकिंग समूह"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The crypto exchange froze transactions following a massive hack that investigations linked to a North Korean group.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+            "hi": "एक बड़े पैमाने पर हैक के बाद क्रिप्टो एक्सचेंज ने लेनदेन रोक दिया, जिसकी जांच उत्तर कोरियाई समूह से जुड़ी हुई थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-16"
+        },
+        {
+          "prompt": {
+            "en": "Under new financial rules regarding Buy Now Pay Later services, what could prevent consumers from utilizing them?",
+            "hi": "अभी खरीदें, बाद में भुगतान करें सेवाओं के संबंध में नए वित्तीय नियमों के तहत, उपभोक्ताओं को उनका उपयोग करने से कौन रोक सकता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mandatory annual subscription fees charged by payment processors",
+                "hi": "भुगतान प्रोसेसर द्वारा लिया जाने वाला अनिवार्य वार्षिक सदस्यता शुल्क"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "New affordability checks mean you could be blocked from using Buy Now Pay Later",
+                "hi": "नई सामर्थ्य जांच का मतलब है कि आपको अभी खरीदें, बाद में भुगतान करें का उपयोग करने से रोका जा सकता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Immediate full payment requirements at checkout",
+                "hi": "चेकआउट के समय तत्काल पूर्ण भुगतान की आवश्यकताएँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Complete prohibition of interest-free credit windows by regulators",
+                "hi": "नियामकों द्वारा ब्याज मुक्त क्रेडिट विंडो पर पूर्ण प्रतिबंध"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "New affordability checks have been introduced that could block consumers from using Buy Now Pay Later services.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+            "hi": "नई सामर्थ्य जांचें पेश की गई हैं जो उपभोक्ताओं को अभी खरीदें, बाद में भुगतान करें सेवाओं का उपयोग करने से रोक सकती हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-17"
+        },
+        {
+          "prompt": {
+            "en": "What workforce restructuring measure was reported regarding broadband firm Virgin Media O2?",
+            "hi": "ब्रॉडबैंड फर्म वर्जिन मीडिया O2 के संबंध में किस कार्यबल पुनर्गठन उपाय की सूचना दी गई थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mandatory relocation of engineering staff to overseas hubs",
+                "hi": "इंजीनियरिंग स्टाफ का विदेशी केंद्रों में अनिवार्य स्थानांतरण"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Set to cut thousands of jobs to reduce costs",
+                "hi": "लागत कम करने के लिए हज़ारों नौकरियों में कटौती की तैयारी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Wage freezes across all executive management cadres",
+                "hi": "सभी कार्यकारी प्रबंधन संवर्गों का वेतन रुका हुआ है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Transitioning all customer service personnel to freelance contracts",
+                "hi": "सभी ग्राहक सेवा कर्मियों को फ्रीलांस अनुबंधों में परिवर्तित करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Virgin Media O2 is set to cut thousands of jobs to reduce costs, though exact numbers have not yet been finalized.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+            "hi": "वर्जिन मीडिया O2 लागत कम करने के लिए हजारों नौकरियों में कटौती करने के लिए तैयार है, हालांकि सटीक संख्या अभी तक तय नहीं की गई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-18"
+        },
+        {
+          "prompt": {
+            "en": "The theft of cash from a farm owned by South African President Cyril Ramaphosa is associated with which political scandal?",
+            "hi": "दक्षिण अफ्रीका के राष्ट्रपति सिरिल रामफोसा के स्वामित्व वाले खेत से नकदी की चोरी किस राजनीतिक घोटाले से जुड़ी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The \"Farmgate\" scandal",
+                "hi": "\"फार्मगेट\" घोटाला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The \"State Capture\" inquiry commission",
+                "hi": "\"राज्य कब्ज़ा\" जांच आयोग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The \"Medupi Power\" procurement controversy",
+                "hi": "\"मेडुपी पावर\" खरीद विवाद"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The \"Marikana\" mining compensation dispute",
+                "hi": "\"मारीकाना\" खनन मुआवज़ा विवाद"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The case involving cash stolen from the South African president's farm is part of the 'Farmgate' scandal, which led to an impeachment saga.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+            "hi": "दक्षिण अफ़्रीकी राष्ट्रपति के खेत से नकदी चोरी होने का मामला 'फ़ार्मगेट' घोटाले का हिस्सा है, जिसके कारण महाभियोग की कहानी सामने आई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-19"
+        },
+        {
+          "prompt": {
+            "en": "For which criminal offense was Dutch drug lord Jos Leijdekkers found guilty in absentia, leading to a record reward offer?",
+            "hi": "डच ड्रग लॉर्ड जोस लीजडेकर्स को किस आपराधिक अपराध के लिए उसकी अनुपस्थिति में दोषी पाया गया, जिसके लिए रिकॉर्ड इनाम की पेशकश की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cocaine smuggling",
+                "hi": "कोकीन की तस्करी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "International arms trafficking and money laundering",
+                "hi": "अंतर्राष्ट्रीय हथियारों की तस्करी और मनी लॉन्ड्रिंग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cyber extortion and cryptocurrency theft",
+                "hi": "साइबर जबरन वसूली और क्रिप्टोकरेंसी चोरी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Counterfeiting sovereign currency notes",
+                "hi": "संप्रभु मुद्रा नोटों की जालसाजी करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Jos Leijdekkers was found guilty in absentia of cocaine smuggling and is believed to be hiding in Sierra Leone.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+            "hi": "जोस लीजडेकर्स को उसकी अनुपस्थिति में कोकीन तस्करी का दोषी पाया गया था और माना जाता है कि वह सिएरा लियोन में छिपा हुआ था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-20"
+        },
+        {
+          "prompt": {
+            "en": "By what percentage did Granules India's net profit rise on higher revenue?",
+            "hi": "उच्च राजस्व पर ग्रेन्यूल्स इंडिया का शुद्ध लाभ कितने प्रतिशत बढ़ गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Net profit rises 39% to ₹182 cr",
+                "hi": "शुद्ध लाभ 39% बढ़कर ₹182 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Net profit rises 25% to ₹150 cr",
+                "hi": "शुद्ध लाभ 25% बढ़कर ₹150 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Net profit rises 15% to ₹120 cr",
+                "hi": "शुद्ध लाभ 15% बढ़कर ₹120 करोड़ हो गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Net profit rises 50% to ₹210 cr",
+                "hi": "शुद्ध लाभ 50% बढ़कर ₹210 करोड़ हो गया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Granules India reported a 39% increase in net profit, reaching ₹182 crore on higher revenue.\nSource: https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece",
+            "hi": "ग्रेन्यूल्स इंडिया ने शुद्ध लाभ में 39% की वृद्धि दर्ज की, जो उच्च राजस्व पर ₹182 करोड़ तक पहुंच गया।\nस्रोत: https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece"
+          },
+          "section": "Economy, Business and Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-21"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-03T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment and International Affairs",
+      "source_filename": "daily-2026-11-03.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to recent announcements by AI firms OpenAI and Anthropic, what theoretical concept was disproved by one of their models?",
+            "hi": "एआई फर्म ओपनएआई और एंथ्रोपिक की हालिया घोषणाओं के अनुसार, उनके एक मॉडल ने किस सैद्धांतिक अवधारणा का खंडन किया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Church-Turing computability limit",
+                "hi": "चर्च-ट्यूरिंग कम्प्यूटेबिलिटी सीमा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The exponential time hypothesis",
+                "hi": "घातीय समय परिकल्पना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The P versus NP problem equivalence",
+                "hi": "पी बनाम एनपी समस्या तुल्यता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The quantum supremacy threshold",
+                "hi": "क्वांटम सर्वोच्चता सीमा"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Both OpenAI and Anthropic announced that one of their AI models had successfully disproved the exponential time hypothesis.\nSource: https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+            "hi": "ओपनएआई और एंथ्रोपिक दोनों ने घोषणा की कि उनके एआई मॉडल में से एक ने घातीय समय परिकल्पना को सफलतापूर्वक खारिज कर दिया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-22"
+        },
+        {
+          "prompt": {
+            "en": "According to scientific and economic commentary on India's examination system, how should exams be treated to prevent recurring crises?",
+            "hi": "भारत की परीक्षा प्रणाली पर वैज्ञानिक और आर्थिक टिप्पणी के अनुसार, बार-बार आने वाले संकटों को रोकने के लिए परीक्षाओं का इलाज कैसे किया जाना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As a purely administrative function managed directly by central ministries",
+                "hi": "एक विशुद्ध प्रशासनिक कार्य के रूप में जिसका प्रबंधन सीधे केंद्रीय मंत्रालयों द्वारा किया जाता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "As a localized testing mechanism divorced from economic incentives",
+                "hi": "आर्थिक प्रोत्साहनों से अलग एक स्थानीय परीक्षण तंत्र के रूप में"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As an educational formality requiring rigid state-enforced uniformity",
+                "hi": "एक शैक्षिक औपचारिकता के रूप में जिसके लिए कठोर राज्य-प्रवर्तित एकरूपता की आवश्यकता होती है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As the complex economic product they are, with knowledge dispersed among specialised professionals",
+                "hi": "जटिल आर्थिक उत्पाद के रूप में वे विशिष्ट पेशेवरों के बीच बिखरे हुए ज्ञान के साथ हैं"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The commentary argues that unless we treat exams as complex economic products with dispersed knowledge and restructured financial incentives, protests and committee appointments will persist.\nSource: https://www.thehindu.com/sci-tech/science/what-india-leaky-exam-system-can-learn-from-soviet-shoe-factories/article71655126.ece",
+            "hi": "टिप्पणी में तर्क दिया गया है कि जब तक हम परीक्षाओं को बिखरे हुए ज्ञान और पुनर्गठित वित्तीय प्रोत्साहनों के साथ जटिल आर्थिक उत्पादों के रूप में नहीं मानते, विरोध और समिति की नियुक्तियाँ जारी रहेंगी।\nस्रोत: https://www.thehindu.com/sci-tech/science/what-india-leaky-exam-system-can-learn-from-soviet-shoe-factories/article71655126.ece"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/what-india-leaky-exam-system-can-learn-from-soviet-shoe-factories/article71655126.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-23"
+        },
+        {
+          "prompt": {
+            "en": "During a cyber-attack affecting shop freezers across several European countries, how high did the temperatures reportedly rise?",
+            "hi": "कई यूरोपीय देशों में दुकानों के फ्रीजरों को प्रभावित करने वाले साइबर हमले के दौरान कथित तौर पर तापमान कितना बढ़ गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rose to as high as 30C",
+                "hi": "30C तक ऊँचा हो गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rose to as high as 40C",
+                "hi": "40C तक बढ़ गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rose to as high as 50C",
+                "hi": "50C तक बढ़ गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rose to as high as 60C",
+                "hi": "60C तक बढ़ गया"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "A cyber-attack targeting shop freezers in several European countries caused temperatures to rise as high as 50°C.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "hi": "कई यूरोपीय देशों में दुकान के फ्रीजर को निशाना बनाकर किए गए साइबर हमले के कारण तापमान 50 डिग्री सेल्सियस तक बढ़ गया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-24"
+        },
+        {
+          "prompt": {
+            "en": "What consequence resulted from a spill caused by a vandalized home oil tank?",
+            "hi": "एक क्षतिग्रस्त घरेलू तेल टैंक के रिसाव से क्या परिणाम हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Destroys protected botanical wetland habitats",
+                "hi": "संरक्षित वनस्पति आर्द्रभूमि आवासों को नष्ट कर देता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Contaminates local municipal drinking water reservoirs",
+                "hi": "स्थानीय नगर निगम के पेयजल जलाशयों को प्रदूषित करता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Triggers immediate evacuation of riverside residential communities",
+                "hi": "नदी के किनारे के आवासीय समुदायों को तत्काल खाली करना शुरू कर दिया गया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kills 13 birds and injures a number of others",
+                "hi": "13 पक्षियों को मार डाला और कई अन्य को घायल कर दिया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "A spill from a vandalized home oil tank resulted in the death of 13 birds and left several others injured.\nSource: BBC News · https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+            "hi": "एक क्षतिग्रस्त घरेलू तेल टैंक से रिसाव के परिणामस्वरूप 13 पक्षियों की मौत हो गई और कई अन्य घायल हो गए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-25"
+        },
+        {
+          "prompt": {
+            "en": "Why was a popular waterfowl park in County Down forced to close its operations temporarily?",
+            "hi": "काउंटी डाउन में एक लोकप्रिय जलपक्षी पार्क को अपना परिचालन अस्थायी रूप से बंद करने के लिए क्यों मजबूर किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Severe flood damage caused by torrential seasonal rainfall",
+                "hi": "मूसलाधार मौसमी वर्षा के कारण बाढ़ से गंभीर क्षति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Oil tank vandalism results in waterfowl park 'nightmare' requiring oil removal from the pond",
+                "hi": "तेल टैंक की तोड़फोड़ के परिणामस्वरूप जलपक्षी पार्क 'दुःस्वप्न' बन जाता है, जिसके लिए तालाब से तेल निकालने की आवश्यकता होती है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Routine infrastructural maintenance of public pathways",
+                "hi": "सार्वजनिक मार्गों का नियमित ढांचागत रखरखाव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Avian influenza outbreak detected among migratory bird species",
+                "hi": "प्रवासी पक्षी प्रजातियों में एवियन इन्फ्लूएंजा का प्रकोप पाया गया"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Oil tank vandalism resulted in a waterfowl park 'nightmare' in County Down, forcing it to close while cleanup efforts removed oil from the pond.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
+            "hi": "तेल टैंक की बर्बरता के परिणामस्वरूप काउंटी डाउन में एक जलपक्षी पार्क 'दुःस्वप्न' बन गया, जिससे इसे बंद करना पड़ा, जबकि सफाई प्रयासों ने तालाब से तेल निकाला।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-26"
+        },
+        {
+          "prompt": {
+            "en": "In recognition of their work, what honor was bestowed upon two men from the Armagh Planetarium and Observatory?",
+            "hi": "उनके काम की मान्यता में, अर्माघ तारामंडल और वेधशाला के दो व्यक्तियों को कौन सा सम्मान दिया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Awarded the international space exploration medal",
+                "hi": "अंतर्राष्ट्रीय अंतरिक्ष अन्वेषण पदक से सम्मानित किया गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Have had asteroids named in their honour",
+                "hi": "उनके सम्मान में क्षुद्रग्रहों का नाम रखा गया है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Appointed directors of the European Space Agency",
+                "hi": "यूरोपीय अंतरिक्ष एजेंसी के निदेशक नियुक्त"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Received honorary doctoral degrees in astrophysics",
+                "hi": "खगोल भौतिकी में मानद डॉक्टरेट की उपाधि प्राप्त की"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Two men from the Armagh Planetarium and Observatory had asteroids named in their honor in recognition of their scientific work.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+            "hi": "अर्माघ तारामंडल और वेधशाला के दो लोगों ने अपने वैज्ञानिक कार्यों की मान्यता में उनके सम्मान में क्षुद्रग्रहों का नाम रखा था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-27"
+        },
+        {
+          "prompt": {
+            "en": "What was the theme and target of the environmental protest held outside Bute House in Edinburgh?",
+            "hi": "एडिनबर्ग में ब्यूट हाउस के बाहर आयोजित पर्यावरण विरोध का विषय और लक्ष्य क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A Christmas-themed protest against nuclear energy targeting the parliamentary chambers",
+                "hi": "संसदीय कक्षों को निशाना बनाकर परमाणु ऊर्जा के ख़िलाफ़ क्रिसमस-थीम पर विरोध प्रदर्शन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh",
+                "hi": "जीवाश्म ईंधन के ख़िलाफ़ हैलोवीन-थीम वाले विरोध प्रदर्शन ने एडिनबर्ग में प्रथम मंत्री के आवास को निशाना बनाया है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A New Year protest against carbon taxation targeting treasury offices",
+                "hi": "ट्रेजरी कार्यालयों को निशाना बनाने वाले कार्बन कराधान के खिलाफ नए साल का विरोध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A spring climate march against deforestation targeting ministerial headquarters",
+                "hi": "मंत्री मुख्यालय को निशाना बनाते हुए वनों की कटाई के खिलाफ एक वसंत जलवायु मार्च"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Environmental campaigners organized a Halloween-themed protest against fossil fuels targeting the first minister's residence at Bute House in Edinburgh.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+            "hi": "पर्यावरण प्रचारकों ने एडिनबर्ग में ब्यूट हाउस में प्रथम मंत्री के आवास को निशाना बनाते हुए जीवाश्म ईंधन के खिलाफ हैलोवीन-थीम वाले विरोध प्रदर्शन का आयोजन किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-28"
+        },
+        {
+          "prompt": {
+            "en": "What primary objective were countries attempting to achieve during global nature talks?",
+            "hi": "वैश्विक प्रकृति वार्ता के दौरान देश किस प्राथमिक उद्देश्य को प्राप्त करने का प्रयास कर रहे थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To establish mandatory carbon offset trading floors",
+                "hi": "अनिवार्य कार्बन ऑफसेट ट्रेडिंग फ्लोर स्थापित करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To phase out all industrial subsidies for agricultural fertilizers",
+                "hi": "कृषि उर्वरकों के लिए सभी औद्योगिक सब्सिडी को चरणबद्ध तरीके से समाप्त करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To get a global agreement to halt nature decline back on track",
+                "hi": "प्रकृति में गिरावट को वापस पटरी पर लाने के लिए एक वैश्विक समझौता करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To finance international oceanic plastic cleanup operations",
+                "hi": "अंतर्राष्ट्रीय समुद्री प्लास्टिक सफाई कार्यों को वित्तपोषित करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "During global nature talks, countries were actively trying to get an international agreement to halt nature decline back on track.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+            "hi": "वैश्विक प्रकृति वार्ता के दौरान, देश प्रकृति में गिरावट को वापस पटरी पर लाने के लिए एक अंतरराष्ट्रीय समझौता करने के लिए सक्रिय रूप से प्रयास कर रहे थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-29"
+        },
+        {
+          "prompt": {
+            "en": "According to officials, what ordnance was reported hitting a southern Ukrainian village in an attack on an aid centre?",
+            "hi": "अधिकारियों के अनुसार, एक सहायता केंद्र पर हमले में दक्षिणी यूक्रेनी गांव में किस आयुध के गिरने की सूचना मिली थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Heavy artillery barrage from cross-border positions",
+                "hi": "सीमा पार से भारी तोपों की बौछार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Long-range ballistic missiles equipped with cluster munitions",
+                "hi": "लंबी दूरी की बैलिस्टिक मिसाइलें क्लस्टर युद्ध सामग्री से सुसज्जित हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At least nine 3,000kg aerial bombs",
+                "hi": "कम से कम नौ 3,000 किलोग्राम के हवाई बम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Swarms of loitering kamikaze drones",
+                "hi": "कामिकेज़ ड्रोनों के झुंड घूम रहे हैं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Officials stated that at least nine 3,000kg aerial bombs struck a southern Ukrainian village in an attack described by the president as utterly horrific.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+            "hi": "अधिकारियों ने बताया कि दक्षिणी यूक्रेन के एक गांव में 3,000 किलोग्राम के कम से कम नौ हवाई बमों से हमला किया गया, जिसे राष्ट्रपति ने बेहद भयावह बताया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-30"
+        },
+        {
+          "prompt": {
+            "en": "What desperate exclamation was captured in air traffic audio prior to a deadly jet crash in Florida?",
+            "hi": "फ़्लोरिडा में एक घातक जेट दुर्घटना से पहले हवाई यातायात ऑडियो में कौन सा निराशाजनक उद्गार कैद किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "\"Engine failure confirmed, attempting emergency landing on highway!\"",
+                "hi": "\"इंजन की विफलता की पुष्टि हुई, राजमार्ग पर आपातकालीन लैंडिंग का प्रयास किया जा रहा है!\""
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "\"We are going to crash into the ground!\"",
+                "hi": "\"हम ज़मीन पर दुर्घटनाग्रस्त होने जा रहे हैं!\""
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "\"Loss of hydraulic control, preparing for water ditching!\"",
+                "hi": "\"हाइड्रोलिक नियंत्रण का नुकसान, पानी निकालने की तैयारी!\""
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "\"Severe turbulence encountered, altitude dropping rapidly!\"",
+                "hi": "\"गंभीर अशांति का सामना करना पड़ा, ऊंचाई तेजी से गिर रही है!\""
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "In air traffic audio recordings related to the deadly Florida jet crash, a crew member was heard shouting 'We are going to crash into the ground!'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+            "hi": "घातक फ्लोरिडा जेट दुर्घटना से संबंधित हवाई यातायात ऑडियो रिकॉर्डिंग में, एक चालक दल के सदस्य को चिल्लाते हुए सुना गया था 'हम जमीन पर दुर्घटनाग्रस्त होने जा रहे हैं!'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-31"
+        },
+        {
+          "prompt": {
+            "en": "How did observers characterize the impact of the six-day truce on the wider trajectory of the conflict in the Kherson region?",
+            "hi": "पर्यवेक्षकों ने खेरसॉन क्षेत्र में संघर्ष के व्यापक पथ पर छह दिवसीय संघर्ष विराम के प्रभाव को कैसे दर्शाया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It completely resolved territorial disputes between combatants",
+                "hi": "इसने लड़ाकों के बीच क्षेत्रीय विवादों को पूरी तरह से हल कर दिया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It paved the way for permanent bilateral peace negotiations",
+                "hi": "इसने स्थायी द्विपक्षीय शांति वार्ता का मार्ग प्रशस्त किया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It did little to alter the wider trajectory of a war that continues to grind on",
+                "hi": "इसने युद्ध के व्यापक प्रक्षेप पथ को बदलने में बहुत कम योगदान दिया जो लगातार जारी है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It triggered a total withdrawal of frontline military forces",
+                "hi": "इससे अग्रिम पंक्ति के सैन्य बलों की पूर्ण वापसी शुरू हो गई"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Despite being unprecedented, the six-day truce did little to alter the wider trajectory of the ongoing war in the Kherson region.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+            "hi": "अभूतपूर्व होने के बावजूद, छह दिवसीय संघर्ष विराम ने खेरसॉन क्षेत्र में चल रहे युद्ध के व्यापक प्रक्षेप पथ को बदलने में कोई योगदान नहीं दिया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-32"
+        },
+        {
+          "prompt": {
+            "en": "What core legal argument are rights groups raising against Australia's social media ban in the High Court?",
+            "hi": "उच्च न्यायालय में ऑस्ट्रेलिया के सोशल मीडिया प्रतिबंध के खिलाफ अधिकार समूह कौन सा मुख्य कानूनी तर्क उठा रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It imposes unfair taxation burdens on digital platform providers",
+                "hi": "यह डिजिटल प्लेटफ़ॉर्म प्रदाताओं पर अनुचित कराधान का बोझ डालता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It violates corporate data privacy mandates for multinational tech firms",
+                "hi": "यह बहुराष्ट्रीय तकनीकी कंपनियों के लिए कॉर्पोरेट डेटा गोपनीयता जनादेश का उल्लंघन करता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It robs under-16s of their right to free communication",
+                "hi": "यह 16 वर्ष से कम उम्र के बच्चों से उनके निःशुल्क संचार के अधिकार को छीन लेता है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It restricts cross-border educational content accessibility",
+                "hi": "यह सीमा पार शैक्षिक सामग्री की पहुंच को प्रतिबंधित करता है"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "A rights group challenging Australia's social media ban in the High Court argues that the world-leading policy robs under-16s of their right to free communication.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+            "hi": "उच्च न्यायालय में ऑस्ट्रेलिया के सोशल मीडिया प्रतिबंध को चुनौती देने वाले एक अधिकार समूह का तर्क है कि विश्व-अग्रणी नीति 16 साल से कम उम्र के बच्चों से उनके मुफ्त संचार के अधिकार को छीन लेती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment and International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-03-33"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-03T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece",
+      "published": "2026-11-03T02:35:56+05:30"
+    },
+    {
+      "title": "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+      "published": "2026-11-03T02:33:57+05:30"
+    },
+    {
+      "title": "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
+      "url": "https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece",
+      "published": "2026-11-03T02:20:15+05:30"
+    },
+    {
+      "title": "Eight labourers electrocuted after machine touches power line",
+      "url": "https://www.thehindu.com/news/national/rajasthan/labourers-electrocuted-in-jhunjhunu-rajasthan-while-working-on-road-construction-project/article71655841.ece",
+      "published": "2026-11-03T01:44:47+05:30"
+    },
+    {
+      "title": "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket supplying liquor to Gujarat uncovered",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece",
+      "published": "2026-11-03T01:37:49+05:30"
+    },
+    {
+      "title": "Congress seeks JPC probe into IDBI Bank sale, alleges valuation irregularities",
+      "url": "https://www.thehindu.com/news/national/congress-seeks-jpc-probe-into-idbi-bank-sale-alleges-valuation-irregularities/article71657915.ece",
+      "published": "2026-11-02T22:34:12+05:30"
+    },
+    {
+      "title": "Capex push to continue, but fiscal prudence non-negotiable: FM",
+      "url": "https://www.thehindu.com/business/Economy/capex-push-to-continue-but-fiscal-prudence-non-negotiable-fm/article71657701.ece",
+      "published": "2026-11-02T22:02:05+05:30"
+    },
+    {
+      "title": "Birla Estates eyes top-three spot, targets 10-fold jump in office rentals",
+      "url": "https://www.thehindu.com/business/Industry/birla-estates-eyes-top-three-spot-targets-10-fold-jump-in-office-rentals/article71657502.ece",
+      "published": "2026-11-02T21:37:12+05:30"
+    },
+    {
+      "title": "Supreme Court raps Centre for stalling enforcement of Vedanta arbitration awards",
+      "url": "https://www.thehindu.com/news/national/supreme-court-raps-centre-for-stalling-enforcement-of-vedanta-arbitration-awards/article71656332.ece",
+      "published": "2026-11-02T20:11:41+05:30"
+    },
+    {
+      "title": "Granules India net profit rises 39% to ₹182 cr on higher revenue",
+      "url": "https://www.thehindu.com/business/Industry/granules-india-net-profit-rises-39-to-182-cr-on-higher-revenue/article71656931.ece",
+      "published": "2026-11-02T19:36:46+05:30"
+    },
+    {
+      "title": "Shock and regret: scientists react to AI roiling life’s work",
+      "url": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+      "published": "2026-11-02T15:42:43+05:30"
+    },
+    {
+      "title": "What India’s leaky exam system can learn from Soviet shoe factories",
+      "url": "https://www.thehindu.com/sci-tech/science/what-india-leaky-exam-system-can-learn-from-soviet-shoe-factories/article71655126.ece",
+      "published": "2026-11-02T14:04:28+05:30"
+    },
+    {
+      "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
+      "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
+      "published": "2026-11-02T09:37:41+05:30"
+    },
+    {
+      "title": "Explained | What is the Gaia space mission and what has it revealed about the Milky Way?",
+      "url": "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece",
+      "published": "2026-11-01T18:33:46+05:30"
+    },
+    {
+      "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
+      "url": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:27:51+00:00"
+    },
+    {
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:22:10+00:00"
+    },
+    {
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:38:11+00:00"
+    },
+    {
+      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T13:40:36+00:00"
+    },
+    {
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T07:42:33+00:00"
+    },
+    {
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T23:34:49+00:00"
+    },
+    {
+      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T16:57:14+00:00"
+    },
+    {
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T08:57:56+00:00"
+    },
+    {
+      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
+      "url": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:42:13+00:00"
+    },
+    {
+      "title": "'Rok' solid recognition for Slovenian space scientist",
+      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:35:37+00:00"
+    },
+    {
+      "title": "Bute House protested by environmental campaigners",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T13:41:07+00:00"
+    },
+    {
+      "title": "Global nature talks reach deal but money remains an issue",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:27:05+00:00"
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T21:10:04+00:00"
+    },
+    {
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:58:34+00:00"
+    },
+    {
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:33:19+00:00"
+    },
+    {
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:12:59+00:00"
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T20:08:51+00:00"
+    },
+    {
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:29:49+00:00"
+    }
+  ]
+}
