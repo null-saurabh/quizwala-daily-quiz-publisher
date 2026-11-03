@@ -1,0 +1,1267 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-03T19:48:44.947037+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-04.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Under the Kochi@2050 vision, the Kochi Corporation cleared 30 projects worth ₹1,500 crore for the Urban Challenge Fund. What financial share is the Union government committed to providing as a grant?",
+            "hi": "कोच्चि@2050 विज़न के तहत, कोच्चि कॉर्पोरेशन ने शहरी चुनौती कोष के लिए ₹1,500 करोड़ की 30 परियोजनाओं को मंजूरी दी। केंद्र सरकार अनुदान के रूप में कितना वित्तीय हिस्सा प्रदान करने के लिए प्रतिबद्ध है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "10% of the project cost",
+                "hi": "परियोजना लागत का 10%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "50% of the project cost",
+                "hi": "परियोजना लागत का 50%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "25% of the project cost",
+                "hi": "परियोजना लागत का 25%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "75% of the project cost",
+                "hi": "परियोजना लागत का 75%"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Kochi Corporation cleared projects worth ₹1,500 crore under the Urban Challenge Fund, for which the Union government will provide 25% of the project cost as a grant.\nSource: https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
+            "hi": "कोच्चि कॉर्पोरेशन ने शहरी चुनौती निधि के तहत ₹1,500 करोड़ की परियोजनाओं को मंजूरी दी, जिसके लिए केंद्र सरकार परियोजना लागत का 25% अनुदान के रूप में प्रदान करेगी।\nस्रोत: https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-1"
+        },
+        {
+          "prompt": {
+            "en": "Under the new higher education guidelines in Andhra Pradesh, undergraduate students are required to complete mandatory semester internships. What is the total duration mandated for these internships?",
+            "hi": "आंध्र प्रदेश में नए उच्च शिक्षा दिशानिर्देशों के तहत, स्नातक छात्रों को अनिवार्य सेमेस्टर इंटर्नशिप पूरी करना आवश्यक है। इन इंटर्नशिप के लिए अनिवार्य कुल अवधि क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "180 hours",
+                "hi": "180 घंटे"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "240 hours",
+                "hi": "240 घंटे"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "500 hours",
+                "hi": "500 घंटे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "360 hours",
+                "hi": "360 घंटे"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Andhra Pradesh government made 360-hour semester internships mandatory, to be incorporated into the final-year curriculum of three-year and four-year undergraduate programmes.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+            "hi": "आंध्र प्रदेश सरकार ने तीन साल और चार साल के स्नातक कार्यक्रमों के अंतिम वर्ष के पाठ्यक्रम में शामिल करने के लिए 360 घंटे की सेमेस्टर इंटर्नशिप अनिवार्य कर दी है।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-2"
+        },
+        {
+          "prompt": {
+            "en": "In the recent local body polls in Andhra Pradesh, the Telugu Desam Party (TDP) breached a long-standing YSRCP fortress after four decades. Which seat was won by TDP's Geetha Kumari?",
+            "hi": "आंध्र प्रदेश में हाल ही में हुए स्थानीय निकाय चुनावों में, तेलुगु देशम पार्टी (टीडीपी) ने चार दशकों के बाद लंबे समय से चले आ रहे वाईएसआरसीपी किले को तोड़ दिया। टीडीपी की गीता कुमारी ने कौन सी सीट जीती?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Pulivendula municipal chairperson seat",
+                "hi": "पुलिवेंदुला नगरपालिका अध्यक्ष सीट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Amaravati mayoral seat",
+                "hi": "अमरावती मेयर सीट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tirupati civic chief position",
+                "hi": "तिरूपति नागरिक प्रमुख पद"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kurnool municipal council seat",
+                "hi": "कुरनूल नगर परिषद सीट"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "TDP's Geetha Kumari won the Pulivendula municipal chairperson seat by defeating the opponent with a majority of 13,875 votes, breaching the YSRCP stronghold after four decades.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+            "hi": "टीडीपी की गीता कुमारी ने चार दशकों के बाद वाईएसआरसीपी के गढ़ में सेंध लगाते हुए प्रतिद्वंद्वी को 13,875 वोटों के बहुमत से हराकर पुलिवेंदुला नगरपालिका अध्यक्ष सीट जीती।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-3"
+        },
+        {
+          "prompt": {
+            "en": "What reason was cited by authorities in central Delhi for razing hundreds of houses in a historic neighbourhood?",
+            "hi": "मध्य दिल्ली के अधिकारियों द्वारा एक ऐतिहासिक पड़ोस में सैकड़ों घरों को ढहाने का क्या कारण बताया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They were identified as unsafe structures prone to collapse",
+                "hi": "उनकी पहचान असुरक्षित संरचनाओं के रूप में की गई थी जिनके ढहने का खतरा है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They violated commercial zoning regulations",
+                "hi": "उन्होंने वाणिज्यिक ज़ोनिंग नियमों का उल्लंघन किया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They were built on government land",
+                "hi": "इनका निर्माण सरकारी जमीन पर किया गया था"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They obstructed upcoming metro rail expansion",
+                "hi": "उन्होंने आगामी मेट्रो रेल विस्तार में बाधा डाली"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Authorities razed hundreds of houses in a central Delhi neighbourhood after stating that they were built on government land.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+            "hi": "अधिकारियों ने मध्य दिल्ली के पड़ोस में सैकड़ों घरों को यह कहकर तोड़ दिया कि वे सरकारी भूमि पर बने थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-4"
+        },
+        {
+          "prompt": {
+            "en": "Following a shocking classroom incident in India where a young child assaulted another, what was reported regarding the victim's medical condition?",
+            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक छोटे बच्चे ने दूसरे बच्चे पर हमला किया, पीड़ित की चिकित्सा स्थिति के बारे में क्या रिपोर्ट की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She succumbed to her injuries at the hospital",
+                "hi": "उसने अस्पताल में दम तोड़ दिया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She suffered permanent physical paralysis",
+                "hi": "उसे स्थायी शारीरिक पक्षाघात का सामना करना पड़ा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She is out of danger, but remains traumatised by her assault",
+                "hi": "वह खतरे से बाहर है, लेकिन अपने हमले से सदमे में है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She was discharged immediately without any injuries",
+                "hi": "बिना किसी चोट के उसे तुरंत छुट्टी दे दी गई"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The family reported that the young victim who was assaulted in the classroom was out of danger but remained traumatised by the assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": "परिवार ने बताया कि जिस युवा पीड़ित पर कक्षा में हमला किया गया था वह खतरे से बाहर है लेकिन हमले से सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-5"
+        },
+        {
+          "prompt": {
+            "en": "During the opposition's mega rally in Delhi, what primary demand was raised by the thousands who gathered?",
+            "hi": "दिल्ली में विपक्ष की महारैली के दौरान हजारों की संख्या में जुटे लोगों ने कौन सी प्राथमिक मांग उठाई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Requesting a complete moratorium on state elections",
+                "hi": "राज्य चुनावों पर पूर्ण रोक लगाने का अनुरोध"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Demanding immediate amendment of corporate tax laws",
+                "hi": "कॉरपोरेट टैक्स कानूनों में तत्काल संशोधन की मांग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Protesting against new educational curriculum changes",
+                "hi": "नए शैक्षणिक पाठ्यक्रम में बदलाव का विरोध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Calling for the chief election commissioner to step down",
+                "hi": "मुख्य चुनाव आयुक्त से पद छोड़ने की मांग"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The opposition's mega rally in the heart of Delhi featured thousands gathering to call for the chief election commissioner to step down.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+            "hi": "दिल्ली के मध्य में विपक्ष की विशाल रैली में मुख्य चुनाव आयुक्त को पद छोड़ने के लिए आह्वान करने के लिए हजारों लोग एकत्र हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-6"
+        },
+        {
+          "prompt": {
+            "en": "In the context of the car finance saga, under what condition does the regulator support lenders making early compensation offers to drivers?",
+            "hi": "कार वित्त गाथा के संदर्भ में, नियामक किस स्थिति में ड्राइवरों को शीघ्र मुआवजे की पेशकश करने वाले ऋणदाताओं का समर्थन करता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As long as they are financed by government subsidies",
+                "hi": "जब तक उन्हें सरकारी सब्सिडी द्वारा वित्तपोषित किया जाता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "If they are approved by international audit firms",
+                "hi": "यदि वे अंतरराष्ट्रीय ऑडिट फर्मों द्वारा अनुमोदित हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As long as they are fair",
+                "hi": "जब तक वे निष्पक्ष हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Provided the drivers waive all future legal rights",
+                "hi": "बशर्ते ड्राइवर भविष्य के सभी कानूनी अधिकार छोड़ दें"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The regulator stated that it supports lenders offering early compensation offers to drivers before the car finance saga ends, provided that those offers are fair.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+            "hi": "नियामक ने कहा कि वह कार वित्त गाथा समाप्त होने से पहले ड्राइवरों को शीघ्र मुआवजे की पेशकश करने वाले ऋणदाताओं का समर्थन करता है, बशर्ते कि वे पेशकश उचित हों।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-7"
+        },
+        {
+          "prompt": {
+            "en": "Which mining giant is jointly funding a A$28 million 'toad containment zone' to protect the Pilbara region from invasive species?",
+            "hi": "पिलबारा क्षेत्र को आक्रामक प्रजातियों से बचाने के लिए कौन सा खनन दिग्गज संयुक्त रूप से $28 मिलियन के 'टॉड नियंत्रण क्षेत्र' का वित्त पोषण कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "BHP Group",
+                "hi": "बीएचपी समूह"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Glencore",
+                "hi": "ग्लेनकोर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rio Tinto",
+                "hi": "रियो टिंटो"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Vale SA",
+                "hi": "वेले एसए"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Mining giant Rio Tinto is joining the fight against the spread of killer toads by jointly funding a A$28 million toad containment zone to protect the Pilbara region.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+            "hi": "खनन क्षेत्र की दिग्गज कंपनी रियो टिंटो, पिलबारा क्षेत्र की सुरक्षा के लिए 28 मिलियन ऑस्ट्रेलियाई डॉलर के टॉड नियंत्रण क्षेत्र को संयुक्त रूप से वित्त पोषित करके हत्यारे टोड के प्रसार के खिलाफ लड़ाई में शामिल हो रही है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-8"
+        },
+        {
+          "prompt": {
+            "en": "According to a recent report discussing 'quiet quitting', what behavioral shift has been observed among British workers?",
+            "hi": "'चुपचाप छोड़ने' पर चर्चा करने वाली एक हालिया रिपोर्ट के अनुसार, ब्रिटिश श्रमिकों के बीच व्यवहार में क्या बदलाव देखा गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are demanding higher remote-work allowances across all sectors",
+                "hi": "वे सभी क्षेत्रों में उच्च दूरस्थ-कार्य भत्ते की मांग कर रहे हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They have become less engaged with the jobs they do and are less willing to put in extra effort",
+                "hi": "वे अपने काम में कम व्यस्त हो गए हैं और अतिरिक्त प्रयास करने के लिए कम इच्छुक हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They are migrating in large numbers to European Union nations",
+                "hi": "वे बड़ी संख्या में यूरोपीय संघ के देशों में प्रवास कर रहे हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are retiring early due to universal pension reforms",
+                "hi": "सार्वभौमिक पेंशन सुधारों के कारण वे जल्दी सेवानिवृत्त हो रहे हैं"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "A report found that 'quiet quitting' could be hitting the economy because Britons have become less engaged with their jobs and less willing to put in extra effort.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+            "hi": "एक रिपोर्ट में पाया गया कि 'चुपचाप छोड़ने' से अर्थव्यवस्था पर असर पड़ सकता है क्योंकि ब्रिटेन के लोग अपनी नौकरियों में कम व्यस्त हो गए हैं और अतिरिक्त प्रयास करने के लिए कम इच्छुक हो गए हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-9"
+        },
+        {
+          "prompt": {
+            "en": "Why did auditors criticize the Welsh public sector regarding its net zero targets?",
+            "hi": "शुद्ध शून्य लक्ष्य के संबंध में लेखा परीक्षकों ने वेल्श सार्वजनिक क्षेत्र की आलोचना क्यों की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because organizations exceeded their carbon credit budgets",
+                "hi": "क्योंकि संगठनों ने अपने कार्बन क्रेडिट बजट को पार कर लिया है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because they failed to invest in renewable energy infrastructure",
+                "hi": "क्योंकि वे नवीकरणीय ऊर्जा बुनियादी ढांचे में निवेश करने में विफल रहे"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because they are unlikely to meet net zero plans by 2030 due to a lack of progress in tackling climate change",
+                "hi": "क्योंकि जलवायु परिवर्तन से निपटने में प्रगति की कमी के कारण उनके 2030 तक नेट ज़ीरो योजनाओं को पूरा करने की संभावना नहीं है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Because they refused to submit annual sustainability reports",
+                "hi": "क्योंकि उन्होंने वार्षिक स्थिरता रिपोर्ट प्रस्तुत करने से इनकार कर दिया"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Auditors criticized the Welsh public sector because organisations have made insufficient progress in tackling climate change, making it unlikely they will meet net zero plans by 2030.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+            "hi": "लेखा परीक्षकों ने वेल्श सार्वजनिक क्षेत्र की आलोचना की क्योंकि संगठनों ने जलवायु परिवर्तन से निपटने में अपर्याप्त प्रगति की है, जिससे यह संभावना नहीं है कि वे 2030 तक शुद्ध शून्य योजनाओं को पूरा कर पाएंगे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-10"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective of the major study launched by the UK government regarding 'forever chemicals' (PFAS)?",
+            "hi": "'फॉरएवर केमिकल्स' (पीएफएएस) के संबंध में यूके सरकार द्वारा शुरू किए गए प्रमुख अध्ययन का प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To completely ban the industrial manufacture of PFAS products within two years",
+                "hi": "दो साल के भीतर पीएफएएस उत्पादों के औद्योगिक निर्माण पर पूरी तरह से प्रतिबंध लगाना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To measure PFAS in the UK population to understand the risks",
+                "hi": "जोखिमों को समझने के लिए यूके की आबादी में पीएफएएस को मापना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To clear PFAS contamination from all municipal water reservoirs",
+                "hi": "सभी नगरपालिका जल जलाशयों से पीएफएएस संदूषण को साफ़ करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To subsidize alternative manufacturing materials for private corporations",
+                "hi": "निजी निगमों के लिए वैकल्पिक विनिर्माण सामग्री पर सब्सिडी देना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The UK government launched a major study to measure PFAS (forever chemicals) in the country's population to better understand the associated health risks.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
+            "hi": "यूके सरकार ने संबंधित स्वास्थ्य जोखिमों को बेहतर ढंग से समझने के लिए देश की आबादी में पीएफएएस (हमेशा के लिए रसायन) को मापने के लिए एक प्रमुख अध्ययन शुरू किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-11"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-04T06:30:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-04.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to a new study on how smoking sets the stage for lung cancer, what specific biological changes occur due to chronic smoke exposure?",
+            "hi": "धूम्रपान फेफड़ों के कैंसर के लिए चरण कैसे निर्धारित करता है, इस पर एक नए अध्ययन के अनुसार, लंबे समय तक धूम्रपान के संपर्क में रहने के कारण कौन से विशिष्ट जैविक परिवर्तन होते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It directly mutates DNA without affecting local immune defences",
+                "hi": "यह स्थानीय प्रतिरक्षा सुरक्षा को प्रभावित किए बिना सीधे डीएनए को परिवर्तित करता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It alters lung stem cells, weakens safety mechanisms and local immune defences, and primes cells for cancer",
+                "hi": "यह फेफड़ों की स्टेम कोशिकाओं को बदल देता है, सुरक्षा तंत्र और स्थानीय प्रतिरक्षा सुरक्षा को कमजोर कर देता है, और कैंसर के लिए कोशिकाओं को तैयार कर देता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It accelerates cell regeneration while permanently locking TP53 genes in an active state",
+                "hi": "यह सक्रिय अवस्था में टीपी53 जीन को स्थायी रूप से लॉक करते हुए कोशिका पुनर्जनन को तेज करता है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It exclusively damages alveolar macrophages without altering stem cell behavior",
+                "hi": "यह स्टेम सेल व्यवहार में बदलाव किए बिना विशेष रूप से वायुकोशीय मैक्रोफेज को नुकसान पहुंचाता है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Chronic smoke exposure alters lung stem cells, weakens their safety mechanisms and local immune defences, and creates a precancerous state where common mutations trigger tumors.\nSource: https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+            "hi": "लंबे समय तक धूम्रपान के संपर्क में रहने से फेफड़े की स्टेम कोशिकाएं बदल जाती हैं, उनकी सुरक्षा तंत्र और स्थानीय प्रतिरक्षा सुरक्षा कमजोर हो जाती है, और एक प्रारंभिक स्थिति बन जाती है जहां सामान्य उत्परिवर्तन ट्यूमर को ट्रिगर करते हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-21"
+        },
+        {
+          "prompt": {
+            "en": "What specific capability was demonstrated by the new technique designed to spot deepfakes using light?",
+            "hi": "प्रकाश का उपयोग करके डीपफेक का पता लगाने के लिए डिज़ाइन की गई नई तकनीक द्वारा किस विशिष्ट क्षमता का प्रदर्शन किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It detects deepfakes by analyzing social media metadata rather than pixel data",
+                "hi": "यह पिक्सेल डेटा के बजाय सोशल मीडिया मेटाडेटा का विश्लेषण करके डीपफेक का पता लगाता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It operates exclusively on audio waveforms to detect synthesized voice deepfakes",
+                "hi": "यह संश्लेषित वॉयस डीपफेक का पता लगाने के लिए विशेष रूप से ऑडियो तरंगों पर काम करता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It requires manual verification for every video processed beyond a five-minute length",
+                "hi": "इसमें पाँच मिनट से अधिक अवधि के संसाधित प्रत्येक वीडियो के लिए मैन्युअल सत्यापन की आवश्यकता होती है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It identifies manipulated videos with 99.86% accuracy while processing 15 videos at a time",
+                "hi": "यह एक समय में 15 वीडियो संसाधित करते समय 99.86% सटीकता के साथ हेरफेर किए गए वीडियो की पहचान करता है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The new light-based technique identified manipulated videos with an accuracy of 99.86% and real videos with 95.72% accuracy while processing 15 videos simultaneously.\nSource: https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
+            "hi": "नई प्रकाश-आधारित तकनीक ने एक साथ 15 वीडियो संसाधित करते समय 99.86% सटीकता के साथ हेरफेर किए गए वीडियो और 95.72% सटीकता के साथ वास्तविक वीडियो की पहचान की।\nस्रोत: https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-22"
+        },
+        {
+          "prompt": {
+            "en": "According to galactic archaeologists studying the history of the Milky Way, how did the galaxy primarily grow over a timeline stretching back almost 12 billion years?",
+            "hi": "आकाशगंगा के इतिहास का अध्ययन करने वाले गैलेक्टिक पुरातत्वविदों के अनुसार, आकाशगंगा मुख्य रूप से लगभग 12 अरब वर्षों की समयावधि में कैसे विकसित हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By contracting from a primordial gas cloud without external accretion",
+                "hi": "बाह्य अभिवृद्धि के बिना एक मौलिक गैस बादल से अनुबंध करके"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Through rapid starburst events triggered by cosmic ray ionization",
+                "hi": "ब्रह्मांडीय किरण आयनीकरण द्वारा उत्पन्न तीव्र तारा विस्फोट घटनाओं के माध्यम से"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "By merging directly with a single neighboring supermassive black hole",
+                "hi": "एकल पड़ोसी महाविशाल ब्लैक होल के साथ सीधे विलय करके"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "By devouring galaxies, leaving a trail of ghost stars",
+                "hi": "आकाशगंगाओं को निगलकर, भूतिया तारों का निशान छोड़कर"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Milky Way grew by devouring galaxies, leaving behind a trail of ghost stars that allow galactic archaeologists to trace its history back almost 12 billion years.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": "आकाशगंगाएँ आकाशगंगाओं को निगलते हुए विकसित हुईं, और अपने पीछे भूतिया तारों का निशान छोड़ गईं, जिससे आकाशगंगा पुरातत्वविदों को लगभग 12 अरब वर्ष पुराने इसके इतिहास का पता लगाने में मदद मिली।\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-23"
+        },
+        {
+          "prompt": {
+            "en": "What significant theoretical claim was made by artificial intelligence companies OpenAI and Anthropic regarding their AI models?",
+            "hi": "कृत्रिम बुद्धिमत्ता कंपनियों ओपनएआई और एंथ्रोपिक द्वारा अपने एआई मॉडल के संबंध में क्या महत्वपूर्ण सैद्धांतिक दावा किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Their models had achieved artificial general intelligence across all domains",
+                "hi": "उनके मॉडलों ने सभी डोमेन में कृत्रिम सामान्य बुद्धिमत्ता हासिल की थी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Their systems had successfully predicted quantum gravitational fluctuations",
+                "hi": "उनके सिस्टम ने क्वांटम गुरुत्वाकर्षण उतार-चढ़ाव की सफलतापूर्वक भविष्यवाणी की थी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "One of their AI models had disproved the exponential time hypothesis",
+                "hi": "उनके एआई मॉडल में से एक ने घातांकीय समय परिकल्पना का खंडन किया था"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Their neural networks had solved the P versus NP problem completely",
+                "hi": "उनके तंत्रिका नेटवर्क ने पी बनाम एनपी समस्या को पूरी तरह से हल कर दिया था"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "OpenAI and Anthropic each announced that one of their AI models had disproved the exponential time hypothesis.\nSource: https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+            "hi": "ओपनएआई और एंथ्रोपिक प्रत्येक ने घोषणा की कि उनके एआई मॉडल में से एक ने घातीय समय परिकल्पना का खंडन किया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-24"
+        },
+        {
+          "prompt": {
+            "en": "What tragic incident occurred near the Everest base camp involving two helicopters?",
+            "hi": "एवरेस्ट बेस कैंप के पास दो हेलीकॉप्टरों से जुड़ी कौन सी दुखद घटना घटी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They collided mid-air due to severe blinding snowstorms",
+                "hi": "भयंकर अँधेरे वाले बर्फीले तूफ़ान के कारण वे हवा में ही टकरा गए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They were struck by falling debris from an avalanche during descent",
+                "hi": "उतरते समय हिमस्खलन से गिरे मलबे की चपेट में वे आ गए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They suffered simultaneous engine failures caused by high-altitude freezing fog",
+                "hi": "ऊंचाई पर जमा देने वाले कोहरे के कारण उन्हें एक साथ इंजन विफलताओं का सामना करना पड़ा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They crashed just metres from the ground after trying to land at the same spot, resulting in fatalities including an Indian tourist",
+                "hi": "उसी स्थान पर उतरने की कोशिश करने के बाद वे जमीन से कुछ ही मीटर की दूरी पर दुर्घटनाग्रस्त हो गए, जिसके परिणामस्वरूप एक भारतीय पर्यटक सहित कई लोगों की मौत हो गई"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "An Indian tourist was killed after two helicopters collided and crashed just metres from the ground after trying to land at the same spot near the Everest base camp.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+            "hi": "एवरेस्ट बेस कैंप के पास एक ही स्थान पर उतरने की कोशिश करने के बाद दो हेलीकॉप्टरों के टकराने और जमीन से कुछ मीटर की दूरी पर दुर्घटनाग्रस्त होने से एक भारतीय पर्यटक की मौत हो गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-25"
+        },
+        {
+          "prompt": {
+            "en": "According to recent scientific reports, what milestone was achieved by researchers regarding spatial measurements?",
+            "hi": "हाल की वैज्ञानिक रिपोर्टों के अनुसार, स्थानिक माप के संबंध में शोधकर्ताओं ने कौन सा मील का पत्थर हासिल किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They measured the exact radius of a neutron star with sub-atomic precision",
+                "hi": "उन्होंने उप-परमाणु परिशुद्धता के साथ न्यूट्रॉन तारे की सटीक त्रिज्या को मापा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They mapped the gravitational wave background of the early universe",
+                "hi": "उन्होंने प्रारंभिक ब्रह्मांड की गुरुत्वाकर्षण तरंग पृष्ठभूमि का मानचित्रण किया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They detected signals from the smallest distances ever probed",
+                "hi": "उन्होंने अब तक की जांच में सबसे छोटी दूरी से सिग्नल का पता लगाया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They observed quantum entanglement across interplanetary distances",
+                "hi": "उन्होंने अंतरग्रहीय दूरियों में क्वांटम उलझाव देखा"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Researchers have successfully detected signals at the smallest scale ever explored, specifically from the smallest distances ever probed.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+            "hi": "शोधकर्ताओं ने अब तक जांचे गए सबसे छोटे पैमाने पर, विशेष रूप से अब तक की गई सबसे छोटी दूरी से संकेतों का सफलतापूर्वक पता लगाया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-26"
+        },
+        {
+          "prompt": {
+            "en": "Which rare creature was recently found in Wales after a 60-year absence, easing extinction fears?",
+            "hi": "60 साल की अनुपस्थिति के बाद हाल ही में वेल्स में कौन सा दुर्लभ प्राणी पाया गया, जिससे विलुप्त होने की आशंका कम हो गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Welsh Marsh Fritillary Butterfly",
+                "hi": "वेल्श मार्श फ्रिटिलरी तितली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Greater Horseshoe Bat",
+                "hi": "ग्रेटर हॉर्सशू बैट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Short-Necked Oil Beetle",
+                "hi": "छोटी गर्दन वाला तेल भृंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Pine Marten of Snowdonia",
+                "hi": "स्नोडोनिया का पाइन मार्टन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Short-Necked Oil Beetle, which was feared to have become extinct in Wales after recent surveys, was found again after 60 years.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+            "hi": "शॉर्ट-नेक्ड ऑयल बीटल, जिसके हाल के सर्वेक्षणों के बाद वेल्स में विलुप्त होने की आशंका थी, 60 साल बाद फिर से पाई गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-27"
+        },
+        {
+          "prompt": {
+            "en": "Following recent Russian attacks on an aid centre, hospice, and hospital in Ukraine, what casualty figures and warnings were reported?",
+            "hi": "यूक्रेन में एक सहायता केंद्र, धर्मशाला और अस्पताल पर हाल ही में रूसी हमलों के बाद, हताहतों की संख्या और चेतावनियाँ क्या बताई गईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "All civilians were safely evacuated before structural collapses occurred",
+                "hi": "संरचनात्मक ढहने से पहले सभी नागरिकों को सुरक्षित निकाल लिया गया था"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Over 150 casualties were confirmed with widespread chemical contamination",
+                "hi": "व्यापक रासायनिक संदूषण से 150 से अधिक लोगों के हताहत होने की पुष्टि हुई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At least 38 people were killed in 24 hours, with warnings that dozens more could be trapped under rubble",
+                "hi": "24 घंटों में कम से कम 38 लोग मारे गए, चेतावनी दी गई कि दर्जनों लोग मलबे में फंसे हो सकते हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Military infrastructure was exclusively hit with zero civilian casualties",
+                "hi": "सैन्य बुनियादी ढाँचा विशेष रूप से प्रभावित हुआ और कोई भी नागरिक हताहत नहीं हुआ"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The death toll rose in Ukraine after Russian attacks on an aid centre, hospice, and hospital killed at least 38 people in 24 hours, with warnings that dozens more might be trapped under rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+            "hi": "यूक्रेन में एक सहायता केंद्र, धर्मशाला और अस्पताल पर रूसी हमलों के बाद 24 घंटों में कम से कम 38 लोगों की मौत के बाद मरने वालों की संख्या बढ़ गई, चेतावनी दी गई कि दर्जनों लोग मलबे में फंसे हो सकते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-28"
+        },
+        {
+          "prompt": {
+            "en": "Why did Libya's top religious authority, the Dar al-Ifta, rule against wearing Nike clothes?",
+            "hi": "लीबिया के शीर्ष धार्मिक प्राधिकरण, दार अल-इफ्ता ने नाइके के कपड़े पहनने के खिलाफ शासन क्यों किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because the brand's manufacturing plants use non-sustainable synthetic dyes",
+                "hi": "क्योंकि ब्रांड के विनिर्माण संयंत्र गैर-टिकाऊ सिंथेटिक रंगों का उपयोग करते हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because the US company was named after the Greek goddess of victory, making the display of its logo unIslamic",
+                "hi": "क्योंकि अमेरिकी कंपनी का नाम विजय की यूनानी देवी के नाम पर रखा गया था, जिससे इसके लोगो का प्रदर्शन गैरइस्लामिक हो गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because the footwear violates traditional modesty codes in public spaces",
+                "hi": "क्योंकि जूते सार्वजनिक स्थानों पर पारंपरिक शील संहिता का उल्लंघन करते हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Because the corporation funds foreign military campaigns in the region",
+                "hi": "क्योंकि निगम इस क्षेत्र में विदेशी सैन्य अभियानों को वित्त पोषित करता है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Libya's Dar al-Ifta ruled against wearing Nike clothes because the US company was named after the Greek goddess of victory, making displaying its logo unIslamic.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+            "hi": "लीबिया के दार अल-इफ्ता ने नाइके के कपड़े पहनने के खिलाफ फैसला सुनाया क्योंकि अमेरिकी कंपनी का नाम जीत की ग्रीक देवी के नाम पर रखा गया था, जिससे इसका लोगो प्रदर्शित करना गैर-इस्लामिक हो गया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-29"
+        },
+        {
+          "prompt": {
+            "en": "On World One Health Day, what core argument was highlighted by parallel disease events such as a cattle virus at home and a plague scare abroad?",
+            "hi": "विश्व वन स्वास्थ्य दिवस पर, घरेलू स्तर पर मवेशियों के वायरस और विदेश में प्लेग की आशंका जैसी समानांतर बीमारी की घटनाओं ने किस मुख्य तर्क को उजागर किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That national borders can effectively contain zoonotic pathogen outbreaks if sealed immediately",
+                "hi": "अगर तुरंत सील कर दिया जाए तो राष्ट्रीय सीमाओं पर जूनोटिक रोगज़नक़ के प्रकोप को प्रभावी ढंग से रोका जा सकता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That microbial mutations occur strictly in isolated ecosystems without cross-species transmission",
+                "hi": "यह कि माइक्रोबियल उत्परिवर्तन क्रॉस-प्रजाति संचरण के बिना पृथक पारिस्थितिक तंत्र में सख्ती से होते हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That livestock vaccination programs are entirely independent of human public health initiatives",
+                "hi": "पशुधन टीकाकरण कार्यक्रम मानव सार्वजनिक स्वास्थ्य पहल से पूरी तरह स्वतंत्र हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That life is epidemiologically indivisible, and governing institutions must learn to be so too",
+                "hi": "वह जीवन महामारी विज्ञान की दृष्टि से अविभाज्य है, और शासकीय संस्थानों को भी ऐसा होना सीखना चाहिए"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "World One Health Day emphasized that a cattle virus at home and a plague scare abroad demonstrate that life is epidemiologically indivisible, requiring governing institutions to integrate accordingly.\nSource: https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
+            "hi": "विश्व वन स्वास्थ्य दिवस पर इस बात पर जोर दिया गया कि घर में मवेशियों का वायरस और विदेशों में प्लेग का डर दर्शाता है कि जीवन महामारी विज्ञान की दृष्टि से अविभाज्य है, जिसके लिए शासकीय संस्थानों को तदनुसार एकीकृत करने की आवश्यकता है।\nस्रोत: https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-30"
+        },
+        {
+          "prompt": {
+            "en": "Which historic animal spaceflight milestone is referenced alongside the launch of Sputnik 2 in the early episodes of the Space Race?",
+            "hi": "स्पेस रेस के शुरुआती एपिसोड में स्पुतनिक 2 के लॉन्च के साथ किस ऐतिहासिक पशु अंतरिक्ष उड़ान मील के पत्थर का संदर्भ दिया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ham the chimpanzee's suborbital flight",
+                "hi": "चिंपैंजी की उपकक्षीय उड़ान को हैम करें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Laika’s historic journey",
+                "hi": "लाइका की ऐतिहासिक यात्रा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Belka and Strelka's orbital return mission",
+                "hi": "बेल्का और स्ट्रेलका का कक्षीय वापसी मिशन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The flight of Félicette the cat",
+                "hi": "फेलिसेट बिल्ली की उड़ान"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The early Space Race quiz specifically highlights the launch of Sputnik 2 and Laika’s historic journey as poignant episodes.\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
+            "hi": "प्रारंभिक स्पेस रेस क्विज़ विशेष रूप से स्पुतनिक 2 के लॉन्च और लाइका की ऐतिहासिक यात्रा को मार्मिक एपिसोड के रूप में उजागर करती है।\nस्रोत: https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-31"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-04T13:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kochi Corporation clears 30 projects worth ₹1,500 crore for Urban Challenge Fund",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
+      "published": "2026-11-04T00:57:29+05:30"
+    },
+    {
+      "title": "Local body polls in Andhra: TDP breaches YSRCP’s fortress of Pulivendula after four decades",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+      "published": "2026-11-04T00:56:42+05:30"
+    },
+    {
+      "title": "Andhra Pradesh makes 360-hour semester internships mandatory for UG students",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+      "published": "2026-11-04T00:54:47+05:30"
+    },
+    {
+      "title": "Daily Quiz: On the early Space Race",
+      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
+      "published": "2026-11-03T16:28:21+05:30"
+    },
+    {
+      "title": "The cow, the flea and the genome: One Health and the statecraft of prevention",
+      "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
+      "published": "2026-11-03T12:36:31+05:30"
+    },
+    {
+      "title": "How smoking sets the stage for lung cancer | Explained",
+      "url": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+      "published": "2026-11-03T07:56:58+05:30"
+    },
+    {
+      "title": "New technique uses light to spot deepfakes in seconds",
+      "url": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
+      "published": "2026-11-02T16:24:38+05:30"
+    },
+    {
+      "title": "Shock and regret: scientists react to AI roiling life’s work",
+      "url": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+      "published": "2026-11-02T15:42:43+05:30"
+    },
+    {
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+      "published": "2026-11-02T14:39:24+05:30"
+    },
+    {
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:51:08+00:00"
+    },
+    {
+      "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:20:50+00:00"
+    },
+    {
+      "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
+      "url": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:27:51+00:00"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:00:55+00:00"
+    },
+    {
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:56:31+00:00"
+    },
+    {
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T15:05:01+00:00"
+    },
+    {
+      "title": "'Quiet quitting' could be hitting the economy - here's why",
+      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:15:51+00:00"
+    },
+    {
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T08:57:20+00:00"
+    },
+    {
+      "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:19:27+00:00"
+    },
+    {
+      "title": "Scientists detect signals at the smallest scale ever explored",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T06:01:23+00:00"
+    },
+    {
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T18:04:52+00:00"
+    },
+    {
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T16:57:41+00:00"
+    },
+    {
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T14:56:46+00:00"
+    }
+  ]
+}

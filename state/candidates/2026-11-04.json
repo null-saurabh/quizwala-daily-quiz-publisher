@@ -1,0 +1,1750 @@
+{
+  "date": "2026-11-04",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-04.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Under the Kochi@2050 vision, the Kochi Corporation cleared 30 projects worth ₹1,500 crore for the Urban Challenge Fund. What financial share is the Union government committed to providing as a grant?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "10% of the project cost"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "50% of the project cost"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "25% of the project cost"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "75% of the project cost"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Kochi Corporation cleared projects worth ₹1,500 crore under the Urban Challenge Fund, for which the Union government will provide 25% of the project cost as a grant.\nSource: https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-1"
+        },
+        {
+          "prompt": {
+            "en": "Under the new higher education guidelines in Andhra Pradesh, undergraduate students are required to complete mandatory semester internships. What is the total duration mandated for these internships?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "180 hours"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "240 hours"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "500 hours"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "360 hours"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Andhra Pradesh government made 360-hour semester internships mandatory, to be incorporated into the final-year curriculum of three-year and four-year undergraduate programmes.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-2"
+        },
+        {
+          "prompt": {
+            "en": "In the recent local body polls in Andhra Pradesh, the Telugu Desam Party (TDP) breached a long-standing YSRCP fortress after four decades. Which seat was won by TDP's Geetha Kumari?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Pulivendula municipal chairperson seat"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Amaravati mayoral seat"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tirupati civic chief position"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kurnool municipal council seat"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "TDP's Geetha Kumari won the Pulivendula municipal chairperson seat by defeating the opponent with a majority of 13,875 votes, breaching the YSRCP stronghold after four decades.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-3"
+        },
+        {
+          "prompt": {
+            "en": "What reason was cited by authorities in central Delhi for razing hundreds of houses in a historic neighbourhood?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They were identified as unsafe structures prone to collapse"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They violated commercial zoning regulations"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They were built on government land"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They obstructed upcoming metro rail expansion"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Authorities razed hundreds of houses in a central Delhi neighbourhood after stating that they were built on government land.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-4"
+        },
+        {
+          "prompt": {
+            "en": "Following a shocking classroom incident in India where a young child assaulted another, what was reported regarding the victim's medical condition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She succumbed to her injuries at the hospital"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She suffered permanent physical paralysis"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She is out of danger, but remains traumatised by her assault"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She was discharged immediately without any injuries"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The family reported that the young victim who was assaulted in the classroom was out of danger but remained traumatised by the assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-5"
+        },
+        {
+          "prompt": {
+            "en": "During the opposition's mega rally in Delhi, what primary demand was raised by the thousands who gathered?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Requesting a complete moratorium on state elections"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Demanding immediate amendment of corporate tax laws"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Protesting against new educational curriculum changes"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Calling for the chief election commissioner to step down"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The opposition's mega rally in the heart of Delhi featured thousands gathering to call for the chief election commissioner to step down.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-6"
+        },
+        {
+          "prompt": {
+            "en": "In the context of the car finance saga, under what condition does the regulator support lenders making early compensation offers to drivers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As long as they are financed by government subsidies"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "If they are approved by international audit firms"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As long as they are fair"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Provided the drivers waive all future legal rights"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The regulator stated that it supports lenders offering early compensation offers to drivers before the car finance saga ends, provided that those offers are fair.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-7"
+        },
+        {
+          "prompt": {
+            "en": "Which mining giant is jointly funding a A$28 million 'toad containment zone' to protect the Pilbara region from invasive species?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "BHP Group"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Glencore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rio Tinto"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Vale SA"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Mining giant Rio Tinto is joining the fight against the spread of killer toads by jointly funding a A$28 million toad containment zone to protect the Pilbara region.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-8"
+        },
+        {
+          "prompt": {
+            "en": "According to a recent report discussing 'quiet quitting', what behavioral shift has been observed among British workers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are demanding higher remote-work allowances across all sectors"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They have become less engaged with the jobs they do and are less willing to put in extra effort"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They are migrating in large numbers to European Union nations"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are retiring early due to universal pension reforms"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "A report found that 'quiet quitting' could be hitting the economy because Britons have become less engaged with their jobs and less willing to put in extra effort.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-9"
+        },
+        {
+          "prompt": {
+            "en": "Why did auditors criticize the Welsh public sector regarding its net zero targets?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because organizations exceeded their carbon credit budgets"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because they failed to invest in renewable energy infrastructure"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because they are unlikely to meet net zero plans by 2030 due to a lack of progress in tackling climate change"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Because they refused to submit annual sustainability reports"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Auditors criticized the Welsh public sector because organisations have made insufficient progress in tackling climate change, making it unlikely they will meet net zero plans by 2030.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-10"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective of the major study launched by the UK government regarding 'forever chemicals' (PFAS)?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To completely ban the industrial manufacture of PFAS products within two years"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To measure PFAS in the UK population to understand the risks"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To clear PFAS contamination from all municipal water reservoirs"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To subsidize alternative manufacturing materials for private corporations"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The UK government launched a major study to measure PFAS (forever chemicals) in the country's population to better understand the associated health risks.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-11"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-04.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What directive was issued by Adani Airports Holdings CEO Arun Bansal to foreign airlines operating in Mumbai?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To pay double landing fees or face immediate cancellation of routes"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To merge their ground handling services with local operators"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To transition entirely to cargo operations from domestic terminals"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To shift to Navi Mumbai or stop flying to Mumbai"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Adani Airports Holdings CEO Arun Bansal directed foreign airlines to vacate Mumbai property by April, effectively telling them to shift to Navi Mumbai or stop flying to Mumbai.\nSource: https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-12"
+        },
+        {
+          "prompt": {
+            "en": "According to the NSE Q2 financial report, what performance metric in the cash market supported its bottomline?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Average daily traded volume (ADTV) rose 24% YoY to ₹1,18,377 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Derivative trading volumes contracted by 15% due to higher margin requirements"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Foreign institutional investments surged by 50% in equity segments"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Primary IPO listings generated record fee income for the exchange"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The NSE's Q2 profit rise and bottomline were supported by higher trading activity, specifically an increase of 24% YoY in the average daily traded volume (ADTV) in the cash market to ₹1,18,377 crore.\nSource: https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-13"
+        },
+        {
+          "prompt": {
+            "en": "Despite an 18% rise in iron ore output in October, what operational constraint temporarily impacted NMDC's sales?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Disruptions to the Kottavalasa–Kirandul (KK) railway line after sections were washed away by heavy monsoon rains"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Labor strikes at major extraction sites in Chhattisgarh"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Export bans imposed on iron ore shipments to Southeast Asia"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Severe power shortages halting blast furnace operations"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "NMDC's iron ore dispatches were temporarily impacted because sections of the Kottavalasa–Kirandul (KK) railway line were washed away due to heavy monsoon rains.\nSource: https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-14"
+        },
+        {
+          "prompt": {
+            "en": "What specific sector is covered by the draft deal agreed between the UK and EU to scrap Brexit red tape?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Automotive manufacturing components"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Financial services and cross-border banking"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Food exports"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Pharmaceutical supply chains"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The UK and EU agreed on a draft deal to scrap Brexit red tape specifically over food exports ahead of a UK-EU summit.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-15"
+        },
+        {
+          "prompt": {
+            "en": "Who has taken charge as the new head of supermarket chain Asda with immediate effect?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "K.T. Jithendran"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Arun Bansal"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Anil Agarwal"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "David Potts"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Asda hired ex-Morrisons boss David Potts to take charge of the Leeds-based firm with immediate effect in a bid to grow the company.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-16"
+        },
+        {
+          "prompt": {
+            "en": "What energy source are four planned 'hyperscale' AI data centres considering using to meet their electricity needs in the UK?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gas-fired power"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Offshore wind farms directly connected via dedicated cables"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Small modular nuclear reactors"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Geothermal energy grids"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "AI data centres could undermine the UK's emissions goals because four planned hyperscale data centres are considering using gas-fired power for their electricity needs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-17"
+        },
+        {
+          "prompt": {
+            "en": "According to crypto giant Binance, what method was used by attackers in connection with a massive $6.3bn crypto hack?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Distributed denial-of-service attacks on exchange liquidity pools"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Physical theft of hardware wallet private keys from corporate headquarters"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exploitation of smart contract vulnerabilities in decentralized finance protocols"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Fake job interviews via legitimate job-hunting platforms involving bogus company representatives"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Binance revealed that fake job interviews, where engineers were contacted through legitimate job-hunting platforms and invited by fake company representatives, were used as part of the cyber-attack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-18"
+        },
+        {
+          "prompt": {
+            "en": "Which trade body recently cautioned its members regarding shipments to West Asian countries amid regional developments?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "All India Agricultural Producers Association"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Federation of Indian Export Organisations"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rice exporters federation"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Confederation of Indian Textile Industry"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The rice exporters federation issued a caution to its members regarding shipments to West Asian countries.\nSource: https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-19"
+        },
+        {
+          "prompt": {
+            "en": "According to industry reports from Coimbatore, political and social disturbances in which neighboring country are likely to impact Indian yarn and fabric exports?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Pakistan"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Bangladesh"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Myanmar"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sri Lanka"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Disturbances in Bangladesh were reported to be likely to impact Indian yarn and fabric exports.\nSource: https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-20"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-04.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to a new study on how smoking sets the stage for lung cancer, what specific biological changes occur due to chronic smoke exposure?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It directly mutates DNA without affecting local immune defences"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It alters lung stem cells, weakens safety mechanisms and local immune defences, and primes cells for cancer"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It accelerates cell regeneration while permanently locking TP53 genes in an active state"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It exclusively damages alveolar macrophages without altering stem cell behavior"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Chronic smoke exposure alters lung stem cells, weakens their safety mechanisms and local immune defences, and creates a precancerous state where common mutations trigger tumors.\nSource: https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-21"
+        },
+        {
+          "prompt": {
+            "en": "What specific capability was demonstrated by the new technique designed to spot deepfakes using light?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It detects deepfakes by analyzing social media metadata rather than pixel data"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It operates exclusively on audio waveforms to detect synthesized voice deepfakes"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It requires manual verification for every video processed beyond a five-minute length"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It identifies manipulated videos with 99.86% accuracy while processing 15 videos at a time"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The new light-based technique identified manipulated videos with an accuracy of 99.86% and real videos with 95.72% accuracy while processing 15 videos simultaneously.\nSource: https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-22"
+        },
+        {
+          "prompt": {
+            "en": "According to galactic archaeologists studying the history of the Milky Way, how did the galaxy primarily grow over a timeline stretching back almost 12 billion years?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By contracting from a primordial gas cloud without external accretion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Through rapid starburst events triggered by cosmic ray ionization"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "By merging directly with a single neighboring supermassive black hole"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "By devouring galaxies, leaving a trail of ghost stars"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Milky Way grew by devouring galaxies, leaving behind a trail of ghost stars that allow galactic archaeologists to trace its history back almost 12 billion years.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-23"
+        },
+        {
+          "prompt": {
+            "en": "What significant theoretical claim was made by artificial intelligence companies OpenAI and Anthropic regarding their AI models?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Their models had achieved artificial general intelligence across all domains"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Their systems had successfully predicted quantum gravitational fluctuations"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "One of their AI models had disproved the exponential time hypothesis"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Their neural networks had solved the P versus NP problem completely"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "OpenAI and Anthropic each announced that one of their AI models had disproved the exponential time hypothesis.\nSource: https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-24"
+        },
+        {
+          "prompt": {
+            "en": "What tragic incident occurred near the Everest base camp involving two helicopters?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They collided mid-air due to severe blinding snowstorms"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They were struck by falling debris from an avalanche during descent"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They suffered simultaneous engine failures caused by high-altitude freezing fog"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They crashed just metres from the ground after trying to land at the same spot, resulting in fatalities including an Indian tourist"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "An Indian tourist was killed after two helicopters collided and crashed just metres from the ground after trying to land at the same spot near the Everest base camp.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-25"
+        },
+        {
+          "prompt": {
+            "en": "According to recent scientific reports, what milestone was achieved by researchers regarding spatial measurements?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They measured the exact radius of a neutron star with sub-atomic precision"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They mapped the gravitational wave background of the early universe"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They detected signals from the smallest distances ever probed"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They observed quantum entanglement across interplanetary distances"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Researchers have successfully detected signals at the smallest scale ever explored, specifically from the smallest distances ever probed.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-26"
+        },
+        {
+          "prompt": {
+            "en": "Which rare creature was recently found in Wales after a 60-year absence, easing extinction fears?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Welsh Marsh Fritillary Butterfly"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Greater Horseshoe Bat"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Short-Necked Oil Beetle"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Pine Marten of Snowdonia"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Short-Necked Oil Beetle, which was feared to have become extinct in Wales after recent surveys, was found again after 60 years.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-27"
+        },
+        {
+          "prompt": {
+            "en": "Following recent Russian attacks on an aid centre, hospice, and hospital in Ukraine, what casualty figures and warnings were reported?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "All civilians were safely evacuated before structural collapses occurred"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Over 150 casualties were confirmed with widespread chemical contamination"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At least 38 people were killed in 24 hours, with warnings that dozens more could be trapped under rubble"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Military infrastructure was exclusively hit with zero civilian casualties"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The death toll rose in Ukraine after Russian attacks on an aid centre, hospice, and hospital killed at least 38 people in 24 hours, with warnings that dozens more might be trapped under rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-28"
+        },
+        {
+          "prompt": {
+            "en": "Why did Libya's top religious authority, the Dar al-Ifta, rule against wearing Nike clothes?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Because the brand's manufacturing plants use non-sustainable synthetic dyes"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Because the US company was named after the Greek goddess of victory, making the display of its logo unIslamic"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because the footwear violates traditional modesty codes in public spaces"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Because the corporation funds foreign military campaigns in the region"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Libya's Dar al-Ifta ruled against wearing Nike clothes because the US company was named after the Greek goddess of victory, making displaying its logo unIslamic.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-29"
+        },
+        {
+          "prompt": {
+            "en": "On World One Health Day, what core argument was highlighted by parallel disease events such as a cattle virus at home and a plague scare abroad?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That national borders can effectively contain zoonotic pathogen outbreaks if sealed immediately"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That microbial mutations occur strictly in isolated ecosystems without cross-species transmission"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That livestock vaccination programs are entirely independent of human public health initiatives"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That life is epidemiologically indivisible, and governing institutions must learn to be so too"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "World One Health Day emphasized that a cattle virus at home and a plague scare abroad demonstrate that life is epidemiologically indivisible, requiring governing institutions to integrate accordingly.\nSource: https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-30"
+        },
+        {
+          "prompt": {
+            "en": "Which historic animal spaceflight milestone is referenced alongside the launch of Sputnik 2 in the early episodes of the Space Race?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ham the chimpanzee's suborbital flight"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Laika’s historic journey"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Belka and Strelka's orbital return mission"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The flight of Félicette the cat"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The early Space Race quiz specifically highlights the launch of Sputnik 2 and Laika’s historic journey as poignant episodes.\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-04-31"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "Recruitment exams: KEA decided to appoint two invigilators for every exam hall",
+      "url": "https://www.thehindu.com/news/national/karnataka/recruitment-exams-kea-decided-to-appoint-two-invigilators-for-every-exam-hall/article71661935.ece",
+      "published": "2026-11-04T01:10:55+05:30",
+      "text": ""
+    },
+    {
+      "id": "2",
+      "title": "Kochi Corporation clears 30 projects worth ₹1,500 crore for Urban Challenge Fund",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
+      "published": "2026-11-04T00:57:29+05:30",
+      "text": "Projects include mobility hubs, civic tower, cultural district and waste-processing facility under Kochi@2050 vision; Union government to provide 25% of project cost as grant; Opposition councillors raise concerns over prioritising revenue-generating projects and use of land earmarked for welfare initiatives"
+    },
+    {
+      "id": "3",
+      "title": "Local body polls in Andhra: TDP breaches YSRCP’s fortress of Pulivendula after four decades",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+      "published": "2026-11-04T00:56:42+05:30",
+      "text": "TDP’s Geetha Kumari wins Pulivendula municipal chairperson seat by defeating YSRCP president Y.S. Jagan Mohan Redddy’s aunt Prameelamma with a majority of 13,875 votes"
+    },
+    {
+      "id": "4",
+      "title": "Andhra Pradesh makes 360-hour semester internships mandatory for UG students",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+      "published": "2026-11-04T00:54:47+05:30",
+      "text": "Internships to be incorporated into the final-year curriculum of three-year and four-year UG programmes; priority to stipend-based internships available through the Institute-Industry Connect portal"
+    },
+    {
+      "id": "5",
+      "title": "DVAC conducts drone survey of irrigation tank in illegal sand mining charge against DMK’s E.V. Velu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dvac-conducts-drone-survey-of-irrigation-tank-in-illegal-sand-mining-charge-against-dmks-ev-velu/article71660795.ece",
+      "published": "2026-11-04T00:50:23+05:30",
+      "text": ""
+    },
+    {
+      "id": "6",
+      "title": "Complaints to HR&CE Minister leads to cancellation of temple land lease",
+      "url": "https://www.thehindu.com/news/cities/chennai/complaints-to-hrampce-minister-leads-to-cancellation-of-temple-land-lease/article71662232.ece",
+      "published": "2026-11-04T00:49:25+05:30",
+      "text": ""
+    },
+    {
+      "id": "7",
+      "title": "Shift to Navi Mumbai or stop flying to Mumbai: Adani Airports CEO tells foreign airlines",
+      "url": "https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
+      "published": "2026-11-03T22:39:27+05:30",
+      "text": "Adani Airports Holdings CEO Arun Bansal says, “Like a landlord tells its airlines to vacate his property… we have told airlines you have to vacate from April. After that where you go is your choice.”"
+    },
+    {
+      "id": "8",
+      "title": "NSE Q2 profit rises 23%, but sequential earnings dip 17%",
+      "url": "https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
+      "published": "2026-11-03T22:33:28+05:30",
+      "text": "The bottomline was supported by higher trading activity. Average daily traded volume (ADTV) in the cash market rose 24% YoY to ₹1,18,377 crore in Q2FY27."
+    },
+    {
+      "id": "9",
+      "title": "Bangladesh disturbances likely to impact yarn, fabric exports",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece",
+      "published": "2026-11-03T22:29:00+05:30",
+      "text": ""
+    },
+    {
+      "id": "10",
+      "title": "Rice exporters federation cautions members on shipments to west Asian countries",
+      "url": "https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece",
+      "published": "2026-11-03T22:18:20+05:30",
+      "text": ""
+    },
+    {
+      "id": "11",
+      "title": "NMDC’s iron ore output rose 18% in Oct, sales dip amid rain impact",
+      "url": "https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
+      "published": "2026-11-03T22:15:38+05:30",
+      "text": "Dispatches were temporarily impacted by disruptions to the Kottavalasa–Kirandul (KK) railway line after sections of the route were washed away due to heavy monsoon rains in September and October."
+    },
+    {
+      "id": "12",
+      "title": "HRV Pharma to acquire German firm Phatebo",
+      "url": "https://www.thehindu.com/business/Industry/hrv-pharma-to-acquire-german-firm-phatebo/article71661790.ece",
+      "published": "2026-11-03T21:57:18+05:30",
+      "text": "The acquisition will take it beyond active pharmaceutical ingredients into finished formulations and give it a licensed operating business in Germany."
+    },
+    {
+      "id": "13",
+      "title": "Daily Quiz: On the early Space Race",
+      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
+      "published": "2026-11-03T16:28:21+05:30",
+      "text": "From the launch of Sputnik 2 to Laika’s historic journey, test your knowledge of one of the most significant and poignant episodes of the early Space Race"
+    },
+    {
+      "id": "14",
+      "title": "The cow, the flea and the genome: One Health and the statecraft of prevention",
+      "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
+      "published": "2026-11-03T12:36:31+05:30",
+      "text": "A cattle virus at home and a plague scare abroad make the same argument this World One Health Day: life is epidemiologically indivisible, and the institutions that govern and study it must learn to be so too"
+    },
+    {
+      "id": "15",
+      "title": "How smoking sets the stage for lung cancer | Explained",
+      "url": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+      "published": "2026-11-03T07:56:58+05:30",
+      "text": "Chronic smoke exposure alters lung stem cells and weakens their safety mechanisms and local immune defences, creating a precancerous state; common KRAS and TP53 mutations triggered tumours only in smoke-conditioned tissue, showing how smoking primes cells for cancer"
+    },
+    {
+      "id": "16",
+      "title": "New technique uses light to spot deepfakes in seconds",
+      "url": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
+      "published": "2026-11-02T16:24:38+05:30",
+      "text": "In tests, the system was able to identify manipulated videos with an accuracy of 99.86% and real videos with an accuracy of 95.72% — while processing 15 videos at a time"
+    },
+    {
+      "id": "17",
+      "title": "Shock and regret: scientists react to AI roiling life’s work",
+      "url": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
+      "published": "2026-11-02T15:42:43+05:30",
+      "text": "OpenAI and Anthropic each said last week that one of their AI models had disproved the exponential time hypothesis"
+    },
+    {
+      "id": "18",
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+      "published": "2026-11-02T14:39:24+05:30",
+      "text": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years"
+    },
+    {
+      "id": "19",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:51:08+00:00",
+      "text": "The two aircraft crashed just metres from the ground after trying to land at the same spot."
+    },
+    {
+      "id": "20",
+      "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:20:50+00:00",
+      "text": "Authorities have razed hundreds of houses in a neighbourhood in central Delhi, saying they were built on government land."
+    },
+    {
+      "id": "21",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:09:13+00:00",
+      "text": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana."
+    },
+    {
+      "id": "22",
+      "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
+      "url": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:27:51+00:00",
+      "text": "The girl, who was seriously injured, is out of danger, but remains traumatised by her assault, her family said."
+    },
+    {
+      "id": "23",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:00:55+00:00",
+      "text": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
+    },
+    {
+      "id": "24",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T12:07:59+00:00",
+      "text": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    },
+    {
+      "id": "25",
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:56:31+00:00",
+      "text": "The regulator says it supports lenders offering early compensation offers, as long as they are fair."
+    },
+    {
+      "id": "26",
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T15:05:01+00:00",
+      "text": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region."
+    },
+    {
+      "id": "27",
+      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T15:12:35+00:00",
+      "text": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect."
+    },
+    {
+      "id": "28",
+      "title": "'Quiet quitting' could be hitting the economy - here's why",
+      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:15:51+00:00",
+      "text": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found."
+    },
+    {
+      "id": "29",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:50:14+00:00",
+      "text": "The men and women who rummage through commercial bins to take clothes and other items."
+    },
+    {
+      "id": "30",
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T08:57:20+00:00",
+      "text": "A watchdog has criticised the lack of progress made by organisations in tackling climate change."
+    },
+    {
+      "id": "31",
+      "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:19:27+00:00",
+      "text": "The government is launching the first study to measure PFAS in the UK population to understand the risks."
+    },
+    {
+      "id": "32",
+      "title": "AI data centres could undermine UK's emissions goals",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T06:27:17+00:00",
+      "text": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs."
+    },
+    {
+      "id": "33",
+      "title": "Scientists detect signals at the smallest scale ever explored",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T06:01:23+00:00",
+      "text": "Researchers have detected signals from the smallest distances ever probed."
+    },
+    {
+      "id": "34",
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T18:04:52+00:00",
+      "text": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys."
+    },
+    {
+      "id": "35",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T08:57:56+00:00",
+      "text": "A number of birds are also injured after the spill from the oil tank earlier this week."
+    },
+    {
+      "id": "36",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T17:56:03+00:00",
+      "text": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+    },
+    {
+      "id": "37",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T09:09:18+00:00",
+      "text": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
+    },
+    {
+      "id": "38",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T16:19:29+00:00",
+      "text": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
+    },
+    {
+      "id": "39",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T16:57:41+00:00",
+      "text": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
+    },
+    {
+      "id": "40",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T14:56:46+00:00",
+      "text": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
+    },
+    {
+      "id": "41",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T13:55:47+00:00",
+      "text": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food."
+    }
+  ]
+}
