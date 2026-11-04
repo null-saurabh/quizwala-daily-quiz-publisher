@@ -418,6 +418,98 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-05-9"
+        },
+        {
+          "prompt": {
+            "en": "Following a shocking classroom incident in India where an eight-year-old reportedly beat a six-year-old, what did the victim's family report regarding her condition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She has fully recovered and returned to school"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She suffered permanent physical paralysis requiring long-term therapy"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She is out of danger but remains traumatised by her assault"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She was transferred to a specialized pediatric hospital abroad"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "According to her family, the young victim of the classroom assault is out of danger from her serious injuries but remains deeply traumatised.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-28"
+        },
+        {
+          "prompt": {
+            "en": "According to editorial commentary on cyclones Arnab and Murasu, what primary form of assistance do affected States require?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Long-term tax waivers for industrial corporations in coastal zones"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Immediate deployment of foreign humanitarian aid agencies"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Help to rebuild public infrastructure after damage in cyclones"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Complete debt write-offs by nationalized commercial banks"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Editorial assessments following cyclones Arnab and Murasu emphasized that States need substantial help to rebuild public infrastructure after suffering extensive damage.\nSource: https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
+            "hi": null
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-29"
         }
       ],
       "quarantined": [],
@@ -888,6 +980,52 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-05-19"
+        },
+        {
+          "prompt": {
+            "en": "According to Union Minister Pralhad Joshi, what major milestone has India secured in the renewable energy sector from overseas investors?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$100 billion in sovereign bond purchases"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$250 billion in direct subsidies for domestic solar panel manufacturers"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$400-bn investment commitments in renewables"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$500-bn venture capital fund for offshore wind projects"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Union Minister Pralhad Joshi announced that India has secured $400 billion in investment commitments in the renewable energy sector, reflecting overseas investor confidence.\nSource: https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece",
+            "hi": null
+          },
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-30"
         }
       ],
       "quarantined": [],
@@ -1266,6 +1404,52 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-05-27"
+        },
+        {
+          "prompt": {
+            "en": "According to Ukrainian officials, what devastating event occurred in a village following a deadly Russian double-tap bombing?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At least 40 people were killed and another 30 may still be under the rubble following a double-tap bombing attack"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A nuclear power plant containment structure suffered a critical radiation leak"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A major dam collapsed, flooding dozens of residential settlements along the riverbank"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An ammunition depot exploded, releasing toxic chemical fumes across the district"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Ukrainian authorities reported that a deadly double-tap bombing attack on a village killed at least 40 people, with up to 30 more potentially trapped under the rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-31"
         }
       ],
       "quarantined": [],
@@ -1561,6 +1745,27 @@
       "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T16:18:21+00:00",
       "text": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
+    },
+    {
+      "id": "1",
+      "title": "Explosion damages railway track in northern Rajasthan district",
+      "url": "https://www.thehindu.com/news/national/rajasthan/explosion-damages-railway-track-in-northern-rajasthan-district/article71666135.ece",
+      "published": "2026-11-05T02:02:00+05:30",
+      "text": "The blast, which occurred near 50 GB village, shattered two concrete railway sleepers beneath the tracks, dislodged the track clips and created a two-foot-deep crater at the site"
+    },
+    {
+      "id": "2",
+      "title": "U.P. to match Assembly voter lists with Panchayat and Urban local body rolls to find missing voters",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-to-match-assembly-voter-lists-with-panchayat-and-urban-local-body-rolls-to-find-missing-voters/article71667160.ece",
+      "published": "2026-11-05T01:53:51+05:30",
+      "text": "U.P. CEO office said that guidelines have been sent to all District Election Officers (DEOs), who have been told to carry out the matching thoroughly"
+    },
+    {
+      "id": "3",
+      "title": "Helping hand: On Cyclones Arnab and Murasu",
+      "url": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
+      "published": "2026-11-05T01:47:28+05:30",
+      "text": "States need help to rebuild public infrastructure after damage in cyclones"
     }
   ]
 }

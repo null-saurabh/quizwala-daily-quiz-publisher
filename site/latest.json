@@ -1,10 +1,583 @@
 {
   "schema_version": 2,
   "date": "2026-11-05",
-  "generated_at": "2026-11-04T20:02:04.206738+00:00",
+  "generated_at": "2026-11-04T20:38:53.370438+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
+    {
+      "title": "Public Health, Policy & Regional Governance",
+      "source_filename": "daily-2026-11-05.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Under the government's proposed amendments concerning substandard drugs, what is the mandatory condition stipulated before the revocation of a manufacturing licence suspension?",
+            "hi": "घटिया दवाओं से संबंधित सरकार के प्रस्तावित संशोधनों के तहत, विनिर्माण लाइसेंस निलंबन को रद्द करने से पहले निर्धारित अनिवार्य शर्त क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A mandatory inspection by international regulatory agencies.",
+                "hi": "अंतर्राष्ट्रीय नियामक एजेंसियों द्वारा एक अनिवार्य निरीक्षण।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Payment of a heavy financial penalty to the state drug control board.",
+                "hi": "राज्य औषधि नियंत्रण बोर्ड को भारी आर्थिक दंड का भुगतान।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A mandatory public apology published across national newspapers.",
+                "hi": "राष्ट्रीय समाचार पत्रों में एक अनिवार्य सार्वजनिक माफी प्रकाशित की गई।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mandatory corrective measures must be undertaken by the manufacturer before revocation.",
+                "hi": "निरस्तीकरण से पहले निर्माता द्वारा अनिवार्य सुधारात्मक उपाय किए जाने चाहिए।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The proposed amendment explicitly mandates that corrective measures must be undertaken by the manufacturer before any suspension can be revoked, ensuring safety standards are met.\nSource: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
+            "hi": "प्रस्तावित संशोधन में स्पष्ट रूप से कहा गया है कि किसी भी निलंबन को रद्द करने से पहले निर्माता द्वारा सुधारात्मक उपाय किए जाने चाहिए, यह सुनिश्चित करते हुए कि सुरक्षा मानकों को पूरा किया जाए।\nस्रोत: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-1"
+        },
+        {
+          "prompt": {
+            "en": "What specific administrative trigger prompted the Kochi police to initiate a background verification drive for private bus employees?",
+            "hi": "किस विशिष्ट प्रशासनिक कारण ने कोच्चि पुलिस को निजी बस कर्मचारियों के लिए पृष्ठभूमि सत्यापन अभियान शुरू करने के लिए प्रेरित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Direct orders from the Union Ministry of Road Transport and Highways.",
+                "hi": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्रालय से सीधे आदेश।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A formal strike called by private bus passenger associations.",
+                "hi": "निजी बस यात्री संघों द्वारा औपचारिक हड़ताल का आह्वान किया गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Routine annual administrative reviews conducted by the state transport department.",
+                "hi": "राज्य परिवहन विभाग द्वारा नियमित वार्षिक प्रशासनिक समीक्षाएँ आयोजित की जाती हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A series of incidents of criminal behaviour involving private bus crew.",
+                "hi": "निजी बस चालक दल से जुड़े आपराधिक व्यवहार की घटनाओं की एक श्रृंखला।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt explicitly notes that the Kochi police launched the background verification drive following a series of incidents of criminal behaviour involving private bus crew.\nSource: https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
+            "hi": "अंश में स्पष्ट रूप से लिखा गया है कि कोच्चि पुलिस ने निजी बस चालक दल से जुड़े आपराधिक व्यवहार की घटनाओं की एक श्रृंखला के बाद पृष्ठभूमि सत्यापन अभियान शुरू किया।\nस्रोत: https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-2"
+        },
+        {
+          "prompt": {
+            "en": "In the PIL plea before the Madras High Court seeking guidelines regarding the registration of criminal cases for online speech, which neighboring State's judicial precedent was cited?",
+            "hi": "ऑनलाइन भाषण के लिए आपराधिक मामलों के पंजीकरण के संबंध में दिशानिर्देशों की मांग करने वाली मद्रास उच्च न्यायालय के समक्ष जनहित याचिका में किस पड़ोसी राज्य की न्यायिक मिसाल का हवाला दिया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Karnataka High Court",
+                "hi": "कर्नाटक उच्च न्यायालय"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Kerala High Court",
+                "hi": "केरल उच्च न्यायालय"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Andhra Pradesh High Court",
+                "hi": "आंध्र प्रदेश उच्च न्यायालय"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Telangana High Court",
+                "hi": "तेलंगाना उच्च न्यायालय"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The litigant pointed out that the Telangana High Court had framed a set of guidelines for the police in the neighboring State, suggesting Tamil Nadu could take a cue from that judgment.\nSource: https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
+            "hi": "वादी ने बताया कि तेलंगाना उच्च न्यायालय ने पड़ोसी राज्य में पुलिस के लिए दिशानिर्देशों का एक सेट तैयार किया था, जिसमें सुझाव दिया गया था कि तमिलनाडु उस फैसले से सीख ले सकता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-3"
+        },
+        {
+          "prompt": {
+            "en": "What is the core objective of the newly approved VISTAR scheme designed to overhaul India's statistical system?",
+            "hi": "भारत की सांख्यिकीय प्रणाली में आमूल-चूल परिवर्तन के लिए डिज़ाइन की गई नई स्वीकृत VISTAR योजना का मुख्य उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To strengthen data collecting, analysis, AI incorporation, and provide fresh unorganised sector data to make GDP figures more accurate.",
+                "hi": "जीडीपी आंकड़ों को अधिक सटीक बनाने के लिए डेटा संग्रहण, विश्लेषण, एआई निगमन को मजबूत करना और असंगठित क्षेत्र का ताजा डेटा प्रदान करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To decentralize agricultural census collection to rural village panchayats.",
+                "hi": "कृषि जनगणना संग्रह को ग्रामीण ग्राम पंचायतों तक विकेंद्रीकृत करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To replace the decennial census with automated digital surveys.",
+                "hi": "दशकीय जनगणना को स्वचालित डिजिटल सर्वेक्षण से बदलना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To transition all macroeconomic indicators to a decentralized blockchain ledger.",
+                "hi": "सभी व्यापक आर्थिक संकेतकों को एक विकेन्द्रीकृत ब्लॉकचेन बहीखाता में परिवर्तित करना।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The VISTAR scheme focuses on strengthening data collection and analysis, incorporating AI, and providing fresh unorganised sector data to improve GDP accuracy.\nSource: https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
+            "hi": "VISTAR योजना डेटा संग्रह और विश्लेषण को मजबूत करने, AI को शामिल करने और जीडीपी सटीकता में सुधार के लिए नए असंगठित क्षेत्र डेटा प्रदान करने पर केंद्रित है।\nस्रोत: https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-4"
+        },
+        {
+          "prompt": {
+            "en": "What specific Air Quality Index (AQI) reading was recorded for Delhi on Wednesday morning, placing it in the 'very poor' category?",
+            "hi": "बुधवार की सुबह दिल्ली के लिए कौन सी विशिष्ट वायु गुणवत्ता सूचकांक (एक्यूआई) रीडिंग दर्ज की गई, जो इसे 'बहुत खराब' श्रेणी में रखती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "377",
+                "hi": "377"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "312",
+                "hi": "312"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "415",
+                "hi": "415"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "450",
+                "hi": "450"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "According to the report, Delhi's air quality index reading stood at 377 on Wednesday morning, which places it directly in the 'very poor' category.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट के मुताबिक, बुधवार सुबह दिल्ली की वायु गुणवत्ता सूचकांक रीडिंग 377 थी, जो इसे सीधे 'बहुत खराब' श्रेणी में रखती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-5"
+        },
+        {
+          "prompt": {
+            "en": "What primary justification was provided by authorities for razing hundreds of houses in a central Delhi neighbourhood?",
+            "hi": "मध्य दिल्ली के पड़ोस में सैकड़ों घरों को ध्वस्त करने के लिए अधिकारियों द्वारा क्या प्राथमिक औचित्य प्रदान किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The structures were classified as structurally hazardous earthquake-prone buildings.",
+                "hi": "संरचनाओं को संरचनात्मक रूप से खतरनाक भूकंप-प्रवण इमारतों के रूप में वर्गीकृत किया गया था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The area failed municipal sanitation and fire safety audits.",
+                "hi": "यह क्षेत्र नगरपालिका स्वच्छता और अग्नि सुरक्षा ऑडिट में विफल रहा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The land was required for an expansion of the central vista project.",
+                "hi": "सेंट्रल विस्टा परियोजना के विस्तार के लिए भूमि की आवश्यकता थी।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The houses were built illegally on government land.",
+                "hi": "ये मकान सरकारी जमीन पर अवैध रूप से बनाए गए थे."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Authorities carried out the demolitions stating that the hundreds of houses in the central Delhi neighbourhood were built on government land.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+            "hi": "अधिकारियों ने यह कहते हुए तोड़फोड़ की कि मध्य दिल्ली के पड़ोस में सैकड़ों घर सरकारी जमीन पर बने थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-6"
+        },
+        {
+          "prompt": {
+            "en": "Following a shocking classroom incident in India where a young child was assaulted, what did the victim's family report regarding her medical and psychological condition?",
+            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक छोटे बच्चे पर हमला किया गया था, पीड़ित के परिवार ने उसकी चिकित्सा और मनोवैज्ञानिक स्थिति के बारे में क्या रिपोर्ट दी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She remains in critical care on life support.",
+                "hi": "वह जीवन समर्थन पर गंभीर देखभाल में बनी हुई है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She suffered permanent physical paralysis.",
+                "hi": "उसे स्थायी शारीरिक पक्षाघात का सामना करना पड़ा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She has fully recovered and returned to school.",
+                "hi": "वह पूरी तरह से ठीक होकर स्कूल लौट आई है।'"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She is out of danger but remains traumatised by her assault.",
+                "hi": "वह खतरे से बाहर है लेकिन अपने हमले से सदमे में है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The family stated that although the seriously injured girl is out of danger, she remains traumatised by the assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": "परिवार ने कहा कि हालांकि गंभीर रूप से घायल लड़की खतरे से बाहर है, लेकिन हमले से वह सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-7"
+        },
+        {
+          "prompt": {
+            "en": "During political consultations following an election deadlock, what warning did Israel's president issue to political parties?",
+            "hi": "चुनावी गतिरोध के बाद राजनीतिक परामर्श के दौरान, इज़राइल के राष्ट्रपति ने राजनीतिक दलों को क्या चेतावनी जारी की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That political parties must dissolve parliament and form a technocratic caretaker government.",
+                "hi": "राजनीतिक दलों को संसद भंग करनी होगी और एक तकनीकी लोकतांत्रिक कार्यवाहक सरकार बनानी होगी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That not every commitment and promise can be fulfilled if they want to avoid another election.",
+                "hi": "अगर वे दूसरे चुनाव से बचना चाहते हैं तो हर प्रतिबद्धता और वादा पूरा नहीं किया जा सकता।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That international mediators will oversee coalition negotiations.",
+                "hi": "अंतरराष्ट्रीय मध्यस्थ गठबंधन वार्ता की निगरानी करेंगे।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That constitutional amendments are mandatory before forming a coalition cabinet.",
+                "hi": "कि गठबंधन मंत्रिमंडल बनाने से पहले संवैधानिक संशोधन अनिवार्य है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "President Herzog explicitly warned politicians that not every commitment and promise can be fulfilled if they wish to avoid triggering another election.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+            "hi": "राष्ट्रपति हर्ज़ोग ने राजनेताओं को स्पष्ट रूप से चेतावनी दी कि यदि वे दूसरे चुनाव से बचना चाहते हैं तो हर प्रतिबद्धता और वादे को पूरा नहीं किया जा सकता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-8"
+        },
+        {
+          "prompt": {
+            "en": "According to Apollo Hospitals' Q2 financial report, what expansion plan was announced regarding its hospital infrastructure?",
+            "hi": "अपोलो हॉस्पिटल्स की Q2 वित्तीय रिपोर्ट के अनुसार, इसके अस्पताल के बुनियादी ढांचे के संबंध में किस विस्तार योजना की घोषणा की गई थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To add nearly 5,800 beds over the next five years.",
+                "hi": "अगले पांच वर्षों में लगभग 5,800 बिस्तर जोड़ना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To double international patient care centers across South Asia.",
+                "hi": "पूरे दक्षिण एशिया में अंतर्राष्ट्रीय रोगी देखभाल केंद्रों को दोगुना करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To merge regional clinics into tertiary care medical hubs.",
+                "hi": "क्षेत्रीय क्लीनिकों को तृतीयक देखभाल चिकित्सा केंद्रों में विलय करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To divest non-core pharmacy retail units to fund rural clinics.",
+                "hi": "ग्रामीण क्लीनिकों को वित्तपोषित करने के लिए गैर-प्रमुख फार्मेसी खुदरा इकाइयों का विनिवेश करना।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The company announced plans to add nearly 5,800 beds over five years, supported by strong revenue growth and improved occupancy rates.\nSource: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
+            "hi": "कंपनी ने मजबूत राजस्व वृद्धि और बेहतर अधिभोग दर द्वारा समर्थित, पांच वर्षों में लगभग 5,800 बिस्तर जोड़ने की योजना की घोषणा की।\nस्रोत: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-9"
+        },
+        {
+          "prompt": {
+            "en": "Following a shocking classroom incident in India where an eight-year-old reportedly beat a six-year-old, what did the victim's family report regarding her condition?",
+            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक आठ वर्षीय बच्चे ने कथित तौर पर छह वर्षीय बच्चे को पीटा, पीड़ित के परिवार ने उसकी स्थिति के बारे में क्या रिपोर्ट दी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She has fully recovered and returned to school",
+                "hi": "वह पूरी तरह से ठीक होकर स्कूल लौट आई है।'"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She suffered permanent physical paralysis requiring long-term therapy",
+                "hi": "उसे स्थायी शारीरिक पक्षाघात का सामना करना पड़ा जिसके लिए दीर्घकालिक उपचार की आवश्यकता थी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She is out of danger but remains traumatised by her assault",
+                "hi": "वह खतरे से बाहर है लेकिन अपने हमले से सदमे में है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She was transferred to a specialized pediatric hospital abroad",
+                "hi": "उसे विदेश में एक विशेष बाल चिकित्सा अस्पताल में स्थानांतरित कर दिया गया"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "According to her family, the young victim of the classroom assault is out of danger from her serious injuries but remains deeply traumatised.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": "उसके परिवार के अनुसार, कक्षा में हमले की शिकार युवा लड़की अपनी गंभीर चोटों के कारण खतरे से बाहर है लेकिन गहरे सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-28"
+        },
+        {
+          "prompt": {
+            "en": "According to editorial commentary on cyclones Arnab and Murasu, what primary form of assistance do affected States require?",
+            "hi": "चक्रवात अर्नब और मुरासु पर संपादकीय टिप्पणी के अनुसार, प्रभावित राज्यों को किस प्राथमिक सहायता की आवश्यकता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Long-term tax waivers for industrial corporations in coastal zones",
+                "hi": "तटीय क्षेत्रों में औद्योगिक निगमों के लिए दीर्घकालिक कर छूट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Immediate deployment of foreign humanitarian aid agencies",
+                "hi": "विदेशी मानवीय सहायता एजेंसियों की तत्काल तैनाती"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Help to rebuild public infrastructure after damage in cyclones",
+                "hi": "चक्रवातों में क्षति के बाद सार्वजनिक बुनियादी ढांचे के पुनर्निर्माण में सहायता करें"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Complete debt write-offs by nationalized commercial banks",
+                "hi": "राष्ट्रीयकृत वाणिज्यिक बैंकों द्वारा पूर्ण ऋण माफ़ी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Editorial assessments following cyclones Arnab and Murasu emphasized that States need substantial help to rebuild public infrastructure after suffering extensive damage.\nSource: https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
+            "hi": "चक्रवात अर्नब और मुरासु के बाद संपादकीय आकलन में इस बात पर जोर दिया गया कि राज्यों को व्यापक क्षति के बाद सार्वजनिक बुनियादी ढांचे के पुनर्निर्माण के लिए पर्याप्त मदद की आवश्यकता है।\nस्रोत: https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-29"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-05T06:30:00+05:30"
+    },
     {
       "title": "Economy, Industry & Financial Markets",
       "source_filename": "daily-2026-11-05.json",
@@ -518,885 +1091,57 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-05-19"
-        }
-      ],
-      "quarantined": [],
-      "warnings": [
-        "AI-generated from linked public news sources. Check important facts against the source."
-      ],
-      "release_wave": 1,
-      "release_at": "2026-11-05T06:30:00+05:30"
-    },
-    {
-      "title": "Public Health, Policy & Regional Governance",
-      "source_filename": "daily-2026-11-05.json",
-      "questions": [
-        {
-          "prompt": {
-            "en": "Under the government's proposed amendments concerning substandard drugs, what is the mandatory condition stipulated before the revocation of a manufacturing licence suspension?",
-            "hi": "घटिया दवाओं से संबंधित सरकार के प्रस्तावित संशोधनों के तहत, विनिर्माण लाइसेंस निलंबन को रद्द करने से पहले निर्धारित अनिवार्य शर्त क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A mandatory inspection by international regulatory agencies.",
-                "hi": "अंतर्राष्ट्रीय नियामक एजेंसियों द्वारा एक अनिवार्य निरीक्षण।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Payment of a heavy financial penalty to the state drug control board.",
-                "hi": "राज्य औषधि नियंत्रण बोर्ड को भारी आर्थिक दंड का भुगतान।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A mandatory public apology published across national newspapers.",
-                "hi": "राष्ट्रीय समाचार पत्रों में एक अनिवार्य सार्वजनिक माफी प्रकाशित की गई।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Mandatory corrective measures must be undertaken by the manufacturer before revocation.",
-                "hi": "निरस्तीकरण से पहले निर्माता द्वारा अनिवार्य सुधारात्मक उपाय किए जाने चाहिए।"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The proposed amendment explicitly mandates that corrective measures must be undertaken by the manufacturer before any suspension can be revoked, ensuring safety standards are met.\nSource: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
-            "hi": "प्रस्तावित संशोधन में स्पष्ट रूप से यह आदेश दिया गया है कि किसी भी निलंबन को रद्द करने से पहले निर्माता द्वारा सुधारात्मक उपाय किए जाने चाहिए, यह सुनिश्चित करते हुए कि सुरक्षा मानकों को पूरा किया जाए।\nस्रोत: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-1"
         },
         {
           "prompt": {
-            "en": "What specific administrative trigger prompted the Kochi police to initiate a background verification drive for private bus employees?",
-            "hi": "किस विशिष्ट प्रशासनिक कारण ने कोच्चि पुलिस को निजी बस कर्मचारियों के लिए पृष्ठभूमि सत्यापन अभियान शुरू करने के लिए प्रेरित किया?"
+            "en": "According to Union Minister Pralhad Joshi, what major milestone has India secured in the renewable energy sector from overseas investors?",
+            "hi": "केंद्रीय मंत्री प्रल्हाद जोशी के अनुसार, भारत ने विदेशी निवेशकों से नवीकरणीय ऊर्जा क्षेत्र में कौन सा बड़ा मील का पत्थर हासिल किया है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Direct orders from the Union Ministry of Road Transport and Highways.",
-                "hi": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्रालय से सीधे आदेश।"
+                "en": "$100 billion in sovereign bond purchases",
+                "hi": "सॉवरेन बांड खरीद में $100 बिलियन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "A formal strike called by private bus passenger associations.",
-                "hi": "निजी बस यात्री संघों द्वारा औपचारिक हड़ताल का आह्वान किया गया।"
+                "en": "$250 billion in direct subsidies for domestic solar panel manufacturers",
+                "hi": "घरेलू सौर पैनल निर्माताओं के लिए $250 बिलियन की प्रत्यक्ष सब्सिडी"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Routine annual administrative reviews conducted by the state transport department.",
-                "hi": "राज्य परिवहन विभाग द्वारा नियमित वार्षिक प्रशासनिक समीक्षाएँ आयोजित की जाती हैं।"
+                "en": "$400-bn investment commitments in renewables",
+                "hi": "नवीकरणीय ऊर्जा में $400 बिलियन निवेश प्रतिबद्धताएँ"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "A series of incidents of criminal behaviour involving private bus crew.",
-                "hi": "निजी बस चालक दल से जुड़े आपराधिक व्यवहार की घटनाओं की एक श्रृंखला।"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The excerpt explicitly notes that the Kochi police launched the background verification drive following a series of incidents of criminal behaviour involving private bus crew.\nSource: https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
-            "hi": "अंश में स्पष्ट रूप से लिखा गया है कि कोच्चि पुलिस ने निजी बस चालक दल से जुड़े आपराधिक व्यवहार की घटनाओं की एक श्रृंखला के बाद पृष्ठभूमि सत्यापन अभियान शुरू किया।\nस्रोत: https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-2"
-        },
-        {
-          "prompt": {
-            "en": "In the PIL plea before the Madras High Court seeking guidelines regarding the registration of criminal cases for online speech, which neighboring State's judicial precedent was cited?",
-            "hi": "ऑनलाइन भाषण के लिए आपराधिक मामलों के पंजीकरण के संबंध में दिशानिर्देशों की मांग करने वाली मद्रास उच्च न्यायालय के समक्ष जनहित याचिका में किस पड़ोसी राज्य की न्यायिक मिसाल का हवाला दिया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Karnataka High Court",
-                "hi": "कर्नाटक उच्च न्यायालय"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Kerala High Court",
-                "hi": "केरल उच्च न्यायालय"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Andhra Pradesh High Court",
-                "hi": "आंध्र प्रदेश उच्च न्यायालय"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Telangana High Court",
-                "hi": "तेलंगाना उच्च न्यायालय"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The litigant pointed out that the Telangana High Court had framed a set of guidelines for the police in the neighboring State, suggesting Tamil Nadu could take a cue from that judgment.\nSource: https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
-            "hi": "वादी ने बताया कि तेलंगाना उच्च न्यायालय ने पड़ोसी राज्य में पुलिस के लिए दिशानिर्देशों का एक सेट तैयार किया था, जिसमें सुझाव दिया गया था कि तमिलनाडु उस फैसले से सीख ले सकता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-3"
-        },
-        {
-          "prompt": {
-            "en": "What is the core objective of the newly approved VISTAR scheme designed to overhaul India's statistical system?",
-            "hi": "भारत की सांख्यिकीय प्रणाली में आमूल-चूल परिवर्तन के लिए डिज़ाइन की गई नई स्वीकृत VISTAR योजना का मुख्य उद्देश्य क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To strengthen data collecting, analysis, AI incorporation, and provide fresh unorganised sector data to make GDP figures more accurate.",
-                "hi": "जीडीपी आंकड़ों को अधिक सटीक बनाने के लिए डेटा संग्रहण, विश्लेषण, एआई निगमन को मजबूत करना और असंगठित क्षेत्र का ताजा डेटा प्रदान करना।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To decentralize agricultural census collection to rural village panchayats.",
-                "hi": "कृषि जनगणना संग्रह को ग्रामीण ग्राम पंचायतों तक विकेंद्रीकृत करना।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To replace the decennial census with automated digital surveys.",
-                "hi": "दशकीय जनगणना को स्वचालित डिजिटल सर्वेक्षण से बदलना।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To transition all macroeconomic indicators to a decentralized blockchain ledger.",
-                "hi": "सभी व्यापक आर्थिक संकेतकों को एक विकेन्द्रीकृत ब्लॉकचेन बहीखाता में परिवर्तित करना।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The VISTAR scheme focuses on strengthening data collection and analysis, incorporating AI, and providing fresh unorganised sector data to improve GDP accuracy.\nSource: https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
-            "hi": "VISTAR योजना डेटा संग्रह और विश्लेषण को मजबूत करने, AI को शामिल करने और जीडीपी सटीकता में सुधार के लिए नए असंगठित क्षेत्र डेटा प्रदान करने पर केंद्रित है।\nस्रोत: https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-4"
-        },
-        {
-          "prompt": {
-            "en": "What specific Air Quality Index (AQI) reading was recorded for Delhi on Wednesday morning, placing it in the 'very poor' category?",
-            "hi": "बुधवार की सुबह दिल्ली के लिए कौन सी विशिष्ट वायु गुणवत्ता सूचकांक (एक्यूआई) रीडिंग दर्ज की गई, जो इसे 'बहुत खराब' श्रेणी में रखती है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "377",
-                "hi": "377"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "312",
-                "hi": "312"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "415",
-                "hi": "415"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "450",
-                "hi": "450"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "According to the report, Delhi's air quality index reading stood at 377 on Wednesday morning, which places it directly in the 'very poor' category.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-            "hi": "रिपोर्ट के मुताबिक, बुधवार सुबह दिल्ली की वायु गुणवत्ता सूचकांक रीडिंग 377 थी, जो इसे सीधे 'बहुत खराब' श्रेणी में रखती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-5"
-        },
-        {
-          "prompt": {
-            "en": "What primary justification was provided by authorities for razing hundreds of houses in a central Delhi neighbourhood?",
-            "hi": "मध्य दिल्ली के पड़ोस में सैकड़ों घरों को ध्वस्त करने के लिए अधिकारियों द्वारा क्या प्राथमिक औचित्य प्रदान किया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The structures were classified as structurally hazardous earthquake-prone buildings.",
-                "hi": "संरचनाओं को संरचनात्मक रूप से खतरनाक भूकंप-प्रवण इमारतों के रूप में वर्गीकृत किया गया था।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The area failed municipal sanitation and fire safety audits.",
-                "hi": "यह क्षेत्र नगरपालिका स्वच्छता और अग्नि सुरक्षा ऑडिट में विफल रहा।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The land was required for an expansion of the central vista project.",
-                "hi": "सेंट्रल विस्टा परियोजना के विस्तार के लिए भूमि की आवश्यकता थी।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The houses were built illegally on government land.",
-                "hi": "ये मकान सरकारी जमीन पर अवैध रूप से बनाए गए थे."
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Authorities carried out the demolitions stating that the hundreds of houses in the central Delhi neighbourhood were built on government land.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
-            "hi": "अधिकारियों ने यह कहते हुए तोड़फोड़ की कि मध्य दिल्ली के पड़ोस में सैकड़ों घर सरकारी जमीन पर बने थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-6"
-        },
-        {
-          "prompt": {
-            "en": "Following a shocking classroom incident in India where a young child was assaulted, what did the victim's family report regarding her medical and psychological condition?",
-            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक छोटे बच्चे पर हमला किया गया, पीड़ित के परिवार ने उसकी चिकित्सा और मनोवैज्ञानिक स्थिति के बारे में क्या रिपोर्ट दी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "She remains in critical care on life support.",
-                "hi": "वह जीवन समर्थन पर गंभीर देखभाल में बनी हुई है।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "She suffered permanent physical paralysis.",
-                "hi": "उसे स्थायी शारीरिक पक्षाघात का सामना करना पड़ा।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "She has fully recovered and returned to school.",
-                "hi": "वह पूरी तरह से ठीक होकर स्कूल लौट आई है।'"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "She is out of danger but remains traumatised by her assault.",
-                "hi": "वह खतरे से बाहर है लेकिन अपने हमले से सदमे में है।"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The family stated that although the seriously injured girl is out of danger, she remains traumatised by the assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
-            "hi": "परिवार ने कहा कि हालांकि गंभीर रूप से घायल लड़की खतरे से बाहर है, लेकिन हमले से वह सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-7"
-        },
-        {
-          "prompt": {
-            "en": "During political consultations following an election deadlock, what warning did Israel's president issue to political parties?",
-            "hi": "चुनावी गतिरोध के बाद राजनीतिक परामर्श के दौरान, इज़राइल के राष्ट्रपति ने राजनीतिक दलों को क्या चेतावनी जारी की?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "That political parties must dissolve parliament and form a technocratic caretaker government.",
-                "hi": "राजनीतिक दलों को संसद भंग करनी होगी और एक तकनीकी लोकतांत्रिक कार्यवाहक सरकार बनानी होगी।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "That not every commitment and promise can be fulfilled if they want to avoid another election.",
-                "hi": "अगर वे दूसरे चुनाव से बचना चाहते हैं तो हर प्रतिबद्धता और वादा पूरा नहीं किया जा सकता।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "That international mediators will oversee coalition negotiations.",
-                "hi": "अंतरराष्ट्रीय मध्यस्थ गठबंधन वार्ता की निगरानी करेंगे।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "That constitutional amendments are mandatory before forming a coalition cabinet.",
-                "hi": "कि गठबंधन मंत्रिमंडल बनाने से पहले संवैधानिक संशोधन अनिवार्य है।"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "President Herzog explicitly warned politicians that not every commitment and promise can be fulfilled if they wish to avoid triggering another election.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-            "hi": "राष्ट्रपति हर्ज़ोग ने राजनेताओं को स्पष्ट रूप से चेतावनी दी कि यदि वे दूसरे चुनाव से बचना चाहते हैं तो हर प्रतिबद्धता और वादे को पूरा नहीं किया जा सकता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-8"
-        },
-        {
-          "prompt": {
-            "en": "According to Apollo Hospitals' Q2 financial report, what expansion plan was announced regarding its hospital infrastructure?",
-            "hi": "अपोलो हॉस्पिटल्स की Q2 वित्तीय रिपोर्ट के अनुसार, इसके अस्पताल के बुनियादी ढांचे के संबंध में किस विस्तार योजना की घोषणा की गई थी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To add nearly 5,800 beds over the next five years.",
-                "hi": "अगले पांच वर्षों में लगभग 5,800 बिस्तर जोड़ना।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To double international patient care centers across South Asia.",
-                "hi": "पूरे दक्षिण एशिया में अंतर्राष्ट्रीय रोगी देखभाल केंद्रों को दोगुना करना।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To merge regional clinics into tertiary care medical hubs.",
-                "hi": "क्षेत्रीय क्लीनिकों को तृतीयक देखभाल चिकित्सा केंद्रों में विलय करना।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To divest non-core pharmacy retail units to fund rural clinics.",
-                "hi": "ग्रामीण क्लीनिकों को वित्तपोषित करने के लिए गैर-प्रमुख फार्मेसी खुदरा इकाइयों का विनिवेश करना।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The company announced plans to add nearly 5,800 beds over five years, supported by strong revenue growth and improved occupancy rates.\nSource: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
-            "hi": "कंपनी ने मजबूत राजस्व वृद्धि और बेहतर अधिभोग दर द्वारा समर्थित, पांच वर्षों में लगभग 5,800 बिस्तर जोड़ने की योजना की घोषणा की।\nस्रोत: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-9"
-        },
-        {
-          "prompt": {
-            "en": "Following successful orbit maneuvers and a cumulative LAM engine burn, which ISRO satellite successfully reached the Geosynchronous Orbit?",
-            "hi": "सफल कक्षा युद्धाभ्यास और एक संचयी एलएएम इंजन जलने के बाद, इसरो का कौन सा उपग्रह सफलतापूर्वक जियोसिंक्रोनस कक्षा में पहुंच गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "XPSat",
-                "hi": "एक्सपीएसएटी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "GISAT-2",
-                "hi": "जीआईएसएटी-2"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Aditya-L1",
-                "hi": "आदित्य-एल1"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "NVS-03",
-                "hi": "एनवीएस-03"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "ISRO confirmed that the NVS-03 satellite successfully reached Geosynchronous Orbit after completing four orbit maneuvers with a cumulative LAM engine burn.\nSource: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-            "hi": "इसरो ने पुष्टि की कि एनवीएस-03 उपग्रह संचयी एलएएम इंजन बर्न के साथ चार कक्षा प्रक्रियाओं को पूरा करने के बाद सफलतापूर्वक जियोसिंक्रोनस कक्षा में पहुंच गया।\nस्रोत: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-20"
-        },
-        {
-          "prompt": {
-            "en": "According to IMD classifications, how does the meteorological department categorize a monsoon season where rainfall levels are at least 10% lower than the long-term average?",
-            "hi": "आईएमडी वर्गीकरण के अनुसार, मौसम विभाग मानसून के मौसम को कैसे वर्गीकृत करता है जहां वर्षा का स्तर दीर्घकालिक औसत से कम से कम 10% कम है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Scanty",
-                "hi": "अल्प"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Drought-hit",
-                "hi": "सूखाग्रस्त"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Below Normal",
-                "hi": "सामान्य से नीचे"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Deficient",
-                "hi": "कमी"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The IMD refers to monsoon seasons with rainfall levels at least 10% lower than the long-term average as 'deficient'.\nSource: https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
-            "hi": "आईएमडी मानसून के मौसम को 'कम' के रूप में संदर्भित करता है जिसमें वर्षा का स्तर दीर्घकालिक औसत से कम से कम 10% कम होता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-21"
-        },
-        {
-          "prompt": {
-            "en": "The development of India's regional satellite navigation system (IRNSS/NavIC) was initiated in the aftermath of which major historical event involving foreign GPS denial?",
-            "hi": "भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली (आईआरएनएसएस/एनएवीआईसी) का विकास विदेशी जीपीएस इनकार से जुड़ी किस प्रमुख ऐतिहासिक घटना के बाद शुरू किया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The 1965 Indo-Pak War",
-                "hi": "1965 का भारत-पाक युद्ध"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The 1971 Bangladesh Liberation War",
-                "hi": "1971 का बांग्लादेश मुक्ति संग्राम"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The 2001 Parliament attack crisis",
-                "hi": "2001 संसद पर हमला संकट"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The 1999 Kargil conflict",
-                "hi": "1999 कारगिल संघर्ष"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The IRNSS concept originated directly in the aftermath of the U.S.'s denial of its Global Positioning Service (GPS) during the 1999 Kargil conflict.\nSource: https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
-            "hi": "आईआरएनएसएस अवधारणा की उत्पत्ति सीधे तौर पर 1999 के कारगिल संघर्ष के दौरान अमेरिका द्वारा ग्लोबल पोजिशनिंग सर्विस (जीपीएस) को अस्वीकार करने के बाद हुई थी।\nस्रोत: https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-22"
-        },
-        {
-          "prompt": {
-            "en": "According to auditors, what conclusion was reached regarding the Welsh public sector's net zero emissions plans by 2030?",
-            "hi": "लेखा परीक्षकों के अनुसार, 2030 तक वेल्श सार्वजनिक क्षेत्र की शुद्ध शून्य उत्सर्जन योजना के संबंध में क्या निष्कर्ष निकाला गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "They are unlikely to meet net zero plans due to a lack of progress in tackling climate change.",
-                "hi": "जलवायु परिवर्तन से निपटने में प्रगति की कमी के कारण उनके नेट ज़ीरो योजनाओं को पूरा करने की संभावना नहीं है।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "They have successfully surpassed all interim carbon reduction milestones.",
-                "hi": "उन्होंने सभी अंतरिम कार्बन कटौती मील के पत्थर को सफलतापूर्वक पार कर लिया है।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "They have fully transitioned all public transport fleets to electric power.",
-                "hi": "उन्होंने सभी सार्वजनिक परिवहन बेड़े को पूरी तरह से विद्युत ऊर्जा में परिवर्तित कर दिया है।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "They are on track to achieve net zero ahead of the 2030 statutory deadline.",
-                "hi": "वे 2030 की वैधानिक समय सीमा से पहले शुद्ध शून्य हासिल करने की राह पर हैं।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Auditors criticized the lack of progress made by organisations, concluding that the Welsh public sector is unlikely to meet its net zero plans by 2030.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-            "hi": "लेखा परीक्षकों ने संगठनों द्वारा की गई प्रगति की कमी की आलोचना की, और निष्कर्ष निकाला कि वेल्श सार्वजनिक क्षेत्र 2030 तक अपनी शुद्ध शून्य योजनाओं को पूरा करने की संभावना नहीं है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-23"
-        },
-        {
-          "prompt": {
-            "en": "According to Ukrainian officials, what devastating attack occurred in a village, resulting in significant casualties and victims trapped under rubble?",
-            "hi": "यूक्रेनी अधिकारियों के अनुसार, एक गाँव में कौन सा विनाशकारी हमला हुआ, जिसके परिणामस्वरूप बड़ी संख्या में लोग हताहत हुए और पीड़ित मलबे में फंस गए?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "An artillery barrage hitting a humanitarian evacuation train.",
-                "hi": "एक तोपखाना बैराज एक मानवीय निकासी ट्रेन पर हमला कर रहा है।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A ballistic missile strike targeting a hydroelectric substation.",
-                "hi": "एक पनबिजली सबस्टेशन को निशाना बनाकर किया गया बैलिस्टिक मिसाइल हमला।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "An overnight drone swarm attack on an agricultural grain silo.",
-                "hi": "कृषि अनाज साइलो पर रात भर ड्रोन झुंड का हमला।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A deadly Russian double-tap bombing attack on a Ukrainian village.",
-                "hi": "यूक्रेन के एक गांव पर रूस का घातक डबल-टैप बमबारी हमला।"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "Ukraine reported that a deadly Russian double-tap bombing attack on a village killed at least 40 people, with dozens potentially under the rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-            "hi": "यूक्रेन ने बताया कि एक गांव पर घातक रूसी डबल-टैप बमबारी हमले में कम से कम 40 लोग मारे गए, जिनमें से दर्जनों लोग संभवतः मलबे में दबे हुए हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-24"
-        },
-        {
-          "prompt": {
-            "en": "According to recent commentaries on scientific research in India, what should the primary focus of the scientific community be rather than chasing bibliographic metrics?",
-            "hi": "भारत में वैज्ञानिक अनुसंधान पर हाल की टिप्पणियों के अनुसार, वैज्ञानिक समुदाय का प्राथमिक ध्यान ग्रंथसूची संबंधी मैट्रिक्स का पीछा करने के बजाय क्या होना चाहिए?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Limiting research to applied engineering fields funded by private industry.",
-                "hi": "अनुसंधान को निजी उद्योग द्वारा वित्त पोषित अनुप्रयुक्त इंजीनियरिंग क्षेत्रों तक सीमित करना।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Focusing exclusively on commercial patent generation and technology transfer.",
-                "hi": "विशेष रूप से वाणिज्यिक पेटेंट निर्माण और प्रौद्योगिकी हस्तांतरण पर ध्यान केंद्रित करना।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Pursuing fundamental research and practical solutions rather than making inclusion in the 'top 2% scientists' database' the primary goal.",
-                "hi": "'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होने को प्राथमिक लक्ष्य बनाने के बजाय मौलिक अनुसंधान और व्यावहारिक समाधान अपनाना।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Prioritizing international journal citation impact factors above domestic field applications.",
-                "hi": "घरेलू क्षेत्र के अनुप्रयोगों से ऊपर अंतर्राष्ट्रीय जर्नल उद्धरण प्रभाव कारकों को प्राथमिकता देना।"
+                "en": "$500-bn venture capital fund for offshore wind projects",
+                "hi": "अपतटीय पवन परियोजनाओं के लिए $500 बिलियन का उद्यम पूंजी कोष"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The commentary stresses that India needs both fundamental research and practical solutions instead of treating inclusion in the 'top 2% scientists' database' as the primary goal.\nSource: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
-            "hi": "टिप्पणी में इस बात पर जोर दिया गया है कि भारत को 'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होने को प्राथमिक लक्ष्य मानने के बजाय मौलिक अनुसंधान और व्यावहारिक समाधान दोनों की आवश्यकता है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece"
+            "en": "Union Minister Pralhad Joshi announced that India has secured $400 billion in investment commitments in the renewable energy sector, reflecting overseas investor confidence.\nSource: https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece",
+            "hi": "केंद्रीय मंत्री प्रल्हाद जोशी ने घोषणा की कि भारत ने नवीकरणीय ऊर्जा क्षेत्र में 400 अरब डॉलर की निवेश प्रतिबद्धता हासिल की है, जो विदेशी निवेशकों के विश्वास को दर्शाता है।\nस्रोत: https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece"
           },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-05-25"
-        },
-        {
-          "prompt": {
-            "en": "In connection with discussions on artificial intelligence, movies, and fatherhood, which Indian film star plays the leading role in a major new adaptation of the epic Ramayana?",
-            "hi": "कृत्रिम बुद्धिमत्ता, फिल्मों और पितृत्व पर चर्चा के संबंध में, कौन सा भारतीय फिल्म सितारा महाकाव्य रामायण के एक प्रमुख नए रूपांतरण में अग्रणी भूमिका निभाता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Vicky Kaushal",
-                "hi": "विक्की कौशल"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Ranveer Singh",
-                "hi": "रणवीर सिंह"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Ranbir Kapoor",
-                "hi": "रणबीर कपूर"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Shahid Kapoor",
-                "hi": "शाहिद कपूर"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The report highlights film star Ranbir Kapoor playing the leading role in a major new adaptation of the Indian epic Ramayana.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-            "hi": "रिपोर्ट में फिल्म स्टार रणबीर कपूर को भारतीय महाकाव्य रामायण के एक प्रमुख नए रूपांतरण में प्रमुख भूमिका निभाने पर प्रकाश डाला गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-26"
-        },
-        {
-          "prompt": {
-            "en": "What emerging trend regarding recent graduates and workplace technology was highlighted in employment reports?",
-            "hi": "रोजगार रिपोर्टों में हाल के स्नातकों और कार्यस्थल प्रौद्योगिकी के संबंध में किस उभरती प्रवृत्ति पर प्रकाश डाला गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Graduates are spending more time managing AI, raising questions about whether they miss out on other work experience.",
-                "hi": "स्नातक एआई के प्रबंधन में अधिक समय व्यतीत कर रहे हैं, जिससे यह सवाल उठ रहा है कि क्या वे अन्य कार्य अनुभव से चूक जाते हैं।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Graduates are entirely replacing junior engineering roles with generative AI coding assistants.",
-                "hi": "स्नातक पूरी तरह से जूनियर इंजीनियरिंग भूमिकाओं को जेनेरिक एआई कोडिंग सहायकों से बदल रहे हैं।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Corporate employers have banned generative AI tools for entry-level white-collar employees.",
-                "hi": "कॉर्पोरेट नियोक्ताओं ने प्रवेश स्तर के सफेदपोश कर्मचारियों के लिए जेनेरिक एआई टूल पर प्रतिबंध लगा दिया है।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Universities have replaced traditional dissertations with AI prompt-engineering modules.",
-                "hi": "विश्वविद्यालयों ने पारंपरिक शोध प्रबंधों को एआई प्रॉम्प्ट-इंजीनियरिंग मॉड्यूल से बदल दिया है।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The report questions whether graduates are missing out on essential work experience as they spend more time managing AI systems.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-            "hi": "रिपोर्ट में सवाल उठाया गया है कि क्या स्नातक आवश्यक कार्य अनुभव से चूक रहे हैं क्योंकि वे एआई सिस्टम के प्रबंधन में अधिक समय बिताते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Public Health, Policy & Regional Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-05-27"
+          "id": "2026-11-05-30"
         }
       ],
       "quarantined": [],
@@ -1449,26 +1194,6 @@
       "published": "2026-11-04T21:18:00+05:30"
     },
     {
-      "title": "Science should move past ‘top 2%’ label",
-      "url": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
-      "published": "2026-11-05T00:28:48+05:30"
-    },
-    {
-      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
-      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-      "published": "2026-11-04T23:33:27+05:30"
-    },
-    {
-      "title": "Why even a strong El Niño does not guarantee a poor Indian monsoon",
-      "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
-      "published": "2026-11-04T17:23:03+05:30"
-    },
-    {
-      "title": "What is the debate on NavIC vs GPS | Explained",
-      "url": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
-      "published": "2026-11-04T10:08:37+05:30"
-    },
-    {
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T07:39:38+00:00"
@@ -1477,11 +1202,6 @@
       "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
       "url": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:20:50+00:00"
-    },
-    {
-      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T00:09:13+00:00"
     },
     {
       "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
@@ -1514,24 +1234,9 @@
       "published": "2026-11-03T16:19:29+00:00"
     },
     {
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T00:04:35+00:00"
-    },
-    {
-      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T08:57:20+00:00"
-    },
-    {
       "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
       "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T18:01:31+00:00"
-    },
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T17:45:58+00:00"
     },
     {
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
@@ -1542,6 +1247,11 @@
       "title": "Israel's president begins consultations with parties after election deadlock",
       "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T16:18:21+00:00"
+    },
+    {
+      "title": "Helping hand: On Cyclones Arnab and Murasu",
+      "url": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
+      "published": "2026-11-05T01:47:28+05:30"
     }
   ]
 }
