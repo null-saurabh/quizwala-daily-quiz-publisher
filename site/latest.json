@@ -1,931 +1,523 @@
 {
   "schema_version": 2,
-  "date": "2026-11-04",
-  "generated_at": "2026-11-03T20:24:23.694579+00:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-04T20:02:04.206738+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
     {
-      "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-11-04.json",
+      "title": "Economy, Industry & Financial Markets",
+      "source_filename": "daily-2026-11-05.json",
       "questions": [
         {
           "prompt": {
-            "en": "Under the Kochi@2050 vision, the Kochi Corporation cleared 30 projects worth ₹1,500 crore for the Urban Challenge Fund. What financial share is the Union government committed to providing as a grant?",
-            "hi": "कोच्चि@2050 विज़न के तहत, कोच्चि कॉर्पोरेशन ने शहरी चुनौती कोष के लिए ₹1,500 करोड़ की 30 परियोजनाओं को मंजूरी दी। केंद्र सरकार अनुदान के रूप में कितना वित्तीय हिस्सा प्रदान करने के लिए प्रतिबद्ध है?"
+            "en": "According to Union Minister Pralhad Joshi, what investment commitment milestone has India secured in the renewable energy sector?",
+            "hi": "केंद्रीय मंत्री प्रल्हाद जोशी के अनुसार, भारत ने नवीकरणीय ऊर्जा क्षेत्र में कौन सी निवेश प्रतिबद्धता हासिल की है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "10% of the project cost",
-                "hi": "परियोजना लागत का 10%"
+                "en": "$100 billion in direct foreign capital investments.",
+                "hi": "प्रत्यक्ष विदेशी पूंजी निवेश में $100 बिलियन।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "50% of the project cost",
-                "hi": "परियोजना लागत का 50%"
+                "en": "$750 billion in multilateral clean energy funding.",
+                "hi": "बहुपक्षीय स्वच्छ ऊर्जा वित्तपोषण में $750 बिलियन।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "25% of the project cost",
-                "hi": "परियोजना लागत का 25%"
+                "en": "$400 billion in investment commitments.",
+                "hi": "निवेश प्रतिबद्धताओं में $400 बिलियन।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "75% of the project cost",
-                "hi": "परियोजना लागत का 75%"
+                "en": "$250 billion in green hydrogen infrastructure bonds.",
+                "hi": "हरित हाइड्रोजन अवसंरचना बांड में $250 बिलियन।"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The Kochi Corporation cleared projects worth ₹1,500 crore under the Urban Challenge Fund, for which the Union government will provide 25% of the project cost as a grant.\nSource: https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
-            "hi": "कोच्चि कॉर्पोरेशन ने शहरी चुनौती निधि के तहत ₹1,500 करोड़ की परियोजनाओं को मंजूरी दी, जिसके लिए केंद्र सरकार परियोजना लागत का 25% अनुदान के रूप में प्रदान करेगी।\nस्रोत: https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece"
+            "en": "Union Minister Pralhad Joshi announced that India has secured $400 billion in investment commitments in renewables, reflecting strong investor confidence.\nSource: https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece",
+            "hi": "केंद्रीय मंत्री प्रल्हाद जोशी ने घोषणा की कि भारत ने नवीकरणीय ऊर्जा में 400 बिलियन डॉलर की निवेश प्रतिबद्धता हासिल की है, जो मजबूत निवेशक विश्वास को दर्शाता है।\nस्रोत: https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-1"
+          "id": "2026-11-05-10"
         },
         {
           "prompt": {
-            "en": "Under the new higher education guidelines in Andhra Pradesh, undergraduate students are required to complete mandatory semester internships. What is the total duration mandated for these internships?",
-            "hi": "आंध्र प्रदेश में नए उच्च शिक्षा दिशानिर्देशों के तहत, स्नातक छात्रों को अनिवार्य सेमेस्टर इंटर्नशिप पूरी करना आवश्यक है। इन इंटर्नशिप के लिए अनिवार्य कुल अवधि क्या है?"
+            "en": "What financial outlay has been earmarked by the Centre to boost lithium and nickel processing in India?",
+            "hi": "भारत में लिथियम और निकल प्रसंस्करण को बढ़ावा देने के लिए केंद्र द्वारा कितना वित्तीय परिव्यय निर्धारित किया गया है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "180 hours",
-                "hi": "180 घंटे"
+                "en": "₹1,250 crore",
+                "hi": "₹1,250 करोड़"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "240 hours",
-                "hi": "240 घंटे"
+                "en": "₹5,000 crore",
+                "hi": "₹5,000 करोड़"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "500 hours",
-                "hi": "500 घंटे"
+                "en": "₹2,814 crore",
+                "hi": "₹2,814 करोड़"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "360 hours",
-                "hi": "360 घंटे"
+                "en": "₹7,450 crore",
+                "hi": "₹7,450 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Centre earmarked ₹2,814 crore to boost lithium and nickel processing, which aims to strengthen domestic manufacturing capabilities and cut import dependence.\nSource: https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
+            "hi": "केंद्र ने लिथियम और निकल प्रसंस्करण को बढ़ावा देने के लिए ₹2,814 करोड़ निर्धारित किए हैं, जिसका उद्देश्य घरेलू विनिर्माण क्षमताओं को मजबूत करना और आयात निर्भरता में कटौती करना है।\nस्रोत: https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
+          },
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-11"
+        },
+        {
+          "prompt": {
+            "en": "Despite a five-day market rally, why has the Volatility Index (VIX) remained elevated according to financial analysts?",
+            "hi": "वित्तीय विश्लेषकों के अनुसार पांच दिनों की बाजार रैली के बावजूद अस्थिरता सूचकांक (VIX) ऊंचा क्यों बना हुआ है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sudden hikes in domestic fuel and electricity tariffs.",
+                "hi": "घरेलू ईंधन और बिजली दरों में अचानक बढ़ोतरी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Domestic retail inflation breaching the Reserve Bank of India's upper tolerance band.",
+                "hi": "घरेलू खुदरा मुद्रास्फीति भारतीय रिज़र्व बैंक के ऊपरी सहनशीलता बैंड को तोड़ रही है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Massive foreign institutional investor sell-offs across emerging Asian economies.",
+                "hi": "उभरती एशियाई अर्थव्यवस्थाओं में बड़े पैमाने पर विदेशी संस्थागत निवेशकों की बिकवाली।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Global risks and impending shifts in U.S. policy regarding West Asia keep investors on edge.",
+                "hi": "वैश्विक जोखिम और पश्चिम एशिया के संबंध में अमेरिकी नीति में आसन्न बदलाव निवेशकों को चिंतित रखते हैं।"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The Andhra Pradesh government made 360-hour semester internships mandatory, to be incorporated into the final-year curriculum of three-year and four-year undergraduate programmes.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
-            "hi": "आंध्र प्रदेश सरकार ने तीन साल और चार साल के स्नातक कार्यक्रमों के अंतिम वर्ष के पाठ्यक्रम में शामिल करने के लिए 360 घंटे की सेमेस्टर इंटर्नशिप अनिवार्य कर दी है।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece"
+            "en": "The VIX stayed elevated despite the market rally because global risks, including upcoming U.S. actions on West Asia, keep investors cautious.\nSource: https://www.thehindu.com/business/vix-stays-elevated-despite-five-day-market-rally-as-global-risks-keep-investors-on-edge/article71666364.ece",
+            "hi": "बाजार में तेजी के बावजूद VIX ऊंचा रहा क्योंकि पश्चिम एशिया पर आगामी अमेरिकी कार्रवाइयों सहित वैश्विक जोखिम निवेशकों को सतर्क रखते हैं।\nस्रोत: https://www.thehindu.com/business/vix-stays-elevated-despite-five-day-market-rally-as-global-risks-keep-investors-on-edge/article71666364.ece"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.thehindu.com/business/vix-stays-elevated-despite-five-day-market-rally-as-global-risks-keep-investors-on-edge/article71666364.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-2"
+          "id": "2026-11-05-12"
         },
         {
           "prompt": {
-            "en": "In the recent local body polls in Andhra Pradesh, the Telugu Desam Party (TDP) breached a long-standing YSRCP fortress after four decades. Which seat was won by TDP's Geetha Kumari?",
-            "hi": "आंध्र प्रदेश में हाल ही में हुए स्थानीय निकाय चुनावों में, तेलुगु देशम पार्टी (टीडीपी) ने चार दशकों के बाद लंबे समय से चले आ रहे वाईएसआरसीपी किले को तोड़ दिया। टीडीपी की गीता कुमारी ने कौन सी सीट जीती?"
+            "en": "Which investment firm is facing intense scrutiny and crunch talks with business minister Jonathan Reynolds regarding the future of retailer Poundland?",
+            "hi": "कौन सी निवेश फर्म रिटेलर पाउंडलैंड के भविष्य के संबंध में व्यापार मंत्री जोनाथन रेनॉल्ड्स के साथ गहन जांच और कठिन बातचीत का सामना कर रही है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Pulivendula municipal chairperson seat",
-                "hi": "पुलिवेंदुला नगरपालिका अध्यक्ष सीट"
+                "en": "Apollo Global Management",
+                "hi": "अपोलो ग्लोबल मैनेजमेंट"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Amaravati mayoral seat",
-                "hi": "अमरावती मेयर सीट"
+                "en": "BlackRock Capital",
+                "hi": "ब्लैकरॉक कैपिटल"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Tirupati civic chief position",
-                "hi": "तिरूपति नागरिक प्रमुख पद"
+                "en": "Cerberus Capital Management",
+                "hi": "सेर्बेरस कैपिटल मैनेजमेंट"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Kurnool municipal council seat",
-                "hi": "कुरनूल नगर परिषद सीट"
+                "en": "Gordon Brothers",
+                "hi": "गॉर्डन ब्रदर्स"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Investment firm Gordon Brothers is meeting Jonathan Reynolds as the firm faces scrutiny over the collapse and future of retailer Poundland.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+            "hi": "निवेश फर्म गॉर्डन ब्रदर्स जोनाथन रेनॉल्ड्स से मिल रही है क्योंकि कंपनी को रिटेलर पाउंडलैंड के पतन और भविष्य पर जांच का सामना करना पड़ रहा है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-13"
+        },
+        {
+          "prompt": {
+            "en": "What key agreement was reached between the UK and the EU ahead of their upcoming summit regarding trade?",
+            "hi": "व्यापार के संबंध में आगामी शिखर सम्मेलन से पहले यूके और ईयू के बीच कौन सा महत्वपूर्ण समझौता हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A draft deal to scrap Brexit red tape over food exports.",
+                "hi": "खाद्य निर्यात पर ब्रेक्सिट लालफीताशाही को खत्म करने के लिए एक मसौदा समझौता।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A comprehensive financial services passporting agreement.",
+                "hi": "एक व्यापक वित्तीय सेवा पासपोर्टिंग समझौता।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A bilateral pact to eliminate tariffs on automotive manufacturing parts.",
+                "hi": "ऑटोमोटिव विनिर्माण भागों पर टैरिफ को खत्म करने के लिए एक द्विपक्षीय समझौता।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A mutual recognition pact for professional engineering qualifications.",
+                "hi": "पेशेवर इंजीनियरिंग योग्यताओं के लिए एक पारस्परिक मान्यता समझौता।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "TDP's Geetha Kumari won the Pulivendula municipal chairperson seat by defeating the opponent with a majority of 13,875 votes, breaching the YSRCP stronghold after four decades.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
-            "hi": "टीडीपी की गीता कुमारी ने चार दशकों के बाद वाईएसआरसीपी के गढ़ में सेंध लगाते हुए प्रतिद्वंद्वी को 13,875 वोटों के बहुमत से हराकर पुलिवेंदुला नगरपालिका अध्यक्ष सीट जीती।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece"
+            "en": "The UK and EU agreed on a draft deal to scrap Brexit red tape over food exports, forming the most significant part of the Brexit reset.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+            "hi": "यूके और ईयू खाद्य निर्यात पर ब्रेक्सिट लालफीताशाही को खत्म करने के लिए एक मसौदा समझौते पर सहमत हुए, जो ब्रेक्सिट रीसेट का सबसे महत्वपूर्ण हिस्सा है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-3"
+          "id": "2026-11-05-14"
         },
         {
           "prompt": {
-            "en": "What reason was cited by authorities in central Delhi for razing hundreds of houses in a historic neighbourhood?",
-            "hi": "मध्य दिल्ली के अधिकारियों द्वारा एक ऐतिहासिक पड़ोस में सैकड़ों घरों को ढहाने का क्या कारण बताया गया?"
+            "en": "Following recipe changes to which popular breakfast cereals did cereal giant Kellogg's admit that their iconic sounds have become quieter?",
+            "hi": "किस लोकप्रिय नाश्ते के अनाज में बदलाव के बाद अनाज की दिग्गज कंपनी केलॉग्स ने स्वीकार किया कि उनकी प्रतिष्ठित ध्वनियाँ शांत हो गई हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "They were identified as unsafe structures prone to collapse",
-                "hi": "उनकी पहचान असुरक्षित संरचनाओं के रूप में की गई थी जिनके ढहने का खतरा है"
+                "en": "Corn Flakes and Froot Loops",
+                "hi": "कॉर्न फ्लेक्स और फ्रूट लूप्स"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "They violated commercial zoning regulations",
-                "hi": "उन्होंने वाणिज्यिक ज़ोनिंग नियमों का उल्लंघन किया"
+                "en": "Frosted Flakes and Raisin Bran",
+                "hi": "फ्रॉस्टेड फ्लेक्स और किशमिश चोकर"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "They were built on government land",
-                "hi": "इनका निर्माण सरकारी जमीन पर किया गया था"
+                "en": "Special K and All-Bran",
+                "hi": "स्पेशल के और ऑल-ब्रान"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "They obstructed upcoming metro rail expansion",
-                "hi": "उन्होंने आगामी मेट्रो रेल विस्तार में बाधा डाली"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Authorities razed hundreds of houses in a central Delhi neighbourhood after stating that they were built on government land.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
-            "hi": "अधिकारियों ने मध्य दिल्ली के पड़ोस में सैकड़ों घरों को यह कहकर तोड़ दिया कि वे सरकारी भूमि पर बने थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-4"
-        },
-        {
-          "prompt": {
-            "en": "Following a shocking classroom incident in India where a young child assaulted another, what was reported regarding the victim's medical condition?",
-            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक छोटे बच्चे ने दूसरे बच्चे पर हमला किया, पीड़ित की चिकित्सा स्थिति के बारे में क्या रिपोर्ट की गई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "She succumbed to her injuries at the hospital",
-                "hi": "उसने अस्पताल में दम तोड़ दिया"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "She suffered permanent physical paralysis",
-                "hi": "उसे स्थायी शारीरिक पक्षाघात का सामना करना पड़ा"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "She is out of danger, but remains traumatised by her assault",
-                "hi": "वह खतरे से बाहर है, लेकिन अपने हमले से सदमे में है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "She was discharged immediately without any injuries",
-                "hi": "बिना किसी चोट के उसे तुरंत छुट्टी दे दी गई"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The family reported that the young victim who was assaulted in the classroom was out of danger but remained traumatised by the assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
-            "hi": "परिवार ने बताया कि जिस युवा पीड़ित पर कक्षा में हमला किया गया था वह खतरे से बाहर है लेकिन हमले से सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-5"
-        },
-        {
-          "prompt": {
-            "en": "During the opposition's mega rally in Delhi, what primary demand was raised by the thousands who gathered?",
-            "hi": "दिल्ली में विपक्ष की महारैली के दौरान हजारों की संख्या में जुटे लोगों ने कौन सी प्राथमिक मांग उठाई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Requesting a complete moratorium on state elections",
-                "hi": "राज्य चुनावों पर पूर्ण रोक लगाने का अनुरोध"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Demanding immediate amendment of corporate tax laws",
-                "hi": "कॉरपोरेट टैक्स कानूनों में तत्काल संशोधन की मांग"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Protesting against new educational curriculum changes",
-                "hi": "नए शैक्षणिक पाठ्यक्रम में बदलाव का विरोध"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Calling for the chief election commissioner to step down",
-                "hi": "मुख्य चुनाव आयुक्त से पद छोड़ने की मांग"
+                "en": "Rice Krispies and Coco Pops",
+                "hi": "राइस क्रिस्पीज़ और कोको पॉप्स"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The opposition's mega rally in the heart of Delhi featured thousands gathering to call for the chief election commissioner to step down.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-            "hi": "दिल्ली के मध्य में विपक्ष की विशाल रैली में मुख्य चुनाव आयुक्त को पद छोड़ने के लिए आह्वान करने के लिए हजारों लोग एकत्र हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+            "en": "Kellogg's changed the recipes for Rice Krispies and Coco Pops, leading to an online backlash over their quieter snap, crackle, and pop sounds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+            "hi": "केलॉग्स ने राइस क्रिस्पीज़ और कोको पॉप्स की रेसिपी बदल दी, जिससे उनके शांत स्नैप, क्रैकल और पॉप ध्वनियों पर ऑनलाइन प्रतिक्रिया हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-6"
+          "id": "2026-11-05-15"
         },
         {
           "prompt": {
-            "en": "In the context of the car finance saga, under what condition does the regulator support lenders making early compensation offers to drivers?",
-            "hi": "कार वित्त गाथा के संदर्भ में, नियामक किस स्थिति में ड्राइवरों को शीघ्र मुआवजे की पेशकश करने वाले ऋणदाताओं का समर्थन करता है?"
+            "en": "According to cryptocurrency exchange Binance, what deceptive method was utilized by attackers in connection with a massive $6.3bn crypto hack?",
+            "hi": "क्रिप्टोक्यूरेंसी एक्सचेंज बिनेंस के अनुसार, $6.3 बिलियन की बड़ी क्रिप्टो हैक के संबंध में हमलावरों द्वारा किस भ्रामक विधि का उपयोग किया गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "As long as they are financed by government subsidies",
-                "hi": "जब तक उन्हें सरकारी सब्सिडी द्वारा वित्तपोषित किया जाता है"
+                "en": "Fake job interviews conducted via legitimate job-hunting platforms with bogus representatives.",
+                "hi": "फर्जी प्रतिनिधियों के साथ वैध नौकरी-शिकारी प्लेटफार्मों के माध्यम से फर्जी नौकरी साक्षात्कार आयोजित किए गए।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "If they are approved by international audit firms",
-                "hi": "यदि वे अंतरराष्ट्रीय ऑडिट फर्मों द्वारा अनुमोदित हैं"
+                "en": "Sophisticated phishing emails impersonating central banking regulators.",
+                "hi": "केंद्रीय बैंकिंग नियामकों का प्रतिरूपण करने वाले परिष्कृत फ़िशिंग ईमेल।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "As long as they are fair",
-                "hi": "जब तक वे निष्पक्ष हैं"
+                "en": "Malicious software updates distributed through hardware wallet manufacturers.",
+                "hi": "हार्डवेयर वॉलेट निर्माताओं के माध्यम से दुर्भावनापूर्ण सॉफ़्टवेयर अपडेट वितरित किए गए।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Provided the drivers waive all future legal rights",
-                "hi": "बशर्ते ड्राइवर भविष्य के सभी कानूनी अधिकार छोड़ दें"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The regulator stated that it supports lenders offering early compensation offers to drivers before the car finance saga ends, provided that those offers are fair.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-            "hi": "नियामक ने कहा कि वह कार वित्त गाथा समाप्त होने से पहले ड्राइवरों को शीघ्र मुआवजे की पेशकश करने वाले ऋणदाताओं का समर्थन करता है, बशर्ते कि वे पेशकश उचित हों।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-7"
-        },
-        {
-          "prompt": {
-            "en": "Which mining giant is jointly funding a A$28 million 'toad containment zone' to protect the Pilbara region from invasive species?",
-            "hi": "पिलबारा क्षेत्र को आक्रामक प्रजातियों से बचाने के लिए कौन सा खनन दिग्गज संयुक्त रूप से $28 मिलियन के 'टॉड नियंत्रण क्षेत्र' का वित्त पोषण कर रहा है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "BHP Group",
-                "hi": "बीएचपी समूह"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Glencore",
-                "hi": "ग्लेनकोर"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Rio Tinto",
-                "hi": "रियो टिंटो"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Vale SA",
-                "hi": "वेले एसए"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Mining giant Rio Tinto is joining the fight against the spread of killer toads by jointly funding a A$28 million toad containment zone to protect the Pilbara region.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-            "hi": "खनन क्षेत्र की दिग्गज कंपनी रियो टिंटो, पिलबारा क्षेत्र की सुरक्षा के लिए 28 मिलियन ऑस्ट्रेलियाई डॉलर के टॉड नियंत्रण क्षेत्र को संयुक्त रूप से वित्त पोषित करके हत्यारे टोड के प्रसार के खिलाफ लड़ाई में शामिल हो रही है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-8"
-        },
-        {
-          "prompt": {
-            "en": "According to a recent report discussing 'quiet quitting', what behavioral shift has been observed among British workers?",
-            "hi": "'चुपचाप छोड़ने' पर चर्चा करने वाली एक हालिया रिपोर्ट के अनुसार, ब्रिटिश श्रमिकों के बीच व्यवहार में क्या बदलाव देखा गया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "They are demanding higher remote-work allowances across all sectors",
-                "hi": "वे सभी क्षेत्रों में उच्च दूरस्थ-कार्य भत्ते की मांग कर रहे हैं"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "They have become less engaged with the jobs they do and are less willing to put in extra effort",
-                "hi": "वे अपने काम में कम व्यस्त हो गए हैं और अतिरिक्त प्रयास करने के लिए कम इच्छुक हैं"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "They are migrating in large numbers to European Union nations",
-                "hi": "वे बड़ी संख्या में यूरोपीय संघ के देशों में प्रवास कर रहे हैं"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "They are retiring early due to universal pension reforms",
-                "hi": "सार्वभौमिक पेंशन सुधारों के कारण वे जल्दी सेवानिवृत्त हो रहे हैं"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "A report found that 'quiet quitting' could be hitting the economy because Britons have become less engaged with their jobs and less willing to put in extra effort.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-            "hi": "एक रिपोर्ट में पाया गया कि 'चुपचाप छोड़ने' से अर्थव्यवस्था पर असर पड़ सकता है क्योंकि ब्रिटेन के लोग अपनी नौकरियों में कम व्यस्त हो गए हैं और अतिरिक्त प्रयास करने के लिए कम इच्छुक हो गए हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-9"
-        },
-        {
-          "prompt": {
-            "en": "Why did auditors criticize the Welsh public sector regarding its net zero targets?",
-            "hi": "शुद्ध शून्य लक्ष्य के संबंध में लेखा परीक्षकों ने वेल्श सार्वजनिक क्षेत्र की आलोचना क्यों की?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Because organizations exceeded their carbon credit budgets",
-                "hi": "क्योंकि संगठनों ने अपने कार्बन क्रेडिट बजट को पार कर लिया है"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Because they failed to invest in renewable energy infrastructure",
-                "hi": "क्योंकि वे नवीकरणीय ऊर्जा बुनियादी ढांचे में निवेश करने में विफल रहे"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Because they are unlikely to meet net zero plans by 2030 due to a lack of progress in tackling climate change",
-                "hi": "क्योंकि जलवायु परिवर्तन से निपटने में प्रगति की कमी के कारण उनके 2030 तक नेट ज़ीरो योजनाओं को पूरा करने की संभावना नहीं है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Because they refused to submit annual sustainability reports",
-                "hi": "क्योंकि उन्होंने वार्षिक स्थिरता रिपोर्ट प्रस्तुत करने से इनकार कर दिया"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Auditors criticized the Welsh public sector because organisations have made insufficient progress in tackling climate change, making it unlikely they will meet net zero plans by 2030.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-            "hi": "लेखा परीक्षकों ने वेल्श सार्वजनिक क्षेत्र की आलोचना की क्योंकि संगठनों ने जलवायु परिवर्तन से निपटने में अपर्याप्त प्रगति की है, जिससे यह संभावना नहीं है कि वे 2030 तक शुद्ध शून्य योजनाओं को पूरा कर पाएंगे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-10"
-        },
-        {
-          "prompt": {
-            "en": "What is the primary objective of the major study launched by the UK government regarding 'forever chemicals' (PFAS)?",
-            "hi": "'फॉरएवर केमिकल्स' (पीएफएएस) के संबंध में यूके सरकार द्वारा शुरू किए गए प्रमुख अध्ययन का प्राथमिक उद्देश्य क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To completely ban the industrial manufacture of PFAS products within two years",
-                "hi": "दो साल के भीतर पीएफएएस उत्पादों के औद्योगिक निर्माण पर पूरी तरह से प्रतिबंध लगाना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To measure PFAS in the UK population to understand the risks",
-                "hi": "जोखिमों को समझने के लिए यूके की आबादी में पीएफएएस को मापना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To clear PFAS contamination from all municipal water reservoirs",
-                "hi": "सभी नगरपालिका जल जलाशयों से पीएफएएस संदूषण को साफ़ करना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To subsidize alternative manufacturing materials for private corporations",
-                "hi": "निजी निगमों के लिए वैकल्पिक विनिर्माण सामग्री पर सब्सिडी देना"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The UK government launched a major study to measure PFAS (forever chemicals) in the country's population to better understand the associated health risks.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
-            "hi": "यूके सरकार ने संबंधित स्वास्थ्य जोखिमों को बेहतर ढंग से समझने के लिए देश की आबादी में पीएफएएस (हमेशा के लिए रसायन) को मापने के लिए एक प्रमुख अध्ययन शुरू किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-11"
-        },
-        {
-          "prompt": {
-            "en": "In the resolution passed by the Kochi Corporation Council criticising the Chief Election Commissioner, what specific allegation was leveled against CEC Gyanesh Kumar?",
-            "hi": "कोच्चि निगम परिषद द्वारा मुख्य चुनाव आयुक्त की आलोचना करते हुए पारित प्रस्ताव में सीईसी ज्ञानेश कुमार पर क्या विशेष आरोप लगाया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Allegedly bringing disrepute to a constitutional position through the purported sabotage of the democratic process by stripping over 13 crore voters of their voting rights",
-                "hi": "कथित तौर पर 13 करोड़ से अधिक मतदाताओं से उनके मतदान का अधिकार छीनकर लोकतांत्रिक प्रक्रिया में कथित तोड़फोड़ के माध्यम से एक संवैधानिक पद को बदनाम किया गया।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Enacting discriminatory local tax laws in urban areas",
-                "hi": "शहरी क्षेत्रों में भेदभावपूर्ण स्थानीय कर कानून बनाना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Delaying municipal elections and administrative funding allocations",
-                "hi": "नगरपालिका चुनाव और प्रशासनिक फंडिंग आवंटन में देरी"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Failing to implement digital voting infrastructure across municipal bodies",
-                "hi": "नगर निकायों में डिजिटल वोटिंग बुनियादी ढांचे को लागू करने में विफलता"
+                "en": "Zero-day exploits executed on decentralized finance (DeFi) liquidity pools.",
+                "hi": "विकेंद्रीकृत वित्त (डीएफआई) तरलता पूल पर शून्य-दिवसीय कारनामे निष्पादित किए गए।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The resolution backed by Left Democratic Front parliamentary party leader V.A. Sreejith explicitly criticised Chief Election Commissioner Gyanesh Kumar for allegedly bringing disrepute to a constitutional position through the purported sabotage of the democratic process by stripping over 13 crore voters of their voting rights.\nSource: https://www.thehindu.com/news/national/kerala/kochi-corporation-council-passes-sir-resolution-amid-protests-bjp-councillors-walk-out/article71660649.ece",
-            "hi": "यह प्रस्ताव वाम लोकतांत्रिक मोर्चा संसदीय दल के नेता वी.ए. द्वारा समर्थित है। श्रीजीत ने 13 करोड़ से अधिक मतदाताओं से उनके मतदान के अधिकार छीनकर लोकतांत्रिक प्रक्रिया में कथित तोड़फोड़ के माध्यम से एक संवैधानिक पद को बदनाम करने के लिए मुख्य चुनाव आयुक्त ज्ञानेश कुमार की स्पष्ट रूप से आलोचना की।\nस्रोत: https://www.thehindu.com/news/national/kerala/kochi-corporation-council-passes-sir-resolution-amid-protests-bjp-councillors-walk-out/article71660649.ece"
+            "en": "Binance stated that attackers used fake job interviews arranged through legitimate job-hunting platforms to target engineers and execute the hack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+            "hi": "बिनेंस ने कहा कि हमलावरों ने इंजीनियरों को निशाना बनाने और हैक को अंजाम देने के लिए वैध नौकरी-शिकारी प्लेटफार्मों के माध्यम से आयोजित नकली नौकरी साक्षात्कार का इस्तेमाल किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-corporation-council-passes-sir-resolution-amid-protests-bjp-councillors-walk-out/article71660649.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-32"
+          "id": "2026-11-05-16"
         },
         {
           "prompt": {
-            "en": "What was the primary objection raised by the Kerala Sasthra Sahithya Parishad regarding the government's newly constituted health task force?",
-            "hi": "सरकार की नवगठित स्वास्थ्य टास्क फोर्स के संबंध में केरल शास्त्र साहित्य परिषद द्वारा उठाई गई प्राथमिक आपत्ति क्या थी?"
+            "en": "Why are Canadian officials and observers viewing the recent U.S. midterm election results as a positive development?",
+            "hi": "कनाडाई अधिकारी और पर्यवेक्षक हाल के अमेरिकी मध्यावधि चुनाव परिणामों को एक सकारात्मक विकास के रूप में क्यों देख रहे हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It lacked international advisory consultants and financial auditors",
-                "hi": "इसमें अंतरराष्ट्रीय सलाहकार सलाहकारों और वित्तीय लेखा परीक्षकों का अभाव था"
+                "en": "It signals a victory for Canadians hopeful of tariff relief and renewed trade talks.",
+                "hi": "यह टैरिफ राहत और नए सिरे से व्यापार वार्ता की आशा रखने वाले कनाडाई लोगों की जीत का संकेत है।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It was given excessive financial powers without legislative oversight",
-                "hi": "इसे विधायी निरीक्षण के बिना अत्यधिक वित्तीय शक्तियाँ दी गईं"
+                "en": "It guarantees immediate exemptions on Canadian softwood lumber tariffs.",
+                "hi": "यह कनाडाई सॉफ्टवुड लकड़ी टैरिफ पर तत्काल छूट की गारंटी देता है।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It failed to include members who have directly worked within the State's public health sector, possess practical experience with its healthcare system, or have conducted significant research on health issues",
-                "hi": "यह उन सदस्यों को शामिल करने में विफल रहा, जिन्होंने सीधे राज्य के सार्वजनिक स्वास्थ्य क्षेत्र में काम किया है, जिनके पास इसकी स्वास्थ्य देखभाल प्रणाली के साथ व्यावहारिक अनुभव है, या जिन्होंने स्वास्थ्य मुद्दों पर महत्वपूर्ण शोध किया है।"
+                "en": "It ends all cross-border energy pipeline regulatory reviews.",
+                "hi": "यह सभी सीमा पार ऊर्जा पाइपलाइन नियामक समीक्षाओं को समाप्त करता है।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It was constituted without the formal approval of the state legislative assembly",
-                "hi": "इसका गठन राज्य विधान सभा की औपचारिक मंजूरी के बिना किया गया था"
+                "en": "It removes mandatory visa requirements for cross-border business travelers.",
+                "hi": "यह सीमा पार व्यापार यात्रियों के लिए अनिवार्य वीज़ा आवश्यकताओं को हटा देता है।"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The Kerala Sasthra Sahithya Parishad sought the reconstitution of the government's health task force because it did not include members who have directly worked within the State’s public health sector, possess practical experience with its healthcare system, or have conducted significant research on the health issues.\nSource: https://www.thehindu.com/news/national/kerala/kerala-sasthra-sahithya-parishad-seeks-reconstitution-of-governments-health-task-force/article71661037.ece",
-            "hi": "केरल शास्त्र साहित्य परिषद ने सरकार की स्वास्थ्य टास्क फोर्स के पुनर्गठन की मांग की क्योंकि इसमें वे सदस्य शामिल नहीं थे जिन्होंने सीधे राज्य के सार्वजनिक स्वास्थ्य क्षेत्र में काम किया है, जिनके पास इसकी स्वास्थ्य देखभाल प्रणाली के साथ व्यावहारिक अनुभव है, या जिन्होंने स्वास्थ्य मुद्दों पर महत्वपूर्ण शोध किया है।\nस्रोत: https://www.thehindu.com/news/national/kerala/kerala-sasthra-sahithya-parishad-seeks-reconstitution-of-governments-health-task-force/article71661037.ece"
+            "en": "The midterm results are seen as a victory for Canadians hoping for tariff relief, as restarted trade talks put pressure on the White House to strike a deal.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+            "hi": "मध्यावधि नतीजों को टैरिफ राहत की उम्मीद कर रहे कनाडाई लोगों की जीत के रूप में देखा जा रहा है, क्योंकि फिर से शुरू हुई व्यापार वार्ता ने व्हाइट हाउस पर समझौता करने का दबाव डाला है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/kerala-sasthra-sahithya-parishad-seeks-reconstitution-of-governments-health-task-force/article71661037.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-33"
+          "id": "2026-11-05-17"
         },
         {
           "prompt": {
-            "en": "What demand was made by cultural activists concerning the Tagore Centenary Hall in Kozhikode?",
-            "hi": "कोझिकोड में टैगोर सेंटेनरी हॉल के संबंध में सांस्कृतिक कार्यकर्ताओं ने क्या मांग की थी?"
+            "en": "Which critical medical infrastructure in France reported disruptions to its cold storage facilities following a cyber-attack?",
+            "hi": "फ्रांस में किस महत्वपूर्ण चिकित्सा बुनियादी ढांचे ने साइबर हमले के बाद अपनी कोल्ड स्टोरेज सुविधाओं में व्यवधान की सूचना दी?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "They requested the renaming of the hall after a local political leader",
-                "hi": "उन्होंने हॉल का नाम एक स्थानीय राजनीतिक नेता के नाम पर रखने का अनुरोध किया"
+                "en": "The French Blood Establishment (EFS)",
+                "hi": "फ्रांसीसी रक्त प्रतिष्ठान (ईएफएस)"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "They demanded the conversion of the hall site into a commercial parking complex",
-                "hi": "उन्होंने हॉल स्थल को व्यावसायिक पार्किंग परिसर में बदलने की मांग की"
+                "en": "The National Vaccine Storage Directorate",
+                "hi": "राष्ट्रीय वैक्सीन भंडारण निदेशालय"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "They called for an independent audit into the demolition expenses",
-                "hi": "उन्होंने विध्वंस खर्चों की स्वतंत्र ऑडिट की मांग की"
+                "en": "The Parisian Organ Procurement Agency",
+                "hi": "पेरिसियन अंग खरीद एजेंसी"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "They urged the Corporation to expedite reconstruction of the demolished 1,200-seat auditorium",
-                "hi": "उन्होंने निगम से ध्वस्त 1,200 सीटों वाले सभागार के पुनर्निर्माण में तेजी लाने का आग्रह किया"
+                "en": "The National Pharmaceutical Stockpile Council",
+                "hi": "नेशनल फार्मास्युटिकल स्टॉकपाइल काउंसिल"
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "Cultural activists urged the Corporation to expedite reconstruction of the demolished 1,200-seat auditorium at the Tagore Centenary Hall in Kozhikode.\nSource: https://www.thehindu.com/news/national/kerala/a-song-or-two-for-the-reconstruction-of-tagore-centenary-hall-in-kozhikode/article71661308.ece",
-            "hi": "सांस्कृतिक कार्यकर्ताओं ने निगम से कोझिकोड में टैगोर सेंटेनरी हॉल में ध्वस्त 1,200 सीटों वाले सभागार के पुनर्निर्माण में तेजी लाने का आग्रह किया।\nस्रोत: https://www.thehindu.com/news/national/kerala/a-song-or-two-for-the-reconstruction-of-tagore-centenary-hall-in-kozhikode/article71661308.ece"
+            "en": "The French Blood Establishment (EFS) confirmed that cold rooms storing blood were impacted by hackers.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+            "hi": "फ्रेंच ब्लड एस्टैब्लिशमेंट (ईएफएस) ने पुष्टि की कि रक्त भंडारण वाले ठंडे कमरों को हैकरों ने प्रभावित किया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/a-song-or-two-for-the-reconstruction-of-tagore-centenary-hall-in-kozhikode/article71661308.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-34"
+          "id": "2026-11-05-18"
         },
         {
           "prompt": {
-            "en": "According to the newly appointed Chairman of Karnataka's Skill Vision Group, how should the development pathways of IITs and ITIs be aligned?",
-            "hi": "कर्नाटक के स्किल विजन ग्रुप के नवनियुक्त अध्यक्ष के अनुसार, आईआईटी और आईटीआई के विकास पथ को कैसे संरेखित किया जाना चाहिए?"
+            "en": "How much financial backing did Elon Musk's political action committee (PAC) contribute to Ken Paxton's campaign in Texas?",
+            "hi": "एलन मस्क की राजनीतिक कार्रवाई समिति (पीएसी) ने टेक्सास में केन पैक्सटन के अभियान में कितना वित्तीय समर्थन दिया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "ITIs should be phased out entirely and merged into IIT engineering programs",
-                "hi": "आईटीआई को पूरी तरह से समाप्त कर दिया जाना चाहिए और आईआईटी इंजीनियरिंग कार्यक्रमों में विलय कर दिया जाना चाहिए"
+                "en": "$12 million",
+                "hi": "$12 मिलियन"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "IIT funding should be redirected exclusively toward vocational training institutions",
-                "hi": "आईआईटी फंडिंग को विशेष रूप से व्यावसायिक प्रशिक्षण संस्थानों की ओर पुनर्निर्देशित किया जाना चाहिए"
+                "en": "$47 million",
+                "hi": "$47 मिलियन"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The two paths must operate stereophonically, cooperating in the exact same direction",
-                "hi": "दोनों रास्तों को बिल्कुल एक ही दिशा में सहयोग करते हुए, स्टीरियोफोनिक रूप से संचालित होना चाहिए"
+                "en": "$25 million",
+                "hi": "$25 मिलियन"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "IITs and ITIs must function independently without administrative overlap",
-                "hi": "आईआईटी और आईटीआई को प्रशासनिक ओवरलैप के बिना स्वतंत्र रूप से कार्य करना चाहिए"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The Chairman noted that while IITs marched forward, ITIs walked backwards, emphasizing that these two paths must operate stereophonically, cooperating in the exact same direction.\nSource: https://www.thehindu.com/news/national/karnataka/staggering-white-collar-success-of-bengaluru-has-left-a-non-urban-world-behind-says-bagchi/article71662368.ece",
-            "hi": "चेयरमैन ने कहा कि जब आईआईटी आगे बढ़े, तो आईटीआई पीछे की ओर चले, इस बात पर जोर दिया कि इन दोनों रास्तों को बिल्कुल उसी दिशा में सहयोग करते हुए स्टीरियोफोनिक रूप से संचालित होना चाहिए।\nस्रोत: https://www.thehindu.com/news/national/karnataka/staggering-white-collar-success-of-bengaluru-has-left-a-non-urban-world-behind-says-bagchi/article71662368.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/karnataka/staggering-white-collar-success-of-bengaluru-has-left-a-non-urban-world-behind-says-bagchi/article71662368.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-35"
-        },
-        {
-          "prompt": {
-            "en": "What caused the temporary disruption in NMDC's iron ore sales dispatches during September and October?",
-            "hi": "सितंबर और अक्टूबर के दौरान एनएमडीसी के लौह अयस्क बिक्री प्रेषण में अस्थायी व्यवधान का कारण क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Nationwide industrial strikes called by railway transport workers",
-                "hi": "रेलवे परिवहन कर्मचारियों द्वारा राष्ट्रव्यापी औद्योगिक हड़ताल का आह्वान किया गया"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Regulatory halts ordered by environmental protection agencies",
-                "hi": "पर्यावरण संरक्षण एजेंसियों द्वारा विनियामक रुकावटों का आदेश दिया गया"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A sharp decline in international steel demand affecting port logistics",
-                "hi": "अंतरराष्ट्रीय इस्पात मांग में भारी गिरावट से बंदरगाह रसद प्रभावित हो रही है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Disruptions to the Kottavalasa–Kirandul (KK) railway line after sections of the route were washed away due to heavy monsoon rains",
-                "hi": "भारी मानसूनी बारिश के कारण मार्ग के कुछ हिस्से बह जाने के बाद कोत्तावलसा-किरंदुल (केके) रेलवे लाइन में व्यवधान"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "NMDC's dispatches were temporarily impacted by disruptions to the Kottavalasa–Kirandul (KK) railway line after sections of the route were washed away due to heavy monsoon rains in September and October.\nSource: https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
-            "hi": "सितंबर और अक्टूबर में भारी मानसूनी बारिश के कारण मार्ग के कुछ हिस्से बह जाने के बाद कोट्टावलसा-किरंदुल (केके) रेलवे लाइन में व्यवधान के कारण एनएमडीसी का प्रेषण अस्थायी रूप से प्रभावित हुआ था।\nस्रोत: https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-36"
-        },
-        {
-          "prompt": {
-            "en": "What method was suspected to be used for smuggling prohibited articles into the Kannur Central Jail, where mobile phones and power banks were seized?",
-            "hi": "कन्नूर सेंट्रल जेल, जहां मोबाइल फोन और पावर बैंक जब्त किए गए थे, में प्रतिबंधित वस्तुओं की तस्करी के लिए किस विधि का इस्तेमाल किए जाने का संदेह था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Dropping packages via drones during nighttime hours",
-                "hi": "रात के समय ड्रोन के माध्यम से पैकेज छोड़ना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Concealment inside authorized food items brought into the prison",
-                "hi": "जेल में लाए गए अधिकृत खाद्य पदार्थों को अंदर छिपाना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Smuggling items through corrupt prison security guards",
-                "hi": "भ्रष्ट जेल सुरक्षा गार्डों के माध्यम से वस्तुओं की तस्करी"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Hiding electronic devices inside official legal documents",
-                "hi": "आधिकारिक कानूनी दस्तावेजों के अंदर इलेक्ट्रॉनिक उपकरणों को छिपाना"
+                "en": "$85 million",
+                "hi": "$85 मिलियन"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The seizure of mobile phones and power banks from Kannur Central Jail involved food items suspected to be used to smuggle prohibited articles into prison.\nSource: https://www.thehindu.com/news/national/kerala/mobile-phone-power-banks-seized-from-kannur-central-jail/article71660636.ece",
-            "hi": "कन्नूर सेंट्रल जेल से मोबाइल फोन और पावर बैंक की जब्ती में खाद्य सामग्री शामिल थी, जिसका इस्तेमाल जेल में प्रतिबंधित वस्तुओं की तस्करी के लिए किए जाने का संदेह था।\nस्रोत: https://www.thehindu.com/news/national/kerala/mobile-phone-power-banks-seized-from-kannur-central-jail/article71660636.ece"
+            "en": "Elon Musk's political action committee contributed $47m (£35m) to Ken Paxton's campaign.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+            "hi": "एलोन मस्क की राजनीतिक कार्रवाई समिति ने केन पैक्सटन के अभियान में $47m (£35m) का योगदान दिया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/mobile-phone-power-banks-seized-from-kannur-central-jail/article71660636.ece",
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-37"
-        },
-        {
-          "prompt": {
-            "en": "What was reported regarding the medical condition and psychological state of the six-year-old victim following a classroom assault incident?",
-            "hi": "कक्षा में हमले की घटना के बाद छह वर्षीय पीड़िता की चिकित्सीय स्थिति और मनोवैज्ञानिक स्थिति के बारे में क्या बताया गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "She suffered fatal injuries and did not survive the hospital transfer",
-                "hi": "उसे घातक चोटें लगीं और अस्पताल स्थानांतरण से वह बच नहीं पाई"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "She is out of danger, but remains traumatised by her assault, according to her family",
-                "hi": "उसके परिवार के अनुसार, वह खतरे से बाहर है, लेकिन अपने हमले से सदमे में है"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "She sustained minor scratches and returned to school the next day",
-                "hi": "उसे मामूली खरोंचें आईं और वह अगले दिन स्कूल लौट आई"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "She was placed on life support following severe neurological trauma",
-                "hi": "गंभीर न्यूरोलॉजिकल आघात के बाद उन्हें जीवन रक्षक प्रणाली पर रखा गया था"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Her family stated that the girl, who was seriously injured in the classroom assault, is out of danger, but remains traumatised by her assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
-            "hi": "उसके परिवार ने कहा कि कक्षा में हमले में गंभीर रूप से घायल हुई लड़की खतरे से बाहर है, लेकिन अपने हमले से सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-38"
+          "id": "2026-11-05-19"
         }
       ],
       "quarantined": [],
@@ -933,623 +525,878 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-11-04T06:30:00+05:30"
+      "release_at": "2026-11-05T06:30:00+05:30"
     },
     {
-      "title": "Economy, Business & Finance",
-      "source_filename": "daily-2026-11-04.json",
+      "title": "Public Health, Policy & Regional Governance",
+      "source_filename": "daily-2026-11-05.json",
       "questions": [
         {
           "prompt": {
-            "en": "What directive was issued by Adani Airports Holdings CEO Arun Bansal to foreign airlines operating in Mumbai?",
-            "hi": "अडानी एयरपोर्ट्स होल्डिंग्स के सीईओ अरुण बंसल ने मुंबई में संचालित होने वाली विदेशी एयरलाइंस को क्या निर्देश जारी किया था?"
+            "en": "Under the government's proposed amendments concerning substandard drugs, what is the mandatory condition stipulated before the revocation of a manufacturing licence suspension?",
+            "hi": "घटिया दवाओं से संबंधित सरकार के प्रस्तावित संशोधनों के तहत, विनिर्माण लाइसेंस निलंबन को रद्द करने से पहले निर्धारित अनिवार्य शर्त क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "To pay double landing fees or face immediate cancellation of routes",
-                "hi": "डबल लैंडिंग शुल्क का भुगतान करना होगा या मार्गों को तत्काल रद्द करने का सामना करना पड़ेगा"
+                "en": "A mandatory inspection by international regulatory agencies.",
+                "hi": "अंतर्राष्ट्रीय नियामक एजेंसियों द्वारा एक अनिवार्य निरीक्षण।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "To merge their ground handling services with local operators",
-                "hi": "अपनी ग्राउंड हैंडलिंग सेवाओं को स्थानीय ऑपरेटरों के साथ विलय करना"
+                "en": "Payment of a heavy financial penalty to the state drug control board.",
+                "hi": "राज्य औषधि नियंत्रण बोर्ड को भारी आर्थिक दंड का भुगतान।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "To transition entirely to cargo operations from domestic terminals",
-                "hi": "घरेलू टर्मिनलों से पूरी तरह से कार्गो संचालन में परिवर्तन करना"
+                "en": "A mandatory public apology published across national newspapers.",
+                "hi": "राष्ट्रीय समाचार पत्रों में एक अनिवार्य सार्वजनिक माफी प्रकाशित की गई।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "To shift to Navi Mumbai or stop flying to Mumbai",
-                "hi": "नवी मुंबई में स्थानांतरित होने या मुंबई के लिए उड़ान बंद करने के लिए"
+                "en": "Mandatory corrective measures must be undertaken by the manufacturer before revocation.",
+                "hi": "निरस्तीकरण से पहले निर्माता द्वारा अनिवार्य सुधारात्मक उपाय किए जाने चाहिए।"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "Adani Airports Holdings CEO Arun Bansal directed foreign airlines to vacate Mumbai property by April, effectively telling them to shift to Navi Mumbai or stop flying to Mumbai.\nSource: https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
-            "hi": "अदानी एयरपोर्ट्स होल्डिंग्स के सीईओ अरुण बंसल ने विदेशी एयरलाइंस को अप्रैल तक मुंबई की संपत्ति खाली करने का निर्देश दिया, जिससे उन्हें नवी मुंबई में स्थानांतरित होने या मुंबई के लिए उड़ान बंद करने को कहा गया।\nस्रोत: https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece"
+            "en": "The proposed amendment explicitly mandates that corrective measures must be undertaken by the manufacturer before any suspension can be revoked, ensuring safety standards are met.\nSource: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
+            "hi": "प्रस्तावित संशोधन में स्पष्ट रूप से यह आदेश दिया गया है कि किसी भी निलंबन को रद्द करने से पहले निर्माता द्वारा सुधारात्मक उपाय किए जाने चाहिए, यह सुनिश्चित करते हुए कि सुरक्षा मानकों को पूरा किया जाए।\nस्रोत: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-12"
+          "id": "2026-11-05-1"
         },
         {
           "prompt": {
-            "en": "According to the NSE Q2 financial report, what performance metric in the cash market supported its bottomline?",
-            "hi": "एनएसई Q2 वित्तीय रिपोर्ट के अनुसार, नकदी बाजार में किस प्रदर्शन मीट्रिक ने इसकी निचली रेखा का समर्थन किया?"
+            "en": "What specific administrative trigger prompted the Kochi police to initiate a background verification drive for private bus employees?",
+            "hi": "किस विशिष्ट प्रशासनिक कारण ने कोच्चि पुलिस को निजी बस कर्मचारियों के लिए पृष्ठभूमि सत्यापन अभियान शुरू करने के लिए प्रेरित किया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Average daily traded volume (ADTV) rose 24% YoY to ₹1,18,377 crore",
-                "hi": "औसत दैनिक कारोबार की मात्रा (एडीटीवी) साल-दर-साल 24% बढ़कर ₹1,18,377 करोड़ हो गई"
+                "en": "Direct orders from the Union Ministry of Road Transport and Highways.",
+                "hi": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्रालय से सीधे आदेश।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Derivative trading volumes contracted by 15% due to higher margin requirements",
-                "hi": "उच्च मार्जिन आवश्यकताओं के कारण डेरिवेटिव ट्रेडिंग वॉल्यूम में 15% की कमी आई"
+                "en": "A formal strike called by private bus passenger associations.",
+                "hi": "निजी बस यात्री संघों द्वारा औपचारिक हड़ताल का आह्वान किया गया।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Foreign institutional investments surged by 50% in equity segments",
-                "hi": "इक्विटी सेगमेंट में विदेशी संस्थागत निवेश 50% बढ़ गया"
+                "en": "Routine annual administrative reviews conducted by the state transport department.",
+                "hi": "राज्य परिवहन विभाग द्वारा नियमित वार्षिक प्रशासनिक समीक्षाएँ आयोजित की जाती हैं।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Primary IPO listings generated record fee income for the exchange",
-                "hi": "प्राथमिक आईपीओ लिस्टिंग ने एक्सचेंज के लिए रिकॉर्ड शुल्क आय उत्पन्न की"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The NSE's Q2 profit rise and bottomline were supported by higher trading activity, specifically an increase of 24% YoY in the average daily traded volume (ADTV) in the cash market to ₹1,18,377 crore.\nSource: https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
-            "hi": "एनएसई के Q2 लाभ में वृद्धि और बॉटमलाइन को उच्च व्यापारिक गतिविधि द्वारा समर्थित किया गया, विशेष रूप से नकदी बाजार में औसत दैनिक कारोबार की मात्रा (एडीटीवी) में 24% की वृद्धि के साथ ₹1,18,377 करोड़।\nस्रोत: https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-13"
-        },
-        {
-          "prompt": {
-            "en": "Despite an 18% rise in iron ore output in October, what operational constraint temporarily impacted NMDC's sales?",
-            "hi": "अक्टूबर में लौह अयस्क उत्पादन में 18% की वृद्धि के बावजूद, किस परिचालन बाधा ने एनएमडीसी की बिक्री को अस्थायी रूप से प्रभावित किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Disruptions to the Kottavalasa–Kirandul (KK) railway line after sections were washed away by heavy monsoon rains",
-                "hi": "भारी मानसूनी बारिश के कारण कोट्टावलसा-किरंदुल (केके) रेलवे लाइन का कुछ हिस्सा बह जाने से रुकावट आई।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Labor strikes at major extraction sites in Chhattisgarh",
-                "hi": "छत्तीसगढ़ में प्रमुख निष्कर्षण स्थलों पर मजदूरों की हड़ताल"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Export bans imposed on iron ore shipments to Southeast Asia",
-                "hi": "दक्षिण पूर्व एशिया में लौह अयस्क शिपमेंट पर निर्यात प्रतिबंध लगाया गया"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Severe power shortages halting blast furnace operations",
-                "hi": "बिजली की गंभीर कमी से ब्लास्ट फर्नेस का संचालन रुक गया है"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "NMDC's iron ore dispatches were temporarily impacted because sections of the Kottavalasa–Kirandul (KK) railway line were washed away due to heavy monsoon rains.\nSource: https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
-            "hi": "एनएमडीसी का लौह अयस्क प्रेषण अस्थायी रूप से प्रभावित हुआ क्योंकि भारी मानसूनी बारिश के कारण कोत्तावलसा-किरंदुल (केके) रेलवे लाइन के कुछ हिस्से बह गए।\nस्रोत: https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-14"
-        },
-        {
-          "prompt": {
-            "en": "What specific sector is covered by the draft deal agreed between the UK and EU to scrap Brexit red tape?",
-            "hi": "ब्रेक्सिट लालफीताशाही को खत्म करने के लिए यूके और ईयू के बीच सहमत ड्राफ्ट डील में कौन सा विशिष्ट क्षेत्र शामिल है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Automotive manufacturing components",
-                "hi": "ऑटोमोटिव विनिर्माण घटक"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Financial services and cross-border banking",
-                "hi": "वित्तीय सेवाएँ और सीमा पार बैंकिंग"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Food exports",
-                "hi": "खाद्य निर्यात"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Pharmaceutical supply chains",
-                "hi": "दवा आपूर्ति शृंखला"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The UK and EU agreed on a draft deal to scrap Brexit red tape specifically over food exports ahead of a UK-EU summit.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-            "hi": "यूके और ईयू शिखर सम्मेलन से पहले विशेष रूप से खाद्य निर्यात पर ब्रेक्सिट लालफीताशाही को खत्म करने के लिए एक मसौदा समझौते पर सहमत हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-15"
-        },
-        {
-          "prompt": {
-            "en": "Who has taken charge as the new head of supermarket chain Asda with immediate effect?",
-            "hi": "किसने तत्काल प्रभाव से सुपरमार्केट श्रृंखला एस्डा के नए प्रमुख के रूप में कार्यभार संभाला है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "K.T. Jithendran",
-                "hi": "के.टी. जीतेन्द्रन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Arun Bansal",
-                "hi": "अरुण बंसल"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Anil Agarwal",
-                "hi": "अनिल अग्रवाल"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "David Potts",
-                "hi": "डेविड पॉट्स"
+                "en": "A series of incidents of criminal behaviour involving private bus crew.",
+                "hi": "निजी बस चालक दल से जुड़े आपराधिक व्यवहार की घटनाओं की एक श्रृंखला।"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "Asda hired ex-Morrisons boss David Potts to take charge of the Leeds-based firm with immediate effect in a bid to grow the company.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-            "hi": "एस्डा ने कंपनी को आगे बढ़ाने के लिए तत्काल प्रभाव से मॉरिसन के पूर्व बॉस डेविड पॉट्स को लीड्स स्थित कंपनी का कार्यभार संभालने के लिए नियुक्त किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt explicitly notes that the Kochi police launched the background verification drive following a series of incidents of criminal behaviour involving private bus crew.\nSource: https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
+            "hi": "अंश में स्पष्ट रूप से लिखा गया है कि कोच्चि पुलिस ने निजी बस चालक दल से जुड़े आपराधिक व्यवहार की घटनाओं की एक श्रृंखला के बाद पृष्ठभूमि सत्यापन अभियान शुरू किया।\nस्रोत: https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-16"
+          "id": "2026-11-05-2"
         },
         {
           "prompt": {
-            "en": "What energy source are four planned 'hyperscale' AI data centres considering using to meet their electricity needs in the UK?",
-            "hi": "यूके में अपनी बिजली की जरूरतों को पूरा करने के लिए चार नियोजित 'हाइपरस्केल' एआई डेटा सेंटर किस ऊर्जा स्रोत का उपयोग करने पर विचार कर रहे हैं?"
+            "en": "In the PIL plea before the Madras High Court seeking guidelines regarding the registration of criminal cases for online speech, which neighboring State's judicial precedent was cited?",
+            "hi": "ऑनलाइन भाषण के लिए आपराधिक मामलों के पंजीकरण के संबंध में दिशानिर्देशों की मांग करने वाली मद्रास उच्च न्यायालय के समक्ष जनहित याचिका में किस पड़ोसी राज्य की न्यायिक मिसाल का हवाला दिया गया था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Gas-fired power",
-                "hi": "गैस आधारित शक्ति"
+                "en": "Karnataka High Court",
+                "hi": "कर्नाटक उच्च न्यायालय"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Offshore wind farms directly connected via dedicated cables",
-                "hi": "अपतटीय पवन फार्म सीधे समर्पित केबलों के माध्यम से जुड़े हुए हैं"
+                "en": "Kerala High Court",
+                "hi": "केरल उच्च न्यायालय"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Small modular nuclear reactors",
-                "hi": "छोटे मॉड्यूलर परमाणु रिएक्टर"
+                "en": "Andhra Pradesh High Court",
+                "hi": "आंध्र प्रदेश उच्च न्यायालय"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Geothermal energy grids",
-                "hi": "भूतापीय ऊर्जा ग्रिड"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "AI data centres could undermine the UK's emissions goals because four planned hyperscale data centres are considering using gas-fired power for their electricity needs.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
-            "hi": "एआई डेटा केंद्र यूके के उत्सर्जन लक्ष्यों को कमजोर कर सकते हैं क्योंकि चार नियोजित हाइपरस्केल डेटा केंद्र अपनी बिजली की जरूरतों के लिए गैस से चलने वाली बिजली का उपयोग करने पर विचार कर रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-17"
-        },
-        {
-          "prompt": {
-            "en": "According to crypto giant Binance, what method was used by attackers in connection with a massive $6.3bn crypto hack?",
-            "hi": "क्रिप्टो दिग्गज बिनेंस के अनुसार, $6.3 बिलियन की भारी क्रिप्टो हैक के संबंध में हमलावरों द्वारा किस विधि का उपयोग किया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Distributed denial-of-service attacks on exchange liquidity pools",
-                "hi": "विनिमय तरलता पूल पर सेवा से इनकार के वितरित हमले"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Physical theft of hardware wallet private keys from corporate headquarters",
-                "hi": "कॉर्पोरेट मुख्यालय से हार्डवेयर वॉलेट निजी चाबियों की भौतिक चोरी"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Exploitation of smart contract vulnerabilities in decentralized finance protocols",
-                "hi": "विकेंद्रीकृत वित्त प्रोटोकॉल में स्मार्ट अनुबंध कमजोरियों का शोषण"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Fake job interviews via legitimate job-hunting platforms involving bogus company representatives",
-                "hi": "फर्जी कंपनी प्रतिनिधियों को शामिल करते हुए वैध नौकरी-शिकारी प्लेटफार्मों के माध्यम से नकली नौकरी साक्षात्कार"
+                "en": "Telangana High Court",
+                "hi": "तेलंगाना उच्च न्यायालय"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "Binance revealed that fake job interviews, where engineers were contacted through legitimate job-hunting platforms and invited by fake company representatives, were used as part of the cyber-attack.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-            "hi": "बिनेंस ने खुलासा किया कि साइबर हमले के हिस्से के रूप में नकली नौकरी साक्षात्कार का उपयोग किया गया था, जहां इंजीनियरों को वैध नौकरी-शिकारी प्लेटफार्मों के माध्यम से संपर्क किया गया था और नकली कंपनी प्रतिनिधियों द्वारा आमंत्रित किया गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+            "en": "The litigant pointed out that the Telangana High Court had framed a set of guidelines for the police in the neighboring State, suggesting Tamil Nadu could take a cue from that judgment.\nSource: https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
+            "hi": "वादी ने बताया कि तेलंगाना उच्च न्यायालय ने पड़ोसी राज्य में पुलिस के लिए दिशानिर्देशों का एक सेट तैयार किया था, जिसमें सुझाव दिया गया था कि तमिलनाडु उस फैसले से सीख ले सकता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-18"
+          "id": "2026-11-05-3"
         },
         {
           "prompt": {
-            "en": "Which trade body recently cautioned its members regarding shipments to West Asian countries amid regional developments?",
-            "hi": "हाल ही में किस व्यापार निकाय ने क्षेत्रीय विकास के बीच पश्चिम एशियाई देशों को शिपमेंट के संबंध में अपने सदस्यों को आगाह किया?"
+            "en": "What is the core objective of the newly approved VISTAR scheme designed to overhaul India's statistical system?",
+            "hi": "भारत की सांख्यिकीय प्रणाली में आमूल-चूल परिवर्तन के लिए डिज़ाइन की गई नई स्वीकृत VISTAR योजना का मुख्य उद्देश्य क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "All India Agricultural Producers Association",
-                "hi": "अखिल भारतीय कृषि उत्पादक संघ"
+                "en": "To strengthen data collecting, analysis, AI incorporation, and provide fresh unorganised sector data to make GDP figures more accurate.",
+                "hi": "जीडीपी आंकड़ों को अधिक सटीक बनाने के लिए डेटा संग्रहण, विश्लेषण, एआई निगमन को मजबूत करना और असंगठित क्षेत्र का ताजा डेटा प्रदान करना।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Federation of Indian Export Organisations",
-                "hi": "भारतीय निर्यात संगठनों का संघ"
+                "en": "To decentralize agricultural census collection to rural village panchayats.",
+                "hi": "कृषि जनगणना संग्रह को ग्रामीण ग्राम पंचायतों तक विकेंद्रीकृत करना।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Rice exporters federation",
-                "hi": "चावल निर्यातक संघ"
+                "en": "To replace the decennial census with automated digital surveys.",
+                "hi": "दशकीय जनगणना को स्वचालित डिजिटल सर्वेक्षण से बदलना।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Confederation of Indian Textile Industry",
-                "hi": "भारतीय कपड़ा उद्योग परिसंघ"
+                "en": "To transition all macroeconomic indicators to a decentralized blockchain ledger.",
+                "hi": "सभी व्यापक आर्थिक संकेतकों को एक विकेन्द्रीकृत ब्लॉकचेन बहीखाता में परिवर्तित करना।"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The rice exporters federation issued a caution to its members regarding shipments to West Asian countries.\nSource: https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece",
-            "hi": "चावल निर्यातक संघ ने पश्चिम एशियाई देशों को शिपमेंट के संबंध में अपने सदस्यों को चेतावनी जारी की।\nस्रोत: https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece"
+            "en": "The VISTAR scheme focuses on strengthening data collection and analysis, incorporating AI, and providing fresh unorganised sector data to improve GDP accuracy.\nSource: https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
+            "hi": "VISTAR योजना डेटा संग्रह और विश्लेषण को मजबूत करने, AI को शामिल करने और जीडीपी सटीकता में सुधार के लिए नए असंगठित क्षेत्र डेटा प्रदान करने पर केंद्रित है।\nस्रोत: https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece",
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-19"
+          "id": "2026-11-05-4"
         },
         {
           "prompt": {
-            "en": "According to industry reports from Coimbatore, political and social disturbances in which neighboring country are likely to impact Indian yarn and fabric exports?",
-            "hi": "कोयंबटूर से उद्योग रिपोर्टों के अनुसार, किस पड़ोसी देश में राजनीतिक और सामाजिक गड़बड़ी से भारतीय धागे और कपड़े के निर्यात पर असर पड़ने की संभावना है?"
+            "en": "What specific Air Quality Index (AQI) reading was recorded for Delhi on Wednesday morning, placing it in the 'very poor' category?",
+            "hi": "बुधवार की सुबह दिल्ली के लिए कौन सी विशिष्ट वायु गुणवत्ता सूचकांक (एक्यूआई) रीडिंग दर्ज की गई, जो इसे 'बहुत खराब' श्रेणी में रखती है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Pakistan",
-                "hi": "पाकिस्तान"
+                "en": "377",
+                "hi": "377"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Bangladesh",
-                "hi": "बांग्लादेश"
+                "en": "312",
+                "hi": "312"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Myanmar",
-                "hi": "म्यांमार"
+                "en": "415",
+                "hi": "415"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Sri Lanka",
-                "hi": "श्रीलंका"
+                "en": "450",
+                "hi": "450"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "According to the report, Delhi's air quality index reading stood at 377 on Wednesday morning, which places it directly in the 'very poor' category.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट के मुताबिक, बुधवार सुबह दिल्ली की वायु गुणवत्ता सूचकांक रीडिंग 377 थी, जो इसे सीधे 'बहुत खराब' श्रेणी में रखती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-5"
+        },
+        {
+          "prompt": {
+            "en": "What primary justification was provided by authorities for razing hundreds of houses in a central Delhi neighbourhood?",
+            "hi": "मध्य दिल्ली के पड़ोस में सैकड़ों घरों को ध्वस्त करने के लिए अधिकारियों द्वारा क्या प्राथमिक औचित्य प्रदान किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The structures were classified as structurally hazardous earthquake-prone buildings.",
+                "hi": "संरचनाओं को संरचनात्मक रूप से खतरनाक भूकंप-प्रवण इमारतों के रूप में वर्गीकृत किया गया था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The area failed municipal sanitation and fire safety audits.",
+                "hi": "यह क्षेत्र नगरपालिका स्वच्छता और अग्नि सुरक्षा ऑडिट में विफल रहा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The land was required for an expansion of the central vista project.",
+                "hi": "सेंट्रल विस्टा परियोजना के विस्तार के लिए भूमि की आवश्यकता थी।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The houses were built illegally on government land.",
+                "hi": "ये मकान सरकारी जमीन पर अवैध रूप से बनाए गए थे."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Authorities carried out the demolitions stating that the hundreds of houses in the central Delhi neighbourhood were built on government land.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+            "hi": "अधिकारियों ने यह कहते हुए तोड़फोड़ की कि मध्य दिल्ली के पड़ोस में सैकड़ों घर सरकारी जमीन पर बने थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-6"
+        },
+        {
+          "prompt": {
+            "en": "Following a shocking classroom incident in India where a young child was assaulted, what did the victim's family report regarding her medical and psychological condition?",
+            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक छोटे बच्चे पर हमला किया गया, पीड़ित के परिवार ने उसकी चिकित्सा और मनोवैज्ञानिक स्थिति के बारे में क्या रिपोर्ट दी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She remains in critical care on life support.",
+                "hi": "वह जीवन समर्थन पर गंभीर देखभाल में बनी हुई है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She suffered permanent physical paralysis.",
+                "hi": "उसे स्थायी शारीरिक पक्षाघात का सामना करना पड़ा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She has fully recovered and returned to school.",
+                "hi": "वह पूरी तरह से ठीक होकर स्कूल लौट आई है।'"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She is out of danger but remains traumatised by her assault.",
+                "hi": "वह खतरे से बाहर है लेकिन अपने हमले से सदमे में है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The family stated that although the seriously injured girl is out of danger, she remains traumatised by the assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": "परिवार ने कहा कि हालांकि गंभीर रूप से घायल लड़की खतरे से बाहर है, लेकिन हमले से वह सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-7"
+        },
+        {
+          "prompt": {
+            "en": "During political consultations following an election deadlock, what warning did Israel's president issue to political parties?",
+            "hi": "चुनावी गतिरोध के बाद राजनीतिक परामर्श के दौरान, इज़राइल के राष्ट्रपति ने राजनीतिक दलों को क्या चेतावनी जारी की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That political parties must dissolve parliament and form a technocratic caretaker government.",
+                "hi": "राजनीतिक दलों को संसद भंग करनी होगी और एक तकनीकी लोकतांत्रिक कार्यवाहक सरकार बनानी होगी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That not every commitment and promise can be fulfilled if they want to avoid another election.",
+                "hi": "अगर वे दूसरे चुनाव से बचना चाहते हैं तो हर प्रतिबद्धता और वादा पूरा नहीं किया जा सकता।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That international mediators will oversee coalition negotiations.",
+                "hi": "अंतरराष्ट्रीय मध्यस्थ गठबंधन वार्ता की निगरानी करेंगे।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That constitutional amendments are mandatory before forming a coalition cabinet.",
+                "hi": "कि गठबंधन मंत्रिमंडल बनाने से पहले संवैधानिक संशोधन अनिवार्य है।"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "Disturbances in Bangladesh were reported to be likely to impact Indian yarn and fabric exports.\nSource: https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece",
-            "hi": "बताया गया कि बांग्लादेश में अशांति के कारण भारतीय धागे और कपड़े के निर्यात पर असर पड़ने की संभावना है।\nस्रोत: https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece"
+            "en": "President Herzog explicitly warned politicians that not every commitment and promise can be fulfilled if they wish to avoid triggering another election.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+            "hi": "राष्ट्रपति हर्ज़ोग ने राजनेताओं को स्पष्ट रूप से चेतावनी दी कि यदि वे दूसरे चुनाव से बचना चाहते हैं तो हर प्रतिबद्धता और वादे को पूरा नहीं किया जा सकता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece",
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-20"
+          "id": "2026-11-05-8"
         },
         {
           "prompt": {
-            "en": "According to the NSE Q2 financial report, what key metric supported the exchange's bottomline growth?",
-            "hi": "एनएसई Q2 वित्तीय रिपोर्ट के अनुसार, किस प्रमुख मीट्रिक ने एक्सचेंज की बॉटमलाइन वृद्धि का समर्थन किया?"
+            "en": "According to Apollo Hospitals' Q2 financial report, what expansion plan was announced regarding its hospital infrastructure?",
+            "hi": "अपोलो हॉस्पिटल्स की Q2 वित्तीय रिपोर्ट के अनुसार, इसके अस्पताल के बुनियादी ढांचे के संबंध में किस विस्तार योजना की घोषणा की गई थी?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "A 40% surge in international currency derivative listings",
-                "hi": "अंतर्राष्ट्रीय मुद्रा डेरिवेटिव सूची में 40% की वृद्धि"
+                "en": "To add nearly 5,800 beds over the next five years.",
+                "hi": "अगले पांच वर्षों में लगभग 5,800 बिस्तर जोड़ना।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "An increase in average daily traded volume (ADTV) in the cash market by 24% YoY to ₹1,18,377 crore in Q2FY27",
-                "hi": "Q2FY27 में नकदी बाजार में औसत दैनिक कारोबार की मात्रा (ADTV) में सालाना 24% की वृद्धि होकर ₹1,18,377 करोड़ हो गई।"
+                "en": "To double international patient care centers across South Asia.",
+                "hi": "पूरे दक्षिण एशिया में अंतर्राष्ट्रीय रोगी देखभाल केंद्रों को दोगुना करना।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A reduction in corporate listing fees across all major indices",
-                "hi": "सभी प्रमुख सूचकांकों में कॉर्पोरेट लिस्टिंग शुल्क में कमी"
+                "en": "To merge regional clinics into tertiary care medical hubs.",
+                "hi": "क्षेत्रीय क्लीनिकों को तृतीयक देखभाल चिकित्सा केंद्रों में विलय करना।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "A massive inflow of sovereign wealth fund investments into block deals",
-                "hi": "ब्लॉक सौदों में सॉवरेन वेल्थ फंड निवेश का भारी प्रवाह"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The NSE's bottomline was supported by higher trading activity, specifically noting that the average daily traded volume (ADTV) in the cash market rose 24% YoY to ₹1,18,377 crore in Q2FY27.\nSource: https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
-            "hi": "एनएसई की निचली रेखा को उच्च व्यापारिक गतिविधि द्वारा समर्थित किया गया था, विशेष रूप से यह देखते हुए कि नकदी बाजार में औसत दैनिक कारोबार की मात्रा (एडीटीवी) Q2FY27 में 24% सालाना बढ़कर ₹1,18,377 करोड़ हो गई।\nस्रोत: https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-39"
-        },
-        {
-          "prompt": {
-            "en": "What strategic advantage will HRV Pharma gain from its acquisition of the German firm Phatebo?",
-            "hi": "जर्मन फर्म फाटेबो के अधिग्रहण से एचआरवी फार्मा को क्या रणनीतिक लाभ मिलेगा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It will take it beyond active pharmaceutical ingredients into finished formulations and give it a licensed operating business in Germany",
-                "hi": "यह इसे सक्रिय फार्मास्युटिकल अवयवों से आगे बढ़कर तैयार फॉर्मूलेशन में ले जाएगा और इसे जर्मनी में एक लाइसेंस प्राप्त परिचालन व्यवसाय प्रदान करेगा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It will gain a monopoly over European raw material chemical pricing",
-                "hi": "इसे यूरोपीय कच्चे माल, रासायनिक मूल्य निर्धारण पर एकाधिकार प्राप्त होगा"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It will eliminate all regulatory compliance costs for European exports",
-                "hi": "यह यूरोपीय निर्यात के लिए सभी नियामक अनुपालन लागतों को समाप्त कर देगा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It will secure exclusive distribution rights for medical equipment in Western Europe",
-                "hi": "यह पश्चिमी यूरोप में चिकित्सा उपकरणों के लिए विशेष वितरण अधिकार सुरक्षित करेगा"
+                "en": "To divest non-core pharmacy retail units to fund rural clinics.",
+                "hi": "ग्रामीण क्लीनिकों को वित्तपोषित करने के लिए गैर-प्रमुख फार्मेसी खुदरा इकाइयों का विनिवेश करना।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The acquisition will take HRV Pharma beyond active pharmaceutical ingredients into finished formulations and give it a licensed operating business in Germany.\nSource: https://www.thehindu.com/business/Industry/hrv-pharma-to-acquire-german-firm-phatebo/article71661790.ece",
-            "hi": "यह अधिग्रहण एचआरवी फार्मा को सक्रिय फार्मास्युटिकल अवयवों से आगे बढ़कर तैयार फॉर्मूलेशन में ले जाएगा और इसे जर्मनी में एक लाइसेंस प्राप्त परिचालन व्यवसाय प्रदान करेगा।\nस्रोत: https://www.thehindu.com/business/Industry/hrv-pharma-to-acquire-german-firm-phatebo/article71661790.ece"
+            "en": "The company announced plans to add nearly 5,800 beds over five years, supported by strong revenue growth and improved occupancy rates.\nSource: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
+            "hi": "कंपनी ने मजबूत राजस्व वृद्धि और बेहतर अधिभोग दर द्वारा समर्थित, पांच वर्षों में लगभग 5,800 बिस्तर जोड़ने की योजना की घोषणा की।\nस्रोत: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/hrv-pharma-to-acquire-german-firm-phatebo/article71661790.ece",
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-40"
+          "id": "2026-11-05-9"
         },
         {
           "prompt": {
-            "en": "What widespread operational disruption was experienced by supermarkets across multiple European countries due to cyber-attacks?",
-            "hi": "साइबर हमलों के कारण कई यूरोपीय देशों में सुपरमार्केटों द्वारा किस व्यापक परिचालन व्यवधान का अनुभव किया गया?"
+            "en": "Following successful orbit maneuvers and a cumulative LAM engine burn, which ISRO satellite successfully reached the Geosynchronous Orbit?",
+            "hi": "सफल कक्षा युद्धाभ्यास और एक संचयी एलएएम इंजन जलने के बाद, इसरो का कौन सा उपग्रह सफलतापूर्वक जियोसिंक्रोनस कक्षा में पहुंच गया?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Point-of-sale payment gateways crashed, halting all debit card transactions",
-                "hi": "पॉइंट-ऑफ़-सेल भुगतान गेटवे क्रैश हो गए, जिससे सभी डेबिट कार्ड लेनदेन रुक गए"
+                "en": "XPSat",
+                "hi": "एक्सपीएसएटी"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Automated warehouse inventory systems shipped incorrect pharmaceutical items",
-                "hi": "स्वचालित वेयरहाउस इन्वेंट्री सिस्टम ने गलत फार्मास्युटिकल आइटम भेजे"
+                "en": "GISAT-2",
+                "hi": "जीआईएसएटी-2"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Supermarket freezers were hit by cyber-attacks, forcing retailers to discard food",
-                "hi": "सुपरमार्केट के फ्रीजर साइबर हमलों की चपेट में आ गए, जिससे खुदरा विक्रेताओं को भोजन छोड़ने के लिए मजबूर होना पड़ा"
+                "en": "Aditya-L1",
+                "hi": "आदित्य-एल1"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Online delivery fleets were grounded following navigation software hacks",
-                "hi": "नेविगेशन सॉफ्टवेयर हैक के बाद ऑनलाइन डिलीवरी बेड़े को रोक दिया गया था"
+                "en": "NVS-03",
+                "hi": "एनवीएस-03"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "ISRO confirmed that the NVS-03 satellite successfully reached Geosynchronous Orbit after completing four orbit maneuvers with a cumulative LAM engine burn.\nSource: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+            "hi": "इसरो ने पुष्टि की कि एनवीएस-03 उपग्रह संचयी एलएएम इंजन बर्न के साथ चार कक्षा प्रक्रियाओं को पूरा करने के बाद सफलतापूर्वक जियोसिंक्रोनस कक्षा में पहुंच गया।\nस्रोत: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-20"
+        },
+        {
+          "prompt": {
+            "en": "According to IMD classifications, how does the meteorological department categorize a monsoon season where rainfall levels are at least 10% lower than the long-term average?",
+            "hi": "आईएमडी वर्गीकरण के अनुसार, मौसम विभाग मानसून के मौसम को कैसे वर्गीकृत करता है जहां वर्षा का स्तर दीर्घकालिक औसत से कम से कम 10% कम है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Scanty",
+                "hi": "अल्प"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Drought-hit",
+                "hi": "सूखाग्रस्त"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Below Normal",
+                "hi": "सामान्य से नीचे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Deficient",
+                "hi": "कमी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The IMD refers to monsoon seasons with rainfall levels at least 10% lower than the long-term average as 'deficient'.\nSource: https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+            "hi": "आईएमडी मानसून के मौसम को 'कम' के रूप में संदर्भित करता है जिसमें वर्षा का स्तर दीर्घकालिक औसत से कम से कम 10% कम होता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-21"
+        },
+        {
+          "prompt": {
+            "en": "The development of India's regional satellite navigation system (IRNSS/NavIC) was initiated in the aftermath of which major historical event involving foreign GPS denial?",
+            "hi": "भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली (आईआरएनएसएस/एनएवीआईसी) का विकास विदेशी जीपीएस इनकार से जुड़ी किस प्रमुख ऐतिहासिक घटना के बाद शुरू किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The 1965 Indo-Pak War",
+                "hi": "1965 का भारत-पाक युद्ध"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The 1971 Bangladesh Liberation War",
+                "hi": "1971 का बांग्लादेश मुक्ति संग्राम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The 2001 Parliament attack crisis",
+                "hi": "2001 संसद पर हमला संकट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The 1999 Kargil conflict",
+                "hi": "1999 कारगिल संघर्ष"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The IRNSS concept originated directly in the aftermath of the U.S.'s denial of its Global Positioning Service (GPS) during the 1999 Kargil conflict.\nSource: https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
+            "hi": "आईआरएनएसएस अवधारणा की उत्पत्ति सीधे तौर पर 1999 के कारगिल संघर्ष के दौरान अमेरिका द्वारा ग्लोबल पोजिशनिंग सर्विस (जीपीएस) को अस्वीकार करने के बाद हुई थी।\nस्रोत: https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-22"
+        },
+        {
+          "prompt": {
+            "en": "According to auditors, what conclusion was reached regarding the Welsh public sector's net zero emissions plans by 2030?",
+            "hi": "लेखा परीक्षकों के अनुसार, 2030 तक वेल्श सार्वजनिक क्षेत्र की शुद्ध शून्य उत्सर्जन योजना के संबंध में क्या निष्कर्ष निकाला गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are unlikely to meet net zero plans due to a lack of progress in tackling climate change.",
+                "hi": "जलवायु परिवर्तन से निपटने में प्रगति की कमी के कारण उनके नेट ज़ीरो योजनाओं को पूरा करने की संभावना नहीं है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They have successfully surpassed all interim carbon reduction milestones.",
+                "hi": "उन्होंने सभी अंतरिम कार्बन कटौती मील के पत्थर को सफलतापूर्वक पार कर लिया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have fully transitioned all public transport fleets to electric power.",
+                "hi": "उन्होंने सभी सार्वजनिक परिवहन बेड़े को पूरी तरह से विद्युत ऊर्जा में परिवर्तित कर दिया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are on track to achieve net zero ahead of the 2030 statutory deadline.",
+                "hi": "वे 2030 की वैधानिक समय सीमा से पहले शुद्ध शून्य हासिल करने की राह पर हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Auditors criticized the lack of progress made by organisations, concluding that the Welsh public sector is unlikely to meet its net zero plans by 2030.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+            "hi": "लेखा परीक्षकों ने संगठनों द्वारा की गई प्रगति की कमी की आलोचना की, और निष्कर्ष निकाला कि वेल्श सार्वजनिक क्षेत्र 2030 तक अपनी शुद्ध शून्य योजनाओं को पूरा करने की संभावना नहीं है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-23"
+        },
+        {
+          "prompt": {
+            "en": "According to Ukrainian officials, what devastating attack occurred in a village, resulting in significant casualties and victims trapped under rubble?",
+            "hi": "यूक्रेनी अधिकारियों के अनुसार, एक गाँव में कौन सा विनाशकारी हमला हुआ, जिसके परिणामस्वरूप बड़ी संख्या में लोग हताहत हुए और पीड़ित मलबे में फंस गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An artillery barrage hitting a humanitarian evacuation train.",
+                "hi": "एक तोपखाना बैराज एक मानवीय निकासी ट्रेन पर हमला कर रहा है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A ballistic missile strike targeting a hydroelectric substation.",
+                "hi": "एक पनबिजली सबस्टेशन को निशाना बनाकर किया गया बैलिस्टिक मिसाइल हमला।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An overnight drone swarm attack on an agricultural grain silo.",
+                "hi": "कृषि अनाज साइलो पर रात भर ड्रोन झुंड का हमला।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A deadly Russian double-tap bombing attack on a Ukrainian village.",
+                "hi": "यूक्रेन के एक गांव पर रूस का घातक डबल-टैप बमबारी हमला।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Ukraine reported that a deadly Russian double-tap bombing attack on a village killed at least 40 people, with dozens potentially under the rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+            "hi": "यूक्रेन ने बताया कि एक गांव पर घातक रूसी डबल-टैप बमबारी हमले में कम से कम 40 लोग मारे गए, जिनमें से दर्जनों लोग संभवतः मलबे में दबे हुए हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-24"
+        },
+        {
+          "prompt": {
+            "en": "According to recent commentaries on scientific research in India, what should the primary focus of the scientific community be rather than chasing bibliographic metrics?",
+            "hi": "भारत में वैज्ञानिक अनुसंधान पर हाल की टिप्पणियों के अनुसार, वैज्ञानिक समुदाय का प्राथमिक ध्यान ग्रंथसूची संबंधी मैट्रिक्स का पीछा करने के बजाय क्या होना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Limiting research to applied engineering fields funded by private industry.",
+                "hi": "अनुसंधान को निजी उद्योग द्वारा वित्त पोषित अनुप्रयुक्त इंजीनियरिंग क्षेत्रों तक सीमित करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Focusing exclusively on commercial patent generation and technology transfer.",
+                "hi": "विशेष रूप से वाणिज्यिक पेटेंट निर्माण और प्रौद्योगिकी हस्तांतरण पर ध्यान केंद्रित करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pursuing fundamental research and practical solutions rather than making inclusion in the 'top 2% scientists' database' the primary goal.",
+                "hi": "'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होने को प्राथमिक लक्ष्य बनाने के बजाय मौलिक अनुसंधान और व्यावहारिक समाधान अपनाना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Prioritizing international journal citation impact factors above domestic field applications.",
+                "hi": "घरेलू क्षेत्र के अनुप्रयोगों से ऊपर अंतर्राष्ट्रीय जर्नल उद्धरण प्रभाव कारकों को प्राथमिकता देना।"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "Supermarket freezers were hit by cyber-attacks in 10 countries from Estonia and Sweden to Portugal and Italy, forcing many retailers to discard food.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-            "hi": "एस्टोनिया और स्वीडन से पुर्तगाल और इटली तक 10 देशों में साइबर हमलों से सुपरमार्केट फ्रीजर प्रभावित हुए, जिससे कई खुदरा विक्रेताओं को भोजन छोड़ने के लिए मजबूर होना पड़ा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+            "en": "The commentary stresses that India needs both fundamental research and practical solutions instead of treating inclusion in the 'top 2% scientists' database' as the primary goal.\nSource: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+            "hi": "टिप्पणी में इस बात पर जोर दिया गया है कि भारत को 'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होने को प्राथमिक लक्ष्य मानने के बजाय मौलिक अनुसंधान और व्यावहारिक समाधान दोनों की आवश्यकता है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece"
           },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-04-41"
+          "id": "2026-11-05-25"
+        },
+        {
+          "prompt": {
+            "en": "In connection with discussions on artificial intelligence, movies, and fatherhood, which Indian film star plays the leading role in a major new adaptation of the epic Ramayana?",
+            "hi": "कृत्रिम बुद्धिमत्ता, फिल्मों और पितृत्व पर चर्चा के संबंध में, कौन सा भारतीय फिल्म सितारा महाकाव्य रामायण के एक प्रमुख नए रूपांतरण में अग्रणी भूमिका निभाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vicky Kaushal",
+                "hi": "विक्की कौशल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ranveer Singh",
+                "hi": "रणवीर सिंह"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Ranbir Kapoor",
+                "hi": "रणबीर कपूर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Shahid Kapoor",
+                "hi": "शाहिद कपूर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report highlights film star Ranbir Kapoor playing the leading role in a major new adaptation of the Indian epic Ramayana.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में फिल्म स्टार रणबीर कपूर को भारतीय महाकाव्य रामायण के एक प्रमुख नए रूपांतरण में प्रमुख भूमिका निभाने पर प्रकाश डाला गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-26"
+        },
+        {
+          "prompt": {
+            "en": "What emerging trend regarding recent graduates and workplace technology was highlighted in employment reports?",
+            "hi": "रोजगार रिपोर्टों में हाल के स्नातकों और कार्यस्थल प्रौद्योगिकी के संबंध में किस उभरती प्रवृत्ति पर प्रकाश डाला गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Graduates are spending more time managing AI, raising questions about whether they miss out on other work experience.",
+                "hi": "स्नातक एआई के प्रबंधन में अधिक समय व्यतीत कर रहे हैं, जिससे यह सवाल उठ रहा है कि क्या वे अन्य कार्य अनुभव से चूक जाते हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Graduates are entirely replacing junior engineering roles with generative AI coding assistants.",
+                "hi": "स्नातक पूरी तरह से जूनियर इंजीनियरिंग भूमिकाओं को जेनेरिक एआई कोडिंग सहायकों से बदल रहे हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Corporate employers have banned generative AI tools for entry-level white-collar employees.",
+                "hi": "कॉर्पोरेट नियोक्ताओं ने प्रवेश स्तर के सफेदपोश कर्मचारियों के लिए जेनेरिक एआई टूल पर प्रतिबंध लगा दिया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Universities have replaced traditional dissertations with AI prompt-engineering modules.",
+                "hi": "विश्वविद्यालयों ने पारंपरिक शोध प्रबंधों को एआई प्रॉम्प्ट-इंजीनियरिंग मॉड्यूल से बदल दिया है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report questions whether graduates are missing out on essential work experience as they spend more time managing AI systems.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में सवाल उठाया गया है कि क्या स्नातक आवश्यक कार्य अनुभव से चूक रहे हैं क्योंकि वे एआई सिस्टम के प्रबंधन में अधिक समय बिताते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-27"
         }
       ],
       "quarantined": [],
@@ -1557,764 +1404,74 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-11-04T13:00:00+05:30"
-    },
-    {
-      "title": "Science, Environment & World Affairs",
-      "source_filename": "daily-2026-11-04.json",
-      "questions": [
-        {
-          "prompt": {
-            "en": "According to a new study on how smoking sets the stage for lung cancer, what specific biological changes occur due to chronic smoke exposure?",
-            "hi": "धूम्रपान फेफड़ों के कैंसर के लिए चरण कैसे निर्धारित करता है, इस पर एक नए अध्ययन के अनुसार, लंबे समय तक धूम्रपान के संपर्क में रहने के कारण कौन से विशिष्ट जैविक परिवर्तन होते हैं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It directly mutates DNA without affecting local immune defences",
-                "hi": "यह स्थानीय प्रतिरक्षा सुरक्षा को प्रभावित किए बिना सीधे डीएनए को परिवर्तित करता है"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It alters lung stem cells, weakens safety mechanisms and local immune defences, and primes cells for cancer",
-                "hi": "यह फेफड़ों की स्टेम कोशिकाओं को बदल देता है, सुरक्षा तंत्र और स्थानीय प्रतिरक्षा सुरक्षा को कमजोर कर देता है, और कैंसर के लिए कोशिकाओं को तैयार कर देता है"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It accelerates cell regeneration while permanently locking TP53 genes in an active state",
-                "hi": "यह सक्रिय अवस्था में टीपी53 जीन को स्थायी रूप से लॉक करते हुए कोशिका पुनर्जनन को तेज करता है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It exclusively damages alveolar macrophages without altering stem cell behavior",
-                "hi": "यह स्टेम सेल व्यवहार में बदलाव किए बिना विशेष रूप से वायुकोशीय मैक्रोफेज को नुकसान पहुंचाता है"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Chronic smoke exposure alters lung stem cells, weakens their safety mechanisms and local immune defences, and creates a precancerous state where common mutations trigger tumors.\nSource: https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
-            "hi": "लंबे समय तक धूम्रपान के संपर्क में रहने से फेफड़े की स्टेम कोशिकाएं बदल जाती हैं, उनकी सुरक्षा तंत्र और स्थानीय प्रतिरक्षा सुरक्षा कमजोर हो जाती है, और एक प्रारंभिक स्थिति बन जाती है जहां सामान्य उत्परिवर्तन ट्यूमर को ट्रिगर करते हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-21"
-        },
-        {
-          "prompt": {
-            "en": "What specific capability was demonstrated by the new technique designed to spot deepfakes using light?",
-            "hi": "प्रकाश का उपयोग करके डीपफेक का पता लगाने के लिए डिज़ाइन की गई नई तकनीक द्वारा किस विशिष्ट क्षमता का प्रदर्शन किया गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It detects deepfakes by analyzing social media metadata rather than pixel data",
-                "hi": "यह पिक्सेल डेटा के बजाय सोशल मीडिया मेटाडेटा का विश्लेषण करके डीपफेक का पता लगाता है"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It operates exclusively on audio waveforms to detect synthesized voice deepfakes",
-                "hi": "यह संश्लेषित वॉयस डीपफेक का पता लगाने के लिए विशेष रूप से ऑडियो तरंगों पर काम करता है"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It requires manual verification for every video processed beyond a five-minute length",
-                "hi": "इसमें पाँच मिनट से अधिक अवधि के संसाधित प्रत्येक वीडियो के लिए मैन्युअल सत्यापन की आवश्यकता होती है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It identifies manipulated videos with 99.86% accuracy while processing 15 videos at a time",
-                "hi": "यह एक समय में 15 वीडियो संसाधित करते समय 99.86% सटीकता के साथ हेरफेर किए गए वीडियो की पहचान करता है"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The new light-based technique identified manipulated videos with an accuracy of 99.86% and real videos with 95.72% accuracy while processing 15 videos simultaneously.\nSource: https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
-            "hi": "नई प्रकाश-आधारित तकनीक ने एक साथ 15 वीडियो संसाधित करते समय 99.86% सटीकता के साथ हेरफेर किए गए वीडियो और 95.72% सटीकता के साथ वास्तविक वीडियो की पहचान की।\nस्रोत: https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-22"
-        },
-        {
-          "prompt": {
-            "en": "According to galactic archaeologists studying the history of the Milky Way, how did the galaxy primarily grow over a timeline stretching back almost 12 billion years?",
-            "hi": "आकाशगंगा के इतिहास का अध्ययन करने वाले गैलेक्टिक पुरातत्वविदों के अनुसार, आकाशगंगा मुख्य रूप से लगभग 12 अरब वर्षों की समयावधि में कैसे विकसित हुई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "By contracting from a primordial gas cloud without external accretion",
-                "hi": "बाह्य अभिवृद्धि के बिना एक मौलिक गैस बादल से अनुबंध करके"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Through rapid starburst events triggered by cosmic ray ionization",
-                "hi": "ब्रह्मांडीय किरण आयनीकरण द्वारा उत्पन्न तीव्र तारा विस्फोट घटनाओं के माध्यम से"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "By merging directly with a single neighboring supermassive black hole",
-                "hi": "एकल पड़ोसी महाविशाल ब्लैक होल के साथ सीधे विलय करके"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "By devouring galaxies, leaving a trail of ghost stars",
-                "hi": "आकाशगंगाओं को निगलकर, भूतिया तारों का निशान छोड़कर"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The Milky Way grew by devouring galaxies, leaving behind a trail of ghost stars that allow galactic archaeologists to trace its history back almost 12 billion years.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
-            "hi": "आकाशगंगाएँ आकाशगंगाओं को निगलते हुए विकसित हुईं, और अपने पीछे भूतिया तारों का निशान छोड़ गईं, जिससे आकाशगंगा पुरातत्वविदों को लगभग 12 अरब वर्ष पुराने इसके इतिहास का पता लगाने में मदद मिली।\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-23"
-        },
-        {
-          "prompt": {
-            "en": "What significant theoretical claim was made by artificial intelligence companies OpenAI and Anthropic regarding their AI models?",
-            "hi": "कृत्रिम बुद्धिमत्ता कंपनियों ओपनएआई और एंथ्रोपिक द्वारा अपने एआई मॉडल के संबंध में क्या महत्वपूर्ण सैद्धांतिक दावा किया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Their models had achieved artificial general intelligence across all domains",
-                "hi": "उनके मॉडलों ने सभी डोमेन में कृत्रिम सामान्य बुद्धिमत्ता हासिल की थी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Their systems had successfully predicted quantum gravitational fluctuations",
-                "hi": "उनके सिस्टम ने क्वांटम गुरुत्वाकर्षण उतार-चढ़ाव की सफलतापूर्वक भविष्यवाणी की थी"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "One of their AI models had disproved the exponential time hypothesis",
-                "hi": "उनके एआई मॉडल में से एक ने घातांकीय समय परिकल्पना का खंडन किया था"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Their neural networks had solved the P versus NP problem completely",
-                "hi": "उनके तंत्रिका नेटवर्क ने पी बनाम एनपी समस्या को पूरी तरह से हल कर दिया था"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "OpenAI and Anthropic each announced that one of their AI models had disproved the exponential time hypothesis.\nSource: https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
-            "hi": "ओपनएआई और एंथ्रोपिक प्रत्येक ने घोषणा की कि उनके एआई मॉडल में से एक ने घातीय समय परिकल्पना का खंडन किया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-24"
-        },
-        {
-          "prompt": {
-            "en": "What tragic incident occurred near the Everest base camp involving two helicopters?",
-            "hi": "एवरेस्ट बेस कैंप के पास दो हेलीकॉप्टरों से जुड़ी कौन सी दुखद घटना घटी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "They collided mid-air due to severe blinding snowstorms",
-                "hi": "भयंकर अँधेरे वाले बर्फीले तूफ़ान के कारण वे हवा में ही टकरा गए"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "They were struck by falling debris from an avalanche during descent",
-                "hi": "उतरते समय हिमस्खलन से गिरे मलबे की चपेट में वे आ गए"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "They suffered simultaneous engine failures caused by high-altitude freezing fog",
-                "hi": "ऊंचाई पर जमा देने वाले कोहरे के कारण उन्हें एक साथ इंजन विफलताओं का सामना करना पड़ा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "They crashed just metres from the ground after trying to land at the same spot, resulting in fatalities including an Indian tourist",
-                "hi": "उसी स्थान पर उतरने की कोशिश करने के बाद वे जमीन से कुछ ही मीटर की दूरी पर दुर्घटनाग्रस्त हो गए, जिसके परिणामस्वरूप एक भारतीय पर्यटक सहित कई लोगों की मौत हो गई"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "An Indian tourist was killed after two helicopters collided and crashed just metres from the ground after trying to land at the same spot near the Everest base camp.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-            "hi": "एवरेस्ट बेस कैंप के पास एक ही स्थान पर उतरने की कोशिश करने के बाद दो हेलीकॉप्टरों के टकराने और जमीन से कुछ मीटर की दूरी पर दुर्घटनाग्रस्त होने से एक भारतीय पर्यटक की मौत हो गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-25"
-        },
-        {
-          "prompt": {
-            "en": "According to recent scientific reports, what milestone was achieved by researchers regarding spatial measurements?",
-            "hi": "हाल की वैज्ञानिक रिपोर्टों के अनुसार, स्थानिक माप के संबंध में शोधकर्ताओं ने कौन सा मील का पत्थर हासिल किया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "They measured the exact radius of a neutron star with sub-atomic precision",
-                "hi": "उन्होंने उप-परमाणु परिशुद्धता के साथ न्यूट्रॉन तारे की सटीक त्रिज्या को मापा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "They mapped the gravitational wave background of the early universe",
-                "hi": "उन्होंने प्रारंभिक ब्रह्मांड की गुरुत्वाकर्षण तरंग पृष्ठभूमि का मानचित्रण किया"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "They detected signals from the smallest distances ever probed",
-                "hi": "उन्होंने अब तक की जांच में सबसे छोटी दूरी से सिग्नल का पता लगाया"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "They observed quantum entanglement across interplanetary distances",
-                "hi": "उन्होंने अंतरग्रहीय दूरियों में क्वांटम उलझाव देखा"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Researchers have successfully detected signals at the smallest scale ever explored, specifically from the smallest distances ever probed.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
-            "hi": "शोधकर्ताओं ने अब तक जांचे गए सबसे छोटे पैमाने पर, विशेष रूप से अब तक की गई सबसे छोटी दूरी से संकेतों का सफलतापूर्वक पता लगाया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-26"
-        },
-        {
-          "prompt": {
-            "en": "Which rare creature was recently found in Wales after a 60-year absence, easing extinction fears?",
-            "hi": "60 साल की अनुपस्थिति के बाद हाल ही में वेल्स में कौन सा दुर्लभ प्राणी पाया गया, जिससे विलुप्त होने की आशंका कम हो गई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The Welsh Marsh Fritillary Butterfly",
-                "hi": "वेल्श मार्श फ्रिटिलरी तितली"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The Greater Horseshoe Bat",
-                "hi": "ग्रेटर हॉर्सशू बैट"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The Short-Necked Oil Beetle",
-                "hi": "छोटी गर्दन वाला तेल भृंग"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The Pine Marten of Snowdonia",
-                "hi": "स्नोडोनिया का पाइन मार्टन"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The Short-Necked Oil Beetle, which was feared to have become extinct in Wales after recent surveys, was found again after 60 years.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-            "hi": "शॉर्ट-नेक्ड ऑयल बीटल, जिसके हाल के सर्वेक्षणों के बाद वेल्स में विलुप्त होने की आशंका थी, 60 साल बाद फिर से पाई गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-27"
-        },
-        {
-          "prompt": {
-            "en": "Following recent Russian attacks on an aid centre, hospice, and hospital in Ukraine, what casualty figures and warnings were reported?",
-            "hi": "यूक्रेन में एक सहायता केंद्र, धर्मशाला और अस्पताल पर हाल ही में रूसी हमलों के बाद, हताहतों की संख्या और चेतावनियाँ क्या बताई गईं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "All civilians were safely evacuated before structural collapses occurred",
-                "hi": "संरचनात्मक ढहने से पहले सभी नागरिकों को सुरक्षित निकाल लिया गया था"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Over 150 casualties were confirmed with widespread chemical contamination",
-                "hi": "व्यापक रासायनिक संदूषण से 150 से अधिक लोगों के हताहत होने की पुष्टि हुई"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "At least 38 people were killed in 24 hours, with warnings that dozens more could be trapped under rubble",
-                "hi": "24 घंटों में कम से कम 38 लोग मारे गए, चेतावनी दी गई कि दर्जनों लोग मलबे में फंसे हो सकते हैं"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Military infrastructure was exclusively hit with zero civilian casualties",
-                "hi": "सैन्य बुनियादी ढाँचा विशेष रूप से प्रभावित हुआ और कोई भी नागरिक हताहत नहीं हुआ"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The death toll rose in Ukraine after Russian attacks on an aid centre, hospice, and hospital killed at least 38 people in 24 hours, with warnings that dozens more might be trapped under rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-            "hi": "यूक्रेन में एक सहायता केंद्र, धर्मशाला और अस्पताल पर रूसी हमलों के बाद 24 घंटों में कम से कम 38 लोगों की मौत के बाद मरने वालों की संख्या बढ़ गई, चेतावनी दी गई कि दर्जनों लोग मलबे में फंसे हो सकते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-28"
-        },
-        {
-          "prompt": {
-            "en": "Why did Libya's top religious authority, the Dar al-Ifta, rule against wearing Nike clothes?",
-            "hi": "लीबिया के शीर्ष धार्मिक प्राधिकरण, दार अल-इफ्ता ने नाइके के कपड़े पहनने के खिलाफ शासन क्यों किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Because the brand's manufacturing plants use non-sustainable synthetic dyes",
-                "hi": "क्योंकि ब्रांड के विनिर्माण संयंत्र गैर-टिकाऊ सिंथेटिक रंगों का उपयोग करते हैं"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Because the US company was named after the Greek goddess of victory, making the display of its logo unIslamic",
-                "hi": "क्योंकि अमेरिकी कंपनी का नाम विजय की यूनानी देवी के नाम पर रखा गया था, जिससे इसके लोगो का प्रदर्शन गैरइस्लामिक हो गया"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Because the footwear violates traditional modesty codes in public spaces",
-                "hi": "क्योंकि जूते सार्वजनिक स्थानों पर पारंपरिक शील संहिता का उल्लंघन करते हैं"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Because the corporation funds foreign military campaigns in the region",
-                "hi": "क्योंकि निगम इस क्षेत्र में विदेशी सैन्य अभियानों को वित्त पोषित करता है"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Libya's Dar al-Ifta ruled against wearing Nike clothes because the US company was named after the Greek goddess of victory, making displaying its logo unIslamic.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-            "hi": "लीबिया के दार अल-इफ्ता ने नाइके के कपड़े पहनने के खिलाफ फैसला सुनाया क्योंकि अमेरिकी कंपनी का नाम जीत की ग्रीक देवी के नाम पर रखा गया था, जिससे इसका लोगो प्रदर्शित करना गैर-इस्लामिक हो गया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-29"
-        },
-        {
-          "prompt": {
-            "en": "On World One Health Day, what core argument was highlighted by parallel disease events such as a cattle virus at home and a plague scare abroad?",
-            "hi": "विश्व वन स्वास्थ्य दिवस पर, घरेलू स्तर पर मवेशियों के वायरस और विदेश में प्लेग की आशंका जैसी समानांतर बीमारी की घटनाओं ने किस मुख्य तर्क को उजागर किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "That national borders can effectively contain zoonotic pathogen outbreaks if sealed immediately",
-                "hi": "अगर तुरंत सील कर दिया जाए तो राष्ट्रीय सीमाओं पर जूनोटिक रोगज़नक़ के प्रकोप को प्रभावी ढंग से रोका जा सकता है"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "That microbial mutations occur strictly in isolated ecosystems without cross-species transmission",
-                "hi": "यह कि माइक्रोबियल उत्परिवर्तन क्रॉस-प्रजाति संचरण के बिना पृथक पारिस्थितिक तंत्र में सख्ती से होते हैं"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "That livestock vaccination programs are entirely independent of human public health initiatives",
-                "hi": "पशुधन टीकाकरण कार्यक्रम मानव सार्वजनिक स्वास्थ्य पहल से पूरी तरह स्वतंत्र हैं"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "That life is epidemiologically indivisible, and governing institutions must learn to be so too",
-                "hi": "वह जीवन महामारी विज्ञान की दृष्टि से अविभाज्य है, और शासकीय संस्थानों को भी ऐसा होना सीखना चाहिए"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "World One Health Day emphasized that a cattle virus at home and a plague scare abroad demonstrate that life is epidemiologically indivisible, requiring governing institutions to integrate accordingly.\nSource: https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
-            "hi": "विश्व वन स्वास्थ्य दिवस पर इस बात पर जोर दिया गया कि घर में मवेशियों का वायरस और विदेशों में प्लेग का डर दर्शाता है कि जीवन महामारी विज्ञान की दृष्टि से अविभाज्य है, जिसके लिए शासकीय संस्थानों को तदनुसार एकीकृत करने की आवश्यकता है।\nस्रोत: https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-30"
-        },
-        {
-          "prompt": {
-            "en": "Which historic animal spaceflight milestone is referenced alongside the launch of Sputnik 2 in the early episodes of the Space Race?",
-            "hi": "स्पेस रेस के शुरुआती एपिसोड में स्पुतनिक 2 के लॉन्च के साथ किस ऐतिहासिक पशु अंतरिक्ष उड़ान मील के पत्थर का संदर्भ दिया गया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Ham the chimpanzee's suborbital flight",
-                "hi": "चिंपैंजी की उपकक्षीय उड़ान को हैम करें"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Laika’s historic journey",
-                "hi": "लाइका की ऐतिहासिक यात्रा"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Belka and Strelka's orbital return mission",
-                "hi": "बेल्का और स्ट्रेलका का कक्षीय वापसी मिशन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The flight of Félicette the cat",
-                "hi": "फेलिसेट बिल्ली की उड़ान"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The early Space Race quiz specifically highlights the launch of Sputnik 2 and Laika’s historic journey as poignant episodes.\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
-            "hi": "प्रारंभिक स्पेस रेस क्विज़ विशेष रूप से स्पुतनिक 2 के लॉन्च और लाइका की ऐतिहासिक यात्रा को मार्मिक एपिसोड के रूप में उजागर करती है।\nस्रोत: https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-31"
-        },
-        {
-          "prompt": {
-            "en": "What tragic event occurred during a Spanish second-division football match involving Tenerife striker Jesus de Miguel?",
-            "hi": "टेनेरिफ़ के स्ट्राइकर जीसस डी मिगुएल के साथ स्पैनिश सेकेंड-डिवीजन फुटबॉल मैच के दौरान कौन सी दुखद घटना घटी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "He suffered a fatal cardiac arrest following a disputed referee decision",
-                "hi": "रेफरी के एक विवादित फैसले के बाद उन्हें घातक कार्डियक अरेस्ट का सामना करना पड़ा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "He died aged 30 after an on-field collision during the match",
-                "hi": "मैच के दौरान मैदान पर टक्कर के बाद 30 वर्ष की आयु में उनकी मृत्यु हो गई"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "He was struck by falling stadium infrastructure during inclement weather",
-                "hi": "वह खराब मौसम के दौरान स्टेडियम के बुनियादी ढांचे के गिरने से प्रभावित हुए थे"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "He collapsed due to extreme heat exhaustion during extra time",
-                "hi": "अतिरिक्त समय के दौरान अत्यधिक गर्मी की थकावट के कारण वह गिर गये"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Tenerife forward Jesus de Miguel died aged 30 after an on-field collision during a Spanish second-division match.\nSource: BBC News · https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-            "hi": "टेनेरिफ़ के फॉरवर्ड जीसस डी मिगुएल की 30 वर्ष की आयु में स्पैनिश सेकंड-डिवीजन मैच के दौरान मैदान पर टक्कर के बाद मृत्यु हो गई।\nस्रोत: BBC News · https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-42"
-        },
-        {
-          "prompt": {
-            "en": "Following recent Russian attacks on civilian infrastructure in Ukraine, what casualty figures and warnings were reported?",
-            "hi": "यूक्रेन में नागरिक बुनियादी ढांचे पर हाल ही में रूसी हमलों के बाद, हताहतों की संख्या और चेतावनियाँ क्या रिपोर्ट की गईं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Over 150 casualties were confirmed with emergency services evacuating the entire metropolitan district",
-                "hi": "पूरे महानगरीय जिले को खाली कराने के लिए आपातकालीन सेवाओं के साथ 150 से अधिक लोगों के हताहत होने की पुष्टि की गई"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "At least 38 people were killed in 24 hours, and President Volodymyr Zelensky warned dozens more could be trapped under rubble",
-                "hi": "24 घंटों में कम से कम 38 लोग मारे गए, और राष्ट्रपति वलोडिमिर ज़ेलेंस्की ने चेतावनी दी कि दर्जनों लोग मलबे में फंसे हो सकते हैं"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Power grids were completely disabled without any reported human casualties",
-                "hi": "बिना किसी मानवीय क्षति के पावर ग्रिड पूरी तरह से अक्षम कर दिए गए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "International observers reported zero casualties following successful air defense interceptions",
-                "hi": "सफल वायु रक्षा अवरोधन के बाद अंतर्राष्ट्रीय पर्यवेक्षकों ने शून्य हताहत होने की सूचना दी"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Following Russian attacks on an aid centre, hospice, and hospital, at least 38 people were killed in 24 hours and Ukraine's Volodymyr Zelensky warned dozens more could be trapped under rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-            "hi": "एक सहायता केंद्र, धर्मशाला और अस्पताल पर रूसी हमलों के बाद, 24 घंटों में कम से कम 38 लोग मारे गए और यूक्रेन के वलोडिमिर ज़ेलेंस्की ने चेतावनी दी कि दर्जनों लोग मलबे में फंसे हो सकते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-04-43"
-        }
-      ],
-      "quarantined": [],
-      "warnings": [
-        "AI-generated from linked public news sources. Check important facts against the source."
-      ],
-      "release_wave": 3,
-      "release_at": "2026-11-04T18:00:00+05:30"
+      "release_at": "2026-11-05T13:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "Kochi Corporation clears 30 projects worth ₹1,500 crore for Urban Challenge Fund",
-      "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-clears-30-projects-worth-1500-crore-for-urban-challenge-fund/article71660991.ece",
-      "published": "2026-11-04T00:57:29+05:30"
+      "title": "Government proposes immediate suspension of manufacturing licences of substandard drugs",
+      "url": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
+      "published": "2026-11-05T01:26:53+05:30"
     },
     {
-      "title": "Local body polls in Andhra: TDP breaches YSRCP’s fortress of Pulivendula after four decades",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
-      "published": "2026-11-04T00:56:42+05:30"
+      "title": "Kochi police yet to complete verification of private bus employees",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece",
+      "published": "2026-11-05T01:22:08+05:30"
     },
     {
-      "title": "Andhra Pradesh makes 360-hour semester internships mandatory for UG students",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
-      "published": "2026-11-04T00:54:47+05:30"
+      "title": "Direct T.N. DGP to frame guidelines regarding registration of criminal cases for social media posts, political criticism and online speech, insists a PIL plea before Madras High Court",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/direct-tn-dgp-to-frame-guidelines-regarding-registration-of-criminal-cases-for-social-media-posts-political-criticism-and-online-speech-insists-a-pil-plea-before-madras-high-court/article71666993.ece",
+      "published": "2026-11-05T01:18:17+05:30"
     },
     {
-      "title": "Shift to Navi Mumbai or stop flying to Mumbai: Adani Airports CEO tells foreign airlines",
-      "url": "https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece",
-      "published": "2026-11-03T22:39:27+05:30"
+      "title": "India secures $400-bn investment commitments in renewables; ALMM review in 15 days",
+      "url": "https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece",
+      "published": "2026-11-04T23:05:51+05:30"
     },
     {
-      "title": "NSE Q2 profit rises 23%, but sequential earnings dip 17%",
-      "url": "https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece",
-      "published": "2026-11-03T22:33:28+05:30"
+      "title": "Centre earmarks ₹2,814 crore to boost lithium, nickel processing",
+      "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
+      "published": "2026-11-04T22:49:15+05:30"
     },
     {
-      "title": "Bangladesh disturbances likely to impact yarn, fabric exports",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece",
-      "published": "2026-11-03T22:29:00+05:30"
+      "title": "Apollo Hospitals’ Q2 revenue rises 23%; profit up 32% on broad-based growth",
+      "url": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
+      "published": "2026-11-04T22:16:23+05:30"
     },
     {
-      "title": "Rice exporters federation cautions members on shipments to west Asian countries",
-      "url": "https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece",
-      "published": "2026-11-03T22:18:20+05:30"
+      "title": "VIX stays elevated despite five-day market rally as global risks keep investors on edge",
+      "url": "https://www.thehindu.com/business/vix-stays-elevated-despite-five-day-market-rally-as-global-risks-keep-investors-on-edge/article71666364.ece",
+      "published": "2026-11-04T22:04:36+05:30"
     },
     {
-      "title": "NMDC’s iron ore output rose 18% in Oct, sales dip amid rain impact",
-      "url": "https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece",
-      "published": "2026-11-03T22:15:38+05:30"
+      "title": "Union Cabinet approves new VISTAR scheme to overhaul India’s statistical system",
+      "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
+      "published": "2026-11-04T21:18:00+05:30"
     },
     {
-      "title": "HRV Pharma to acquire German firm Phatebo",
-      "url": "https://www.thehindu.com/business/Industry/hrv-pharma-to-acquire-german-firm-phatebo/article71661790.ece",
-      "published": "2026-11-03T21:57:18+05:30"
+      "title": "Science should move past ‘top 2%’ label",
+      "url": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+      "published": "2026-11-05T00:28:48+05:30"
     },
     {
-      "title": "Daily Quiz: On the early Space Race",
-      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece",
-      "published": "2026-11-03T16:28:21+05:30"
+      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+      "published": "2026-11-04T23:33:27+05:30"
     },
     {
-      "title": "The cow, the flea and the genome: One Health and the statecraft of prevention",
-      "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece",
-      "published": "2026-11-03T12:36:31+05:30"
+      "title": "Why even a strong El Niño does not guarantee a poor Indian monsoon",
+      "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+      "published": "2026-11-04T17:23:03+05:30"
     },
     {
-      "title": "How smoking sets the stage for lung cancer | Explained",
-      "url": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
-      "published": "2026-11-03T07:56:58+05:30"
+      "title": "What is the debate on NavIC vs GPS | Explained",
+      "url": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
+      "published": "2026-11-04T10:08:37+05:30"
     },
     {
-      "title": "New technique uses light to spot deepfakes in seconds",
-      "url": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
-      "published": "2026-11-02T16:24:38+05:30"
-    },
-    {
-      "title": "Shock and regret: scientists react to AI roiling life’s work",
-      "url": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece",
-      "published": "2026-11-02T15:42:43+05:30"
-    },
-    {
-      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
-      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
-      "published": "2026-11-02T14:39:24+05:30"
-    },
-    {
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T11:51:08+00:00"
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T07:39:38+00:00"
     },
     {
       "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
@@ -2322,69 +1479,34 @@
       "published": "2026-11-03T00:20:50+00:00"
     },
     {
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:09:13+00:00"
+    },
+    {
       "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
       "url": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T14:27:51+00:00"
     },
     {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T07:00:55+00:00"
+      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T15:51:37+00:00"
+    },
+    {
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T19:44:46+00:00"
     },
     {
       "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
       "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T12:07:59+00:00"
+      "published": "2026-11-03T20:53:03+00:00"
     },
     {
-      "title": "Drivers may get compensation offers before car finance saga ends",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T11:56:31+00:00"
-    },
-    {
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T15:05:01+00:00"
-    },
-    {
-      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T15:12:35+00:00"
-    },
-    {
-      "title": "'Quiet quitting' could be hitting the economy - here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T11:15:51+00:00"
-    },
-    {
-      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T08:57:20+00:00"
-    },
-    {
-      "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T07:19:27+00:00"
-    },
-    {
-      "title": "AI data centres could undermine UK's emissions goals",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T06:27:17+00:00"
-    },
-    {
-      "title": "Scientists detect signals at the smallest scale ever explored",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T06:01:23+00:00"
-    },
-    {
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T18:04:52+00:00"
-    },
-    {
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T09:09:18+00:00"
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T19:38:53+00:00"
     },
     {
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -2392,44 +1514,34 @@
       "published": "2026-11-03T16:19:29+00:00"
     },
     {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T16:57:41+00:00"
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:04:35+00:00"
     },
     {
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T14:56:46+00:00"
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T08:57:20+00:00"
     },
     {
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T13:55:47+00:00"
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T18:01:31+00:00"
     },
     {
-      "title": "Mobile phone, power banks seized from Kannur Central Jail",
-      "url": "https://www.thehindu.com/news/national/kerala/mobile-phone-power-banks-seized-from-kannur-central-jail/article71660636.ece",
-      "published": "2026-11-04T01:51:09+05:30"
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T17:45:58+00:00"
     },
     {
-      "title": "Kochi Corporation Council passes SIR resolution amid protests; BJP councillors walk out",
-      "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-council-passes-sir-resolution-amid-protests-bjp-councillors-walk-out/article71660649.ece",
-      "published": "2026-11-04T01:48:46+05:30"
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:26:15+00:00"
     },
     {
-      "title": "Kerala Sasthra Sahithya Parishad seeks reconstitution of government’s health task force",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-sasthra-sahithya-parishad-seeks-reconstitution-of-governments-health-task-force/article71661037.ece",
-      "published": "2026-11-04T01:45:45+05:30"
-    },
-    {
-      "title": "A song or two for the reconstruction of Tagore Centenary Hall in Kozhikode",
-      "url": "https://www.thehindu.com/news/national/kerala/a-song-or-two-for-the-reconstruction-of-tagore-centenary-hall-in-kozhikode/article71661308.ece",
-      "published": "2026-11-04T01:44:37+05:30"
-    },
-    {
-      "title": "Staggering white-collar success of Bengaluru has left a non-urban world behind, says Bagchi",
-      "url": "https://www.thehindu.com/news/national/karnataka/staggering-white-collar-success-of-bengaluru-has-left-a-non-urban-world-behind-says-bagchi/article71662368.ece",
-      "published": "2026-11-04T01:20:31+05:30"
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:18:21+00:00"
     }
   ]
 }
