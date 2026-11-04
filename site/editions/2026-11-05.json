@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-11-05",
-  "generated_at": "2026-11-04T20:38:53.370438+00:00",
+  "generated_at": "2026-11-04T22:03:55.168575+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
@@ -51,7 +51,7 @@
           "correct_option_id": "d",
           "explanation": {
             "en": "The proposed amendment explicitly mandates that corrective measures must be undertaken by the manufacturer before any suspension can be revoked, ensuring safety standards are met.\nSource: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
-            "hi": "प्रस्तावित संशोधन में स्पष्ट रूप से कहा गया है कि किसी भी निलंबन को रद्द करने से पहले निर्माता द्वारा सुधारात्मक उपाय किए जाने चाहिए, यह सुनिश्चित करते हुए कि सुरक्षा मानकों को पूरा किया जाए।\nस्रोत: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece"
+            "hi": "प्रस्तावित संशोधन में स्पष्ट रूप से यह आदेश दिया गया है कि किसी भी निलंबन को रद्द करने से पहले निर्माता द्वारा सुधारात्मक उपाय किए जाने चाहिए, यह सुनिश्चित करते हुए कि सुरक्षा मानकों को पूरा किया जाए।\nस्रोत: https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece"
           },
           "section": "Public Health, Policy & Regional Governance",
           "source_label": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece",
@@ -318,7 +318,7 @@
         {
           "prompt": {
             "en": "Following a shocking classroom incident in India where a young child was assaulted, what did the victim's family report regarding her medical and psychological condition?",
-            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक छोटे बच्चे पर हमला किया गया था, पीड़ित के परिवार ने उसकी चिकित्सा और मनोवैज्ञानिक स्थिति के बारे में क्या रिपोर्ट दी?"
+            "hi": "भारत में एक चौंकाने वाली कक्षा की घटना के बाद जहां एक छोटे बच्चे पर हमला किया गया, पीड़ित के परिवार ने उसकी चिकित्सा और मनोवैज्ञानिक स्थिति के बारे में क्या रिपोर्ट दी?"
           },
           "options": [
             {
@@ -569,6 +569,363 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-05-29"
+        },
+        {
+          "prompt": {
+            "en": "Where was the construction site of the Land Ports Authority of India (LPAI) where locals maintained an indefinite dharna?",
+            "hi": "भारतीय भूमि बंदरगाह प्राधिकरण (एलपीएआई) का निर्माण स्थल कहां था जहां स्थानीय लोगों ने अनिश्चितकालीन धरना जारी रखा था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gotabari, Torsa Tea Garden",
+                "hi": "गोटाबारी, तोरसा चाय बागान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Siliguri Tea Estate",
+                "hi": "सिलीगुड़ी चाय बागान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Darjeeling Hill Slopes",
+                "hi": "दार्जिलिंग पहाड़ी ढलान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jalpaiguri Border Outpost",
+                "hi": "जलपाईगुड़ी सीमा चौकी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Locals maintained a peaceful, indefinite dharna beside the LPAI project site located in Gotabari, Torsa Tea Garden.\nSource: https://www.thehindu.com/news/national/west-bengal/eleven-tribals-arrested-for-seeking-rehabilitation-for-a-proposed-land-port-project-in-west-bengal/article71666902.ece",
+            "hi": "स्थानीय लोगों ने गोटाबारी, तोर्सा चाय बागान में स्थित एलपीएआई परियोजना स्थल के पास शांतिपूर्ण, अनिश्चितकालीन धरना जारी रखा।\nस्रोत: https://www.thehindu.com/news/national/west-bengal/eleven-tribals-arrested-for-seeking-rehabilitation-for-a-proposed-land-port-project-in-west-bengal/article71666902.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/eleven-tribals-arrested-for-seeking-rehabilitation-for-a-proposed-land-port-project-in-west-bengal/article71666902.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-32"
+        },
+        {
+          "prompt": {
+            "en": "What reason was cited by the Ladakh administration regarding the halting or questioning of HIAL's Desert Flower School?",
+            "hi": "HIAL के डेजर्ट फ्लावर स्कूल को रोकने या पूछताछ करने के संबंध में लद्दाख प्रशासन ने क्या कारण बताया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Commencing functioning without necessary approvals from the competent authority",
+                "hi": "सक्षम प्राधिकारी से आवश्यक अनुमोदन के बिना कामकाज शुरू करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Failure to pay mandatory municipal land taxes",
+                "hi": "अनिवार्य नगरपालिका भूमि कर का भुगतान करने में विफलता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Violation of environmental norms in a wildlife sanctuary",
+                "hi": "वन्यजीव अभ्यारण्य में पर्यावरण मानदंडों का उल्लंघन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Non-compliance with foreign funding regulations under FCRA",
+                "hi": "एफसीआरए के तहत विदेशी फंडिंग नियमों का अनुपालन न करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Ladakh administration stated that the school commenced functioning without necessary approvals from the competent authority.\nSource: https://www.thehindu.com/news/national/ladakh/ladakh-bureaucrats-worse-than-britishers-says-activist-wancghuks-wife-angmo-on-stalling-of-kindergarten/article71666904.ece",
+            "hi": "लद्दाख प्रशासन ने कहा कि स्कूल ने सक्षम प्राधिकारी से आवश्यक मंजूरी के बिना काम करना शुरू कर दिया।\nस्रोत: https://www.thehindu.com/news/national/ladakh/ladakh-bureaucrats-worse-than-britishers-says-activist-wancghuks-wife-angmo-on-stalling-of-kindergarten/article71666904.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/ladakh/ladakh-bureaucrats-worse-than-britishers-says-activist-wancghuks-wife-angmo-on-stalling-of-kindergarten/article71666904.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-33"
+        },
+        {
+          "prompt": {
+            "en": "At which administrative level will the recruitment for more than 11,000 posts in Bihar's health department be conducted?",
+            "hi": "बिहार के स्वास्थ्य विभाग में 11 हजार से ज्यादा पदों पर भर्ती किस प्रशासनिक स्तर पर होगी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "District Magistrate Office level",
+                "hi": "जिला मजिस्ट्रेट कार्यालय स्तर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "State Health Society level",
+                "hi": "राज्य स्वास्थ्य सोसायटी स्तर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Union Ministry of Health and Family Welfare level",
+                "hi": "केंद्रीय स्वास्थ्य एवं परिवार कल्याण मंत्रालय स्तर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bihar Public Service Commission apex level",
+                "hi": "बिहार लोक सेवा आयोग शीर्ष स्तर"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text explicitly specifies that all recruitments for the health department posts will be conducted at the State Health Society level.\nSource: https://www.thehindu.com/news/national/bihar/recruitment-for-more-than-11000-posts-in-bihars-health-department-to-begin-soon/article71666903.ece",
+            "hi": "पाठ स्पष्ट रूप से निर्दिष्ट करता है कि स्वास्थ्य विभाग के पदों के लिए सभी भर्तियाँ राज्य स्वास्थ्य सोसायटी स्तर पर आयोजित की जाएंगी।\nस्रोत: https://www.thehindu.com/news/national/bihar/recruitment-for-more-than-11000-posts-in-bihars-health-department-to-begin-soon/article71666903.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/recruitment-for-more-than-11000-posts-in-bihars-health-department-to-begin-soon/article71666903.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-34"
+        },
+        {
+          "prompt": {
+            "en": "Under which scheme have more than 43 lakh pucca houses been completed for poor families in Bihar?",
+            "hi": "किस योजना के तहत बिहार में गरीब परिवारों के लिए 43 लाख से अधिक पक्के मकान बनकर तैयार हो गए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Indira Awaas Urban Mission",
+                "hi": "इंदिरा आवास शहरी मिशन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+                "hi": "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाई-जी)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rajiv Awas Yojana",
+                "hi": "राजीव आवास योजना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+                "hi": "प्रधानमंत्री आवास योजना - शहरी (पीएमएवाई-यू)"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The financial expenditure and housing completion counts are cited directly under PMAY-G (Pradhan Mantri Awas Yojana - Gramin).\nSource: https://www.thehindu.com/news/national/bihar/more-than-43-lakh-pucca-houses-completed-in-bihar-for-poor-families/article71666913.ece",
+            "hi": "वित्तीय व्यय और आवास पूर्णता गणना सीधे पीएमएवाई-जी (प्रधानमंत्री आवास योजना - ग्रामीण) के तहत उद्धृत की जाती है।\nस्रोत: https://www.thehindu.com/news/national/bihar/more-than-43-lakh-pucca-houses-completed-in-bihar-for-poor-families/article71666913.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/more-than-43-lakh-pucca-houses-completed-in-bihar-for-poor-families/article71666913.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-35"
+        },
+        {
+          "prompt": {
+            "en": "What specific Air Quality Index (AQI) reading was recorded for Delhi on Wednesday morning?",
+            "hi": "बुधवार की सुबह दिल्ली के लिए कौन सी विशिष्ट वायु गुणवत्ता सूचकांक (AQI) रीडिंग दर्ज की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "377",
+                "hi": "377"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "450",
+                "hi": "450"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "295",
+                "hi": "295"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "412",
+                "hi": "412"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Delhi's air quality index reading stood at 377, which places it in the very poor category.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+            "hi": "दिल्ली की वायु गुणवत्ता सूचकांक रीडिंग 377 रही, जो इसे बहुत खराब श्रेणी में रखती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-36"
+        },
+        {
+          "prompt": {
+            "en": "Following a shocking school incident in India where a young child was assaulted, what did the family report regarding her medical status?",
+            "hi": "भारत में एक चौंकाने वाली स्कूल घटना के बाद जहां एक छोटे बच्चे के साथ मारपीट की गई, परिवार ने उसकी चिकित्सा स्थिति के बारे में क्या रिपोर्ट दी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She is out of danger but remains traumatised by her assault",
+                "hi": "वह खतरे से बाहर है लेकिन अपने हमले से सदमे में है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She remains in critical condition on life support",
+                "hi": "वह जीवन समर्थन पर गंभीर स्थिति में बनी हुई है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She suffered permanent paralysis from the injuries",
+                "hi": "चोटों के कारण उसे स्थायी पक्षाघात हो गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She was discharged immediately without any injuries",
+                "hi": "बिना किसी चोट के उसे तुरंत छुट्टी दे दी गई"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The victim's family reported that she is out of danger, though she remains traumatised by her assault.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+            "hi": "पीड़िता के परिवार ने बताया कि वह खतरे से बाहर है, हालांकि वह अपने हमले से सदमे में है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crje5gqnl89no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-37"
+        },
+        {
+          "prompt": {
+            "en": "According to Apollo Hospitals' financial report, what expansion plan was announced regarding its hospital infrastructure?",
+            "hi": "अपोलो अस्पताल की वित्तीय रिपोर्ट के अनुसार, उसके अस्पताल के बुनियादी ढांचे के संबंध में किस विस्तार योजना की घोषणा की गई थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To merge with international healthcare providers abroad",
+                "hi": "विदेशों में अंतर्राष्ट्रीय स्वास्थ्य सेवा प्रदाताओं के साथ विलय करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To add nearly 5,800 beds over five years",
+                "hi": "पांच वर्षों में लगभग 5,800 बिस्तर जोड़ना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To transition exclusively to digital tele-health services",
+                "hi": "विशेष रूप से डिजिटल टेली-स्वास्थ्य सेवाओं में परिवर्तन करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To shut down underperforming regional clinics",
+                "hi": "खराब प्रदर्शन करने वाले क्षेत्रीय क्लीनिकों को बंद करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Apollo Hospitals announced plans to add nearly 5,800 beds over five years as part of its broad-based growth strategy.\nSource: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
+            "hi": "अपोलो हॉस्पिटल्स ने अपनी व्यापक-आधारित विकास रणनीति के हिस्से के रूप में पांच वर्षों में लगभग 5,800 बिस्तर जोड़ने की योजना की घोषणा की।\nस्रोत: https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece"
+          },
+          "section": "Public Health, Policy & Regional Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-38"
         }
       ],
       "quarantined": [],
@@ -879,7 +1236,7 @@
           "correct_option_id": "d",
           "explanation": {
             "en": "Kellogg's changed the recipes for Rice Krispies and Coco Pops, leading to an online backlash over their quieter snap, crackle, and pop sounds.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-            "hi": "केलॉग्स ने राइस क्रिस्पीज़ और कोको पॉप्स की रेसिपी बदल दी, जिससे उनके शांत स्नैप, क्रैकल और पॉप ध्वनियों पर ऑनलाइन प्रतिक्रिया हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
+            "hi": "केलॉग्स ने राइस क्रिस्पीज़ और कोको पॉप्स के व्यंजनों को बदल दिया, जिससे उनके शांत स्नैप, क्रैकल और पॉप ध्वनियों पर ऑनलाइन प्रतिक्रिया हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
           },
           "section": "Economy, Industry & Financial Markets",
           "source_label": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
@@ -891,7 +1248,7 @@
         {
           "prompt": {
             "en": "According to cryptocurrency exchange Binance, what deceptive method was utilized by attackers in connection with a massive $6.3bn crypto hack?",
-            "hi": "क्रिप्टोक्यूरेंसी एक्सचेंज बिनेंस के अनुसार, $6.3 बिलियन की बड़ी क्रिप्टो हैक के संबंध में हमलावरों द्वारा किस भ्रामक विधि का उपयोग किया गया था?"
+            "hi": "क्रिप्टोक्यूरेंसी एक्सचेंज बिनेंस के अनुसार, $6.3 बिलियन की भारी क्रिप्टो हैक के संबंध में हमलावरों द्वारा किस भ्रामक तरीके का उपयोग किया गया था?"
           },
           "options": [
             {
@@ -1044,7 +1401,7 @@
         {
           "prompt": {
             "en": "How much financial backing did Elon Musk's political action committee (PAC) contribute to Ken Paxton's campaign in Texas?",
-            "hi": "एलन मस्क की राजनीतिक कार्रवाई समिति (पीएसी) ने टेक्सास में केन पैक्सटन के अभियान में कितना वित्तीय समर्थन दिया?"
+            "hi": "टेक्सास में केन पैक्सटन के अभियान में एलन मस्क की राजनीतिक कार्रवाई समिति (पीएसी) ने कितना वित्तीय समर्थन दिया?"
           },
           "options": [
             {
@@ -1142,6 +1499,57 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-05-30"
+        },
+        {
+          "prompt": {
+            "en": "How much did Elon Musk spend in the 2026 US midterm elections, setting an individual election spending record?",
+            "hi": "2026 के अमेरिकी मध्यावधि चुनाव में एलन मस्क ने व्यक्तिगत चुनाव खर्च का रिकॉर्ड बनाते हुए कितना खर्च किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nearly $100 million",
+                "hi": "लगभग 100 मिलियन डॉलर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Nearly $250 million",
+                "hi": "लगभग $250 मिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Nearly $500 million",
+                "hi": "लगभग $500 मिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Nearly $1 billion",
+                "hi": "लगभग 1 अरब डॉलर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Elon Musk spent nearly $500m in the 2026 US midterm elections, setting an individual spending record.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+            "hi": "एलोन मस्क ने 2026 के अमेरिकी मध्यावधि चुनावों में लगभग 500 मिलियन डॉलर खर्च किए, जिसने व्यक्तिगत खर्च का रिकॉर्ड बनाया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Industry & Financial Markets",
+          "source_label": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-39"
         }
       ],
       "quarantined": [],
@@ -1150,6 +1558,681 @@
       ],
       "release_wave": 2,
       "release_at": "2026-11-05T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Space, Environment & International Affairs",
+      "source_filename": "daily-2026-11-05.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Following successful orbit maneuvers and a cumulative LAM engine burn, which ISRO satellite successfully reached the Geosynchronous Orbit?",
+            "hi": "सफल कक्षा युद्धाभ्यास और एक संचयी एलएएम इंजन जलने के बाद, इसरो का कौन सा उपग्रह सफलतापूर्वक जियोसिंक्रोनस कक्षा में पहुंच गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "XPSat",
+                "hi": "एक्सपीएसएटी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "GISAT-2",
+                "hi": "जीआईएसएटी-2"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Aditya-L1",
+                "hi": "आदित्य-एल1"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "NVS-03",
+                "hi": "एनवीएस-03"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "ISRO confirmed that the NVS-03 satellite successfully reached Geosynchronous Orbit after completing four orbit maneuvers with a cumulative LAM engine burn.\nSource: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+            "hi": "इसरो ने पुष्टि की कि एनवीएस-03 उपग्रह संचयी एलएएम इंजन बर्न के साथ चार कक्षा प्रक्रियाओं को पूरा करने के बाद सफलतापूर्वक जियोसिंक्रोनस कक्षा में पहुंच गया।\nस्रोत: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-20"
+        },
+        {
+          "prompt": {
+            "en": "According to IMD classifications, how does the meteorological department categorize a monsoon season where rainfall levels are at least 10% lower than the long-term average?",
+            "hi": "आईएमडी वर्गीकरण के अनुसार, मौसम विभाग मानसून के मौसम को कैसे वर्गीकृत करता है जहां वर्षा का स्तर दीर्घकालिक औसत से कम से कम 10% कम है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Scanty",
+                "hi": "अल्प"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Drought-hit",
+                "hi": "सूखाग्रस्त"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Below Normal",
+                "hi": "सामान्य से नीचे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Deficient",
+                "hi": "कमी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The IMD refers to monsoon seasons with rainfall levels at least 10% lower than the long-term average as 'deficient'.\nSource: https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+            "hi": "आईएमडी मानसून के मौसम को 'कम' के रूप में संदर्भित करता है जिसमें वर्षा का स्तर दीर्घकालिक औसत से कम से कम 10% कम होता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-21"
+        },
+        {
+          "prompt": {
+            "en": "The development of India's regional satellite navigation system (IRNSS/NavIC) was initiated in the aftermath of which major historical event involving foreign GPS denial?",
+            "hi": "भारत के क्षेत्रीय उपग्रह नेविगेशन सिस्टम (आईआरएनएसएस/एनएवीआईसी) का विकास विदेशी जीपीएस इनकार से जुड़ी किस प्रमुख ऐतिहासिक घटना के बाद शुरू किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The 1965 Indo-Pak War",
+                "hi": "1965 का भारत-पाक युद्ध"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The 1971 Bangladesh Liberation War",
+                "hi": "1971 का बांग्लादेश मुक्ति संग्राम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The 2001 Parliament attack crisis",
+                "hi": "2001 संसद पर हमला संकट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The 1999 Kargil conflict",
+                "hi": "1999 कारगिल संघर्ष"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The IRNSS concept originated directly in the aftermath of the U.S.'s denial of its Global Positioning Service (GPS) during the 1999 Kargil conflict.\nSource: https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
+            "hi": "आईआरएनएसएस अवधारणा की उत्पत्ति सीधे तौर पर 1999 के कारगिल संघर्ष के दौरान अमेरिका द्वारा ग्लोबल पोजिशनिंग सर्विस (जीपीएस) को अस्वीकार करने के बाद हुई थी।\nस्रोत: https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-22"
+        },
+        {
+          "prompt": {
+            "en": "According to auditors, what conclusion was reached regarding the Welsh public sector's net zero emissions plans by 2030?",
+            "hi": "लेखा परीक्षकों के अनुसार, 2030 तक वेल्श सार्वजनिक क्षेत्र की शुद्ध शून्य उत्सर्जन योजना के संबंध में क्या निष्कर्ष निकाला गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are unlikely to meet net zero plans due to a lack of progress in tackling climate change.",
+                "hi": "जलवायु परिवर्तन से निपटने में प्रगति की कमी के कारण उनके नेट ज़ीरो योजनाओं को पूरा करने की संभावना नहीं है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They have successfully surpassed all interim carbon reduction milestones.",
+                "hi": "उन्होंने सभी अंतरिम कार्बन कटौती मील के पत्थर को सफलतापूर्वक पार कर लिया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have fully transitioned all public transport fleets to electric power.",
+                "hi": "उन्होंने सभी सार्वजनिक परिवहन बेड़े को पूरी तरह से विद्युत ऊर्जा में परिवर्तित कर दिया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are on track to achieve net zero ahead of the 2030 statutory deadline.",
+                "hi": "वे 2030 की वैधानिक समय सीमा से पहले शुद्ध शून्य हासिल करने की राह पर हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Auditors criticized the lack of progress made by organisations, concluding that the Welsh public sector is unlikely to meet its net zero plans by 2030.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+            "hi": "लेखा परीक्षकों ने संगठनों द्वारा की गई प्रगति की कमी की आलोचना की, और निष्कर्ष निकाला कि वेल्श सार्वजनिक क्षेत्र 2030 तक अपनी शुद्ध शून्य योजनाओं को पूरा करने की संभावना नहीं है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-23"
+        },
+        {
+          "prompt": {
+            "en": "According to Ukrainian officials, what devastating attack occurred in a village, resulting in significant casualties and victims trapped under rubble?",
+            "hi": "यूक्रेनी अधिकारियों के अनुसार, एक गाँव में कौन सा विनाशकारी हमला हुआ, जिसके परिणामस्वरूप बड़ी संख्या में लोग हताहत हुए और पीड़ित मलबे में फंस गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An artillery barrage hitting a humanitarian evacuation train.",
+                "hi": "एक तोपखाना बैराज एक मानवीय निकासी ट्रेन पर हमला कर रहा है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A ballistic missile strike targeting a hydroelectric substation.",
+                "hi": "एक पनबिजली सबस्टेशन को निशाना बनाकर किया गया बैलिस्टिक मिसाइल हमला।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An overnight drone swarm attack on an agricultural grain silo.",
+                "hi": "कृषि अनाज साइलो पर रात भर ड्रोन झुंड का हमला।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A deadly Russian double-tap bombing attack on a Ukrainian village.",
+                "hi": "यूक्रेन के एक गांव पर रूस का घातक डबल-टैप बमबारी हमला।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Ukraine reported that a deadly Russian double-tap bombing attack on a village killed at least 40 people, with dozens potentially under the rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+            "hi": "यूक्रेन ने बताया कि एक गांव पर घातक रूसी डबल-टैप बमबारी हमले में कम से कम 40 लोग मारे गए, जिनमें से दर्जनों लोग संभवतः मलबे में दबे हुए हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-24"
+        },
+        {
+          "prompt": {
+            "en": "According to recent commentaries on scientific research in India, what should the primary focus of the scientific community be rather than chasing bibliographic metrics?",
+            "hi": "भारत में वैज्ञानिक अनुसंधान पर हाल की टिप्पणियों के अनुसार, वैज्ञानिक समुदाय का प्राथमिक ध्यान ग्रंथसूची संबंधी मैट्रिक्स का पीछा करने के बजाय क्या होना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Limiting research to applied engineering fields funded by private industry.",
+                "hi": "अनुसंधान को निजी उद्योग द्वारा वित्त पोषित अनुप्रयुक्त इंजीनियरिंग क्षेत्रों तक सीमित करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Focusing exclusively on commercial patent generation and technology transfer.",
+                "hi": "विशेष रूप से वाणिज्यिक पेटेंट निर्माण और प्रौद्योगिकी हस्तांतरण पर ध्यान केंद्रित करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pursuing fundamental research and practical solutions rather than making inclusion in the 'top 2% scientists' database' the primary goal.",
+                "hi": "'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होने को प्राथमिक लक्ष्य बनाने के बजाय मौलिक अनुसंधान और व्यावहारिक समाधान अपनाना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Prioritizing international journal citation impact factors above domestic field applications.",
+                "hi": "घरेलू क्षेत्र के अनुप्रयोगों से ऊपर अंतर्राष्ट्रीय जर्नल उद्धरण प्रभाव कारकों को प्राथमिकता देना।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The commentary stresses that India needs both fundamental research and practical solutions instead of treating inclusion in the 'top 2% scientists' database' as the primary goal.\nSource: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+            "hi": "टिप्पणी में इस बात पर जोर दिया गया है कि भारत को 'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होने को प्राथमिक लक्ष्य मानने के बजाय मौलिक अनुसंधान और व्यावहारिक समाधान दोनों की आवश्यकता है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-25"
+        },
+        {
+          "prompt": {
+            "en": "In connection with discussions on artificial intelligence, movies, and fatherhood, which Indian film star plays the leading role in a major new adaptation of the epic Ramayana?",
+            "hi": "कृत्रिम बुद्धिमत्ता, फिल्मों और पितृत्व पर चर्चा के संबंध में, कौन सा भारतीय फिल्म सितारा महाकाव्य रामायण के एक प्रमुख नए रूपांतरण में अग्रणी भूमिका निभाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vicky Kaushal",
+                "hi": "विक्की कौशल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ranveer Singh",
+                "hi": "रणवीर सिंह"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Ranbir Kapoor",
+                "hi": "रणबीर कपूर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Shahid Kapoor",
+                "hi": "शाहिद कपूर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The report highlights film star Ranbir Kapoor playing the leading role in a major new adaptation of the Indian epic Ramayana.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में फिल्म स्टार रणबीर कपूर को भारतीय महाकाव्य रामायण के एक प्रमुख नए रूपांतरण में प्रमुख भूमिका निभाने पर प्रकाश डाला गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-26"
+        },
+        {
+          "prompt": {
+            "en": "What emerging trend regarding recent graduates and workplace technology was highlighted in employment reports?",
+            "hi": "रोजगार रिपोर्टों में हाल के स्नातकों और कार्यस्थल प्रौद्योगिकी के संबंध में किस उभरती प्रवृत्ति पर प्रकाश डाला गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Graduates are spending more time managing AI, raising questions about whether they miss out on other work experience.",
+                "hi": "स्नातक एआई के प्रबंधन में अधिक समय व्यतीत कर रहे हैं, जिससे यह सवाल उठ रहा है कि क्या वे अन्य कार्य अनुभव से चूक जाते हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Graduates are entirely replacing junior engineering roles with generative AI coding assistants.",
+                "hi": "स्नातक पूरी तरह से जूनियर इंजीनियरिंग भूमिकाओं को जेनेरिक एआई कोडिंग सहायकों से बदल रहे हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Corporate employers have banned generative AI tools for entry-level white-collar employees.",
+                "hi": "कॉर्पोरेट नियोक्ताओं ने प्रवेश स्तर के सफेदपोश कर्मचारियों के लिए जेनेरिक एआई टूल पर प्रतिबंध लगा दिया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Universities have replaced traditional dissertations with AI prompt-engineering modules.",
+                "hi": "विश्वविद्यालयों ने पारंपरिक शोध प्रबंधों को एआई प्रॉम्प्ट-इंजीनियरिंग मॉड्यूल से बदल दिया है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report questions whether graduates are missing out on essential work experience as they spend more time managing AI systems.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में सवाल उठाया गया है कि क्या स्नातक आवश्यक कार्य अनुभव से चूक रहे हैं क्योंकि वे एआई सिस्टम के प्रबंधन में अधिक समय बिताते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-27"
+        },
+        {
+          "prompt": {
+            "en": "According to Ukrainian officials, what devastating event occurred in a village following a deadly Russian double-tap bombing?",
+            "hi": "यूक्रेनी अधिकारियों के अनुसार, घातक रूसी डबल-टैप बमबारी के बाद एक गाँव में कौन सी विनाशकारी घटना घटी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At least 40 people were killed and another 30 may still be under the rubble following a double-tap bombing attack",
+                "hi": "डबल-टैप बमबारी हमले के बाद कम से कम 40 लोग मारे गए और अन्य 30 अभी भी मलबे में दबे हो सकते हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A nuclear power plant containment structure suffered a critical radiation leak",
+                "hi": "एक परमाणु ऊर्जा संयंत्र रोकथाम संरचना को गंभीर विकिरण रिसाव का सामना करना पड़ा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A major dam collapsed, flooding dozens of residential settlements along the riverbank",
+                "hi": "एक बड़ा बांध ढह गया, जिससे नदी किनारे की दर्जनों आवासीय बस्तियों में पानी भर गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An ammunition depot exploded, releasing toxic chemical fumes across the district",
+                "hi": "एक गोला-बारूद डिपो में विस्फोट हो गया, जिससे पूरे जिले में जहरीला रासायनिक धुंआ फैल गया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Ukrainian authorities reported that a deadly double-tap bombing attack on a village killed at least 40 people, with up to 30 more potentially trapped under the rubble.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+            "hi": "यूक्रेनी अधिकारियों ने बताया कि एक गांव पर घातक डबल-टैप बमबारी हमले में कम से कम 40 लोग मारे गए, जबकि 30 से अधिक लोग संभवतः मलबे के नीचे फंसे हुए हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-31"
+        },
+        {
+          "prompt": {
+            "en": "According to recent commentaries on scientific research in India, what should the scientific community avoid making its primary goal?",
+            "hi": "भारत में वैज्ञानिक अनुसंधान पर हाल की टिप्पणियों के अनुसार, वैज्ञानिक समुदाय को अपना प्राथमिक लक्ष्य क्या बनाने से बचना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Publishing exclusively in domestic language journals",
+                "hi": "विशेष रूप से घरेलू भाषा की पत्रिकाओं में प्रकाशन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Securing private venture capital funding for tech start-ups",
+                "hi": "तकनीकी स्टार्ट-अप के लिए निजी उद्यम पूंजी निधि सुरक्षित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Inclusion in the 'top 2% scientists' database'",
+                "hi": "'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Filing patents for consumer electronics products",
+                "hi": "उपभोक्ता इलेक्ट्रॉनिक्स उत्पादों के लिए पेटेंट दाखिल करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The article suggests that India needs research without making inclusion in the 'top 2% scientists' database' the primary goal.\nSource: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+            "hi": "लेख बताता है कि भारत को 'शीर्ष 2% वैज्ञानिकों के डेटाबेस' में शामिल होने को प्राथमिक लक्ष्य बनाए बिना अनुसंधान की आवश्यकता है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-40"
+        },
+        {
+          "prompt": {
+            "en": "According to Prince William, what major environmental concern prompted serious worries during the summer of 2026?",
+            "hi": "प्रिंस विलियम के अनुसार, 2026 की गर्मियों के दौरान किस प्रमुख पर्यावरणीय चिंता ने गंभीर चिंताएँ पैदा कीं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Severe coastal flooding across urban centers",
+                "hi": "शहरी केंद्रों में गंभीर तटीय बाढ़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The unprecedented scale of the wildfires",
+                "hi": "जंगल की आग का अभूतपूर्व पैमाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Widespread glacial melting in northern territories",
+                "hi": "उत्तरी क्षेत्रों में बड़े पैमाने पर हिमनदों का पिघलना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Unprecedented agricultural droughts affecting crop yields",
+                "hi": "अभूतपूर्व कृषि सूखा फसल की पैदावार को प्रभावित कर रहा है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Prince William stated that 2026 was the first summer he felt worried about the scale of the wildfires.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+            "hi": "प्रिंस विलियम ने कहा कि 2026 पहली गर्मी थी जब उन्हें जंगल की आग के पैमाने के बारे में चिंता महसूस हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-41"
+        },
+        {
+          "prompt": {
+            "en": "According to Ukrainian officials, what devastating attack occurred in a village, resulting in significant casualties?",
+            "hi": "यूक्रेनी अधिकारियों के अनुसार, एक गाँव में कौन सा विनाशकारी हमला हुआ, जिसके परिणामस्वरूप बड़ी संख्या में लोग हताहत हुए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A deadly double-tap bombing by Russian forces",
+                "hi": "रूसी सेना द्वारा घातक डबल-टैप बमबारी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A catastrophic tactical missile strike on a grain silo",
+                "hi": "अनाज साइलो पर एक विनाशकारी सामरिक मिसाइल हमला"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An artillery barrage targeting a civilian evacuation train",
+                "hi": "एक नागरिक निकासी ट्रेन को निशाना बनाते हुए एक तोपखाना बैराज"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A coordinated drone swarm attack on a hydro-dam",
+                "hi": "हाइड्रो-बांध पर एक समन्वित ड्रोन झुंड का हमला"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Kyiv reported that a deadly Russian double-tap bombing killed at least 40 people in a Ukrainian village.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+            "hi": "कीव ने बताया कि यूक्रेन के एक गांव में घातक रूसी डबल-टैप बमबारी में कम से कम 40 लोग मारे गए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-42"
+        },
+        {
+          "prompt": {
+            "en": "According to galactic archaeologists studying the Milky Way, how far back does the reconstructed history go?",
+            "hi": "आकाशगंगा का अध्ययन करने वाले गांगेय पुरातत्वविदों के अनुसार, पुनर्निर्मित इतिहास कितना पुराना है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5 billion years",
+                "hi": "5 अरब वर्ष"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Almost 12 billion years",
+                "hi": "लगभग 12 अरब वर्ष"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "15 billion years",
+                "hi": "15 अरब वर्ष"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "8 billion years",
+                "hi": "8 अरब वर्ष"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Galactic archaeologists have revealed the history of the Milky Way going back almost 12 billion years.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": "गैलेक्टिक पुरातत्वविदों ने आकाशगंगा के लगभग 12 अरब वर्ष पुराने इतिहास का खुलासा किया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+          },
+          "section": "Science, Space, Environment & International Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-05-43"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-05T18:00:00+05:30"
     }
   ],
   "sources": [
@@ -1194,6 +2277,31 @@
       "published": "2026-11-04T21:18:00+05:30"
     },
     {
+      "title": "Science should move past ‘top 2%’ label",
+      "url": "https://www.thehindu.com/opinion/op-ed/science-should-move-past-top-2-label/article71667264.ece",
+      "published": "2026-11-05T00:28:48+05:30"
+    },
+    {
+      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+      "published": "2026-11-04T23:33:27+05:30"
+    },
+    {
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+      "published": "2026-11-04T17:24:39+05:30"
+    },
+    {
+      "title": "Why even a strong El Niño does not guarantee a poor Indian monsoon",
+      "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+      "published": "2026-11-04T17:23:03+05:30"
+    },
+    {
+      "title": "What is the debate on NavIC vs GPS | Explained",
+      "url": "https://www.thehindu.com/sci-tech/science/what-is-the-debate-on-navic-vs-gps-explained/article71663982.ece",
+      "published": "2026-11-04T10:08:37+05:30"
+    },
+    {
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T07:39:38+00:00"
@@ -1202,6 +2310,11 @@
       "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
       "url": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:20:50+00:00"
+    },
+    {
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:09:13+00:00"
     },
     {
       "title": "Shock and anger in India after eight-year-old beats six-year-old in classroom",
@@ -1234,9 +2347,29 @@
       "published": "2026-11-03T16:19:29+00:00"
     },
     {
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T00:04:35+00:00"
+    },
+    {
+      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T06:11:43+00:00"
+    },
+    {
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T08:57:20+00:00"
+    },
+    {
       "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
       "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T18:01:31+00:00"
+    },
+    {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T17:45:58+00:00"
     },
     {
       "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
@@ -1252,6 +2385,26 @@
       "title": "Helping hand: On Cyclones Arnab and Murasu",
       "url": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
       "published": "2026-11-05T01:47:28+05:30"
+    },
+    {
+      "title": "Eleven tribals arrested for seeking rehabilitation for a proposed land port project in West Bengal",
+      "url": "https://www.thehindu.com/news/national/west-bengal/eleven-tribals-arrested-for-seeking-rehabilitation-for-a-proposed-land-port-project-in-west-bengal/article71666902.ece",
+      "published": "2026-11-05T03:26:27+05:30"
+    },
+    {
+      "title": "Ladakh bureaucrats worse than Britishers, says activist Wancghuk’s wife Angmo on stalling of kindergarten",
+      "url": "https://www.thehindu.com/news/national/ladakh/ladakh-bureaucrats-worse-than-britishers-says-activist-wancghuks-wife-angmo-on-stalling-of-kindergarten/article71666904.ece",
+      "published": "2026-11-05T03:20:17+05:30"
+    },
+    {
+      "title": "Recruitment for more than 11,000 posts in Bihar’s health department to begin soon",
+      "url": "https://www.thehindu.com/news/national/bihar/recruitment-for-more-than-11000-posts-in-bihars-health-department-to-begin-soon/article71666903.ece",
+      "published": "2026-11-05T02:24:06+05:30"
+    },
+    {
+      "title": "More than 43 lakh pucca houses completed in Bihar for poor families",
+      "url": "https://www.thehindu.com/news/national/bihar/more-than-43-lakh-pucca-houses-completed-in-bihar-for-poor-families/article71666913.ece",
+      "published": "2026-11-05T02:15:59+05:30"
     }
   ]
 }
