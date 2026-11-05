@@ -1,0 +1,695 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-06",
+  "generated_at": "2026-11-05T20:54:40.326499+00:00",
+  "model": "gemini-3.5-flash-lite",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-06.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to Jharkhand Chief Minister Hemant Soren, what factors are essential for the holistic development of tribal society?",
+            "hi": "झारखंड के मुख्यमंत्री हेमन्त सोरेन के अनुसार आदिवासी समाज के समग्र विकास के लिए कौन से कारक आवश्यक हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Collective participation and mutual cooperation",
+                "hi": "सामूहिक भागीदारी एवं आपसी सहयोग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Heavy industrialization and urban migration",
+                "hi": "भारी औद्योगीकरण और शहरी प्रवासन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exclusive reliance on central grants and subsidies",
+                "hi": "केंद्रीय अनुदान और सब्सिडी पर विशेष निर्भरता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Foreign direct investment in forest resources",
+                "hi": "वन संसाधनों में प्रत्यक्ष विदेशी निवेश"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Hemant Soren emphasized that collective participation and mutual cooperation are essential for the holistic development of the tribal society.\nSource: https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
+            "hi": "हेमंत सोरेन ने इस बात पर जोर दिया कि आदिवासी समाज के समग्र विकास के लिए सामूहिक भागीदारी और आपसी सहयोग जरूरी है.\nस्रोत: https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-1"
+        },
+        {
+          "prompt": {
+            "en": "What urgent mandate does editorial commentary emphasize regarding sewer cleaning in India?",
+            "hi": "संपादकीय टिप्पणी भारत में सीवर सफाई के संबंध में किस जरूरी आदेश पर जोर देती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Provide better protective gear to sanitation workers",
+                "hi": "सफाई कर्मचारियों को बेहतर सुरक्षा उपकरण प्रदान करें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increase the budgetary allocation for mechanized cleaning equipment",
+                "hi": "मशीनीकृत सफाई उपकरणों के लिए बजटीय आवंटन बढ़ाएँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Eliminate situations that lead to sewer cleaning deaths",
+                "hi": "उन स्थितियों को दूर करें जो सीवर सफाई में मौतों का कारण बनती हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Outsource sanitation work to private contractors",
+                "hi": "स्वच्छता का काम निजी ठेकेदारों को आउटसोर्स करें"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The editorial clearly highlights that India must eliminate situations that lead to sewer cleaning deaths.\nSource: https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
+            "hi": "संपादकीय में स्पष्ट रूप से इस बात पर प्रकाश डाला गया है कि भारत को उन स्थितियों को खत्म करना होगा जो सीवर सफाई में मौतों का कारण बनती हैं।\nस्रोत: https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-2"
+        },
+        {
+          "prompt": {
+            "en": "During the review meeting of Bihar NDA leaders led by CM Samrat Choudhary, what allegations were leveled by the JD(U) against their alliance partner?",
+            "hi": "सीएम सम्राट चौधरी के नेतृत्व में बिहार एनडीए नेताओं की समीक्षा बैठक के दौरान जेडीयू ने अपने गठबंधन सहयोगी पर क्या आरोप लगाए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Withdrawing support from the coalition government",
+                "hi": "गठबंधन सरकार से समर्थन वापस लेना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Embezzling funds allocated for local development",
+                "hi": "स्थानीय विकास के लिए आवंटित धन का गबन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Failing to cooperate and trying to sabotage their candidate",
+                "hi": "सहयोग करने में असफल होना और उनके उम्मीदवार को नुकसान पहुंचाने की कोशिश करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Forming a secret alliance with the opposition party",
+                "hi": "विपक्षी पार्टी के साथ गुपकार गठबंधन बना रहे हैं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Sources reported that JD(U) levelled charges against the alliance partner for failing to cooperate and also trying to sabotage their candidate during the council results review meeting.\nSource: https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
+            "hi": "सूत्रों ने बताया कि जेडी (यू) ने गठबंधन सहयोगी के खिलाफ सहयोग करने में विफल रहने और परिषद परिणाम समीक्षा बैठक के दौरान उनके उम्मीदवार को नुकसान पहुंचाने की कोशिश करने का आरोप लगाया।\nस्रोत: https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-3"
+        },
+        {
+          "prompt": {
+            "en": "What specific accusation have Odisha political parties made against Andhra Pradesh regarding residents of disputed villages in Kotia?",
+            "hi": "कोटिया के विवादित गांवों के निवासियों के संबंध में ओडिशा के राजनीतिक दलों ने आंध्र प्रदेश के खिलाफ क्या विशेष आरोप लगाए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Intimidating voters with police force",
+                "hi": "पुलिस बल से मतदाताओं को डराया धमकाया जा रहा है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Constructing unauthorized polling booths across the border",
+                "hi": "सीमा पार अनधिकृत मतदान केंद्रों का निर्माण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Denying basic rations to local residents",
+                "hi": "स्थानीय निवासियों को बुनियादी राशन देने से इनकार करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bribing people to secure their votes in MPTC and ZPTC elections",
+                "hi": "एमपीटीसी और जेडपीटीसी चुनावों में अपने वोट सुरक्षित करने के लिए लोगों को रिश्वत देना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Odisha political parties accused A.P. of bribing people to secure their votes in MPTC and ZPTC elections as residents of disputed villages crossed the border to vote.\nSource: https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
+            "hi": "ओडिशा के राजनीतिक दलों ने एपी पर एमपीटीसी और जेडपीटीसी चुनावों में अपने वोट सुरक्षित करने के लिए लोगों को रिश्वत देने का आरोप लगाया क्योंकि विवादित गांवों के निवासियों ने वोट देने के लिए सीमा पार कर ली थी।\nस्रोत: https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-4"
+        },
+        {
+          "prompt": {
+            "en": "By what percentage did Bharti Airtel's India revenue grow in the September quarter, reaching ₹42,308 crore?",
+            "hi": "सितंबर तिमाही में भारती एयरटेल का भारत राजस्व कितने प्रतिशत बढ़कर ₹42,308 करोड़ तक पहुंच गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "7.2%",
+                "hi": "7.2%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "9.4%",
+                "hi": "9.4%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "12.5%",
+                "hi": "12.5%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "24.0%",
+                "hi": "24.0%"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Bharti Airtel's India revenue grew by 9.4% to ₹42,308 crore during the September quarter.\nSource: https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
+            "hi": "सितंबर तिमाही के दौरान भारती एयरटेल का भारत का राजस्व 9.4% बढ़कर ₹42,308 करोड़ हो गया।\nस्रोत: https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-5"
+        },
+        {
+          "prompt": {
+            "en": "What specific details regarding citizenship and residency were raised by Mehli Mistry concerning Noel Tata?",
+            "hi": "नोएल टाटा के संबंध में मेहली मिस्त्री द्वारा नागरिकता और निवास के संबंध में कौन से विशिष्ट विवरण उठाए गए थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He is a British citizen and a holder of a UK Tier-1 Investor Visa",
+                "hi": "वह एक ब्रिटिश नागरिक है और यूके टियर-1 इन्वेस्टर वीज़ा का धारक है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He is an Irish citizen and a holder of a UAE Golden Visa",
+                "hi": "वह एक आयरिश नागरिक है और यूएई गोल्डन वीज़ा का धारक है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He is a Swiss citizen and a holder of a Swiss Residence Permit",
+                "hi": "वह एक स्विस नागरिक है और स्विस निवास परमिट का धारक है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He is a US citizen and a holder of a US Green Card",
+                "hi": "वह अमेरिकी नागरिक है और अमेरिकी ग्रीन कार्ड धारक है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Mehli Mistry questioned Noel Tata's citizenship and tax residency status by pointing out that he is an Irish citizen and a holder of a UAE Golden Visa.\nSource: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
+            "hi": "मेहली मिस्त्री ने नोएल टाटा की नागरिकता और कर निवास स्थिति पर सवाल उठाते हुए कहा कि वह एक आयरिश नागरिक हैं और यूएई गोल्डन वीज़ा के धारक हैं।\nस्रोत: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-6"
+        },
+        {
+          "prompt": {
+            "en": "In response to growing U.S. opposition to data-centre expansion, what specific commitments has OpenAI made regarding infrastructure and accountability?",
+            "hi": "डेटा-सेंटर विस्तार पर बढ़ते अमेरिकी विरोध के जवाब में, ओपनएआई ने बुनियादी ढांचे और जवाबदेही के संबंध में क्या विशिष्ट प्रतिबद्धताएं की हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Transferring complete ownership of data-centre grids to municipal authorities",
+                "hi": "डेटा-सेंटर ग्रिड का पूर्ण स्वामित्व नगरपालिका अधिकारियों को हस्तांतरित करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Halting all future data-centre construction in North America and shifting operations overseas",
+                "hi": "उत्तरी अमेरिका में भविष्य के सभी डेटा-सेंटर निर्माण को रोकना और विदेशों में परिचालन स्थानांतरित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Committing to bear electricity and grid infrastructure costs, publishing water and power consumption, and working with unions on local hiring and training",
+                "hi": "बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करने, पानी और बिजली की खपत को प्रकाशित करने और स्थानीय भर्ती और प्रशिक्षण पर यूनियनों के साथ काम करने के लिए प्रतिबद्ध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bypassing local environmental reviews to expedite AI model training",
+                "hi": "एआई मॉडल प्रशिक्षण में तेजी लाने के लिए स्थानीय पर्यावरण समीक्षाओं को दरकिनार करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Amid U.S. opposition, OpenAI committed to bearing electricity and grid infrastructure costs, publishing water and power consumption, and working with unions on local hiring and training.\nSource: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
+            "hi": "अमेरिकी विरोध के बीच, ओपनएआई ने बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करने, पानी और बिजली की खपत को प्रकाशित करने और स्थानीय भर्ती और प्रशिक्षण पर यूनियनों के साथ काम करने के लिए प्रतिबद्ध किया।\nस्रोत: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-7"
+        },
+        {
+          "prompt": {
+            "en": "What rationale did NPCI present to the Supreme Court regarding the imposition of the MDR charge on the UPI ecosystem?",
+            "hi": "यूपीआई इकोसिस्टम पर एमडीआर चार्ज लगाने के संबंध में एनपीसीआई ने सुप्रीम कोर्ट में क्या तर्क पेश किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is mandated by international banking regulations to ensure fair competition among fintech firms",
+                "hi": "फिनटेक फर्मों के बीच निष्पक्ष प्रतिस्पर्धा सुनिश्चित करने के लिए इसे अंतरराष्ट्रीय बैंकिंग नियमों द्वारा अनिवार्य किया गया है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Zero MDR is no longer sustainable as growth places greater demands on security, resilience, and infrastructural capacity",
+                "hi": "शून्य एमडीआर अब टिकाऊ नहीं है क्योंकि विकास सुरक्षा, लचीलेपन और बुनियादी ढांचागत क्षमता पर अधिक मांग रखता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is designed to completely replace traditional banking channels with digital wallets",
+                "hi": "इसे पारंपरिक बैंकिंग चैनलों को पूरी तरह से डिजिटल वॉलेट से बदलने के लिए डिज़ाइन किया गया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It serves as a direct tax to fund government rural digitization initiatives",
+                "hi": "यह सरकारी ग्रामीण डिजिटलीकरण पहल को वित्तपोषित करने के लिए प्रत्यक्ष कर के रूप में कार्य करता है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "NPCI informed the Supreme Court that zero MDR is no longer sustainable because the magnitude of growth places correspondingly greater demands on the security, resilience, and infrastructural capacity of the system.\nSource: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
+            "hi": "एनपीसीआई ने सुप्रीम कोर्ट को सूचित किया कि शून्य एमडीआर अब टिकाऊ नहीं है क्योंकि विकास की भयावहता प्रणाली की सुरक्षा, लचीलेपन और ढांचागत क्षमता पर अधिक मांग डालती है।\nस्रोत: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-8"
+        },
+        {
+          "prompt": {
+            "en": "What is India's target for blending Compressed Biogas (CBG) into D-PNG and CNG by the end of the current fiscal year?",
+            "hi": "चालू वित्त वर्ष के अंत तक कंप्रेस्ड बायोगैस (सीबीजी) को डी-पीएनजी और सीएनजी में मिश्रित करने का भारत का लक्ष्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "3.0%",
+                "hi": "3.0%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "1.7%",
+                "hi": "1.7%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "4.0%",
+                "hi": "4.0%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "5.0%",
+                "hi": "5.0%"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "India has a target of blending 3% CBG into D-PNG and CNG by the end of the current fiscal year, followed by 4% in 2027-28 and 5% in the subsequent year.\nSource: https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
+            "hi": "भारत का चालू वित्त वर्ष के अंत तक डी-पीएनजी और सीएनजी में 3% सीबीजी मिश्रण करने का लक्ष्य है, इसके बाद 2027-28 में 4% और उसके बाद के वर्ष में 5% मिश्रण करने का लक्ष्य है।\nस्रोत: https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-9"
+        },
+        {
+          "prompt": {
+            "en": "According to CIBIL data on repeat gold borrowing, what repayment pattern significantly increased the likelihood of a borrower becoming delinquent?",
+            "hi": "बार-बार सोना उधार लेने पर CIBIL डेटा के अनुसार, किस पुनर्भुगतान पैटर्न से उधारकर्ता के अपराधी बनने की संभावना काफी बढ़ जाती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Opting for bullet repayment instead of monthly installments",
+                "hi": "मासिक किश्तों के बजाय बुलेट पुनर्भुगतान का विकल्प चुनना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Failing to renew the loan agreement within thirty days of maturity",
+                "hi": "परिपक्वता के तीस दिनों के भीतर ऋण समझौते को नवीनीकृत करने में असफल होना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Missing more than one payment in the preceding six months",
+                "hi": "पिछले छह महीनों में एक से अधिक भुगतान न होना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Pledging lower-purity gold collateral during repeat borrowing",
+                "hi": "बार-बार उधार लेने के दौरान कम शुद्धता वाला सोना गिरवी रखना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "CIBIL reported that borrowers who had missed more than one payment in the preceding six months were three times as likely to become delinquent.\nSource: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+            "hi": "सीआईबीआईएल ने बताया कि जो उधारकर्ता पिछले छह महीनों में एक से अधिक भुगतान चूक गए थे, उनके अपराधी बनने की संभावना तीन गुना थी।\nस्रोत: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-10"
+        },
+        {
+          "prompt": {
+            "en": "During Foreign Secretary Misri's visit to Nepal, what specific assistance provided by India did Nepali leaders express gratitude for?",
+            "hi": "विदेश सचिव मिस्री की नेपाल यात्रा के दौरान भारत द्वारा प्रदान की गई किस विशिष्ट सहायता के लिए नेपाली नेताओं ने आभार व्यक्त किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Medical supplies during the pandemic",
+                "hi": "महामारी के दौरान चिकित्सा आपूर्ति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods",
+                "hi": "भोटेकोशी बाढ़ के बाद तीव्र और पर्याप्त मानवीय और तकनीकी सहायता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Financial grants for hydroelectric power plant construction",
+                "hi": "पनबिजली संयंत्र निर्माण के लिए वित्तीय अनुदान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Infrastructure development for cross-border railway links",
+                "hi": "सीमा पार रेलवे लिंक के लिए बुनियादी ढांचे का विकास"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Nepali leaders expressed gratitude for India's swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods, as noted in the joint press release.\nSource: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+            "hi": "जैसा कि संयुक्त प्रेस विज्ञप्ति में कहा गया है, नेपाली नेताओं ने भोटेकोशी बाढ़ के बाद भारत की त्वरित और पर्याप्त मानवीय और तकनीकी सहायता के लिए आभार व्यक्त किया।\nस्रोत: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-11"
+        },
+        {
+          "prompt": {
+            "en": "According to ISRO Chairman V. Narayanan, what is the primary purpose of conducting in-orbit testing for the NVS-03 satellite payload?",
+            "hi": "इसरो के अध्यक्ष वी. नारायणन के अनुसार, NVS-03 उपग्रह पेलोड के लिए कक्षा में परीक्षण करने का प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Monitoring meteorological changes across the Indian Ocean region",
+                "hi": "हिंद महासागर क्षेत्र में मौसम संबंधी परिवर्तनों की निगरानी करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Establishing a deep-space communication network for lunar exploration",
+                "hi": "चंद्र अन्वेषण के लिए गहरे अंतरिक्ष संचार नेटवर्क की स्थापना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Developing NavIC, an indigenous GPS alternative",
+                "hi": "एक स्वदेशी जीपीएस विकल्प, NavIC का विकास करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mapping high-resolution mineral deposits across the Indian subcontinent",
+                "hi": "भारतीय उपमहाद्वीप में उच्च-रिज़ॉल्यूशन खनिज भंडार का मानचित्रण"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "ISRO is conducting in-orbit testing for the satellite payload as part of developing NavIC, an indigenous GPS alternative.\nSource: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+            "hi": "इसरो एक स्वदेशी जीपीएस विकल्प, NavIC विकसित करने के हिस्से के रूप में उपग्रह पेलोड के लिए कक्षा में परीक्षण कर रहा है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-06T06:30:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
+      "published": "2026-11-06T01:32:52+05:30"
+    },
+    {
+      "title": "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
+      "url": "https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
+      "published": "2026-11-06T01:24:48+05:30"
+    },
+    {
+      "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
+      "url": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
+      "published": "2026-11-06T00:01:10+05:30"
+    },
+    {
+      "title": "Mehli Mistry questions Noel Tata’s citizenship, tax residency status",
+      "url": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
+      "published": "2026-11-05T23:54:30+05:30"
+    },
+    {
+      "title": "OpenAI formalises future U.S. data-centre safeguards; pledges union engagement, environmental disclosures",
+      "url": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
+      "published": "2026-11-05T23:40:01+05:30"
+    },
+    {
+      "title": "NPCI says MDR charge has been imposed to save the UPI ecosystem from turning ouroboric",
+      "url": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
+      "published": "2026-11-05T23:26:35+05:30"
+    },
+    {
+      "title": "CBG blending at 1.7% in H1; pipeline connectivity key to achieving 3% target",
+      "url": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
+      "published": "2026-11-05T23:12:17+05:30"
+    },
+    {
+      "title": "Repeat gold borrowing rises among low-risk customers, repayment stress persists: CIBIL",
+      "url": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+      "published": "2026-11-05T22:57:44+05:30"
+    },
+    {
+      "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
+      "url": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+      "published": "2026-11-05T22:44:46+05:30"
+    },
+    {
+      "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+      "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+      "published": "2026-11-06T02:04:58+05:30"
+    },
+    {
+      "title": "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
+      "url": "https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
+      "published": "2026-11-06T01:52:46+05:30"
+    },
+    {
+      "title": "Danger in the sewer: On India’s sewer cleaning deaths",
+      "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
+      "published": "2026-11-06T01:36:26+05:30"
+    }
+  ]
+}
