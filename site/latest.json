@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-11-06",
-  "generated_at": "2026-11-05T20:54:40.326499+00:00",
+  "generated_at": "2026-11-05T22:11:44.126879+00:00",
   "model": "gemini-3.5-flash-lite",
   "status": "ready",
   "sets": [
@@ -215,6 +215,375 @@
         },
         {
           "prompt": {
+            "en": "During the festive season crackdown by the Maharashtra Food and Drug Administration (FDA), how many food establishments were inspected across the state?",
+            "hi": "महाराष्ट्र खाद्य एवं औषधि प्रशासन (एफडीए) द्वारा त्योहारी सीजन के दौरान राज्य भर में कितने खाद्य प्रतिष्ठानों का निरीक्षण किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "4,603 establishments",
+                "hi": "4,603 प्रतिष्ठान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "25 establishments",
+                "hi": "25 प्रतिष्ठान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "12,450 establishments",
+                "hi": "12,450 प्रतिष्ठान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "9,667 establishments",
+                "hi": "9,667 प्रतिष्ठान"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The FDA press note explicitly states that officials inspected 9,667 food establishments across Maharashtra during the festive season crackdown, leading to improvement notices and licence cancellation actions.\nSource: https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece",
+            "hi": "एफडीए प्रेस नोट में स्पष्ट रूप से कहा गया है कि अधिकारियों ने त्योहारी सीजन की कार्रवाई के दौरान पूरे महाराष्ट्र में 9,667 खाद्य प्रतिष्ठानों का निरीक्षण किया, जिसके कारण सुधार नोटिस और लाइसेंस रद्द करने की कार्रवाई की गई।\nस्रोत: https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-13"
+        },
+        {
+          "prompt": {
+            "en": "What specific action did the Maharashtra FDA urge citizens to take regarding suspicious medical products and drugs?",
+            "hi": "महाराष्ट्र एफडीए ने नागरिकों से संदिग्ध चिकित्सा उत्पादों और दवाओं के संबंध में क्या विशिष्ट कार्रवाई करने का आग्रह किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To boycott retail pharmacies found violating pricing norms",
+                "hi": "मूल्य निर्धारण मानदंडों का उल्लंघन करने वाली खुदरा फार्मेसियों का बहिष्कार करें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To independently test cosmetics samples at accredited private laboratories",
+                "hi": "मान्यता प्राप्त निजी प्रयोगशालाओं में सौंदर्य प्रसाधनों के नमूनों का स्वतंत्र रूप से परीक्षण करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To report instances of illegal drug manufacturing or sales, and suspected substandard goods, to the commissioner's or district office",
+                "hi": "अवैध दवा निर्माण या बिक्री और संदिग्ध घटिया सामान की घटनाओं की रिपोर्ट आयुक्त या जिला कार्यालय को करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To surrender all imported medical devices for mandatory quality recertification",
+                "hi": "अनिवार्य गुणवत्ता पुनर्प्रमाणन के लिए सभी आयातित चिकित्सा उपकरणों को सरेंडर करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The FDA actively urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices, and cosmetics, to the commissioner's office or nearest district office.\nSource: https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+            "hi": "एफडीए ने सक्रिय रूप से नागरिकों से अवैध दवा निर्माण या बिक्री, साथ ही संदिग्ध घटिया दवाओं, चिकित्सा उपकरणों और सौंदर्य प्रसाधनों की घटनाओं की रिपोर्ट आयुक्त कार्यालय या निकटतम जिला कार्यालय को करने का आग्रह किया।\nस्रोत: https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-14"
+        },
+        {
+          "prompt": {
+            "en": "In the aftermath of which natural disaster did Nepali leaders express gratitude for India's swift humanitarian and technical assistance during Foreign Secretary Vikram Misri's visit?",
+            "hi": "विदेश सचिव विक्रम मिस्री की यात्रा के दौरान किस प्राकृतिक आपदा के बाद नेपाली नेताओं ने भारत की त्वरित मानवीय और तकनीकी सहायता के लिए आभार व्यक्त किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Bhotekoshi floods",
+                "hi": "भोटेकोशी में बाढ़ आती है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Karnali basin flash floods",
+                "hi": "करनाली बेसिन में अचानक बाढ़ आ गई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Koshi river embankment breach",
+                "hi": "कोशी नदी का तटबंध टूटा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Trishuli landslide disaster",
+                "hi": "त्रिशूली भूस्खलन आपदा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The joint press release highlighted that Nepali leaders expressed gratitude for India's swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods.\nSource: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+            "hi": "संयुक्त प्रेस विज्ञप्ति में इस बात पर प्रकाश डाला गया कि नेपाली नेताओं ने भोटेकोशी बाढ़ के बाद भारत की त्वरित और पर्याप्त मानवीय और तकनीकी सहायता के लिए आभार व्यक्त किया।\nस्रोत: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-15"
+        },
+        {
+          "prompt": {
+            "en": "What specific Air Quality Index (AQI) reading was recorded for Delhi on Wednesday morning as firework restrictions entered force?",
+            "hi": "आतिशबाजी पर प्रतिबंध लागू होते ही बुधवार की सुबह दिल्ली के लिए कौन सी विशिष्ट वायु गुणवत्ता सूचकांक (एक्यूआई) रीडिंग दर्ज की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "377",
+                "hi": "377"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "285",
+                "hi": "285"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "412",
+                "hi": "412"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "450",
+                "hi": "450"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The report notes that on Wednesday morning, Delhi's air quality index reading stood at 377, placing it firmly in the 'very poor' category.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+            "hi": "रिपोर्ट में कहा गया है कि बुधवार की सुबह, दिल्ली की वायु गुणवत्ता सूचकांक रीडिंग 377 थी, जो इसे 'बहुत खराब' श्रेणी में रखती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-16"
+        },
+        {
+          "prompt": {
+            "en": "Following the commutation of sentences for all state death row inmates by the California governor, what notable distinction did California hold historically in the US?",
+            "hi": "कैलिफ़ोर्निया के गवर्नर द्वारा राज्य के सभी मौत की सज़ा वाले कैदियों की सज़ा कम करने के बाद, कैलिफ़ोर्निया ने ऐतिहासिक रूप से अमेरिका में कौन सा उल्लेखनीय गौरव हासिल किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It had the highest rate of exonerations for wrongful convictions",
+                "hi": "इसमें ग़लत दोषसिद्धि के लिए दोषमुक्ति की दर सबसे अधिक थी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It recorded the shortest average duration of appeals before execution",
+                "hi": "इसने निष्पादन से पहले अपील की सबसे कम औसत अवधि दर्ज की"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It was the first state to completely abolish capital punishment by statute",
+                "hi": "यह क़ानून द्वारा मृत्युदंड को पूरी तरह समाप्त करने वाला पहला राज्य था"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It had the largest population of people on death row in the US",
+                "hi": "अमेरिका में मृत्युदंड की सजा पाए लोगों की सबसे बड़ी आबादी यहीं थी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source notes that California has historically had the largest population of people on death row in the United States prior to the governor commuting their sentences.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि गवर्नर द्वारा उनकी सज़ा कम करने से पहले कैलिफोर्निया में ऐतिहासिक रूप से संयुक्त राज्य अमेरिका में मौत की सजा पाए लोगों की सबसे बड़ी आबादी थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-17"
+        },
+        {
+          "prompt": {
+            "en": "During the nationwide protests across France driven by cost-of-living strikes, what estimate did the interior ministry provide regarding the number of participants?",
+            "hi": "पूरे फ़्रांस में महंगाई की मार झेलने वाली हड़तालों के कारण राष्ट्रव्यापी विरोध प्रदर्शन के दौरान, आंतरिक मंत्रालय ने प्रतिभागियों की संख्या के संबंध में क्या अनुमान प्रदान किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "600,000 people",
+                "hi": "600,000 लोग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "320,000 people",
+                "hi": "320,000 लोग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "150,000 people",
+                "hi": "150,000 लोग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "1.2 million people",
+                "hi": "1.2 मिलियन लोग"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The French interior ministry estimated that 600,000 people joined the widespread protests, whereas union organizers claimed the numbers were considerably higher.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+            "hi": "फ्रांसीसी आंतरिक मंत्रालय का अनुमान है कि 600,000 लोग व्यापक विरोध प्रदर्शन में शामिल हुए, जबकि संघ आयोजकों ने दावा किया कि संख्या काफी अधिक थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-18"
+        },
+        {
+          "prompt": {
+            "en": "What immediate political and financial developments preceded the resignation of Paraguay President Santiago Peña?",
+            "hi": "पराग्वे के राष्ट्रपति सैंटियागो पेना के इस्तीफे से पहले कौन से तात्कालिक राजनीतिक और वित्तीय घटनाक्रम हुए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A bank collapse and a vote in the lower house of congress in favour of pursuing an impeachment trial",
+                "hi": "एक बैंक का पतन और कांग्रेस के निचले सदन में महाभियोग मुकदमा चलाने के पक्ष में मतदान हुआ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A sovereign debt default and a nationwide general strike by transport workers",
+                "hi": "एक संप्रभु ऋण चूक और परिवहन कर्मचारियों द्वारा एक राष्ट्रव्यापी आम हड़ताल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A military coup d'état and the suspension of the national constitution",
+                "hi": "एक सैन्य तख्तापलट और राष्ट्रीय संविधान का निलंबन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Widespread judicial corruption scandals and the resignation of supreme court justices",
+                "hi": "व्यापक न्यायिक भ्रष्टाचार घोटाले और सर्वोच्च न्यायालय के न्यायाधीशों का इस्तीफा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "President Santiago Peña's resignation occurred directly following a bank collapse and the lower house of congress voting in favor of pursuing an impeachment trial against him.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+            "hi": "राष्ट्रपति सैंटियागो पेना का इस्तीफा सीधे एक बैंक के पतन के बाद हुआ और कांग्रेस के निचले सदन ने उनके खिलाफ महाभियोग मुकदमा चलाने के पक्ष में मतदान किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-19"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-06T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-06.json",
+      "questions": [
+        {
+          "prompt": {
             "en": "By what percentage did Bharti Airtel's India revenue grow in the September quarter, reaching ₹42,308 crore?",
             "hi": "सितंबर तिमाही में भारती एयरटेल का भारत राजस्व कितने प्रतिशत बढ़कर ₹42,308 करोड़ तक पहुंच गया?"
           },
@@ -257,7 +626,7 @@
             "en": "Bharti Airtel's India revenue grew by 9.4% to ₹42,308 crore during the September quarter.\nSource: https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
             "hi": "सितंबर तिमाही के दौरान भारती एयरटेल का भारत का राजस्व 9.4% बढ़कर ₹42,308 करोड़ हो गया।\nस्रोत: https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Economy, Business & Finance",
           "source_label": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
           "status": "ready",
           "warnings": [],
@@ -308,7 +677,7 @@
             "en": "Mehli Mistry questioned Noel Tata's citizenship and tax residency status by pointing out that he is an Irish citizen and a holder of a UAE Golden Visa.\nSource: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
             "hi": "मेहली मिस्त्री ने नोएल टाटा की नागरिकता और कर निवास स्थिति पर सवाल उठाते हुए कहा कि वह एक आयरिश नागरिक हैं और यूएई गोल्डन वीज़ा के धारक हैं।\nस्रोत: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Economy, Business & Finance",
           "source_label": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
           "status": "ready",
           "warnings": [],
@@ -359,7 +728,7 @@
             "en": "Amid U.S. opposition, OpenAI committed to bearing electricity and grid infrastructure costs, publishing water and power consumption, and working with unions on local hiring and training.\nSource: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
             "hi": "अमेरिकी विरोध के बीच, ओपनएआई ने बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करने, पानी और बिजली की खपत को प्रकाशित करने और स्थानीय भर्ती और प्रशिक्षण पर यूनियनों के साथ काम करने के लिए प्रतिबद्ध किया।\nस्रोत: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Economy, Business & Finance",
           "source_label": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
           "status": "ready",
           "warnings": [],
@@ -410,7 +779,7 @@
             "en": "NPCI informed the Supreme Court that zero MDR is no longer sustainable because the magnitude of growth places correspondingly greater demands on the security, resilience, and infrastructural capacity of the system.\nSource: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
             "hi": "एनपीसीआई ने सुप्रीम कोर्ट को सूचित किया कि शून्य एमडीआर अब टिकाऊ नहीं है क्योंकि विकास की भयावहता प्रणाली की सुरक्षा, लचीलेपन और ढांचागत क्षमता पर अधिक मांग डालती है।\nस्रोत: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Economy, Business & Finance",
           "source_label": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
           "status": "ready",
           "warnings": [],
@@ -461,7 +830,7 @@
             "en": "India has a target of blending 3% CBG into D-PNG and CNG by the end of the current fiscal year, followed by 4% in 2027-28 and 5% in the subsequent year.\nSource: https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
             "hi": "भारत का चालू वित्त वर्ष के अंत तक डी-पीएनजी और सीएनजी में 3% सीबीजी मिश्रण करने का लक्ष्य है, इसके बाद 2027-28 में 4% और उसके बाद के वर्ष में 5% मिश्रण करने का लक्ष्य है।\nस्रोत: https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Economy, Business & Finance",
           "source_label": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
           "status": "ready",
           "warnings": [],
@@ -512,13 +881,229 @@
             "en": "CIBIL reported that borrowers who had missed more than one payment in the preceding six months were three times as likely to become delinquent.\nSource: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
             "hi": "सीआईबीआईएल ने बताया कि जो उधारकर्ता पिछले छह महीनों में एक से अधिक भुगतान चूक गए थे, उनके अपराधी बनने की संभावना तीन गुना थी।\nस्रोत: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Economy, Business & Finance",
           "source_label": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
           "id": "2026-11-06-10"
         },
+        {
+          "prompt": {
+            "en": "What specific citizenship and residency status regarding Noel Tata was highlighted by Mehli Mistry?",
+            "hi": "मेहली मिस्त्री द्वारा नोएल टाटा के संबंध में किस विशिष्ट नागरिकता और निवास स्थिति पर प्रकाश डाला गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He is a British citizen and a holder of a Singapore Permanent Residency",
+                "hi": "वह एक ब्रिटिश नागरिक हैं और सिंगापुर स्थायी निवास के धारक हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He is a Swiss citizen and a holder of an American Green Card",
+                "hi": "वह स्विस नागरिक हैं और अमेरिकी ग्रीन कार्ड धारक हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He is an Irish citizen and a holder of a UAE Golden Visa",
+                "hi": "वह एक आयरिश नागरिक है और यूएई गोल्डन वीज़ा का धारक है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He is a French citizen and a holder of a Mauritian Tax Residency Certificate",
+                "hi": "वह एक फ्रांसीसी नागरिक है और मॉरीशस टैक्स रेजीडेंसी प्रमाणपत्र का धारक है"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Mehli Mistry questioned Noel Tata's tax residency status by pointing out that Noel Tata is an Irish citizen and a holder of a UAE Golden Visa.\nSource: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
+            "hi": "मेहली मिस्त्री ने नोएल टाटा की कर निवास स्थिति पर सवाल उठाते हुए कहा कि नोएल टाटा एक आयरिश नागरिक हैं और यूएई गोल्डन वीज़ा के धारक हैं।\nस्रोत: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-20"
+        },
+        {
+          "prompt": {
+            "en": "In response to growing U.S. opposition to data-centre expansion, what key commitments did OpenAI make regarding infrastructure and public disclosures?",
+            "hi": "डेटा-सेंटर विस्तार पर बढ़ते अमेरिकी विरोध के जवाब में, ओपनएआई ने बुनियादी ढांचे और सार्वजनिक प्रकटीकरण के संबंध में क्या प्रमुख प्रतिबद्धताएं कीं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To restrict data-centre locations exclusively to federally owned lands",
+                "hi": "डेटा-सेंटर स्थानों को विशेष रूप से संघीय स्वामित्व वाली भूमि तक सीमित करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To bear electricity and grid infrastructure costs, publish water and power consumption, and collaborate with unions",
+                "hi": "बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करना, पानी और बिजली की खपत को प्रकाशित करना और यूनियनों के साथ सहयोग करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To transition all computing facilities entirely to nuclear energy by 2028",
+                "hi": "2028 तक सभी कंप्यूटिंग सुविधाओं को पूरी तरह से परमाणु ऊर्जा में परिवर्तित करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To outsource hardware manufacturing entirely to international partner consortia",
+                "hi": "हार्डवेयर विनिर्माण को पूरी तरह से अंतर्राष्ट्रीय भागीदार कंसोर्टिया को आउटसोर्स करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Amid opposition, OpenAI committed to bearing electricity and grid infrastructure costs, publishing water and power consumption data, working with unions on local hiring and training, and enhancing developer accountability.\nSource: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
+            "hi": "विरोध के बीच, ओपनएआई ने बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करने, पानी और बिजली खपत डेटा प्रकाशित करने, स्थानीय भर्ती और प्रशिक्षण पर यूनियनों के साथ काम करने और डेवलपर जवाबदेही बढ़ाने के लिए प्रतिबद्धता जताई।\nस्रोत: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-21"
+        },
+        {
+          "prompt": {
+            "en": "According to the National Payments Corporation of India's (NPCI) submission to the Supreme Court, why has the imposition of the MDR charge become necessary for the UPI ecosystem?",
+            "hi": "नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया (एनपीसीआई) की सुप्रीम कोर्ट में दी गई दलील के मुताबिक, यूपीआई इकोसिस्टम के लिए एमडीआर चार्ज लगाना क्यों जरूरी हो गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To fund aggressive international marketing campaigns across foreign markets",
+                "hi": "विदेशी बाजारों में आक्रामक अंतर्राष्ट्रीय विपणन अभियानों को वित्तपोषित करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To prevent the system from turning ouroboric as zero MDR is no longer sustainable against escalating security and infrastructural demands",
+                "hi": "सिस्टम को ऑरोबोरिक बनने से रोकने के लिए, क्योंकि बढ़ती सुरक्षा और ढांचागत मांगों के सामने शून्य एमडीआर अब टिकाऊ नहीं है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To subsidize smartphone manufacturing for rural merchant adoption",
+                "hi": "ग्रामीण व्यापारियों के लिए स्मार्टफोन विनिर्माण को सब्सिडी देना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To compensate commercial banks for eliminating all minimum balance penalties",
+                "hi": "सभी न्यूनतम शेष दंडों को समाप्त करने के लिए वाणिज्यिक बैंकों को मुआवजा देना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "NPCI told the Supreme Court that zero MDR is no longer sustainable because the sheer magnitude of UPI growth places immense demands on the security, resilience, and infrastructural capacity of the system, preventing it from turning ouroboric.\nSource: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
+            "hi": "एनपीसीआई ने सुप्रीम कोर्ट को बताया कि शून्य एमडीआर अब टिकाऊ नहीं है क्योंकि यूपीआई वृद्धि का विशाल परिमाण सिस्टम की सुरक्षा, लचीलापन और ढांचागत क्षमता पर भारी मांग डालता है, जो इसे ऑरोबोरिक बनने से रोकता है।\nस्रोत: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-22"
+        },
+        {
+          "prompt": {
+            "en": "According to CIBIL data regarding repeat gold borrowing among low-risk customers, what repayment behaviour significantly elevated the probability of a borrower becoming delinquent?",
+            "hi": "कम जोखिम वाले ग्राहकों के बीच बार-बार सोना उधार लेने के संबंध में CIBIL डेटा के अनुसार, किस पुनर्भुगतान व्यवहार ने उधारकर्ता के अपराधी बनने की संभावना को काफी बढ़ा दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Switching lending institutions twice within a single calendar year",
+                "hi": "एक ही कैलेंडर वर्ष के भीतर ऋण देने वाली संस्थाओं को दो बार बदलना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Consistently requesting loan tenure extensions every quarter",
+                "hi": "हर तिमाही में लगातार ऋण अवधि बढ़ाने का अनुरोध करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pledging lower-purity gold ornaments as collateral security",
+                "hi": "संपार्श्विक सुरक्षा के रूप में कम शुद्धता वाले सोने के आभूषण गिरवी रखना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Missing more than one payment in the preceding six months",
+                "hi": "पिछले छह महीनों में एक से अधिक भुगतान न होना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "CIBIL data highlighted that borrowers who had missed more than one payment in the preceding six months were three times as likely to become delinquent on their gold loans.\nSource: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+            "hi": "CIBIL डेटा ने इस बात पर प्रकाश डाला कि जो उधारकर्ता पिछले छह महीनों में एक से अधिक भुगतान चूक गए थे, उनके स्वर्ण ऋण पर बकाया होने की संभावना तीन गुना थी।\nस्रोत: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-23"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-06T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-06.json",
+      "questions": [
         {
           "prompt": {
             "en": "During Foreign Secretary Misri's visit to Nepal, what specific assistance provided by India did Nepali leaders express gratitude for?",
@@ -563,7 +1148,7 @@
             "en": "Nepali leaders expressed gratitude for India's swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods, as noted in the joint press release.\nSource: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
             "hi": "जैसा कि संयुक्त प्रेस विज्ञप्ति में कहा गया है, नेपाली नेताओं ने भोटेकोशी बाढ़ के बाद भारत की त्वरित और पर्याप्त मानवीय और तकनीकी सहायता के लिए आभार व्यक्त किया।\nस्रोत: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
           "status": "ready",
           "warnings": [],
@@ -614,20 +1199,428 @@
             "en": "ISRO is conducting in-orbit testing for the satellite payload as part of developing NavIC, an indigenous GPS alternative.\nSource: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
             "hi": "इसरो एक स्वदेशी जीपीएस विकल्प, NavIC विकसित करने के हिस्से के रूप में उपग्रह पेलोड के लिए कक्षा में परीक्षण कर रहा है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
           },
-          "section": "National Affairs, Policy & Governance",
+          "section": "Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
           "id": "2026-11-06-12"
+        },
+        {
+          "prompt": {
+            "en": "Following successful orbit manoeuvres and a cumulative LAM engine burn by ISRO's NVS-03 satellite, which orbit and inclination did it attain?",
+            "hi": "इसरो के एनवीएस-03 उपग्रह द्वारा सफल कक्षा संचालन और एक संचयी एलएएम इंजन जलाने के बाद, इसने कौन सी कक्षा और झुकाव प्राप्त किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Low Earth Orbit at an inclination of 45.5 degrees",
+                "hi": "45.5 डिग्री के झुकाव पर निम्न पृथ्वी कक्षा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Geo Synchronous Orbit at an inclination of 29.98 degrees",
+                "hi": "29.98 डिग्री के झुकाव पर जियो सिंक्रोनस ऑर्बिट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sun-Synchronous Polar Orbit at an inclination of 98.2 degrees",
+                "hi": "98.2 डिग्री के झुकाव पर सूर्य-तुल्यकालिक ध्रुवीय कक्षा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Geostationary Transfer Orbit at an inclination of 0.0 degrees",
+                "hi": "0.0 डिग्री के झुकाव पर भूस्थैतिक स्थानांतरण कक्षा"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "ISRO confirmed that after four orbit manoeuvres and a cumulative LAM engine burn of 6164 seconds, the NVS-03 satellite successfully reached the Geo Synchronous Orbit at an inclination of 29.980.\nSource: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+            "hi": "इसरो ने पुष्टि की कि चार कक्षा प्रक्रियाओं और 6164 सेकंड के संचयी एलएएम इंजन के जलने के बाद, एनवीएस-03 उपग्रह 29.980 के झुकाव पर सफलतापूर्वक जियो सिंक्रोनस कक्षा में पहुंच गया।\nस्रोत: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-24"
+        },
+        {
+          "prompt": {
+            "en": "From what percentage to what percentage were interest rates hiked in the recent central bank monetary policy adjustment?",
+            "hi": "हाल ही में केंद्रीय बैंक मौद्रिक नीति समायोजन में ब्याज दरों में कितने प्रतिशत से कितने प्रतिशत तक की बढ़ोतरी की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "From 3.00% to 3.25%",
+                "hi": "3.00% से 3.25% तक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "From 3.50% to 3.75%",
+                "hi": "3.50% से 3.75% तक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "From 4.00% to 4.50%",
+                "hi": "4.00% से 4.50% तक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "From 3.75% to 4%",
+                "hi": "3.75% से 4% तक"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Central bank actions resulted in interest rates being hiked from 3.75% to 4% in the first increase in over three years.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+            "hi": "केंद्रीय बैंक की कार्रवाइयों के परिणामस्वरूप तीन वर्षों में पहली वृद्धि में ब्याज दरें 3.75% से बढ़कर 4% हो गईं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-25"
+        },
+        {
+          "prompt": {
+            "en": "Following the US midterms, what specific regulatory concerns caused major tech stocks and the AI industry to plunge?",
+            "hi": "अमेरिकी मध्यावधि के बाद, किन विशिष्ट नियामक चिंताओं के कारण प्रमुख तकनीकी शेयरों और एआई उद्योग में गिरावट आई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Proposals for a complete federal moratorium on semiconductor exports",
+                "hi": "सेमीकंडक्टर निर्यात पर पूर्ण संघीय रोक का प्रस्ताव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Possible tougher scrutiny of data centre construction and the AI industry",
+                "hi": "डेटा सेंटर निर्माण और एआई उद्योग की कड़ी जांच संभव"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mandatory open-sourcing of all proprietary neural network weights",
+                "hi": "सभी मालिकाना तंत्रिका नेटवर्क भार की अनिवार्य ओपन-सोर्सिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Stringent carbon-tax penalties on enterprise cloud computing providers",
+                "hi": "एंटरप्राइज़ क्लाउड कंप्यूटिंग प्रदाताओं पर कठोर कार्बन-कर दंड"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Major tech stocks plunged as markets reacted to the US midterms and the prospect of possible tougher scrutiny of data centre construction and the artificial intelligence industry.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+            "hi": "अमेरिकी मध्यावधि और डेटा सेंटर निर्माण और कृत्रिम बुद्धिमत्ता उद्योग की संभावित कड़ी जांच की संभावना पर बाजारों की प्रतिक्रिया के कारण प्रमुख तकनीकी शेयरों में गिरावट आई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-26"
+        },
+        {
+          "prompt": {
+            "en": "Under proposed regulatory consultations targeting dangerous e-bike riders, what specific punitive measure is being considered for drunk or reckless riders?",
+            "hi": "खतरनाक ई-बाइक सवारों को लक्षित करने वाले प्रस्तावित नियामक परामर्श के तहत, नशे में या लापरवाह सवारों के लिए किस विशिष्ट दंडात्मक उपाय पर विचार किया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "On-the-spot fines and other clampdown measures",
+                "hi": "मौके पर ही जुर्माना और अन्य सख्त उपाय"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mandatory confiscation and destruction of the electric bicycle",
+                "hi": "इलेक्ट्रिक साइकिल को अनिवार्य रूप से ज़ब्त करना और नष्ट करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Compulsory community service in municipal traffic management",
+                "hi": "नगरपालिका यातायात प्रबंधन में अनिवार्य सामुदायिक सेवा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Permanent revocation of driver's licenses for all motor vehicles",
+                "hi": "सभी मोटर वाहनों के लिए ड्राइवर के लाइसेंस को स्थायी रूप से रद्द करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "A new consultation will consider on-the-spot fines and other enforcement mechanisms to clamp down on drunk and dangerous e-bike riders.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+            "hi": "एक नया परामर्श नशे में और खतरनाक ई-बाइक सवारों पर नकेल कसने के लिए मौके पर ही जुर्माना और अन्य प्रवर्तन तंत्रों पर विचार करेगा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-27"
+        },
+        {
+          "prompt": {
+            "en": "During a severe pollution incident investigated in the Inler river, which specific fish species suffered a 'major fish kill'?",
+            "hi": "इनलर नदी में जांच की गई एक गंभीर प्रदूषण घटना के दौरान, किस विशिष्ट मछली प्रजाति को 'प्रमुख मछली की मौत' का सामना करना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Brown and migratory sea trout",
+                "hi": "भूरा और प्रवासी समुद्री ट्राउट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Atlantic salmon and freshwater eel",
+                "hi": "अटलांटिक सैल्मन और मीठे पानी की मछली"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rainbow trout and Chinook salmon",
+                "hi": "रेनबो ट्राउट और चिनूक सैल्मन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "European perch and Northern pike",
+                "hi": "यूरोपीय पर्च और उत्तरी पाइक"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The pollution incident in the Inler river caused the tragic death of brown and migratory sea trout, triggering an official investigation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+            "hi": "इनलर नदी में प्रदूषण की घटना के कारण भूरे और प्रवासी समुद्री ट्राउट की दुखद मौत हुई, जिससे एक आधिकारिक जांच शुरू हो गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-28"
+        },
+        {
+          "prompt": {
+            "en": "What conclusion did auditors reach regarding the Welsh public sector's ability to meet its net zero climate plans by 2030?",
+            "hi": "वेल्श सार्वजनिक क्षेत्र की 2030 तक अपनी शुद्ध शून्य जलवायु योजनाओं को पूरा करने की क्षमता के संबंध में लेखा परीक्षक किस निष्कर्ष पर पहुंचे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are highly unlikely to meet net zero plans due to a lack of progress by organizations.",
+                "hi": "संगठनों द्वारा प्रगति की कमी के कारण उनके नेट ज़ीरो योजनाओं को पूरा करने की अत्यधिक संभावना नहीं है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They are fully on track to exceed all interim carbon reduction milestones.",
+                "hi": "वे सभी अंतरिम कार्बन कटौती मील के पत्थर को पार करने के लिए पूरी तरह से ट्रैक पर हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have successfully achieved carbon neutrality three years ahead of schedule.",
+                "hi": "उन्होंने तय समय से तीन साल पहले सफलतापूर्वक कार्बन तटस्थता हासिल कर ली है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They require a 50% increase in central government fiscal subsidies to comply.",
+                "hi": "अनुपालन के लिए उन्हें केंद्र सरकार की राजकोषीय सब्सिडी में 50% की वृद्धि की आवश्यकता है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Watchdog auditors concluded that the Welsh public sector is unlikely to meet its net zero plans by 2030, criticizing the severe lack of progress made by organizations in tackling climate change.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+            "hi": "वॉचडॉग ऑडिटर्स ने जलवायु परिवर्तन से निपटने में संगठनों द्वारा की गई प्रगति की गंभीर कमी की आलोचना करते हुए निष्कर्ष निकाला कि वेल्श सार्वजनिक क्षेत्र 2030 तक अपनी शुद्ध शून्य योजनाओं को पूरा करने की संभावना नहीं है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-29"
+        },
+        {
+          "prompt": {
+            "en": "How did the UK government characterize the hoax bomb threats that targeted European airlines and airports for the second time in a week?",
+            "hi": "ब्रिटेन सरकार ने एक सप्ताह में दूसरी बार यूरोपीय एयरलाइनों और हवाई अड्डों को निशाना बनाने वाली फर्जी बम धमकियों को कैसे चित्रित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A malicious hoax threat affecting multiple flights",
+                "hi": "कई उड़ानों को प्रभावित करने वाला एक दुर्भावनापूर्ण धोखा खतरा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A state-sponsored cyber sabotage operation",
+                "hi": "एक राज्य-प्रायोजित साइबर तोड़फोड़ अभियान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An automated botnet disruption campaign",
+                "hi": "एक स्वचालित बॉटनेट व्यवधान अभियान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A coordinated terrorist extortion attempt",
+                "hi": "एक समन्वित आतंकवादी जबरन वसूली का प्रयास"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The UK government explicitly categorized the bomb threats affecting at least 21 flights across Europe as a 'malicious hoax threat'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+            "hi": "यूके सरकार ने स्पष्ट रूप से पूरे यूरोप में कम से कम 21 उड़ानों को प्रभावित करने वाले बम के खतरों को 'दुर्भावनापूर्ण धोखाधड़ी खतरे' के रूप में वर्गीकृत किया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-30"
+        },
+        {
+          "prompt": {
+            "en": "Following the series of fatal shootings in western Turkey that resulted in eight deaths, where were the victims discovered according to local reports?",
+            "hi": "पश्चिमी तुर्की में घातक गोलीबारी की श्रृंखला के बाद जिसमें आठ लोगों की मौत हो गई, स्थानीय रिपोर्टों के अनुसार पीड़ितों को कहाँ खोजा गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "In several locations distributed across three separate vehicles",
+                "hi": "कई स्थानों पर तीन अलग-अलग वाहनों में वितरित किया गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Inside a municipal community center and a nearby coffee house",
+                "hi": "एक नगरपालिका सामुदायिक केंद्र और पास के एक कॉफ़ी हाउस के अंदर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Locked inside an abandoned commercial warehouse",
+                "hi": "एक परित्यक्त वाणिज्यिक गोदाम के अंदर बंद"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Scattered along a rural mountain highway checkpoint",
+                "hi": "एक ग्रामीण पहाड़ी राजमार्ग चौकी पर बिखरा हुआ"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Local reports confirmed that the victims of the western Turkey shootings were found in several locations across three separate vehicles.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+            "hi": "स्थानीय रिपोर्टों ने पुष्टि की है कि पश्चिमी तुर्की गोलीबारी के पीड़ित तीन अलग-अलग वाहनों में कई स्थानों पर पाए गए थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-06-31"
         }
       ],
       "quarantined": [],
       "warnings": [
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
-      "release_wave": 1,
-      "release_at": "2026-11-06T06:30:00+05:30"
+      "release_wave": 3,
+      "release_at": "2026-11-06T18:00:00+05:30"
     }
   ],
   "sources": [
@@ -677,6 +1670,66 @@
       "published": "2026-11-05T22:44:46+05:30"
     },
     {
+      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+      "published": "2026-11-05T11:04:06+05:30"
+    },
+    {
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T07:39:38+00:00"
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:09:55+00:00"
+    },
+    {
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:57:57+00:00"
+    },
+    {
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T15:27:09+00:00"
+    },
+    {
+      "title": "Investigation into 'major fish kill' after pollution incident",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T14:51:45+00:00"
+    },
+    {
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T08:57:20+00:00"
+    },
+    {
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:39:48+00:00"
+    },
+    {
+      "title": "California governor commutes death sentences for all 548 people on death row",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T20:12:03+00:00"
+    },
+    {
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:59:53+00:00"
+    },
+    {
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:40:40+00:00"
+    },
+    {
+      "title": "Eight killed in series of shootings in western Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T19:32:54+00:00"
+    },
+    {
       "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
       "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
       "published": "2026-11-06T02:04:58+05:30"
@@ -690,6 +1743,16 @@
       "title": "Danger in the sewer: On India’s sewer cleaning deaths",
       "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
       "published": "2026-11-06T01:36:26+05:30"
+    },
+    {
+      "title": "Festive season crackdown: Maharashtra FDA seizes food stock worth ₹63.45 crore",
+      "url": "https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece",
+      "published": "2026-11-06T02:11:59+05:30"
+    },
+    {
+      "title": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+      "published": "2026-11-06T02:08:49+05:30"
     }
   ]
 }
