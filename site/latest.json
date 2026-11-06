@@ -1,574 +1,624 @@
 {
   "schema_version": 2,
-  "date": "2026-11-06",
-  "generated_at": "2026-11-05T22:11:44.126879+00:00",
-  "model": "gemini-3.5-flash-lite",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-06T19:42:51.340432+00:00",
   "status": "ready",
   "sets": [
     {
       "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-11-06.json",
+      "source_filename": "daily-2026-11-07.json",
       "questions": [
         {
           "prompt": {
-            "en": "According to Jharkhand Chief Minister Hemant Soren, what factors are essential for the holistic development of tribal society?",
-            "hi": "झारखंड के मुख्यमंत्री हेमन्त सोरेन के अनुसार आदिवासी समाज के समग्र विकास के लिए कौन से कारक आवश्यक हैं?"
+            "en": "What is the primary objective of Telangana's ₹20,000-crore project pipeline and policy measures for its cities?",
+            "hi": "तेलंगाना की ₹20,000 करोड़ की परियोजना पाइपलाइन और उसके शहरों के लिए नीतिगत उपायों का प्राथमिक उद्देश्य क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Collective participation and mutual cooperation",
-                "hi": "सामूहिक भागीदारी एवं आपसी सहयोग"
+                "en": "To enhance digital monitoring of water supply for agricultural purposes.",
+                "hi": "कृषि उद्देश्यों के लिए जल आपूर्ति की डिजिटल निगरानी को बढ़ाना।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Heavy industrialization and urban migration",
-                "hi": "भारी औद्योगीकरण और शहरी प्रवासन"
+                "en": "To build climate resilience across urban local bodies against rising temperatures and erratic rainfall.",
+                "hi": "बढ़ते तापमान और अनियमित वर्षा के खिलाफ शहरी स्थानीय निकायों में जलवायु लचीलापन का निर्माण करना।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Exclusive reliance on central grants and subsidies",
-                "hi": "केंद्रीय अनुदान और सब्सिडी पर विशेष निर्भरता"
+                "en": "To improve waste reclamation and sewage treatment in rural areas.",
+                "hi": "ग्रामीण क्षेत्रों में अपशिष्ट पुनर्ग्रहण और सीवेज उपचार में सुधार करना।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Foreign direct investment in forest resources",
-                "hi": "वन संसाधनों में प्रत्यक्ष विदेशी निवेश"
+                "en": "To develop new infrastructure for tourism and economic growth in major cities.",
+                "hi": "प्रमुख शहरों में पर्यटन और आर्थिक विकास के लिए नए बुनियादी ढांचे का विकास करना।"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "Hemant Soren emphasized that collective participation and mutual cooperation are essential for the holistic development of the tribal society.\nSource: https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
-            "hi": "हेमंत सोरेन ने इस बात पर जोर दिया कि आदिवासी समाज के समग्र विकास के लिए सामूहिक भागीदारी और आपसी सहयोग जरूरी है.\nस्रोत: https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece"
+            "en": "The excerpt states that the plan 'seeks to build climate resilience across urban local bodies' and is designed 'to prepare its cities for rising temperatures and erratic rainfall', directly aligning with option (c).\nSource: https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
+            "hi": "अंश में कहा गया है कि योजना 'शहरी स्थानीय निकायों में जलवायु लचीलापन बनाने का प्रयास करती है' और इसे 'बढ़ते तापमान और अनियमित वर्षा के लिए अपने शहरों को तैयार करने के लिए' डिज़ाइन किया गया है, जो सीधे विकल्प (सी) के साथ संरेखित है।\nस्रोत: https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
+          "source_label": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-1"
+          "id": "2026-11-07-1"
         },
         {
           "prompt": {
-            "en": "What urgent mandate does editorial commentary emphasize regarding sewer cleaning in India?",
-            "hi": "संपादकीय टिप्पणी भारत में सीवर सफाई के संबंध में किस जरूरी आदेश पर जोर देती है?"
+            "en": "Which of the following components is NOT explicitly mentioned as part of Telangana's climate resilience plan for urban local bodies?",
+            "hi": "शहरी स्थानीय निकायों के लिए तेलंगाना की जलवायु लचीलापन योजना के हिस्से के रूप में निम्नलिखित में से किस घटक का स्पष्ट रूप से उल्लेख नहीं किया गया है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Provide better protective gear to sanitation workers",
-                "hi": "सफाई कर्मचारियों को बेहतर सुरक्षा उपकरण प्रदान करें"
+                "en": "Waste reclamation",
+                "hi": "अपशिष्ट पुनर्ग्रहण"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Increase the budgetary allocation for mechanized cleaning equipment",
-                "hi": "मशीनीकृत सफाई उपकरणों के लिए बजटीय आवंटन बढ़ाएँ"
+                "en": "Promotion of public transportation networks",
+                "hi": "सार्वजनिक परिवहन नेटवर्क को बढ़ावा देना"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Eliminate situations that lead to sewer cleaning deaths",
-                "hi": "उन स्थितियों को दूर करें जो सीवर सफाई में मौतों का कारण बनती हैं"
+                "en": "Digital monitoring of water supply",
+                "hi": "जल आपूर्ति की डिजिटल निगरानी"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Outsource sanitation work to private contractors",
-                "hi": "स्वच्छता का काम निजी ठेकेदारों को आउटसोर्स करें"
+                "en": "Sewage treatment",
+                "hi": "मलजल उपचार"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "The editorial clearly highlights that India must eliminate situations that lead to sewer cleaning deaths.\nSource: https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
-            "hi": "संपादकीय में स्पष्ट रूप से इस बात पर प्रकाश डाला गया है कि भारत को उन स्थितियों को खत्म करना होगा जो सीवर सफाई में मौतों का कारण बनती हैं।\nस्रोत: https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
+            "en": "The excerpt explicitly mentions 'waste reclamation, sewage treatment and digital monitoring of water supply' as components of the plan. Promotion of public transportation networks is not mentioned.\nSource: https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
+            "hi": "अंश में स्पष्ट रूप से योजना के घटकों के रूप में 'अपशिष्ट पुनर्ग्रहण, सीवेज उपचार और जल आपूर्ति की डिजिटल निगरानी' का उल्लेख है। सार्वजनिक परिवहन नेटवर्क को बढ़ावा देने का उल्लेख नहीं किया गया है।\nस्रोत: https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
+          "source_label": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-2"
+          "id": "2026-11-07-2"
         },
         {
           "prompt": {
-            "en": "During the review meeting of Bihar NDA leaders led by CM Samrat Choudhary, what allegations were leveled by the JD(U) against their alliance partner?",
-            "hi": "सीएम सम्राट चौधरी के नेतृत्व में बिहार एनडीए नेताओं की समीक्षा बैठक के दौरान जेडीयू ने अपने गठबंधन सहयोगी पर क्या आरोप लगाए?"
+            "en": "What specific action has the Governor of Karnataka initiated regarding the state's higher education institutions?",
+            "hi": "कर्नाटक के राज्यपाल ने राज्य के उच्च शिक्षा संस्थानों के संबंध में क्या विशिष्ट कार्रवाई शुरू की है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Withdrawing support from the coalition government",
-                "hi": "गठबंधन सरकार से समर्थन वापस लेना"
+                "en": "He has ordered a financial audit of all private universities.",
+                "hi": "उन्होंने सभी निजी विश्वविद्यालयों के वित्तीय ऑडिट का आदेश दिया है."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Embezzling funds allocated for local development",
-                "hi": "स्थानीय विकास के लिए आवंटित धन का गबन"
+                "en": "He has requested a status report on all public universities in Karnataka.",
+                "hi": "उन्होंने कर्नाटक के सभी सार्वजनिक विश्वविद्यालयों पर स्थिति रिपोर्ट का अनुरोध किया है।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Failing to cooperate and trying to sabotage their candidate",
-                "hi": "सहयोग करने में असफल होना और उनके उम्मीदवार को नुकसान पहुंचाने की कोशिश करना"
+                "en": "He has announced new appointments for Vice-Chancellors across all universities.",
+                "hi": "उन्होंने सभी विश्वविद्यालयों में कुलपतियों की नई नियुक्तियों की घोषणा की है।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Forming a secret alliance with the opposition party",
-                "hi": "विपक्षी पार्टी के साथ गुपकार गठबंधन बना रहे हैं"
+                "en": "He has proposed a new policy for student admissions in state universities.",
+                "hi": "उन्होंने राज्य विश्वविद्यालयों में छात्र प्रवेश के लिए एक नई नीति का प्रस्ताव दिया है।"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "Sources reported that JD(U) levelled charges against the alliance partner for failing to cooperate and also trying to sabotage their candidate during the council results review meeting.\nSource: https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
-            "hi": "सूत्रों ने बताया कि जेडी (यू) ने गठबंधन सहयोगी के खिलाफ सहयोग करने में विफल रहने और परिषद परिणाम समीक्षा बैठक के दौरान उनके उम्मीदवार को नुकसान पहुंचाने की कोशिश करने का आरोप लगाया।\nस्रोत: https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece"
+            "en": "The title clearly states, 'Governor asks for status report on all public universities in Karnataka', which directly supports option (b).\nSource: https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'राज्यपाल ने कर्नाटक के सभी सार्वजनिक विश्वविद्यालयों पर स्थिति रिपोर्ट मांगी', जो सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-3"
+          "id": "2026-11-07-3"
         },
         {
           "prompt": {
-            "en": "What specific accusation have Odisha political parties made against Andhra Pradesh regarding residents of disputed villages in Kotia?",
-            "hi": "कोटिया के विवादित गांवों के निवासियों के संबंध में ओडिशा के राजनीतिक दलों ने आंध्र प्रदेश के खिलाफ क्या विशेष आरोप लगाए हैं?"
+            "en": "In the context of the Periyar Arivulagam books row, what common demand is being made by various political leaders?",
+            "hi": "पेरियार अरिवुलागम पुस्तक विवाद के संदर्भ में, विभिन्न राजनीतिक नेताओं द्वारा क्या आम मांग की जा रही है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Intimidating voters with police force",
-                "hi": "पुलिस बल से मतदाताओं को डराया धमकाया जा रहा है"
+                "en": "To increase funding for public libraries across the state.",
+                "hi": "राज्य भर में सार्वजनिक पुस्तकालयों के लिए धन बढ़ाना।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Constructing unauthorized polling booths across the border",
-                "hi": "सीमा पार अनधिकृत मतदान केंद्रों का निर्माण"
+                "en": "To establish new digital archives for historical documents.",
+                "hi": "ऐतिहासिक दस्तावेजों के लिए नए डिजिटल अभिलेखागार स्थापित करना।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Denying basic rations to local residents",
-                "hi": "स्थानीय निवासियों को बुनियादी राशन देने से इनकार करना"
+                "en": "To promote regional literature by procuring more local authors' works.",
+                "hi": "अधिक स्थानीय लेखकों की कृतियों को खरीदकर क्षेत्रीय साहित्य को बढ़ावा देना।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Bribing people to secure their votes in MPTC and ZPTC elections",
-                "hi": "एमपीटीसी और जेडपीटीसी चुनावों में अपने वोट सुरक्षित करने के लिए लोगों को रिश्वत देना"
+                "en": "To conduct an investigation or examination into the allegations concerning books in public libraries.",
+                "hi": "सार्वजनिक पुस्तकालयों में पुस्तकों से संबंधित आरोपों की जांच या परीक्षण करना।"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "Odisha political parties accused A.P. of bribing people to secure their votes in MPTC and ZPTC elections as residents of disputed villages crossed the border to vote.\nSource: https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
-            "hi": "ओडिशा के राजनीतिक दलों ने एपी पर एमपीटीसी और जेडपीटीसी चुनावों में अपने वोट सुरक्षित करने के लिए लोगों को रिश्वत देने का आरोप लगाया क्योंकि विवादित गांवों के निवासियों ने वोट देने के लिए सीमा पार कर ली थी।\nस्रोत: https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece"
+            "en": "The excerpt shows Kamal Haasan demanding withdrawal of 'fake books', M.H. Jawahirullah wanting an 'independent committee to examine all books', and others wanting a 'thorough investigation of the allegations'. All these point to a common demand for scrutiny or investigation, as stated in option (c).\nSource: https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
+            "hi": "अंश में कमल हासन को 'नकली किताबों' को वापस लेने की मांग करते हुए दिखाया गया है, एम.एच. जवाहिरुल्ला चाहते हैं कि 'सभी पुस्तकों की जांच के लिए एक स्वतंत्र समिति' बनाई जाए, और अन्य लोग 'आरोपों की गहन जांच' चाहते हैं। ये सभी जांच या जांच की एक आम मांग की ओर इशारा करते हैं, जैसा कि विकल्प (सी) में कहा गया है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-4"
+          "id": "2026-11-07-4"
         },
         {
           "prompt": {
-            "en": "During the festive season crackdown by the Maharashtra Food and Drug Administration (FDA), how many food establishments were inspected across the state?",
-            "hi": "महाराष्ट्र खाद्य एवं औषधि प्रशासन (एफडीए) द्वारा त्योहारी सीजन के दौरान राज्य भर में कितने खाद्य प्रतिष्ठानों का निरीक्षण किया गया?"
+            "en": "What specific measure has M.H. Jawahirullah proposed to address the Periyar Arivulagam books row?",
+            "hi": "एम.एच. ने कौन सा विशिष्ट उपाय किया है? जवाहिरुल्ला ने पेरियार अरिवुलागम पुस्तक विवाद को संबोधित करने का प्रस्ताव रखा?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "4,603 establishments",
-                "hi": "4,603 प्रतिष्ठान"
+                "en": "Immediate prosecution of those responsible for distributing fake books.",
+                "hi": "नकली किताबें बांटने के जिम्मेदार लोगों पर तत्काल मुकदमा चलाया जाए।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "25 establishments",
-                "hi": "25 प्रतिष्ठान"
+                "en": "Formation of an independent committee to examine all books procured for the public library.",
+                "hi": "सार्वजनिक पुस्तकालय के लिए खरीदी गई सभी पुस्तकों की जांच के लिए एक स्वतंत्र समिति का गठन।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "12,450 establishments",
-                "hi": "12,450 प्रतिष्ठान"
+                "en": "A public debate on the content of controversial books.",
+                "hi": "विवादास्पद पुस्तकों की सामग्री पर एक सार्वजनिक बहस।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "9,667 establishments",
-                "hi": "9,667 प्रतिष्ठान"
+                "en": "Implementation of stricter censorship laws for library acquisitions.",
+                "hi": "पुस्तकालय अधिग्रहण के लिए सख्त सेंसरशिप कानूनों का कार्यान्वयन।"
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "The FDA press note explicitly states that officials inspected 9,667 food establishments across Maharashtra during the festive season crackdown, leading to improvement notices and licence cancellation actions.\nSource: https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece",
-            "hi": "एफडीए प्रेस नोट में स्पष्ट रूप से कहा गया है कि अधिकारियों ने त्योहारी सीजन की कार्रवाई के दौरान पूरे महाराष्ट्र में 9,667 खाद्य प्रतिष्ठानों का निरीक्षण किया, जिसके कारण सुधार नोटिस और लाइसेंस रद्द करने की कार्रवाई की गई।\nस्रोत: https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece"
+            "en": "The excerpt explicitly states, 'M.H. Jawahirullah wants the formation of an independent committee to examine all books procured for the public library', which is directly reflected in option (c).\nSource: https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'एम.एच. जवाहिरुल्लाह सार्वजनिक पुस्तकालय के लिए खरीदी गई सभी पुस्तकों की जांच के लिए एक स्वतंत्र समिति का गठन चाहते हैं, जो सीधे विकल्प (सी) में परिलक्षित होता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-13"
+          "id": "2026-11-07-5"
         },
         {
           "prompt": {
-            "en": "What specific action did the Maharashtra FDA urge citizens to take regarding suspicious medical products and drugs?",
-            "hi": "महाराष्ट्र एफडीए ने नागरिकों से संदिग्ध चिकित्सा उत्पादों और दवाओं के संबंध में क्या विशिष्ट कार्रवाई करने का आग्रह किया?"
+            "en": "What is the specific role of the Special Public Prosecutors appointed in the cases against Veeramani?",
+            "hi": "वीरमणि के विरुद्ध मामलों में नियुक्त विशेष लोक अभियोजकों की विशिष्ट भूमिका क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "To boycott retail pharmacies found violating pricing norms",
-                "hi": "मूल्य निर्धारण मानदंडों का उल्लंघन करने वाली खुदरा फार्मेसियों का बहिष्कार करें"
+                "en": "To investigate the allegations against Veeramani and his associates.",
+                "hi": "वीरमणि और उनके सहयोगियों के खिलाफ आरोपों की जांच करना।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "To independently test cosmetics samples at accredited private laboratories",
-                "hi": "मान्यता प्राप्त निजी प्रयोगशालाओं में सौंदर्य प्रसाधनों के नमूनों का स्वतंत्र रूप से परीक्षण करना"
+                "en": "To provide legal counsel to Veeramani and his associates.",
+                "hi": "वीरमणि और उनके सहयोगियों को कानूनी सलाह प्रदान करना।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "To report instances of illegal drug manufacturing or sales, and suspected substandard goods, to the commissioner's or district office",
-                "hi": "अवैध दवा निर्माण या बिक्री और संदिग्ध घटिया सामान की घटनाओं की रिपोर्ट आयुक्त या जिला कार्यालय को करना"
+                "en": "To conduct trial in POCSO Act cases against Veeramani.",
+                "hi": "वीरमणि के खिलाफ POCSO अधिनियम के मामलों में मुकदमा चलाने के लिए।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "To surrender all imported medical devices for mandatory quality recertification",
-                "hi": "अनिवार्य गुणवत्ता पुनर्प्रमाणन के लिए सभी आयातित चिकित्सा उपकरणों को सरेंडर करना"
+                "en": "To mediate a settlement between the parties involved in the cases.",
+                "hi": "मामलों में शामिल पक्षों के बीच समझौते में मध्यस्थता करना।"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The FDA actively urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices, and cosmetics, to the commissioner's office or nearest district office.\nSource: https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
-            "hi": "एफडीए ने सक्रिय रूप से नागरिकों से अवैध दवा निर्माण या बिक्री, साथ ही संदिग्ध घटिया दवाओं, चिकित्सा उपकरणों और सौंदर्य प्रसाधनों की घटनाओं की रिपोर्ट आयुक्त कार्यालय या निकटतम जिला कार्यालय को करने का आग्रह किया।\nस्रोत: https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece"
+            "en": "The title clearly states, 'Special Public Prosecutors appointed to conduct trial in POCSO Act cases against Veeramani', directly supporting option (c).\nSource: https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'वीरमणि के खिलाफ POCSO अधिनियम के मामलों में मुकदमा चलाने के लिए विशेष लोक अभियोजक नियुक्त किए गए', जो सीधे तौर पर विकल्प (सी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-14"
+          "id": "2026-11-07-6"
         },
         {
           "prompt": {
-            "en": "In the aftermath of which natural disaster did Nepali leaders express gratitude for India's swift humanitarian and technical assistance during Foreign Secretary Vikram Misri's visit?",
-            "hi": "विदेश सचिव विक्रम मिस्री की यात्रा के दौरान किस प्राकृतिक आपदा के बाद नेपाली नेताओं ने भारत की त्वरित मानवीय और तकनीकी सहायता के लिए आभार व्यक्त किया?"
+            "en": "Besides cases under the POCSO Act, what other serious charge is Veeramani and his associates facing?",
+            "hi": "POCSO अधिनियम के तहत मामलों के अलावा, वीरमणि और उनके सहयोगियों पर और कौन से गंभीर आरोप हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The Bhotekoshi floods",
-                "hi": "भोटेकोशी में बाढ़ आती है"
+                "en": "Financial fraud and embezzlement.",
+                "hi": "वित्तीय धोखाधड़ी और गबन."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The Karnali basin flash floods",
-                "hi": "करनाली बेसिन में अचानक बाढ़ आ गई"
+                "en": "Illegal land encroachment.",
+                "hi": "अवैध भूमि अतिक्रमण."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The Koshi river embankment breach",
-                "hi": "कोशी नदी का तटबंध टूटा"
+                "en": "Abetment to suicide of a minor.",
+                "hi": "नाबालिग को आत्महत्या के लिए उकसाना."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The Trishuli landslide disaster",
-                "hi": "त्रिशूली भूस्खलन आपदा"
+                "en": "Violation of environmental protection laws.",
+                "hi": "पर्यावरण संरक्षण कानूनों का उल्लंघन."
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The joint press release highlighted that Nepali leaders expressed gratitude for India's swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods.\nSource: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
-            "hi": "संयुक्त प्रेस विज्ञप्ति में इस बात पर प्रकाश डाला गया कि नेपाली नेताओं ने भोटेकोशी बाढ़ के बाद भारत की त्वरित और पर्याप्त मानवीय और तकनीकी सहायता के लिए आभार व्यक्त किया।\nस्रोत: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece"
+            "en": "The excerpt states, 'Veeramani and his associates are facing seven cases under the POCSO Act and one case of abetment to suicide of a minor', making option (b) correct.\nSource: https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece",
+            "hi": "अंश में कहा गया है, 'वीरमणि और उनके सहयोगियों पर POCSO अधिनियम के तहत सात मामले और नाबालिग को आत्महत्या के लिए उकसाने का एक मामला चल रहा है', जिससे विकल्प (बी) सही हो जाता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-15"
+          "id": "2026-11-07-7"
         },
         {
           "prompt": {
-            "en": "What specific Air Quality Index (AQI) reading was recorded for Delhi on Wednesday morning as firework restrictions entered force?",
-            "hi": "आतिशबाजी पर प्रतिबंध लागू होते ही बुधवार की सुबह दिल्ली के लिए कौन सी विशिष्ट वायु गुणवत्ता सूचकांक (एक्यूआई) रीडिंग दर्ज की गई?"
+            "en": "What two key points did the ISRO chief highlight regarding international collaboration and contributions in space?",
+            "hi": "इसरो प्रमुख ने अंतरिक्ष में अंतर्राष्ट्रीय सहयोग और योगदान के संबंध में किन दो प्रमुख बिंदुओं पर प्रकाश डाला?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "377",
-                "hi": "377"
+                "en": "The need for greater private sector involvement and competition in space.",
+                "hi": "अंतरिक्ष में निजी क्षेत्र की अधिक भागीदारी और प्रतिस्पर्धा की आवश्यकता।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "285",
-                "hi": "285"
+                "en": "The importance of developing independent satellite launch capabilities and reducing foreign dependence.",
+                "hi": "स्वतंत्र उपग्रह प्रक्षेपण क्षमताओं को विकसित करने और विदेशी निर्भरता को कम करने का महत्व।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "412",
-                "hi": "412"
+                "en": "Indian scientists' role in saving lives on Axiom-4 mission and Russian support for India's space programme.",
+                "hi": "एक्सिओम-4 मिशन पर लोगों की जान बचाने में भारतीय वैज्ञानिकों की भूमिका और भारत के अंतरिक्ष कार्यक्रम के लिए रूसी समर्थन।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "450",
-                "hi": "450"
+                "en": "The challenges of space debris management and the need for international treaties.",
+                "hi": "अंतरिक्ष मलबा प्रबंधन की चुनौतियाँ और अंतर्राष्ट्रीय संधियों की आवश्यकता।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'ISRO chief recalls Indian scientists’ role in saving lives on the Axiom-4 mission; praises Russian support of India’s space programme', which directly matches option (b).\nSource: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+            "hi": "अंश में कहा गया है, 'इसरो प्रमुख ने एक्सिओम-4 मिशन पर लोगों की जान बचाने में भारतीय वैज्ञानिकों की भूमिका को याद किया; भारत के अंतरिक्ष कार्यक्रम के लिए रूसी समर्थन की प्रशंसा करता है', जो सीधे विकल्प (बी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the Delhi government's primary response to the city's toxic winter air?",
+            "hi": "शहर की जहरीली सर्दियों की हवा पर दिल्ली सरकार की प्राथमिक प्रतिक्रिया क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Announcing a four-month winter action plan.",
+                "hi": "चार माह की शीतकालीन कार्ययोजना की घोषणा।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Imposing a complete ban on private vehicles for four months.",
+                "hi": "चार माह तक निजी वाहनों पर पूर्ण प्रतिबंध लगाना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Relocating polluting industries outside the city limits.",
+                "hi": "प्रदूषण फैलाने वाले उद्योगों को शहर की सीमा से बाहर स्थानांतरित करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Distributing air purifiers to all households in Delhi.",
+                "hi": "दिल्ली के सभी घरों में वायु शोधक वितरित करना।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The report notes that on Wednesday morning, Delhi's air quality index reading stood at 377, placing it firmly in the 'very poor' category.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-            "hi": "रिपोर्ट में कहा गया है कि बुधवार की सुबह, दिल्ली की वायु गुणवत्ता सूचकांक रीडिंग 377 थी, जो इसे 'बहुत खराब' श्रेणी में रखती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt clearly states, 'The Delhi government has announced a four-month winter action plan', making option (b) the correct answer.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'दिल्ली सरकार ने चार महीने की शीतकालीन कार्य योजना की घोषणा की है', जो विकल्प (बी) को सही उत्तर बनाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-9"
+        },
+        {
+          "prompt": {
+            "en": "What was Delhi's Air Quality Index (AQI) reading on Wednesday morning, and what category did it fall into?",
+            "hi": "बुधवार सुबह दिल्ली का वायु गुणवत्ता सूचकांक (एक्यूआई) क्या था और यह किस श्रेणी में आता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "150, in the 'moderate' category.",
+                "hi": "150, 'मध्यम' श्रेणी में।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "250, in the 'poor' category.",
+                "hi": "250, 'खराब' श्रेणी में।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "377, in the 'very poor' category.",
+                "hi": "377, 'बहुत खराब' श्रेणी में।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "450, in the 'severe' category.",
+                "hi": "450, 'गंभीर' श्रेणी में।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category', which directly matches option (c).\nSource: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'बुधवार की सुबह, दिल्ली की वायु गुणवत्ता सूचकांक रीडिंग \"बहुत खराब\" श्रेणी में 377 थी, जो सीधे विकल्प (सी) से मेल खाती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
           },
           "section": "National Affairs, Policy & Governance",
           "source_label": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-16"
+          "id": "2026-11-07-10"
         },
         {
           "prompt": {
-            "en": "Following the commutation of sentences for all state death row inmates by the California governor, what notable distinction did California hold historically in the US?",
-            "hi": "कैलिफ़ोर्निया के गवर्नर द्वारा राज्य के सभी मौत की सज़ा वाले कैदियों की सज़ा कम करने के बाद, कैलिफ़ोर्निया ने ऐतिहासिक रूप से अमेरिका में कौन सा उल्लेखनीय गौरव हासिल किया है?"
+            "en": "What is the estimated financial outlay for Telangana's project pipeline aimed at climate-proofing its cities?",
+            "hi": "तेलंगाना की अपने शहरों को जलवायु-रोधी बनाने की परियोजना पाइपलाइन के लिए अनुमानित वित्तीय परिव्यय क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It had the highest rate of exonerations for wrongful convictions",
-                "hi": "इसमें ग़लत दोषसिद्धि के लिए दोषमुक्ति की दर सबसे अधिक थी"
+                "en": "₹10,000-crore",
+                "hi": "₹10,000 करोड़"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It recorded the shortest average duration of appeals before execution",
-                "hi": "इसने निष्पादन से पहले अपील की सबसे कम औसत अवधि दर्ज की"
+                "en": "₹20,000-crore",
+                "hi": "₹20,000 करोड़"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It was the first state to completely abolish capital punishment by statute",
-                "hi": "यह क़ानून द्वारा मृत्युदंड को पूरी तरह समाप्त करने वाला पहला राज्य था"
+                "en": "₹30,000-crore",
+                "hi": "₹30,000 करोड़"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It had the largest population of people on death row in the US",
-                "hi": "अमेरिका में मृत्युदंड की सजा पाए लोगों की सबसे बड़ी आबादी यहीं थी"
+                "en": "₹50,000-crore",
+                "hi": "₹50,000 करोड़"
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "b",
           "explanation": {
-            "en": "The source notes that California has historically had the largest population of people on death row in the United States prior to the governor commuting their sentences.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र का कहना है कि गवर्नर द्वारा उनकी सज़ा कम करने से पहले कैलिफोर्निया में ऐतिहासिक रूप से संयुक्त राज्य अमेरिका में मौत की सजा पाए लोगों की सबसे बड़ी आबादी थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt explicitly states, 'The State is drawing up a ₹20,000-crore project pipeline', making option (b) correct.\nSource: https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'राज्य ₹20,000 करोड़ की परियोजना पाइपलाइन तैयार कर रहा है', जो विकल्प (बी) को सही बनाता है।\nस्रोत: https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-17"
+          "id": "2026-11-07-11"
         },
         {
           "prompt": {
-            "en": "During the nationwide protests across France driven by cost-of-living strikes, what estimate did the interior ministry provide regarding the number of participants?",
-            "hi": "पूरे फ़्रांस में महंगाई की मार झेलने वाली हड़तालों के कारण राष्ट्रव्यापी विरोध प्रदर्शन के दौरान, आंतरिक मंत्रालय ने प्रतिभागियों की संख्या के संबंध में क्या अनुमान प्रदान किया?"
+            "en": "What specific action has Kamal Haasan demanded in response to the Periyar Arivulagam books row?",
+            "hi": "पेरियार अरिवुलागम पुस्तक विवाद के जवाब में कमल हासन ने किस विशिष्ट कार्रवाई की मांग की है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "600,000 people",
-                "hi": "600,000 लोग"
+                "en": "The immediate withdrawal of the fake books from all libraries.",
+                "hi": "सभी पुस्तकालयों से नकली पुस्तकों को तत्काल वापस लिया जाए।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "320,000 people",
-                "hi": "320,000 लोग"
+                "en": "A public apology from the publishers of the controversial books.",
+                "hi": "विवादास्पद पुस्तकों के प्रकाशकों से सार्वजनिक माफी।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "150,000 people",
-                "hi": "150,000 लोग"
+                "en": "A review of the library procurement policies by the state legislature.",
+                "hi": "राज्य विधायिका द्वारा पुस्तकालय खरीद नीतियों की समीक्षा।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "1.2 million people",
-                "hi": "1.2 मिलियन लोग"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The French interior ministry estimated that 600,000 people joined the widespread protests, whereas union organizers claimed the numbers were considerably higher.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-            "hi": "फ्रांसीसी आंतरिक मंत्रालय का अनुमान है कि 600,000 लोग व्यापक विरोध प्रदर्शन में शामिल हुए, जबकि संघ आयोजकों ने दावा किया कि संख्या काफी अधिक थी।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-18"
-        },
-        {
-          "prompt": {
-            "en": "What immediate political and financial developments preceded the resignation of Paraguay President Santiago Peña?",
-            "hi": "पराग्वे के राष्ट्रपति सैंटियागो पेना के इस्तीफे से पहले कौन से तात्कालिक राजनीतिक और वित्तीय घटनाक्रम हुए?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A bank collapse and a vote in the lower house of congress in favour of pursuing an impeachment trial",
-                "hi": "एक बैंक का पतन और कांग्रेस के निचले सदन में महाभियोग मुकदमा चलाने के पक्ष में मतदान हुआ"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A sovereign debt default and a nationwide general strike by transport workers",
-                "hi": "एक संप्रभु ऋण चूक और परिवहन कर्मचारियों द्वारा एक राष्ट्रव्यापी आम हड़ताल"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A military coup d'état and the suspension of the national constitution",
-                "hi": "एक सैन्य तख्तापलट और राष्ट्रीय संविधान का निलंबन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Widespread judicial corruption scandals and the resignation of supreme court justices",
-                "hi": "व्यापक न्यायिक भ्रष्टाचार घोटाले और सर्वोच्च न्यायालय के न्यायाधीशों का इस्तीफा"
+                "en": "The establishment of a new state-level literary award.",
+                "hi": "नये राज्य स्तरीय साहित्यिक पुरस्कार की स्थापना।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "President Santiago Peña's resignation occurred directly following a bank collapse and the lower house of congress voting in favor of pursuing an impeachment trial against him.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-            "hi": "राष्ट्रपति सैंटियागो पेना का इस्तीफा सीधे एक बैंक के पतन के बाद हुआ और कांग्रेस के निचले सदन ने उनके खिलाफ महाभियोग मुकदमा चलाने के पक्ष में मतदान किया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states, 'Kamal Haasan demands the immediate withdrawal of the fake books from all libraries', which is directly reflected in option (b).\nSource: https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
+            "hi": "अंश में कहा गया है, 'कमल हासन सभी पुस्तकालयों से नकली पुस्तकों को तत्काल वापस लेने की मांग करते हैं', जो सीधे विकल्प (बी) में परिलक्षित होता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece"
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-19"
+          "id": "2026-11-07-12"
         }
       ],
       "quarantined": [],
@@ -576,521 +626,776 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-11-06T06:30:00+05:30"
+      "release_at": "2026-11-07T06:30:00+05:30"
     },
     {
       "title": "Economy, Business & Finance",
-      "source_filename": "daily-2026-11-06.json",
+      "source_filename": "daily-2026-11-07.json",
       "questions": [
         {
           "prompt": {
-            "en": "By what percentage did Bharti Airtel's India revenue grow in the September quarter, reaching ₹42,308 crore?",
-            "hi": "सितंबर तिमाही में भारती एयरटेल का भारत राजस्व कितने प्रतिशत बढ़कर ₹42,308 करोड़ तक पहुंच गया?"
+            "en": "What is ONGC's expectation regarding its role in Venezuelan oil projects in the near future?",
+            "hi": "निकट भविष्य में वेनेजुएला की तेल परियोजनाओं में अपनी भूमिका के संबंध में ओएनजीसी की क्या उम्मीदें हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "7.2%",
-                "hi": "7.2%"
+                "en": "To acquire operatorship rights in Venezuelan oil projects.",
+                "hi": "वेनेज़ुएला की तेल परियोजनाओं में संचालन अधिकार प्राप्त करना।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "9.4%",
-                "hi": "9.4%"
+                "en": "To divest its existing stakes in Venezuelan oil projects.",
+                "hi": "वेनेजुएला की तेल परियोजनाओं में अपनी मौजूदा हिस्सेदारी को बेचने के लिए।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "12.5%",
-                "hi": "12.5%"
+                "en": "To reduce its financial investment in Venezuelan oil exploration.",
+                "hi": "वेनेजुएला के तेल अन्वेषण में अपने वित्तीय निवेश को कम करना।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "24.0%",
-                "hi": "24.0%"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Bharti Airtel's India revenue grew by 9.4% to ₹42,308 crore during the September quarter.\nSource: https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
-            "hi": "सितंबर तिमाही के दौरान भारती एयरटेल का भारत का राजस्व 9.4% बढ़कर ₹42,308 करोड़ हो गया।\nस्रोत: https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-5"
-        },
-        {
-          "prompt": {
-            "en": "What specific details regarding citizenship and residency were raised by Mehli Mistry concerning Noel Tata?",
-            "hi": "नोएल टाटा के संबंध में मेहली मिस्त्री द्वारा नागरिकता और निवास के संबंध में कौन से विशिष्ट विवरण उठाए गए थे?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "He is a British citizen and a holder of a UK Tier-1 Investor Visa",
-                "hi": "वह एक ब्रिटिश नागरिक है और यूके टियर-1 इन्वेस्टर वीज़ा का धारक है"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "He is an Irish citizen and a holder of a UAE Golden Visa",
-                "hi": "वह एक आयरिश नागरिक है और यूएई गोल्डन वीज़ा का धारक है"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "He is a Swiss citizen and a holder of a Swiss Residence Permit",
-                "hi": "वह एक स्विस नागरिक है और स्विस निवास परमिट का धारक है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "He is a US citizen and a holder of a US Green Card",
-                "hi": "वह अमेरिकी नागरिक है और अमेरिकी ग्रीन कार्ड धारक है"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Mehli Mistry questioned Noel Tata's citizenship and tax residency status by pointing out that he is an Irish citizen and a holder of a UAE Golden Visa.\nSource: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
-            "hi": "मेहली मिस्त्री ने नोएल टाटा की नागरिकता और कर निवास स्थिति पर सवाल उठाते हुए कहा कि वह एक आयरिश नागरिक हैं और यूएई गोल्डन वीज़ा के धारक हैं।\nस्रोत: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-6"
-        },
-        {
-          "prompt": {
-            "en": "In response to growing U.S. opposition to data-centre expansion, what specific commitments has OpenAI made regarding infrastructure and accountability?",
-            "hi": "डेटा-सेंटर विस्तार पर बढ़ते अमेरिकी विरोध के जवाब में, ओपनएआई ने बुनियादी ढांचे और जवाबदेही के संबंध में क्या विशिष्ट प्रतिबद्धताएं की हैं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Transferring complete ownership of data-centre grids to municipal authorities",
-                "hi": "डेटा-सेंटर ग्रिड का पूर्ण स्वामित्व नगरपालिका अधिकारियों को हस्तांतरित करना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Halting all future data-centre construction in North America and shifting operations overseas",
-                "hi": "उत्तरी अमेरिका में भविष्य के सभी डेटा-सेंटर निर्माण को रोकना और विदेशों में परिचालन स्थानांतरित करना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Committing to bear electricity and grid infrastructure costs, publishing water and power consumption, and working with unions on local hiring and training",
-                "hi": "बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करने, पानी और बिजली की खपत को प्रकाशित करने और स्थानीय भर्ती और प्रशिक्षण पर यूनियनों के साथ काम करने के लिए प्रतिबद्ध"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Bypassing local environmental reviews to expedite AI model training",
-                "hi": "एआई मॉडल प्रशिक्षण में तेजी लाने के लिए स्थानीय पर्यावरण समीक्षाओं को दरकिनार करना"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Amid U.S. opposition, OpenAI committed to bearing electricity and grid infrastructure costs, publishing water and power consumption, and working with unions on local hiring and training.\nSource: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
-            "hi": "अमेरिकी विरोध के बीच, ओपनएआई ने बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करने, पानी और बिजली की खपत को प्रकाशित करने और स्थानीय भर्ती और प्रशिक्षण पर यूनियनों के साथ काम करने के लिए प्रतिबद्ध किया।\nस्रोत: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-7"
-        },
-        {
-          "prompt": {
-            "en": "What rationale did NPCI present to the Supreme Court regarding the imposition of the MDR charge on the UPI ecosystem?",
-            "hi": "यूपीआई इकोसिस्टम पर एमडीआर चार्ज लगाने के संबंध में एनपीसीआई ने सुप्रीम कोर्ट में क्या तर्क पेश किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It is mandated by international banking regulations to ensure fair competition among fintech firms",
-                "hi": "फिनटेक फर्मों के बीच निष्पक्ष प्रतिस्पर्धा सुनिश्चित करने के लिए इसे अंतरराष्ट्रीय बैंकिंग नियमों द्वारा अनिवार्य किया गया है"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Zero MDR is no longer sustainable as growth places greater demands on security, resilience, and infrastructural capacity",
-                "hi": "शून्य एमडीआर अब टिकाऊ नहीं है क्योंकि विकास सुरक्षा, लचीलेपन और बुनियादी ढांचागत क्षमता पर अधिक मांग रखता है"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It is designed to completely replace traditional banking channels with digital wallets",
-                "hi": "इसे पारंपरिक बैंकिंग चैनलों को पूरी तरह से डिजिटल वॉलेट से बदलने के लिए डिज़ाइन किया गया है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It serves as a direct tax to fund government rural digitization initiatives",
-                "hi": "यह सरकारी ग्रामीण डिजिटलीकरण पहल को वित्तपोषित करने के लिए प्रत्यक्ष कर के रूप में कार्य करता है"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "NPCI informed the Supreme Court that zero MDR is no longer sustainable because the magnitude of growth places correspondingly greater demands on the security, resilience, and infrastructural capacity of the system.\nSource: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
-            "hi": "एनपीसीआई ने सुप्रीम कोर्ट को सूचित किया कि शून्य एमडीआर अब टिकाऊ नहीं है क्योंकि विकास की भयावहता प्रणाली की सुरक्षा, लचीलेपन और ढांचागत क्षमता पर अधिक मांग डालती है।\nस्रोत: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-8"
-        },
-        {
-          "prompt": {
-            "en": "What is India's target for blending Compressed Biogas (CBG) into D-PNG and CNG by the end of the current fiscal year?",
-            "hi": "चालू वित्त वर्ष के अंत तक कंप्रेस्ड बायोगैस (सीबीजी) को डी-पीएनजी और सीएनजी में मिश्रित करने का भारत का लक्ष्य क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "3.0%",
-                "hi": "3.0%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "1.7%",
-                "hi": "1.7%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "4.0%",
-                "hi": "4.0%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "5.0%",
-                "hi": "5.0%"
+                "en": "To form a new joint venture with a European oil major in Venezuela.",
+                "hi": "वेनेज़ुएला में एक यूरोपीय तेल प्रमुख के साथ एक नया संयुक्त उद्यम बनाना।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "India has a target of blending 3% CBG into D-PNG and CNG by the end of the current fiscal year, followed by 4% in 2027-28 and 5% in the subsequent year.\nSource: https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
-            "hi": "भारत का चालू वित्त वर्ष के अंत तक डी-पीएनजी और सीएनजी में 3% सीबीजी मिश्रण करने का लक्ष्य है, इसके बाद 2027-28 में 4% और उसके बाद के वर्ष में 5% मिश्रण करने का लक्ष्य है।\nस्रोत: https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece"
+            "en": "The title clearly states, 'ONGC expects to acquire operatorship rights in Venezuelan oil projects in 3-6 months’ time', directly supporting option (b).\nSource: https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'ओएनजीसी को 3-6 महीने के समय में वेनेजुएला की तेल परियोजनाओं में संचालन अधिकार हासिल करने की उम्मीद है', जो सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
+          "source_label": "https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-9"
+          "id": "2026-11-07-13"
         },
         {
           "prompt": {
-            "en": "According to CIBIL data on repeat gold borrowing, what repayment pattern significantly increased the likelihood of a borrower becoming delinquent?",
-            "hi": "बार-बार सोना उधार लेने पर CIBIL डेटा के अनुसार, किस पुनर्भुगतान पैटर्न से उधारकर्ता के अपराधी बनने की संभावना काफी बढ़ जाती है?"
+            "en": "What are ONGC's current equity holdings in Venezuela's San Cristobal and Carabobo oil projects?",
+            "hi": "वेनेजुएला की सैन क्रिस्टोबल और काराबोबो तेल परियोजनाओं में ओएनजीसी की वर्तमान इक्विटी हिस्सेदारी क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Opting for bullet repayment instead of monthly installments",
-                "hi": "मासिक किश्तों के बजाय बुलेट पुनर्भुगतान का विकल्प चुनना"
+                "en": "40% in San Cristobal and 11% in Carabobo.",
+                "hi": "सैन क्रिस्टोबल में 40% और काराबोबो में 11%।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Failing to renew the loan agreement within thirty days of maturity",
-                "hi": "परिपक्वता के तीस दिनों के भीतर ऋण समझौते को नवीनीकृत करने में असफल होना"
+                "en": "20% in San Cristobal and 5% in Carabobo.",
+                "hi": "सैन क्रिस्टोबल में 20% और काराबोबो में 5%।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Missing more than one payment in the preceding six months",
-                "hi": "पिछले छह महीनों में एक से अधिक भुगतान न होना"
+                "en": "50% in San Cristobal and 20% in Carabobo.",
+                "hi": "सैन क्रिस्टोबल में 50% और काराबोबो में 20%।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Pledging lower-purity gold collateral during repeat borrowing",
-                "hi": "बार-बार उधार लेने के दौरान कम शुद्धता वाला सोना गिरवी रखना"
+                "en": "30% in San Cristobal and 15% in Carabobo.",
+                "hi": "सैन क्रिस्टोबल में 30% और काराबोबो में 15%।"
               }
             }
           ],
-          "correct_option_id": "c",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "CIBIL reported that borrowers who had missed more than one payment in the preceding six months were three times as likely to become delinquent.\nSource: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
-            "hi": "सीआईबीआईएल ने बताया कि जो उधारकर्ता पिछले छह महीनों में एक से अधिक भुगतान चूक गए थे, उनके अपराधी बनने की संभावना तीन गुना थी।\nस्रोत: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece"
+            "en": "The excerpt states, 'ONGC holds 40% interest in Venezuela’s San Cristobal oil project and 11% stake in Carabobo project', which matches option (b).\nSource: https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
+            "hi": "अंश में कहा गया है, 'ओएनजीसी की वेनेजुएला की सैन क्रिस्टोबल तेल परियोजना में 40% हिस्सेदारी और काराबोबो परियोजना में 11% हिस्सेदारी है', जो विकल्प (बी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+          "source_label": "https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-10"
+          "id": "2026-11-07-14"
         },
         {
           "prompt": {
-            "en": "What specific citizenship and residency status regarding Noel Tata was highlighted by Mehli Mistry?",
-            "hi": "मेहली मिस्त्री द्वारा नोएल टाटा के संबंध में किस विशिष्ट नागरिकता और निवास स्थिति पर प्रकाश डाला गया था?"
+            "en": "What is the nature of the case for which CBI has booked Future Retail and Kishore Biyani?",
+            "hi": "उस मामले की प्रकृति क्या है जिसके लिए सीबीआई ने फ्यूचर रिटेल और किशोर बियानी पर मामला दर्ज किया है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "He is a British citizen and a holder of a Singapore Permanent Residency",
-                "hi": "वह एक ब्रिटिश नागरिक हैं और सिंगापुर स्थायी निवास के धारक हैं"
+                "en": "A case of tax evasion amounting to ₹500 crore.",
+                "hi": "₹500 करोड़ की टैक्स चोरी का मामला।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "He is a Swiss citizen and a holder of an American Green Card",
-                "hi": "वह स्विस नागरिक हैं और अमेरिकी ग्रीन कार्ड धारक हैं"
+                "en": "A case related to violation of foreign exchange regulations.",
+                "hi": "विदेशी मुद्रा नियमों के उल्लंघन से जुड़ा मामला."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "He is an Irish citizen and a holder of a UAE Golden Visa",
-                "hi": "वह एक आयरिश नागरिक है और यूएई गोल्डन वीज़ा का धारक है"
+                "en": "A case of insider trading in the stock market.",
+                "hi": "शेयर बाज़ार में इनसाइडर ट्रेडिंग का मामला."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "He is a French citizen and a holder of a Mauritian Tax Residency Certificate",
-                "hi": "वह एक फ्रांसीसी नागरिक है और मॉरीशस टैक्स रेजीडेंसी प्रमाणपत्र का धारक है"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "Mehli Mistry questioned Noel Tata's tax residency status by pointing out that Noel Tata is an Irish citizen and a holder of a UAE Golden Visa.\nSource: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
-            "hi": "मेहली मिस्त्री ने नोएल टाटा की कर निवास स्थिति पर सवाल उठाते हुए कहा कि नोएल टाटा एक आयरिश नागरिक हैं और यूएई गोल्डन वीज़ा के धारक हैं।\nस्रोत: https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-20"
-        },
-        {
-          "prompt": {
-            "en": "In response to growing U.S. opposition to data-centre expansion, what key commitments did OpenAI make regarding infrastructure and public disclosures?",
-            "hi": "डेटा-सेंटर विस्तार पर बढ़ते अमेरिकी विरोध के जवाब में, ओपनएआई ने बुनियादी ढांचे और सार्वजनिक प्रकटीकरण के संबंध में क्या प्रमुख प्रतिबद्धताएं कीं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To restrict data-centre locations exclusively to federally owned lands",
-                "hi": "डेटा-सेंटर स्थानों को विशेष रूप से संघीय स्वामित्व वाली भूमि तक सीमित करना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To bear electricity and grid infrastructure costs, publish water and power consumption, and collaborate with unions",
-                "hi": "बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करना, पानी और बिजली की खपत को प्रकाशित करना और यूनियनों के साथ सहयोग करना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To transition all computing facilities entirely to nuclear energy by 2028",
-                "hi": "2028 तक सभी कंप्यूटिंग सुविधाओं को पूरी तरह से परमाणु ऊर्जा में परिवर्तित करना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To outsource hardware manufacturing entirely to international partner consortia",
-                "hi": "हार्डवेयर विनिर्माण को पूरी तरह से अंतर्राष्ट्रीय भागीदार कंसोर्टिया को आउटसोर्स करना"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "Amid opposition, OpenAI committed to bearing electricity and grid infrastructure costs, publishing water and power consumption data, working with unions on local hiring and training, and enhancing developer accountability.\nSource: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
-            "hi": "विरोध के बीच, ओपनएआई ने बिजली और ग्रिड बुनियादी ढांचे की लागत वहन करने, पानी और बिजली खपत डेटा प्रकाशित करने, स्थानीय भर्ती और प्रशिक्षण पर यूनियनों के साथ काम करने और डेवलपर जवाबदेही बढ़ाने के लिए प्रतिबद्धता जताई।\nस्रोत: https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-21"
-        },
-        {
-          "prompt": {
-            "en": "According to the National Payments Corporation of India's (NPCI) submission to the Supreme Court, why has the imposition of the MDR charge become necessary for the UPI ecosystem?",
-            "hi": "नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया (एनपीसीआई) की सुप्रीम कोर्ट में दी गई दलील के मुताबिक, यूपीआई इकोसिस्टम के लिए एमडीआर चार्ज लगाना क्यों जरूरी हो गया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To fund aggressive international marketing campaigns across foreign markets",
-                "hi": "विदेशी बाजारों में आक्रामक अंतर्राष्ट्रीय विपणन अभियानों को वित्तपोषित करना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To prevent the system from turning ouroboric as zero MDR is no longer sustainable against escalating security and infrastructural demands",
-                "hi": "सिस्टम को ऑरोबोरिक बनने से रोकने के लिए, क्योंकि बढ़ती सुरक्षा और ढांचागत मांगों के सामने शून्य एमडीआर अब टिकाऊ नहीं है।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To subsidize smartphone manufacturing for rural merchant adoption",
-                "hi": "ग्रामीण व्यापारियों के लिए स्मार्टफोन विनिर्माण को सब्सिडी देना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To compensate commercial banks for eliminating all minimum balance penalties",
-                "hi": "सभी न्यूनतम शेष दंडों को समाप्त करने के लिए वाणिज्यिक बैंकों को मुआवजा देना"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "NPCI told the Supreme Court that zero MDR is no longer sustainable because the sheer magnitude of UPI growth places immense demands on the security, resilience, and infrastructural capacity of the system, preventing it from turning ouroboric.\nSource: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
-            "hi": "एनपीसीआई ने सुप्रीम कोर्ट को बताया कि शून्य एमडीआर अब टिकाऊ नहीं है क्योंकि यूपीआई वृद्धि का विशाल परिमाण सिस्टम की सुरक्षा, लचीलापन और ढांचागत क्षमता पर भारी मांग डालता है, जो इसे ऑरोबोरिक बनने से रोकता है।\nस्रोत: https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-22"
-        },
-        {
-          "prompt": {
-            "en": "According to CIBIL data regarding repeat gold borrowing among low-risk customers, what repayment behaviour significantly elevated the probability of a borrower becoming delinquent?",
-            "hi": "कम जोखिम वाले ग्राहकों के बीच बार-बार सोना उधार लेने के संबंध में CIBIL डेटा के अनुसार, किस पुनर्भुगतान व्यवहार ने उधारकर्ता के अपराधी बनने की संभावना को काफी बढ़ा दिया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Switching lending institutions twice within a single calendar year",
-                "hi": "एक ही कैलेंडर वर्ष के भीतर ऋण देने वाली संस्थाओं को दो बार बदलना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Consistently requesting loan tenure extensions every quarter",
-                "hi": "हर तिमाही में लगातार ऋण अवधि बढ़ाने का अनुरोध करना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Pledging lower-purity gold ornaments as collateral security",
-                "hi": "संपार्श्विक सुरक्षा के रूप में कम शुद्धता वाले सोने के आभूषण गिरवी रखना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Missing more than one payment in the preceding six months",
-                "hi": "पिछले छह महीनों में एक से अधिक भुगतान न होना"
+                "en": "A ₹904 crore bank fraud case.",
+                "hi": "₹904 करोड़ का बैंक धोखाधड़ी मामला।"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "CIBIL data highlighted that borrowers who had missed more than one payment in the preceding six months were three times as likely to become delinquent on their gold loans.\nSource: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
-            "hi": "CIBIL डेटा ने इस बात पर प्रकाश डाला कि जो उधारकर्ता पिछले छह महीनों में एक से अधिक भुगतान चूक गए थे, उनके स्वर्ण ऋण पर बकाया होने की संभावना तीन गुना थी।\nस्रोत: https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece"
+            "en": "The title clearly states, 'CBI books Future Retail, Kishore Biyani, others in ₹904 crore bank fraud case', directly supporting option (b).\nSource: https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'सीबीआई ने ₹904 करोड़ के बैंक धोखाधड़ी मामले में फ्यूचर रिटेल, किशोर बियानी, अन्य पर मामला दर्ज किया है', जो सीधे तौर पर विकल्प (बी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+          "source_label": "https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-23"
+          "id": "2026-11-07-15"
+        },
+        {
+          "prompt": {
+            "en": "What was the specific allegation made by SBI against Future Retail in the bank fraud case?",
+            "hi": "बैंक धोखाधड़ी मामले में फ्यूचर रिटेल के खिलाफ एसबीआई द्वारा लगाया गया विशिष्ट आरोप क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The company defaulted on interest payments for a secured loan.",
+                "hi": "कंपनी ने सुरक्षित ऋण के लिए ब्याज भुगतान में चूक कर दी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The company failed to utilise the sanctioned funds in accordance with the terms and conditions of the loan facilities.",
+                "hi": "कंपनी ऋण सुविधाओं के नियमों और शर्तों के अनुसार स्वीकृत धनराशि का उपयोग करने में विफल रही।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The company provided fraudulent collateral for the loan.",
+                "hi": "कंपनी ने ऋण के लिए फर्जी संपार्श्विक प्रदान किया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The company manipulated its financial statements to secure a larger loan.",
+                "hi": "कंपनी ने बड़ा ऋण सुरक्षित करने के लिए अपने वित्तीय विवरणों में हेरफेर किया।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'SBI alleged that the company failed to utilise the sanctioned funds in accordance with the terms and conditions of the loan facilities', which directly matches option (b).\nSource: https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece",
+            "hi": "अंश में कहा गया है, 'एसबीआई ने आरोप लगाया कि कंपनी ऋण सुविधाओं के नियमों और शर्तों के अनुसार स्वीकृत धन का उपयोग करने में विफल रही', जो सीधे विकल्प (बी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-16"
+        },
+        {
+          "prompt": {
+            "en": "What is Jindal SAW's planned investment in Abu Dhabi?",
+            "hi": "अबू धाबी में जिंदल SAW का नियोजित निवेश क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A 300,000-tonne seamless pipe plant.",
+                "hi": "300,000 टन का सीमलेस पाइप संयंत्र।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A 100,000-tonne steel manufacturing unit.",
+                "hi": "100,000 टन की इस्पात विनिर्माण इकाई।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A 500,000-tonne iron ore processing facility.",
+                "hi": "500,000 टन की लौह अयस्क प्रसंस्करण सुविधा।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A 200,000-tonne cement production factory.",
+                "hi": "200,000 टन का सीमेंट उत्पादन कारखाना।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states, 'Jindal SAW to set up 300,000-tonne seamless pipe plant in Abu Dhabi', directly supporting option (b).\nSource: https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'जिंदल एसएडब्ल्यू अबू धाबी में 300,000 टन का सीमलेस पाइप प्लांट स्थापित करेगा', जो सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-17"
+        },
+        {
+          "prompt": {
+            "en": "What is the significance of Jindal SAW's new plant in Abu Dhabi for the UAE and the MENA region?",
+            "hi": "संयुक्त अरब अमीरात और MENA क्षेत्र के लिए अबू धाबी में जिंदल SAW के नए संयंत्र का क्या महत्व है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It will be the UAE’s first seamless pipe manufacturing facility using PQF technology and the second of its kind in the MENA region.",
+                "hi": "यह पीक्यूएफ तकनीक का उपयोग कर संयुक्त अरब अमीरात की पहली सीमलेस पाइप विनिर्माण सुविधा होगी और एमईएनए क्षेत्र में अपनी तरह की दूसरी सुविधा होगी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It will be the largest steel production facility in the MENA region.",
+                "hi": "यह MENA क्षेत्र में सबसे बड़ी इस्पात उत्पादन सुविधा होगी।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It will introduce a new method of oil refining previously unused in the region.",
+                "hi": "यह क्षेत्र में पहले अप्रयुक्त तेल शोधन की एक नई विधि पेश करेगा।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It will be the first plant in the UAE to exclusively use renewable energy sources.",
+                "hi": "यह संयुक्त अरब अमीरात में विशेष रूप से नवीकरणीय ऊर्जा स्रोतों का उपयोग करने वाला पहला संयंत्र होगा।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states, 'The project will be the UAE’s first seamless pipe manufacturing facility using PQF technology and the second of its kind in the Middle East and North Africa (MENA) region', which directly matches option (b).\nSource: https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece",
+            "hi": "अंश में कहा गया है, 'यह परियोजना पीक्यूएफ तकनीक का उपयोग करके संयुक्त अरब अमीरात की पहली सीमलेस पाइप विनिर्माण सुविधा होगी और मध्य पूर्व और उत्तरी अफ्रीका (एमईएनए) क्षेत्र में अपनी तरह की दूसरी सुविधा होगी', जो सीधे विकल्प (बी) से मेल खाती है।\nस्रोत: https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-18"
+        },
+        {
+          "prompt": {
+            "en": "What is the amount of investment TASE Global is set to receive and from which fund?",
+            "hi": "TASE ग्लोबल को कितनी राशि का निवेश प्राप्त होने वाला है और किस फंड से?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹100 crore from a private equity firm.",
+                "hi": "एक निजी इक्विटी फर्म से ₹100 करोड़।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹200 crore from a venture capital fund.",
+                "hi": "उद्यम पूंजी कोष से ₹200 करोड़।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹400 crore from a public sector bank.",
+                "hi": "सार्वजनिक क्षेत्र के बैंक से ₹400 करोड़।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹300 crore investment from ValueQuest’s Tristar Fund.",
+                "hi": "वैल्यूक्वेस्ट के ट्रिस्टार फंड से ₹300 करोड़ का निवेश।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'TASE Global to receive ₹300 crore investment from ValueQuest’s Tristar Fund', directly supporting option (c).\nSource: https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'टीएएसई ग्लोबल को वैल्यूक्वेस्ट के ट्रिस्टार फंड से ₹300 करोड़ का निवेश प्राप्त होगा', जो सीधे विकल्प (सी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-19"
+        },
+        {
+          "prompt": {
+            "en": "How does TASE Global plan to utilize the new investment?",
+            "hi": "TASE ग्लोबल नए निवेश का उपयोग कैसे करने की योजना बना रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To diversify into the real estate sector.",
+                "hi": "रियल एस्टेट क्षेत्र में विविधता लाना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To expand capacity, integrate U.S. operations and pursue larger OEM programmes.",
+                "hi": "क्षमता का विस्तार करने, अमेरिकी परिचालन को एकीकृत करने और बड़े ओईएम कार्यक्रमों को आगे बढ़ाने के लिए।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To acquire smaller competitors in the domestic market.",
+                "hi": "घरेलू बाज़ार में छोटे प्रतिस्पर्धियों का अधिग्रहण करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To invest in research and development of new consumer electronics.",
+                "hi": "नए उपभोक्ता इलेक्ट्रॉनिक्स के अनुसंधान और विकास में निवेश करना।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'The Chennai-based precision engineering company will use the investment to expand capacity, integrate U.S. operations and pursue larger OEM programmes', which directly matches option (b).\nSource: https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece",
+            "hi": "अंश में कहा गया है, 'चेन्नई स्थित सटीक इंजीनियरिंग कंपनी निवेश का उपयोग क्षमता का विस्तार करने, अमेरिकी संचालन को एकीकृत करने और बड़े ओईएम कार्यक्रमों को आगे बढ़ाने के लिए करेगी', जो सीधे विकल्प (बी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-20"
+        },
+        {
+          "prompt": {
+            "en": "What was the approximate financial impact on the Nasdaq 100 following the U.S. midterm outcome and AI stock slump?",
+            "hi": "अमेरिकी मध्यावधि परिणाम और एआई स्टॉक मंदी के बाद नैस्डैक 100 पर अनुमानित वित्तीय प्रभाव क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1 trillion wiped off.",
+                "hi": "1 ट्रिलियन डॉलर का सफाया हो गया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$2.5 trillion wiped off.",
+                "hi": "$2.5 ट्रिलियन का सफाया हो गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$500 billion wiped off.",
+                "hi": "$500 बिलियन का सफाया हो गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$3 trillion wiped off.",
+                "hi": "3 ट्रिलियन डॉलर का सफाया हो गया।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states, '$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump', directly supporting option (b).\nSource: https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'अमेरिकी मध्यावधि नतीजों के कारण एआई स्टॉक में गिरावट के कारण नैस्डैक 100 से $2.5 ट्रिलियन का सफाया हो गया', जो सीधे तौर पर विकल्प (बी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-21"
+        },
+        {
+          "prompt": {
+            "en": "What specific concern arose for investors following Democrats' victories in the U.S. midterms, leading to reassessment of AI spending?",
+            "hi": "अमेरिकी मध्यावधि में डेमोक्रेट्स की जीत के बाद निवेशकों के लिए कौन सी विशेष चिंता पैदा हुई, जिसके कारण एआई खर्च का पुनर्मूल्यांकन करना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased government subsidies for AI development.",
+                "hi": "एआई विकास के लिए सरकारी सब्सिडी में वृद्धि।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Relaxation of regulations for tech companies.",
+                "hi": "टेक कंपनियों के लिए नियमों में ढील."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Prospect of tighter scrutiny of data-centre projects.",
+                "hi": "डेटा-सेंटर परियोजनाओं की कड़ी जांच की संभावना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Reduced competition in the AI sector.",
+                "hi": "एआई क्षेत्र में प्रतिस्पर्धा कम हुई।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'Democrats’ victories raise prospect of tighter scrutiny of data-centre projects as investors reassess AI spending', which directly matches option (b).\nSource: https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+            "hi": "अंश में कहा गया है, 'डेमोक्रेट्स की जीत डेटा-सेंटर परियोजनाओं की कड़ी जांच की संभावना बढ़ाती है क्योंकि निवेशक एआई खर्च का पुनर्मूल्यांकन करते हैं', जो सीधे विकल्प (बी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-22"
+        },
+        {
+          "prompt": {
+            "en": "What is the duration of the LNG supply and purchase agreement signed between ADNOC and Gujarat Energy?",
+            "hi": "एडीएनओसी और गुजरात एनर्जी के बीच हस्ताक्षरित एलएनजी आपूर्ति और खरीद समझौते की अवधि क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5-year",
+                "hi": "5 साल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "15-year",
+                "hi": "15 साल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "10-year",
+                "hi": "10 साल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "20-year",
+                "hi": "20 साल"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'ADNOC inks 10-year LNG supply and purchase agreement with Gujarat Energy', directly supporting option (b).\nSource: https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'एडीएनओसी ने गुजरात एनर्जी के साथ 10-वर्षीय एलएनजी आपूर्ति और खरीद समझौते पर हस्ताक्षर किए', जो सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-23"
+        },
+        {
+          "prompt": {
+            "en": "What is the significance of the recent LNG supply agreement between ADNOC and Gujarat Energy in the context of ADNOC's dealings with India?",
+            "hi": "भारत के साथ एडीएनओसी के व्यवहार के संदर्भ में एडीएनओसी और गुजरात एनर्जी के बीच हालिया एलएनजी आपूर्ति समझौते का क्या महत्व है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is ADNOC's first long-term LNG supply agreement with India.",
+                "hi": "यह भारत के साथ एडीएनओसी का पहला दीर्घकालिक एलएनजी आपूर्ति समझौता है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is ADNOC's third long-term LNG supply agreement with India.",
+                "hi": "यह एडीएनओसी का भारत के साथ तीसरा दीर्घकालिक एलएनजी आपूर्ति समझौता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is ADNOC’s fifth long-term LNG supply agreement with India.",
+                "hi": "यह भारत के साथ एडीएनओसी का पांचवां दीर्घकालिक एलएनजी आपूर्ति समझौता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is ADNOC's largest ever LNG supply agreement globally.",
+                "hi": "यह वैश्विक स्तर पर एडीएनओसी का अब तक का सबसे बड़ा एलएनजी आपूर्ति समझौता है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'This would be ADNOC’s fifth long-term LNG supply agreement with India', which directly matches option (c).\nSource: https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+            "hi": "अंश में कहा गया है, 'यह एडीएनओसी का भारत के साथ पांचवां दीर्घकालिक एलएनजी आपूर्ति समझौता होगा', जो सीधे विकल्प (सी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-24"
+        },
+        {
+          "prompt": {
+            "en": "What was a primary concern among investors that led to selling off tech shares, particularly AI-linked stocks, prior to their recent climb?",
+            "hi": "निवेशकों के बीच प्राथमिक चिंता क्या थी जिसके कारण हालिया चढ़ाई से पहले तकनीकी शेयरों, विशेष रूप से एआई-लिंक्ड शेयरों को बेचना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Anticipated increase in global demand for AI products.",
+                "hi": "एआई उत्पादों की वैश्विक मांग में अनुमानित वृद्धि।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A general market shift towards traditional industries.",
+                "hi": "पारंपरिक उद्योगों की ओर एक सामान्य बाज़ार बदलाव।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Concerns the Democrat election victory would mean slower AI development.",
+                "hi": "चिंता है कि डेमोक्रेट चुनाव की जीत का मतलब धीमा एआई विकास होगा।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Over-valuation of non-AI tech companies.",
+                "hi": "गैर-एआई तकनीकी कंपनियों का अधिक मूल्यांकन।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development', directly supporting option (b).\nSource: BBC News · https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'निवेशक इस चिंता के कारण तकनीकी शेयरों को बेच रहे थे कि डेमोक्रेट चुनाव की जीत का मतलब धीमा एआई विकास होगा', जो सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-25"
+        },
+        {
+          "prompt": {
+            "en": "What specific factor related to AI regulation contributed to investor fear and a stock selloff following the US midterms?",
+            "hi": "एआई विनियमन से संबंधित किस विशिष्ट कारक ने निवेशकों के डर और अमेरिकी मध्यावधि के बाद स्टॉक बिकवाली में योगदान दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Anticipation of reduced government funding for AI research.",
+                "hi": "एआई अनुसंधान के लिए सरकारी फंडिंग कम होने की आशंका।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fears of more AI regulation.",
+                "hi": "अधिक एआई विनियमन का डर।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Concerns about the ethical implications of AI development.",
+                "hi": "एआई विकास के नैतिक निहितार्थों के बारे में चिंताएँ।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A shift in consumer preference away from AI-powered products.",
+                "hi": "एआई-संचालित उत्पादों से दूर उपभोक्ताओं की पसंद में बदलाव।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'Fears of more AI regulation appear to have sparked fear among investors', which directly supports option (b).\nSource: BBC News · https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'अधिक एआई विनियमन की आशंका से निवेशकों में डर पैदा हो गया है', जो सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-26"
+        },
+        {
+          "prompt": {
+            "en": "According to Elon Musk, what is the strategic reason for potentially ending Cybertruck production?",
+            "hi": "एलोन मस्क के अनुसार, साइबरट्रक उत्पादन को संभावित रूप से समाप्त करने का रणनीतिक कारण क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To focus on developing more affordable electric vehicles.",
+                "hi": "अधिक किफायती इलेक्ट्रिक वाहन विकसित करने पर ध्यान केंद्रित करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To make room for production of its Cybercabs - autonomous taxis without a driver.",
+                "hi": "अपने साइबरकैब - बिना ड्राइवर वाली स्वायत्त टैक्सियों - के उत्पादन के लिए जगह बनाना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To shift resources towards space exploration projects.",
+                "hi": "संसाधनों को अंतरिक्ष अन्वेषण परियोजनाओं की ओर स्थानांतरित करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Due to lower-than-expected market demand for the Cybertruck.",
+                "hi": "साइबरट्रक की बाजार में अपेक्षा से कम मांग के कारण।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver', directly supporting option (b).\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'मस्क ने कहा कि उसे अपने साइबरकैब - बिना ड्राइवर वाली स्वायत्त टैक्सियों' के उत्पादन के लिए जगह बनानी है, जो सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-27"
         }
       ],
       "quarantined": [],
@@ -1098,521 +1403,776 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-11-06T13:00:00+05:30"
+      "release_at": "2026-11-07T13:00:00+05:30"
     },
     {
-      "title": "Science, Environment & World Affairs",
-      "source_filename": "daily-2026-11-06.json",
+      "title": "Science & Environment",
+      "source_filename": "daily-2026-11-07.json",
       "questions": [
         {
           "prompt": {
-            "en": "During Foreign Secretary Misri's visit to Nepal, what specific assistance provided by India did Nepali leaders express gratitude for?",
-            "hi": "विदेश सचिव मिस्री की नेपाल यात्रा के दौरान भारत द्वारा प्रदान की गई किस विशिष्ट सहायता के लिए नेपाली नेताओं ने आभार व्यक्त किया?"
+            "en": "What significant characteristic has been discovered about the plastic produced by Cellophane bees?",
+            "hi": "सिलोफ़न मधुमक्खियों द्वारा उत्पादित प्लास्टिक के बारे में कौन सी महत्वपूर्ण विशेषता खोजी गई है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Medical supplies during the pandemic",
-                "hi": "महामारी के दौरान चिकित्सा आपूर्ति"
+                "en": "It is a kind of plastic that also degrades.",
+                "hi": "यह एक प्रकार का प्लास्टिक है जो नष्ट भी हो जाता है।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods",
-                "hi": "भोटेकोशी बाढ़ के बाद तीव्र और पर्याप्त मानवीय और तकनीकी सहायता"
+                "en": "It is highly resistant to degradation and lasts for centuries.",
+                "hi": "यह क्षरण के प्रति अत्यधिक प्रतिरोधी है और सदियों तक चलता है।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Financial grants for hydroelectric power plant construction",
-                "hi": "पनबिजली संयंत्र निर्माण के लिए वित्तीय अनुदान"
+                "en": "It is a synthetic plastic derived from petroleum.",
+                "hi": "यह पेट्रोलियम से प्राप्त सिंथेटिक प्लास्टिक है।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Infrastructure development for cross-border railway links",
-                "hi": "सीमा पार रेलवे लिंक के लिए बुनियादी ढांचे का विकास"
+                "en": "It is primarily used by humans for industrial applications.",
+                "hi": "इसका उपयोग मुख्य रूप से मनुष्यों द्वारा औद्योगिक अनुप्रयोगों के लिए किया जाता है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states, 'Cellophane bees produce a kind of plastic that also degrades, study finds', directly supporting option (b).\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'सिलोफ़न मधुमक्खियाँ एक प्रकार का प्लास्टिक उत्पन्न करती हैं जो नष्ट भी हो जाता है, जैसा कि अध्ययन में पाया गया है', सीधे तौर पर विकल्प (बी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
+          },
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-28"
+        },
+        {
+          "prompt": {
+            "en": "What are the key properties of the nest lining produced by the ground-nesting Cellophane bee?",
+            "hi": "जमीन पर घोंसला बनाने वाली सिलोफ़न मधुमक्खी द्वारा निर्मित घोंसले की परत के प्रमुख गुण क्या हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Opaque, rigid, brittle, and lasts for decades.",
+                "hi": "अपारदर्शी, कठोर, भंगुर और दशकों तक बना रहता है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Translucent, flexible, resilient and degrades within a year.",
+                "hi": "पारभासी, लचीला, लचीला और एक वर्ष के भीतर ख़राब हो जाता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Water-soluble, fragile, non-resilient, and degrades within days.",
+                "hi": "पानी में घुलनशील, नाजुक, गैर-लचीला और कुछ ही दिनों में ख़राब हो जाता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Metallic, inflexible, highly durable, and non-degradable.",
+                "hi": "धात्विक, अनम्य, अत्यधिक टिकाऊ और गैर-अवक्रमणीय।"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "Nepali leaders expressed gratitude for India's swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods, as noted in the joint press release.\nSource: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
-            "hi": "जैसा कि संयुक्त प्रेस विज्ञप्ति में कहा गया है, नेपाली नेताओं ने भोटेकोशी बाढ़ के बाद भारत की त्वरित और पर्याप्त मानवीय और तकनीकी सहायता के लिए आभार व्यक्त किया।\nस्रोत: https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece"
+            "en": "The excerpt states, 'The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year', which directly matches option (b).\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+            "hi": "अंश में कहा गया है, 'जमीन पर घोंसला बनाने वाली मधुमक्खी का घोंसला अस्तर पारभासी, लचीला, लचीला होता है और एक वर्ष के भीतर नष्ट हो जाता है', जो सीधे विकल्प (बी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-11"
+          "id": "2026-11-07-29"
         },
         {
           "prompt": {
-            "en": "According to ISRO Chairman V. Narayanan, what is the primary purpose of conducting in-orbit testing for the NVS-03 satellite payload?",
-            "hi": "इसरो के अध्यक्ष वी. नारायणन के अनुसार, NVS-03 उपग्रह पेलोड के लिए कक्षा में परीक्षण करने का प्राथमिक उद्देश्य क्या है?"
+            "en": "According to recent studies, how did the Milky Way primarily grow over time?",
+            "hi": "हाल के अध्ययनों के अनुसार, समय के साथ आकाशगंगा मुख्य रूप से कैसे विकसित हुई?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Monitoring meteorological changes across the Indian Ocean region",
-                "hi": "हिंद महासागर क्षेत्र में मौसम संबंधी परिवर्तनों की निगरानी करना"
+                "en": "Through continuous formation of new stars from primordial gas.",
+                "hi": "प्राइमर्डियल गैस से नए तारों के निरंतर निर्माण के माध्यम से।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Establishing a deep-space communication network for lunar exploration",
-                "hi": "चंद्र अन्वेषण के लिए गहरे अंतरिक्ष संचार नेटवर्क की स्थापना"
+                "en": "By expanding its dark matter halo through accretion of intergalactic gas.",
+                "hi": "अंतरागैलेक्टिक गैस के अभिवृद्धि के माध्यम से इसके डार्क मैटर प्रभामंडल का विस्तार करके।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Developing NavIC, an indigenous GPS alternative",
-                "hi": "एक स्वदेशी जीपीएस विकल्प, NavIC का विकास करना"
+                "en": "By devouring galaxies, leaving a trail of ghost stars.",
+                "hi": "आकाशगंगाओं को निगलकर, भूतिया तारों का निशान छोड़कर।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Mapping high-resolution mineral deposits across the Indian subcontinent",
-                "hi": "भारतीय उपमहाद्वीप में उच्च-रिज़ॉल्यूशन खनिज भंडार का मानचित्रण"
+                "en": "By merging with other large spiral galaxies of similar size.",
+                "hi": "समान आकार की अन्य बड़ी सर्पिल आकाशगंगाओं के साथ विलय करके।"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "ISRO is conducting in-orbit testing for the satellite payload as part of developing NavIC, an indigenous GPS alternative.\nSource: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
-            "hi": "इसरो एक स्वदेशी जीपीएस विकल्प, NavIC विकसित करने के हिस्से के रूप में उपग्रह पेलोड के लिए कक्षा में परीक्षण कर रहा है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
+            "en": "The title clearly states, 'The Milky Way grew by devouring galaxies, leaving a trail of ghost stars', directly supporting option (c).\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'आकाशगंगा आकाशगंगाओं को खाकर, भूतिया तारों का निशान छोड़कर विकसित हुई', जो सीधे तौर पर विकल्प (सी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-12"
+          "id": "2026-11-07-30"
         },
         {
           "prompt": {
-            "en": "Following successful orbit manoeuvres and a cumulative LAM engine burn by ISRO's NVS-03 satellite, which orbit and inclination did it attain?",
-            "hi": "इसरो के एनवीएस-03 उपग्रह द्वारा सफल कक्षा संचालन और एक संचयी एलएएम इंजन जलाने के बाद, इसने कौन सी कक्षा और झुकाव प्राप्त किया?"
+            "en": "What is the approximate timeframe for which galactic archaeologists are able to reveal the history of the Milky Way using new missions?",
+            "hi": "वह अनुमानित समय सीमा क्या है जिसके लिए गांगेय पुरातत्वविद् नए मिशनों का उपयोग करके आकाशगंगा के इतिहास को प्रकट करने में सक्षम हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Low Earth Orbit at an inclination of 45.5 degrees",
-                "hi": "45.5 डिग्री के झुकाव पर निम्न पृथ्वी कक्षा"
+                "en": "Almost 12 billion years.",
+                "hi": "लगभग 12 अरब वर्ष."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Geo Synchronous Orbit at an inclination of 29.98 degrees",
-                "hi": "29.98 डिग्री के झुकाव पर जियो सिंक्रोनस ऑर्बिट"
+                "en": "About 5 billion years.",
+                "hi": "लगभग 5 अरब वर्ष."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Sun-Synchronous Polar Orbit at an inclination of 98.2 degrees",
-                "hi": "98.2 डिग्री के झुकाव पर सूर्य-तुल्यकालिक ध्रुवीय कक्षा"
+                "en": "A few million years.",
+                "hi": "कुछ मिलियन वर्ष."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Geostationary Transfer Orbit at an inclination of 0.0 degrees",
-                "hi": "0.0 डिग्री के झुकाव पर भूस्थैतिक स्थानांतरण कक्षा"
+                "en": "The entire age of the universe.",
+                "hi": "ब्रह्माण्ड की सम्पूर्ण आयु."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that new missions are 'revealing the history of the Milky Way going back almost 12 billion years', which directly matches option (c).\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": "अंश में कहा गया है कि नए मिशन 'लगभग 12 अरब वर्ष पुराने आकाशगंगा के इतिहास का खुलासा कर रहे हैं', जो सीधे विकल्प (सी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+          },
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-31"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary impact of the 'noisy Anthropocene' on wildlife, as highlighted in the study?",
+            "hi": "जैसा कि अध्ययन में बताया गया है, वन्यजीवों पर 'शोर एंथ्रोपोसीन' का प्राथमिक प्रभाव क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is enhancing wildlife communication and mating success.",
+                "hi": "यह वन्यजीव संचार और संभोग की सफलता को बढ़ा रहा है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is imposing fatal stress on wildlife.",
+                "hi": "यह वन्य जीवन पर घातक तनाव डाल रहा है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is accelerating evolutionary adaptation in certain species.",
+                "hi": "यह कुछ प्रजातियों में विकासवादी अनुकूलन को तेज़ कर रहा है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is leading to increased biodiversity in urban areas.",
+                "hi": "इससे शहरी क्षेत्रों में जैव विविधता में वृद्धि हो रही है।"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "ISRO confirmed that after four orbit manoeuvres and a cumulative LAM engine burn of 6164 seconds, the NVS-03 satellite successfully reached the Geo Synchronous Orbit at an inclination of 29.980.\nSource: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-            "hi": "इसरो ने पुष्टि की कि चार कक्षा प्रक्रियाओं और 6164 सेकंड के संचयी एलएएम इंजन के जलने के बाद, एनवीएस-03 उपग्रह 29.980 के झुकाव पर सफलतापूर्वक जियो सिंक्रोनस कक्षा में पहुंच गया।\nस्रोत: https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
+            "en": "The title clearly states, 'A noisy Anthropocene is imposing fatal stress on wildlife', directly supporting option (c).\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'एक शोरगुल वाला एंथ्रोपोसीन वन्यजीवों पर घातक तनाव डाल रहा है', जो सीधे तौर पर विकल्प (सी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-24"
+          "id": "2026-11-07-32"
         },
         {
           "prompt": {
-            "en": "From what percentage to what percentage were interest rates hiked in the recent central bank monetary policy adjustment?",
-            "hi": "हाल ही में केंद्रीय बैंक मौद्रिक नीति समायोजन में ब्याज दरों में कितने प्रतिशत से कितने प्रतिशत तक की बढ़ोतरी की गई?"
+            "en": "What was the key finding regarding the impact of noise on animals in the comprehensive study mentioned?",
+            "hi": "उल्लिखित व्यापक अध्ययन में जानवरों पर शोर के प्रभाव के संबंध में मुख्य निष्कर्ष क्या था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "From 3.00% to 3.25%",
-                "hi": "3.00% से 3.25% तक"
+                "en": "Noise had no discernible effect on animal behavior or physiology.",
+                "hi": "शोर का जानवरों के व्यवहार या शरीर क्रिया विज्ञान पर कोई प्रत्यक्ष प्रभाव नहीं पड़ा।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "From 3.50% to 3.75%",
-                "hi": "3.50% से 3.75% तक"
+                "en": "Noise improved the foraging efficiency of most aquatic species.",
+                "hi": "शोर ने अधिकांश जलीय प्रजातियों की चारा खोजने की क्षमता में सुधार किया।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "From 4.00% to 4.50%",
-                "hi": "4.00% से 4.50% तक"
+                "en": "Noise only affected terrestrial species, with no impact on aquatic life.",
+                "hi": "शोर ने केवल स्थलीय प्रजातियों को प्रभावित किया, जलीय जीवन पर कोई प्रभाव नहीं पड़ा।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "From 3.75% to 4%",
-                "hi": "3.75% से 4% तक"
+                "en": "Noise altered specific traits in 80% of the animals studied.",
+                "hi": "अध्ययन किए गए 80% जानवरों में शोर ने विशिष्ट लक्षणों को बदल दिया।"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "Central bank actions resulted in interest rates being hiked from 3.75% to 4% in the first increase in over three years.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-            "hi": "केंद्रीय बैंक की कार्रवाइयों के परिणामस्वरूप तीन वर्षों में पहली वृद्धि में ब्याज दरें 3.75% से बढ़कर 4% हो गईं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states that researchers 'found that noise altered specific traits in 80% of the animals studied', which directly matches option (c).\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+            "hi": "अंश में कहा गया है कि शोधकर्ताओं ने 'पाया कि अध्ययन किए गए 80% जानवरों में शोर ने विशिष्ट लक्षणों को बदल दिया', जो सीधे विकल्प (सी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-25"
+          "id": "2026-11-07-33"
         },
         {
           "prompt": {
-            "en": "Following the US midterms, what specific regulatory concerns caused major tech stocks and the AI industry to plunge?",
-            "hi": "अमेरिकी मध्यावधि के बाद, किन विशिष्ट नियामक चिंताओं के कारण प्रमुख तकनीकी शेयरों और एआई उद्योग में गिरावट आई?"
+            "en": "What is the primary mechanism by which a tokamak aims to achieve nuclear fusion?",
+            "hi": "वह प्राथमिक तंत्र क्या है जिसके द्वारा टोकामक का लक्ष्य परमाणु संलयन प्राप्त करना है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Proposals for a complete federal moratorium on semiconductor exports",
-                "hi": "सेमीकंडक्टर निर्यात पर पूर्ण संघीय रोक का प्रस्ताव"
+                "en": "Using chemical reactions to release energy from atomic nuclei.",
+                "hi": "परमाणु नाभिक से ऊर्जा मुक्त करने के लिए रासायनिक प्रतिक्रियाओं का उपयोग करना।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Possible tougher scrutiny of data centre construction and the AI industry",
-                "hi": "डेटा सेंटर निर्माण और एआई उद्योग की कड़ी जांच संभव"
+                "en": "Employing high-pressure compression to fuse atomic nuclei.",
+                "hi": "परमाणु नाभिक को फ़्यूज़ करने के लिए उच्च दबाव संपीड़न का उपयोग करना।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Mandatory open-sourcing of all proprietary neural network weights",
-                "hi": "सभी मालिकाना तंत्रिका नेटवर्क भार की अनिवार्य ओपन-सोर्सिंग"
+                "en": "Using magnetic fields to confine superhot plasma.",
+                "hi": "सुपरहॉट प्लाज़्मा को सीमित करने के लिए चुंबकीय क्षेत्र का उपयोग करना।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Stringent carbon-tax penalties on enterprise cloud computing providers",
-                "hi": "एंटरप्राइज़ क्लाउड कंप्यूटिंग प्रदाताओं पर कठोर कार्बन-कर दंड"
+                "en": "Utilizing gravitational forces to initiate nuclear reactions.",
+                "hi": "परमाणु प्रतिक्रियाएँ आरंभ करने के लिए गुरुत्वाकर्षण बलों का उपयोग करना।"
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "Major tech stocks plunged as markets reacted to the US midterms and the prospect of possible tougher scrutiny of data centre construction and the artificial intelligence industry.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-            "hi": "अमेरिकी मध्यावधि और डेटा सेंटर निर्माण और कृत्रिम बुद्धिमत्ता उद्योग की संभावित कड़ी जांच की संभावना पर बाजारों की प्रतिक्रिया के कारण प्रमुख तकनीकी शेयरों में गिरावट आई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states, 'A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion', directly supporting option (c).\nSource: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+            "hi": "अंश में कहा गया है, 'एक टोकामक परमाणु संलयन को सक्षम करने के लिए सुपरहॉट प्लाज्मा को सीमित करने के लिए चुंबकीय क्षेत्र का उपयोग करता है', सीधे विकल्प (सी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-26"
+          "id": "2026-11-07-34"
         },
         {
           "prompt": {
-            "en": "Under proposed regulatory consultations targeting dangerous e-bike riders, what specific punitive measure is being considered for drunk or reckless riders?",
-            "hi": "खतरनाक ई-बाइक सवारों को लक्षित करने वाले प्रस्तावित नियामक परामर्श के तहत, नशे में या लापरवाह सवारों के लिए किस विशिष्ट दंडात्मक उपाय पर विचार किया जा रहा है?"
+            "en": "What is the current status of tokamaks in terms of commercial power generation?",
+            "hi": "वाणिज्यिक विद्युत उत्पादन के संदर्भ में टोकामक्स की वर्तमान स्थिति क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "On-the-spot fines and other clampdown measures",
-                "hi": "मौके पर ही जुर्माना और अन्य सख्त उपाय"
+                "en": "Several tokamaks are already generating commercial power successfully.",
+                "hi": "कई टोकामक पहले से ही सफलतापूर्वक व्यावसायिक बिजली पैदा कर रहे हैं।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Mandatory confiscation and destruction of the electric bicycle",
-                "hi": "इलेक्ट्रिक साइकिल को अनिवार्य रूप से ज़ब्त करना और नष्ट करना"
+                "en": "Tokamaks have achieved net energy gain but face economic viability issues.",
+                "hi": "टोकामक्स ने शुद्ध ऊर्जा लाभ हासिल किया है लेकिन आर्थिक व्यवहार्यता के मुद्दों का सामना करना पड़ता है।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Compulsory community service in municipal traffic management",
-                "hi": "नगरपालिका यातायात प्रबंधन में अनिवार्य सामुदायिक सेवा"
+                "en": "No tokamak has generated net energy for commercial power, and engineering challenges remain.",
+                "hi": "किसी भी टोकामक ने वाणिज्यिक बिजली के लिए शुद्ध ऊर्जा उत्पन्न नहीं की है, और इंजीनियरिंग चुनौतियाँ बनी हुई हैं।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Permanent revocation of driver's licenses for all motor vehicles",
-                "hi": "सभी मोटर वाहनों के लिए ड्राइवर के लाइसेंस को स्थायी रूप से रद्द करना"
+                "en": "Tokamaks are primarily used for research and have no potential for commercial power.",
+                "hi": "टोकामाक्स का उपयोग मुख्य रूप से अनुसंधान के लिए किया जाता है और इसमें व्यावसायिक शक्ति की कोई संभावना नहीं है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'engineering challenges remain, and no tokamak has generated net energy for commercial power', which directly matches option (c).\nSource: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+            "hi": "अंश में कहा गया है, 'इंजीनियरिंग चुनौतियां बनी हुई हैं, और किसी भी टोकामक ने वाणिज्यिक बिजली के लिए शुद्ध ऊर्जा उत्पन्न नहीं की है', जो सीधे विकल्प (सी) से मेल खाता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece"
+          },
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-35"
+        },
+        {
+          "prompt": {
+            "en": "What is the approximate duration of Voyager I's journey into space as mentioned?",
+            "hi": "जैसा कि बताया गया है वोयाजर I की अंतरिक्ष यात्रा की अनुमानित अवधि क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Twenty-five years.",
+                "hi": "पच्चीस साल."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Thirty-five years.",
+                "hi": "पैंतीस साल."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Forty-nine years.",
+                "hi": "उनतालीस साल."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sixty years.",
+                "hi": "साठ साल."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'Voyager I’s forty-nine-year journey into the void', directly supporting option (c).\nSource: https://www.thehindu.com/infographics/2026-11-05/nasa-voyager-i-49-years-in-space/index.html",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'वॉयेजर I की शून्य में उनचास साल की यात्रा', सीधे विकल्प (सी) का समर्थन करता है।\nस्रोत: https://www.thehindu.com/infographics/2026-11-05/nasa-voyager-i-49-years-in-space/index.html"
+          },
+          "section": "Science & Environment",
+          "source_label": "https://www.thehindu.com/infographics/2026-11-05/nasa-voyager-i-49-years-in-space/index.html",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-36"
+        },
+        {
+          "prompt": {
+            "en": "How do rising global temperatures impact extreme weather events?",
+            "hi": "बढ़ते वैश्विक तापमान चरम मौसम की घटनाओं को कैसे प्रभावित करते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They cause extreme weather events to become more common and more intense.",
+                "hi": "वे चरम मौसम की घटनाओं को अधिक सामान्य और अधिक तीव्र बना देते हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They make extreme weather events less common and less intense.",
+                "hi": "वे चरम मौसम की घटनाओं को कम सामान्य और कम तीव्र बनाते हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have no discernible effect on the frequency or intensity of extreme weather events.",
+                "hi": "चरम मौसम की घटनाओं की आवृत्ति या तीव्रता पर उनका कोई स्पष्ट प्रभाव नहीं पड़ता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They shift extreme weather events to specific geographical regions only.",
+                "hi": "वे चरम मौसम की घटनाओं को केवल विशिष्ट भौगोलिक क्षेत्रों में स्थानांतरित करते हैं।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "A new consultation will consider on-the-spot fines and other enforcement mechanisms to clamp down on drunk and dangerous e-bike riders.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-            "hi": "एक नया परामर्श नशे में और खतरनाक ई-बाइक सवारों पर नकेल कसने के लिए मौके पर ही जुर्माना और अन्य प्रवर्तन तंत्रों पर विचार करेगा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states, 'Rising global temperatures mean extreme weather events are becoming more common and more intense', directly supporting option (b).\nSource: BBC News · https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'बढ़ते वैश्विक तापमान का मतलब है कि चरम मौसम की घटनाएं अधिक सामान्य और अधिक तीव्र होती जा रही हैं', सीधे तौर पर विकल्प (बी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+          "section": "Science & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-27"
+          "id": "2026-11-07-37"
         },
         {
           "prompt": {
-            "en": "During a severe pollution incident investigated in the Inler river, which specific fish species suffered a 'major fish kill'?",
-            "hi": "इनलर नदी में जांच की गई एक गंभीर प्रदूषण घटना के दौरान, किस विशिष्ट मछली प्रजाति को 'प्रमुख मछली की मौत' का सामना करना पड़ा?"
+            "en": "What is identified as the primary cause of global warming and its consequences?",
+            "hi": "ग्लोबल वार्मिंग का प्राथमिक कारण और उसके परिणाम क्या माने गए हैं?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Brown and migratory sea trout",
-                "hi": "भूरा और प्रवासी समुद्री ट्राउट"
+                "en": "Natural solar cycles.",
+                "hi": "प्राकृतिक सौर चक्र."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Atlantic salmon and freshwater eel",
-                "hi": "अटलांटिक सैल्मन और मीठे पानी की मछली"
+                "en": "Volcanic eruptions.",
+                "hi": "ज्वालामुखी विस्फोट."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Rainbow trout and Chinook salmon",
-                "hi": "रेनबो ट्राउट और चिनूक सैल्मन"
+                "en": "Human activities.",
+                "hi": "मानवीय गतिविधियाँ।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "European perch and Northern pike",
-                "hi": "यूरोपीय पर्च और उत्तरी पाइक"
+                "en": "Changes in Earth's orbit.",
+                "hi": "पृथ्वी की कक्षा में परिवर्तन."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'Human activities are causing the world to heat up', directly supporting option (c).\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'मानवीय गतिविधियाँ दुनिया को गर्म कर रही हैं', सीधे तौर पर विकल्प (सी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-38"
+        },
+        {
+          "prompt": {
+            "en": "What is the central role of the 2015 Paris Agreement in international climate action?",
+            "hi": "अंतर्राष्ट्रीय जलवायु कार्रवाई में 2015 पेरिस समझौते की केंद्रीय भूमिका क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It primarily focuses on biodiversity conservation.",
+                "hi": "यह मुख्य रूप से जैव विविधता संरक्षण पर केंद्रित है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It provides financial aid for developing countries to industrialize.",
+                "hi": "यह विकासशील देशों को औद्योगीकरण के लिए वित्तीय सहायता प्रदान करता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It mandates specific carbon emission targets for individual countries.",
+                "hi": "यह अलग-अलग देशों के लिए विशिष्ट कार्बन उत्सर्जन लक्ष्य निर्धारित करता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is at the heart of the international commitment to tackle rising global temperatures.",
+                "hi": "यह बढ़ते वैश्विक तापमान से निपटने के लिए अंतर्राष्ट्रीय प्रतिबद्धता के केंद्र में है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The 2015 pact is at the heart of the international commitment to tackle rising global temperatures', directly supporting option (b).\nSource: BBC News · https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, '2015 का समझौता बढ़ते वैश्विक तापमान से निपटने के लिए अंतरराष्ट्रीय प्रतिबद्धता के केंद्र में है', सीधे विकल्प (बी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-39"
+        },
+        {
+          "prompt": {
+            "en": "According to UN scientists, what is essential to limit global warming?",
+            "hi": "संयुक्त राष्ट्र के वैज्ञानिकों के अनुसार ग्लोबल वार्मिंग को सीमित करने के लिए क्या आवश्यक है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Reaching net zero carbon emissions worldwide.",
+                "hi": "दुनिया भर में शुद्ध शून्य कार्बन उत्सर्जन तक पहुँचना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Shifting to fossil fuels for energy production.",
+                "hi": "ऊर्जा उत्पादन के लिए जीवाश्म ईंधन की ओर स्थानांतरण।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Increasing global industrial output.",
+                "hi": "वैश्विक औद्योगिक उत्पादन में वृद्धि।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Expanding deforestation globally.",
+                "hi": "विश्व स्तर पर वनों की कटाई का विस्तार।"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The pollution incident in the Inler river caused the tragic death of brown and migratory sea trout, triggering an official investigation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-            "hi": "इनलर नदी में प्रदूषण की घटना के कारण भूरे और प्रवासी समुद्री ट्राउट की दुखद मौत हुई, जिससे एक आधिकारिक जांच शुरू हो गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states, 'Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say', directly supporting option (c).\nSource: BBC News · https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'संयुक्त राष्ट्र के वैज्ञानिकों का कहना है कि ग्लोबल वार्मिंग को सीमित करने के लिए दुनिया भर में शुद्ध शून्य कार्बन उत्सर्जन तक पहुंचना आवश्यक है', सीधे विकल्प (सी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss"
           },
-          "section": "Science, Environment & World Affairs",
+          "section": "Science & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-40"
+        },
+        {
+          "prompt": {
+            "en": "What current atmospheric phenomenon is causing uncertainty among experts regarding its impact on UK weather?",
+            "hi": "कौन सी वर्तमान वायुमंडलीय घटना यूके के मौसम पर इसके प्रभाव के संबंध में विशेषज्ञों के बीच अनिश्चितता पैदा कर रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An unprecedented early weakening of the polar vortex.",
+                "hi": "ध्रुवीय भंवर का अभूतपूर्व प्रारंभिक कमज़ोर होना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A sudden strengthening of the jet stream.",
+                "hi": "जेट स्ट्रीम का अचानक मजबूत होना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A prolonged period of high-pressure systems.",
+                "hi": "उच्च दबाव प्रणालियों की एक लंबी अवधि।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increased solar flare activity.",
+                "hi": "सौर ज्वाला गतिविधि में वृद्धि।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states, 'An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather', directly supporting option (b).\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'ध्रुवीय भंवर के अभूतपूर्व रूप से जल्दी कमजोर होने से ब्रिटेन के मौसम पर इसके प्रभाव को लेकर विशेषज्ञों के बीच अनिश्चितता पैदा हो रही है', जो सीधे तौर पर विकल्प (बी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science & Environment",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-07-41"
+        },
+        {
+          "prompt": {
+            "en": "Which specific fish species were affected by the pollution incident in the Inler river?",
+            "hi": "इनलर नदी में प्रदूषण की घटना से कौन सी विशिष्ट मछली प्रजातियाँ प्रभावित हुईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Salmon and cod.",
+                "hi": "सामन और कॉड."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Eels and carp.",
+                "hi": "ईल और कार्प."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pike and perch.",
+                "hi": "पाइक और पर्च।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Brown and migratory sea trout.",
+                "hi": "भूरा और प्रवासी समुद्री ट्राउट।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The pollution caused the death of brown and migratory sea trout in the Inler river', directly supporting option (b).\nSource: BBC News · https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'प्रदूषण के कारण इनलर नदी में भूरे और प्रवासी समुद्री ट्राउट की मौत हो गई, जो सीधे तौर पर विकल्प (बी) का समर्थन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science & Environment",
           "source_label": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-06-28"
-        },
-        {
-          "prompt": {
-            "en": "What conclusion did auditors reach regarding the Welsh public sector's ability to meet its net zero climate plans by 2030?",
-            "hi": "वेल्श सार्वजनिक क्षेत्र की 2030 तक अपनी शुद्ध शून्य जलवायु योजनाओं को पूरा करने की क्षमता के संबंध में लेखा परीक्षक किस निष्कर्ष पर पहुंचे?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "They are highly unlikely to meet net zero plans due to a lack of progress by organizations.",
-                "hi": "संगठनों द्वारा प्रगति की कमी के कारण उनके नेट ज़ीरो योजनाओं को पूरा करने की अत्यधिक संभावना नहीं है।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "They are fully on track to exceed all interim carbon reduction milestones.",
-                "hi": "वे सभी अंतरिम कार्बन कटौती मील के पत्थर को पार करने के लिए पूरी तरह से ट्रैक पर हैं।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "They have successfully achieved carbon neutrality three years ahead of schedule.",
-                "hi": "उन्होंने तय समय से तीन साल पहले सफलतापूर्वक कार्बन तटस्थता हासिल कर ली है।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "They require a 50% increase in central government fiscal subsidies to comply.",
-                "hi": "अनुपालन के लिए उन्हें केंद्र सरकार की राजकोषीय सब्सिडी में 50% की वृद्धि की आवश्यकता है।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Watchdog auditors concluded that the Welsh public sector is unlikely to meet its net zero plans by 2030, criticizing the severe lack of progress made by organizations in tackling climate change.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-            "hi": "वॉचडॉग ऑडिटर्स ने जलवायु परिवर्तन से निपटने में संगठनों द्वारा की गई प्रगति की गंभीर कमी की आलोचना करते हुए निष्कर्ष निकाला कि वेल्श सार्वजनिक क्षेत्र 2030 तक अपनी शुद्ध शून्य योजनाओं को पूरा करने की संभावना नहीं है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-29"
-        },
-        {
-          "prompt": {
-            "en": "How did the UK government characterize the hoax bomb threats that targeted European airlines and airports for the second time in a week?",
-            "hi": "ब्रिटेन सरकार ने एक सप्ताह में दूसरी बार यूरोपीय एयरलाइनों और हवाई अड्डों को निशाना बनाने वाली फर्जी बम धमकियों को कैसे चित्रित किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A malicious hoax threat affecting multiple flights",
-                "hi": "कई उड़ानों को प्रभावित करने वाला एक दुर्भावनापूर्ण धोखा खतरा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A state-sponsored cyber sabotage operation",
-                "hi": "एक राज्य-प्रायोजित साइबर तोड़फोड़ अभियान"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "An automated botnet disruption campaign",
-                "hi": "एक स्वचालित बॉटनेट व्यवधान अभियान"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A coordinated terrorist extortion attempt",
-                "hi": "एक समन्वित आतंकवादी जबरन वसूली का प्रयास"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The UK government explicitly categorized the bomb threats affecting at least 21 flights across Europe as a 'malicious hoax threat'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-            "hi": "यूके सरकार ने स्पष्ट रूप से पूरे यूरोप में कम से कम 21 उड़ानों को प्रभावित करने वाले बम के खतरों को 'दुर्भावनापूर्ण धोखाधड़ी खतरे' के रूप में वर्गीकृत किया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-30"
-        },
-        {
-          "prompt": {
-            "en": "Following the series of fatal shootings in western Turkey that resulted in eight deaths, where were the victims discovered according to local reports?",
-            "hi": "पश्चिमी तुर्की में घातक गोलीबारी की श्रृंखला के बाद जिसमें आठ लोगों की मौत हो गई, स्थानीय रिपोर्टों के अनुसार पीड़ितों को कहाँ खोजा गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "In several locations distributed across three separate vehicles",
-                "hi": "कई स्थानों पर तीन अलग-अलग वाहनों में वितरित किया गया"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Inside a municipal community center and a nearby coffee house",
-                "hi": "एक नगरपालिका सामुदायिक केंद्र और पास के एक कॉफ़ी हाउस के अंदर"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Locked inside an abandoned commercial warehouse",
-                "hi": "एक परित्यक्त वाणिज्यिक गोदाम के अंदर बंद"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Scattered along a rural mountain highway checkpoint",
-                "hi": "एक ग्रामीण पहाड़ी राजमार्ग चौकी पर बिखरा हुआ"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Local reports confirmed that the victims of the western Turkey shootings were found in several locations across three separate vehicles.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-            "hi": "स्थानीय रिपोर्टों ने पुष्टि की है कि पश्चिमी तुर्की गोलीबारी के पीड़ित तीन अलग-अलग वाहनों में कई स्थानों पर पाए गए थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-06-31"
+          "id": "2026-11-07-42"
         }
       ],
       "quarantined": [],
@@ -1620,49 +2180,79 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-11-06T18:00:00+05:30"
+      "release_at": "2026-11-07T18:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
-      "url": "https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece",
-      "published": "2026-11-06T01:32:52+05:30"
+      "title": "Bamboo shelters, cool roofs to climate-proof Telangana cities",
+      "url": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
+      "published": "2026-11-07T01:01:21+05:30"
     },
     {
-      "title": "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
-      "url": "https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece",
-      "published": "2026-11-06T01:24:48+05:30"
+      "title": "Governor asks for status report on all public universities in Karnataka",
+      "url": "https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece",
+      "published": "2026-11-07T00:55:44+05:30"
     },
     {
-      "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
-      "url": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
-      "published": "2026-11-06T00:01:10+05:30"
+      "title": "Periyar Arivulagam books row: political leaders raise concern over allegations, call for action",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/periyar-arivulagam-books-row-political-leaders-raise-concern-over-allegations-call-for-action/article71674446.ece",
+      "published": "2026-11-07T00:53:54+05:30"
     },
     {
-      "title": "Mehli Mistry questions Noel Tata’s citizenship, tax residency status",
-      "url": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
-      "published": "2026-11-05T23:54:30+05:30"
+      "title": "Special Public Prosecutors appointed to conduct trial in POCSO Act cases against Veeramani",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/special-public-prosecutors-appointed-to-conduct-trial-in-pocso-act-cases-against-veeramani/article71675111.ece",
+      "published": "2026-11-07T00:52:13+05:30"
     },
     {
-      "title": "OpenAI formalises future U.S. data-centre safeguards; pledges union engagement, environmental disclosures",
-      "url": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
-      "published": "2026-11-05T23:40:01+05:30"
+      "title": "ONGC expects to acquire operatorship rights in Venezuelan oil projects in 3-6 months’ time",
+      "url": "https://www.thehindu.com/business/Industry/ongc-expects-to-acquire-operatorship-rights-in-venezuelan-oil-projects-in-3-6-months-time/article71675482.ece",
+      "published": "2026-11-06T23:58:54+05:30"
     },
     {
-      "title": "NPCI says MDR charge has been imposed to save the UPI ecosystem from turning ouroboric",
-      "url": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
-      "published": "2026-11-05T23:26:35+05:30"
+      "title": "CBI books Future Retail, Kishore Biyani, others in ₹904 crore bank fraud case; searches conducted in Mumbai",
+      "url": "https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece",
+      "published": "2026-11-06T22:42:28+05:30"
     },
     {
-      "title": "CBG blending at 1.7% in H1; pipeline connectivity key to achieving 3% target",
-      "url": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
-      "published": "2026-11-05T23:12:17+05:30"
+      "title": "Jindal SAW to set up 300,000-tonne seamless pipe plant in Abu Dhabi",
+      "url": "https://www.thehindu.com/business/Industry/jindal-saw-to-set-up-300000-tonne-seamless-pipe-plant-in-abu-dhabi/article71674906.ece",
+      "published": "2026-11-06T21:44:19+05:30"
     },
     {
-      "title": "Repeat gold borrowing rises among low-risk customers, repayment stress persists: CIBIL",
-      "url": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
-      "published": "2026-11-05T22:57:44+05:30"
+      "title": "TASE Global to receive ₹300 crore investment from ValueQuest’s Tristar Fund",
+      "url": "https://www.thehindu.com/business/tase-global-to-receive-300-crore-investment-from-valuequests-tristar-fund/article71674721.ece",
+      "published": "2026-11-06T21:40:03+05:30"
+    },
+    {
+      "title": "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
+      "url": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+      "published": "2026-11-06T21:35:13+05:30"
+    },
+    {
+      "title": "ADNOC inks 10-year LNG supply and purchase agreement with Gujarat Energy",
+      "url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+      "published": "2026-11-06T21:27:52+05:30"
+    },
+    {
+      "title": "Cellophane bees produce a kind of plastic that also degrades, study finds",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+      "published": "2026-11-06T10:15:51+05:30"
+    },
+    {
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+      "published": "2026-11-06T10:10:39+05:30"
+    },
+    {
+      "title": "A noisy Anthropocene is imposing fatal stress on wildlife",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+      "published": "2026-11-06T09:04:56+05:30"
+    },
+    {
+      "title": "How do tokamaks work to make nuclear fusion possible?",
+      "url": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+      "published": "2026-11-05T23:32:24+05:30"
     },
     {
       "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
@@ -1670,9 +2260,14 @@
       "published": "2026-11-05T22:44:46+05:30"
     },
     {
-      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
-      "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
-      "published": "2026-11-05T11:04:06+05:30"
+      "title": "Postcards from Earth",
+      "url": "https://www.thehindu.com/infographics/2026-11-05/nasa-voyager-i-49-years-in-space/index.html",
+      "published": "2026-11-05T18:50:38+05:30"
+    },
+    {
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T23:16:53+00:00"
     },
     {
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
@@ -1680,79 +2275,49 @@
       "published": "2026-11-04T07:39:38+00:00"
     },
     {
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:09:55+00:00"
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T19:37:10+00:00"
     },
     {
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:57:57+00:00"
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T18:32:16+00:00"
     },
     {
-      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T15:27:09+00:00"
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T09:57:04+00:00"
+    },
+    {
+      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:43:30+00:00"
+    },
+    {
+      "title": "A really simple guide to climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:40:51+00:00"
+    },
+    {
+      "title": "What is the Paris Agreement and why does 1.5C matter?",
+      "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:39:07+00:00"
+    },
+    {
+      "title": "What is net zero and is the UK on track to achieve it?",
+      "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:22:51+00:00"
+    },
+    {
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T01:22:39+00:00"
     },
     {
       "title": "Investigation into 'major fish kill' after pollution incident",
       "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T14:51:45+00:00"
-    },
-    {
-      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T08:57:20+00:00"
-    },
-    {
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:39:48+00:00"
-    },
-    {
-      "title": "California governor commutes death sentences for all 548 people on death row",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T20:12:03+00:00"
-    },
-    {
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:59:53+00:00"
-    },
-    {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:40:40+00:00"
-    },
-    {
-      "title": "Eight killed in series of shootings in western Turkey",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T19:32:54+00:00"
-    },
-    {
-      "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
-      "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
-      "published": "2026-11-06T02:04:58+05:30"
-    },
-    {
-      "title": "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
-      "url": "https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece",
-      "published": "2026-11-06T01:52:46+05:30"
-    },
-    {
-      "title": "Danger in the sewer: On India’s sewer cleaning deaths",
-      "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece",
-      "published": "2026-11-06T01:36:26+05:30"
-    },
-    {
-      "title": "Festive season crackdown: Maharashtra FDA seizes food stock worth ₹63.45 crore",
-      "url": "https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece",
-      "published": "2026-11-06T02:11:59+05:30"
-    },
-    {
-      "title": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
-      "published": "2026-11-06T02:08:49+05:30"
     }
   ]
 }
