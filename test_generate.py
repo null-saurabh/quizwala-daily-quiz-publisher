@@ -198,7 +198,7 @@ class DailyGenerationTests(unittest.TestCase):
             def response(raw):
                 return io.StringIO(json.dumps({'candidates': [{'finishReason': 'STOP', 'content': {'parts': [{'text': json.dumps(raw)}]}}]}))
             env = {'DAILY_GENERATION_ENABLED': 'true', 'VERTEX_ACCESS_TOKEN': 'test-only', 'RESERVED_DATE': str(EDITION_DATE)}
-            with patch.dict(generate.os.environ, env), patch.object(generate, 'EDITION_DAY', str(EDITION_DATE)), patch.object(generate, 'sources', return_value=evidence):
+            with patch.dict(generate.os.environ, env), patch.object(generate, 'EDITION_DAY', str(EDITION_DATE)), patch.object(generate, 'sources', return_value=evidence), patch.object(generate, '_resolve_models_to_try', return_value=('gemini-2.5-flash',)):
                 generate.reserve_attempt(EDITION_DATE, root)
                 with patch.object(generate.urllib.request, 'urlopen', return_value=response({'sets': [topic(1, 8)]})) as api:
                     with self.assertRaisesRegex(ValueError, 'Incomplete'):
@@ -436,3 +436,19 @@ class DailyGenerationTests(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 
+
+
+class ModelRoutingTests(unittest.TestCase):
+    def test_uses_exact_crm_order_without_extra_defaults(self):
+        models = ['google/gemini-2.5-flash', 'google/gemini-3.8-flash', 'google/gemini-2.5-flash']
+        with patch.object(generate.urllib.request, 'urlopen', return_value=io.StringIO(json.dumps(models))):
+            self.assertEqual(generate._resolve_models_to_try(), ('gemini-2.5-flash', 'gemini-3.8-flash'))
+
+    def test_empty_routing_stays_empty(self):
+        with patch.object(generate.urllib.request, 'urlopen', return_value=io.StringIO('[]')):
+            self.assertEqual(generate._resolve_models_to_try(), ())
+
+    def test_rejects_invalid_routing(self):
+        with patch.object(generate.urllib.request, 'urlopen', return_value=io.StringIO('["invalid/model"]')):
+            with self.assertRaises(ValueError):
+                generate._resolve_models_to_try()

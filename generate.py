@@ -22,41 +22,21 @@ import xml.etree.ElementTree as ET
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).parent
-MODEL = os.environ.get('VERTEX_MODEL', 'gemini-3.5-flash-lite')
-FALLBACK_MODELS = tuple(
-    m.strip()
-    for m in os.environ.get(
-        'VERTEX_FALLBACK_MODELS',
-        'gemini-3.7-flash,gemini-3-flash-preview,gemini-3.8-flash,gemini-3.7-flash-lite,gemini-2.5-flash,gemini-2.5-flash-lite,gemini-2.5-pro',
-    ).split(',')
-    if m.strip() and m.strip() != MODEL
-)
 VERTEX_PROJECT = os.environ.get('VERTEX_PROJECT', 'project-2af1ec64-67d0-4b99-b40')
 VERTEX_LOCATION = os.environ.get('VERTEX_LOCATION', 'global')
 KOLKATA = ZoneInfo('Asia/Kolkata')
 
 
-def _resolve_models_to_try(root=ROOT):
-    """Return ordered (primary, *fallbacks), respecting state/model_config.json when present."""
-    cfg_path = root / 'state' / 'model_config.json'
-    if cfg_path.is_file() and 'VERTEX_MODEL' not in os.environ:
-        try:
-            cfg = json.loads(cfg_path.read_text(encoding='utf-8'))
-            primary = str(cfg.get('primary_model') or '').removeprefix('google/').strip()
-            fallbacks = [
-                str(m).removeprefix('google/').strip()
-                for m in (cfg.get('fallback_models') or [])
-                if str(m).strip()
-            ]
-            ordered = []
-            for m in ([primary] if primary else []) + fallbacks + [MODEL] + list(FALLBACK_MODELS):
-                if m and m not in ordered:
-                    ordered.append(m)
-            if ordered:
-                return tuple(ordered)
-        except Exception:
-            pass
-    return (MODEL,) + FALLBACK_MODELS
+def _resolve_models_to_try():
+    """Read only effective model IDs from the shared backend routing policy."""
+    base = os.environ.get('QUIZWALAH_API_URL', 'https://quizwalah-api-750753122019.asia-south1.run.app')
+    with urllib.request.urlopen(base.rstrip('/') + '/api/daily/model-routing', timeout=15) as response:
+        models = json.load(response)
+    if not isinstance(models, list) or not all(
+        isinstance(m, str) and re.fullmatch(r'(?:google/)?gemini-[a-zA-Z0-9._-]+', m) for m in models
+    ):
+        raise ValueError('Invalid daily model-routing response')
+    return tuple(dict.fromkeys(m.removeprefix('google/') for m in models))
 
 
 @contextmanager
@@ -594,7 +574,6 @@ def build_payload(decks, evidence, edition_date, generated_at):
         'schema_version': 2,
         'date': edition_date.isoformat(),
         'generated_at': generated_at.isoformat(),
-        'model': MODEL,
         'status': 'ready',
         'sets': decks,
         'sources': [
@@ -914,9 +893,10 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
     body = {'contents':[{'role':'user','parts':[{'text':prompt}]}], 'generationConfig':{
         'responseMimeType':'application/json', 'maxOutputTokens':24000, 'temperature':0.3}}
     attempt = claim_generation(edition_date, root)
-    models_to_try = _resolve_models_to_try(root)
+    models_to_try = _resolve_models_to_try()
+    if not models_to_try:
+        raise SystemExit("All configured AI models are disabled; retry after their mute expires.")
     result = None
-    last_http_error = None
     for idx, candidate_model in enumerate(models_to_try):
         request = urllib.request.Request(
             _vertex_endpoint(candidate_model),
@@ -929,7 +909,6 @@ Stay within the output budget, complete valid JSON rather than truncating. Date:
                 result = json.load(response)
             break
         except urllib.error.HTTPError as error:
-            last_http_error = error
             raw_detail = error.read(1000).decode('utf-8', errors='replace')
             safe_detail = _redact_upstream_error(raw_detail)
             if idx + 1 < len(models_to_try) and error.code in {404, 429, 500, 502, 503, 504}:

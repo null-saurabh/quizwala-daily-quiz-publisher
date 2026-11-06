@@ -83,7 +83,6 @@ jobs:
           DAILY_GENERATION_ENABLED: ${{ vars.DAILY_GENERATION_ENABLED }}
           VERTEX_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
           VERTEX_PROJECT: ${{ vars.GCP_PROJECT_ID || 'project-2af1ec64-67d0-4b99-b40' }}
-          VERTEX_MODEL: ${{ vars.VERTEX_MODEL || 'gemini-3.5-flash-lite' }}
           RESERVED_DATE: ${{ steps.reserve.outputs.day }}
           EDITION_DATE: ${{ steps.reserve.outputs.day }}
         run: python3 generate.py
