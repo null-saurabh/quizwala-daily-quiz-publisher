@@ -556,6 +556,236 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-08-12"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of the application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji regarding an election petition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The election petition was rejected"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The application was accepted"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A new election was ordered"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition', indicating the application was dismissed.\nSource: https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-29"
+        },
+        {
+          "prompt": {
+            "en": "What specific aspect of India's foreign policy was described as \"regrettable\" by a former Madras High Court judge at a book launch?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "India's educational policy"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "India's environmental policy"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "India's economic policy"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that 'India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-30"
+        },
+        {
+          "prompt": {
+            "en": "What specific message was found on the note that led to the emergency return of the Lucknow-bound IndiGo flight to Bengaluru?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A message about a technical malfunction"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A message about a change in flight schedule"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "“This flight is going to hijack at 6.30, ignore and see the consequences”"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A message about a passenger emergency"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt directly quotes the message found: '“This flight is going to hijack at 6.30, ignore and see the consequences”'.\nSource: https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-31"
+        },
+        {
+          "prompt": {
+            "en": "What significant activity related to the Bengaluru Metro's Blue Line was conducted at the Byappanahalli depot?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Inauguration of a new station"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Public consultation for route expansion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Maintenance work on existing tracks"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the source clearly states: 'Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot'.\nSource: https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-32"
+        },
+        {
+          "prompt": {
+            "en": "With what traditional items and activities will millions of Indians mark the festival of lights?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "With parades and carnivals"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "With sporting events and competitions"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "With fasting and meditation"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "With glowing lamps, fireworks and traditional sweets"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt specifies that 'Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-33"
         }
       ],
       "quarantined": [],
@@ -842,6 +1072,52 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-08-18"
+        },
+        {
+          "prompt": {
+            "en": "What factors are identified as continuing to constrain upward mobility for millions in India, despite a reduction in extreme poverty?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lack of comfortable standard of living"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "High prosperity gap"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Reduced extreme poverty"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explicitly states that 'informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility' in India.\nSource: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Technology",
+          "source_label": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-34"
         }
       ],
       "quarantined": [],
@@ -1600,6 +1876,62 @@
       "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T16:50:06+00:00",
       "text": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+    },
+    {
+      "id": "1",
+      "title": "Madras HC refuses to reject Anbil Mahesh Poyyamozhi’s election petition",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece",
+      "published": "2026-11-07T23:50:33+05:30",
+      "text": "Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition"
+    },
+    {
+      "id": "2",
+      "title": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
+      "published": "2026-11-07T23:42:53+05:30",
+      "text": ""
+    },
+    {
+      "id": "3",
+      "title": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+      "published": "2026-11-07T23:40:32+05:30",
+      "text": "The book, Amerikka-Isravel Aneethiyum Makkal Samuga Kadamaiyum, features articles examining the trajectory of hostilities between the United States and Iran and the Israel-Lebanon conflict"
+    },
+    {
+      "id": "4",
+      "title": "Mathematics key to AI’s advancement, says expert",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/mathematics-key-to-ais-advancement-says-expert/article71679093.ece",
+      "published": "2026-11-07T23:35:15+05:30",
+      "text": ""
+    },
+    {
+      "id": "5",
+      "title": "Lucknow-bound IndiGo flight returns to Bengaluru after hijack threat note found onboard",
+      "url": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
+      "published": "2026-11-07T23:22:43+05:30",
+      "text": "Flight 6E-451 had departed from Terminal 1 of KIA when cabin crew members found the note that said “This flight is going to hijack at 6.30, ignore and see the consequences”"
+    },
+    {
+      "id": "35",
+      "title": "What we know about Krakow mass shooting so far",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T18:22:11+00:00",
+      "text": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+    },
+    {
+      "id": "37",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T18:14:38+00:00",
+      "text": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+    },
+    {
+      "id": "38",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T17:09:24+00:00",
+      "text": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
     }
   ]
 }

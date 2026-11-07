@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-11-08",
-  "generated_at": "2026-11-07T17:52:30.198681+00:00",
+  "generated_at": "2026-11-07T18:28:28.003891+00:00",
   "status": "ready",
   "sets": [
     {
@@ -290,7 +290,7 @@
               "label": "C",
               "text": {
                 "en": "Informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility",
-                "hi": "अनौपचारिक कार्य, स्थिर वेतन और सीमित रोजगार के अवसर ऊर्ध्वगामी गतिशीलता में बाधक बने हुए हैं"
+                "hi": "अनौपचारिक कार्य, स्थिर वेतन और सीमित रोज़गार के अवसर ऊर्ध्वगामी गतिशीलता में बाधक बने हुए हैं"
               }
             },
             {
@@ -356,7 +356,7 @@
           "correct_option_id": "d",
           "explanation": {
             "en": "The excerpt explicitly mentions, 'Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments', covering both historical and modern aspects.\nSource: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-            "hi": "अंश में स्पष्ट रूप से उल्लेख किया गया है, 'हिमाचल प्रदेश में रामपुर बुशहर का लवी मेला ऊन और वस्तु विनिमय से महिला उद्यमियों और डिजिटल भुगतान तक की हिमालयी यात्रा का पता लगाता है', जो ऐतिहासिक और आधुनिक दोनों पहलुओं को कवर करता है।\nस्रोत: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+            "hi": "अंश में स्पष्ट रूप से उल्लेख किया गया है, 'हिमाचल प्रदेश में रामपुर बुशहर का लवी मेला ऊन और वस्तु विनिमय से लेकर महिला उद्यमियों और डिजिटल भुगतान तक की हिमालयी यात्रा का पता लगाता है', जो ऐतिहासिक और आधुनिक दोनों पहलुओं को कवर करता है।\nस्रोत: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
           },
           "section": "National Affairs & Governance",
           "source_label": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
@@ -509,7 +509,7 @@
           "correct_option_id": "d",
           "explanation": {
             "en": "The excerpt states, 'The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel.', providing the exact average content.\nSource: https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
-            "hi": "अंश में कहा गया है, 'राज्य के स्वामित्व वाली OMCs ने राज्य भर से उनके द्वारा परीक्षण किए गए 56 नमूनों में वाहन ईंधन में औसतन 19.3% इथेनॉल सामग्री की सूचना दी।', सटीक औसत सामग्री प्रदान करती है।\nस्रोत: https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece"
+            "hi": "अंश में कहा गया है, 'राज्य के स्वामित्व वाली ओएमसी ने राज्य भर से उनके द्वारा परीक्षण किए गए 56 नमूनों में वाहन ईंधन में औसतन 19.3% इथेनॉल सामग्री की सूचना दी है।', सटीक औसत सामग्री प्रदान करता है।\nस्रोत: https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece"
           },
           "section": "National Affairs & Governance",
           "source_label": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
@@ -619,6 +619,261 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-08-12"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of the application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji regarding an election petition?",
+            "hi": "तिरुवेरुम्बुर टीवीके विधायक विजयकुमार उर्फ नवलपट्टू विजी द्वारा चुनाव याचिका के संबंध में दायर आवेदन का परिणाम क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition",
+                "hi": "न्यायमूर्ति के. कुमारेश बाबू ने तिरुवेरुम्बुर टीवीके विधायक विजयकुमार उर्फ नवलपट्टू विजी द्वारा चुनाव याचिका खारिज करने के लिए दायर एक आवेदन को खारिज कर दिया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The election petition was rejected",
+                "hi": "चुनाव याचिका खारिज कर दी गई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The application was accepted",
+                "hi": "आवेदन स्वीकार कर लिया गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A new election was ordered",
+                "hi": "नये चुनाव का आदेश दिया गया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'Justice K. Kumaresh Babu dismisses an application filed by Thiruverumbur TVK MLA Vijayakumar alias Navalpattu Viji to reject the election petition', indicating the application was dismissed.\nSource: https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece",
+            "hi": "अंश में कहा गया है कि 'जस्टिस के. कुमारेश बाबू ने तिरुवेरुम्बुर टीवीके विधायक विजयकुमार उर्फ नवलपट्टू विजी द्वारा चुनाव याचिका को खारिज करने के लिए दायर एक आवेदन को खारिज कर दिया', यह दर्शाता है कि आवेदन खारिज कर दिया गया था।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-29"
+        },
+        {
+          "prompt": {
+            "en": "What specific aspect of India's foreign policy was described as \"regrettable\" by a former Madras High Court judge at a book launch?",
+            "hi": "एक पुस्तक विमोचन के अवसर पर मद्रास उच्च न्यायालय के पूर्व न्यायाधीश द्वारा भारत की विदेश नीति के किस विशिष्ट पहलू को \"अफसोसजनक\" बताया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
+                "hi": "पुस्तक विमोचन के अवसर पर मद्रास उच्च न्यायालय के पूर्व न्यायाधीश ने कहा, इजराइल के प्रति भारत की नीति में बदलाव खेदजनक है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "India's educational policy",
+                "hi": "भारत की शिक्षा नीति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "India's environmental policy",
+                "hi": "भारत की पर्यावरण नीति"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "India's economic policy",
+                "hi": "भारत की आर्थिक नीति"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that 'India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा है कि 'इजरायल के प्रति भारत की नीति में बदलाव खेदजनक है, ऐसा किताब के विमोचन के अवसर पर मद्रास उच्च न्यायालय के पूर्व न्यायाधीश ने कहा।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-30"
+        },
+        {
+          "prompt": {
+            "en": "What specific message was found on the note that led to the emergency return of the Lucknow-bound IndiGo flight to Bengaluru?",
+            "hi": "नोट पर ऐसा कौन सा विशिष्ट संदेश मिला जिसके कारण लखनऊ जाने वाली इंडिगो की उड़ान को आपातकालीन स्थिति में बेंगलुरु वापस लौटाना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A message about a technical malfunction",
+                "hi": "तकनीकी खराबी के बारे में एक संदेश"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A message about a change in flight schedule",
+                "hi": "उड़ान अनुसूची में बदलाव के बारे में एक संदेश"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "“This flight is going to hijack at 6.30, ignore and see the consequences”",
+                "hi": "\"यह फ्लाइट 6.30 बजे हाईजैक होने वाली है, ध्यान न दें और परिणाम देखें\""
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A message about a passenger emergency",
+                "hi": "यात्री आपात्कालीन स्थिति के बारे में एक संदेश"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt directly quotes the message found: '“This flight is going to hijack at 6.30, ignore and see the consequences”'.\nSource: https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
+            "hi": "अंश सीधे तौर पर मिले संदेश को उद्धृत करता है: ''यह फ्लाइट 6.30 बजे हाईजैक होने वाली है, ध्यान न दें और परिणाम देखें''।\nस्रोत: https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-31"
+        },
+        {
+          "prompt": {
+            "en": "What significant activity related to the Bengaluru Metro's Blue Line was conducted at the Byappanahalli depot?",
+            "hi": "बयप्पनहल्ली डिपो में बेंगलुरु मेट्रो की ब्लू लाइन से संबंधित कौन सी महत्वपूर्ण गतिविधि आयोजित की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
+                "hi": "बेंगलुरु मेट्रो ने ब्यप्पनहल्ली डिपो में ब्लू लाइन ट्रेन का ट्रायल रन किया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Inauguration of a new station",
+                "hi": "नये स्टेशन का उद्घाटन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Public consultation for route expansion",
+                "hi": "मार्ग विस्तार के लिए सार्वजनिक परामर्श"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Maintenance work on existing tracks",
+                "hi": "मौजूदा ट्रैक पर रखरखाव का काम"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the source clearly states: 'Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot'.\nSource: https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
+            "hi": "स्रोत का शीर्षक स्पष्ट रूप से बताता है: 'बेंगलुरु मेट्रो ने ब्यप्पनहल्ली डिपो में ब्लू लाइन ट्रेन का ट्रायल रन किया।'\nस्रोत: https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-32"
+        },
+        {
+          "prompt": {
+            "en": "With what traditional items and activities will millions of Indians mark the festival of lights?",
+            "hi": "लाखों भारतीय रोशनी के त्योहार को किन पारंपरिक वस्तुओं और गतिविधियों के साथ मनाएंगे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "With parades and carnivals",
+                "hi": "परेड और कार्निवल के साथ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "With sporting events and competitions",
+                "hi": "खेल आयोजनों और प्रतियोगिताओं के साथ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "With fasting and meditation",
+                "hi": "उपवास और ध्यान के साथ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "With glowing lamps, fireworks and traditional sweets",
+                "hi": "जगमगाते दीयों, आतिशबाजी और पारंपरिक मिठाइयों के साथ"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt specifies that 'Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश निर्दिष्ट करता है कि 'लाखों भारतीय रोशनी के त्योहार को चमकते दीपक, आतिशबाजी और पारंपरिक मिठाइयों के साथ मनाएंगे।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-33"
         }
       ],
       "quarantined": [],
@@ -659,7 +914,7 @@
               "label": "C",
               "text": {
                 "en": "No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics",
-                "hi": "किसी भी सीओपी निर्णय में कुल या शेष कार्बन बजट के मात्रात्मक मूल्य का उल्लेख नहीं किया गया है और न ही इस बात पर चर्चा की गई है कि किन देशों ने इसे सबसे अधिक खर्च किया है। यदि COP31 को जलवायु कार्रवाई को वास्तविक गति प्रदान करनी है, तो इसके निर्णयों को बुनियादी बातों पर वापस लौटना होगा"
+                "hi": "सीओपी के किसी भी निर्णय में कुल या शेष कार्बन बजट के मात्रात्मक मूल्य का उल्लेख नहीं किया गया है और न ही इस बात पर चर्चा की गई है कि किन देशों ने इसे सबसे अधिक खर्च किया है। यदि COP31 को जलवायु कार्रवाई को वास्तविक गति प्रदान करनी है, तो इसके निर्णयों को बुनियादी बातों पर वापस लौटना होगा"
               }
             },
             {
@@ -1031,7 +1286,7 @@
           "correct_option_id": "d",
           "explanation": {
             "en": "The excerpt directly quotes the former Brexit negotiator stating, 'EU countries would reject any British attempts to follow economic rules \"a la carte\"', indicating their response.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश सीधे तौर पर पूर्व ब्रेक्सिट वार्ताकार को यह कहते हुए उद्धृत करता है, 'ईयू देश \"अ ला कार्टे\" आर्थिक नियमों का पालन करने के किसी भी ब्रिटिश प्रयास को अस्वीकार कर देंगे, जो उनकी प्रतिक्रिया को दर्शाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+            "hi": "अंश सीधे पूर्व ब्रेक्सिट वार्ताकार को यह कहते हुए उद्धृत करता है, 'ईयू देश आर्थिक नियमों \"ला कार्टे\" का पालन करने के किसी भी ब्रिटिश प्रयास को अस्वीकार कर देंगे, जो उनकी प्रतिक्रिया को दर्शाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
           },
           "section": "Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
@@ -1082,7 +1337,7 @@
           "correct_option_id": "d",
           "explanation": {
             "en": "The source explicitly states, 'Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.', identifying the banking crisis as the cause.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र ने स्पष्ट रूप से कहा, 'सैंटियागो पेना को एक बैंकिंग संकट के कारण बाहर कर दिया गया था, जिसके कारण लाखों लोग अपने पैसे तक पहुंचने में असमर्थ थे।', बैंकिंग संकट को इसका कारण बताया गया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+            "hi": "सूत्र में स्पष्ट रूप से कहा गया है, 'सैंटियागो पेना को एक बैंकिंग संकट के कारण बाहर कर दिया गया था, जिसके कारण लाखों लोग अपने पैसे तक पहुंचने में असमर्थ हो गए थे।', बैंकिंग संकट को कारण के रूप में पहचानते हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
           },
           "section": "Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -1133,7 +1388,7 @@
           "correct_option_id": "c",
           "explanation": {
             "en": "The excerpt clearly states, 'Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.', identifying the responsible party.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'प्रधानमंत्री जियोर्जिया मेलोनी ने विवरण ऑनलाइन प्रकाशित करने के लिए रूसी समर्थक हैकरों को दोषी ठहराया है।', जिम्मेदार पार्टी की पहचान की गई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'प्रधान मंत्री जियोर्जिया मेलोनी ने विवरण ऑनलाइन प्रकाशित करने के लिए रूसी समर्थक हैकरों को दोषी ठहराया है।', जिम्मेदार पार्टी की पहचान की।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
           },
           "section": "Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
@@ -1233,6 +1488,11 @@
       "published": "2026-11-05T22:44:46+05:30"
     },
     {
+      "title": "Homes and temples glow across India as Diwali celebrations begin",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:21:30+00:00"
+    },
+    {
       "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
       "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T23:16:53+00:00"
@@ -1261,6 +1521,26 @@
       "title": "Italian foreign minister says hackers leaked his personal data",
       "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T16:50:06+00:00"
+    },
+    {
+      "title": "Madras HC refuses to reject Anbil Mahesh Poyyamozhi’s election petition",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-reject-anbil-mahesh-poyyamozhis-election-petition/article71678946.ece",
+      "published": "2026-11-07T23:50:33+05:30"
+    },
+    {
+      "title": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
+      "published": "2026-11-07T23:42:53+05:30"
+    },
+    {
+      "title": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+      "published": "2026-11-07T23:40:32+05:30"
+    },
+    {
+      "title": "Lucknow-bound IndiGo flight returns to Bengaluru after hijack threat note found onboard",
+      "url": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
+      "published": "2026-11-07T23:22:43+05:30"
     }
   ]
 }
