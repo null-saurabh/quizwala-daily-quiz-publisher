@@ -1,0 +1,1266 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-08",
+  "generated_at": "2026-11-07T17:52:30.198681+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs & Governance",
+      "source_filename": "daily-2026-11-08.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "In the context of the Rajajingar murders, what specific failure allowed the accused to transport bodies across state lines undetected?",
+            "hi": "राजाजिंगर हत्याओं के संदर्भ में, किस विशिष्ट विफलता ने अभियुक्तों को बिना पहचाने ही शवों को राज्य सीमा के पार ले जाने की अनुमति दी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lack of inter-state police cooperation",
+                "hi": "अंतरराज्यीय पुलिस सहयोग का अभाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Absence of surveillance cameras on state highways",
+                "hi": "राज्य राजमार्गों पर निगरानी कैमरों का अभाव"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Neither a patrolling vehicle nor a checkpoint caught the accused Indushekhar even as he crossed State borders",
+                "hi": "राज्य की सीमा पार करने के बाद भी न तो किसी गश्ती वाहन और न ही किसी चौकी ने आरोपी इंदुशेखर को पकड़ा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Insufficient intelligence gathering by local police",
+                "hi": "स्थानीय पुलिस द्वारा अपर्याप्त ख़ुफ़िया जानकारी एकत्र करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states that 'Neither a patrolling vehicle nor a checkpoint caught the accused Indushekhar even as he crossed State borders', indicating a failure in ground-level law enforcement mechanisms at state borders.\nSource: https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि 'न तो किसी गश्ती वाहन और न ही किसी चेकपॉइंट ने आरोपी इंदुशेखर को राज्य की सीमाओं को पार करने के बावजूद पकड़ा', जो राज्य की सीमाओं पर जमीनी स्तर के कानून प्रवर्तन तंत्र में विफलता का संकेत देता है।\nस्रोत: https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-1"
+        },
+        {
+          "prompt": {
+            "en": "What is the overarching national vision that students are being encouraged to prepare for?",
+            "hi": "वह व्यापक राष्ट्रीय दृष्टिकोण क्या है जिसकी तैयारी के लिए छात्रों को प्रोत्साहित किया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A globally integrated economy",
+                "hi": "विश्व स्तर पर एकीकृत अर्थव्यवस्था"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A self-reliant India",
+                "hi": "एक आत्मनिर्भर भारत"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A technologically advanced society",
+                "hi": "एक तकनीकी रूप से उन्नत समाज"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A culturally diverse nation",
+                "hi": "सांस्कृतिक रूप से विविध राष्ट्र"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states that 'Students urged to dream big, prepare for a self-reliant India', directly identifying 'a self-reliant India' as the vision.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि 'छात्रों से बड़े सपने देखने, आत्मनिर्भर भारत के लिए तैयारी करने का आग्रह किया गया', जो सीधे तौर पर 'आत्मनिर्भर भारत' को दृष्टिकोण के रूप में पहचानता है।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-2"
+        },
+        {
+          "prompt": {
+            "en": "Which organization in Bengaluru has initiated the second phase of the 'Ward One' project?",
+            "hi": "बेंगलुरु में किस संगठन ने 'वार्ड वन' परियोजना के दूसरे चरण की शुरुआत की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Bengaluru Development Authority (BDA)",
+                "hi": "बेंगलुरु विकास प्राधिकरण (बीडीए)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+                "hi": "बेंगलुरु के GBA ने 'वार्ड वन' का दूसरा चरण लॉन्च किया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Bruhat Bengaluru Mahanagara Palike (BBMP)",
+                "hi": "बृहत बेंगलुरु महानगर पालिका (बीबीएमपी)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Karnataka State Government",
+                "hi": "कर्नाटक राज्य सरकार"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states 'Bengaluru’s GBA launches phase 2 of ‘Ward One’', indicating GBA as the initiating organization.\nSource: https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि 'बेंगलुरु के जीबीए ने 'वार्ड वन' के चरण 2 का शुभारंभ किया', जो जीबीए को आरंभ करने वाले संगठन के रूप में दर्शाता है।\nस्रोत: https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-3"
+        },
+        {
+          "prompt": {
+            "en": "To what factors does Pawan attribute the recent ZPTC and MPTC poll victories?",
+            "hi": "पवन हालिया ZPTC और MPTC चुनावों में जीत का श्रेय किन कारकों को देते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Strategic alliances and political campaigning",
+                "hi": "रणनीतिक गठबंधन और राजनीतिक प्रचार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Effective leadership and public outreach",
+                "hi": "प्रभावी नेतृत्व और सार्वजनिक पहुंच"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Welfare, development",
+                "hi": "कल्याण, विकास"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Voter turnout and demographic shifts",
+                "hi": "मतदाता मतदान और जनसांख्यिकीय बदलाव"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title directly states, 'Pawan attributes ZPTC, MPTC poll victories to welfare, development', identifying welfare and development as the key factors.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece",
+            "hi": "शीर्षक में सीधे तौर पर कहा गया है, 'पवन ZPTC, MPTC चुनाव में जीत का श्रेय कल्याण, विकास को देते हैं', कल्याण और विकास को प्रमुख कारकों के रूप में पहचानते हैं।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-4"
+        },
+        {
+          "prompt": {
+            "en": "What specific public concern prompted the clarification regarding the Ballari Road elevated corridor work?",
+            "hi": "किस विशिष्ट सार्वजनिक चिंता ने बल्लारी रोड एलिवेटेड कॉरिडोर कार्य के संबंध में स्पष्टीकरण को प्रेरित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Environmental impact of the construction",
+                "hi": "निर्माण का पर्यावरणीय प्रभाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Financial viability of the project",
+                "hi": "परियोजना की वित्तीय व्यवहार्यता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The clarification comes amid concerns over the traffic disruption expected during the construction period.",
+                "hi": "यह स्पष्टीकरण निर्माण अवधि के दौरान अपेक्षित यातायात व्यवधान पर चिंताओं के बीच आया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Safety standards for workers at the site",
+                "hi": "साइट पर श्रमिकों के लिए सुरक्षा मानक"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'The clarification comes amid concerns over the traffic disruption expected during the construction period.', directly answering the question.\nSource: https://www.thehindu.com/news/cities/bangalore/no-complete-closure-of-ballari-road-for-18-months-for-elevated-corridor-work-bda/article71679222.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'यह स्पष्टीकरण निर्माण अवधि के दौरान अपेक्षित यातायात व्यवधान पर चिंताओं के बीच आया है।', सीधे सवाल का जवाब देता है।\nस्रोत: https://www.thehindu.com/news/cities/bangalore/no-complete-closure-of-ballari-road-for-18-months-for-elevated-corridor-work-bda/article71679222.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/bangalore/no-complete-closure-of-ballari-road-for-18-months-for-elevated-corridor-work-bda/article71679222.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-5"
+        },
+        {
+          "prompt": {
+            "en": "Despite India's progress in reducing extreme poverty, what persistent issues continue to hinder upward mobility for millions?",
+            "hi": "अत्यधिक गरीबी को कम करने में भारत की प्रगति के बावजूद, कौन से लगातार मुद्दे लाखों लोगों की ऊर्ध्वगामी गतिशीलता में बाधक बने हुए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lack of access to education and healthcare",
+                "hi": "शिक्षा और स्वास्थ्य देखभाल तक पहुंच का अभाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "High inflation and rising cost of living",
+                "hi": "उच्च मुद्रास्फीति और जीवनयापन की बढ़ती लागत"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility",
+                "hi": "अनौपचारिक कार्य, स्थिर वेतन और सीमित रोजगार के अवसर ऊर्ध्वगामी गतिशीलता में बाधक बने हुए हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Insufficient government welfare schemes",
+                "hi": "अपर्याप्त सरकारी कल्याणकारी योजनाएँ"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility', directly listing the hindering factors.\nSource: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+            "hi": "स्रोत में कहा गया है, 'अनौपचारिक काम, स्थिर मजदूरी और सीमित रोजगार के अवसर ऊपर की ओर गतिशीलता को बाधित कर रहे हैं', सीधे तौर पर बाधा डालने वाले कारकों को सूचीबद्ध करते हुए।\nस्रोत: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-6"
+        },
+        {
+          "prompt": {
+            "en": "What historical and modern economic activities are highlighted in the context of Rampur Bushahr’s Lavi Fair in Himachal Pradesh?",
+            "hi": "हिमाचल प्रदेश में रामपुर बुशहर के लवी मेले के संदर्भ में कौन सी ऐतिहासिक और आधुनिक आर्थिक गतिविधियों पर प्रकाश डाला गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Agricultural trade and livestock farming",
+                "hi": "कृषि व्यापार और पशुपालन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Forest products and traditional crafts",
+                "hi": "वन उत्पाद और पारंपरिक शिल्प"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Handicrafts and tourism promotion",
+                "hi": "हस्तशिल्प एवं पर्यटन को बढ़ावा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments",
+                "hi": "हिमाचल प्रदेश में रामपुर बुशहर का लवी मेला ऊन और वस्तु विनिमय से लेकर महिला उद्यमियों और डिजिटल भुगतान तक की हिमालयी यात्रा का पता लगाता है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt explicitly mentions, 'Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments', covering both historical and modern aspects.\nSource: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+            "hi": "अंश में स्पष्ट रूप से उल्लेख किया गया है, 'हिमाचल प्रदेश में रामपुर बुशहर का लवी मेला ऊन और वस्तु विनिमय से महिला उद्यमियों और डिजिटल भुगतान तक की हिमालयी यात्रा का पता लगाता है', जो ऐतिहासिक और आधुनिक दोनों पहलुओं को कवर करता है।\nस्रोत: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-7"
+        },
+        {
+          "prompt": {
+            "en": "What was the core of the controversy regarding ethanol blending in petrol, as claimed by the Karnataka government?",
+            "hi": "जैसा कि कर्नाटक सरकार ने दावा किया है, पेट्रोल में इथेनॉल मिश्रण को लेकर विवाद का मूल क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Inadequate supply of ethanol for blending",
+                "hi": "सम्मिश्रण के लिए इथेनॉल की अपर्याप्त आपूर्ति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Discrepancies in ethanol pricing mechanisms",
+                "hi": "इथेनॉल मूल्य निर्धारण तंत्र में विसंगतियाँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lack of infrastructure for E20 fuel distribution",
+                "hi": "E20 ईंधन वितरण के लिए बुनियादी ढांचे की कमी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A major controversy has emerged over ethanol blending in petrol after the Karnataka government claimed that fuel samples collected from multiple districts contained ethanol levels significantly above India’s permitted E20 limit.",
+                "hi": "कर्नाटक सरकार द्वारा दावा किए जाने के बाद कि कई जिलों से एकत्र किए गए ईंधन के नमूनों में इथेनॉल का स्तर भारत की अनुमत E20 सीमा से काफी ऊपर है, पेट्रोल में इथेनॉल मिश्रण को लेकर एक बड़ा विवाद सामने आया है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'A major controversy has emerged over ethanol blending in petrol after the Karnataka government claimed that fuel samples collected from multiple districts contained ethanol levels significantly above India’s permitted E20 limit.', which is the exact core of the controversy.\nSource: https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+            "hi": "सूत्र का कहना है, 'कर्नाटक सरकार द्वारा दावा किए जाने के बाद पेट्रोल में इथेनॉल मिश्रण को लेकर एक बड़ा विवाद सामने आया है कि कई जिलों से एकत्र किए गए ईंधन के नमूनों में इथेनॉल का स्तर भारत की अनुमत E20 सीमा से काफी ऊपर है।', जो विवाद का सटीक मूल है।\nस्रोत: https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective of the VISTAR initiative in India?",
+            "hi": "भारत में VISTAR पहल का प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "VISTAR: India’s shift towards a real-time, technology-driven statistical system",
+                "hi": "विस्तार: भारत का वास्तविक समय, प्रौद्योगिकी-संचालित सांख्यिकीय प्रणाली की ओर बदलाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To promote e-governance services for citizens",
+                "hi": "नागरिकों के लिए ई-गवर्नेंस सेवाओं को बढ़ावा देना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To enhance digital literacy across rural areas",
+                "hi": "ग्रामीण क्षेत्रों में डिजिटल साक्षरता बढ़ाना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To modernize the public distribution system",
+                "hi": "सार्वजनिक वितरण प्रणाली का आधुनिकीकरण करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the article clearly defines VISTAR as 'India’s shift towards a real-time, technology-driven statistical system', which is its primary objective.\nSource: https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+            "hi": "लेख का शीर्षक स्पष्ट रूप से VISTAR को 'वास्तविक समय, प्रौद्योगिकी-संचालित सांख्यिकीय प्रणाली की ओर भारत का बदलाव' के रूप में परिभाषित करता है, जो इसका प्राथमिक उद्देश्य है।\nस्रोत: https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-9"
+        },
+        {
+          "prompt": {
+            "en": "What was the average ethanol content reported by state-owned OMCs in their tests of vehicular fuel samples from Karnataka?",
+            "hi": "कर्नाटक से वाहन ईंधन नमूनों के परीक्षण में राज्य के स्वामित्व वाली ओएमसी द्वारा रिपोर्ट की गई औसत इथेनॉल सामग्री क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Significantly above India’s permitted E20 limit",
+                "hi": "भारत की अनुमत E20 सीमा से काफी ऊपर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Below 15% ethanol content",
+                "hi": "15% से कम इथेनॉल सामग्री"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exactly 20% ethanol content",
+                "hi": "बिल्कुल 20% इथेनॉल सामग्री"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel.",
+                "hi": "राज्य के स्वामित्व वाली ओएमसी ने राज्य भर से परीक्षण किए गए 56 नमूनों में वाहन ईंधन में औसतन 19.3% इथेनॉल सामग्री की सूचना दी।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel.', providing the exact average content.\nSource: https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+            "hi": "अंश में कहा गया है, 'राज्य के स्वामित्व वाली OMCs ने राज्य भर से उनके द्वारा परीक्षण किए गए 56 नमूनों में वाहन ईंधन में औसतन 19.3% इथेनॉल सामग्री की सूचना दी।', सटीक औसत सामग्री प्रदान करती है।\nस्रोत: https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-10"
+        },
+        {
+          "prompt": {
+            "en": "What is ISRO's objective for conducting in-orbit testing of the NVS-03 satellite payload?",
+            "hi": "NVS-03 उपग्रह पेलोड का कक्षा में परीक्षण करने का इसरो का उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative",
+                "hi": "इसरो एक स्वदेशी जीपीएस विकल्प, NavIC विकसित करने के हिस्से के रूप में उपग्रह पेलोड के लिए कक्षा में परीक्षण करेगा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To provide high-resolution imaging services",
+                "hi": "उच्च-रिज़ॉल्यूशन इमेजिंग सेवाएँ प्रदान करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To enhance global satellite communication capabilities",
+                "hi": "वैश्विक उपग्रह संचार क्षमताओं को बढ़ाना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To study atmospheric conditions for weather forecasting",
+                "hi": "मौसम की भविष्यवाणी के लिए वायुमंडलीय स्थितियों का अध्ययन करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source clearly states, 'ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative', indicating the purpose is to develop NavIC.\nSource: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+            "hi": "सूत्र में स्पष्ट रूप से कहा गया है, 'इसरो एक स्वदेशी जीपीएस विकल्प, NavIC विकसित करने के हिस्से के रूप में उपग्रह पेलोड के लिए कक्षा में परीक्षण करेगा', यह दर्शाता है कि इसका उद्देश्य NavIC विकसित करना है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-11"
+        },
+        {
+          "prompt": {
+            "en": "What specific measure has the Delhi government announced to combat its toxic winter air?",
+            "hi": "दिल्ली सरकार ने अपनी जहरीली सर्दियों की हवा से निपटने के लिए किस विशिष्ट उपाय की घोषणा की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Implementation of odd-even vehicle restrictions",
+                "hi": "सम-विषम वाहन प्रतिबंधों का कार्यान्वयन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Distribution of free air purifiers to residents",
+                "hi": "निवासियों को निःशुल्क वायु शोधक का वितरण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+                "hi": "दिल्ली सरकार ने चार महीने की शीतकालीन कार्य योजना की घोषणा की है, लेकिन विशेषज्ञों का कहना है कि यह पर्याप्त नहीं होगा।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Closure of all construction activities",
+                "hi": "सभी निर्माण गतिविधियाँ बंद"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt directly states, 'The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.', identifying the specific measure.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में सीधे तौर पर कहा गया है, 'दिल्ली सरकार ने चार महीने की शीतकालीन कार्य योजना की घोषणा की है, लेकिन विशेषज्ञों का कहना है कि यह पर्याप्त नहीं होगा।', विशिष्ट उपाय की पहचान करते हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-08T06:30:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-08.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What critical aspects of the carbon budget have not been addressed in previous COP decisions, according to the article?",
+            "hi": "लेख के अनुसार, पिछले सीओपी निर्णयों में कार्बन बजट के किन महत्वपूर्ण पहलुओं पर ध्यान नहीं दिया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The impact of deforestation on carbon emissions",
+                "hi": "कार्बन उत्सर्जन पर वनों की कटाई का प्रभाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The role of renewable energy in reducing carbon footprint",
+                "hi": "कार्बन पदचिह्न को कम करने में नवीकरणीय ऊर्जा की भूमिका"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics",
+                "hi": "किसी भी सीओपी निर्णय में कुल या शेष कार्बन बजट के मात्रात्मक मूल्य का उल्लेख नहीं किया गया है और न ही इस बात पर चर्चा की गई है कि किन देशों ने इसे सबसे अधिक खर्च किया है। यदि COP31 को जलवायु कार्रवाई को वास्तविक गति प्रदान करनी है, तो इसके निर्णयों को बुनियादी बातों पर वापस लौटना होगा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The technological solutions for carbon capture and storage",
+                "hi": "कार्बन कैप्चर और भंडारण के लिए तकनीकी समाधान"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most.', highlighting these unaddressed aspects.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'सीओपी के किसी भी निर्णय में कुल या शेष कार्बन बजट के मात्रात्मक मूल्य का उल्लेख नहीं किया गया है और न ही इस बात पर चर्चा की गई है कि किन देशों ने इसे सबसे अधिक खर्च किया है।', इन अनसुलझे पहलुओं पर प्रकाश डाला गया है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-19"
+        },
+        {
+          "prompt": {
+            "en": "What are the key characteristics of the plastic-like nest lining produced by cellophane bees?",
+            "hi": "सिलोफ़न मधुमक्खियों द्वारा निर्मित प्लास्टिक जैसी घोंसले की परत की प्रमुख विशेषताएं क्या हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year",
+                "hi": "जमीन पर घोंसला बनाने वाली मधुमक्खी का घोंसला अस्तर पारभासी, लचीला, लचीला होता है और एक वर्ष के भीतर ख़राब हो जाता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is highly toxic, non-degradable, and waterproof",
+                "hi": "यह अत्यधिक विषैला, नष्ट न होने वाला और जलरोधक है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is opaque, rigid, brittle, and lasts for decades",
+                "hi": "यह अपारदर्शी, कठोर, भंगुर होता है और दशकों तक बना रहता है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is porous, fragile, and dissolves immediately in water",
+                "hi": "यह छिद्रपूर्ण, नाजुक होता है और पानी में तुरंत घुल जाता है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source describes the nest lining as 'translucent, flexible, resilient and degrades within a year', which are its key characteristics.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+            "hi": "स्रोत ने घोंसले की परत को 'पारभासी, लचीला, लचीला और एक वर्ष के भीतर ख़राब होने' के रूप में वर्णित किया है, जो इसकी प्रमुख विशेषताएं हैं।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-20"
+        },
+        {
+          "prompt": {
+            "en": "How far back in time are galactic archaeologists able to trace the history of the Milky Way using new missions?",
+            "hi": "गैलेक्टिक पुरातत्वविद् नए मिशनों का उपयोग करके आकाशगंगा के इतिहास का पता लगाने में कितने पीछे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Approximately 5 billion years",
+                "hi": "लगभग 5 अरब वर्ष"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Around 2 billion years",
+                "hi": "लगभग 2 अरब वर्ष"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years",
+                "hi": "गैलेक्टिक पुरातत्वविद तारों के समूहों के बीच सूक्ष्म अंतर को दूर करने के लिए नए मिशनों द्वारा उपलब्ध कराए गए सटीक उपायों और बड़े नमूना आकारों का उपयोग कर रहे हैं, जिससे आकाशगंगा के लगभग 12 अरब वर्ष पुराने इतिहास का पता चलता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Just over 1 billion years",
+                "hi": "बस 1 अरब वर्ष से अधिक"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that new missions are 'revealing the history of the Milky Way going back almost 12 billion years', providing the timeframe.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": "अंश में कहा गया है कि नए मिशन 'लगभग 12 अरब वर्ष पुराने आकाशगंगा के इतिहास का खुलासा कर रहे हैं', समय सीमा प्रदान करते हुए।\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-21"
+        },
+        {
+          "prompt": {
+            "en": "What was a significant finding from the research on the impact of noise on wildlife across various species and continents?",
+            "hi": "विभिन्न प्रजातियों और महाद्वीपों में वन्यजीवों पर शोर के प्रभाव पर शोध से क्या महत्वपूर्ण निष्कर्ष निकला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Noise pollution primarily affects avian species",
+                "hi": "ध्वनि प्रदूषण मुख्य रूप से पक्षी प्रजातियों को प्रभावित करता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Noise pollution has no measurable impact on animal behavior",
+                "hi": "ध्वनि प्रदूषण का जानवरों के व्यवहार पर कोई मापनीय प्रभाव नहीं पड़ता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Researchers analysed over 200 experimental studies on 177 aquatic and terrestrial species across six continents and found that noise altered specific traits in 80% of the animals studied",
+                "hi": "शोधकर्ताओं ने छह महाद्वीपों में 177 जलीय और स्थलीय प्रजातियों पर 200 से अधिक प्रायोगिक अध्ययनों का विश्लेषण किया और पाया कि अध्ययन किए गए 80% जानवरों में शोर ने विशिष्ट लक्षणों को बदल दिया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Only marine animals are significantly affected by noise",
+                "hi": "केवल समुद्री जानवर ही शोर से महत्वपूर्ण रूप से प्रभावित होते हैं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source explicitly states, 'Researchers analysed over 200 experimental studies on 177 aquatic and terrestrial species across six continents and found that noise altered specific traits in 80% of the animals studied', detailing the significant finding.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+            "hi": "स्रोत स्पष्ट रूप से बताता है, 'शोधकर्ताओं ने छह महाद्वीपों में 177 जलीय और स्थलीय प्रजातियों पर 200 से अधिक प्रयोगात्मक अध्ययनों का विश्लेषण किया और पाया कि अध्ययन किए गए 80% जानवरों में शोर ने विशिष्ट लक्षणों को बदल दिया', महत्वपूर्ण खोज का विवरण देते हुए।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-22"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary method a tokamak employs to achieve nuclear fusion, and what is its current status regarding commercial power generation?",
+            "hi": "परमाणु संलयन प्राप्त करने के लिए टोकामक द्वारा अपनाई जाने वाली प्राथमिक विधि क्या है, और वाणिज्यिक बिजली उत्पादन के संबंध में इसकी वर्तमान स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It uses laser beams to compress fuel pellets, and it is already a commercial power source.",
+                "hi": "यह ईंधन छर्रों को संपीड़ित करने के लिए लेजर बीम का उपयोग करता है, और यह पहले से ही एक वाणिज्यिक ऊर्जा स्रोत है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It uses chemical reactions to produce energy, and it is currently in the experimental phase for commercial use.",
+                "hi": "यह ऊर्जा उत्पन्न करने के लिए रासायनिक प्रतिक्रियाओं का उपयोग करता है, और यह वर्तमान में व्यावसायिक उपयोग के लिए प्रायोगिक चरण में है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It relies on gravitational forces to fuse atomic nuclei, and it is expected to be commercialized next year.",
+                "hi": "यह परमाणु नाभिक को संलयन करने के लिए गुरुत्वाकर्षण बलों पर निर्भर करता है, और अगले वर्ष इसका व्यावसायीकरण होने की उम्मीद है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion; despite advances in research, engineering challenges remain, and no tokamak has generated net energy for commercial power",
+                "hi": "टोकामक परमाणु संलयन को सक्षम करने के लिए सुपरहॉट प्लाज्मा को सीमित करने के लिए चुंबकीय क्षेत्र का उपयोग करता है; अनुसंधान में प्रगति के बावजूद, इंजीनियरिंग चुनौतियाँ बनी हुई हैं, और किसी भी टोकामक ने वाणिज्यिक बिजली के लिए शुद्ध ऊर्जा उत्पन्न नहीं की है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt clearly explains, 'A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion; despite advances in research, engineering challenges remain, and no tokamak has generated net energy for commercial power', covering both aspects of the question.\nSource: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+            "hi": "अंश स्पष्ट रूप से बताता है, 'एक टोकामक परमाणु संलयन को सक्षम करने के लिए सुपरहॉट प्लाज्मा को सीमित करने के लिए चुंबकीय क्षेत्र का उपयोग करता है; अनुसंधान में प्रगति के बावजूद, इंजीनियरिंग चुनौतियाँ बनी हुई हैं, और किसी भी टोकामक ने वाणिज्यिक बिजली के लिए शुद्ध ऊर्जा उत्पन्न नहीं की है', जिसमें प्रश्न के दोनों पहलुओं को शामिल किया गया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-23"
+        },
+        {
+          "prompt": {
+            "en": "Which meteor shower, known for its bright and fast meteors, is expected to be visible from this weekend until the end of November?",
+            "hi": "कौन सा उल्कापात, जो अपने चमकीले और तेज़ उल्काओं के लिए जाना जाता है, इस सप्ताहांत से नवंबर के अंत तक दिखाई देने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Perseid meteor shower",
+                "hi": "पर्सीड उल्कापात"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Geminid meteor shower",
+                "hi": "जेमिनिड उल्कापात"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Orionid meteor shower",
+                "hi": "ओरियोनिड उल्कापात"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+                "hi": "अपने चमकीले और तेज़ उल्काओं के लिए जाना जाने वाला लियोनिड उल्कापात इस सप्ताह के अंत में शुरू होगा और नवंबर के अंत तक जारी रहेगा।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly names 'The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.', matching the description and timeframe.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत ने स्पष्ट रूप से नाम दिया है 'लियोनिड उल्का बौछार, जो अपने चमकीले और तेज़ उल्काओं के लिए जाना जाता है, इस सप्ताह के अंत में शुरू होगा और नवंबर के अंत तक जारी रहेगा।', विवरण और समय सीमा से मेल खाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-24"
+        },
+        {
+          "prompt": {
+            "en": "What political outcome is anticipated in New Zealand following preliminary election results that indicated a highly divided national parliament?",
+            "hi": "प्रारंभिक चुनाव परिणामों के बाद न्यूज़ीलैंड में किस राजनीतिक परिणाम की उम्मीद है जो अत्यधिक विभाजित राष्ट्रीय संसद का संकेत देता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A swift formation of a majority government",
+                "hi": "बहुमत वाली सरकार का तेजी से गठन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The immediate resignation of the incumbent Prime Minister",
+                "hi": "मौजूदा प्रधान मंत्री का तत्काल इस्तीफा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A rerun of the general election",
+                "hi": "आम चुनाव का पुनर्मिलन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+                "hi": "प्रारंभिक परिणामों के अत्यधिक विभाजित राष्ट्रीय संसद की ओर इशारा करने के बाद गठबंधन वार्ता सप्ताहों तक चल सकती है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.', indicating the anticipated political process.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'प्रारंभिक परिणामों के अत्यधिक विभाजित राष्ट्रीय संसद की ओर इशारा करने के बाद गठबंधन वार्ता के सप्ताह चल सकते हैं।', जो प्रत्याशित राजनीतिक प्रक्रिया का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-25"
+        },
+        {
+          "prompt": {
+            "en": "According to the former Brexit negotiator, what would be the EU countries' response to British attempts to selectively adopt economic rules?",
+            "hi": "पूर्व ब्रेक्सिट वार्ताकार के अनुसार, चुनिंदा आर्थिक नियमों को अपनाने के ब्रिटिश प्रयासों पर यूरोपीय संघ के देशों की प्रतिक्रिया क्या होगी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They would consider it a pragmatic approach to trade.",
+                "hi": "वे इसे व्यापार के लिए एक व्यावहारिक दृष्टिकोण मानेंगे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They would seek to negotiate a new comprehensive trade agreement.",
+                "hi": "वे एक नए व्यापक व्यापार समझौते पर बातचीत करना चाहेंगे।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They would likely accept it under certain conditions.",
+                "hi": "वे संभवतः कुछ शर्तों के तहत इसे स्वीकार करेंगे।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+                "hi": "पूर्व ब्रेक्सिट वार्ताकार का कहना है कि यूरोपीय संघ के देश आर्थिक नियमों \"ला कार्टे\" का पालन करने के किसी भी ब्रिटिश प्रयास को अस्वीकार कर देंगे।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt directly quotes the former Brexit negotiator stating, 'EU countries would reject any British attempts to follow economic rules \"a la carte\"', indicating their response.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश सीधे तौर पर पूर्व ब्रेक्सिट वार्ताकार को यह कहते हुए उद्धृत करता है, 'ईयू देश \"अ ला कार्टे\" आर्थिक नियमों का पालन करने के किसी भी ब्रिटिश प्रयास को अस्वीकार कर देंगे, जो उनकी प्रतिक्रिया को दर्शाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-26"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary reason for the impeachment and house arrest of Paraguay's President Santiago Peña?",
+            "hi": "पराग्वे के राष्ट्रपति सैंटियागो पेना पर महाभियोग और नजरबंदी का प्राथमिक कारण क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Allegations of corruption and abuse of power",
+                "hi": "भ्रष्टाचार और सत्ता के दुरुपयोग के आरोप"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Controversial social policy reforms",
+                "hi": "विवादास्पद सामाजिक नीति सुधार"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Failure to address rising unemployment rates",
+                "hi": "बढ़ती बेरोजगारी दर को संबोधित करने में विफलता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+                "hi": "सैंटियागो पेना को बैंकिंग संकट के कारण अपदस्थ कर दिया गया था, जिससे लाखों लोग अपने पैसे तक पहुंचने में असमर्थ हो गए थे।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states, 'Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.', identifying the banking crisis as the cause.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा, 'सैंटियागो पेना को एक बैंकिंग संकट के कारण बाहर कर दिया गया था, जिसके कारण लाखों लोग अपने पैसे तक पहुंचने में असमर्थ थे।', बैंकिंग संकट को इसका कारण बताया गया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-27"
+        },
+        {
+          "prompt": {
+            "en": "Who has Italian Prime Minister Giorgia Meloni blamed for leaking her foreign minister's personal data?",
+            "hi": "इटली की प्रधान मंत्री जियोर्जिया मेलोनी ने अपने विदेश मंत्री का निजी डेटा लीक करने के लिए किसे दोषी ठहराया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic political opponents",
+                "hi": "घरेलू राजनीतिक प्रतिद्वंद्वी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An international cybercrime syndicate",
+                "hi": "एक अंतरराष्ट्रीय साइबर अपराध सिंडिकेट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+                "hi": "प्रधान मंत्री जियोर्जिया मेलोनी ने विवरण ऑनलाइन प्रकाशित करने के लिए रूस समर्थक हैकरों को दोषी ठहराया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Disgruntled former government employees",
+                "hi": "असंतुष्ट पूर्व सरकारी कर्मचारी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states, 'Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.', identifying the responsible party.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'प्रधानमंत्री जियोर्जिया मेलोनी ने विवरण ऑनलाइन प्रकाशित करने के लिए रूसी समर्थक हैकरों को दोषी ठहराया है।', जिम्मेदार पार्टी की पहचान की गई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-28"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-08T13:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rajajingar murders: How did the accused transport bodies across locations without being caught?",
+      "url": "https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+      "published": "2026-11-07T23:17:21+05:30"
+    },
+    {
+      "title": "Students urged to dream big, prepare for a self-reliant India",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+      "published": "2026-11-07T23:17:05+05:30"
+    },
+    {
+      "title": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+      "published": "2026-11-07T23:16:28+05:30"
+    },
+    {
+      "title": "Pawan attributes ZPTC, MPTC poll victories to welfare, development",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece",
+      "published": "2026-11-07T23:05:39+05:30"
+    },
+    {
+      "title": "No complete closure of Ballari Road for 18 months for elevated corridor work: BDA",
+      "url": "https://www.thehindu.com/news/cities/bangalore/no-complete-closure-of-ballari-road-for-18-months-for-elevated-corridor-work-bda/article71679222.ece",
+      "published": "2026-11-07T23:00:29+05:30"
+    },
+    {
+      "title": "From poverty alleviation to prosperity",
+      "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+      "published": "2026-11-07T21:48:53+05:30"
+    },
+    {
+      "title": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
+      "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+      "published": "2026-11-07T21:26:38+05:30"
+    },
+    {
+      "title": "Is your petrol really E20? Karnataka claims ethanol levels reached 31%",
+      "url": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+      "published": "2026-11-07T15:03:32+05:30"
+    },
+    {
+      "title": "VISTAR: India’s shift towards a real-time, technology-driven statistical system | Explained",
+      "url": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+      "published": "2026-11-07T14:23:43+05:30"
+    },
+    {
+      "title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
+      "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+      "published": "2026-11-07T11:47:08+05:30"
+    },
+    {
+      "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+      "published": "2026-11-07T14:18:45+05:30"
+    },
+    {
+      "title": "Cellophane bees produce a kind of plastic that also degrades, study finds",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+      "published": "2026-11-06T10:15:51+05:30"
+    },
+    {
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+      "published": "2026-11-06T10:10:39+05:30"
+    },
+    {
+      "title": "A noisy Anthropocene is imposing fatal stress on wildlife",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+      "published": "2026-11-06T09:04:56+05:30"
+    },
+    {
+      "title": "How do tokamaks work to make nuclear fusion possible?",
+      "url": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+      "published": "2026-11-05T23:32:24+05:30"
+    },
+    {
+      "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
+      "url": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+      "published": "2026-11-05T22:44:46+05:30"
+    },
+    {
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T23:16:53+00:00"
+    },
+    {
+      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T02:03:28+00:00"
+    },
+    {
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:56:28+00:00"
+    },
+    {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:19:35+00:00"
+    },
+    {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T07:20:00+00:00"
+    },
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T16:50:06+00:00"
+    }
+  ]
+}

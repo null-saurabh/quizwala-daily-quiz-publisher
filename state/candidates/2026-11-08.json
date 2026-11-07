@@ -1,0 +1,1605 @@
+{
+  "date": "2026-11-08",
+  "sets": [
+    {
+      "title": "National Affairs & Governance",
+      "source_filename": "daily-2026-11-08.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "In the context of the Rajajingar murders, what specific failure allowed the accused to transport bodies across state lines undetected?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lack of inter-state police cooperation"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Absence of surveillance cameras on state highways"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Neither a patrolling vehicle nor a checkpoint caught the accused Indushekhar even as he crossed State borders"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Insufficient intelligence gathering by local police"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states that 'Neither a patrolling vehicle nor a checkpoint caught the accused Indushekhar even as he crossed State borders', indicating a failure in ground-level law enforcement mechanisms at state borders.\nSource: https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-1"
+        },
+        {
+          "prompt": {
+            "en": "What is the overarching national vision that students are being encouraged to prepare for?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A globally integrated economy"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A self-reliant India"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A technologically advanced society"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A culturally diverse nation"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states that 'Students urged to dream big, prepare for a self-reliant India', directly identifying 'a self-reliant India' as the vision.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-2"
+        },
+        {
+          "prompt": {
+            "en": "Which organization in Bengaluru has initiated the second phase of the 'Ward One' project?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Bengaluru Development Authority (BDA)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Bengaluru’s GBA launches phase 2 of ‘Ward One’"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Bruhat Bengaluru Mahanagara Palike (BBMP)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Karnataka State Government"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states 'Bengaluru’s GBA launches phase 2 of ‘Ward One’', indicating GBA as the initiating organization.\nSource: https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-3"
+        },
+        {
+          "prompt": {
+            "en": "To what factors does Pawan attribute the recent ZPTC and MPTC poll victories?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Strategic alliances and political campaigning"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Effective leadership and public outreach"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Welfare, development"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Voter turnout and demographic shifts"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title directly states, 'Pawan attributes ZPTC, MPTC poll victories to welfare, development', identifying welfare and development as the key factors.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-4"
+        },
+        {
+          "prompt": {
+            "en": "What specific public concern prompted the clarification regarding the Ballari Road elevated corridor work?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Environmental impact of the construction"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Financial viability of the project"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The clarification comes amid concerns over the traffic disruption expected during the construction period."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Safety standards for workers at the site"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'The clarification comes amid concerns over the traffic disruption expected during the construction period.', directly answering the question.\nSource: https://www.thehindu.com/news/cities/bangalore/no-complete-closure-of-ballari-road-for-18-months-for-elevated-corridor-work-bda/article71679222.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/bangalore/no-complete-closure-of-ballari-road-for-18-months-for-elevated-corridor-work-bda/article71679222.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-5"
+        },
+        {
+          "prompt": {
+            "en": "Despite India's progress in reducing extreme poverty, what persistent issues continue to hinder upward mobility for millions?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lack of access to education and healthcare"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "High inflation and rising cost of living"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Insufficient government welfare schemes"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility', directly listing the hindering factors.\nSource: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-6"
+        },
+        {
+          "prompt": {
+            "en": "What historical and modern economic activities are highlighted in the context of Rampur Bushahr’s Lavi Fair in Himachal Pradesh?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Agricultural trade and livestock farming"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Forest products and traditional crafts"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Handicrafts and tourism promotion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt explicitly mentions, 'Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments', covering both historical and modern aspects.\nSource: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-7"
+        },
+        {
+          "prompt": {
+            "en": "What was the core of the controversy regarding ethanol blending in petrol, as claimed by the Karnataka government?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Inadequate supply of ethanol for blending"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Discrepancies in ethanol pricing mechanisms"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lack of infrastructure for E20 fuel distribution"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A major controversy has emerged over ethanol blending in petrol after the Karnataka government claimed that fuel samples collected from multiple districts contained ethanol levels significantly above India’s permitted E20 limit."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'A major controversy has emerged over ethanol blending in petrol after the Karnataka government claimed that fuel samples collected from multiple districts contained ethanol levels significantly above India’s permitted E20 limit.', which is the exact core of the controversy.\nSource: https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective of the VISTAR initiative in India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "VISTAR: India’s shift towards a real-time, technology-driven statistical system"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To promote e-governance services for citizens"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To enhance digital literacy across rural areas"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To modernize the public distribution system"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the article clearly defines VISTAR as 'India’s shift towards a real-time, technology-driven statistical system', which is its primary objective.\nSource: https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-9"
+        },
+        {
+          "prompt": {
+            "en": "What was the average ethanol content reported by state-owned OMCs in their tests of vehicular fuel samples from Karnataka?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Significantly above India’s permitted E20 limit"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Below 15% ethanol content"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exactly 20% ethanol content"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel.', providing the exact average content.\nSource: https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-10"
+        },
+        {
+          "prompt": {
+            "en": "What is ISRO's objective for conducting in-orbit testing of the NVS-03 satellite payload?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To provide high-resolution imaging services"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To enhance global satellite communication capabilities"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To study atmospheric conditions for weather forecasting"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source clearly states, 'ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative', indicating the purpose is to develop NavIC.\nSource: https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-11"
+        },
+        {
+          "prompt": {
+            "en": "What specific measure has the Delhi government announced to combat its toxic winter air?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Implementation of odd-even vehicle restrictions"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Distribution of free air purifiers to residents"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Closure of all construction activities"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt directly states, 'The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.', identifying the specific measure.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Economy, Business & Technology",
+      "source_filename": "daily-2026-11-08.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What economic challenge does India face despite reducing extreme poverty, according to the provided text?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India has reduced extreme poverty, but its high prosperity gap shows that millions remain far from a comfortable standard of living; informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A decline in agricultural output"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An increase in foreign debt"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A slowdown in industrial growth"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt highlights that 'India has reduced extreme poverty, but its high prosperity gap shows that millions remain far from a comfortable standard of living; informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility', indicating the persistent challenge of prosperity gap and limited upward mobility.\nSource: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Technology",
+          "source_label": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-13"
+        },
+        {
+          "prompt": {
+            "en": "According to the ABB chief, what has been the impact of automation on employment in India, particularly for low-skilled workers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Automation has led to significant job displacement"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Automation has had a neutral impact on employment"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Automation has primarily benefited high-skilled workers"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Automation has boosted employment, hiring of low-skilled workers in India, says ABB chief"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title directly states, 'Automation has boosted employment, hiring of low-skilled workers in India, says ABB chief', indicating a positive impact on employment for this segment.\nSource: https://www.thehindu.com/business/automation-has-boosted-employment-hiring-of-low-skilled-workers-in-india-says-abb-chief/article71669637.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Technology",
+          "source_label": "https://www.thehindu.com/business/automation-has-boosted-employment-hiring-of-low-skilled-workers-in-india-says-abb-chief/article71669637.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-14"
+        },
+        {
+          "prompt": {
+            "en": "What is ABB India's investment commitment for 2026 and 2027, and what is its new geographical focus?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To invest $50 million in research and development in metropolitan areas"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "ABB India has committed to invest $75 million in India over 2026 and 2027 to fuel its organic expansion in the country, with a new focus on Tier-II and Tier-III cities"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To invest $100 million in expanding its global operations"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To invest $25 million in acquiring smaller Indian companies"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt specifies, 'ABB India has committed to invest $75 million in India over 2026 and 2027 to fuel its organic expansion in the country, with a new focus on Tier-II and Tier-III cities', detailing both the investment and the focus.\nSource: https://www.thehindu.com/business/automation-has-boosted-employment-hiring-of-low-skilled-workers-in-india-says-abb-chief/article71669637.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Technology",
+          "source_label": "https://www.thehindu.com/business/automation-has-boosted-employment-hiring-of-low-skilled-workers-in-india-says-abb-chief/article71669637.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-15"
+        },
+        {
+          "prompt": {
+            "en": "According to the analysis, what are the potential consequences of 'statistical blind spots' for an economy aiming for developed nation status by 2047?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "For an economy aspiring to become a developed nation by 2047, the statistical blind spots could translate into costly policy mistakes, misdirected investments and ineffective welfare schemes"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Reduced international trade and foreign investment"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Increased unemployment and social unrest"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Slower technological advancement and innovation"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that 'the statistical blind spots could translate into costly policy mistakes, misdirected investments and ineffective welfare schemes', outlining the potential negative impacts.\nSource: https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Technology",
+          "source_label": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-16"
+        },
+        {
+          "prompt": {
+            "en": "What is the broader implication of changes in stock market indexes like the FTSE 100, beyond just financial experts?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They indicate the overall health of global economies"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They directly influence government fiscal policies"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They determine the value of national currencies"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.', highlighting their broad impact.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-17"
+        },
+        {
+          "prompt": {
+            "en": "What specific component has seen a surge in investment due to its manufacturing complexity?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Electric vehicle batteries"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Advanced semiconductor chips"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Renewable energy infrastructure"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'Investment has surged into the making of jet turbine blades - an extremely difficult component to make.', identifying jet turbine blades as the component.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-18"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-08.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What critical aspects of the carbon budget have not been addressed in previous COP decisions, according to the article?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The impact of deforestation on carbon emissions"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The role of renewable energy in reducing carbon footprint"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The technological solutions for carbon capture and storage"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most.', highlighting these unaddressed aspects.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-19"
+        },
+        {
+          "prompt": {
+            "en": "What are the key characteristics of the plastic-like nest lining produced by cellophane bees?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is highly toxic, non-degradable, and waterproof"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is opaque, rigid, brittle, and lasts for decades"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is porous, fragile, and dissolves immediately in water"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source describes the nest lining as 'translucent, flexible, resilient and degrades within a year', which are its key characteristics.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-20"
+        },
+        {
+          "prompt": {
+            "en": "How far back in time are galactic archaeologists able to trace the history of the Milky Way using new missions?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Approximately 5 billion years"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Around 2 billion years"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Just over 1 billion years"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that new missions are 'revealing the history of the Milky Way going back almost 12 billion years', providing the timeframe.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-21"
+        },
+        {
+          "prompt": {
+            "en": "What was a significant finding from the research on the impact of noise on wildlife across various species and continents?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Noise pollution primarily affects avian species"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Noise pollution has no measurable impact on animal behavior"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Researchers analysed over 200 experimental studies on 177 aquatic and terrestrial species across six continents and found that noise altered specific traits in 80% of the animals studied"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Only marine animals are significantly affected by noise"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source explicitly states, 'Researchers analysed over 200 experimental studies on 177 aquatic and terrestrial species across six continents and found that noise altered specific traits in 80% of the animals studied', detailing the significant finding.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-22"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary method a tokamak employs to achieve nuclear fusion, and what is its current status regarding commercial power generation?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It uses laser beams to compress fuel pellets, and it is already a commercial power source."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It uses chemical reactions to produce energy, and it is currently in the experimental phase for commercial use."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It relies on gravitational forces to fuse atomic nuclei, and it is expected to be commercialized next year."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion; despite advances in research, engineering challenges remain, and no tokamak has generated net energy for commercial power"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt clearly explains, 'A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion; despite advances in research, engineering challenges remain, and no tokamak has generated net energy for commercial power', covering both aspects of the question.\nSource: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-23"
+        },
+        {
+          "prompt": {
+            "en": "Which meteor shower, known for its bright and fast meteors, is expected to be visible from this weekend until the end of November?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Perseid meteor shower"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Geminid meteor shower"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Orionid meteor shower"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly names 'The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.', matching the description and timeframe.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-24"
+        },
+        {
+          "prompt": {
+            "en": "What political outcome is anticipated in New Zealand following preliminary election results that indicated a highly divided national parliament?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A swift formation of a majority government"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The immediate resignation of the incumbent Prime Minister"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A rerun of the general election"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.', indicating the anticipated political process.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-25"
+        },
+        {
+          "prompt": {
+            "en": "According to the former Brexit negotiator, what would be the EU countries' response to British attempts to selectively adopt economic rules?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They would consider it a pragmatic approach to trade."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They would seek to negotiate a new comprehensive trade agreement."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They would likely accept it under certain conditions."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt directly quotes the former Brexit negotiator stating, 'EU countries would reject any British attempts to follow economic rules \"a la carte\"', indicating their response.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-26"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary reason for the impeachment and house arrest of Paraguay's President Santiago Peña?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Allegations of corruption and abuse of power"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Controversial social policy reforms"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Failure to address rising unemployment rates"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states, 'Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.', identifying the banking crisis as the cause.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-27"
+        },
+        {
+          "prompt": {
+            "en": "Who has Italian Prime Minister Giorgia Meloni blamed for leaking her foreign minister's personal data?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Domestic political opponents"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An international cybercrime syndicate"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Disgruntled former government employees"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states, 'Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.', identifying the responsible party.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-08-28"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "Rajajingar murders: How did the accused transport bodies across locations without being caught?",
+      "url": "https://www.thehindu.com/news/cities/bangalore/rajajingar-murders-how-did-the-accused-transport-bodies-across-locations-without-being-intercepted/article71679003.ece",
+      "published": "2026-11-07T23:17:21+05:30",
+      "text": "Neither a patrolling vehicle nor a checkpoint caught the accused Indushekhar even as he crossed State borders"
+    },
+    {
+      "id": "2",
+      "title": "Students urged to dream big, prepare for a self-reliant India",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
+      "published": "2026-11-07T23:17:05+05:30",
+      "text": ""
+    },
+    {
+      "id": "3",
+      "title": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
+      "published": "2026-11-07T23:16:28+05:30",
+      "text": ""
+    },
+    {
+      "id": "4",
+      "title": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
+      "url": "https://www.thehindu.com/news/national/karnataka/habitual-offender-arrested-for-murdering-65-year-old-woman-in-bengaluru/article71678977.ece",
+      "published": "2026-11-07T23:12:25+05:30",
+      "text": ""
+    },
+    {
+      "id": "5",
+      "title": "Pawan attributes ZPTC, MPTC poll victories to welfare, development",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pawan-attributes-zptc-mptc-poll-victories-to-welfare-development/article71679349.ece",
+      "published": "2026-11-07T23:05:39+05:30",
+      "text": ""
+    },
+    {
+      "id": "6",
+      "title": "No complete closure of Ballari Road for 18 months for elevated corridor work: BDA",
+      "url": "https://www.thehindu.com/news/cities/bangalore/no-complete-closure-of-ballari-road-for-18-months-for-elevated-corridor-work-bda/article71679222.ece",
+      "published": "2026-11-07T23:00:29+05:30",
+      "text": "The clarification comes amid concerns over the traffic disruption expected during the construction period."
+    },
+    {
+      "id": "7",
+      "title": "From poverty alleviation to prosperity",
+      "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+      "published": "2026-11-07T21:48:53+05:30",
+      "text": "India has reduced extreme poverty, but its high prosperity gap shows that millions remain far from a comfortable standard of living; informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility"
+    },
+    {
+      "id": "8",
+      "title": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
+      "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+      "published": "2026-11-07T21:26:38+05:30",
+      "text": "Rampur Bushahr’s Lavi Fair in Himachal Pradesh traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments"
+    },
+    {
+      "id": "9",
+      "title": "Automation has boosted employment, hiring of low-skilled workers in India, says ABB chief",
+      "url": "https://www.thehindu.com/business/automation-has-boosted-employment-hiring-of-low-skilled-workers-in-india-says-abb-chief/article71669637.ece",
+      "published": "2026-11-07T19:40:18+05:30",
+      "text": "ABB India has committed to invest $75 million in India over 2026 and 2027 to fuel its organic expansion in the country, with a new focus on Tier-II and Tier-III cities"
+    },
+    {
+      "id": "10",
+      "title": "Is your petrol really E20? Karnataka claims ethanol levels reached 31%",
+      "url": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+      "published": "2026-11-07T15:03:32+05:30",
+      "text": "A major controversy has emerged over ethanol blending in petrol after the Karnataka government claimed that fuel samples collected from multiple districts contained ethanol levels significantly above India’s permitted E20 limit."
+    },
+    {
+      "id": "11",
+      "title": "VISTAR: India’s shift towards a real-time, technology-driven statistical system | Explained",
+      "url": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece",
+      "published": "2026-11-07T14:23:43+05:30",
+      "text": "For an economy aspiring to become a developed nation by 2047, the statistical blind spots could translate into costly policy mistakes, misdirected investments and ineffective welfare schemes"
+    },
+    {
+      "id": "12",
+      "title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
+      "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+      "published": "2026-11-07T11:47:08+05:30",
+      "text": "The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel."
+    },
+    {
+      "id": "13",
+      "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+      "published": "2026-11-07T14:18:45+05:30",
+      "text": "No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics"
+    },
+    {
+      "id": "14",
+      "title": "Cellophane bees produce a kind of plastic that also degrades, study finds",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+      "published": "2026-11-06T10:15:51+05:30",
+      "text": "The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year"
+    },
+    {
+      "id": "15",
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+      "published": "2026-11-06T10:10:39+05:30",
+      "text": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years"
+    },
+    {
+      "id": "16",
+      "title": "A noisy Anthropocene is imposing fatal stress on wildlife",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+      "published": "2026-11-06T09:04:56+05:30",
+      "text": "Researchers analysed over 200 experimental studies on 177 aquatic and terrestrial species across six continents and found that noise altered specific traits in 80% of the animals studied"
+    },
+    {
+      "id": "17",
+      "title": "How do tokamaks work to make nuclear fusion possible?",
+      "url": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+      "published": "2026-11-05T23:32:24+05:30",
+      "text": "A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion; despite advances in research, engineering challenges remain, and no tokamak has generated net energy for commercial power"
+    },
+    {
+      "id": "18",
+      "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
+      "url": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+      "published": "2026-11-05T22:44:46+05:30",
+      "text": "ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative; ISRO chief recalls Indian scientists’ role in saving lives on the Axiom-4 mission; praises Russian support of India’s space programme"
+    },
+    {
+      "id": "19",
+      "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T22:59:54+00:00",
+      "text": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media."
+    },
+    {
+      "id": "20",
+      "title": "Homes and temples glow across India as Diwali celebrations begin",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:21:30+00:00",
+      "text": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets"
+    },
+    {
+      "id": "21",
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T23:16:53+00:00",
+      "text": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
+    },
+    {
+      "id": "22",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T09:04:42+00:00",
+      "text": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts."
+    },
+    {
+      "id": "23",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T21:06:25+00:00",
+      "text": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+    },
+    {
+      "id": "24",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T18:32:16+00:00",
+      "text": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
+    },
+    {
+      "id": "25",
+      "title": "How does it affect me if share prices fall?",
+      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T09:21:50+00:00",
+      "text": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives."
+    },
+    {
+      "id": "26",
+      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T17:19:38+00:00",
+      "text": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack."
+    },
+    {
+      "id": "27",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T21:49:50+00:00",
+      "text": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+    },
+    {
+      "id": "28",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T00:06:06+00:00",
+      "text": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make."
+    },
+    {
+      "id": "29",
+      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T02:03:28+00:00",
+      "text": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November."
+    },
+    {
+      "id": "30",
+      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:43:30+00:00",
+      "text": "Rising global temperatures mean extreme weather events are becoming more common and more intense."
+    },
+    {
+      "id": "31",
+      "title": "A really simple guide to climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:40:51+00:00",
+      "text": "Human activities are causing the world to heat up, posing serious threats to people and nature."
+    },
+    {
+      "id": "32",
+      "title": "What is the Paris Agreement and why does 1.5C matter?",
+      "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:39:07+00:00",
+      "text": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures."
+    },
+    {
+      "id": "33",
+      "title": "What is net zero and is the UK on track to achieve it?",
+      "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:22:51+00:00",
+      "text": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say."
+    },
+    {
+      "id": "34",
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T01:22:39+00:00",
+      "text": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains."
+    },
+    {
+      "id": "35",
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:56:28+00:00",
+      "text": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+    },
+    {
+      "id": "36",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:19:35+00:00",
+      "text": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+    },
+    {
+      "id": "37",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T23:24:15+00:00",
+      "text": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+    },
+    {
+      "id": "38",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T07:20:00+00:00",
+      "text": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+    },
+    {
+      "id": "39",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T06:59:48+00:00",
+      "text": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
+    },
+    {
+      "id": "40",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T16:50:06+00:00",
+      "text": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+    }
+  ]
+}
