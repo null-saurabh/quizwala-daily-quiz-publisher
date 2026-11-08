@@ -1,0 +1,2094 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "generated_at": "2026-11-08T18:05:53.452056+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-09.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the reported number of houses completed under the Indiramma house scheme?",
+            "hi": "इंदिराम्मा गृह योजना के तहत पूर्ण किये गये घरों की संख्या कितनी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "1.5 lakh houses completed under scheme",
+                "hi": "योजना के तहत 1.5 लाख घर पूरे किये गये"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2.21 lakh houses completed under scheme",
+                "hi": "योजना के तहत 2.21 लाख घर पूरे किये गये"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "3.0 lakh houses completed under scheme",
+                "hi": "योजना के तहत 3.0 लाख घर पूरे किये गये"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "5.0 lakh houses completed under scheme",
+                "hi": "योजना के तहत 5.0 लाख घर पूरे किये गये"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explicitly states that '2.21 lakh houses completed under scheme' under the Indiramma house scheme.\nSource: https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि इंदिराम्मा हाउस योजना के तहत 'योजना के तहत 2.21 लाख घर पूरे हो गए।'\nस्रोत: https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-1"
+        },
+        {
+          "prompt": {
+            "en": "What specific concern did economist Jean Drèze express regarding the 'fake book' at Kalaignar Centenary Library?",
+            "hi": "कलैग्नार सेंटेनरी लाइब्रेरी में 'नकली किताब' को लेकर अर्थशास्त्री ज्यां ड्रेज़ ने क्या विशेष चिंता व्यक्त की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The book contained historical inaccuracies",
+                "hi": "पुस्तक में ऐतिहासिक अशुद्धियाँ थीं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The book was plagiarized from another author",
+                "hi": "पुस्तक किसी अन्य लेखक की चोरी की गई थी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The book promoted divisive political ideologies",
+                "hi": "इस पुस्तक ने विभाजनकारी राजनीतिक विचारधाराओं को बढ़ावा दिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "all the more so if this book was AI-generated",
+                "hi": "और भी अधिक यदि यह पुस्तक AI-जनरेटेड होती"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Jean Drèze's clarification via e-mail to The Hindu specifically mentioned concern 'all the more so if this book was AI-generated'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+            "hi": "द हिंदू को ई-मेल के माध्यम से ज्यां ड्रेज़ के स्पष्टीकरण में विशेष रूप से चिंता का उल्लेख किया गया था 'यदि यह पुस्तक एआई-जनरेटेड थी तो और भी अधिक'।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-2"
+        },
+        {
+          "prompt": {
+            "en": "What action did Jean Drèze urge the T.N. government to take regarding the 'fake book' incident?",
+            "hi": "ज्यां ड्रेज़ ने टी.एन. से क्या कार्रवाई का आग्रह किया? 'फर्जी किताब' प्रकरण को लेकर क्या कदम उठाएगी सरकार?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To conduct a public inquiry into the matter",
+                "hi": "मामले की सार्वजनिक जांच कराने के लिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library",
+                "hi": "ज्यां ड्रेज़ ने टी.एन. से आग्रह किया। सरकार कलैग्नार सेंटेनरी लाइब्रेरी में 'फर्जी किताब' की रिपोर्ट के बीच कड़ी कार्रवाई की जाएगी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To issue a public apology for the oversight",
+                "hi": "भूल के लिए सार्वजनिक माफी जारी करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To remove all copies of the book from the library",
+                "hi": "पुस्तकालय से पुस्तक की सभी प्रतियां हटाने के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states that 'Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि 'जीन ड्रेज़ टी.एन. से आग्रह करते हैं। सरकार कलैग्नार सेंटेनरी लाइब्रेरी में 'फर्जी किताब' की रिपोर्ट के बीच कड़ी कार्रवाई की जाएगी।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-3"
+        },
+        {
+          "prompt": {
+            "en": "This Deepavali marks how many years since Prime Minister Narendra Modi announced demonetisation?",
+            "hi": "यह दीपावली प्रधानमंत्री नरेंद्र मोदी द्वारा नोटबंदी की घोषणा के कितने साल पूरे होने का प्रतीक है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "12 years since demonetisation",
+                "hi": "नोटबंदी के 12 साल हो गए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "5 years since demonetisation",
+                "hi": "नोटबंदी के 5 साल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "8 years since demonetisation",
+                "hi": "नोटबंदी के 8 साल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "10 years since demonetisation",
+                "hi": "नोटबंदी के 10 साल हो गए"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The article states, 'This Deepavali marks 10 years since demonetisation'.\nSource: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+            "hi": "लेख में कहा गया है, 'इस दीपावली पर नोटबंदी के 10 साल पूरे हो रहे हैं।'\nस्रोत: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-4"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of the country's cash was demonetised overnight by Prime Minister Narendra Modi's announcement?",
+            "hi": "प्रधानमंत्री नरेंद्र मोदी की घोषणा से रातों-रात देश की कितनी प्रतिशत नकदी बंद हो गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "75% of the country’s cash",
+                "hi": "देश की 75% नकदी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "60% of the country’s cash",
+                "hi": "देश की 60% नकदी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "90% of the country’s cash",
+                "hi": "देश की 90% नकदी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "86% of the country’s cash",
+                "hi": "देश की 86% नकदी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly mentions that Prime Minister Narendra Modi announced overnight demonetisation of '86% of the country’s cash'.\nSource: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से उल्लेख किया है कि प्रधान मंत्री नरेंद्र मोदी ने रातोंरात देश की '86% नकदी' के विमुद्रीकरण की घोषणा की।\nस्रोत: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-5"
+        },
+        {
+          "prompt": {
+            "en": "According to data, what is the status of some stated aims of demonetisation after 10 years?",
+            "hi": "आंकड़ों के मुताबिक 10 साल बाद नोटबंदी के कुछ घोषित लक्ष्यों की क्या स्थिति है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Data shows some stated aims of the move remain largely unmet",
+                "hi": "डेटा से पता चलता है कि इस कदम के कुछ घोषित उद्देश्य काफी हद तक अधूरे हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Data shows most stated aims of the move have been partially met",
+                "hi": "डेटा से पता चलता है कि इस कदम के अधिकांश घोषित उद्देश्य आंशिक रूप से पूरे हो गए हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Data shows all stated aims of the move have been fully met",
+                "hi": "डेटा से पता चलता है कि इस कदम के सभी घोषित उद्देश्य पूरी तरह से पूरे हो गए हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Data shows new aims have emerged, replacing the original ones",
+                "hi": "डेटा से पता चलता है कि मूल उद्देश्यों की जगह नए उद्देश्य सामने आए हैं"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states, 'Data shows some stated aims of the move remain largely unmet' after 10 years.\nSource: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+            "hi": "अंश में कहा गया है, 'डेटा से पता चलता है कि इस कदम के कुछ घोषित उद्देश्य 10 साल बाद भी काफी हद तक अधूरे हैं।'\nस्रोत: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-6"
+        },
+        {
+          "prompt": {
+            "en": "What progress has India made regarding extreme poverty?",
+            "hi": "अत्यधिक गरीबी के संबंध में भारत ने क्या प्रगति की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India has seen a slight increase in extreme poverty",
+                "hi": "भारत में अत्यधिक गरीबी में मामूली वृद्धि देखी गई है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "India has reduced extreme poverty",
+                "hi": "भारत ने अत्यधिक गरीबी को कम किया है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "India has eliminated extreme poverty entirely",
+                "hi": "भारत ने अत्यधिक गरीबी को पूरी तरह से समाप्त कर दिया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "India has maintained a stable level of extreme poverty",
+                "hi": "भारत ने अत्यधिक गरीबी का एक स्थिर स्तर बनाए रखा है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The article explicitly states, 'India has reduced extreme poverty'.\nSource: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+            "hi": "लेख में स्पष्ट रूप से कहा गया है, 'भारत ने अत्यधिक गरीबी को कम कर दिया है।'\nस्रोत: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-7"
+        },
+        {
+          "prompt": {
+            "en": "Despite reducing extreme poverty, what persistent issue indicates that millions remain far from a comfortable standard of living in India?",
+            "hi": "अत्यधिक गरीबी को कम करने के बावजूद, कौन सा लगातार मुद्दा बताता है कि भारत में लाखों लोग आरामदायक जीवन स्तर से दूर हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "its low literacy rates",
+                "hi": "इसकी साक्षरता दर कम है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "its declining GDP growth rate",
+                "hi": "इसकी गिरती जीडीपी वृद्धि दर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "its high prosperity gap shows that millions remain far from a comfortable standard of living",
+                "hi": "इसकी उच्च समृद्धि अंतर से पता चलता है कि लाखों लोग आरामदायक जीवन स्तर से दूर हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "its inadequate infrastructure development",
+                "hi": "इसका अपर्याप्त बुनियादी ढांचा विकास"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text highlights that 'its high prosperity gap shows that millions remain far from a comfortable standard of living' despite poverty reduction.\nSource: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+            "hi": "पाठ इस बात पर प्रकाश डालता है कि 'इसके उच्च समृद्धि अंतर से पता चलता है कि गरीबी में कमी के बावजूद लाखों लोग आरामदायक जीवन स्तर से दूर हैं।'\nस्रोत: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the opinion of experts regarding the Delhi government's four-month winter action plan?",
+            "hi": "दिल्ली सरकार के चार महीने के शीतकालीन एक्शन प्लान पर क्या है विशेषज्ञों की राय?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Experts believe it will completely solve the pollution problem",
+                "hi": "विशेषज्ञों का मानना है कि इससे प्रदूषण की समस्या पूरी तरह हल हो जाएगी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "experts say that won't be enough",
+                "hi": "विशेषज्ञों का कहना है कि यह पर्याप्त नहीं होगा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Experts suggest it is a good first step but needs more measures",
+                "hi": "विशेषज्ञों का सुझाव है कि यह एक अच्छा पहला कदम है लेकिन और उपायों की जरूरत है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Experts are optimistic about its long-term effectiveness",
+                "hi": "विशेषज्ञ इसकी दीर्घकालिक प्रभावशीलता को लेकर आशावादी हैं"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source indicates that 'experts say that won't be enough' regarding the Delhi government's winter action plan.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र बताते हैं कि दिल्ली सरकार की शीतकालीन कार्य योजना के बारे में 'विशेषज्ञों का कहना है कि यह पर्याप्त नहीं होगा'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-9"
+        },
+        {
+          "prompt": {
+            "en": "What was the nature of P.T. Usha's complaint to the IOA electoral officer?",
+            "hi": "पी.टी. का स्वभाव कैसा था? उषा की IOA चुनाव अधिकारी से शिकायत?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "P.T. Usha complains about the eligibility criteria for voters",
+                "hi": "पी.टी. उषा मतदाताओं के लिए पात्रता मानदंड के बारे में शिकायत करती हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "P.T. Usha complains about the lack of transparency in candidate selection",
+                "hi": "पी.टी. उषा उम्मीदवार चयन में पारदर्शिता की कमी की शिकायत करती हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "P.T. Usha complains about the delayed schedule of the elections",
+                "hi": "पी.टी. उषा चुनाव के विलंबित कार्यक्रम के बारे में शिकायत करती हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls",
+                "hi": "पी.टी. उषा ने एसओएम चुनावों के लिए व्हाट्सएप अभियान को लेकर आईओए निर्वाचन अधिकारी से शिकायत की"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls'.\nSource: https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'पी.टी. उषा ने एसओएम चुनावों के लिए व्हाट्सएप अभियान को लेकर आईओए निर्वाचन अधिकारी से शिकायत की।\nस्रोत: https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-10"
+        },
+        {
+          "prompt": {
+            "en": "Who was alleged to have violated the Model Code of Conduct by circulating a WhatsApp message seeking votes?",
+            "hi": "वोट मांगने के लिए व्हाट्सएप संदेश प्रसारित करके आदर्श आचार संहिता का उल्लंघन करने का आरोप किस पर लगाया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The IOA President",
+                "hi": "आईओए अध्यक्ष"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "former archer Dola Banerjee violated the Model Code of Conduct by circulating a WhatsApp message",
+                "hi": "पूर्व तीरंदाज डोला बनर्जी ने एक व्हाट्सएप संदेश प्रसारित करके आदर्श आचार संहिता का उल्लंघन किया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The electoral officer",
+                "hi": "चुनाव अधिकारी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "One of the candidates for the election",
+                "hi": "चुनाव के लिए उम्मीदवारों में से एक"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text explicitly mentions that 'former archer Dola Banerjee violated the Model Code of Conduct by circulating a WhatsApp message'.\nSource: https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
+            "hi": "पाठ में स्पष्ट रूप से उल्लेख किया गया है कि 'पूर्व तीरंदाज डोला बनर्जी ने एक व्हाट्सएप संदेश प्रसारित करके आदर्श आचार संहिता का उल्लंघन किया।'\nस्रोत: https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-11"
+        },
+        {
+          "prompt": {
+            "en": "What are some traditional elements with which millions of Indians mark the festival of lights?",
+            "hi": "कुछ पारंपरिक तत्व क्या हैं जिनके साथ लाखों भारतीय रोशनी के त्योहार को मनाते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "glowing lamps, fireworks and traditional sweets",
+                "hi": "चमकते दीपक, आतिशबाजी और पारंपरिक मिठाइयाँ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Tree planting and nature walks",
+                "hi": "वृक्षारोपण और प्रकृति भ्रमण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Community feasts and parades",
+                "hi": "सामुदायिक दावतें और परेड"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sporting events and competitions",
+                "hi": "खेल आयोजन एवं प्रतियोगिताएँ"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The article states that Indians mark Diwali 'with glowing lamps, fireworks and traditional sweets'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+            "hi": "लेख में कहा गया है कि भारतीय दिवाली को 'चमकते दीयों, आतिशबाजी और पारंपरिक मिठाइयों के साथ' मनाते हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-09T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-09.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "How did stock markets end in special Muhurat trading, snapping a seven-day rally?",
+            "hi": "विशेष मुहूर्त ट्रेडिंग में सात दिनों की तेजी पर विराम लगाते हुए शेयर बाजार कैसे समाप्त हुए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Stock markets end marginally lower in special Muhurat trading, snapping seven-day rally",
+                "hi": "विशेष मुहूर्त ट्रेडिंग में शेयर बाजार सात दिनों की तेजी पर विराम लगाते हुए मामूली गिरावट के साथ बंद हुए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Stock markets ended significantly higher, continuing the rally",
+                "hi": "तेजी जारी रखते हुए शेयर बाजार काफी ऊंचे स्तर पर बंद हुए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Stock markets remained flat, showing no significant change",
+                "hi": "शेयर बाज़ार सपाट रहे, कोई खास बदलाव नहीं दिखा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Stock markets experienced a sharp decline, indicating a market correction",
+                "hi": "शेयर बाज़ारों में भारी गिरावट देखी गई, जो बाज़ार में सुधार का संकेत है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'Stock markets end marginally lower in special Muhurat trading, snapping seven-day rally'.\nSource: https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'विशेष मुहूर्त ट्रेडिंग में शेयर बाजार मामूली गिरावट के साथ बंद हुए, जिससे सात दिन की तेजी रुक गई।'\nस्रोत: https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-13"
+        },
+        {
+          "prompt": {
+            "en": "Which companies were among the biggest laggards in the 30 Sensex firms during Muhurat trading?",
+            "hi": "मुहूर्त ट्रेडिंग के दौरान सेंसेक्स की 30 कंपनियों में कौन सी कंपनियां सबसे ज्यादा फिसड्डी रहीं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mahindra & Mahindra, InterGlobe Aviation, Trent, Infosys, Bharti Airtel and Axis Bank were among the biggest laggards",
+                "hi": "महिंद्रा एंड महिंद्रा, इंटरग्लोब एविएशन, ट्रेंट, इंफोसिस, भारती एयरटेल और एक्सिस बैंक सबसे बड़े फिसड्डी रहे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Sun Pharma, Tata Steel, Maruti and Power Grid",
+                "hi": "सन फार्मा, टाटा स्टील, मारुति और पावर ग्रिड"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Reliance Industries, HDFC Bank, ICICI Bank, and TCS",
+                "hi": "रिलायंस इंडस्ट्रीज, एचडीएफसी बैंक, आईसीआईसीआई बैंक और टीसीएस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Wipro, Tech Mahindra, HCL Technologies, and L&T",
+                "hi": "विप्रो, टेक महिंद्रा, एचसीएल टेक्नोलॉजीज और एलएंडटी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt lists 'Mahindra & Mahindra, InterGlobe Aviation, Trent, Infosys, Bharti Airtel and Axis Bank were among the biggest laggards'.\nSource: https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece",
+            "hi": "अंश सूची में 'महिंद्रा एंड महिंद्रा, इंटरग्लोब एविएशन, ट्रेंट, इंफोसिस, भारती एयरटेल और एक्सिस बैंक सबसे बड़े पिछड़ों में से थे।'\nस्रोत: https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-14"
+        },
+        {
+          "prompt": {
+            "en": "What is the planned annual capital expenditure for Adani Enterprises in the next two years?",
+            "hi": "अगले दो वर्षों में अदानी एंटरप्राइजेज के लिए नियोजित वार्षिक पूंजीगत व्यय क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹10,000-15,000 crore",
+                "hi": "₹10,000-15,000 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹20,000-25,000 crore",
+                "hi": "₹20,000-25,000 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹50,000-60,000 crore",
+                "hi": "₹50,000-60,000 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
+                "hi": "अदानी एंटरप्राइजेज ने अगले दो वर्षों में ₹35,000-40,000 करोड़ वार्षिक पूंजीगत व्यय की योजना बनाई है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly states, 'Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years'.\nSource: https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'अडानी एंटरप्राइजेज ने अगले दो वर्षों में ₹35,000-40,000 करोड़ वार्षिक पूंजीगत व्यय की योजना बनाई है।'\nस्रोत: https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-15"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective behind Adani Enterprises' planned capital spending?",
+            "hi": "अदानी एंटरप्राइजेज के नियोजित पूंजीगत व्यय के पीछे प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The planned spending comes as the group seeks to scale up businesses built over recent years",
+                "hi": "नियोजित व्यय तब आता है जब समूह हाल के वर्षों में बनाए गए व्यवसायों को बढ़ाना चाहता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To acquire new companies in unrelated sectors",
+                "hi": "असंबंधित क्षेत्रों में नई कंपनियों का अधिग्रहण करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To diversify into new international markets",
+                "hi": "नए अंतर्राष्ट्रीय बाज़ारों में विविधता लाना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To reduce existing debt obligations",
+                "hi": "मौजूदा ऋण दायित्वों को कम करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text explains, 'The planned spending comes as the group seeks to scale up businesses built over recent years'.\nSource: https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+            "hi": "पाठ बताता है, 'योजनाबद्ध खर्च तब आता है जब समूह हाल के वर्षों में बनाए गए व्यवसायों को बढ़ाना चाहता है।'\nस्रोत: https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-16"
+        },
+        {
+          "prompt": {
+            "en": "What crisis has exposed shipping risks, prompting IOC to buy crude and LPG ships?",
+            "hi": "किस संकट ने शिपिंग जोखिमों को उजागर किया है, जिसने आईओसी को कच्चे तेल और एलपीजी जहाज खरीदने के लिए प्रेरित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks",
+                "hi": "पश्चिम एशिया संकट के कारण शिपिंग जोखिम उजागर होने पर आईओसी कच्चे तेल, एलपीजी जहाज खरीदेगी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The global economic recession",
+                "hi": "वैश्विक आर्थिक मंदी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A shortage of available vessels in the market",
+                "hi": "बाजार में उपलब्ध जहाजों की कमी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increased piracy in international waters",
+                "hi": "अंतर्राष्ट्रीय जल में समुद्री डकैती बढ़ी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states, 'IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks'.\nSource: https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'आईओसी कच्चे तेल, एलपीजी जहाज खरीदेगी क्योंकि पश्चिम एशिया संकट शिपिंग जोखिमों को उजागर करता है।'\nस्रोत: https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-17"
+        },
+        {
+          "prompt": {
+            "en": "What action has IOC's board already taken regarding the purchase of vessels?",
+            "hi": "आईओसी के बोर्ड ने जहाजों की खरीद के संबंध में पहले ही क्या कार्रवाई की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The company's board is still evaluating proposals for vessel purchase",
+                "hi": "कंपनी का बोर्ड अभी भी जहाज खरीद के प्रस्तावों का मूल्यांकन कर रहा है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The company's board has already approved the purchase of a few vessels",
+                "hi": "कंपनी का बोर्ड पहले ही कुछ जहाजों की खरीद को मंजूरी दे चुका है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The company's board has decided to lease vessels instead of purchasing them",
+                "hi": "कंपनी के बोर्ड ने जहाजों को खरीदने के बजाय उन्हें पट्टे पर देने का फैसला किया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The company's board has postponed the decision on vessel acquisition",
+                "hi": "कंपनी के बोर्ड ने जहाज अधिग्रहण पर फैसला टाल दिया है"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "According to Director of Finance Anuj Jain, 'The company's board has already approved the purchase of a few vessels'.\nSource: https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece",
+            "hi": "वित्त निदेशक अनुज जैन के मुताबिक, 'कंपनी का बोर्ड पहले ही कुछ जहाजों की खरीद को मंजूरी दे चुका है।'\nस्रोत: https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-18"
+        },
+        {
+          "prompt": {
+            "en": "What ultimately pushed Kishore Biyani’s Future Group into insolvency?",
+            "hi": "किशोर बियानी के फ्यूचर ग्रुप को आखिर किसने दिवालियापन की ओर धकेला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A hostile takeover bid from a competitor",
+                "hi": "किसी प्रतिस्पर्धी की ओर से शत्रुतापूर्ण अधिग्रहण की बोली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "mounting financial troubles pushed it into insolvency",
+                "hi": "बढ़ती वित्तीय परेशानियों ने इसे दिवालियापन की ओर धकेल दिया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Changes in government retail policies",
+                "hi": "सरकारी खुदरा नीतियों में बदलाव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A major cyber-attack on its operations",
+                "hi": "इसके संचालन पर एक बड़ा साइबर हमला"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text states that 'mounting financial troubles pushed it into insolvency'.\nSource: https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
+            "hi": "पाठ में कहा गया है कि 'बढ़ती वित्तीय परेशानियों ने इसे दिवालियापन की ओर धकेल दिया।'\nस्रोत: https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-19"
+        },
+        {
+          "prompt": {
+            "en": "According to the article, what is the current status of cash usage 10 years after demonetisation?",
+            "hi": "लेख के मुताबिक, नोटबंदी के 10 साल बाद नकदी के इस्तेमाल की मौजूदा स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cash usage unchanged",
+                "hi": "नकद उपयोग अपरिवर्तित"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cash usage has significantly decreased",
+                "hi": "नकदी का उपयोग काफी कम हो गया है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cash usage has been completely replaced by digital payments",
+                "hi": "नकदी के उपयोग की जगह पूरी तरह से डिजिटल भुगतान ने ले ली है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cash usage has seen a slight decline",
+                "hi": "नकदी के उपयोग में थोड़ी गिरावट देखी गई है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The article explicitly states, 'Cash usage unchanged' 10 years after demonetisation.\nSource: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+            "hi": "लेख में स्पष्ट रूप से कहा गया है, 'नोटबंदी के 10 साल बाद 'नकदी का उपयोग अपरिवर्तित' है।\nस्रोत: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-20"
+        },
+        {
+          "prompt": {
+            "en": "What trend is observed regarding fake notes 10 years after demonetisation?",
+            "hi": "नोटबंदी के 10 साल बाद नकली नोटों को लेकर क्या रुझान देखा गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "fake notes on the rise",
+                "hi": "नकली नोट बढ़ रहे हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fake notes have been completely eliminated",
+                "hi": "नकली नोट पूरी तरह ख़त्म हो गए हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Fake notes have remained stable",
+                "hi": "नकली नोट स्थिर बने हुए हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Fake notes have seen a marginal decrease",
+                "hi": "नकली नोटों में मामूली कमी देखी गई है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The article highlights that 'fake notes on the rise' 10 years after demonetisation.\nSource: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+            "hi": "लेख में इस बात पर प्रकाश डाला गया है कि नोटबंदी के 10 साल बाद 'नकली नोट बढ़ रहे हैं'।\nस्रोत: https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-21"
+        },
+        {
+          "prompt": {
+            "en": "What does India's high prosperity gap indicate despite reduced extreme poverty?",
+            "hi": "अत्यधिक गरीबी कम होने के बावजूद भारत में समृद्धि का उच्च अंतर क्या दर्शाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A successful transition to a developed economy",
+                "hi": "एक विकसित अर्थव्यवस्था की ओर एक सफल परिवर्तन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An equitable distribution of wealth across all sections",
+                "hi": "सभी वर्गों में धन का समान वितरण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "its high prosperity gap shows that millions remain far from a comfortable standard of living",
+                "hi": "इसकी उच्च समृद्धि अंतर से पता चलता है कि लाखों लोग आरामदायक जीवन स्तर से दूर हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A rapid increase in the middle-class population",
+                "hi": "मध्यम वर्ग की जनसंख्या में तेजी से वृद्धि"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text states that 'its high prosperity gap shows that millions remain far from a comfortable standard of living' despite the reduction in extreme poverty.\nSource: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+            "hi": "पाठ में कहा गया है कि 'इसकी उच्च समृद्धि अंतर से पता चलता है कि अत्यधिक गरीबी में कमी के बावजूद लाखों लोग आरामदायक जीवन स्तर से दूर हैं।'\nस्रोत: https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-22"
+        },
+        {
+          "prompt": {
+            "en": "What has been the recent trend for AI stocks after trillions were wiped from market values?",
+            "hi": "बाजार मूल्यों से खरबों डॉलर गायब होने के बाद एआई शेयरों के लिए हालिया रुझान क्या रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "AI stocks continue to fall",
+                "hi": "एआई शेयरों में गिरावट जारी है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "AI stocks climb after trillions wiped from market values",
+                "hi": "बाजार मूल्यों से खरबों डॉलर गायब होने के बाद एआई शेयरों में उछाल आया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "AI stocks experienced a minor dip",
+                "hi": "एआई शेयरों में मामूली गिरावट देखी गई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "AI stocks remain stagnant",
+                "hi": "एआई स्टॉक स्थिर बने हुए हैं"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title indicates that 'AI stocks climb after trillions wiped from market values'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक से संकेत मिलता है कि 'बाजार मूल्यों से खरबों डॉलर नष्ट होने के बाद एआई शेयरों में उछाल आया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-23"
+        },
+        {
+          "prompt": {
+            "en": "What appears to have sparked fear among investors, leading to an AI stock selloff?",
+            "hi": "ऐसा प्रतीत होता है कि किस चीज़ ने निवेशकों के बीच डर पैदा कर दिया है, जिसके कारण एआई स्टॉक बिकवाली हुई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fears of more AI regulation appear to have sparked fear among investors",
+                "hi": "ऐसा प्रतीत होता है कि अधिक एआई विनियमन की आशंका से निवेशकों में डर पैदा हो गया है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Concerns about the profitability of AI companies",
+                "hi": "एआई कंपनियों की लाभप्रदता के बारे में चिंताएँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A general downturn in the tech sector",
+                "hi": "तकनीकी क्षेत्र में सामान्य मंदी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increased competition in the AI market",
+                "hi": "एआई बाजार में बढ़ी प्रतिस्पर्धा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The article states, 'Fears of more AI regulation appear to have sparked fear among investors', leading to the selloff.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+            "hi": "लेख में कहा गया है, 'ऐसा प्रतीत होता है कि अधिक एआई विनियमन की आशंका से निवेशकों में डर पैदा हो गया है', जिससे बिकवाली हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-24"
+        },
+        {
+          "prompt": {
+            "en": "Who are changes in the FTSE 100 and other indexes NOT just for?",
+            "hi": "एफटीएसई 100 और अन्य सूचकांकों में परिवर्तन केवल किसके लिए नहीं हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Government regulators",
+                "hi": "सरकारी नियामक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Individual investors",
+                "hi": "व्यक्तिगत निवेशक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "not just for financial experts",
+                "hi": "सिर्फ वित्तीय विशेषज्ञों के लिए नहीं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Corporate executives",
+                "hi": "कॉर्पोरेट अधिकारी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The article states that changes in indexes are 'not just for financial experts', implying a broader impact.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+            "hi": "लेख में कहा गया है कि सूचकांक में बदलाव 'सिर्फ वित्तीय विशेषज्ञों के लिए नहीं' है, जिसका व्यापक प्रभाव पड़ता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-25"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-09T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-09.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What was the approximate sum fetched by one of Stephen Hawking's earliest wheelchairs?",
+            "hi": "स्टीफ़न हॉकिंग के शुरुआती व्हीलचेयर में से एक द्वारा प्राप्त अनुमानित राशि क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "fetched a whopping sum of nearly £100,000",
+                "hi": "लगभग £100,000 की भारी रकम प्राप्त हुई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "fetched a whopping sum of nearly £300,000",
+                "hi": "लगभग £300,000 की भारी रकम प्राप्त हुई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "fetched a whopping sum of nearly £500,000",
+                "hi": "लगभग £500,000 की भारी रकम प्राप्त हुई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "fetched a whopping sum of nearly £50,000",
+                "hi": "लगभग £50,000 की भारी रकम प्राप्त हुई"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The article states that one of Stephen Hawking's wheelchairs 'fetched a whopping sum of nearly £300,000'.\nSource: https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+            "hi": "लेख में कहा गया है कि स्टीफन हॉकिंग की व्हीलचेयर में से एक की कीमत 'लगभग £300,000 की भारी भरकम रकम' थी।\nस्रोत: https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-26"
+        },
+        {
+          "prompt": {
+            "en": "How much did a copy of Stephen Hawking's doctoral thesis fetch at auction?",
+            "hi": "स्टीफन हॉकिंग की डॉक्टरेट थीसिस की एक प्रति की नीलामी में कितनी कीमत मिली?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "fetched almost £100,000",
+                "hi": "लगभग £100,000 प्राप्त हुए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "fetched almost £585,000",
+                "hi": "लगभग £585,000 प्राप्त हुए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "fetched almost £250,000",
+                "hi": "लगभग £250,000 प्राप्त हुए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "fetched almost £750,000",
+                "hi": "लगभग £750,000 प्राप्त हुए"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source mentions that a copy of his doctoral thesis 'fetched almost £585,000'.\nSource: https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+            "hi": "सूत्र का उल्लेख है कि उनकी डॉक्टरेट थीसिस की एक प्रति 'लगभग £585,000 में बिकी'।\nस्रोत: https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-27"
+        },
+        {
+          "prompt": {
+            "en": "What aspect of the carbon budget has not been referred to in any previous COP decision?",
+            "hi": "पिछले किसी भी सीओपी निर्णय में कार्बन बजट के किस पहलू का उल्लेख नहीं किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "No COP decision has referred to the quantitative value of the total or remaining carbon budget",
+                "hi": "किसी भी सीओपी निर्णय में कुल या शेष कार्बन बजट के मात्रात्मक मूल्य का उल्लेख नहीं किया गया है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The future allocation of carbon credits",
+                "hi": "कार्बन क्रेडिट का भविष्य का आवंटन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The historical emissions of developed nations",
+                "hi": "विकसित देशों का ऐतिहासिक उत्सर्जन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The impact of carbon budgets on economic growth",
+                "hi": "आर्थिक विकास पर कार्बन बजट का प्रभाव"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The article states, 'No COP decision has referred to the quantitative value of the total or remaining carbon budget'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+            "hi": "लेख में कहा गया है, 'किसी भी सीओपी निर्णय में कुल या शेष कार्बन बजट के मात्रात्मक मूल्य का उल्लेख नहीं किया गया है।'\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-28"
+        },
+        {
+          "prompt": {
+            "en": "What must COP31 decisions revert to in order to deliver real impetus to climate action?",
+            "hi": "जलवायु कार्रवाई को वास्तविक गति प्रदान करने के लिए COP31 निर्णयों में क्या परिवर्तन होना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Its decisions must focus on innovative technological solutions",
+                "hi": "इसके निर्णय नवीन तकनीकी समाधानों पर केंद्रित होने चाहिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "its decisions must revert to the basics",
+                "hi": "इसके निर्णयों को मूल बातों पर वापस लौटना चाहिए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its decisions must introduce new complex frameworks",
+                "hi": "इसके निर्णयों को नई जटिल रूपरेखाएँ प्रस्तुत करनी होंगी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Its decisions must prioritize economic development over climate action",
+                "hi": "इसके निर्णयों में जलवायु कार्रवाई पर आर्थिक विकास को प्राथमिकता दी जानी चाहिए"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text suggests that for real impetus, COP31 decisions 'must revert to the basics'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+            "hi": "पाठ सुझाव देता है कि वास्तविक प्रोत्साहन के लिए, COP31 निर्णयों को 'बुनियादी बातों पर वापस लौटना होगा'।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-29"
+        },
+        {
+          "prompt": {
+            "en": "What unique characteristic does the plastic produced by cellophane bees possess?",
+            "hi": "सिलोफ़न मधुमक्खियों द्वारा उत्पादित प्लास्टिक में कौन सी अनोखी विशेषता होती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is highly toxic to the environment",
+                "hi": "यह पर्यावरण के लिए अत्यधिक विषैला है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is entirely synthetic and non-biodegradable",
+                "hi": "यह पूरी तरह से सिंथेटिक और गैर-बायोडिग्रेडेबल है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "produce a kind of plastic that also degrades",
+                "hi": "एक प्रकार का प्लास्टिक उत्पन्न करें जो नष्ट भी हो जाता है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is used for commercial packaging",
+                "hi": "इसका उपयोग व्यावसायिक पैकेजिंग के लिए किया जाता है"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The study finds that cellophane bees 'produce a kind of plastic that also degrades'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+            "hi": "अध्ययन से पता चलता है कि सिलोफ़न मधुमक्खियाँ 'एक प्रकार का प्लास्टिक उत्पन्न करती हैं जो नष्ट भी हो जाता है।'\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-30"
+        },
+        {
+          "prompt": {
+            "en": "What are the described properties of the nest lining of the ground-nesting bee?",
+            "hi": "जमीन पर घोंसला बनाने वाली मधुमक्खी के घोंसले के अस्तर के वर्णित गुण क्या हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Opaque, brittle, fragile, and lasts for decades",
+                "hi": "अपारदर्शी, भंगुर, नाजुक और दशकों तक बना रहता है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Porous, rigid, weak, and degrades slowly over many years",
+                "hi": "छिद्रपूर्ण, कठोर, कमजोर और कई वर्षों में धीरे-धीरे नष्ट हो जाता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year",
+                "hi": "जमीन पर घोंसला बनाने वाली मधुमक्खी का घोंसला अस्तर पारभासी, लचीला, लचीला होता है और एक वर्ष के भीतर ख़राब हो जाता है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Metallic, inflexible, strong, and does not degrade",
+                "hi": "धात्विक, अनम्य, मजबूत और ख़राब नहीं होता"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt details that 'The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+            "hi": "अंश में विवरण दिया गया है कि 'जमीन पर घोंसला बनाने वाली मधुमक्खी का घोंसला अस्तर पारभासी, लचीला, लचीला होता है और एक वर्ष के भीतर नष्ट हो जाता है।'\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-31"
+        },
+        {
+          "prompt": {
+            "en": "How did the Milky Way primarily grow, according to galactic archaeologists?",
+            "hi": "गांगेय पुरातत्वविदों के अनुसार, आकाशगंगा मुख्य रूप से कैसे विकसित हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By expanding its outer spiral arms",
+                "hi": "अपनी बाहरी सर्पिल भुजाओं का विस्तार करके"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Milky Way grew by devouring galaxies",
+                "hi": "आकाशगंगाओं को निगल कर आकाशगंगा का विकास हुआ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Through the continuous formation of new stars",
+                "hi": "नए तारों के निरंतर निर्माण के माध्यम से"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "By merging with other large galaxies",
+                "hi": "अन्य बड़ी आकाशगंगाओं के साथ विलय करके"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states, 'The Milky Way grew by devouring galaxies'.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'आकाशगंगा आकाशगंगाओं को खाकर विकसित हुई।'\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-32"
+        },
+        {
+          "prompt": {
+            "en": "How far back in time are galactic archaeologists able to reveal the history of the Milky Way?",
+            "hi": "गैलेक्टिक पुरातत्वविद् आकाशगंगा के इतिहास को कितने समय पहले प्रकट करने में सक्षम हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Going back almost 1 billion years",
+                "hi": "लगभग 1 अरब वर्ष पीछे जा रहे हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Going back almost 5 billion years",
+                "hi": "लगभग 5 अरब वर्ष पीछे जा रहे हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "going back almost 12 billion years",
+                "hi": "लगभग 12 अरब वर्ष पीछे जा रहे हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Going back almost 8 billion years",
+                "hi": "लगभग 8 अरब वर्ष पीछे जा रहे हैं"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The article mentions that new missions are revealing the history of the Milky Way 'going back almost 12 billion years'.\nSource: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+            "hi": "लेख में उल्लेख किया गया है कि नए मिशन आकाशगंगा के 'लगभग 12 अरब वर्ष पुराने' इतिहास का खुलासा कर रहे हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-33"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary impact of the 'noisy Anthropocene' on wildlife?",
+            "hi": "वन्य जीवन पर 'शोर एंथ्रोपोसीन' का प्राथमिक प्रभाव क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Accelerating evolutionary adaptations",
+                "hi": "विकासवादी अनुकूलन में तेजी लाना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Enhancing communication among species",
+                "hi": "प्रजातियों के बीच संचार बढ़ाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Promoting biodiversity in urban areas",
+                "hi": "शहरी क्षेत्रों में जैव विविधता को बढ़ावा देना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "imposing fatal stress on wildlife",
+                "hi": "वन्य जीवन पर घातक तनाव थोपना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states that the 'noisy Anthropocene is imposing fatal stress on wildlife'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि 'शोरगुल वाला एंथ्रोपोसीन वन्यजीवों पर घातक तनाव डाल रहा है।'\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-34"
+        },
+        {
+          "prompt": {
+            "en": "What did researchers find regarding the alteration of specific traits in animals due to noise?",
+            "hi": "शोर के कारण जानवरों में विशिष्ट लक्षणों में परिवर्तन के संबंध में शोधकर्ताओं ने क्या पाया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Noise had no observable effect on animal traits",
+                "hi": "शोर का जानवरों के लक्षणों पर कोई प्रत्यक्ष प्रभाव नहीं पड़ा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "noise altered specific traits in 80% of the animals studied",
+                "hi": "अध्ययन किए गए 80% जानवरों में शोर ने विशिष्ट गुणों को बदल दिया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Noise only affected the reproductive behavior of animals",
+                "hi": "शोर ने केवल जानवरों के प्रजनन व्यवहार को प्रभावित किया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Noise improved the cognitive abilities of animals",
+                "hi": "शोर से जानवरों की संज्ञानात्मक क्षमताओं में सुधार हुआ"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The research found that 'noise altered specific traits in 80% of the animals studied'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+            "hi": "शोध में पाया गया कि 'शोर ने अध्ययन किए गए 80% जानवरों के विशिष्ट गुणों को बदल दिया।'\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-35"
+        },
+        {
+          "prompt": {
+            "en": "Which meteor shower, known for its bright and fast meteors, is expected to light up the night sky this weekend?",
+            "hi": "अपने चमकीले और तेज़ उल्काओं के लिए मशहूर किस उल्कापात से इस सप्ताह के अंत में रात के आकाश को रोशन करने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Perseid meteor shower",
+                "hi": "पर्सीड उल्कापात"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Geminid meteor shower",
+                "hi": "जेमिनिड उल्कापात"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Orionid meteor shower",
+                "hi": "ओरियोनिड उल्कापात"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Leonid meteor shower, known for its bright and fast meteors",
+                "hi": "लियोनिद उल्का बौछार, जो अपने चमकीले और तेज़ उल्काओं के लिए जाना जाता है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The article identifies 'The Leonid meteor shower, known for its bright and fast meteors' as the one expected.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+            "hi": "लेख में 'लियोनिद उल्कापात, जो अपने चमकीले और तेज़ उल्काओं के लिए जाना जाता है' की पहचान की गई है जैसी कि उम्मीद थी।\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-36"
+        },
+        {
+          "prompt": {
+            "en": "How does climate change affect extreme weather events?",
+            "hi": "जलवायु परिवर्तन चरम मौसम की घटनाओं को कैसे प्रभावित करता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "How climate change worsens heatwaves, droughts, wildfires and floods",
+                "hi": "कैसे जलवायु परिवर्तन से लू, सूखा, जंगल की आग और बाढ़ की स्थिति बिगड़ती है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Climate change has no impact on extreme weather events",
+                "hi": "जलवायु परिवर्तन का चरम मौसम की घटनाओं पर कोई प्रभाव नहीं पड़ता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Climate change makes extreme weather events less frequent",
+                "hi": "जलवायु परिवर्तन से चरम मौसम की घटनाएं कम हो जाती हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Climate change mitigates extreme weather events",
+                "hi": "जलवायु परिवर्तन चरम मौसम की घटनाओं को कम करता है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the article directly answers the question: 'How climate change worsens heatwaves, droughts, wildfires and floods'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+            "hi": "लेख का शीर्षक सीधे इस प्रश्न का उत्तर देता है: 'जलवायु परिवर्तन से लू, सूखा, जंगल की आग और बाढ़ की स्थिति कैसे बिगड़ती है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-37"
+        },
+        {
+          "prompt": {
+            "en": "What is the central role of the 2015 Paris Agreement in international efforts to tackle rising global temperatures?",
+            "hi": "बढ़ते वैश्विक तापमान से निपटने के अंतर्राष्ट्रीय प्रयासों में 2015 पेरिस समझौते की केंद्रीय भूमिका क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It primarily focuses on economic sanctions for non-compliance",
+                "hi": "यह मुख्य रूप से गैर-अनुपालन के लिए आर्थिक प्रतिबंधों पर केंद्रित है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It mandates a complete cessation of fossil fuel use by all nations",
+                "hi": "यह सभी देशों द्वारा जीवाश्म ईंधन के उपयोग को पूर्ण रूप से बंद करने का आदेश देता है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures",
+                "hi": "2015 का समझौता बढ़ते वैश्विक तापमान से निपटने के लिए अंतरराष्ट्रीय प्रतिबद्धता के केंद्र में है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It serves as a non-binding declaration of intent",
+                "hi": "यह इरादे की गैर-बाध्यकारी घोषणा के रूप में कार्य करता है"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text explains that 'The 2015 pact is at the heart of the international commitment to tackle rising global temperatures'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में बताया गया है कि '2015 का समझौता बढ़ते वैश्विक तापमान से निपटने के लिए अंतरराष्ट्रीय प्रतिबद्धता के केंद्र में है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-09-38"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-09T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "P.T. Usha complains to IOA electoral officer over WhatsApp campaign for SOM polls",
+      "url": "https://www.thehindu.com/sport/pt-usha-complains-to-ioa-electoral-officer-over-whatsapp-campaign-for-som-polls/article71681125.ece",
+      "published": "2026-11-08T22:10:48+05:30"
+    },
+    {
+      "title": "Revanth celebrates Deepavali with Indiramma house beneficiary",
+      "url": "https://www.thehindu.com/news/national/telangana/revanth-celebrates-deepavali-with-indiramma-house-beneficiary/article71681093.ece",
+      "published": "2026-11-08T21:54:53+05:30"
+    },
+    {
+      "title": "Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
+      "published": "2026-11-08T20:12:15+05:30"
+    },
+    {
+      "title": "Stock markets end marginally lower in special Muhurat trading, snapping seven-day rally",
+      "url": "https://www.thehindu.com/business/Industry/stock-markets-begin-samvat-2083-on-a-firm-note-in-special-muhurat-trading/article71680829.ece",
+      "published": "2026-11-08T16:43:37+05:30"
+    },
+    {
+      "title": "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
+      "url": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+      "published": "2026-11-08T12:18:51+05:30"
+    },
+    {
+      "title": "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks",
+      "url": "https://www.thehindu.com/business/Industry/ioc-to-buy-crude-lpg-ships-as-west-asia-crisis-exposes-shipping-risks/article71680603.ece",
+      "published": "2026-11-08T11:45:41+05:30"
+    },
+    {
+      "title": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
+      "url": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
+      "published": "2026-11-08T11:39:18+05:30"
+    },
+    {
+      "title": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+      "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+      "published": "2026-11-08T11:06:06+05:30"
+    },
+    {
+      "title": "From poverty alleviation to prosperity",
+      "url": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
+      "published": "2026-11-07T21:48:53+05:30"
+    },
+    {
+      "title": "Hawking, the celebrity theoretical physicist",
+      "url": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+      "published": "2026-11-08T10:54:36+05:30"
+    },
+    {
+      "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+      "published": "2026-11-07T14:18:45+05:30"
+    },
+    {
+      "title": "Cellophane bees produce a kind of plastic that also degrades, study finds",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+      "published": "2026-11-06T10:15:51+05:30"
+    },
+    {
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "url": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
+      "published": "2026-11-06T10:10:39+05:30"
+    },
+    {
+      "title": "A noisy Anthropocene is imposing fatal stress on wildlife",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+      "published": "2026-11-06T09:04:56+05:30"
+    },
+    {
+      "title": "Homes and temples glow across India to mark Diwali",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T14:42:09+00:00"
+    },
+    {
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T23:16:53+00:00"
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T21:06:25+00:00"
+    },
+    {
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T18:32:16+00:00"
+    },
+    {
+      "title": "How does it affect me if share prices fall?",
+      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T09:21:50+00:00"
+    },
+    {
+      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T02:03:28+00:00"
+    },
+    {
+      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:43:30+00:00"
+    },
+    {
+      "title": "What is the Paris Agreement and why does 1.5C matter?",
+      "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:39:07+00:00"
+    }
+  ]
+}
