@@ -1,0 +1,2936 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T20:01:38.025790+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-11.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What aspect of India's governance structure was expected to benefit from the Justice Kurian Joseph Committee?",
+            "hi": "न्यायमूर्ति कुरियन जोसेफ समिति से भारत की शासन संरचना के किस पहलू को लाभ होने की उम्मीद थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Judicial appointments",
+                "hi": "न्यायिक नियुक्तियाँ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "National security protocols",
+                "hi": "राष्ट्रीय सुरक्षा प्रोटोकॉल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Economic policy formulation",
+                "hi": "आर्थिक नीति निर्माण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "India’s federal structure",
+                "hi": "भारत की संघीय संरचना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt explicitly states that 'India’s federal structure could have benefited from the Kurian Committee', indicating its intended area of impact.\nSource: https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि 'भारत के संघीय ढांचे को कुरियन समिति से लाभ हो सकता था', जो इसके इच्छित प्रभाव क्षेत्र का संकेत देता है।\nस्रोत: https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-1"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary reason for the injury sustained by a civil police officer in Kochi?",
+            "hi": "कोच्चि में एक सिविल पुलिस अधिकारी को लगी चोट का प्राथमिक कारण क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An accidental fall during transport",
+                "hi": "परिवहन के दौरान आकस्मिक गिरावट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A struggle during arrest",
+                "hi": "गिरफ्तारी के दौरान संघर्ष"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A traffic accident involving the police vehicle",
+                "hi": "पुलिस वाहन से जुड़ी एक यातायात दुर्घटना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A man who had been detained on charge of creating public nuisance in the city allegedly bit on his hands",
+                "hi": "शहर में सार्वजनिक उपद्रव मचाने के आरोप में हिरासत में लिए गए एक व्यक्ति ने कथित तौर पर अपने हाथों पर काट लिया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source clearly states that 'The officer was injured after a man who had been detained on charge of creating public nuisance in the city allegedly bit on his hands'.\nSource: https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से बताया कि 'शहर में सार्वजनिक उपद्रव पैदा करने के आरोप में हिरासत में लिए गए एक व्यक्ति द्वारा कथित तौर पर उसके हाथों पर काटने के बाद अधिकारी घायल हो गया।'\nस्रोत: https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-2"
+        },
+        {
+          "prompt": {
+            "en": "What specific legal documents were allegedly not shown to Archana when she was picked up from the airport?",
+            "hi": "जब अर्चना को हवाई अड्डे से उठाया गया तो कथित तौर पर उसे कौन से विशिष्ट कानूनी दस्तावेज़ नहीं दिखाए गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A valid passport or visa",
+                "hi": "वैध पासपोर्ट या वीज़ा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Any summons, warrant, court order or Look Out Circular",
+                "hi": "कोई समन, वारंट, अदालती आदेश या लुक आउट सर्कुलर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An arrest report or FIR copy",
+                "hi": "गिरफ्तारी रिपोर्ट या एफआईआर कॉपी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Her travel itinerary or flight details",
+                "hi": "उसकी यात्रा कार्यक्रम या उड़ान विवरण"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt specifies that she was picked up 'without showing any summons, warrant, court order or Look Out Circular'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
+            "hi": "अंश निर्दिष्ट करता है कि उसे 'बिना कोई समन, वारंट, अदालत का आदेश या लुक आउट सर्कुलर दिखाए' उठाया गया था।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-3"
+        },
+        {
+          "prompt": {
+            "en": "What specific religious texts or hymns are Odhuvars urged to chant/sing in temples under the department's purview during Kandasashthi?",
+            "hi": "कंडाषष्ठी के दौरान विभाग के दायरे में आने वाले मंदिरों में ओधुवरों से किन विशिष्ट धार्मिक ग्रंथों या भजनों का जाप/गायन करने का आग्रह किया जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vedas and Upanishads",
+                "hi": "वेद और उपनिषद"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Bhagavad Gita and Ramayana",
+                "hi": "भगवत गीता और रामायण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Divya Prabandham and Thevaram",
+                "hi": "दिव्य प्रबंधम और थेवरम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Thirupugazh, Thirumurai, and Kandasashthi kavacham",
+                "hi": "थिरुपुगाज़, थिरुमुराई, और कंडाषष्ठी कवचम"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The minister urged temples to ensure Odhuvars 'chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham'.\nSource: https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
+            "hi": "मंत्री ने मंदिरों से यह सुनिश्चित करने का आग्रह किया कि ओधुवार 'थिरुपुगाज़, थिरुमुराई और कंडाषष्ठी कवचम का जाप/गायन करें।'\nस्रोत: https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-4"
+        },
+        {
+          "prompt": {
+            "en": "Who is recognized as the first Indian female doctor to practice Western medicine?",
+            "hi": "पश्चिमी चिकित्सा पद्धति का अभ्यास करने वाली पहली भारतीय महिला डॉक्टर के रूप में किसे मान्यता प्राप्त है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kadambini Ganguly",
+                "hi": "कादंबिनी गांगुली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rukhmabai",
+                "hi": "रुखमाबाई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Anandi Gopal Joshi",
+                "hi": "आनंदी गोपाल जोशी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mary Poonen Lukose",
+                "hi": "मैरी पूनेन लुकोस"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly names 'Kadambini Ganguly' as the 'first Indian female doctor to practice Western medicine'.\nSource: https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
+            "hi": "स्रोत स्पष्ट रूप से 'कादंबिनी गांगुली' को 'पश्चिमी चिकित्सा का अभ्यास करने वाली पहली भारतीय महिला डॉक्टर' के रूप में नामित करता है।\nस्रोत: https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-5"
+        },
+        {
+          "prompt": {
+            "en": "Where are the ancestral Naga skulls, recently returned by an Oxford museum, planned to be taken?",
+            "hi": "हाल ही में ऑक्सफोर्ड संग्रहालय द्वारा लौटाई गई पुश्तैनी नागा खोपड़ियों को कहाँ ले जाने की योजना है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nagaland, where tribal leaders plan a joint memorial and burial",
+                "hi": "नागालैंड, जहां आदिवासी नेता एक संयुक्त स्मारक और दफ़नाने की योजना बना रहे हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The capital city of India",
+                "hi": "भारत की राजधानी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A national museum in Delhi",
+                "hi": "दिल्ली में एक राष्ट्रीय संग्रहालय"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A research institution for further study",
+                "hi": "आगे के अध्ययन के लिए एक शोध संस्थान"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि 'अवशेषों को नागालैंड ले जाया जाएगा, जहां आदिवासी नेता एक संयुक्त स्मारक और दफनाने की योजना बना रहे हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-6"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of commuters in IT hubs rely on personal vehicles for their daily travel?",
+            "hi": "आईटी हब में कितने प्रतिशत यात्री अपनी दैनिक यात्रा के लिए निजी वाहनों पर निर्भर हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2%",
+                "hi": "2%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "18%",
+                "hi": "18%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "82%",
+                "hi": "82%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "50%",
+                "hi": "50%"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states: 'IT hubs see 82% commute by personal vehicles'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है: 'आईटी केंद्रों में 82% लोग निजी वाहनों से यात्रा करते हैं।'\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-7"
+        },
+        {
+          "prompt": {
+            "en": "What was the charge against the man who allegedly attacked a civil police officer in Kochi?",
+            "hi": "कोच्चि में एक सिविल पुलिस अधिकारी पर कथित तौर पर हमला करने वाले व्यक्ति पर क्या आरोप था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Assaulting a police officer",
+                "hi": "एक पुलिस अधिकारी के साथ मारपीट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Theft and robbery",
+                "hi": "चोरी और डकैती"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Creating public nuisance in the city",
+                "hi": "शहर में सार्वजनिक उपद्रव पैदा करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Resisting arrest",
+                "hi": "गिरफ़्तारी का विरोध"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions the man 'had been detained on charge of creating public nuisance in the city'.\nSource: https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
+            "hi": "अंश में उस व्यक्ति का उल्लेख है जिसे 'शहर में सार्वजनिक उपद्रव पैदा करने के आरोप में हिरासत में लिया गया था।'\nस्रोत: https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the stated purpose of the tribal leaders in Nagaland for the returned ancestral remains?",
+            "hi": "पुश्तैनी अवशेषों को लौटाने के पीछे नागालैंड के जनजातीय नेताओं का घोषित उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To conduct scientific research",
+                "hi": "वैज्ञानिक अनुसंधान करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To display them in a museum",
+                "hi": "उन्हें एक संग्रहालय में प्रदर्शित करने के लिए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To plan a joint memorial and burial",
+                "hi": "एक संयुक्त स्मारक और दफ़नाने की योजना बनाना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To repatriate them to their original resting place",
+                "hi": "उन्हें उनके मूल विश्राम स्थल पर वापस भेजना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that tribal leaders 'plan a joint memorial and burial' for the remains.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि आदिवासी नेता अवशेषों के लिए 'एक संयुक्त स्मारक और दफनाने की योजना' बना रहे हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-9"
+        },
+        {
+          "prompt": {
+            "en": "What is the proportion of public transport usage for commuting in IT hubs?",
+            "hi": "आईटी केन्द्रों में आवागमन के लिए सार्वजनिक परिवहन के उपयोग का अनुपात क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2%",
+                "hi": "2%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "82%",
+                "hi": "82%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "18%",
+                "hi": "18%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "50%",
+                "hi": "50%"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt clearly states that 'just 2% use public transport' in IT hubs.\nSource: https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि आईटी केंद्रों में 'सिर्फ 2% लोग सार्वजनिक परिवहन का उपयोग करते हैं।'\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-10"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the festival being marked by millions of Indians with glowing lamps, fireworks, and traditional sweets?",
+            "hi": "लाखों भारतीयों द्वारा जगमगाते दीयों, आतिशबाजी और पारंपरिक मिठाइयों के साथ मनाए जाने वाले त्योहार का नाम क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Holi",
+                "hi": "होली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Eid",
+                "hi": "ईद"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Christmas",
+                "hi": "क्रिसमस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The festival of lights",
+                "hi": "रोशनी का त्योहार"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source refers to it as 'the festival of lights' which is marked by these activities.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत इसे 'रोशनी का त्योहार' के रूप में संदर्भित करता है जो इन गतिविधियों द्वारा चिह्नित है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-11"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-11T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-11.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Which Russian company is NMDC reportedly in talks with for lithium investments?",
+            "hi": "कथित तौर पर एनएमडीसी किस रूसी कंपनी के साथ लिथियम निवेश के लिए बातचीत कर रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gazprom",
+                "hi": "गज़प्रोम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Sberbank",
+                "hi": "सर्बैंक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lukoil",
+                "hi": "लुकोइल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rosatom",
+                "hi": "रोसाटोम"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that 'NMDC said to be in talks with Russia’s Rosatom over lithium investments'.\nSource: https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+            "hi": "अंश में कहा गया है कि 'एनएमडीसी ने लिथियम निवेश पर रूस के रोसाटॉम के साथ बातचीत करने की बात कही है।'\nस्रोत: https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-12"
+        },
+        {
+          "prompt": {
+            "en": "What percentage stake is Blackstone planning to acquire in IIFL Finance?",
+            "hi": "ब्लैकस्टोन आईआईएफएल फाइनेंस में कितनी प्रतिशत हिस्सेदारी हासिल करने की योजना बना रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "12%",
+                "hi": "12%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "25%",
+                "hi": "25%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "20%",
+                "hi": "20%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "16%",
+                "hi": "16%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states 'Blackstone to buy about 16% stake in India's IIFL Finance'.\nSource: https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से बताया गया है कि 'ब्लैकस्टोन भारत के आईआईएफएल फाइनेंस में लगभग 16% हिस्सेदारी खरीदेगा।'\nस्रोत: https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-13"
+        },
+        {
+          "prompt": {
+            "en": "Which company is leading the second round of coal gasification bids?",
+            "hi": "कौन सी कंपनी कोयला गैसीकरण बोली के दूसरे दौर में अग्रणी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Reliance Industries",
+                "hi": "रिलायंस इंडस्ट्रीज"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Adani Group",
+                "hi": "अदानी ग्रुप"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Coal India",
+                "hi": "कोल इंडिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "NTPC",
+                "hi": "एनटीपीसी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states that 'NTPC leads second round of coal gasification bids'.\nSource: https://www.thehindu.com/business/Industry/ntpc-leads-second-round-of-coal-gasification-bids-with-two-applications/article71686471.ece",
+            "hi": "शीर्षक में कहा गया है कि 'एनटीपीसी कोयला गैसीकरण बोली के दूसरे दौर में सबसे आगे है।'\nस्रोत: https://www.thehindu.com/business/Industry/ntpc-leads-second-round-of-coal-gasification-bids-with-two-applications/article71686471.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/ntpc-leads-second-round-of-coal-gasification-bids-with-two-applications/article71686471.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-14"
+        },
+        {
+          "prompt": {
+            "en": "What is the reason for the recall of Vancomycin Hydrochloride for Injection USP 1.25g/Vial-30mL by Eugia U.S.?",
+            "hi": "यूजिया यू.एस. द्वारा वैनकोमाइसिन हाइड्रोक्लोराइड फॉर इंजेक्शन यूएसपी 1.25 ग्राम/शीशी-30 एमएल को वापस बुलाने का क्या कारण है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Expired shelf life",
+                "hi": "समाप्त शेल्फ जीवन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Contamination with bacteria",
+                "hi": "बैक्टीरिया से संदूषण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Incorrect dosage labeling",
+                "hi": "गलत खुराक लेबलिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Presence of particulate matter",
+                "hi": "कणिकीय पदार्थ की उपस्थिति"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt specifies the drug is being recalled 'due to presence of particulate matter'.\nSource: https://www.thehindu.com/business/aurobindo-arm-eugia-us-recalling-antibacterial-drug/article71686556.ece",
+            "hi": "अंश निर्दिष्ट करता है कि दवा को 'कणों की उपस्थिति के कारण' वापस बुलाया जा रहा है।\nस्रोत: https://www.thehindu.com/business/aurobindo-arm-eugia-us-recalling-antibacterial-drug/article71686556.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/aurobindo-arm-eugia-us-recalling-antibacterial-drug/article71686556.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-15"
+        },
+        {
+          "prompt": {
+            "en": "What specific tax cuts are industry bodies seeking in Budget 2027?",
+            "hi": "बजट 2027 में उद्योग निकाय कौन सी विशिष्ट कर कटौती की मांग कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "LTCG, STT cuts",
+                "hi": "एलटीसीजी, एसटीटी में कटौती"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "GST and customs duties",
+                "hi": "जीएसटी और सीमा शुल्क"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Income tax and corporate tax",
+                "hi": "आयकर और कॉर्पोरेट कर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Property tax and wealth tax",
+                "hi": "संपत्ति कर और धन कर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states 'Industry seeks LTCG, STT cuts in Budget 2027'.\nSource: https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है 'उद्योग बजट 2027 में एलटीसीजी, एसटीटी में कटौती चाहता है।'\nस्रोत: https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-16"
+        },
+        {
+          "prompt": {
+            "en": "How many local jobs is Qantas planning to outsource, with most roles moving to India?",
+            "hi": "Qantas कितनी स्थानीय नौकरियों को आउटसोर्स करने की योजना बना रहा है, जिनमें से अधिकांश भूमिकाएँ भारत में स्थानांतरित हो रही हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "500",
+                "hi": "500"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "1200",
+                "hi": "1200"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "1000",
+                "hi": "1000"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "850",
+                "hi": "850"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states 'Qantas to outsource 850 local jobs'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'क्वांटास 850 स्थानीय नौकरियों को आउटसोर्स करेगा।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-17"
+        },
+        {
+          "prompt": {
+            "en": "What were the primary drivers of the 0.4% price increase in the US economy over the month?",
+            "hi": "महीने के दौरान अमेरिकी अर्थव्यवस्था में 0.4% मूल्य वृद्धि के प्राथमिक चालक क्या थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Automobile and electronics prices",
+                "hi": "ऑटोमोबाइल और इलेक्ट्रॉनिक्स की कीमतें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Luxury goods and services",
+                "hi": "विलासिता की वस्तुएँ और सेवाएँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Healthcare and education expenses",
+                "hi": "स्वास्थ्य देखभाल और शिक्षा व्यय"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increases in shelter, food and energy costs",
+                "hi": "आश्रय, भोजन और ऊर्जा की लागत में वृद्धि"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states prices were 'driven by increases in shelter, food and energy costs'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि कीमतें 'आश्रय, भोजन और ऊर्जा लागत में वृद्धि से प्रेरित थीं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-18"
+        },
+        {
+          "prompt": {
+            "en": "What difficulties are Vinted sellers reportedly experiencing?",
+            "hi": "कथित तौर पर विंटेड विक्रेता किन कठिनाइयों का सामना कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Accessing money held in their online wallets",
+                "hi": "उनके ऑनलाइन वॉलेट में रखे पैसे तक पहुंच"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Listing items for sale",
+                "hi": "बिक्री के लिए वस्तुओं की सूची बनाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Shipping products internationally",
+                "hi": "अंतरराष्ट्रीय स्तर पर उत्पादों की शिपिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Communicating with buyers",
+                "hi": "खरीदारों के साथ संचार"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source mentions sellers 'describe difficulties accessing money held in their online wallets'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र में बताया गया है कि विक्रेता 'अपने ऑनलाइन वॉलेट में रखे पैसे तक पहुंचने में कठिनाइयों का वर्णन करते हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-19"
+        },
+        {
+          "prompt": {
+            "en": "What geopolitical dynamic is highlighted as potentially impacting energy costs significantly?",
+            "hi": "किस भू-राजनीतिक गतिशीलता को संभावित रूप से ऊर्जा लागत पर महत्वपूर्ण प्रभाव डालने के रूप में उजागर किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A tug-of-war between China and the US",
+                "hi": "चीन और अमेरिका के बीच खींचतान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Conflict in the Middle East",
+                "hi": "मध्य पूर्व में संघर्ष"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Fluctuations in oil production",
+                "hi": "तेल उत्पादन में उतार-चढ़ाव"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sanctions against Russia",
+                "hi": "रूस के विरुद्ध प्रतिबंध"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states 'A tug-of-war between China and the US could have a big impact on energy costs'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'चीन और अमेरिका के बीच रस्साकशी का ऊर्जा लागत पर बड़ा असर हो सकता है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-20"
+        },
+        {
+          "prompt": {
+            "en": "What is the expected price range for the shares of the AI company behind the Claude chatbot?",
+            "hi": "क्लाउड चैटबॉट के पीछे एआई कंपनी के शेयरों के लिए अपेक्षित मूल्य सीमा क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Between $50 and $60",
+                "hi": "$50 और $60 के बीच"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Between $80 and $90",
+                "hi": "$80 और $90 के बीच"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Between $70 and $78",
+                "hi": "$70 और $78 के बीच"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Above $100",
+                "hi": "$100 से ऊपर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states the company 'will offer its shares at between $70 and $78'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि कंपनी 'अपने शेयर 70 डॉलर से 78 डॉलर के बीच पेश करेगी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-21"
+        },
+        {
+          "prompt": {
+            "en": "What is the total value of Blackstone's planned investment in IIFL Finance?",
+            "hi": "आईआईएफएल फाइनेंस में ब्लैकस्टोन के नियोजित निवेश का कुल मूल्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$16 million",
+                "hi": "$16 मिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$1.5 billion",
+                "hi": "$1.5 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$535 million",
+                "hi": "$535 मिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$12.64 billion",
+                "hi": "$12.64 बिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title indicates 'Blackstone to buy about 16% stake in India's IIFL Finance for $535 million'.\nSource: https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece",
+            "hi": "शीर्षक से संकेत मिलता है कि 'ब्लैकस्टोन $535 मिलियन में भारत के आईआईएफएल फाइनेंस में लगभग 16% हिस्सेदारी खरीदेगा।'\nस्रोत: https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-22"
+        },
+        {
+          "prompt": {
+            "en": "What is the expected start year for commercial production of lithium from the PolarLithium joint venture?",
+            "hi": "पोलारलिथियम संयुक्त उद्यम से लिथियम के व्यावसायिक उत्पादन के लिए अपेक्षित प्रारंभ वर्ष क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2028",
+                "hi": "2028"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2029",
+                "hi": "2029"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2032",
+                "hi": "2032"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2030",
+                "hi": "2030"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states 'commercial production expected to begin by 2030'.\nSource: https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+            "hi": "अंश में कहा गया है, 'व्यावसायिक उत्पादन 2030 तक शुरू होने की उम्मीद है।'\nस्रोत: https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-23"
+        },
+        {
+          "prompt": {
+            "en": "What specific relief is on the wish list for MSMEs in Budget 2027?",
+            "hi": "बजट 2027 में एमएसएमई के लिए इच्छा सूची में क्या विशिष्ट राहत है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Export subsidies",
+                "hi": "निर्यात सब्सिडी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Loan waivers",
+                "hi": "कर्ज़ माफ़ी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "MSME relief",
+                "hi": "एमएसएमई को राहत"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Infrastructure grants",
+                "hi": "बुनियादी ढांचा अनुदान"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions 'MSME relief also on wish list' for Budget 2027.\nSource: https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece",
+            "hi": "अंश में बजट 2027 के लिए 'एमएसएमई राहत भी इच्छा सूची में' का उल्लेख है।\nस्रोत: https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-24"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason cited by Qantas for outsourcing jobs to India?",
+            "hi": "Qantas द्वारा भारत में नौकरियाँ आउटसोर्स करने का प्राथमिक कारण क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Modernising its IT systems and noted the impact of AI",
+                "hi": "अपने आईटी सिस्टम का आधुनिकीकरण किया और एआई के प्रभाव पर ध्यान दिया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Expanding market share",
+                "hi": "बाजार हिस्सेदारी का विस्तार"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cost reduction",
+                "hi": "लागत में कमी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Lack of local talent",
+                "hi": "स्थानीय प्रतिभा का अभाव"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states the move 'was aimed at modernising its IT systems and noted the impact of AI'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि इस कदम का उद्देश्य 'अपने आईटी सिस्टम को आधुनिक बनाना और एआई के प्रभाव को नोट करना था।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-25"
+        },
+        {
+          "prompt": {
+            "en": "What specific financial instrument is the AI company behind the Claude chatbot planning to offer?",
+            "hi": "क्लाउड चैटबॉट की पेशकश के पीछे एआई कंपनी कौन सा विशिष्ट वित्तीय साधन पेश करने की योजना बना रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Bonds",
+                "hi": "बांड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Shares",
+                "hi": "शेयर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Debentures",
+                "hi": "डिबेंचर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Options",
+                "hi": "विकल्प"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states the company 'will offer its shares at between $70 and $78'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि कंपनी 'अपने शेयर $70 और $78 के बीच पेश करेगी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-26"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-11T06:30:00+05:30"
+    },
+    {
+      "title": "Science, Environment & Technology",
+      "source_filename": "daily-2026-11-11.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is Google's objective in launching two new AI chips?",
+            "hi": "दो नए AI चिप्स लॉन्च करने का Google का उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To reduce manufacturing costs",
+                "hi": "विनिर्माण लागत को कम करने के लिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To expand into smartphone production",
+                "hi": "स्मार्टफोन उत्पादन में विस्तार करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To challenge NVIDIA’s dominance",
+                "hi": "NVIDIA के प्रभुत्व को चुनौती देने के लिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To develop quantum computing",
+                "hi": "क्वांटम कंप्यूटिंग का विकास करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states Google's objective is 'to challenge NVIDIA’s dominance' with its new AI chips.\nSource: https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
+            "hi": "शीर्षक स्पष्ट रूप से बताता है कि Google का उद्देश्य अपने नए AI चिप्स के साथ 'NVIDIA के प्रभुत्व को चुनौती देना' है।\nस्रोत: https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-27"
+        },
+        {
+          "prompt": {
+            "en": "What is Nvidia's current market valuation, placing it among the world's most valuable companies?",
+            "hi": "एनवीडिया का वर्तमान बाजार मूल्यांकन क्या है, जो इसे दुनिया की सबसे मूल्यवान कंपनियों में रखता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1 trillion",
+                "hi": "$1 ट्रिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$4.5 trillion",
+                "hi": "$4.5 ट्रिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$2.5 trillion",
+                "hi": "$2.5 ट्रिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$5 trillion",
+                "hi": "$5 ट्रिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states 'Nvidia's market valuation has soared to $4.5 trillion'.\nSource: https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece",
+            "hi": "अंश में कहा गया है 'एनवीडिया का बाजार मूल्यांकन 4.5 ट्रिलियन डॉलर तक बढ़ गया है।'\nस्रोत: https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-28"
+        },
+        {
+          "prompt": {
+            "en": "What are the three specific goals that Chinese universities are now tasked with under the government's guideline on higher education reform?",
+            "hi": "उच्च शिक्षा सुधार पर सरकार के दिशानिर्देशों के तहत अब चीनी विश्वविद्यालयों को कौन से तीन विशिष्ट लक्ष्य सौंपे गए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "International collaborations, student exchange, and cultural promotion",
+                "hi": "अंतर्राष्ट्रीय सहयोग, छात्र आदान-प्रदान और सांस्कृतिक प्रचार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Historical preservation, ethical studies, and community service",
+                "hi": "ऐतिहासिक संरक्षण, नैतिक अध्ययन और सामुदायिक सेवा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Liberal arts education, critical thinking, and social sciences",
+                "hi": "उदार कला शिक्षा, आलोचनात्मक सोच और सामाजिक विज्ञान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Research, application-oriented objectives, or skills development",
+                "hi": "अनुसंधान, अनुप्रयोग-उन्मुख उद्देश्य, या कौशल विकास"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source specifies universities will be tasked with 'pursuing either research, application-oriented objectives, or skills development'.\nSource: https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
+            "hi": "स्रोत निर्दिष्ट करता है कि विश्वविद्यालयों को 'अनुसंधान, अनुप्रयोग-उन्मुख उद्देश्यों, या कौशल विकास को आगे बढ़ाने' का काम सौंपा जाएगा।\nस्रोत: https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-29"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason Meta is facing multiple lawsuits?",
+            "hi": "मेटा को अनेक मुकदमों का सामना करने का प्राथमिक कारण क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Data privacy breaches",
+                "hi": "डेटा गोपनीयता का उल्लंघन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Monopolistic business practices",
+                "hi": "एकाधिकारवादी व्यावसायिक प्रथाएँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Allegations that its platforms harm teens",
+                "hi": "आरोप है कि इसके प्लेटफॉर्म किशोरों को नुकसान पहुंचाते हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Misinformation spread",
+                "hi": "गलत सूचना फैलाई गई"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states Meta 'faces multiple lawsuits over allegations that its platforms harm teens'.\nSource: https://www.thehindu.com/sci-tech/technology/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount/article71684865.ece",
+            "hi": "अंश में कहा गया है कि मेटा को 'इस आरोप पर कई मुकदमों का सामना करना पड़ रहा है कि उसके प्लेटफॉर्म किशोरों को नुकसान पहुंचाते हैं।'\nस्रोत: https://www.thehindu.com/sci-tech/technology/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount/article71684865.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount/article71684865.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-30"
+        },
+        {
+          "prompt": {
+            "en": "What prompted Australia to tighten its AI oversight rules?",
+            "hi": "ऑस्ट्रेलिया को अपने AI निरीक्षण नियमों को कड़ा करने के लिए किस बात ने प्रेरित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Concerns about AI in elections",
+                "hi": "चुनाव में एआई को लेकर चिंताएं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The need for international standardization",
+                "hi": "अंतर्राष्ट्रीय मानकीकरण की आवश्यकता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An OpenAI agent breached government website",
+                "hi": "एक OpenAI एजेंट ने सरकारी वेबसाइट का उल्लंघन किया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Reports of AI bias",
+                "hi": "एआई पूर्वाग्रह की रिपोर्ट"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title indicates Australia tightened rules 'after OpenAI agent breached government website'.\nSource: https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
+            "hi": "शीर्षक से संकेत मिलता है कि 'ओपनएआई एजेंट द्वारा सरकारी वेबसाइट का उल्लंघन करने के बाद' ऑस्ट्रेलिया ने नियम कड़े कर दिए हैं।\nस्रोत: https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-31"
+        },
+        {
+          "prompt": {
+            "en": "How does a tokamak enable nuclear fusion?",
+            "hi": "टोकामक परमाणु संलयन को कैसे सक्षम बनाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By using chemical reactions",
+                "hi": "रासायनिक प्रतिक्रियाओं का उपयोग करके"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By employing laser technology",
+                "hi": "लेज़र प्रौद्योगिकी का उपयोग करके"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Through gravitational compression",
+                "hi": "गुरुत्वाकर्षण संपीड़न के माध्यम से"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "By using magnetic fields to confine superhot plasma",
+                "hi": "सुपरहॉट प्लाज़्मा को सीमित करने के लिए चुंबकीय क्षेत्र का उपयोग करके"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt explains that 'A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion'.\nSource: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+            "hi": "अंश बताता है कि 'एक टोकामक परमाणु संलयन को सक्षम करने के लिए सुपरहॉट प्लाज्मा को सीमित करने के लिए चुंबकीय क्षेत्र का उपयोग करता है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-32"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the AI company behind the Claude chatbot?",
+            "hi": "क्लाउड चैटबॉट के पीछे AI कंपनी का नाम क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The AI company behind the Claude chatbot",
+                "hi": "क्लाउड चैटबॉट के पीछे AI कंपनी है"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "OpenAI",
+                "hi": "ओपनएआई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Google AI",
+                "hi": "गूगल एआई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Nvidia",
+                "hi": "एनवीडिया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt refers to 'The AI company behind the Claude chatbot' without naming it specifically.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश विशेष रूप से नाम लिए बिना 'क्लाउड चैटबॉट के पीछे एआई कंपनी' को संदर्भित करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-33"
+        },
+        {
+          "prompt": {
+            "en": "What government campaign led to a surge in sales of essential goods like hand sanitiser?",
+            "hi": "किस सरकारी अभियान के कारण हैंड सैनिटाइज़र जैसी आवश्यक वस्तुओं की बिक्री में वृद्धि हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The 'Be Ready' campaign",
+                "hi": "'तैयार रहो' अभियान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The 'Clean India' campaign",
+                "hi": "'स्वच्छ भारत' अभियान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The 'Healthy Living' initiative",
+                "hi": "'स्वस्थ जीवन' पहल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The 'Public Safety' drive",
+                "hi": "'सार्वजनिक सुरक्षा' अभियान"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title mentions 'Sales of tinned food and bottled water jump after 'Be Ready' campaign launch', and the text refers to 'the government called on households to be prepared for emergencies'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में 'बी रेडी' अभियान शुरू होने के बाद डिब्बाबंद भोजन और बोतलबंद पानी की बिक्री में उछाल' का उल्लेख है, और पाठ में 'सरकार ने परिवारों से आपात स्थिति के लिए तैयार रहने का आह्वान किया है' का उल्लेख है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-34"
+        },
+        {
+          "prompt": {
+            "en": "Who is the CEO of Nvidia, mentioned in connection with an alleged affair?",
+            "hi": "कथित अफेयर के सिलसिले में उल्लिखित एनवीडिया के सीईओ कौन हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sundar Pichai",
+                "hi": "सुन्दर पिचाई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Jensen Huang",
+                "hi": "जेन्सेन हुआंग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Satya Nadella",
+                "hi": "सत्या नडेला"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Tim Cook",
+                "hi": "टिम कुक"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states 'The US president said he spoke with Jensen Huang on Monday and asked him about the affair'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'अमेरिकी राष्ट्रपति ने कहा कि उन्होंने सोमवार को जेन्सेन हुआंग से बात की और उनसे मामले के बारे में पूछा।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-35"
+        },
+        {
+          "prompt": {
+            "en": "What natural feature is being referred to as a \"soggy secret weapon\" in the global campaign against climate change?",
+            "hi": "जलवायु परिवर्तन के विरुद्ध वैश्विक अभियान में किस प्राकृतिक विशेषता को \"गीले गुप्त हथियार\" के रूप में संदर्भित किया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rainforests",
+                "hi": "वर्षावन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Wetland",
+                "hi": "आर्द्रभूमि"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Oceans",
+                "hi": "महासागर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Glaciers",
+                "hi": "ग्लेशियर"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title mentions 'The swan sanctuary wetland fighting climate change' and the text refers to 'the \"soggy secret weapon\" that can combat against climate change'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में 'जलवायु परिवर्तन से लड़ने वाली हंस अभयारण्य आर्द्रभूमि' का उल्लेख है और पाठ में 'गीले गुप्त हथियार' का उल्लेख है जो जलवायु परिवर्तन से लड़ सकता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-36"
+        },
+        {
+          "prompt": {
+            "en": "What significant environmental prediction are scientists making for the year 2026?",
+            "hi": "वर्ष 2026 के लिए वैज्ञानिक कौन सी महत्वपूर्ण पर्यावरणीय भविष्यवाणी कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A new ice age",
+                "hi": "एक नया हिमयुग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The coldest year on record",
+                "hi": "रिकॉर्ड पर सबसे ठंडा साल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A year of stable temperatures",
+                "hi": "स्थिर तापमान वाला वर्ष"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The hottest year on record",
+                "hi": "रिकॉर्ड पर सबसे गर्म वर्ष"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states 'Scientists are predictng this could be the hottest year on record'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'वैज्ञानिक भविष्यवाणी कर रहे हैं कि यह रिकॉर्ड पर सबसे गर्म वर्ष हो सकता है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-37"
+        },
+        {
+          "prompt": {
+            "en": "What specific types of workloads do Google's new AI systems target?",
+            "hi": "Google के नए AI सिस्टम किस विशिष्ट प्रकार के कार्यभार को लक्षित करते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Graphics rendering and video editing",
+                "hi": "ग्राफ़िक्स रेंडरिंग और वीडियो संपादन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Data analytics and database management",
+                "hi": "डेटा विश्लेषण और डेटाबेस प्रबंधन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Network security and cloud storage",
+                "hi": "नेटवर्क सुरक्षा और क्लाउड स्टोरेज"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Secure AI inference and memory-intensive workloads",
+                "hi": "सुरक्षित एआई अनुमान और मेमोरी-गहन कार्यभार"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that 'New systems target secure AI inference and memory-intensive workloads'.\nSource: https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
+            "hi": "अंश में कहा गया है कि 'नए सिस्टम सुरक्षित एआई अनुमान और मेमोरी-गहन वर्कलोड को लक्षित करते हैं।'\nस्रोत: https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-38"
+        },
+        {
+          "prompt": {
+            "en": "What specific type of AI agent breached a government website, leading to Australia's tightened AI oversight rules?",
+            "hi": "किस विशिष्ट प्रकार के AI एजेंट ने एक सरकारी वेबसाइट का उल्लंघन किया, जिसके कारण ऑस्ट्रेलिया के AI निरीक्षण नियम कड़े हो गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A Google AI agent",
+                "hi": "एक Google AI एजेंट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An IBM AI agent",
+                "hi": "एक आईबीएम एआई एजेंट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An OpenAI agent",
+                "hi": "एक OpenAI एजेंट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A Microsoft AI agent",
+                "hi": "एक Microsoft AI एजेंट"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title indicates 'OpenAI agent breached government website', which led to the tightening of rules.\nSource: https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
+            "hi": "शीर्षक से पता चलता है कि 'ओपनएआई एजेंट ने सरकारी वेबसाइट का उल्लंघन किया', जिसके कारण नियम कड़े किए गए।\nस्रोत: https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-39"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary purpose of the 'Be Ready' campaign?",
+            "hi": "'तैयार रहें' अभियान का प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To promote healthy eating habits",
+                "hi": "स्वस्थ खान-पान की आदतों को बढ़ावा देना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To encourage tourism",
+                "hi": "पर्यटन को बढ़ावा देना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To prepare households for emergencies",
+                "hi": "आपात्कालीन स्थिति के लिए घरों को तैयार करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To boost economic growth",
+                "hi": "आर्थिक विकास को बढ़ावा देने के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states sales soared 'after the government called on households to be prepared for emergencies'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि 'सरकार द्वारा परिवारों को आपात स्थिति के लिए तैयार रहने के आह्वान के बाद' बिक्री बढ़ गई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-40"
+        },
+        {
+          "prompt": {
+            "en": "What event is opening as scientists predict 2026 could be the hottest year on record?",
+            "hi": "कौन सी घटना शुरू हो रही है जैसा कि वैज्ञानिकों का अनुमान है कि 2026 रिकॉर्ड पर सबसे गर्म वर्ष हो सकता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The COP31 climate summit",
+                "hi": "COP31 जलवायु शिखर सम्मेलन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The World Economic Forum",
+                "hi": "विश्व आर्थिक मंच"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The G7 summit",
+                "hi": "जी7 शिखर सम्मेलन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The UN General Assembly",
+                "hi": "संयुक्त राष्ट्र महासभा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states this prediction is made 'as the COP31 climate summit opens'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि यह भविष्यवाणी 'COP31 जलवायु शिखर सम्मेलन के आरंभ होते ही' की गई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Technology",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-41"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-11T13:00:00+05:30"
+    },
+    {
+      "title": "International Relations & World Affairs",
+      "source_filename": "daily-2026-11-11.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What historical events are implicitly referenced when discussing India's sacrifice and honoring armed forces?",
+            "hi": "भारत के बलिदान और सशस्त्र बलों के सम्मान पर चर्चा करते समय किन ऐतिहासिक घटनाओं का अप्रत्यक्ष रूप से संदर्भ दिया जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Colonial uprisings",
+                "hi": "औपनिवेशिक विद्रोह"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "World Wars",
+                "hi": "विश्व युद्ध"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Independence movements",
+                "hi": "स्वतंत्रता आन्दोलन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Border conflicts",
+                "hi": "सीमा विवाद"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title of the article explicitly mentions 'World Wars and India’s sacrifice'.\nSource: https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece",
+            "hi": "लेख के शीर्षक में स्पष्ट रूप से 'विश्व युद्ध और भारत के बलिदान' का उल्लेख है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-42"
+        },
+        {
+          "prompt": {
+            "en": "Which countries' delegations are participating in the first trilateral talks since February in the United Arab Emirates?",
+            "hi": "संयुक्त अरब अमीरात में फरवरी के बाद पहली त्रिपक्षीय वार्ता में किन देशों के प्रतिनिधिमंडल भाग ले रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "China, Russia, and India",
+                "hi": "चीन, रूस और भारत"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Germany, France, and UK",
+                "hi": "जर्मनी, फ़्रांस और यूके"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kyiv, Washington and Moscow",
+                "hi": "कीव, वाशिंगटन और मॉस्को"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Iran, Saudi Arabia, and Turkey",
+                "hi": "ईरान, सऊदी अरब और तुर्की"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states 'Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'कीव, वाशिंगटन और मॉस्को के प्रतिनिधिमंडल संयुक्त अरब अमीरात में हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-43"
+        },
+        {
+          "prompt": {
+            "en": "What was the name of the Malaysian former Prime Minister convicted in the 1MDB sovereign wealth fund scandal?",
+            "hi": "1MDB सॉवरेन वेल्थ फंड घोटाले में दोषी मलेशिया के पूर्व प्रधान मंत्री का क्या नाम था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mahathir Mohamad",
+                "hi": "महातिर मोहम्मद"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Anwar Ibrahim",
+                "hi": "अनवर इब्राहिम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Muhyiddin Yassin",
+                "hi": "मुहिद्दीन यासीन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Najib Razak",
+                "hi": "नजीब रजाक"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt names 'Najib Razak' as the one convicted in the scandal.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में 'नजीब रज़ाक' को इस घोटाले में दोषी ठहराया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-44"
+        },
+        {
+          "prompt": {
+            "en": "Who is Benjamin Netanyahu's main political rival, mentioned as having the first chance to form a new government?",
+            "hi": "बेंजामिन नेतन्याहू के मुख्य राजनीतिक प्रतिद्वंद्वी कौन हैं, जिनके पास नई सरकार बनाने का पहला मौका बताया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Yair Lapid",
+                "hi": "यायर लैपिड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Gadi Eisenkot",
+                "hi": "गाडी ईसेनकोट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Naftali Bennett",
+                "hi": "नफ्ताली बेनेट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Benny Gantz",
+                "hi": "बेनी गैंट्ज़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt identifies 'Gadi Eisenkot' as Benjamin Netanyahu's main political rival.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में 'गाडी ईसेनकोट' की पहचान बेंजामिन नेतन्याहू के मुख्य राजनीतिक प्रतिद्वंद्वी के रूप में की गई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-45"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the group, formed by Trump, that issued criticism of Israel's aid response?",
+            "hi": "ट्रम्प द्वारा गठित उस समूह का नाम क्या है, जिसने इज़राइल की सहायता प्रतिक्रिया की आलोचना जारी की थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Abraham Accords Council",
+                "hi": "अब्राहम समझौते परिषद"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Board of Peace",
+                "hi": "शांति मंडल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Middle East Initiative",
+                "hi": "मध्य पूर्व पहल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Trump Foundation",
+                "hi": "ट्रम्प फाउंडेशन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title and text refer to 'Board of Peace' as the group formed by Trump.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक और पाठ में 'बोर्ड ऑफ़ पीस' को ट्रम्प द्वारा गठित समूह के रूप में संदर्भित किया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-46"
+        },
+        {
+          "prompt": {
+            "en": "What legal battle, lasting 11 years, has concluded with a ruling in Trinidad and Tobago?",
+            "hi": "त्रिनिदाद और टोबैगो में 11 वर्षों तक चली कौन सी कानूनी लड़ाई एक फैसले के साथ समाप्त हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A land dispute case",
+                "hi": "भूमि विवाद का मामला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An 11-year legal battle by dual-citizen Jason Jones",
+                "hi": "दोहरे नागरिक जेसन जोन्स द्वारा 11 साल की कानूनी लड़ाई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A corporate fraud case",
+                "hi": "एक कॉर्पोरेट धोखाधड़ी का मामला"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A human trafficking investigation",
+                "hi": "मानव तस्करी की जांच"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states 'The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'इस फैसले से दोहरे नागरिक जेसन जोन्स की 11 साल की कानूनी लड़ाई समाप्त हो गई है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-47"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary role of Solange Alexandre during the French wartime resistance?",
+            "hi": "फ्रांसीसी युद्धकालीन प्रतिरोध के दौरान सोलेंज अलेक्जेंड्रे की प्राथमिक भूमिका क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A political negotiator",
+                "hi": "एक राजनीतिक वार्ताकार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A propaganda broadcaster",
+                "hi": "एक प्रचार प्रसारक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A medical aid provider",
+                "hi": "एक चिकित्सा सहायता प्रदाता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces",
+                "hi": "तोड़फोड़ अभियानों का आयोजन किया, मित्र देशों के वायुसैनिकों को आश्रय दिया और कब्ज़ा करने वाली जर्मन सेना के खिलाफ लड़ाई में शामिल हो गए"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt details her role: 'she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में उसकी भूमिका का विवरण दिया गया है: 'उसने तोड़फोड़ अभियानों का आयोजन किया, मित्र देशों के वायुसैनिकों को आश्रय दिया और कब्जा करने वाली जर्मन सेना के खिलाफ लड़ाई में शामिल हो गई।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-48"
+        },
+        {
+          "prompt": {
+            "en": "What is the location of the first trilateral talks involving Kyiv, Washington, and Moscow since February?",
+            "hi": "फरवरी के बाद से कीव, वाशिंगटन और मॉस्को से जुड़ी पहली त्रिपक्षीय वार्ता का स्थान क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Switzerland",
+                "hi": "स्विट्जरलैंड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Qatar",
+                "hi": "कतर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Turkey",
+                "hi": "टर्की"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The United Arab Emirates",
+                "hi": "संयुक्त अरब अमीरात"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states the delegations 'are in the United Arab Emirates for the first trilateral talks'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि प्रतिनिधिमंडल 'पहली त्रिपक्षीय वार्ता के लिए संयुक्त अरब अमीरात में हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-49"
+        },
+        {
+          "prompt": {
+            "en": "What specific fund was involved in the billion-dollar scandal that led to Najib Razak's conviction?",
+            "hi": "अरबों डॉलर के घोटाले में कौन सा विशिष्ट फंड शामिल था जिसके कारण नजीब रजाक को दोषी ठहराया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Malaysian Central Bank",
+                "hi": "मलेशियाई सेंट्रल बैंक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The National Development Fund",
+                "hi": "राष्ट्रीय विकास निधि"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The 1MDB sovereign wealth fund",
+                "hi": "1MDB सॉवरेन वेल्थ फंड"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Malaysian Pension Fund",
+                "hi": "मलेशियाई पेंशन फंड"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions 'the billion-dollar scandal involving the 1MDB sovereign wealth fund'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में '1MDB सॉवरेन वेल्थ फंड से जुड़े अरबों डॉलर के घोटाले' का उल्लेख है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-50"
+        },
+        {
+          "prompt": {
+            "en": "What is the specific criticism issued by the Board of Peace regarding Israel's actions?",
+            "hi": "इजराइल के कार्यों के संबंध में शांति बोर्ड द्वारा जारी की गई विशिष्ट आलोचना क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Its aid response after Gaza floods",
+                "hi": "गाजा में बाढ़ के बाद इसकी सहायता प्रतिक्रिया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Its military strategy",
+                "hi": "इसकी सैन्य रणनीति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its diplomatic relations",
+                "hi": "इसके राजनयिक संबंध"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Its settlement policies",
+                "hi": "इसकी निपटान नीतियां"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title mentions 'Israel's aid response after Gaza floods 'insufficent'' and the text refers to 'issues rare criticism of Israel'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में 'गाजा में बाढ़ के बाद इज़राइल की सहायता प्रतिक्रिया 'अपर्याप्त'' का उल्लेख है और पाठ में 'इज़राइल की दुर्लभ आलोचना वाले मुद्दे' का उल्लेख है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-51"
+        },
+        {
+          "prompt": {
+            "en": "Who is the dual-citizen whose 11-year legal battle led to the overturning of anti-homosexuality laws in Trinidad and Tobago?",
+            "hi": "वह दोहरे नागरिक कौन हैं जिनकी 11 साल की कानूनी लड़ाई के कारण त्रिनिदाद और टोबैगो में समलैंगिकता विरोधी कानूनों को पलट दिया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Peter Singh",
+                "hi": "पीटर सिंह"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Jason Jones",
+                "hi": "जेसन जोन्स"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Maria Gonzales",
+                "hi": "मारिया गोंजालेस"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "David Lee",
+                "hi": "डेविड ली"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt names 'dual-citizen Jason Jones' as the individual whose legal battle concluded.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में 'दोहरे नागरिक जेसन जोन्स' को उस व्यक्ति के रूप में नामित किया गया है जिसकी कानूनी लड़ाई समाप्त हुई।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-52"
+        },
+        {
+          "prompt": {
+            "en": "What specific actions did Solange Alexandre organize as a French wartime resistance heroine?",
+            "hi": "फ्रांसीसी युद्धकालीन प्रतिरोध नायिका के रूप में सोलेंज अलेक्जेंड्रे ने कौन से विशिष्ट कार्य आयोजित किए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fundraising campaigns and public protests",
+                "hi": "धन उगाहने वाले अभियान और सार्वजनिक विरोध प्रदर्शन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces",
+                "hi": "तोड़फोड़ की कार्रवाई, मित्र देशों के वायुसैनिकों को आश्रय दिया और कब्ज़ा करने वाली जर्मन सेना के खिलाफ लड़ाई में शामिल हो गए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Diplomatic negotiations and peace treaties",
+                "hi": "कूटनीतिक वार्ता और शांति संधियाँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Medical relief and humanitarian aid",
+                "hi": "चिकित्सा राहत और मानवीय सहायता"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt details her actions: 'she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में उसके कार्यों का विवरण दिया गया है: 'उसने तोड़फोड़ अभियानों का आयोजन किया, मित्र देशों के वायुसैनिकों को आश्रय दिया और कब्जा करने वाली जर्मन सेना के खिलाफ लड़ाई में शामिल हो गई।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-11-53"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-11T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
+      "published": "2026-11-11T01:03:58+05:30"
+    },
+    {
+      "title": "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
+      "url": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
+      "published": "2026-11-11T01:02:37+05:30"
+    },
+    {
+      "title": "World Wars and India’s sacrifice",
+      "url": "https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece",
+      "published": "2026-11-11T00:50:55+05:30"
+    },
+    {
+      "title": "Civil police officer injured in attack by detained man in Keralam’s Kochi",
+      "url": "https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
+      "published": "2026-11-11T00:45:41+05:30"
+    },
+    {
+      "title": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
+      "published": "2026-11-11T00:42:33+05:30"
+    },
+    {
+      "title": "Focus on Tamil during Kandasashthi: Minister",
+      "url": "https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
+      "published": "2026-11-11T00:33:54+05:30"
+    },
+    {
+      "title": "NMDC said to be in talks with Russia’s Rosatom over lithium investments",
+      "url": "https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+      "published": "2026-11-10T23:17:11+05:30"
+    },
+    {
+      "title": "Blackstone to buy about 16% stake in India's IIFL Finance for $535 million",
+      "url": "https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece",
+      "published": "2026-11-10T23:04:32+05:30"
+    },
+    {
+      "title": "NTPC leads second round of coal gasification bids with two applications",
+      "url": "https://www.thehindu.com/business/Industry/ntpc-leads-second-round-of-coal-gasification-bids-with-two-applications/article71686471.ece",
+      "published": "2026-11-10T19:56:15+05:30"
+    },
+    {
+      "title": "Aurobindo arm Eugia U.S. recalling antibacterial drug",
+      "url": "https://www.thehindu.com/business/aurobindo-arm-eugia-us-recalling-antibacterial-drug/article71686556.ece",
+      "published": "2026-11-10T19:42:59+05:30"
+    },
+    {
+      "title": "Industry seeks LTCG, STT cuts in Budget 2027; MSME relief also on wish list",
+      "url": "https://www.thehindu.com/business/Economy/industry-seeks-ltcg-stt-cuts-in-budget-2027-msme-relief-also-on-wish-list/article71685951.ece",
+      "published": "2026-11-10T19:29:22+05:30"
+    },
+    {
+      "title": "Google launches two AI chips as it seeks to challenge NVIDIA’s dominance",
+      "url": "https://www.thehindu.com/business/Industry/google-launches-two-ai-chips-as-it-seeks-to-challenge-nvidias-dominance/article71686071.ece",
+      "published": "2026-11-10T19:13:22+05:30"
+    },
+    {
+      "title": "Kadambini Ganguly: breaking barriers in medicine",
+      "url": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
+      "published": "2026-11-10T16:36:53+05:30"
+    },
+    {
+      "title": "How China gets the Nvidia chips it needs to develop AI",
+      "url": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece",
+      "published": "2026-11-10T14:40:57+05:30"
+    },
+    {
+      "title": "How AI is reshaping China’s universities",
+      "url": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
+      "published": "2026-11-10T13:07:08+05:30"
+    },
+    {
+      "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+      "url": "https://www.thehindu.com/sci-tech/technology/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount/article71684865.ece",
+      "published": "2026-11-10T12:21:42+05:30"
+    },
+    {
+      "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
+      "url": "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
+      "published": "2026-11-10T10:21:43+05:30"
+    },
+    {
+      "title": "How do tokamaks work to make nuclear fusion possible?",
+      "url": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
+      "published": "2026-11-10T10:20:40+05:30"
+    },
+    {
+      "title": "Oxford museum returns ancestral Naga skulls to India",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T06:23:42+00:00"
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T01:55:22+00:00"
+    },
+    {
+      "title": "Homes and temples glow across India to mark Diwali",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T14:42:09+00:00"
+    },
+    {
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:56:12+00:00"
+    },
+    {
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T15:10:20+00:00"
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T08:23:21+00:00"
+    },
+    {
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T14:45:46+00:00"
+    },
+    {
+      "title": "I took Vinted to court to get my money back",
+      "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T00:27:37+00:00"
+    },
+    {
+      "title": "The swan sanctuary wetland fighting climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T06:30:29+00:00"
+    },
+    {
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T00:08:28+00:00"
+    },
+    {
+      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T07:30:12+00:00"
+    },
+    {
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:29:36+00:00"
+    },
+    {
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T18:33:51+00:00"
+    },
+    {
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:03:16+00:00"
+    },
+    {
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T15:21:18+00:00"
+    },
+    {
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T18:04:18+00:00"
+    },
+    {
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T13:23:54+00:00"
+    }
+  ]
+}
