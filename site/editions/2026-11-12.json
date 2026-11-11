@@ -1,0 +1,2460 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-11T19:53:00.480579+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-12.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "In the Swachh Survekshan 2025-26 rankings, Guntur achieved a notable position in a specific category. Which category does this refer to?",
+            "hi": "स्वच्छ सर्वेक्षण 2025-26 रैंकिंग में गुंटूर ने एक विशिष्ट श्रेणी में उल्लेखनीय स्थान हासिल किया। यह किस श्रेणी को संदर्भित करता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cities with a population of three lakh to 10 lakh",
+                "hi": "तीन लाख से 10 लाख की आबादी वाले शहर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cities with a population above 10 lakh",
+                "hi": "10 लाख से अधिक जनसंख्या वाले शहर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cities with a population below three lakh",
+                "hi": "तीन लाख से कम आबादी वाले शहर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Capital cities",
+                "hi": "राजधानी शहर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'Guntur finishes third among cities with a population of three lakh to 10 lakh under the Swachh Survekshan 2025-26 rankings', directly indicating the category.\nSource: https://www.thehindu.com/news/cities/Vijayawada/swachh-survekshan-guntur-wins-super-swachh-league-award/article71689607.ece",
+            "hi": "अंश में कहा गया है कि 'स्वच्छ सर्वेक्षण 2025-26 रैंकिंग के तहत तीन लाख से 10 लाख की आबादी वाले शहरों में गुंटूर तीसरे स्थान पर है', जो सीधे श्रेणी का संकेत देता है।\nस्रोत: https://www.thehindu.com/news/cities/Vijayawada/swachh-survekshan-guntur-wins-super-swachh-league-award/article71689607.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/Vijayawada/swachh-survekshan-guntur-wins-super-swachh-league-award/article71689607.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-1"
+        },
+        {
+          "prompt": {
+            "en": "What was the total amount of additional relief ordered by the Chief Minister for the victims of the Anti-Sterlite protests?",
+            "hi": "स्टरलाइट विरोधी प्रदर्शनों के पीड़ितों के लिए मुख्यमंत्री द्वारा आदेशित अतिरिक्त राहत की कुल राशि कितनी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹5.00 crore",
+                "hi": "₹5.00 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹2.50 crore",
+                "hi": "₹2.50 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹5.25 crore",
+                "hi": "₹5.25 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹10.50 crore",
+                "hi": "₹10.50 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states 'CM orders ₹5.25-cr. additional relief to victims', which directly answers the question.\nSource: https://www.thehindu.com/news/national/tamil-nadu/anti-sterlite-protest-cm-orders-525-cr-additional-relief-to-victims/article71689687.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है 'सीएम ने ₹5.25 करोड़ का ऑर्डर दिया। पीड़ितों को अतिरिक्त राहत', जो सीधे प्रश्न का उत्तर देती है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/anti-sterlite-protest-cm-orders-525-cr-additional-relief-to-victims/article71689687.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/anti-sterlite-protest-cm-orders-525-cr-additional-relief-to-victims/article71689687.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-2"
+        },
+        {
+          "prompt": {
+            "en": "What specific material related to lithium-ion batteries has the Indian government prohibited from export?",
+            "hi": "भारत सरकार ने लिथियम-आयन बैटरी से संबंधित किस विशिष्ट सामग्री के निर्यात पर प्रतिबंध लगा दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lithium-ion battery cells",
+                "hi": "लिथियम-आयन बैटरी सेल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lithium-ion battery waste and scrap containing black mass",
+                "hi": "लिथियम-आयन बैटरी अपशिष्ट और काला द्रव्यमान युक्त स्क्रैप"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Finished lithium-ion batteries",
+                "hi": "तैयार लिथियम-आयन बैटरियां"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Recycled lithium-ion battery components",
+                "hi": "पुनर्नवीनीकरण लिथियम-आयन बैटरी घटक"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states, 'Government bars export of lithium-ion battery waste and scrap containing black mass', indicating the prohibited material.\nSource: https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'सरकार ने लिथियम-आयन बैटरी अपशिष्ट और काले द्रव्यमान वाले स्क्रैप के निर्यात पर रोक लगाई है', जो प्रतिबंधित सामग्री का संकेत देता है।\nस्रोत: https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-3"
+        },
+        {
+          "prompt": {
+            "en": "Why is 'black mass' considered particularly essential for India's domestic industries?",
+            "hi": "भारत के घरेलू उद्योगों के लिए 'ब्लैक मास' को विशेष रूप से आवश्यक क्यों माना जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is a key component in traditional manufacturing processes.",
+                "hi": "यह पारंपरिक विनिर्माण प्रक्रियाओं में एक प्रमुख घटक है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is essential for India's electronics, electric vehicle, and renewable energy storage ecosystem.",
+                "hi": "यह भारत के इलेक्ट्रॉनिक्स, इलेक्ट्रिक वाहन और नवीकरणीय ऊर्जा भंडारण पारिस्थितिकी तंत्र के लिए आवश्यक है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is used in agricultural fertilizers.",
+                "hi": "इसका उपयोग कृषि उर्वरकों में किया जाता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is a primary export commodity for revenue generation.",
+                "hi": "यह राजस्व सृजन के लिए एक प्राथमिक निर्यात वस्तु है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that 'Black mass... is particularly essential for India's electronics and electric vehicle as well as renewable energy storage ecosystem', highlighting its critical role in these sectors.\nSource: https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+            "hi": "अंश में कहा गया है कि 'ब्लैक मास... भारत के इलेक्ट्रॉनिक्स और इलेक्ट्रिक वाहन के साथ-साथ नवीकरणीय ऊर्जा भंडारण पारिस्थितिकी तंत्र के लिए विशेष रूप से आवश्यक है', इन क्षेत्रों में इसकी महत्वपूर्ण भूमिका पर प्रकाश डालता है।\nस्रोत: https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-4"
+        },
+        {
+          "prompt": {
+            "en": "What significant announcement regarding UPI is the NPCI yet to make, as of two days past Deepavali?",
+            "hi": "दीपावली से दो दिन पहले तक एनपीसीआई को यूपीआई के संबंध में कौन सी महत्वपूर्ण घोषणा करनी बाकी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A new UPI payment limit",
+                "hi": "एक नई UPI भुगतान सीमा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "International UPI integration",
+                "hi": "अंतर्राष्ट्रीय UPI एकीकरण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "New security features for UPI",
+                "hi": "UPI के लिए नई सुरक्षा सुविधाएँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A date for UPI MDR rollout",
+                "hi": "UPI MDR रोलआउट की तारीख"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly mentions 'NPCI yet to announce a date for UPI MDR rollout', directly answering the question.\nSource: https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से 'एनपीसीआई ने अभी तक यूपीआई एमडीआर रोलआउट की तारीख की घोषणा नहीं की है' का उल्लेख किया गया है, जो सीधे सवाल का जवाब देता है।\nस्रोत: https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-5"
+        },
+        {
+          "prompt": {
+            "en": "What is the central assertion made regarding India's air cleaning efforts and economic growth?",
+            "hi": "भारत के वायु सफ़ाई प्रयासों और आर्थिक विकास के संबंध में केंद्रीय दावा क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India’s efforts to clean its air need not slow its economic growth.",
+                "hi": "अपनी हवा को साफ़ करने के भारत के प्रयासों से उसकी आर्थिक वृद्धि धीमी नहीं होनी चाहिए।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Economic growth must be prioritized over air cleaning efforts.",
+                "hi": "वायु सफ़ाई के प्रयासों पर आर्थिक विकास को प्राथमिकता दी जानी चाहिए।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Air cleaning efforts will inevitably slow economic growth.",
+                "hi": "वायु सफ़ाई के प्रयास अनिवार्य रूप से आर्थिक विकास को धीमा कर देंगे।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Air cleaning efforts are irrelevant to economic growth.",
+                "hi": "वायु सफ़ाई के प्रयास आर्थिक विकास के लिए अप्रासंगिक हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title directly states, 'India’s efforts to clean its air need not slow its economic growth', which is the central assertion.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+            "hi": "शीर्षक में सीधे तौर पर कहा गया है, 'अपनी हवा को साफ करने के भारत के प्रयासों से उसकी आर्थिक वृद्धि धीमी नहीं होनी चाहिए', जो कि केंद्रीय दावा है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-6"
+        },
+        {
+          "prompt": {
+            "en": "According to the article, what is a key characteristic of the 'best interventions' for addressing air pollution in India?",
+            "hi": "लेख के अनुसार, भारत में वायु प्रदूषण के समाधान के लिए 'सर्वोत्तम हस्तक्षेप' की प्रमुख विशेषता क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They must exclusively focus on reducing industrial emissions.",
+                "hi": "उन्हें विशेष रूप से औद्योगिक उत्सर्जन को कम करने पर ध्यान केंद्रित करना चाहिए।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They must address air pollution while supporting development priorities.",
+                "hi": "उन्हें विकास प्राथमिकताओं का समर्थन करते हुए वायु प्रदूषण पर ध्यान देना चाहिए।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They should prioritize economic growth over environmental concerns.",
+                "hi": "उन्हें पर्यावरण संबंधी चिंताओं पर आर्थिक विकास को प्राथमिकता देनी चाहिए।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They should only target household pollution sources.",
+                "hi": "उन्हें केवल घरेलू प्रदूषण स्रोतों को लक्षित करना चाहिए।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'The best interventions must address air pollution while supporting development priorities', defining the key characteristic.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'सर्वोत्तम हस्तक्षेपों को विकास प्राथमिकताओं का समर्थन करते हुए वायु प्रदूषण को संबोधित करना चाहिए', जो प्रमुख विशेषता को परिभाषित करता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-7"
+        },
+        {
+          "prompt": {
+            "en": "Kadambini Ganguly is historically significant for what pioneering achievement in India?",
+            "hi": "कादंबिनी गांगुली भारत में किस अग्रणी उपलब्धि के लिए ऐतिहासिक रूप से महत्वपूर्ण हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The first Indian female lawyer",
+                "hi": "पहली भारतीय महिला वकील"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The first Indian female engineer",
+                "hi": "पहली भारतीय महिला इंजीनियर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The first Indian female politician",
+                "hi": "पहली भारतीय महिला राजनीतिज्ञ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The first Indian female doctor to practice Western medicine",
+                "hi": "पश्चिमी चिकित्सा पद्धति का अभ्यास करने वाली पहली भारतीय महिला डॉक्टर"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt clearly states that Kadambini Ganguly became 'the first Indian female doctor to practice Western medicine', marking her pioneering achievement.\nSource: https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि कादंबिनी गांगुली 'पश्चिमी चिकित्सा का अभ्यास करने वाली पहली भारतीय महिला डॉक्टर' बनीं, जो उनकी अग्रणी उपलब्धि है।\nस्रोत: https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the nature of the scandal that has affected a new Indian mega library?",
+            "hi": "उस घोटाले की प्रकृति क्या है जिसने एक नई भारतीय मेगा लाइब्रेरी को प्रभावित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Financial embezzlement",
+                "hi": "वित्तीय गबन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Theft of rare manuscripts",
+                "hi": "दुर्लभ पांडुलिपियों की चोरी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Construction irregularities",
+                "hi": "निर्माण में अनियमितता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Scandal over 'AI-generated books'",
+                "hi": "'एआई-जनित पुस्तकों' पर घोटाला"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly mentions 'New Indian mega library rocked by scandal over 'AI-generated books'', indicating the nature of the scandal.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से 'एआई-जनरेटेड किताबों' को लेकर घोटाले से घिरी नई भारतीय मेगा लाइब्रेरी का उल्लेख है, जो घोटाले की प्रकृति का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-9"
+        },
+        {
+          "prompt": {
+            "en": "In response to the library scandal, what action has the Tamil Nadu government taken?",
+            "hi": "लाइब्रेरी घोटाले के जवाब में तमिलनाडु सरकार ने क्या कार्रवाई की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Closed all libraries indefinitely",
+                "hi": "सभी पुस्तकालय अनिश्चितकाल के लिए बंद कर दिये गये"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Banned the use of AI in all state institutions",
+                "hi": "सभी राज्य संस्थानों में AI के उपयोग पर प्रतिबंध लगा दिया गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Dismissed all library staff",
+                "hi": "सभी पुस्तकालय कर्मचारियों को बर्खास्त कर दिया गया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ordered an internal audit of library collections across the state",
+                "hi": "राज्य भर में पुस्तकालय संग्रहों के आंतरिक ऑडिट का आदेश दिया गया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The Tamil Nadu government has ordered an internal audit of library collections across the state', which is the direct action taken.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'तमिलनाडु सरकार ने राज्य भर में पुस्तकालय संग्रह के आंतरिक ऑडिट का आदेश दिया है', जो कि की गई सीधी कार्रवाई है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-10"
+        },
+        {
+          "prompt": {
+            "en": "Which specific cultural artifacts were recently returned to India by an Oxford museum?",
+            "hi": "ऑक्सफोर्ड संग्रहालय द्वारा हाल ही में कौन सी विशिष्ट सांस्कृतिक कलाकृतियाँ भारत को लौटाई गईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ancient Indian pottery",
+                "hi": "प्राचीन भारतीय मिट्टी के बर्तन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ancestral Naga skulls",
+                "hi": "पैतृक नागा खोपड़ी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mughal era paintings",
+                "hi": "मुगल काल की पेंटिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Buddhist sculptures",
+                "hi": "बौद्ध मूर्तियाँ"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states, 'Oxford museum returns ancestral Naga skulls to India', identifying the returned artifacts.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'ऑक्सफोर्ड संग्रहालय ने भारत को पैतृक नागा खोपड़ी लौटाईं', जो लौटाई गई कलाकृतियों की पहचान है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-11"
+        },
+        {
+          "prompt": {
+            "en": "What is the planned destination and purpose for the ancestral Naga remains returned from the Oxford museum?",
+            "hi": "ऑक्सफोर्ड संग्रहालय से लौटाए गए पैतृक नागा अवशेषों का नियोजित गंतव्य और उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To Delhi for display in a national museum.",
+                "hi": "राष्ट्रीय संग्रहालय में प्रदर्शन के लिए दिल्ली।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To Nagaland for scientific study.",
+                "hi": "वैज्ञानिक अध्ययन के लिए नागालैंड।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To a private collection in India.",
+                "hi": "भारत में एक निजी संग्रह के लिए."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To Nagaland, where tribal leaders plan a joint memorial and burial.",
+                "hi": "नागालैंड में, जहां आदिवासी नेता एक संयुक्त स्मारक और दफ़नाने की योजना बना रहे हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial', detailing the destination and purpose.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'अवशेषों को नागालैंड ले जाया जाएगा, जहां आदिवासी नेता एक संयुक्त स्मारक और दफनाने की योजना बना रहे हैं', जिसमें गंतव्य और उद्देश्य का विवरण दिया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-12"
+        },
+        {
+          "prompt": {
+            "en": "What specific failure has an MP alleged regarding the Nanjangud drug racket?",
+            "hi": "एक सांसद ने नंजनगुड ड्रग रैकेट के संबंध में किस विशिष्ट विफलता का आरोप लगाया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Judicial failure",
+                "hi": "न्यायिक विफलता"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Intelligence failure",
+                "hi": "खुफिया विफलता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Logistical failure",
+                "hi": "तार्किक विफलता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Financial failure",
+                "hi": "वित्तीय विफलता"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states, 'MP alleges intelligence failure over Nanjangud drug racket', directly identifying the alleged failure.\nSource: https://www.thehindu.com/news/national/karnataka/mp-alleges-intelligence-failure-over-nanjangud-drug-racket/article71689363.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'सांसद ने नंजनगुड ड्रग रैकेट पर खुफिया विफलता का आरोप लगाया', सीधे कथित विफलता की पहचान करता है।\nस्रोत: https://www.thehindu.com/news/national/karnataka/mp-alleges-intelligence-failure-over-nanjangud-drug-racket/article71689363.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/mp-alleges-intelligence-failure-over-nanjangud-drug-racket/article71689363.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-13"
+        },
+        {
+          "prompt": {
+            "en": "What is the current status of recent road repairs on OMR (Old Mahabalipuram Road) in Chennai?",
+            "hi": "चेन्नई में ओएमआर (ओल्ड महाबलीपुरम रोड) पर हाल की सड़क मरम्मत की वर्तमान स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They have come undone.",
+                "hi": "वे नष्ट हो गए हैं."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They have been further improved.",
+                "hi": "उनमें और भी सुधार किया गया है."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They are holding up well.",
+                "hi": "वे अच्छी तरह से टिके हुए हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are still under progress.",
+                "hi": "वे अभी भी प्रगति पर हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title 'Recent repairs on OMR come undone' directly indicates that the repairs have failed.\nSource: https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece",
+            "hi": "शीर्षक 'ओएमआर पर हालिया मरम्मत पूर्ववत हो गई' सीधे तौर पर इंगित करता है कि मरम्मत विफल हो गई है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-14"
+        },
+        {
+          "prompt": {
+            "en": "What significant activity has commenced at the Tiruttani Cooperative Sugarmills?",
+            "hi": "तिरुत्तानी सहकारी चीनी मिलों में कौन सी महत्वपूर्ण गतिविधि शुरू हुई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Harvesting",
+                "hi": "कटाई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Planting",
+                "hi": "रोपण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Crushing",
+                "hi": "कुचलना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Refining",
+                "hi": "परिष्कृत करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title 'Crushing begins at Tiruttani Cooperative Sugarmills' explicitly states that the crushing process has started.\nSource: https://www.thehindu.com/news/cities/chennai/crushing-begins-at-tiruttani-cooperative-sugarmills/article71690460.ece",
+            "hi": "शीर्षक 'तिरुत्तानी सहकारी चीनी मिलों में पेराई शुरू' स्पष्ट रूप से बताता है कि पेराई प्रक्रिया शुरू हो गई है।\nस्रोत: https://www.thehindu.com/news/cities/chennai/crushing-begins-at-tiruttani-cooperative-sugarmills/article71690460.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/crushing-begins-at-tiruttani-cooperative-sugarmills/article71690460.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-15"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-12T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-12.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What was Tata Power's profit in Q2, and by what percentage did it jump?",
+            "hi": "Q2 में Tata Power का मुनाफ़ा कितना रहा और इसमें कितने प्रतिशत का उछाल आया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1,000 crore, up 20%",
+                "hi": "₹1,000 करोड़, 20% अधिक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹2,000 crore, up 40%",
+                "hi": "₹2,000 करोड़, 40% अधिक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹1,500 crore, up 25%",
+                "hi": "₹1,500 करोड़, 25% अधिक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,652 crore, up 32%",
+                "hi": "₹1,652 करोड़, 32% अधिक"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title directly states, 'Tata Power Q2 profit jumps 32% to ₹1,652 crore', providing both the profit figure and the percentage increase.\nSource: https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
+            "hi": "शीर्षक में सीधे तौर पर कहा गया है, 'टाटा पावर Q2 का मुनाफा 32% बढ़कर ₹1,652 करोड़ हो गया', जो लाभ का आंकड़ा और प्रतिशत वृद्धि दोनों प्रदान करता है।\nस्रोत: https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-16"
+        },
+        {
+          "prompt": {
+            "en": "Which specific operations were the primary drivers of Tata Power's growth in Q2, and what was their earnings surge?",
+            "hi": "Q2 में टाटा पावर की वृद्धि के प्राथमिक चालक कौन से विशिष्ट परिचालन थे, और उनकी आय में क्या वृद्धि हुई थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Solar and wind operations, with earnings surging 50%",
+                "hi": "सौर और पवन संचालन, आय में 50% की वृद्धि"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Transmission and distribution, with earnings surging 100%",
+                "hi": "पारेषण और वितरण, आय में 100% वृद्धि के साथ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Thermal and hydro operations, with earnings surging 158.3% to ₹1,066.66 crore",
+                "hi": "थर्मल और हाइड्रो परिचालन, आय 158.3% बढ़कर ₹1,066.66 करोड़ हो गई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "International projects, with earnings surging 75%",
+                "hi": "अंतर्राष्ट्रीय परियोजनाएँ, आय में 75% की वृद्धि के साथ"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states, 'Thermal and hydro operations led growth, with earnings surging 158.3% to ₹1,066.66 crore in Q2', identifying the key drivers and their performance.\nSource: https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'थर्मल और हाइड्रो परिचालन ने विकास का नेतृत्व किया, कमाई 158.3% बढ़कर Q2 में ₹1,066.66 करोड़ हो गई', प्रमुख चालकों और उनके प्रदर्शन की पहचान की गई।\nस्रोत: https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-17"
+        },
+        {
+          "prompt": {
+            "en": "Approximately how many jobs are at risk in Qualcomm India due to global cuts?",
+            "hi": "वैश्विक कटौती के कारण क्वालकॉम इंडिया में लगभग कितनी नौकरियाँ खतरे में हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Under 500",
+                "hi": "500 से कम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Around 750",
+                "hi": "लगभग 750"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Around 2,000",
+                "hi": "लगभग 2,000"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Over 1,000",
+                "hi": "1,000 से अधिक"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly states, 'Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts', indicating the number of jobs affected.\nSource: https://www.thehindu.com/business/Industry/qualcomm-india-layoffs-over-1000-jobs-at-risk-amid-global-cuts/article71689532.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'क्वालकॉम इंडिया में छंटनी: वैश्विक कटौती के बीच 1,000 से अधिक नौकरियां खतरे में हैं', जो प्रभावित नौकरियों की संख्या को दर्शाता है।\nस्रोत: https://www.thehindu.com/business/Industry/qualcomm-india-layoffs-over-1000-jobs-at-risk-amid-global-cuts/article71689532.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/qualcomm-india-layoffs-over-1000-jobs-at-risk-amid-global-cuts/article71689532.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-18"
+        },
+        {
+          "prompt": {
+            "en": "By how much did Air India's losses narrow in the first half of the fiscal year (H1)?",
+            "hi": "वित्तीय वर्ष की पहली छमाही (H1) में एयर इंडिया का घाटा कितना कम हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹2,000 crore",
+                "hi": "₹2,000 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,000 crore",
+                "hi": "₹1,000 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹500 crore",
+                "hi": "₹500 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹3,000 crore",
+                "hi": "₹3,000 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states, 'Air India’s losses narrow in H1 by ₹2,000 crore', providing the exact amount.\nSource: https://www.thehindu.com/business/Industry/air-indias-losses-narrow-in-h1-by-2000-crore/article71689628.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'एयर इंडिया का घाटा पहली छमाही में ₹2,000 करोड़ कम हुआ', सटीक राशि प्रदान करता है।\nस्रोत: https://www.thehindu.com/business/Industry/air-indias-losses-narrow-in-h1-by-2000-crore/article71689628.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/air-indias-losses-narrow-in-h1-by-2000-crore/article71689628.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-19"
+        },
+        {
+          "prompt": {
+            "en": "What was Air India's consolidated net loss in FY2025-26, which is driving pressure to cut costs?",
+            "hi": "वित्त वर्ष 2025-26 में एयर इंडिया का समेकित शुद्ध घाटा कितना था, जिससे लागत में कटौती का दबाव बढ़ रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹22,238 crore",
+                "hi": "₹22,238 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹15,500 crore",
+                "hi": "₹15,500 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹10,000 crore",
+                "hi": "₹10,000 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹25,000 crore",
+                "hi": "₹25,000 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt mentions, 'after a consolidated net loss of ₹22,238 crore in FY2025-26', which is the figure driving cost-cutting pressure.\nSource: https://www.thehindu.com/business/Industry/air-indias-losses-narrow-in-h1-by-2000-crore/article71689628.ece",
+            "hi": "अंश में उल्लेख किया गया है, 'वित्त वर्ष 2025-26 में ₹22,238 करोड़ के समेकित शुद्ध घाटे के बाद', जो लागत में कटौती के दबाव को बढ़ाने वाला आंकड़ा है।\nस्रोत: https://www.thehindu.com/business/Industry/air-indias-losses-narrow-in-h1-by-2000-crore/article71689628.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/air-indias-losses-narrow-in-h1-by-2000-crore/article71689628.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-20"
+        },
+        {
+          "prompt": {
+            "en": "On November 11, 2026, what was the closing value of the BSE Sensex, and by how much did it rally?",
+            "hi": "11 नवंबर, 2026 को बीएसई सेंसेक्स का समापन मूल्य क्या था और इसमें कितनी तेजी आई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "81,879.40, rallying 772.75 points",
+                "hi": "772.75 अंक की बढ़त के साथ 81,879.40 पर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "75,000, up 500 points",
+                "hi": "75,000, 500 अंक ऊपर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "80,000, up 600 points",
+                "hi": "80,000, 600 अंक ऊपर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "82,000, rallying 800 points",
+                "hi": "82,000, 800 अंक की रैली"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states, 'The 30-share BSE Sensex rallied 772.75 points, or 0.95%, to settle at 81,879.40', providing the exact closing value and rally points.\nSource: https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece",
+            "hi": "अंश में कहा गया है, '30-शेयर बीएसई सेंसेक्स 772.75 अंक या 0.95% बढ़कर 81,879.40 पर बंद हुआ, जो सटीक समापन मूल्य और रैली अंक प्रदान करता है।\nस्रोत: https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-21"
+        },
+        {
+          "prompt": {
+            "en": "What was the closing value of the NSE Nifty on November 11, 2026, and by how many points did it close higher?",
+            "hi": "11 नवंबर, 2026 को एनएसई निफ्टी का समापन मूल्य क्या था और यह कितने अंक ऊपर बंद हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "24,000, up 150 points",
+                "hi": "24,000, 150 अंक ऊपर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "25,000, up 200 points",
+                "hi": "25,000, 200 अंक ऊपर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "26,000, up 250 points",
+                "hi": "26,000, 250 अंक ऊपर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "25,255.05, closing 210.40 points higher",
+                "hi": "210.40 अंक बढ़कर 25,255.05 पर बंद हुआ"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'the 50-share NSE Nifty closed 210.40 points, or 0.84%, higher at 25,255.05', giving the precise closing value and points gained.\nSource: https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece",
+            "hi": "अंश में कहा गया है, '50-शेयर एनएसई निफ्टी 210.40 अंक या 0.84% बढ़कर 25,255.05 पर बंद हुआ', जो सटीक समापन मूल्य और प्राप्त अंकों की जानकारी देता है।\nस्रोत: https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-22"
+        },
+        {
+          "prompt": {
+            "en": "What is Nvidia's current market valuation, and how does it compare to other global companies?",
+            "hi": "एनवीडिया का वर्तमान बाजार मूल्यांकन क्या है और इसकी तुलना अन्य वैश्विक कंपनियों से कैसे की जाती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1 trillion, among the top 10 tech companies",
+                "hi": "शीर्ष 10 तकनीकी कंपनियों में $1 ट्रिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$2.5 trillion, a leading semiconductor company",
+                "hi": "$2.5 ट्रिलियन, एक अग्रणी सेमीकंडक्टर कंपनी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$4.5 trillion, on par with Apple as the world's two most valuable companies",
+                "hi": "$4.5 ट्रिलियन, दुनिया की दो सबसे मूल्यवान कंपनियों के रूप में एप्पल के बराबर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$5 trillion, the single most valuable company globally",
+                "hi": "$5 ट्रिलियन, वैश्विक स्तर पर सबसे मूल्यवान कंपनी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'Nvidia's market valuation has soared to $4.5 trillion -- currently on par with Apple as the world's two most valuable companies', providing the valuation and its comparative status.\nSource: https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece",
+            "hi": "अंश में कहा गया है, 'एनवीडिया का बाजार मूल्यांकन $4.5 ट्रिलियन तक बढ़ गया है - वर्तमान में दुनिया की दो सबसे मूल्यवान कंपनियों के रूप में ऐप्पल के बराबर', मूल्यांकन और इसकी तुलनात्मक स्थिति प्रदान करता है।\nस्रोत: https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-23"
+        },
+        {
+          "prompt": {
+            "en": "How many local jobs is Qantas planning to outsource, and where are most of these roles moving?",
+            "hi": "क्वांटास कितनी स्थानीय नौकरियाँ आउटसोर्स करने की योजना बना रहा है, और इनमें से अधिकांश भूमिकाएँ कहाँ जा रही हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "500 jobs, moving to the Philippines",
+                "hi": "500 नौकरियाँ, फिलीपींस जा रहे हैं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "1,000 jobs, moving to Singapore",
+                "hi": "1,000 नौकरियाँ, सिंगापुर जा रहे हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "850 jobs, with most roles moving to India",
+                "hi": "850 नौकरियाँ, जिनमें से अधिकांश भूमिकाएँ भारत में स्थानांतरित हो रही हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "300 jobs, staying within Australia",
+                "hi": "ऑस्ट्रेलिया में रहकर 300 नौकरियाँ"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'Qantas to outsource 850 local jobs with most roles moving to India', providing both the number of jobs and their destination.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'क्वांटास 850 स्थानीय नौकरियों को आउटसोर्स करेगा, जिनमें से अधिकांश भूमिकाएँ भारत में स्थानांतरित होंगी', जिससे नौकरियों की संख्या और उनका गंतव्य दोनों प्रदान किया जाएगा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-24"
+        },
+        {
+          "prompt": {
+            "en": "What primary reasons did Qantas cite for its decision to outsource jobs?",
+            "hi": "क्वांटास ने नौकरियों को आउटसोर्स करने के अपने निर्णय के लिए कौन से प्राथमिक कारण बताए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Modernising its IT systems and noting the impact of AI",
+                "hi": "अपने आईटी सिस्टम का आधुनिकीकरण करना और एआई के प्रभाव पर ध्यान देना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Expanding its global market share",
+                "hi": "अपनी वैश्विक बाजार हिस्सेदारी का विस्तार करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Reducing labor costs exclusively",
+                "hi": "विशेष रूप से श्रम लागत को कम करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Shifting focus to cargo operations",
+                "hi": "कार्गो संचालन पर ध्यान केंद्रित करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states, 'The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI', which are the primary reasons cited.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'ऑस्ट्रेलियाई एयरलाइन ने कहा कि इस कदम का उद्देश्य उसके आईटी सिस्टम को आधुनिक बनाना था और एआई के प्रभाव पर ध्यान दिया, जो उद्धृत किए गए प्राथमिक कारण हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-25"
+        },
+        {
+          "prompt": {
+            "en": "What is the current situation for the discount chain Poundland regarding its financial stability?",
+            "hi": "अपनी वित्तीय स्थिरता के संबंध में डिस्काउंट श्रृंखला पाउंडलैंड की वर्तमान स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It has secured a major investment.",
+                "hi": "इसने एक बड़ा निवेश सुरक्षित कर लिया है."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is expanding its operations rapidly.",
+                "hi": "यह तेजी से अपना परिचालन बढ़ा रहा है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It has announced record profits.",
+                "hi": "इसने रिकॉर्ड मुनाफे का ऐलान किया है."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is set for more time to secure a rescue deal as emergency talks continue.",
+                "hi": "आपातकालीन वार्ता जारी रहने के कारण बचाव समझौते को सुरक्षित करने के लिए अधिक समय निर्धारित किया गया है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states, 'Poundland set for more time to secure a rescue deal as emergency talks continue', indicating its ongoing financial challenges and efforts to find a solution.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'आपातकालीन वार्ता जारी रहने के कारण बचाव सौदे को सुरक्षित करने के लिए पाउंडलैंड ने अधिक समय मांगा है', जो इसकी चल रही वित्तीय चुनौतियों और समाधान खोजने के प्रयासों का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-26"
+        },
+        {
+          "prompt": {
+            "en": "What specific types of toys are primarily driving the Christmas toy rush?",
+            "hi": "कौन से विशिष्ट प्रकार के खिलौने मुख्य रूप से क्रिसमस खिलौनों की भीड़ को बढ़ा रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Action figures and dolls",
+                "hi": "कार्रवाई के आंकड़े और गुड़िया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Video games and consoles",
+                "hi": "वीडियो गेम और कंसोल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Squishies and building sets",
+                "hi": "स्क्विशीज़ और बिल्डिंग सेट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Board games and puzzles",
+                "hi": "बोर्ड गेम और पहेलियाँ"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states, 'Christmas toy rush being driven by squishies and building sets', identifying the popular toy categories.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'क्रिसमस खिलौनों की भीड़ स्क्विशीज़ और बिल्डिंग सेटों द्वारा संचालित हो रही है', जो लोकप्रिय खिलौना श्रेणियों की पहचान करती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-27"
+        },
+        {
+          "prompt": {
+            "en": "What is the estimated valuation for the stock market debut of the company behind the Claude chatbot?",
+            "hi": "क्लाउड चैटबॉट के पीछे कंपनी के शेयर बाज़ार में पदार्पण का अनुमानित मूल्यांकन क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$100 billion",
+                "hi": "$100 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$500 billion",
+                "hi": "$500 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$1.3 trillion",
+                "hi": "$1.3 ट्रिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$2 trillion",
+                "hi": "$2 ट्रिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title states, 'Claude chatbot maker set for $1.3tn stock market debut', indicating the estimated valuation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'क्लाउड चैटबॉट निर्माता 1.3 ट्रिलियन डॉलर के शेयर बाजार में पदार्पण के लिए तैयार है', जो अनुमानित मूल्यांकन का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-28"
+        },
+        {
+          "prompt": {
+            "en": "What geopolitical dynamic is highlighted as potentially having a significant impact on energy costs?",
+            "hi": "किस भू-राजनीतिक गतिशीलता को संभावित रूप से ऊर्जा लागत पर महत्वपूर्ण प्रभाव पड़ने के रूप में उजागर किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cooperation between European nations",
+                "hi": "यूरोपीय देशों के बीच सहयोग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A tug-of-war between China and the US",
+                "hi": "चीन और अमेरिका के बीच खींचतान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Stability in the Middle East",
+                "hi": "मध्य पूर्व में स्थिरता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increased oil production by OPEC",
+                "hi": "ओपेक द्वारा तेल उत्पादन में वृद्धि"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'A tug-of-war between China and the US could have a big impact on energy costs', identifying this geopolitical dynamic.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+            "hi": "इस भू-राजनीतिक गतिशीलता की पहचान करते हुए अंश में कहा गया है, 'चीन और अमेरिका के बीच रस्साकशी ऊर्जा लागत पर बड़ा प्रभाव डाल सकती है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-29"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-12T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & International Relations",
+      "source_filename": "daily-2026-11-12.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What weather phenomenon is likely to form over the Bay of Bengal, and what is its expected impact on rainfall in the State?",
+            "hi": "बंगाल की खाड़ी के ऊपर कौन सी मौसमी घटना बनने की संभावना है और इसका राज्य में वर्षा पर क्या प्रभाव पड़ने की संभावना है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Low-pressure area, easing rain deficit",
+                "hi": "कम दबाव का क्षेत्र, बारिश की कमी कम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cyclone, causing severe drought",
+                "hi": "चक्रवात, जिसके कारण भयंकर सूखा पड़ा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "High-pressure area, increasing rain deficit",
+                "hi": "उच्च दबाव क्षेत्र, बारिश की कमी बढ़ रही है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Heatwave, leading to dry conditions",
+                "hi": "हीटवेव, जिससे शुष्क स्थिति उत्पन्न हो रही है"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states, 'Low-pressure area likely to form over Bay of Bengal, ease rain deficit in State', directly answering both parts of the question.\nSource: https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece",
+            "hi": "शीर्षक में कहा गया है, 'बंगाल की खाड़ी के ऊपर कम दबाव का क्षेत्र बनने की संभावना है, राज्य में बारिश की कमी कम होगी', जो सीधे सवाल के दोनों हिस्सों का जवाब देता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-30"
+        },
+        {
+          "prompt": {
+            "en": "Which specific region is the Regional Meteorological Centre monitoring for rainfall prospects from the upcoming weather system?",
+            "hi": "क्षेत्रीय मौसम विज्ञान केंद्र किस विशिष्ट क्षेत्र में आगामी मौसम प्रणाली से वर्षा की संभावनाओं की निगरानी कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Kerala",
+                "hi": "केरल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Karnataka",
+                "hi": "कर्नाटक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt mentions 'rainfall prospects over Tamil Nadu', indicating the region being monitored.\nSource: https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece",
+            "hi": "अंश में 'तमिलनाडु में बारिश की संभावनाओं' का उल्लेख है, जो इस क्षेत्र की निगरानी का संकेत देता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-31"
+        },
+        {
+          "prompt": {
+            "en": "According to a new study, when does physical pain often peak in a person's life?",
+            "hi": "एक नए अध्ययन के अनुसार, किसी व्यक्ति के जीवन में शारीरिक दर्द अक्सर कब चरम पर होता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "During childhood",
+                "hi": "बचपन के दौरान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "During adolescence",
+                "hi": "किशोरावस्था के दौरान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "During your working years",
+                "hi": "आपके कार्य वर्षों के दौरान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "In old age",
+                "hi": "बुढ़ापे में"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title states, 'Physical pain often peaks during your working years, not in old age', directly answering the question.\nSource: https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece",
+            "hi": "शीर्षक में कहा गया है, 'शारीरिक दर्द अक्सर आपके कामकाजी वर्षों के दौरान चरम पर होता है, बुढ़ापे में नहीं', सीधे सवाल का जवाब देता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-32"
+        },
+        {
+          "prompt": {
+            "en": "What factors did a large new study find influenced people's pain levels?",
+            "hi": "एक बड़े नए अध्ययन में लोगों के दर्द के स्तर को प्रभावित करने वाले कौन से कारक पाए गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Income, geography, conditions like obesity, and habits like smoking",
+                "hi": "आय, भूगोल, मोटापा जैसी स्थितियाँ और धूम्रपान जैसी आदतें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Only genetic predisposition",
+                "hi": "केवल आनुवंशिक प्रवृत्ति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Only age and gender",
+                "hi": "केवल उम्र और लिंग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Dietary choices alone",
+                "hi": "अकेले आहार विकल्प"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt lists, 'income, geography, conditions like obesity, and habits like smoking' as factors influencing pain levels.\nSource: https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece",
+            "hi": "अंश में दर्द के स्तर को प्रभावित करने वाले कारकों के रूप में 'आय, भूगोल, मोटापा जैसी स्थितियां और धूम्रपान जैसी आदतें' सूचीबद्ध हैं।\nस्रोत: https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-33"
+        },
+        {
+          "prompt": {
+            "en": "What is the specific target set by Turkiye's voluntary initiative championed at COP31 regarding global energy consumption?",
+            "hi": "वैश्विक ऊर्जा खपत के संबंध में COP31 में समर्थित तुर्किये की स्वैच्छिक पहल द्वारा निर्धारित विशिष्ट लक्ष्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Reducing fossil fuel consumption by 50% by 2030",
+                "hi": "2030 तक जीवाश्म ईंधन की खपत को 50% तक कम करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Raising electricity’s share of global energy consumption to 35% by 2035",
+                "hi": "2035 तक वैश्विक ऊर्जा खपत में बिजली की हिस्सेदारी को 35% तक बढ़ाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Achieving 100% renewable energy by 2040",
+                "hi": "2040 तक 100% नवीकरणीय ऊर्जा प्राप्त करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Halving global emissions by 2030",
+                "hi": "2030 तक वैश्विक उत्सर्जन आधा करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt explicitly states the target as 'raising electricity’s share of global energy consumption to 35% by 2035'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+            "hi": "अंश में स्पष्ट रूप से लक्ष्य को '2035 तक वैश्विक ऊर्जा खपत में बिजली की हिस्सेदारी को 35% तक बढ़ाना' बताया गया है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-34"
+        },
+        {
+          "prompt": {
+            "en": "What is the subject of contention that Labour MPs are speaking out against?",
+            "hi": "विवाद का विषय क्या है जिसके खिलाफ लेबर सांसद बोल रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A new housing policy",
+                "hi": "नई आवास नीति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Healthcare reforms",
+                "hi": "स्वास्थ्य सेवा सुधार"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Rosebank oil field",
+                "hi": "रोज़बैंक तेल क्षेत्र"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Education budget cuts",
+                "hi": "शिक्षा बजट में कटौती"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title 'Labour MPs speak out against Rosebank as decision looms' indicates that Rosebank is the subject of their opposition.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+            "hi": "'निर्णय निकट आते ही लेबर सांसद रोजबैंक के खिलाफ बोलते हैं' शीर्षक से संकेत मिलता है कि रोजबैंक उनके विरोध का विषय है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-35"
+        },
+        {
+          "prompt": {
+            "en": "What action has Nvidia taken in response to an alleged Chinese spy affair?",
+            "hi": "कथित चीनी जासूसी मामले के जवाब में एनवीडिया ने क्या कार्रवाई की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Issued a public apology",
+                "hi": "सार्वजनिक माफ़ीनामा जारी किया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased internal security measures",
+                "hi": "आंतरिक सुरक्षा उपाय बढ़ाये गये"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Filed a lawsuit against China",
+                "hi": "चीन के ख़िलाफ़ मुक़दमा दायर किया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Hired a major US law firm to investigate",
+                "hi": "जांच के लिए एक प्रमुख अमेरिकी लॉ फर्म को नियुक्त किया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states, 'Nvidia hires major US law firm to investigate alleged Chinese spy affair', detailing the action taken.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'एनवीडिया ने कथित चीनी जासूसी मामले की जांच के लिए प्रमुख अमेरिकी कानूनी फर्म को काम पर रखा है', जिसमें की गई कार्रवाई का विवरण दिया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-36"
+        },
+        {
+          "prompt": {
+            "en": "What government campaign led to a significant increase in sales of essential goods like tinned food and bottled water?",
+            "hi": "किस सरकारी अभियान के कारण डिब्बाबंद भोजन और बोतलबंद पानी जैसी आवश्यक वस्तुओं की बिक्री में उल्लेखनीय वृद्धि हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "'Be Ready' campaign",
+                "hi": "'तैयार रहो' अभियान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "'Healthy Living' campaign",
+                "hi": "'स्वस्थ जीवन' अभियान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "'Eat Fresh' campaign",
+                "hi": "'ताजा खाओ' अभियान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "'Stay Safe' campaign",
+                "hi": "'सुरक्षित रहें' अभियान"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states, 'Sales of tinned food and bottled water jump after 'Be Ready' campaign launch', identifying the campaign.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में अभियान की पहचान बताते हुए कहा गया है, ''बी रेडी' अभियान शुरू होने के बाद डिब्बाबंद भोजन और बोतलबंद पानी की बिक्री में उछाल आया है।''\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-37"
+        },
+        {
+          "prompt": {
+            "en": "What was the consequence for four grizzly bears in Canada following a fatal attack on a mother and daughter?",
+            "hi": "कनाडा में माँ और बेटी पर घातक हमले के बाद चार भूरे भालूओं का क्या परिणाम हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They were killed.",
+                "hi": "वे मारे गये."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They were captured for research.",
+                "hi": "उन्हें शोध के लिए पकड़ लिया गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They were relocated to a sanctuary.",
+                "hi": "उन्हें एक अभयारण्य में स्थानांतरित कर दिया गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They were tagged and released.",
+                "hi": "उन्हें टैग कर रिहा कर दिया गया."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'Four grizzly bears killed in Canada after fatal attack on mother and daughter', indicating their fate.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'कनाडा में मां और बेटी पर घातक हमले के बाद चार भालू मारे गए', जो उनके भाग्य का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-38"
+        },
+        {
+          "prompt": {
+            "en": "What natural phenomenon are Kenyans fearing the impact of, with predictions of floods?",
+            "hi": "बाढ़ की भविष्यवाणी के साथ केन्यावासी किस प्राकृतिक घटना के प्रभाव से डर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Volcanic eruption",
+                "hi": "ज्वालामुखी विस्फोट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Earthquake",
+                "hi": "भूकंप"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tsunami",
+                "hi": "सुनामी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "El Niño",
+                "hi": "अल नीनो"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'Kenyans fear impact of El Niño with floods predicted', identifying the phenomenon.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'केन्यावासियों को बाढ़ की भविष्यवाणी के साथ अल नीनो के प्रभाव का डर है', जो इस घटना की पहचान करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-39"
+        },
+        {
+          "prompt": {
+            "en": "What environmental challenge is a swan sanctuary wetland actively fighting?",
+            "hi": "हंस अभयारण्य आर्द्रभूमि किस पर्यावरणीय चुनौती से सक्रिय रूप से लड़ रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Deforestation",
+                "hi": "वनों की कटाई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Desertification",
+                "hi": "मरुस्थलीकरण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Climate change",
+                "hi": "जलवायु परिवर्तन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Plastic pollution",
+                "hi": "प्लास्टिक प्रदूषण"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title states, 'The swan sanctuary wetland fighting climate change', indicating the environmental challenge.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'हंस अभयारण्य आर्द्रभूमि जलवायु परिवर्तन से लड़ रही है', जो पर्यावरणीय चुनौती को दर्शाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-40"
+        },
+        {
+          "prompt": {
+            "en": "Why was US Treasury Secretary Scott Bessent relocated?",
+            "hi": "अमेरिकी ट्रेजरी सचिव स्कॉट बेसेंट को क्यों स्थानांतरित किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "For a diplomatic mission",
+                "hi": "एक राजनयिक मिशन के लिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Due to a change in his portfolio",
+                "hi": "उनके पोर्टफोलियो में बदलाव के कारण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "For personal reasons",
+                "hi": "व्यक्तिगत कारणों से"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "After alleged Iranian threats",
+                "hi": "कथित ईरानी धमकियों के बाद"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'US Treasury Secretary Scott Bessent relocated after alleged Iranian threats', providing the reason for his relocation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'कथित ईरानी धमकियों के बाद अमेरिकी ट्रेजरी सचिव स्कॉट बेसेंट को स्थानांतरित कर दिया गया', उनके स्थानांतरण का कारण बताया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-41"
+        },
+        {
+          "prompt": {
+            "en": "Which countries had schools affected by threats in a suspected bomb hoax?",
+            "hi": "संदिग्ध बम की धमकियों से किन देशों के स्कूल प्रभावित हुए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "France, Germany, and Spain",
+                "hi": "फ्रांस, जर्मनी और स्पेन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "USA, Canada, and Mexico",
+                "hi": "संयुक्त राज्य अमेरिका, कनाडा और मेक्सिको"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "England, Wales, and Ireland",
+                "hi": "इंग्लैंड, वेल्स और आयरलैंड"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Italy, Scotland, and Northern Ireland",
+                "hi": "इटली, स्कॉटलैंड और उत्तरी आयरलैंड"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly lists 'Italy, Scotland and Northern Ireland' as the countries where schools were hit by threats.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से 'इटली, स्कॉटलैंड और उत्तरी आयरलैंड' को उन देशों के रूप में सूचीबद्ध किया गया है जहां स्कूल खतरों से प्रभावित थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-42"
+        },
+        {
+          "prompt": {
+            "en": "What political development led to the resignation of Indonesia's vice president?",
+            "hi": "किस राजनीतिक घटनाक्रम के कारण इंडोनेशिया के उपराष्ट्रपति को इस्तीफा देना पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A major economic crisis",
+                "hi": "एक बड़ा आर्थिक संकट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A personal health issue",
+                "hi": "एक व्यक्तिगत स्वास्थ्य मुद्दा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A national election defeat",
+                "hi": "एक राष्ट्रीय चुनाव हार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Signs that the ruling alliance is fraying",
+                "hi": "संकेत है कि सत्तारूढ़ गठबंधन कमजोर हो रहा है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states, 'Indonesia's vice president resigns amid signs ruling alliance is fraying', indicating the political context for the resignation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'सत्तारूढ़ गठबंधन के कमजोर होने के संकेतों के बीच इंडोनेशिया के उपराष्ट्रपति ने इस्तीफा दिया', जो इस्तीफे के राजनीतिक संदर्भ का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-43"
+        },
+        {
+          "prompt": {
+            "en": "How did a 74-year-old kidnapper escape from house arrest in Argentina?",
+            "hi": "अर्जेंटीना में 74 वर्षीय अपहरणकर्ता नजरबंदी से कैसे भाग गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By bribing guards",
+                "hi": "गार्डों को रिश्वत देकर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By digging a tunnel",
+                "hi": "सुरंग खोदकर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "By disguising himself",
+                "hi": "अपना भेष बदल कर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "By abseiling from balcony",
+                "hi": "बालकनी से एब्ज़िंग करके"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly states, 'escapes from house arrest in Argentina by abseiling from balcony', describing the method of escape.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'अर्जेंटीना में घर की गिरफ्तारी से बालकनी से निकलकर भाग निकला', भागने के तरीके का वर्णन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & International Relations",
+          "source_label": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-12-44"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-12T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Crushing begins at Tiruttani Cooperative Sugarmills",
+      "url": "https://www.thehindu.com/news/cities/chennai/crushing-begins-at-tiruttani-cooperative-sugarmills/article71690460.ece",
+      "published": "2026-11-12T00:50:18+05:30"
+    },
+    {
+      "title": "MP alleges intelligence failure over Nanjangud drug racket",
+      "url": "https://www.thehindu.com/news/national/karnataka/mp-alleges-intelligence-failure-over-nanjangud-drug-racket/article71689363.ece",
+      "published": "2026-11-12T00:49:04+05:30"
+    },
+    {
+      "title": "Swachh Survekshan: Guntur wins ‘Super Swachh League’ award",
+      "url": "https://www.thehindu.com/news/cities/Vijayawada/swachh-survekshan-guntur-wins-super-swachh-league-award/article71689607.ece",
+      "published": "2026-11-12T00:36:49+05:30"
+    },
+    {
+      "title": "Recent repairs on OMR come undone",
+      "url": "https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece",
+      "published": "2026-11-12T00:34:44+05:30"
+    },
+    {
+      "title": "Anti-Sterlite protests: CM orders ₹5.25-cr. additional relief to victims",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/anti-sterlite-protest-cm-orders-525-cr-additional-relief-to-victims/article71689687.ece",
+      "published": "2026-11-12T00:33:57+05:30"
+    },
+    {
+      "title": "Low-pressure area likely to form over Bay of Bengal, ease rain deficit in State",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/next-low-pressure-area-likely-to-form-over-bay-of-bengal-around-november-13-and-intensify-into-depression-in-2-days/article71689794.ece",
+      "published": "2026-11-12T00:32:14+05:30"
+    },
+    {
+      "title": "Tata Power Q2 profit jumps 32% to ₹1,652 crore",
+      "url": "https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
+      "published": "2026-11-11T21:55:39+05:30"
+    },
+    {
+      "title": "Qualcomm India layoffs: Over 1,000 jobs at risk amid global cuts",
+      "url": "https://www.thehindu.com/business/Industry/qualcomm-india-layoffs-over-1000-jobs-at-risk-amid-global-cuts/article71689532.ece",
+      "published": "2026-11-11T20:38:04+05:30"
+    },
+    {
+      "title": "Air India’s losses narrow in H1 by ₹2,000 crore",
+      "url": "https://www.thehindu.com/business/Industry/air-indias-losses-narrow-in-h1-by-2000-crore/article71689628.ece",
+      "published": "2026-11-11T19:56:18+05:30"
+    },
+    {
+      "title": "Government bars export of lithium-ion battery waste and scrap containing black mass",
+      "url": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+      "published": "2026-11-11T19:36:07+05:30"
+    },
+    {
+      "title": "Two days past Deepavali, NPCI yet to announce a date for UPI MDR rollout",
+      "url": "https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece",
+      "published": "2026-11-11T17:13:37+05:30"
+    },
+    {
+      "title": "Stock markets end higher; Sensex and Nifty jump nearly 1%",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-and-nifty-jump-on-november-11-2026/article71689371.ece",
+      "published": "2026-11-11T16:52:19+05:30"
+    },
+    {
+      "title": "India’s efforts to clean its air need not slow its economic growth",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece",
+      "published": "2026-11-11T12:44:43+05:30"
+    },
+    {
+      "title": "Physical pain often peaks during your working years, not in old age",
+      "url": "https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece",
+      "published": "2026-11-11T10:05:43+05:30"
+    },
+    {
+      "title": "World leaders take stage at COP31 but big names missing",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+      "published": "2026-11-11T08:50:36+05:30"
+    },
+    {
+      "title": "Kadambini Ganguly: breaking barriers in medicine",
+      "url": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece",
+      "published": "2026-11-10T16:36:53+05:30"
+    },
+    {
+      "title": "How China gets the Nvidia chips it needs to develop AI",
+      "url": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece",
+      "published": "2026-11-10T14:40:57+05:30"
+    },
+    {
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:33:24+00:00"
+    },
+    {
+      "title": "Oxford museum returns ancestral Naga skulls to India",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T06:23:42+00:00"
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T01:55:22+00:00"
+    },
+    {
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T18:48:19+00:00"
+    },
+    {
+      "title": "Christmas toy rush being driven by squishies and building sets",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T07:52:05+00:00"
+    },
+    {
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T19:15:45+00:00"
+    },
+    {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T22:52:15+00:00"
+    },
+    {
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:56:12+00:00"
+    },
+    {
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T15:10:20+00:00"
+    },
+    {
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T13:24:29+00:00"
+    },
+    {
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:18:07+00:00"
+    },
+    {
+      "title": "The swan sanctuary wetland fighting climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T06:30:29+00:00"
+    },
+    {
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T00:08:28+00:00"
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T16:45:11+00:00"
+    },
+    {
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T18:38:45+00:00"
+    },
+    {
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T16:38:07+00:00"
+    },
+    {
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T14:56:11+00:00"
+    }
+  ]
+}
