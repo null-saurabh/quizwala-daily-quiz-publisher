@@ -1,0 +1,403 @@
+{
+  "date": "2026-11-13",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-13.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "The Karnataka government plans to write to the Prime Minister regarding the inclusion of enhanced reservation for SCs and STs in the Ninth Schedule of the Constitution. What was the immediate trigger for this decision?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A directive from the Supreme Court on reservation policies."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The State Legislature passing a new bill for enhanced quotas."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The High Court of Karnataka quashing the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A recommendation from a central government committee on affirmative action."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states that the Karnataka government's decision to write to the Prime Minister was made 'After the High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022'.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-13-1"
+        },
+        {
+          "prompt": {
+            "en": "The Karnataka government is set to write to the Prime Minister. What specific action will they request concerning the enhanced reservation for SCs and STs?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To seek a presidential reference on the validity of the State Act."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To request parliamentary approval for a new reservation bill."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To form a central committee to review the State's reservation policy."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt explicitly states that the State government will write to the Prime Minister 'to include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution'.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-13-2"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "Karnataka to write to Prime Minister asking for inclusion of enhanced quota in Ninth Schedule",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+      "published": "2026-11-13T01:46:56+05:30",
+      "text": "After the High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022, the State government will write to Prime Minister Narendra Modi to include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution"
+    },
+    {
+      "id": "2",
+      "title": "Private passenger ship service between Beypore and Lakshadweep soon",
+      "url": "https://www.thehindu.com/news/national/kerala/private-sector-steps-in-to-resume-beypore-lakshadweep-passenger-ship-service/article71693792.ece",
+      "published": "2026-11-13T01:27:55+05:30",
+      "text": "As part of the trial, the ship, capable of accommodating 250 passengers, anchored safely at the port wharf. Maiden commercial run anticipated in November"
+    },
+    {
+      "id": "3",
+      "title": "Kin convicted for raping minor",
+      "url": "https://www.thehindu.com/news/cities/Kochi/kin-convicted-for-raping-minor/article71694222.ece",
+      "published": "2026-11-13T01:27:02+05:30",
+      "text": ""
+    },
+    {
+      "id": "4",
+      "title": "Eye donation awareness programme organised at Ernakulam MCH",
+      "url": "https://www.thehindu.com/news/national/kerala/eye-donation-awareness-programme-organised-at-ernakulam-mch/article71694719.ece",
+      "published": "2026-11-13T01:20:44+05:30",
+      "text": "The event was held ahead of the hospital’s application for a licence to perform corneal transplantation"
+    },
+    {
+      "id": "5",
+      "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
+      "url": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
+      "published": "2026-11-13T01:16:14+05:30",
+      "text": "The Ladakh administration shifted the activist from a protest venue to his residence in Leh and has been allegedly restrained from leaving his residence"
+    },
+    {
+      "id": "6",
+      "title": "Palaniswami rejects speculation of Dhinakaran, Sasikala being readmitted into AIADMK",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-speculation-of-dhinakaran-sasikala-being-readmitted-into-aiadmk/article71694996.ece",
+      "published": "2026-11-13T01:14:37+05:30",
+      "text": ""
+    },
+    {
+      "id": "7",
+      "title": "Kia, suppliers plan $2 billion investment in second plant in Andhra Pradesh, targets 2030 production kickoff",
+      "url": "https://www.thehindu.com/business/kia-suppliers-plan-2-billion-investment-in-second-plant-in-andhra-pradesh-targets-2030-production-kickoff/article71695150.ece",
+      "published": "2026-11-12T23:01:39+05:30",
+      "text": "The investment is expected to create about 12,000 direct and indirect jobs, the ‌company said, after signing a memorandum of understanding with the State government"
+    },
+    {
+      "id": "8",
+      "title": "India's Ola Electric quarterly loss narrows on cost cuts",
+      "url": "https://www.thehindu.com/business/indias-ola-electric-quarterly-loss-narrows-on-cost-cuts/article71695154.ece",
+      "published": "2026-11-12T22:57:13+05:30",
+      "text": "The electric-vehicle maker reported a consolidated ‌loss of 3.62 billion rupees ($38.66 million) ​for the three months ended September ⁠30, compared with a loss of 4.18 billion rupees a year ago"
+    },
+    {
+      "id": "9",
+      "title": "CAG to table first integrated audit reports in December, covering MSMEs and logistics",
+      "url": "https://www.thehindu.com/business/cag-to-table-first-integrated-audit-reports-in-december-covering-msmes-and-logistics/article71695084.ece",
+      "published": "2026-11-12T22:50:06+05:30",
+      "text": "The first of these reports would focus on ease of doing business and logistics."
+    },
+    {
+      "id": "10",
+      "title": "CAG widens purview of power sector audit, starting with DISCOMs; consumer satisfaction in focus",
+      "url": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece",
+      "published": "2026-11-12T22:38:11+05:30",
+      "text": "Officials stated that DISCOMs would be evaluated for their performance over a five-year period, following by transmission, generation, renewable energy and RDSS."
+    },
+    {
+      "id": "11",
+      "title": "A2B secures $180 million investment from James Murdoch, Uday Shankar-backed Bodhi Tree",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/a2b-secures-180-million-investment-from-james-murdoch-uday-shankar-backed-bodhi-tree/article71694799.ece",
+      "published": "2026-11-12T22:17:13+05:30",
+      "text": "The 50-year-old brand has shed a majority stake for this deal"
+    },
+    {
+      "id": "12",
+      "title": "Life insurers’ new business premium rose 26% to ₹42,914 cr. in October",
+      "url": "https://www.thehindu.com/business/life-insurers-new-business-premium-rose-26-to-42914-cr-in-october/article71694767.ece",
+      "published": "2026-11-12T22:04:56+05:30",
+      "text": "The policies/schemes issued by the life insurers in October was lower at 18,82,243 (19,53,996)."
+    },
+    {
+      "id": "13",
+      "title": "ISRO successfully carries out ground static test of PSLV third stage",
+      "url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
+      "published": "2026-11-12T22:56:35+05:30",
+      "text": "The configuration of the third stage was revisited comprehensively with respect to the design margins, raw material acceptance criteria, assembly procedures, and the quality checks that were followed so far"
+    },
+    {
+      "id": "14",
+      "title": "India undergoing massive transformation in renewable energy: Earthshot Prize CEO",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece",
+      "published": "2026-11-12T22:44:40+05:30",
+      "text": "“There is a race on right now. The first country that can have access to cheap, clean and abundant energy, is going to have a huge economic advantage. And India knows that,” says Jason Knauf"
+    },
+    {
+      "id": "15",
+      "title": "New shark species identified in Indian Ocean after decades of misclassification",
+      "url": "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece",
+      "published": "2026-11-12T20:26:01+05:30",
+      "text": "The researchers identified the species Indian Bramble Shark, named Echinorhinus roinee"
+    },
+    {
+      "id": "16",
+      "title": "Six researchers win Infosys Science Foundation prizes for 2026",
+      "url": "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
+      "published": "2026-11-12T15:24:40+05:30",
+      "text": "A total of 222 applications were received across six categories with the highest for ‘Engineering and Computer Science’ category, ISF said"
+    },
+    {
+      "id": "17",
+      "title": "Hawking, the celebrity theoretical physicist",
+      "url": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+      "published": "2026-11-12T11:00:47+05:30",
+      "text": "On November 8, 2018, one of the earliest wheelchairs used by Stephen Hawking fetched a whopping sum of nearly £300,000, while a copy of his doctoral thesis fetched almost £585,000. How did a theoretical physicist turn into one of the most celebrated scientists of recent times? A.S.Ganesh gives you the answer with a brief look at his life and work…"
+    },
+    {
+      "id": "18",
+      "title": "Baby chimpanzees ‘learn’ calls much like humans learn words",
+      "url": "https://www.thehindu.com/sci-tech/science/science-newsletter-baby-chimpanzees-learn-calls-much-like-humans-learn-words/article71688100.ece",
+      "published": "2026-11-12T10:29:48+05:30",
+      "text": "The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon."
+    },
+    {
+      "id": "19",
+      "title": "Was Delhi pollution data during Diwali misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T09:01:56+00:00",
+      "text": "BBC Verify analysis indicates missing data led official Diwali pollution figures to be lower than they should be."
+    },
+    {
+      "id": "20",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:07:19+00:00",
+      "text": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
+    },
+    {
+      "id": "21",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:26:02+00:00",
+      "text": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy."
+    },
+    {
+      "id": "22",
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:33:24+00:00",
+      "text": "The Tamil Nadu government has ordered an internal audit of library collections across the state."
+    },
+    {
+      "id": "23",
+      "title": "Oxford museum returns ancestral Naga skulls to India",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T06:23:42+00:00",
+      "text": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial."
+    },
+    {
+      "id": "24",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T01:55:22+00:00",
+      "text": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
+    },
+    {
+      "id": "25",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T17:11:48+00:00",
+      "text": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
+    },
+    {
+      "id": "26",
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T15:10:32+00:00",
+      "text": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
+    },
+    {
+      "id": "27",
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T13:27:09+00:00",
+      "text": "The UK is seeing impressive growth, but will it last?"
+    },
+    {
+      "id": "28",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:20:25+00:00",
+      "text": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures."
+    },
+    {
+      "id": "29",
+      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T14:29:59+00:00",
+      "text": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer."
+    },
+    {
+      "id": "30",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T17:32:14+00:00",
+      "text": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
+    },
+    {
+      "id": "31",
+      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+      "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:03:53+00:00",
+      "text": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey."
+    },
+    {
+      "id": "32",
+      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T06:02:55+00:00",
+      "text": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says."
+    },
+    {
+      "id": "33",
+      "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+      "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T00:12:59+00:00",
+      "text": "The decline has been put down to severe restrictions placed on the substances' use."
+    },
+    {
+      "id": "34",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T13:24:29+00:00",
+      "text": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
+    },
+    {
+      "id": "35",
+      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+      "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:35:14+00:00",
+      "text": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England."
+    },
+    {
+      "id": "36",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:18:07+00:00",
+      "text": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
+    },
+    {
+      "id": "37",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T18:28:59+00:00",
+      "text": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+    },
+    {
+      "id": "38",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T20:09:16+00:00",
+      "text": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+    },
+    {
+      "id": "39",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T19:23:02+00:00",
+      "text": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+    },
+    {
+      "id": "40",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:56:55+00:00",
+      "text": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
+    },
+    {
+      "id": "41",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T18:47:35+00:00",
+      "text": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident."
+    },
+    {
+      "id": "42",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T15:18:20+00:00",
+      "text": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+    }
+  ]
+}
