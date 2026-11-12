@@ -96,6 +96,52 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-13-2"
+        },
+        {
+          "prompt": {
+            "en": "The Karnataka State government has decided to write to Prime Minister Narendra Modi. What specific request will be made in this communication?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To review the High Court's decision on reservation."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To provide financial assistance for implementing reservation policies."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To amend the Karnataka Scheduled Castes and Scheduled Tribes Act, 2022."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt clearly states the purpose of writing to the Prime Minister: 'to include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution'.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-to-write-to-prime-minister-asking-for-inclusion-of-enhanced-quota-in-ninth-schedule/article71695096.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-13-3"
         }
       ],
       "quarantined": [],
@@ -398,6 +444,20 @@
       "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T15:18:20+00:00",
       "text": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+    },
+    {
+      "id": "1",
+      "title": "Five held for kidnapping, assaulting youth in Keralam’s Tirur",
+      "url": "https://www.thehindu.com/news/national/kerala/five-held-for-kidnapping-assaulting-youth-in-keralams-tirur/article71694235.ece",
+      "published": "2026-11-13T02:03:42+05:30",
+      "text": ""
+    },
+    {
+      "id": "2",
+      "title": "Three of Malappuram family killed in Fujairah road crash",
+      "url": "https://www.thehindu.com/news/national/kerala/three-of-malappuram-family-killed-in-fujairah-road-crash/article71694144.ece",
+      "published": "2026-11-13T02:01:19+05:30",
+      "text": ""
     }
   ]
 }

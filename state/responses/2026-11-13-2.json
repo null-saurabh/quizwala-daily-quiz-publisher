@@ -1,0 +1,37 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": "{\n  \"sets\": [\n    {\n      \"title\": \"National Affairs, Policy & Governance\",\n      \"questions\": [\n        {\n          \"source_id\": \"3\",\n          \"evidence\": \"After the High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022\",\n          \"prompt\": {\n            \"en\": \"The Karnataka government plans to write to the Prime Minister regarding the inclusion of enhanced reservation for SCs and STs in the Ninth Schedule of the Constitution. What was the immediate trigger for this decision?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"The High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022.\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"A Supreme Court directive mandating the inclusion.\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"A new central government policy on reservation.\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"Public protests demanding increased reservation.\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"a\",\n          \"explanation\": {\n            \"en\": \"The excerpt clearly states that the decision to write to the Prime Minister for Ninth Schedule inclusion was made 'After the High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022'.\"\n          }\n        },\n        {\n          \"source_id\": \"3\",\n          \"evidence\": \"the State government will write to Prime Minister Narendra Modi to include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution\",\n          \"prompt\": {\n            \"en\": \"The Karnataka State government has decided to write to Prime Minister Narendra Modi. What specific request will be made in this communication?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"To review the High Court's decision on reservation.\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"To include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution.\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"To provide financial assistance for implementing reservation policies.\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"To amend the Karnataka Scheduled Castes and Scheduled Tribes Act, 2022.\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"b\",\n          \"explanation\": {\n            \"en\": \"The excerpt clearly states the purpose of writing to the Prime Minister: 'to include the enhanced reservation for SCs and STs in the 9th Schedule of the Constitution'.\"\n          }\n        },\n        {\n          \"source_id\": \"3\",\n          \"evidence\": \"the High Court of Karnataka quashed the Karnataka Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of Appointments or Posts in the Services under the State) Act, 2022\",\n          \"prompt\": {\n            \"en\": \"Which specific legislation, related to reservation in Karnataka, was quashed by the High Court, prompting the State government to seek its inclusion in the Ninth Schedule?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"The Karnataka Backward Classes Reservation Act, 2020.\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\":"
+          }
+        ]
+      },
+      "finishReason": "MAX_TOKENS"
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 12897,
+    "candidatesTokenCount": 943,
+    "totalTokenCount": 36883,
+    "trafficType": "ON_DEMAND",
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 12897
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 943
+      }
+    ],
+    "thoughtsTokenCount": 23043
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "createTime": "2026-11-12T21:16:22.645942Z",
+  "responseId": "piz2ara2J-uiodAP7c6biQU"
+}
