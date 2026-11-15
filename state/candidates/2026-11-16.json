@@ -96,6 +96,1958 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-16-2"
+        },
+        {
+          "prompt": {
+            "en": "What is a key aspect of the proposed AI usage guidelines for capital markets, as stated by the SEBI chief?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Focus on increasing AI adoption without regulatory oversight"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Prioritizing automation over human intervention in all AI applications"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a ‘human-in-the-loop’ approach"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Exclusively targeting small and medium enterprises for AI implementation"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The SEBI chief explicitly stated that the proposed guidelines would 'focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a ‘human-in-the-loop’ approach'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-3"
+        },
+        {
+          "prompt": {
+            "en": "Which regulatory body is set to issue AI usage guidelines for capital markets?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Reserve Bank of India (RBI)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ministry of Finance"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "National Payments Corporation of India (NPCI)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "SEBI"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline clearly states 'SEBI to issue AI usage guidelines for capital markets'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-4"
+        },
+        {
+          "prompt": {
+            "en": "What specific approach is emphasized for AI use in capital markets, according to SEBI's upcoming guidelines?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A fully automated decision-making system"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An AI-only oversight model"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A 'human-in-the-loop' approach"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A disclosure-free operational model"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The SEBI chief mentioned that the guidelines would include 'a ‘human-in-the-loop’ approach' for AI use.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-5"
+        },
+        {
+          "prompt": {
+            "en": "What is a key challenge for AI firm Anthropic to sustain its profitability, as highlighted in the excerpt?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lack of skilled engineers"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Inability to secure its moat through valuation"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sustaining its profitability after honouring its infra commitments"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Building progressively more capable models"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that 'the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-6"
+        },
+        {
+          "prompt": {
+            "en": "According to the article, what is essential for Anthropic's engineers to keep building?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Progressively more capable models"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "New marketing strategies"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Financial partnerships"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Stronger investor relations"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text explicitly states, 'Its engineers need to keep building progressively more capable models'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-7"
+        },
+        {
+          "prompt": {
+            "en": "What significant feat did SpaceX recently achieve with its Starship spacecraft?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "First successful orbital launch"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "First-ever spaceship ‘catch’"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Deployment of a new satellite constellation"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Successful Mars landing"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states, 'SpaceX pulls off first-ever spaceship ‘catch’'.\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-8"
+        },
+        {
+          "prompt": {
+            "en": "How was SpaceX's Starship captured after re-entering Earth's atmosphere?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It landed on a designated runway."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It splashed down in the ocean."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It slipped smoothly between mechanical “chopstick arms”."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was caught by a net."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt describes the Starship as 'slipping smoothly between mechanical “chopstick arms”' for its capture.\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-9"
+        },
+        {
+          "prompt": {
+            "en": "How long is it estimated before NASA's Voyager 1 spacecraft achieves a full light-year?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Another 1,800 years"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Another 18,000 years"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Another 180,000 years"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Another 180 years"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states, 'NASA is looking at another 18,000 years before the spacecraft achieves a full light-year'.\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-10"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of participants receiving the experimental drug retatrutide experienced at least a 50% reduction in knee pain during trials?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "About one-third"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "About half"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "About two-thirds"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "About three-quarters"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The analysis found that 'about two-thirds of participants receiving the drug retatrutide experienced at least a 50% reduction in knee pain'.\nSource: https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-11"
+        },
+        {
+          "prompt": {
+            "en": "What did a recent study in the Chennai Metro Rail reveal about microbes?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A complete absence of microbes on surfaces"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Microbes were exclusively found in the air, not on surfaces"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Only pathogenic microbes were present"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A wide range of microbes found on high-touch surfaces"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The study 'showed a wide range of microbes found on high-touch surfaces' in the Chennai Metro Rail.\nSource: https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-12"
+        },
+        {
+          "prompt": {
+            "en": "Which tech company recently experienced a day-long global outage affecting its services?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Google"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Apple"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Microsoft"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Amazon"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline explicitly states, 'Microsoft says services fully restored after day-long global outage'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-13"
+        },
+        {
+          "prompt": {
+            "en": "What were some of the Microsoft services affected by the recent global outage?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Windows, Xbox, and Bing"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Azure, OneDrive, and Edge"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Outlook, Teams and Copilot"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Skype, SharePoint, and GitHub"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions 'Outlook, Teams and Copilot' as the services affected by the outage.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-14"
+        },
+        {
+          "prompt": {
+            "en": "Which planets are expected to align in the pre-dawn sky throughout November?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Saturn, Uranus, Neptune, and Pluto"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mercury, Venus, Mars and Jupiter"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Earth, Moon, Sun, and Mars"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jupiter, Saturn, Uranus, and Neptune"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The article states, 'The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November'.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-15"
+        },
+        {
+          "prompt": {
+            "en": "What method did SpaceX use to catch the Starship rocket stage mid-air?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A large parachute system"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A water landing system"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A magnetic levitation system"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Huge mechanical arms nicknamed \"chopsticks\""
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt specifies that 'The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-16"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of SpaceX's recent attempt to catch the Starship rocket stage?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It failed to re-enter the atmosphere."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It successfully catches top of huge Starship rocket for first time"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It successfully landed on a traditional launchpad."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It exploded upon re-entry."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states, 'SpaceX successfully catches top of huge Starship rocket for first time'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-17"
+        },
+        {
+          "prompt": {
+            "en": "How does El Niño typically affect conditions further north in the US and Canada during winter?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It brings more rain and colder conditions."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It brings drier, warmer conditions."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It leads to increased snowfall."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It has no discernible impact on weather conditions."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that El Niño winters bring 'drier, warmer conditions further north' in the US and Canada.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-18"
+        },
+        {
+          "prompt": {
+            "en": "What technology does President Zelensky urge the US and Elon Musk to lift restrictions on?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5G network infrastructure"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Advanced drone technology"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Starlink"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cybersecurity software"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'Zelensky urges US and Musk to lift Starlink restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-19"
+        },
+        {
+          "prompt": {
+            "en": "According to President Zelensky, what is the impact of Starlink restrictions on Ukraine?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are enhancing Ukraine's defense capabilities."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They are making it difficult to stop Russian attacks."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They are improving communication with allies."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are irrelevant to the ongoing conflict."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Zelensky states that 'restrictions are still in place and making it difficult to stop Russian attacks'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-20"
+        },
+        {
+          "prompt": {
+            "en": "What type of medical procedure was recently performed by a Hyderabad hospital in a single sitting?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Brain tumor removal"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Combined heart valve procedures"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kidney transplant"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Spinal cord surgery"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline explicitly states, 'Hyderabad hospital performs combined heart valve procedures in single sitting'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-21"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-16.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the primary reason for the recent surge in air purifier sales?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Delhi-NCR AQI deteriorates"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased marketing campaigns"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Seasonal discounts"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "New product launches"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The headline directly links the surge in sales to 'Delhi-NCR AQI deteriorates'.\nSource: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-22"
+        },
+        {
+          "prompt": {
+            "en": "Beyond traditional metropolitan cities, where is the demand for air purifiers now spreading?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Only to rural areas"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "From other parts of the country, including Maharashtra, Karnataka, Tamil Nadu and Telangana"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To smaller towns within metropolitan regions"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Exclusively to international markets"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that demand is 'now witnessing demand from other parts of the country, including Maharashtra, Karnataka, Tamil Nadu and Telangana'.\nSource: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-23"
+        },
+        {
+          "prompt": {
+            "en": "What quarterly profit target has PNB set for its credit card and cash management verticals?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹100 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹200 crore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹500 crore"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,000 crore"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline indicates that 'PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals'.\nSource: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-24"
+        },
+        {
+          "prompt": {
+            "en": "Which premium product has PNB recently launched, attracting over 27,000 customers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "PNB Platinum Debit Card"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "PNB Gold Savings Account"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "PNB Metal Credit Card Luxura"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "PNB Digital Wallet"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text states, 'The bank has also launched its premium PNB Metal Credit Card Luxura, which has attracted 27,140 customers so far'.\nSource: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-25"
+        },
+        {
+          "prompt": {
+            "en": "How much has Mahanagar Gas cumulatively increased CNG prices since May 14?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1.5 per kg"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹5.0 per kg"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹15.0 per kg"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹9.5 per kg"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14'.\nSource: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-26"
+        },
+        {
+          "prompt": {
+            "en": "What was the recent per kg hike in CNG prices by Mahanagar Gas in Mumbai?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1.5/kg"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1.0/kg"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹0.5/kg"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹2.0/kg"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The headline clearly states, 'Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg'.\nSource: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-27"
+        },
+        {
+          "prompt": {
+            "en": "What was the net investment made by Foreign Portfolio Investors (FPIs) in Indian equities during November 2-13?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹84,290 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹42,145 crore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹126,435 crore"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹168,580 crore"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The data shows FPIs 'made a net investment of ₹84,290 crore in Indian equities during November 2-13'.\nSource: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-28"
+        },
+        {
+          "prompt": {
+            "en": "Over how many trading sessions did FPIs make a net investment of ₹84,290 crore in Indian equities in early November?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nine trading sessions"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Seven trading sessions"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Eleven trading sessions"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Thirteen trading sessions"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt specifies that the investment was made 'covering nine trading sessions'.\nSource: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-29"
+        },
+        {
+          "prompt": {
+            "en": "What concern has the Nvidia scandal raised regarding advanced AI chips?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Their environmental impact"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Their limited processing power"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Their high manufacturing cost"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Whether advanced AI chips ended up in China, despite US restrictions"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-30"
+        },
+        {
+          "prompt": {
+            "en": "Despite US restrictions, what is the concern regarding advanced AI chips mentioned in the Nvidia scandal?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Their overproduction"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Their use in domestic consumer electronics"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Whether advanced AI chips ended up in China"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Their impact on global supply chains"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt highlights the concern 'whether advanced AI chips ended up in China, despite US restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-31"
+        },
+        {
+          "prompt": {
+            "en": "What has the Jensen Huang scandal cast a spotlight on regarding Singapore?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Singapore's success as a chip hub - and a location for alleged illicit trade"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Its burgeoning tourism industry"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its advancements in renewable energy"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Its efforts in space exploration"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text states, 'The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-32"
+        },
+        {
+          "prompt": {
+            "en": "What role does Singapore play in the context of the Jensen Huang scandal, besides being a chip hub?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A location for alleged illicit trade"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A center for AI research"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A major consumer market for chips"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A primary manufacturer of chip components"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The scandal has highlighted Singapore as 'a location for alleged illicit trade'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-33"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective of SEBI's upcoming AI usage guidelines for capital markets?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To promote rapid AI adoption without regulation"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To mandate AI use for all market participants"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To restrict all AI use in financial services"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To focus on investor protection"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline explicitly states that the guidelines will 'focus on investor protection'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-34"
+        },
+        {
+          "prompt": {
+            "en": "What is the main concern raised about Anthropic's valuation?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is too low to attract investors."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is based on outdated technology."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It can’t secure its moat."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is not publicly disclosed."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline directly states, 'Anthropic’s valuation can’t secure its moat'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-35"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    },
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-16.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the primary claim made in the PIL filed in the High Court regarding Kodanad estate land?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The private road should be closed permanently."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The state must acquire Kodanad estate land for converting a private road into a public road."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The private road should be maintained by the local residents."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The private road should be restricted to estate workers only."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline explicitly states the PIL's claim: 'State must acquire Kodanad estate land for converting a private road into a public road'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-36"
+        },
+        {
+          "prompt": {
+            "en": "Why was the PIL filed concerning the Kodanad estate land, according to the local resident?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To protest against illegal construction on the estate."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To demand compensation for land acquisition."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because of restrictions imposed on using the private road which was their only access to the outside world"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To request better maintenance of the private road."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The local resident filed the case 'claiming that the inhabitants of two hamlets were facing hardship because of restrictions imposed on using the private road which was their only access to the outside world'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-37"
+        },
+        {
+          "prompt": {
+            "en": "Which body has called for an inquiry and sought a report from the DGP regarding the Kallakurichi issue?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "National Human Rights Commission (NHRC)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "National Commission for Women (NCW)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Supreme Court of India"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ministry of Home Affairs"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline states, 'NCW calls for inquiry, seeks report from DGP over Kallakurichi issue'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-38"
+        },
+        {
+          "prompt": {
+            "en": "What specific demand has Anbumani made concerning guest lecturers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Demand for permanent positions"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Demand for better working conditions"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Seeks pay hike for guest lecturers from Sept. 1"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Demand for increased research grants"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'Anbumani seeks pay hike for guest lecturers from Sept. 1'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-39"
+        },
+        {
+          "prompt": {
+            "en": "Who is scheduled to inaugurate the facilitation centre set up by CIAL for Sabarimala pilgrims?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Governor of Kerala"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Union Minister of Tourism"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The CIAL Chairman"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Chief Minister V.D. Satheesan"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Chief Minister V.D. Satheesan to inaugurate the facility on November 17'.\nSource: https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-40"
+        },
+        {
+          "prompt": {
+            "en": "Approximately how many kilometers of GCC roads are to be transferred to the Highways department?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "About 50 km"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "About 60 km"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "About 70 km"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "About 80 km"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline states, 'About 70 km of GCC roads to be handed over to Highways'.\nSource: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-41"
+        },
+        {
+          "prompt": {
+            "en": "Which type of roads are most of those being transferred from GCC to Highways, according to a source?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Residential colony roads"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Industrial access roads"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pedestrian-only pathways"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bus route roads linked to highways located within the city limits"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "A source states, 'Most of them are bus route roads linked to highways located within the city limits'.\nSource: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-42"
+        },
+        {
+          "prompt": {
+            "en": "What fueled the new wave of youth dissent in India during the summer?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Frustration and irreverent online satire"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Government policy successes"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Economic prosperity and job growth"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "International political movements"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that the youth dissent was 'fuelled by frustration and irreverent online satire'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-43"
+        },
+        {
+          "prompt": {
+            "en": "What was the approximate number of fatalities in a recent bus-truck collision in north-east India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At least 10"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At least 15"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At least 30"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At least 24"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline reports, 'At least 24 killed after bus collides with truck in north-east India'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-44"
         }
       ],
       "quarantined": [],
@@ -370,6 +2322,41 @@
       "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T17:23:40+00:00",
       "text": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+    },
+    {
+      "id": "1",
+      "title": "State must acquire Kodanad estate land for converting a private road into a public road: PIL in HC",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+      "published": "2026-11-16T00:46:30+05:30",
+      "text": "A local resident has filed the case claiming that the inhabitants of two hamlets were facing hardship because of restrictions imposed on using the private road which was their only access to the outside world"
+    },
+    {
+      "id": "2",
+      "title": "NCW calls for inquiry, seeks report from DGP over Kallakurichi issue",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
+      "published": "2026-11-16T00:42:15+05:30",
+      "text": ""
+    },
+    {
+      "id": "3",
+      "title": "Anbumani seeks pay hike for guest lecturers from Sept. 1",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
+      "published": "2026-11-16T00:40:31+05:30",
+      "text": ""
+    },
+    {
+      "id": "4",
+      "title": "CIAL sets up facilitation centre for Sabarimala pilgrims",
+      "url": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+      "published": "2026-11-16T00:38:55+05:30",
+      "text": "Chief Minister V.D. Satheesan to inaugurate the facility on November 17"
+    },
+    {
+      "id": "5",
+      "title": "About 70 km of GCC roads to be handed over to Highways",
+      "url": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+      "published": "2026-11-16T00:32:13+05:30",
+      "text": "Arcot Road, Usman Road and Nelson Manickam Road are some of the key roads being transferred. Most of them are bus route roads linked to highways located within the city limits, says a source"
     }
   ]
 }

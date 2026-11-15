@@ -1,573 +1,1083 @@
 {
   "schema_version": 2,
-  "date": "2026-11-15",
-  "generated_at": "2026-11-14T18:30:20.120219+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-15T19:33:04.446059+00:00",
   "status": "ready",
   "sets": [
     {
-      "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-11-15.json",
+      "title": "Science, Technology & Health",
+      "source_filename": "daily-2026-11-16.json",
       "questions": [
         {
           "prompt": {
-            "en": "Which entities recently signed a pact to extend welfare facilities for railway staff?",
-            "hi": "हाल ही में किन संस्थाओं ने रेलवे कर्मचारियों के लिए कल्याण सुविधाएं बढ़ाने के लिए एक समझौते पर हस्ताक्षर किए?"
+            "en": "What significant medical achievement was recently performed by a Hyderabad hospital?",
+            "hi": "हाल ही में हैदराबाद के एक अस्पताल ने कौन सी महत्वपूर्ण चिकित्सा उपलब्धि हासिल की?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "South Central Railway (SCoR) and State Bank of India",
-                "hi": "दक्षिण मध्य रेलवे (एससीओआर) और भारतीय स्टेट बैंक"
+                "en": "The first successful lung transplant in the region.",
+                "hi": "क्षेत्र में पहला सफल फेफड़ा प्रत्यारोपण।"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Southern Railway (SR) and Central Bank of India",
-                "hi": "दक्षिणी रेलवे (एसआर) और सेंट्रल बैंक ऑफ इंडिया"
+                "en": "A new non-invasive cancer treatment.",
+                "hi": "एक नया गैर-आक्रामक कैंसर उपचार।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "South Central Railway (SCoR) and Central Bank of India",
-                "hi": "दक्षिण मध्य रेलवे (एससीओआर) और सेंट्रल बैंक ऑफ इंडिया"
+                "en": "A complex brain surgery using robotic assistance.",
+                "hi": "रोबोटिक सहायता से एक जटिल मस्तिष्क सर्जरी।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Ministry of Railways and Reserve Bank of India",
-                "hi": "रेल मंत्रालय और भारतीय रिजर्व बैंक"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title explicitly states, 'SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff', indicating these two entities are involved.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'एससीओआर, सेंट्रल बैंक ऑफ इंडिया ने रेलवे कर्मचारियों के लिए कल्याण सुविधाओं का विस्तार करने के लिए समझौता किया', यह दर्शाता है कि ये दोनों संस्थाएं शामिल हैं।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-1"
-        },
-        {
-          "prompt": {
-            "en": "What was the approximate number of mobile connections barred or disconnected by TRAI due to spam in the July-September quarter?",
-            "hi": "जुलाई-सितंबर तिमाही में स्पैम के कारण ट्राई द्वारा प्रतिबंधित या काटे गए मोबाइल कनेक्शनों की अनुमानित संख्या कितनी थी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Over 1.24 lakh",
-                "hi": "1.24 लाख से ज्यादा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Over 1.10 lakh",
-                "hi": "1.10 लाख से ज्यादा"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Around 15,000",
-                "hi": "लगभग 15,000"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Exactly 1,10,325",
-                "hi": "बिल्कुल 1,10,325"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title clearly states, 'TRAI crackdown on spam: Over 1.24 lakh mobile connections barred or disconnected in July-September'.\nSource: https://www.thehindu.com/business/Industry/trai-crackdown-on-spam-over-124-lakh-mobile-connections-barred-or-disconnected-in-july-september/article71702690.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'स्पैम पर ट्राई की कार्रवाई: जुलाई-सितंबर में 1.24 लाख से अधिक मोबाइल कनेक्शन रोके गए या काट दिए गए।'\nस्रोत: https://www.thehindu.com/business/Industry/trai-crackdown-on-spam-over-124-lakh-mobile-connections-barred-or-disconnected-in-july-september/article71702690.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/Industry/trai-crackdown-on-spam-over-124-lakh-mobile-connections-barred-or-disconnected-in-july-september/article71702690.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-2"
-        },
-        {
-          "prompt": {
-            "en": "For a first violation in TRAI's crackdown on spam, what is the duration for which telecom resources are barred from outgoing services?",
-            "hi": "स्पैम पर ट्राई की कार्रवाई में पहले उल्लंघन के लिए, वह अवधि क्या है जिसके लिए दूरसंचार संसाधनों को आउटगोइंग सेवाओं से प्रतिबंधित किया जाता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "7 days",
-                "hi": "7 दिन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "30 days",
-                "hi": "30 दिन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "15 days",
-                "hi": "15 दिन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Indefinitely",
-                "hi": "अनिश्चित काल तक"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The text specifies, 'A total of 1,10,325 telecom resources, including mobile numbers, were barred from outgoing services for 15 days for the first violation'.\nSource: https://www.thehindu.com/business/Industry/trai-crackdown-on-spam-over-124-lakh-mobile-connections-barred-or-disconnected-in-july-september/article71702690.ece",
-            "hi": "पाठ निर्दिष्ट करता है, 'मोबाइल नंबरों सहित कुल 1,10,325 दूरसंचार संसाधनों को पहले उल्लंघन के लिए 15 दिनों के लिए आउटगोइंग सेवाओं से रोक दिया गया था।'\nस्रोत: https://www.thehindu.com/business/Industry/trai-crackdown-on-spam-over-124-lakh-mobile-connections-barred-or-disconnected-in-july-september/article71702690.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/Industry/trai-crackdown-on-spam-over-124-lakh-mobile-connections-barred-or-disconnected-in-july-september/article71702690.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-3"
-        },
-        {
-          "prompt": {
-            "en": "What were the primary factors fueling the new wave of youth dissent in India during the recent summer?",
-            "hi": "हाल की गर्मियों के दौरान भारत में युवा असंतोष की नई लहर को बढ़ावा देने वाले प्राथमिक कारक क्या थे?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Frustration and irreverent online satire",
-                "hi": "हताशा और अपमानजनक ऑनलाइन व्यंग्य"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Economic prosperity and political stability",
-                "hi": "आर्थिक समृद्धि और राजनीतिक स्थिरता"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Government policies and international pressure",
-                "hi": "सरकारी नीतियां और अंतरराष्ट्रीय दबाव"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Social media trends and celebrity endorsements",
-                "hi": "सोशल मीडिया रुझान और सेलिब्रिटी समर्थन"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt states, 'A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में कहा गया है, 'इस गर्मी में युवा असंतोष की एक नई लहर भारत में बह गई, जो हताशा और अपमानजनक ऑनलाइन व्यंग्य से प्रेरित थी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-4"
-        },
-        {
-          "prompt": {
-            "en": "What was the reported casualty count in a recent road accident involving a bus and a truck in north-east India?",
-            "hi": "हाल ही में उत्तर-पूर्व भारत में एक बस और ट्रक से जुड़ी सड़क दुर्घटना में हताहतों की संख्या कितनी थी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "At least 12 killed",
-                "hi": "कम से कम 12 मारे गए"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Around 30 killed",
-                "hi": "करीब 30 की मौत"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "At least 24 killed",
-                "hi": "कम से कम 24 मारे गए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "More than 50 killed",
-                "hi": "50 से ज्यादा की मौत"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title explicitly mentions, 'At least 24 killed after bus collides with truck in north-east India'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से उल्लेख है, 'उत्तर-पूर्व भारत में बस और ट्रक की टक्कर में कम से कम 24 लोगों की मौत।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-5"
-        },
-        {
-          "prompt": {
-            "en": "According to local officials, what was the demographic of several deceased individuals in the recent bus-truck collision in north-east India?",
-            "hi": "स्थानीय अधिकारियों के अनुसार, उत्तर-पूर्व भारत में हाल ही में बस-ट्रक की टक्कर में मारे गए कई लोगों की जनसांख्यिकी क्या थी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Government employees",
-                "hi": "सरकारी कर्मचारी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Migrant workers",
-                "hi": "प्रवासी श्रमिक"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "College students",
-                "hi": "कॉलेज के छात्र"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Elderly citizens",
-                "hi": "बुजुर्ग नागरिक"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The text states, 'Several of the deceased are college students, according to local official Atul Bora'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में कहा गया है, 'स्थानीय अधिकारी अतुल बोरा के अनुसार, मृतकों में से कई कॉलेज छात्र हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-6"
-        },
-        {
-          "prompt": {
-            "en": "In the Mahabubabad case, what was the primary accusation made by the deceased police aspirant in her note?",
-            "hi": "महबूबाबाद मामले में, मृत पुलिस अभ्यर्थी द्वारा अपने नोट में प्राथमिक आरोप क्या लगाया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Financial exploitation by her boyfriend.",
-                "hi": "उसके प्रेमी द्वारा आर्थिक शोषण किया गया।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Discrimination based on community affiliation.",
-                "hi": "सामुदायिक संबद्धता के आधार पर भेदभाव."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Harassment from her boyfriend's relatives.",
-                "hi": "उसके प्रेमी के रिश्तेदारों से उत्पीड़न."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Refusal to marry by her boyfriend despite a long relationship.",
-                "hi": "लंबे रिश्ते के बावजूद उसके बॉयफ्रेंड द्वारा शादी से इंकार करना।"
+                "en": "Combined heart valve procedures in single sitting.",
+                "hi": "एक ही बैठक में संयुक्त हृदय वाल्व प्रक्रियाएं।"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The text mentions, 'the deceased left an 18-page note accusing Anil of refusing to marry her, despite nearly two years of relationship'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/police-aspirant-found-dead-boyfriend-and-relatives-arrested-in-mahabubabad/article71702836.ece",
-            "hi": "पाठ में उल्लेख है, 'मृतका ने 18 पन्नों का एक नोट छोड़ा जिसमें अनिल पर लगभग दो साल के रिश्ते के बावजूद उससे शादी करने से इनकार करने का आरोप लगाया गया।'\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/police-aspirant-found-dead-boyfriend-and-relatives-arrested-in-mahabubabad/article71702836.ece"
+            "en": "The title explicitly states the Hyderabad hospital performed \"combined heart valve procedures in single sitting\".\nSource: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि हैदराबाद अस्पताल ने \"एक ही बार में संयुक्त हृदय वाल्व प्रक्रियाएं\" कीं।\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/police-aspirant-found-dead-boyfriend-and-relatives-arrested-in-mahabubabad/article71702836.ece",
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-7"
+          "id": "2026-11-16-1"
         },
         {
           "prompt": {
-            "en": "Which organization recently organized the Dr. H. L. Roy memorial seminar?",
-            "hi": "हाल ही में किस संगठन ने डॉ. एच. एल. रॉय मेमोरियल सेमिनार का आयोजन किया?"
+            "en": "What new distance record is NASA's Voyager 1 spacecraft approaching?",
+            "hi": "नासा का वोयाजर 1 अंतरिक्ष यान किस नए दूरी रिकॉर्ड की ओर आ रहा है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Indian Institute of Chemical Engineers - Hyderabad Regional Centre (IChE-HRC)",
-                "hi": "इंडियन इंस्टीट्यूट ऑफ केमिकल इंजीनियर्स - हैदराबाद क्षेत्रीय केंद्र (आईसीएचई-एचआरसी)"
+                "en": "Reaching the Oort Cloud.",
+                "hi": "ऊर्ट बादल तक पहुँचना."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Indian Chemical Society (ICS)",
-                "hi": "इंडियन केमिकल सोसायटी (आईसीएस)"
+                "en": "Achieving a full light-year from Earth.",
+                "hi": "पृथ्वी से पूर्ण प्रकाश वर्ष प्राप्त करना।"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Hyderabad Research Council (HRC)",
-                "hi": "हैदराबाद अनुसंधान परिषद (एचआरसी)"
+                "en": "Approaching another star system.",
+                "hi": "किसी अन्य तारा प्रणाली के निकट पहुँचना।"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Dr. H. L. Roy Foundation",
-                "hi": "डॉ. एच. एल. रॉय फाउंडेशन"
+                "en": "Closing in on a light-day in interstellar space.",
+                "hi": "अंतरतारकीय अंतरिक्ष में एक प्रकाश-दिवस पर समापन।"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "d",
           "explanation": {
-            "en": "The title explicitly states, 'IChE-HRC organises Dr. H. L. Roy memorial seminar'.\nSource: https://www.thehindu.com/news/national/telangana/iche-hrc-organises-dr-h-l-roy-memorial-seminar/article71702851.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'आईसीएचई-एचआरसी डॉ. एच. एल. रॉय मेमोरियल सेमिनार का आयोजन करता है।'\nस्रोत: https://www.thehindu.com/news/national/telangana/iche-hrc-organises-dr-h-l-roy-memorial-seminar/article71702851.ece"
+            "en": "The title clearly states that \"NASA's Voyager 1 closes in on a light-day in interstellar space\" for a new distance record.\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि \"नासा का वोयाजर 1 एक नए दूरी रिकॉर्ड के लिए अंतरतारकीय अंतरिक्ष में एक प्रकाश-दिवस पर बंद होता है\"।\nस्रोत: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/telangana/iche-hrc-organises-dr-h-l-roy-memorial-seminar/article71702851.ece",
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-8"
+          "id": "2026-11-16-2"
         },
         {
           "prompt": {
-            "en": "How many individuals were arrested in connection with a recent gold theft in Wayanad?",
-            "hi": "वायनाड में हाल ही में हुई सोने की चोरी के सिलसिले में कितने व्यक्तियों को गिरफ्तार किया गया?"
+            "en": "What is a key aspect of the proposed AI usage guidelines for capital markets, as stated by the SEBI chief?",
+            "hi": "जैसा कि सेबी प्रमुख ने कहा, पूंजी बाजार के लिए प्रस्तावित एआई उपयोग दिशानिर्देशों का एक प्रमुख पहलू क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Two",
-                "hi": "दो"
+                "en": "Focus on increasing AI adoption without regulatory oversight",
+                "hi": "नियामक निरीक्षण के बिना एआई अपनाने को बढ़ाने पर ध्यान दें"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Three",
-                "hi": "तीन"
+                "en": "Prioritizing automation over human intervention in all AI applications",
+                "hi": "सभी एआई अनुप्रयोगों में मानवीय हस्तक्षेप पर स्वचालन को प्राथमिकता देना"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Four",
-                "hi": "चार"
+                "en": "Establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a ‘human-in-the-loop’ approach",
+                "hi": "एआई के उपयोग के लिए उचित रेलिंग स्थापित करना, जिसमें प्रकटीकरण, विनियमित संस्थाओं की जवाबदेही और 'मानव-इन-द-लूप' दृष्टिकोण शामिल है"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Five",
-                "hi": "पांच"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title clearly states, 'Gold theft: Four arrested in Wayanad'.\nSource: https://www.thehindu.com/news/national/kerala/gold-theft-four-arrested-in-wayanad/article71702838.ece",
-            "hi": "शीर्षक में साफ़ लिखा है, 'सोने की चोरी: वायनाड में चार गिरफ्तार।'\nस्रोत: https://www.thehindu.com/news/national/kerala/gold-theft-four-arrested-in-wayanad/article71702838.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/gold-theft-four-arrested-in-wayanad/article71702838.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-9"
-        },
-        {
-          "prompt": {
-            "en": "What record did Vaibhav Sooryavanshi recently break in men's Twenty20 cricket?",
-            "hi": "वैभव सूर्यवंशी ने हाल ही में पुरुष ट्वेंटी-20 क्रिकेट में कौन सा रिकॉर्ड तोड़ा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Most runs scored in a T20 match",
-                "hi": "एक टी20 मैच में सबसे ज्यादा रन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Youngest player to debut in T20s",
-                "hi": "टी20 में डेब्यू करने वाले सबसे युवा खिलाड़ी"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Youngest captain in men's T20s",
-                "hi": "पुरुष टी20 में सबसे युवा कप्तान"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Most wickets taken in a T20 series",
-                "hi": "एक टी20 सीरीज में लिए गए सबसे ज्यादा विकेट"
+                "en": "Exclusively targeting small and medium enterprises for AI implementation",
+                "hi": "एआई कार्यान्वयन के लिए विशेष रूप से छोटे और मध्यम उद्यमों को लक्षित करना"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The title clearly states, 'Sooryavanshi becomes youngest captain in men's T20s'.\nSource: BBC News · https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में साफ लिखा है, 'सूर्यवंशी पुरुष टी20 में सबसे कम उम्र के कप्तान बने।'\nस्रोत: BBC News · https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss"
+            "en": "The SEBI chief explicitly stated that the proposed guidelines would 'focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a ‘human-in-the-loop’ approach'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": "सेबी प्रमुख ने स्पष्ट रूप से कहा कि प्रस्तावित दिशानिर्देश 'एआई के उपयोग के लिए उचित रेलिंग स्थापित करने पर ध्यान केंद्रित करेंगे, जिसमें खुलासे, विनियमित संस्थाओं की जवाबदेही और 'मानव-इन-द-लूप' दृष्टिकोण शामिल हैं।'\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-10"
+          "id": "2026-11-16-3"
         },
         {
           "prompt": {
-            "en": "Whose record did Vaibhav Sooryavanshi surpass to become the youngest captain in top-level men's Twenty20 cricket?",
-            "hi": "शीर्ष स्तर के पुरुष ट्वेंटी-20 क्रिकेट में सबसे कम उम्र के कप्तान बनने के लिए वैभव सूर्यवंशी ने किसका रिकॉर्ड तोड़ दिया?"
+            "en": "Which regulatory body is set to issue AI usage guidelines for capital markets?",
+            "hi": "कौन सी नियामक संस्था पूंजी बाजार के लिए AI उपयोग दिशानिर्देश जारी करने के लिए तैयार है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Croatia's Zach Vukusic",
-                "hi": "क्रोएशिया के ज़ैक वुकुसिक"
+                "en": "Reserve Bank of India (RBI)",
+                "hi": "भारतीय रिजर्व बैंक (आरबीआई)"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "An Indian cricketer from the previous generation",
-                "hi": "पिछली पीढ़ी का एक भारतीय क्रिकेटर"
+                "en": "Ministry of Finance",
+                "hi": "वित्त मंत्रालय"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A player from a major cricketing nation",
-                "hi": "एक प्रमुख क्रिकेट खेलने वाले देश का खिलाड़ी"
+                "en": "National Payments Corporation of India (NPCI)",
+                "hi": "भारतीय राष्ट्रीय भुगतान निगम (एनपीसीआई)"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "An Australian T20 specialist",
-                "hi": "एक ऑस्ट्रेलियाई टी20 विशेषज्ञ"
+                "en": "SEBI",
+                "hi": "सेबी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline clearly states 'SEBI to issue AI usage guidelines for capital markets'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है 'सेबी पूंजी बाजार के लिए एआई उपयोग दिशानिर्देश जारी करेगा।'\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-4"
+        },
+        {
+          "prompt": {
+            "en": "What specific approach is emphasized for AI use in capital markets, according to SEBI's upcoming guidelines?",
+            "hi": "सेबी के आगामी दिशानिर्देशों के अनुसार, पूंजी बाजार में एआई के उपयोग के लिए किस विशिष्ट दृष्टिकोण पर जोर दिया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A fully automated decision-making system",
+                "hi": "एक पूरी तरह से स्वचालित निर्णय लेने की प्रणाली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An AI-only oversight model",
+                "hi": "एक AI-केवल निरीक्षण मॉडल"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A 'human-in-the-loop' approach",
+                "hi": "एक 'मानव-इन-द-लूप' दृष्टिकोण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A disclosure-free operational model",
+                "hi": "एक प्रकटीकरण-मुक्त परिचालन मॉडल"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The SEBI chief mentioned that the guidelines would include 'a ‘human-in-the-loop’ approach' for AI use.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": "सेबी प्रमुख ने उल्लेख किया कि दिशानिर्देशों में एआई उपयोग के लिए 'मानव-इन-द-लूप' दृष्टिकोण' शामिल होगा।\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-5"
+        },
+        {
+          "prompt": {
+            "en": "What is a key challenge for AI firm Anthropic to sustain its profitability, as highlighted in the excerpt?",
+            "hi": "जैसा कि अंश में बताया गया है, एआई फर्म एंथ्रोपिक के लिए अपनी लाभप्रदता बनाए रखने की प्रमुख चुनौती क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lack of skilled engineers",
+                "hi": "कुशल इंजीनियरों की कमी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Inability to secure its moat through valuation",
+                "hi": "मूल्यांकन के माध्यम से अपनी खाई को सुरक्षित करने में असमर्थता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sustaining its profitability after honouring its infra commitments",
+                "hi": "अपनी बुनियादी प्रतिबद्धताओं को पूरा करने के बाद अपनी लाभप्रदता को बनाए रखना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Building progressively more capable models",
+                "hi": "उत्तरोत्तर अधिक सक्षम मॉडलों का निर्माण"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that 'the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+            "hi": "अंश में कहा गया है कि 'एआई फर्म ने यह भी स्थापित नहीं किया है कि वह अपनी बुनियादी प्रतिबद्धताओं का सम्मान करने के बाद अपनी लाभप्रदता को बनाए रखने में सक्षम होगी।'\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-6"
+        },
+        {
+          "prompt": {
+            "en": "According to the article, what is essential for Anthropic's engineers to keep building?",
+            "hi": "लेख के अनुसार, एंथ्रोपिक के इंजीनियरों के लिए निर्माण जारी रखने के लिए क्या आवश्यक है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Progressively more capable models",
+                "hi": "उत्तरोत्तर अधिक सक्षम मॉडल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "New marketing strategies",
+                "hi": "नई मार्केटिंग रणनीतियाँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Financial partnerships",
+                "hi": "वित्तीय भागीदारी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Stronger investor relations",
+                "hi": "मजबूत निवेशक संबंध"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The text states, 'Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket'.\nSource: BBC News · https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
-            "hi": "टेक्स्ट में कहा गया है, 'वैभव सूर्यवंशी ने शीर्ष स्तर के पुरुष ट्वेंटी 20 क्रिकेट में सबसे कम उम्र के कप्तान के रूप में क्रोएशिया के ज़ैक वुकुसिक के रिकॉर्ड को तोड़ दिया।'\nस्रोत: BBC News · https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss"
+            "en": "The text explicitly states, 'Its engineers need to keep building progressively more capable models'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+            "hi": "पाठ में स्पष्ट रूप से कहा गया है, 'इसके इंजीनियरों को उत्तरोत्तर अधिक सक्षम मॉडल बनाते रहने की जरूरत है।'\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-11"
+          "id": "2026-11-16-7"
+        },
+        {
+          "prompt": {
+            "en": "What significant feat did SpaceX recently achieve with its Starship spacecraft?",
+            "hi": "स्पेसएक्स ने हाल ही में अपने स्टारशिप अंतरिक्ष यान के साथ कौन सी महत्वपूर्ण उपलब्धि हासिल की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "First successful orbital launch",
+                "hi": "पहला सफल कक्षीय प्रक्षेपण"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "First-ever spaceship ‘catch’",
+                "hi": "पहली बार अंतरिक्ष यान 'पकड़'"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Deployment of a new satellite constellation",
+                "hi": "एक नये उपग्रह समूह की तैनाती"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Successful Mars landing",
+                "hi": "सफल मंगल लैंडिंग"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states, 'SpaceX pulls off first-ever spaceship ‘catch’'.\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'स्पेसएक्स ने पहली बार अंतरिक्ष यान 'कैच' निकाला।'\nस्रोत: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-8"
+        },
+        {
+          "prompt": {
+            "en": "How was SpaceX's Starship captured after re-entering Earth's atmosphere?",
+            "hi": "पृथ्वी के वायुमंडल में पुनः प्रवेश करने के बाद स्पेसएक्स के स्टारशिप को कैसे कैप्चर किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It landed on a designated runway.",
+                "hi": "यह एक निर्धारित रनवे पर उतरा।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It splashed down in the ocean.",
+                "hi": "यह समुद्र में छिटककर गिर गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It slipped smoothly between mechanical “chopstick arms”.",
+                "hi": "यह यांत्रिक \"चॉपस्टिक आर्म्स\" के बीच आसानी से फिसल गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was caught by a net.",
+                "hi": "इसे जाल से पकड़ लिया गया।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt describes the Starship as 'slipping smoothly between mechanical “chopstick arms”' for its capture.\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+            "hi": "अंश में स्टारशिप को अपने कब्जे में लेने के लिए 'यांत्रिक \"चॉपस्टिक हथियारों\" के बीच आसानी से फिसलने' के रूप में वर्णित किया गया है।\nस्रोत: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-9"
+        },
+        {
+          "prompt": {
+            "en": "How long is it estimated before NASA's Voyager 1 spacecraft achieves a full light-year?",
+            "hi": "नासा के वोयाजर 1 अंतरिक्ष यान द्वारा पूर्ण प्रकाश वर्ष प्राप्त करने में कितना समय लगने का अनुमान है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Another 1,800 years",
+                "hi": "अन्य 1,800 वर्ष"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Another 18,000 years",
+                "hi": "अन्य 18,000 वर्ष"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Another 180,000 years",
+                "hi": "अन्य 180,000 वर्ष"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Another 180 years",
+                "hi": "अगले 180 साल"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states, 'NASA is looking at another 18,000 years before the spacecraft achieves a full light-year'.\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": "सूत्र का कहना है, 'अंतरिक्ष यान के पूर्ण प्रकाश वर्ष तक पहुंचने से पहले नासा अगले 18,000 वर्षों पर विचार कर रहा है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-10"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of participants receiving the experimental drug retatrutide experienced at least a 50% reduction in knee pain during trials?",
+            "hi": "प्रयोगात्मक दवा रेटाट्रूटाइड प्राप्त करने वाले प्रतिभागियों में से कितने प्रतिशत ने परीक्षण के दौरान घुटने के दर्द में कम से कम 50% की कमी का अनुभव किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "About one-third",
+                "hi": "लगभग एक तिहाई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "About half",
+                "hi": "लगभग आधा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "About two-thirds",
+                "hi": "लगभग दो-तिहाई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "About three-quarters",
+                "hi": "लगभग तीन-चौथाई"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The analysis found that 'about two-thirds of participants receiving the drug retatrutide experienced at least a 50% reduction in knee pain'.\nSource: https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+            "hi": "विश्लेषण में पाया गया कि 'रेटाट्रूटाइड दवा प्राप्त करने वाले लगभग दो-तिहाई प्रतिभागियों ने घुटने के दर्द में कम से कम 50% की कमी का अनुभव किया।'\nस्रोत: https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-11"
+        },
+        {
+          "prompt": {
+            "en": "What did a recent study in the Chennai Metro Rail reveal about microbes?",
+            "hi": "चेन्नई मेट्रो रेल में हाल ही में हुए एक अध्ययन से रोगाणुओं के बारे में क्या पता चला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A complete absence of microbes on surfaces",
+                "hi": "सतहों पर रोगाणुओं की पूर्ण अनुपस्थिति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Microbes were exclusively found in the air, not on surfaces",
+                "hi": "सूक्ष्मजीव विशेष रूप से हवा में पाए जाते थे, सतहों पर नहीं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Only pathogenic microbes were present",
+                "hi": "केवल रोगजनक रोगाणु ही मौजूद थे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A wide range of microbes found on high-touch surfaces",
+                "hi": "अत्यधिक स्पर्श वाली सतहों पर सूक्ष्मजीवों की एक विस्तृत श्रृंखला पाई गई"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The study 'showed a wide range of microbes found on high-touch surfaces' in the Chennai Metro Rail.\nSource: https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
+            "hi": "अध्ययन में चेन्नई मेट्रो रेल में 'उच्च-स्पर्श वाली सतहों पर पाए जाने वाले रोगाणुओं की एक विस्तृत श्रृंखला दिखाई गई'।\nस्रोत: https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-12"
+        },
+        {
+          "prompt": {
+            "en": "Which tech company recently experienced a day-long global outage affecting its services?",
+            "hi": "हाल ही में किस टेक कंपनी को एक दिन के वैश्विक आउटेज का सामना करना पड़ा जिससे उसकी सेवाएं प्रभावित हुईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Google",
+                "hi": "गूगल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Apple",
+                "hi": "सेब"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Microsoft",
+                "hi": "माइक्रोसॉफ्ट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Amazon",
+                "hi": "अमेज़न"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline explicitly states, 'Microsoft says services fully restored after day-long global outage'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'माइक्रोसॉफ्ट का कहना है कि दिन भर के वैश्विक आउटेज के बाद सेवाएं पूरी तरह से बहाल हो गईं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-13"
+        },
+        {
+          "prompt": {
+            "en": "What were some of the Microsoft services affected by the recent global outage?",
+            "hi": "हालिया वैश्विक आउटेज से Microsoft की कुछ सेवाएँ क्या प्रभावित हुईं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Windows, Xbox, and Bing",
+                "hi": "विंडोज़, एक्सबॉक्स और बिंग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Azure, OneDrive, and Edge",
+                "hi": "एज़्योर, वनड्राइव और एज"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Outlook, Teams and Copilot",
+                "hi": "आउटलुक, टीमें और सहपायलट"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Skype, SharePoint, and GitHub",
+                "hi": "स्काइप, शेयरपॉइंट और गिटहब"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions 'Outlook, Teams and Copilot' as the services affected by the outage.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में आउटेज से प्रभावित सेवाओं के रूप में 'आउटलुक, टीम्स और कोपायलट' का उल्लेख है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-14"
+        },
+        {
+          "prompt": {
+            "en": "Which planets are expected to align in the pre-dawn sky throughout November?",
+            "hi": "पूरे नवंबर में भोर से पहले आकाश में किन ग्रहों के संरेखित होने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Saturn, Uranus, Neptune, and Pluto",
+                "hi": "शनि, यूरेनस, नेपच्यून और प्लूटो"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mercury, Venus, Mars and Jupiter",
+                "hi": "बुध, शुक्र, मंगल और बृहस्पति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Earth, Moon, Sun, and Mars",
+                "hi": "पृथ्वी, चंद्रमा, सूर्य और मंगल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jupiter, Saturn, Uranus, and Neptune",
+                "hi": "बृहस्पति, शनि, यूरेनस और नेपच्यून"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The article states, 'The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November'.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+            "hi": "लेख में कहा गया है, 'बुध, शुक्र, मंगल और बृहस्पति ग्रह पूरे नवंबर में भोर से पहले आकाश में संरेखित होंगे।'\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-15"
+        },
+        {
+          "prompt": {
+            "en": "What method did SpaceX use to catch the Starship rocket stage mid-air?",
+            "hi": "स्पेसएक्स ने स्टारशिप रॉकेट चरण को मध्य हवा में पकड़ने के लिए किस विधि का उपयोग किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A large parachute system",
+                "hi": "एक बड़ी पैराशूट प्रणाली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A water landing system",
+                "hi": "एक जल अवतरण प्रणाली"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A magnetic levitation system",
+                "hi": "एक चुंबकीय उत्तोलन प्रणाली"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Huge mechanical arms nicknamed \"chopsticks\"",
+                "hi": "विशाल यांत्रिक हथियारों को उपनाम दिया गया \"चॉपस्टिक्स\""
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt specifies that 'The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश निर्दिष्ट करता है कि 'रॉकेट चरण को \"चॉपस्टिक्स\" उपनाम वाले विशाल यांत्रिक हथियारों का उपयोग करके मध्य हवा में पकड़ा गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-16"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of SpaceX's recent attempt to catch the Starship rocket stage?",
+            "hi": "स्पेसएक्स के स्टारशिप रॉकेट चरण को पकड़ने के हालिया प्रयास का परिणाम क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It failed to re-enter the atmosphere.",
+                "hi": "यह वातावरण में पुनः प्रवेश करने में विफल रहा।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It successfully catches top of huge Starship rocket for first time",
+                "hi": "इसने पहली बार सफलतापूर्वक विशाल स्टारशिप रॉकेट की चोटी पकड़ी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It successfully landed on a traditional launchpad.",
+                "hi": "यह पारंपरिक लॉन्चपैड पर सफलतापूर्वक उतरा।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It exploded upon re-entry.",
+                "hi": "दोबारा प्रवेश करने पर इसमें विस्फोट हो गया।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states, 'SpaceX successfully catches top of huge Starship rocket for first time'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'स्पेसएक्स ने पहली बार सफलतापूर्वक विशाल स्टारशिप रॉकेट की चोटी पकड़ी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-17"
+        },
+        {
+          "prompt": {
+            "en": "How does El Niño typically affect conditions further north in the US and Canada during winter?",
+            "hi": "सर्दियों के दौरान अल नीनो आमतौर पर अमेरिका और कनाडा के उत्तर में स्थितियों को कैसे प्रभावित करता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It brings more rain and colder conditions.",
+                "hi": "यह अधिक बारिश और ठंड की स्थिति लाता है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It brings drier, warmer conditions.",
+                "hi": "यह शुष्क, गर्म स्थितियाँ लाता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It leads to increased snowfall.",
+                "hi": "इससे बर्फबारी बढ़ जाती है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It has no discernible impact on weather conditions.",
+                "hi": "इसका मौसम की स्थिति पर कोई स्पष्ट प्रभाव नहीं पड़ता है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that El Niño winters bring 'drier, warmer conditions further north' in the US and Canada.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि अल नीनो सर्दियाँ अमेरिका और कनाडा में 'उत्तर की ओर शुष्क, गर्म स्थिति' लाती हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-18"
+        },
+        {
+          "prompt": {
+            "en": "What technology does President Zelensky urge the US and Elon Musk to lift restrictions on?",
+            "hi": "राष्ट्रपति ज़ेलेंस्की ने अमेरिका और एलन मस्क से किस तकनीक पर प्रतिबंध हटाने का आग्रह किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5G network infrastructure",
+                "hi": "5जी नेटवर्क इंफ्रास्ट्रक्चर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Advanced drone technology",
+                "hi": "उन्नत ड्रोन तकनीक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Starlink",
+                "hi": "स्टारलिंक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cybersecurity software",
+                "hi": "साइबर सुरक्षा सॉफ्टवेयर"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'Zelensky urges US and Musk to lift Starlink restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'ज़ेलेंस्की ने अमेरिका और मस्क से स्टारलिंक प्रतिबंध हटाने का आग्रह किया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-19"
+        },
+        {
+          "prompt": {
+            "en": "According to President Zelensky, what is the impact of Starlink restrictions on Ukraine?",
+            "hi": "राष्ट्रपति ज़ेलेंस्की के अनुसार स्टारलिंक प्रतिबंधों का यूक्रेन पर क्या प्रभाव पड़ेगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are enhancing Ukraine's defense capabilities.",
+                "hi": "वे यूक्रेन की रक्षा क्षमताओं को बढ़ा रहे हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They are making it difficult to stop Russian attacks.",
+                "hi": "वे रूसी हमलों को रोकना मुश्किल बना रहे हैं."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They are improving communication with allies.",
+                "hi": "वे सहयोगियों के साथ संचार में सुधार कर रहे हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are irrelevant to the ongoing conflict.",
+                "hi": "वे चल रहे संघर्ष के लिए अप्रासंगिक हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Zelensky states that 'restrictions are still in place and making it difficult to stop Russian attacks'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "hi": "ज़ेलेंस्की का कहना है कि 'प्रतिबंध अभी भी लागू हैं और रूसी हमलों को रोकना मुश्किल हो रहा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-20"
+        },
+        {
+          "prompt": {
+            "en": "What type of medical procedure was recently performed by a Hyderabad hospital in a single sitting?",
+            "hi": "हाल ही में हैदराबाद के एक अस्पताल द्वारा एक ही बैठक में किस प्रकार की चिकित्सा प्रक्रिया की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Brain tumor removal",
+                "hi": "ब्रेन ट्यूमर हटाना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Combined heart valve procedures",
+                "hi": "संयुक्त हृदय वाल्व प्रक्रियाएं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kidney transplant",
+                "hi": "किडनी प्रत्यारोपण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Spinal cord surgery",
+                "hi": "रीढ़ की हड्डी की सर्जरी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline explicitly states, 'Hyderabad hospital performs combined heart valve procedures in single sitting'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'हैदराबाद अस्पताल एक ही बार में संयुक्त हृदय वाल्व प्रक्रिया करता है।'\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece"
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-21"
         }
       ],
       "quarantined": [],
@@ -575,572 +1085,725 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-11-15T06:30:00+05:30"
+      "release_at": "2026-11-16T06:30:00+05:30"
     },
     {
       "title": "Economy, Business & Finance",
-      "source_filename": "daily-2026-11-15.json",
+      "source_filename": "daily-2026-11-16.json",
       "questions": [
         {
           "prompt": {
-            "en": "What is the primary concern raised regarding Anthropic's valuation?",
-            "hi": "एंथ्रोपिक के मूल्यांकन के संबंध में उठाई गई प्राथमिक चिंता क्या है?"
+            "en": "What is the primary reason for the recent surge in air purifier sales?",
+            "hi": "वायु शोधक की बिक्री में हालिया उछाल का प्राथमिक कारण क्या है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It cannot secure its competitive advantage ('moat').",
-                "hi": "यह अपने प्रतिस्पर्धात्मक लाभ ('मोट') को सुरक्षित नहीं कर सकता।"
+                "en": "Delhi-NCR AQI deteriorates",
+                "hi": "दिल्ली-एनसीआर का AQI बिगड़ा"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It is too low to attract top talent.",
-                "hi": "शीर्ष प्रतिभाओं को आकर्षित करने के लिए यह बहुत कम है।"
+                "en": "Increased marketing campaigns",
+                "hi": "विपणन अभियानों में वृद्धि"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It is inflated due to market speculation.",
-                "hi": "यह बाजार की अटकलों के कारण बढ़ा हुआ है।"
+                "en": "Seasonal discounts",
+                "hi": "मौसमी छूट"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It is not reflective of its current revenue.",
-                "hi": "यह उसके वर्तमान राजस्व को प्रतिबिंबित नहीं करता है।"
+                "en": "New product launches",
+                "hi": "नये उत्पाद लॉन्च"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The title directly states, 'Anthropic’s valuation can’t secure its moat', indicating that its valuation is insufficient to protect its competitive position.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-            "hi": "शीर्षक में सीधे तौर पर कहा गया है, 'एंथ्रोपिक का मूल्यांकन इसकी खाई को सुरक्षित नहीं कर सकता', यह दर्शाता है कि इसका मूल्यांकन इसकी प्रतिस्पर्धी स्थिति की रक्षा के लिए अपर्याप्त है।\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
+            "en": "The headline directly links the surge in sales to 'Delhi-NCR AQI deteriorates'.\nSource: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+            "hi": "शीर्षक सीधे तौर पर बिक्री में बढ़ोतरी को 'दिल्ली-NCR AQI बिगड़ने' से जोड़ता है।\nस्रोत: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "source_label": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-12"
+          "id": "2026-11-16-22"
         },
         {
           "prompt": {
-            "en": "What are the two key challenges highlighted for Anthropic to sustain its market position and profitability?",
-            "hi": "एंथ्रोपिक के लिए अपनी बाज़ार स्थिति और लाभप्रदता को बनाए रखने के लिए दो प्रमुख चुनौतियाँ क्या हैं?"
+            "en": "Beyond traditional metropolitan cities, where is the demand for air purifiers now spreading?",
+            "hi": "पारंपरिक महानगरीय शहरों से परे, अब वायु शोधक की मांग कहाँ फैल रही है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Expanding into new geographical markets and diversifying its product line.",
-                "hi": "नए भौगोलिक बाजारों में विस्तार करना और अपनी उत्पाद श्रृंखला में विविधता लाना।"
+                "en": "Only to rural areas",
+                "hi": "केवल ग्रामीण क्षेत्रों के लिए"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Reducing its operational costs and acquiring smaller AI startups.",
-                "hi": "अपनी परिचालन लागत को कम करना और छोटे एआई स्टार्टअप का अधिग्रहण करना।"
+                "en": "From other parts of the country, including Maharashtra, Karnataka, Tamil Nadu and Telangana",
+                "hi": "महाराष्ट्र, कर्नाटक, तमिलनाडु और तेलंगाना सहित देश के अन्य हिस्सों से"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Building more capable models and sustaining profitability after infrastructure commitments.",
-                "hi": "बुनियादी ढाँचे की प्रतिबद्धताओं के बाद अधिक सक्षम मॉडल बनाना और लाभप्रदता बनाए रखना।"
+                "en": "To smaller towns within metropolitan regions",
+                "hi": "महानगरीय क्षेत्रों के भीतर छोटे शहरों के लिए"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Securing government contracts and increasing its marketing budget.",
-                "hi": "सरकारी अनुबंधों को सुरक्षित करना और इसके विपणन बजट को बढ़ाना।"
+                "en": "Exclusively to international markets",
+                "hi": "विशेष रूप से अंतर्राष्ट्रीय बाज़ारों के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that demand is 'now witnessing demand from other parts of the country, including Maharashtra, Karnataka, Tamil Nadu and Telangana'.\nSource: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+            "hi": "अंश में कहा गया है कि 'अब महाराष्ट्र, कर्नाटक, तमिलनाडु और तेलंगाना सहित देश के अन्य हिस्सों से मांग देखी जा रही है।'\nस्रोत: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-23"
+        },
+        {
+          "prompt": {
+            "en": "What quarterly profit target has PNB set for its credit card and cash management verticals?",
+            "hi": "पीएनबी ने अपने क्रेडिट कार्ड और नकदी प्रबंधन क्षेत्रों के लिए कौन सा तिमाही लाभ लक्ष्य निर्धारित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹100 crore",
+                "hi": "₹100 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹200 crore",
+                "hi": "₹200 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹500 crore",
+                "hi": "₹500 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹1,000 crore",
+                "hi": "₹1,000 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline indicates that 'PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals'.\nSource: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+            "hi": "शीर्षक बताता है कि 'पीएनबी की नजर क्रेडिट कार्ड, नकदी प्रबंधन क्षेत्रों से प्रत्येक तिमाही में 200 करोड़ रुपये के लाभ पर है।'\nस्रोत: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-24"
+        },
+        {
+          "prompt": {
+            "en": "Which premium product has PNB recently launched, attracting over 27,000 customers?",
+            "hi": "पीएनबी ने हाल ही में कौन सा प्रीमियम उत्पाद लॉन्च किया है, जिसने 27,000 से अधिक ग्राहकों को आकर्षित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "PNB Platinum Debit Card",
+                "hi": "पीएनबी प्लैटिनम डेबिट कार्ड"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "PNB Gold Savings Account",
+                "hi": "पीएनबी गोल्ड सेविंग अकाउंट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "PNB Metal Credit Card Luxura",
+                "hi": "पीएनबी मेटल क्रेडिट कार्ड लक्ज़रा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "PNB Digital Wallet",
+                "hi": "पीएनबी डिजिटल वॉलेट"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The text states, 'Its engineers need to keep building progressively more capable models; the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-            "hi": "पाठ में कहा गया है, 'इसके इंजीनियरों को उत्तरोत्तर अधिक सक्षम मॉडल बनाते रहने की जरूरत है; एआई फर्म ने यह भी स्थापित नहीं किया है कि वह अपनी बुनियादी प्रतिबद्धताओं को पूरा करने के बाद अपनी लाभप्रदता को बनाए रखने में सक्षम होगी।'\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
+            "en": "The text states, 'The bank has also launched its premium PNB Metal Credit Card Luxura, which has attracted 27,140 customers so far'.\nSource: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+            "hi": "टेक्स्ट में कहा गया है, 'बैंक ने अपना प्रीमियम पीएनबी मेटल क्रेडिट कार्ड लक्ज़ुरा भी लॉन्च किया है, जिसने अब तक 27,140 ग्राहकों को आकर्षित किया है।'\nस्रोत: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "source_label": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-13"
+          "id": "2026-11-16-25"
         },
         {
           "prompt": {
-            "en": "What is the approximate value of the proposed Initial Public Offering (IPO) for Mahanadi Coalfields?",
-            "hi": "महानदी कोलफील्ड्स के लिए प्रस्तावित आरंभिक सार्वजनिक पेशकश (आईपीओ) का अनुमानित मूल्य क्या है?"
+            "en": "How much has Mahanagar Gas cumulatively increased CNG prices since May 14?",
+            "hi": "14 मई से महानगर गैस ने CNG की कीमतों में कुल कितनी वृद्धि की है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Nearly ₹5,000 crore",
-                "hi": "लगभग ₹5,000 करोड़"
+                "en": "₹1.5 per kg",
+                "hi": "₹1.5 प्रति किग्रा"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Nearly ₹9,500 crore",
-                "hi": "लगभग ₹9,500 करोड़"
+                "en": "₹5.0 per kg",
+                "hi": "₹5.0 प्रति किग्रा"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Nearly ₹7,500 crore",
-                "hi": "लगभग ₹7,500 करोड़"
+                "en": "₹15.0 per kg",
+                "hi": "₹15.0 प्रति किग्रा"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Over ₹10,000 crore",
-                "hi": "₹10,000 करोड़ से अधिक"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title clearly states, 'Mahanadi Coalfields files RHP for proposed IPO worth nearly ₹9,500 crore'.\nSource: https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'महानदी कोलफील्ड्स ने लगभग ₹9,500 करोड़ के प्रस्तावित आईपीओ के लिए आरएचपी फाइल की है।'\nस्रोत: https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-14"
-        },
-        {
-          "prompt": {
-            "en": "With which regulatory bodies and exchanges did Mahanadi Coalfields file its Red Herring Prospectus (RHP)?",
-            "hi": "महानदी कोलफील्ड्स ने किस नियामक निकाय और एक्सचेंज के साथ अपना रेड हेरिंग प्रॉस्पेक्टस (आरएचपी) दाखिल किया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Ministry of Finance and Reserve Bank of India",
-                "hi": "वित्त मंत्रालय और भारतीय रिजर्व बैंक"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Registrar of Companies, SEBI, BSE, and NSE",
-                "hi": "कंपनी रजिस्ट्रार, सेबी, बीएसई और एनएसई"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Competition Commission of India and National Stock Exchange",
-                "hi": "भारतीय प्रतिस्पर्धा आयोग और नेशनल स्टॉक एक्सचेंज"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Ministry of Corporate Affairs and Bombay Stock Exchange",
-                "hi": "कॉर्पोरेट मामलों का मंत्रालय और बॉम्बे स्टॉक एक्सचेंज"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The text specifies, 'The RHP... was filed with the Registrar of Companies, the Securities and Exchange Board of India, the BSE and the NSE'.\nSource: https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece",
-            "hi": "पाठ निर्दिष्ट करता है, 'आरएचपी... कंपनी रजिस्ट्रार, भारतीय प्रतिभूति और विनिमय बोर्ड, बीएसई और एनएसई के साथ दायर किया गया था।'\nस्रोत: https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-15"
-        },
-        {
-          "prompt": {
-            "en": "What was the percentage surge in apparel exports in October, and what was the primary reason cited?",
-            "hi": "अक्टूबर में परिधान निर्यात में कितने प्रतिशत की वृद्धि हुई और इसका प्राथमिक कारण क्या बताया गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "10% due to increased demand",
-                "hi": "बढ़ती मांग के कारण 10%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "20% on currency depreciation",
-                "hi": "मुद्रा अवमूल्यन पर 20%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "15% due to new trade agreements",
-                "hi": "नए व्यापार समझौतों के कारण 15%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "25% due to government incentives",
-                "hi": "25% सरकारी प्रोत्साहन के कारण"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title states, 'Apparel exports surge 20% in October on currency depreciation'.\nSource: https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece",
-            "hi": "शीर्षक में कहा गया है, 'मुद्रा में गिरावट के कारण अक्टूबर में परिधान निर्यात में 20% की बढ़ोतरी हुई।'\nस्रोत: https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-16"
-        },
-        {
-          "prompt": {
-            "en": "Despite a surge in value, what was the status of volume growth for apparel exports in October?",
-            "hi": "मूल्य में वृद्धि के बावजूद, अक्टूबर में परिधान निर्यात की मात्रा वृद्धि की स्थिति क्या थी?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It also surged significantly.",
-                "hi": "इसमें भी काफी उछाल आया."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It remained robust.",
-                "hi": "यह मजबूत बना रहा."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It declined sharply.",
-                "hi": "इसमें तेजी से गिरावट आई।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It remained subdued.",
-                "hi": "यह दबा रहा."
+                "en": "₹9.5 per kg",
+                "hi": "₹9.5 प्रति किग्रा"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The title indicates, 'Apparel exports surge 20% in October on currency depreciation, but volume growth remains subdued'.\nSource: https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece",
-            "hi": "शीर्षक इंगित करता है, 'मुद्रा में गिरावट के कारण अक्टूबर में परिधान निर्यात में 20% की वृद्धि हुई, लेकिन मात्रा में वृद्धि धीमी रही।'\nस्रोत: https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece"
+            "en": "The excerpt states, 'Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14'.\nSource: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+            "hi": "अंश में कहा गया है, '14 मई से छह चरणों में वाहन गैस की संचयी कीमतें ₹9.5 प्रति किलोग्राम बढ़ गई हैं।'\nस्रोत: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece",
+          "source_label": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-17"
+          "id": "2026-11-16-26"
         },
         {
           "prompt": {
-            "en": "What are LPG distributors primarily seeking amidst the push for Piped Natural Gas (PNG)?",
-            "hi": "पाइप्ड नेचुरल गैस (पीएनजी) पर जोर देने के बीच एलपीजी वितरक मुख्य रूप से क्या चाह रहे हैं?"
+            "en": "What was the recent per kg hike in CNG prices by Mahanagar Gas in Mumbai?",
+            "hi": "मुंबई में महानगर गैस द्वारा सीएनजी की कीमतों में हाल ही में प्रति किलोग्राम कितनी बढ़ोतरी हुई?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Government subsidies for LPG cylinders.",
-                "hi": "एलपीजी सिलेंडर पर सरकारी सब्सिडी।"
+                "en": "₹1.5/kg",
+                "hi": "₹1.5/किलो"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Higher commissions and flexibility on new connections.",
-                "hi": "नए कनेक्शन पर उच्च कमीशन और लचीलापन।"
+                "en": "₹1.0/kg",
+                "hi": "₹1.0/किलो"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Exclusive rights to distribute PNG.",
-                "hi": "पीएनजी वितरित करने के विशेष अधिकार।"
+                "en": "₹0.5/kg",
+                "hi": "₹0.5/किलो"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "A complete halt to PNG expansion.",
-                "hi": "पीएनजी विस्तार पर पूर्ण रोक।"
+                "en": "₹2.0/kg",
+                "hi": "₹2.0/किलो"
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The title states, 'LPG distributors seek higher commissions, flexibility on new connections amid PNG push'.\nSource: https://www.thehindu.com/business/Industry/lpg-distributors-seek-higher-commissions-flexibility-on-new-connections-amid-png-push/article71702560.ece",
-            "hi": "शीर्षक में कहा गया है, 'पीएनजी दबाव के बीच एलपीजी वितरक नए कनेक्शन पर अधिक कमीशन और लचीलापन चाहते हैं।'\nस्रोत: https://www.thehindu.com/business/Industry/lpg-distributors-seek-higher-commissions-flexibility-on-new-connections-amid-png-push/article71702560.ece"
+            "en": "The headline clearly states, 'Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg'.\nSource: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'महानगर गैस ने मुंबई में सीएनजी की कीमतों में ₹1.5/किग्रा की बढ़ोतरी की।'\nस्रोत: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/lpg-distributors-seek-higher-commissions-flexibility-on-new-connections-amid-png-push/article71702560.ece",
+          "source_label": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-18"
+          "id": "2026-11-16-27"
         },
         {
           "prompt": {
-            "en": "What is causing concern in India's iron ore sector, especially in the context of the 2047 target?",
-            "hi": "भारत के लौह अयस्क क्षेत्र में चिंता का कारण क्या है, विशेषकर 2047 लक्ष्य के संदर्भ में?"
+            "en": "What was the net investment made by Foreign Portfolio Investors (FPIs) in Indian equities during November 2-13?",
+            "hi": "2-13 नवंबर के दौरान विदेशी पोर्टफोलियो निवेशकों (FPI) द्वारा भारतीय इक्विटी में किया गया शुद्ध निवेश कितना था?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Over-production of iron ore.",
-                "hi": "लौह अयस्क का अत्यधिक उत्पादन।"
+                "en": "₹84,290 crore",
+                "hi": "₹84,290 करोड़"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Lack of demand for iron ore.",
-                "hi": "लौह अयस्क की मांग में कमी."
+                "en": "₹42,145 crore",
+                "hi": "₹42,145 करोड़"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Under-utilisation of iron ore capacity.",
-                "hi": "लौह अयस्क क्षमता का कम उपयोग।"
+                "en": "₹126,435 crore",
+                "hi": "₹126,435 करोड़"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Environmental regulations on iron ore mining.",
-                "hi": "लौह अयस्क खनन पर पर्यावरण नियम।"
+                "en": "₹168,580 crore",
+                "hi": "₹168,580 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The data shows FPIs 'made a net investment of ₹84,290 crore in Indian equities during November 2-13'.\nSource: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+            "hi": "आंकड़ों से पता चलता है कि एफपीआई ने '2-13 नवंबर के दौरान भारतीय इक्विटी में ₹84,290 करोड़ का शुद्ध निवेश किया।'\nस्रोत: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-28"
+        },
+        {
+          "prompt": {
+            "en": "Over how many trading sessions did FPIs make a net investment of ₹84,290 crore in Indian equities in early November?",
+            "hi": "नवंबर की शुरुआत में FPI ने कितने कारोबारी सत्रों में भारतीय इक्विटी में ₹84,290 करोड़ का शुद्ध निवेश किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nine trading sessions",
+                "hi": "नौ व्यापारिक सत्र"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Seven trading sessions",
+                "hi": "सात व्यापारिक सत्र"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Eleven trading sessions",
+                "hi": "ग्यारह व्यापारिक सत्र"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Thirteen trading sessions",
+                "hi": "तेरह व्यापारिक सत्र"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt specifies that the investment was made 'covering nine trading sessions'.\nSource: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+            "hi": "अंश निर्दिष्ट करता है कि निवेश 'नौ व्यापारिक सत्रों को कवर करते हुए' किया गया था।\nस्रोत: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-29"
+        },
+        {
+          "prompt": {
+            "en": "What concern has the Nvidia scandal raised regarding advanced AI chips?",
+            "hi": "उन्नत एआई चिप्स के संबंध में एनवीडिया घोटाले ने क्या चिंता पैदा की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Their environmental impact",
+                "hi": "उनका पर्यावरणीय प्रभाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Their limited processing power",
+                "hi": "उनकी सीमित प्रसंस्करण शक्ति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Their high manufacturing cost",
+                "hi": "उनकी उच्च विनिर्माण लागत"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Whether advanced AI chips ended up in China, despite US restrictions",
+                "hi": "क्या अमेरिकी प्रतिबंधों के बावजूद उन्नत AI चिप्स चीन में समाप्त हो गए"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'एनवीडिया घोटाले ने इस बात पर सवाल उठाया है कि क्या अमेरिकी प्रतिबंधों के बावजूद उन्नत एआई चिप्स चीन में समाप्त हो गए।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-30"
+        },
+        {
+          "prompt": {
+            "en": "Despite US restrictions, what is the concern regarding advanced AI chips mentioned in the Nvidia scandal?",
+            "hi": "अमेरिकी प्रतिबंधों के बावजूद, एनवीडिया घोटाले में उल्लिखित उन्नत एआई चिप्स के बारे में चिंता क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Their overproduction",
+                "hi": "उनका अतिउत्पादन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Their use in domestic consumer electronics",
+                "hi": "घरेलू उपभोक्ता इलेक्ट्रॉनिक्स में उनका उपयोग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Whether advanced AI chips ended up in China",
+                "hi": "क्या उन्नत AI चिप्स चीन में समाप्त हो गए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Their impact on global supply chains",
+                "hi": "वैश्विक आपूर्ति श्रृंखलाओं पर उनका प्रभाव"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The title highlights, 'Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target'.\nSource: https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece",
-            "hi": "शीर्षक पर प्रकाश डाला गया है, 'प्रमुख उत्पादक राज्यों में लौह अयस्क क्षमता का कम उपयोग चिंता का विषय है क्योंकि भारत ने 2047 का लक्ष्य निर्धारित किया है।'\nस्रोत: https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece"
+            "en": "The excerpt highlights the concern 'whether advanced AI chips ended up in China, despite US restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश इस चिंता पर प्रकाश डालता है कि 'क्या अमेरिकी प्रतिबंधों के बावजूद उन्नत एआई चिप्स चीन में समाप्त हो गए।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-19"
+          "id": "2026-11-16-31"
         },
         {
           "prompt": {
-            "en": "What specific type of iron ore is predominantly affected by the underutilised capacity, making the situation particularly significant?",
-            "hi": "किस विशिष्ट प्रकार का लौह अयस्क मुख्य रूप से कम उपयोग की गई क्षमता से प्रभावित होता है, जिससे स्थिति विशेष रूप से महत्वपूर्ण हो जाती है?"
+            "en": "What has the Jensen Huang scandal cast a spotlight on regarding Singapore?",
+            "hi": "जेन्सेन हुआंग घोटाले ने सिंगापुर के संबंध में किस बात पर प्रकाश डाला है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Hematite, the highest-grade variety.",
-                "hi": "हेमेटाइट, उच्चतम श्रेणी की किस्म।"
+                "en": "Singapore's success as a chip hub - and a location for alleged illicit trade",
+                "hi": "चिप हब के रूप में सिंगापुर की सफलता - और कथित अवैध व्यापार का स्थान"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Limonite, a common variety.",
-                "hi": "लिमोनाइट, एक सामान्य किस्म।"
+                "en": "Its burgeoning tourism industry",
+                "hi": "इसका उभरता हुआ पर्यटन उद्योग"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Siderite, a carbonate ore.",
-                "hi": "साइडराइट, एक कार्बोनेट अयस्क।"
+                "en": "Its advancements in renewable energy",
+                "hi": "नवीकरणीय ऊर्जा में इसकी प्रगति"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Magnetite, a low-grade variety.",
-                "hi": "मैग्नेटाइट, एक निम्न श्रेणी की किस्म।"
+                "en": "Its efforts in space exploration",
+                "hi": "अंतरिक्ष अन्वेषण में इसके प्रयास"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The text specifies, 'The underutilised capacity is particularly significant as it largely involves hematite, the highest-grade variety of iron ore'.\nSource: https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece",
-            "hi": "पाठ निर्दिष्ट करता है, 'कम उपयोग की गई क्षमता विशेष रूप से महत्वपूर्ण है क्योंकि इसमें बड़े पैमाने पर हेमेटाइट शामिल है, जो लौह अयस्क की उच्चतम श्रेणी की किस्म है।'\nस्रोत: https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece"
+            "en": "The text states, 'The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में कहा गया है, 'इस घोटाले ने चिप हब के रूप में सिंगापुर की सफलता और कथित अवैध व्यापार के स्थान पर प्रकाश डाला है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-20"
+          "id": "2026-11-16-32"
         },
         {
           "prompt": {
-            "en": "Who is facing growing pressure in the fallout from the Nvidia scandal?",
-            "hi": "एनवीडिया घोटाले के नतीजे में बढ़ते दबाव का सामना कौन कर रहा है?"
+            "en": "What role does Singapore play in the context of the Jensen Huang scandal, besides being a chip hub?",
+            "hi": "चिप हब होने के अलावा, जेन्सेन हुआंग घोटाले के संदर्भ में सिंगापुर की क्या भूमिका है?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Nvidia's CEO",
-                "hi": "एनवीडिया के सीईओ"
+                "en": "A location for alleged illicit trade",
+                "hi": "कथित अवैध व्यापार के लिए एक स्थान"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Trump's Commerce Secretary Lutnick",
-                "hi": "ट्रम्प के वाणिज्य सचिव लुटनिक"
+                "en": "A center for AI research",
+                "hi": "एआई अनुसंधान के लिए एक केंद्र"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The White House Chief of Staff",
-                "hi": "व्हाइट हाउस चीफ ऑफ स्टाफ"
+                "en": "A major consumer market for chips",
+                "hi": "चिप्स के लिए एक प्रमुख उपभोक्ता बाज़ार"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The US Secretary of State",
-                "hi": "अमेरिकी विदेश मंत्री"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title clearly states, 'Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'एनवीडिया घोटाले के बाद ट्रम्प के वाणिज्य सचिव लुटनिक पर दबाव बढ़ गया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-21"
-        },
-        {
-          "prompt": {
-            "en": "According to Scott Bessent, what action were several government agencies in favor of regarding 'Megaspeed'?",
-            "hi": "स्कॉट बेसेंट के अनुसार, 'मेगास्पीड' के संबंध में कई सरकारी एजेंसियां किस कार्रवाई के पक्ष में थीं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Putting Megaspeed on the entity list.",
-                "hi": "मेगास्पीड को इकाई सूची में डालना।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Providing Megaspeed with government contracts.",
-                "hi": "सरकारी अनुबंधों के साथ मेगास्पीड प्रदान करना।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Investing in Megaspeed's technology.",
-                "hi": "मेगास्पीड की तकनीक में निवेश।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Forming a partnership with Megaspeed.",
-                "hi": "मेगास्पीड के साथ साझेदारी बनाना।"
+                "en": "A primary manufacturer of chip components",
+                "hi": "चिप घटकों का एक प्राथमिक निर्माता"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The text quotes Scott Bessent saying that several government agencies 'were in favour of putting Megaspeed on the entity list for months'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में स्कॉट बेसेंट को यह कहते हुए उद्धृत किया गया है कि कई सरकारी एजेंसियां 'महीनों से मेगास्पीड को इकाई सूची में डालने के पक्ष में थीं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+            "en": "The scandal has highlighted Singapore as 'a location for alleged illicit trade'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+            "hi": "इस घोटाले ने सिंगापुर को 'कथित अवैध व्यापार के लिए एक स्थान' के रूप में उजागर किया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-15-22"
+          "id": "2026-11-16-33"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective of SEBI's upcoming AI usage guidelines for capital markets?",
+            "hi": "पूंजी बाजार के लिए सेबी के आगामी एआई उपयोग दिशानिर्देशों का प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To promote rapid AI adoption without regulation",
+                "hi": "विनियमन के बिना तेजी से एआई अपनाने को बढ़ावा देना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To mandate AI use for all market participants",
+                "hi": "सभी बाजार सहभागियों के लिए एआई का उपयोग अनिवार्य करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To restrict all AI use in financial services",
+                "hi": "वित्तीय सेवाओं में सभी एआई उपयोग को प्रतिबंधित करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To focus on investor protection",
+                "hi": "निवेशक सुरक्षा पर ध्यान केंद्रित करना"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline explicitly states that the guidelines will 'focus on investor protection'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि दिशानिर्देश 'निवेशक सुरक्षा पर ध्यान केंद्रित' करेंगे।\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-34"
+        },
+        {
+          "prompt": {
+            "en": "What is the main concern raised about Anthropic's valuation?",
+            "hi": "एंथ्रोपिक के मूल्यांकन के बारे में मुख्य चिंता क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is too low to attract investors.",
+                "hi": "निवेशकों को आकर्षित करने के लिए यह बहुत कम है."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is based on outdated technology.",
+                "hi": "यह पुरानी तकनीक पर आधारित है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It can’t secure its moat.",
+                "hi": "यह अपनी खाई को सुरक्षित नहीं रख सकता।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is not publicly disclosed.",
+                "hi": "इसका सार्वजनिक तौर पर खुलासा नहीं किया गया है."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline directly states, 'Anthropic’s valuation can’t secure its moat'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+            "hi": "शीर्षक में सीधे तौर पर कहा गया है, 'एंथ्रोपिक का मूल्यांकन इसकी खाई को सुरक्षित नहीं कर सकता।'\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-35"
         }
       ],
       "quarantined": [],
@@ -1148,1227 +1811,99 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-11-15T13:00:00+05:30"
-    },
-    {
-      "title": "Science, Environment & World Affairs",
-      "source_filename": "daily-2026-11-15.json",
-      "questions": [
-        {
-          "prompt": {
-            "en": "Which Indian state is bracing for another cyclonic storm after experiencing 'Arnab' and 'Murasu'?",
-            "hi": "'अर्नब' और 'मुरासु' का अनुभव करने के बाद कौन सा भारतीय राज्य एक और चक्रवाती तूफान के लिए तैयार है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Andhra Pradesh",
-                "hi": "आंध्र प्रदेश"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Tamil Nadu",
-                "hi": "तमिलनाडु"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Odisha",
-                "hi": "ओडिशा"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "West Bengal",
-                "hi": "पश्चिम बंगाल"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title clearly states, 'After Arnab and Murasu, Andhra Pradesh braces for another cyclonic storm'.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'अर्नब और मुरासु के बाद, आंध्र प्रदेश एक और चक्रवाती तूफान के लिए तैयार है।'\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-23"
-        },
-        {
-          "prompt": {
-            "en": "According to the IMD, when is the cyclonic storm expected to make landfall in North Coastal Andhra Pradesh?",
-            "hi": "आईएमडी के अनुसार, उत्तरी तटीय आंध्र प्रदेश में चक्रवाती तूफान के कब आने की उम्मीद है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "November 18 morning",
-                "hi": "18 नवंबर की सुबह"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "November 22 evening",
-                "hi": "22 नवंबर की शाम"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "November 21 afternoon",
-                "hi": "21 नवंबर की दोपहर"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "November 19 night or November 20 early hours",
-                "hi": "19 नवंबर की रात या 20 नवंबर की सुबह"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The text specifies, 'Cyclone may make landfall along the North Coastal Andhra Pradesh either on the night of November 19 or in the early hours of November 20, says IMD'.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
-            "hi": "पाठ निर्दिष्ट करता है, 'आईएमडी का कहना है कि चक्रवात 19 नवंबर की रात या 20 नवंबर के शुरुआती घंटों में उत्तरी तटीय आंध्र प्रदेश में भूस्खलन कर सकता है।'\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-24"
-        },
-        {
-          "prompt": {
-            "en": "Researchers from VIT-A.P. have demonstrated a new low-cost technology for disease screening. What type of technology is it?",
-            "hi": "वीआईटी-ए.पी. के शोधकर्ता रोग जांच के लिए एक नई कम लागत वाली तकनीक का प्रदर्शन किया है। यह किस प्रकार की तकनीक है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Acoustic technology",
-                "hi": "ध्वनिक प्रौद्योगिकी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Radiographic technology",
-                "hi": "रेडियोग्राफिक तकनीक"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Ultrasonic technology",
-                "hi": "अल्ट्रासोनिक तकनीक"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Photonic technology",
-                "hi": "फोटोनिक तकनीक"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The title states, 'VIT-A.P. researchers demonstrate low-cost photonic tech for non-invasive disease screening'.\nSource: https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-researchers-demonstrate-low-cost-photonic-tech-for-non-invasive-disease-screening/article71702367.ece",
-            "hi": "शीर्षक में कहा गया है, 'VIT-A.P. शोधकर्ताओं ने गैर-आक्रामक रोग जांच के लिए कम लागत वाली फोटोनिक तकनीक का प्रदर्शन किया।\nस्रोत: https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-researchers-demonstrate-low-cost-photonic-tech-for-non-invasive-disease-screening/article71702367.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-researchers-demonstrate-low-cost-photonic-tech-for-non-invasive-disease-screening/article71702367.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-25"
-        },
-        {
-          "prompt": {
-            "en": "What was the primary objective of SpaceX's 15th Starship flight?",
-            "hi": "स्पेसएक्स की 15वीं स्टारशिप उड़ान का प्राथमिक उद्देश्य क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Deploying a new satellite constellation.",
-                "hi": "एक नये उपग्रह समूह की तैनाती।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Testing a new engine design.",
-                "hi": "एक नए इंजन डिज़ाइन का परीक्षण।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Achieving its first round trip.",
-                "hi": "अपनी पहली दौर की यात्रा हासिल करना।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Transporting crew to the ISS.",
-                "hi": "चालक दल को आईएसएस तक पहुंचाना।"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title indicates, 'SpaceX launches 15th Starship flight with hopes of achieving first round trip'.\nSource: https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
-            "hi": "शीर्षक इंगित करता है, 'स्पेसएक्स ने पहले दौर की यात्रा हासिल करने की उम्मीद के साथ 15वीं स्टारशिप उड़ान शुरू की।'\nस्रोत: https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-26"
-        },
-        {
-          "prompt": {
-            "en": "What was the fate of the Super Heavy booster during SpaceX's 15th Starship flight?",
-            "hi": "स्पेसएक्स की 15वीं स्टारशिप उड़ान के दौरान सुपर हेवी बूस्टर का भाग्य क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It was diverted and exploded over the Gulf of Mexico.",
-                "hi": "इसे मोड़ दिया गया और मेक्सिको की खाड़ी के ऊपर विस्फोट हो गया।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It successfully landed back at the launch site.",
-                "hi": "यह सफलतापूर्वक प्रक्षेपण स्थल पर वापस उतरा।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It made a soft splashdown in the Atlantic Ocean.",
-                "hi": "इसने अटलांटिक महासागर में हल्की बौछार की।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It was recovered by a specialized vessel.",
-                "hi": "इसे एक विशेष जहाज द्वारा बरामद किया गया।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The text states, 'the Super Heavy booster was diverted from its return flight path to a fixed point over the Gulf of Mexico before exploding a short distance ‌over the sea surface'.\nSource: https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
-            "hi": "पाठ में कहा गया है, 'सुपर हेवी बूस्टर को समुद्र की सतह पर थोड़ी दूरी पर विस्फोट करने से पहले अपने वापसी उड़ान पथ से मैक्सिको की खाड़ी के ऊपर एक निश्चित बिंदु पर मोड़ दिया गया था।'\nस्रोत: https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-27"
-        },
-        {
-          "prompt": {
-            "en": "What is SpaceX attempting with its Starship rocket, following an unsuccessful effort?",
-            "hi": "एक असफल प्रयास के बाद, स्पेसएक्स अपने स्टारशिप रॉकेट के साथ क्या प्रयास कर रहा है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A second catch attempt.",
-                "hi": "कैच का दूसरा प्रयास."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A second orbital insertion.",
-                "hi": "दूसरा कक्षीय सम्मिलन."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A second stage separation.",
-                "hi": "दूसरे चरण का अलगाव."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A second test of its heat shield.",
-                "hi": "इसके हीट शील्ड का दूसरा परीक्षण।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title clearly states, 'Second catch attempt for SpaceX Starship rocket'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'स्पेसएक्स स्टारशिप रॉकेट को पकड़ने का दूसरा प्रयास'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-28"
-        },
-        {
-          "prompt": {
-            "en": "What was the outcome of the previous attempt to catch the Starship rocket's booster?",
-            "hi": "स्टारशिप रॉकेट के बूस्टर को पकड़ने के पिछले प्रयास का परिणाम क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It came down in the ocean.",
-                "hi": "वह समुद्र में उतर आया."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It landed safely on a designated pad.",
-                "hi": "यह एक निर्दिष्ट पैड पर सुरक्षित रूप से उतरा।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It was successfully caught.",
-                "hi": "इसे सफलतापूर्वक पकड़ लिया गया."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It exploded mid-air.",
-                "hi": "यह हवा में ही फट गया।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The text mentions, 'The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में उल्लेख किया गया है, 'यह प्रयास रॉकेट के बूस्टर को पकड़ने के असफल प्रयास का अनुसरण करता है जो समुद्र में गिर गया।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-29"
-        },
-        {
-          "prompt": {
-            "en": "What virus was recently confirmed on a farm in County Down?",
-            "hi": "हाल ही में काउंटी डाउन के एक फार्म में किस वायरस की पुष्टि हुई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Foot-and-mouth disease",
-                "hi": "खुरपका-मुँहपका रोग"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Bluetongue virus",
-                "hi": "ब्लूटंग वायरस"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Swine flu",
-                "hi": "स्वाइन फ्लू"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Avian influenza",
-                "hi": "एवियन इन्फ्लूएंजा"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title clearly states, 'Bluetongue virus confirmed on County Down farm'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'काउंटी डाउन फ़ार्म पर ब्लूटंग वायरस की पुष्टि हुई।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-30"
-        },
-        {
-          "prompt": {
-            "en": "In which animals was the Bluetongue virus detected on the County Down farm?",
-            "hi": "काउंटी डाउन फ़ार्म में ब्लूटंग वायरस किन जानवरों में पाया गया था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Cattle",
-                "hi": "मवेशी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Pigs",
-                "hi": "सूअर"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Sheep",
-                "hi": "भेड़"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Chickens",
-                "hi": "मुर्गियाँ"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The text specifies, 'Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ निर्दिष्ट करता है, 'कृषि, पर्यावरण और ग्रामीण मामलों के विभाग के अधिकारियों ने कहा कि वायरस तीन भेड़ों में पाया गया था।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-31"
-        },
-        {
-          "prompt": {
-            "en": "What impact did the summer heatwave have on bin crews, according to a council worker?",
-            "hi": "एक परिषद कार्यकर्ता के अनुसार, गर्मी की लू का बिन कर्मचारियों पर क्या प्रभाव पड़ा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It improved their working conditions.",
-                "hi": "इससे उनकी कामकाजी परिस्थितियों में सुधार हुआ।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It had no significant impact.",
-                "hi": "इसका कोई खास असर नहीं हुआ."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It put their lives at risk.",
-                "hi": "इससे उनकी जान जोखिम में पड़ गई."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It led to increased efficiency.",
-                "hi": "इससे कार्यक्षमता में वृद्धि हुई।"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title states, 'Summer heatwave put bin crews lives at risk, says council worker'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में कहा गया है, 'काउंसिल वर्कर का कहना है कि गर्मी की लू ने बिन क्रू की जान जोखिम में डाल दी है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-32"
-        },
-        {
-          "prompt": {
-            "en": "How many sewage spills were recorded at previously unmonitored overflow sites by Scottish Water, according to BBC Scotland News analysis?",
-            "hi": "बीबीसी स्कॉटलैंड समाचार विश्लेषण के अनुसार, स्कॉटिश वाटर द्वारा पहले से निगरानी न किए गए अतिप्रवाह स्थलों पर कितने सीवेज रिसाव दर्ज किए गए थे?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Less than 50,000",
-                "hi": "50,000 से कम"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Exactly 76,000",
-                "hi": "बिल्कुल 76,000"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "More than 76,000",
-                "hi": "76,000 से अधिक"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Around 100,000",
-                "hi": "लगभग 100,000"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The text states, 'More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में कहा गया है, '76,000 से अधिक सीवेज रिसाव अतिप्रवाह स्थलों पर दर्ज किए गए थे, जिनकी पहले स्कॉटिश वाटर द्वारा निगरानी नहीं की गई थी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-33"
-        },
-        {
-          "prompt": {
-            "en": "What did the US transport secretary identify as the cause of a nationwide flight suspension?",
-            "hi": "अमेरिकी परिवहन सचिव ने राष्ट्रव्यापी उड़ान निलंबन का कारण क्या बताया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A cyber-attack on air traffic control.",
-                "hi": "हवाई यातायात नियंत्रण पर साइबर हमला।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A major software glitch.",
-                "hi": "एक बड़ी सॉफ्टवेयर गड़बड़ी."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Severe weather conditions.",
-                "hi": "गंभीर मौसम की स्थिति."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A copper wire upgrade.",
-                "hi": "तांबे के तार का उन्नयन."
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The title states, 'Copper wire upgrade caused nationwide flight suspension, US transport secretary says'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में कहा गया है, 'कॉपर वायर अपग्रेड के कारण राष्ट्रव्यापी उड़ान निलंबित हो गई, अमेरिकी परिवहन सचिव का कहना है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-34"
-        },
-        {
-          "prompt": {
-            "en": "What did US officials state was the cause of the recent nationwide flight disruption, ruling out a cyber-attack?",
-            "hi": "अमेरिकी अधिकारियों ने साइबर हमले से इंकार करते हुए हाल ही में राष्ट्रव्यापी उड़ान व्यवधान का कारण क्या बताया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Human error during system maintenance.",
-                "hi": "सिस्टम रखरखाव के दौरान मानवीय त्रुटि।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A new software deployment failure.",
-                "hi": "एक नया सॉफ़्टवेयर परिनियोजन विफलता."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A power grid failure affecting air traffic control.",
-                "hi": "पावर ग्रिड की विफलता से हवाई यातायात नियंत्रण प्रभावित हो रहा है।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Old equipment overloading.",
-                "hi": "पुराने उपकरण ओवरलोड हो रहे हैं।"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The text clarifies, 'US officials say the disruption was caused by old equipment overloading and not a cyber-attack'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ स्पष्ट करता है, 'अमेरिकी अधिकारियों का कहना है कि व्यवधान पुराने उपकरणों के ओवरलोडिंग के कारण हुआ था, न कि साइबर हमले के कारण।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-35"
-        },
-        {
-          "prompt": {
-            "en": "According to President Zelensky, what condition has the US floated for Ukraine to gain Nato membership?",
-            "hi": "राष्ट्रपति ज़ेलेंस्की के अनुसार, नाटो की सदस्यता हासिल करने के लिए अमेरिका ने यूक्रेन के लिए क्या शर्त रखी है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Demilitarization of its western borders.",
-                "hi": "इसकी पश्चिमी सीमाओं का विसैन्यीकरण।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Holding a nationwide referendum.",
-                "hi": "राष्ट्रव्यापी जनमत संग्रह कराना।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Ceding Donbas territory.",
-                "hi": "डोनबास क्षेत्र को सौंपना।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Adopting a neutral foreign policy.",
-                "hi": "तटस्थ विदेश नीति अपनाना।"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title states, 'US has floated Ukraine ceding Donbas for Nato membership, Zelensky says'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में कहा गया है, 'जेलेंस्की का कहना है, 'अमेरिका ने नाटो की सदस्यता के लिए डोनबास को सौंपते हुए यूक्रेन को शामिल कर लिया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-36"
-        },
-        {
-          "prompt": {
-            "en": "How did US envoys present the proposal of Ukraine ceding Donbas for Nato membership?",
-            "hi": "अमेरिकी दूतों ने यूक्रेन द्वारा डोनबास को नाटो की सदस्यता सौंपने का प्रस्ताव कैसे प्रस्तुत किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "As a punitive measure against Russia.",
-                "hi": "रूस के विरुद्ध दंडात्मक उपाय के रूप में।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "As part of efforts to end the war with Russia.",
-                "hi": "रूस के साथ युद्ध समाप्त करने के प्रयासों के तहत।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "As a way to strengthen Ukraine's economy.",
-                "hi": "यूक्रेन की अर्थव्यवस्था को मजबूत करने के एक तरीके के रूप में।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "As a temporary solution to the conflict.",
-                "hi": "संघर्ष के अस्थायी समाधान के रूप में."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The text mentions, 'US envoys touted the exchange as part of efforts to end the war with Russia'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में उल्लेख है, 'अमेरिकी दूतों ने इस आदान-प्रदान को रूस के साथ युद्ध समाप्त करने के प्रयासों का हिस्सा बताया।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-37"
-        },
-        {
-          "prompt": {
-            "en": "For what reason did Italy fine Meta €805 million?",
-            "hi": "किस कारण से इटली ने मेटा पर €805 मिलियन का जुर्माना लगाया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Accessing users' photos without proper consent.",
-                "hi": "उचित सहमति के बिना उपयोगकर्ताओं की फ़ोटो तक पहुँचना।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Failure to comply with data localization laws.",
-                "hi": "डेटा स्थानीयकरण कानूनों का अनुपालन करने में विफलता।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Monopolistic practices in the social media market.",
-                "hi": "सोशल मीडिया बाज़ार में एकाधिकारवादी प्रथाएँ।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Spreading misinformation during elections.",
-                "hi": "चुनाव के दौरान गलत सूचना फैलाना।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title clearly states, 'Italy fines Meta €805m over accessing users' photos'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'इटली ने उपयोगकर्ताओं की तस्वीरों तक पहुंचने पर मेटा पर €805m का जुर्माना लगाया।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-38"
-        },
-        {
-          "prompt": {
-            "en": "How many users did Meta allegedly fail to inform about its access to their photos, leading to a fine in Italy?",
-            "hi": "मेटा ने कथित तौर पर कितने उपयोगकर्ताओं को उनकी तस्वीरों तक इसकी पहुंच के बारे में सूचित करने में विफल रहा, जिसके कारण इटली में जुर्माना लगाया गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "5 million",
-                "hi": "5 मिलियन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "10 million",
-                "hi": "10 करोड़"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "50 million",
-                "hi": "50 मिलियन"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "20 million",
-                "hi": "20 मिलियन"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The text specifies, 'The social media giant is accused of not informing 20 million users it had access to their photos'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ निर्दिष्ट करता है, 'सोशल मीडिया दिग्गज पर 20 मिलियन उपयोगकर्ताओं को सूचित नहीं करने का आरोप है कि उनकी तस्वीरों तक उसकी पहुंच थी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-39"
-        },
-        {
-          "prompt": {
-            "en": "Which country won the first Eurovision Song Contest Asia?",
-            "hi": "प्रथम यूरोविज़न सांग प्रतियोगिता एशिया किस देश ने जीती?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "South Korea",
-                "hi": "दक्षिण कोरिया"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Philippines",
-                "hi": "फिलीपींस"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Japan",
-                "hi": "जापान"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Australia",
-                "hi": "ऑस्ट्रेलिया"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title clearly states, 'Philippines wins first Eurovision Song Contest Asia'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'फिलीपींस ने एशिया का पहला यूरोविज़न सांग प्रतियोगिता जीता।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-40"
-        },
-        {
-          "prompt": {
-            "en": "What was the theme of Carmelle's winning song 'Sobra-Sobra' at the Eurovision Song Contest Asia?",
-            "hi": "यूरोविज़न सांग प्रतियोगिता एशिया में कार्मेल के विजेता गीत 'सोबरा-सोबरा' का विषय क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Environmental conservation",
-                "hi": "पर्यावरण संरक्षण"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Women's empowerment",
-                "hi": "महिला सशक्तिकरण"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "National pride",
-                "hi": "राष्ट्रीय गौरव"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Peace and unity",
-                "hi": "शांति और एकता"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The text mentions, 'Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में उल्लेख किया गया है, 'अग्रणी धावक कार्मेल अपने महिला सशक्तिकरण गीत सोबरा-सोबरा के साथ विजयी हुई हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-41"
-        },
-        {
-          "prompt": {
-            "en": "What is the primary reason for the challenge against Sotheby's auction of a $180m Van Gogh painting?",
-            "hi": "180 मिलियन डॉलर की वान गॉग पेंटिंग की सोथबी की नीलामी के ख़िलाफ़ चुनौती का प्राथमिक कारण क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Dispute over the painting's authenticity.",
-                "hi": "पेंटिंग की प्रामाणिकता पर विवाद."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Claims that it was 'sold under duress'.",
-                "hi": "दावा है कि इसे 'दबाव में बेचा गया'।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Allegations of price manipulation.",
-                "hi": "कीमतों में हेराफेरी का आरोप."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Unclear provenance of the artwork.",
-                "hi": "कलाकृति की अस्पष्ट उत्पत्ति."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title states, 'Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress''.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में कहा गया है, 'सोथबी की 180 मिलियन डॉलर की नीलामी को वान गॉग ने इस दावे पर चुनौती दी कि इसे 'दबाव में बेचा गया' था।''\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-42"
-        },
-        {
-          "prompt": {
-            "en": "With whom has Sotheby's stated it will work to resolve the challenge regarding the Van Gogh auction?",
-            "hi": "सोथबी ने किसके साथ मिलकर कहा है कि वह वान गाग नीलामी से संबंधित चुनौती को हल करने के लिए काम करेगा?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The heirs of a family who had previously owned the artwork.",
-                "hi": "एक परिवार के उत्तराधिकारी जिनके पास पहले कलाकृति का स्वामित्व था।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Government cultural ministries.",
-                "hi": "सरकारी सांस्कृतिक मंत्रालय।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The current buyer of the artwork.",
-                "hi": "कलाकृति का वर्तमान खरीदार."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Art historians and experts.",
-                "hi": "कला इतिहासकार और विशेषज्ञ।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The text mentions, 'Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में उल्लेख है, 'सोथबी का कहना है कि वह किसी समाधान तक पहुंचने की कोशिश करने के लिए उस परिवार के उत्तराधिकारियों के साथ काम करेगा, जिनके पास पहले कलाकृति का स्वामित्व था।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-15-43"
-        }
-      ],
-      "quarantined": [],
-      "warnings": [
-        "AI-generated from linked public news sources. Check important facts against the source."
-      ],
-      "release_wave": 3,
-      "release_at": "2026-11-15T18:00:00+05:30"
+      "release_at": "2026-11-16T13:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/scor-central-bank-of-india-ink-pact-to-extend-welfare-facilities-for-railway-staff/article71701919.ece",
-      "published": "2026-11-14T23:49:05+05:30"
+      "title": "Hyderabad hospital performs combined heart valve procedures in single sitting",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+      "published": "2026-11-16T00:29:37+05:30"
     },
     {
-      "title": "After Arnab and Murasu, Andhra Pradesh braces for another cyclonic storm",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
-      "published": "2026-11-14T23:45:49+05:30"
+      "title": "Air purifier sales surge as Delhi-NCR AQI deteriorates; demand spreads beyond traditional markets",
+      "url": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+      "published": "2026-11-15T16:09:04+05:30"
     },
     {
-      "title": "VIT-A.P. researchers demonstrate low-cost photonic tech for non-invasive disease screening",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-researchers-demonstrate-low-cost-photonic-tech-for-non-invasive-disease-screening/article71702367.ece",
-      "published": "2026-11-14T23:45:37+05:30"
+      "title": "PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals",
+      "url": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+      "published": "2026-11-15T12:41:34+05:30"
     },
     {
-      "title": "Police aspirant found dead, boyfriend and relatives arrested in Mahabubabad",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/police-aspirant-found-dead-boyfriend-and-relatives-arrested-in-mahabubabad/article71702836.ece",
-      "published": "2026-11-14T23:33:44+05:30"
+      "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection, says Chairman Tuhin Pandey",
+      "url": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+      "published": "2026-11-15T12:38:23+05:30"
     },
     {
-      "title": "IChE-HRC organises Dr. H. L. Roy memorial seminar",
-      "url": "https://www.thehindu.com/news/national/telangana/iche-hrc-organises-dr-h-l-roy-memorial-seminar/article71702851.ece",
-      "published": "2026-11-14T23:31:21+05:30"
+      "title": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
+      "url": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+      "published": "2026-11-15T12:29:38+05:30"
     },
     {
-      "title": "Gold theft: Four arrested in Wayanad",
-      "url": "https://www.thehindu.com/news/national/kerala/gold-theft-four-arrested-in-wayanad/article71702838.ece",
-      "published": "2026-11-14T23:21:32+05:30"
+      "title": "FPIs pump ₹84,290 crore into equities in first fortnight of November",
+      "url": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+      "published": "2026-11-15T12:02:39+05:30"
     },
     {
       "title": "Anthropic’s valuation can’t secure its moat",
       "url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-      "published": "2026-11-14T23:51:19+05:30"
+      "published": "2026-11-15T07:46:11+05:30"
     },
     {
-      "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly ₹9,500 crore",
-      "url": "https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece",
-      "published": "2026-11-14T22:40:49+05:30"
+      "title": "SpaceX pulls off first-ever spaceship ‘catch’",
+      "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+      "published": "2026-11-15T12:54:53+05:30"
     },
     {
-      "title": "TRAI crackdown on spam: Over 1.24 lakh mobile connections barred or disconnected in July-September",
-      "url": "https://www.thehindu.com/business/Industry/trai-crackdown-on-spam-over-124-lakh-mobile-connections-barred-or-disconnected-in-july-september/article71702690.ece",
-      "published": "2026-11-14T22:14:25+05:30"
+      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record",
+      "url": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+      "published": "2026-11-15T11:29:47+05:30"
     },
     {
-      "title": "Apparel exports surge 20% in October on currency depreciation, but volume growth remains subdued",
-      "url": "https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece",
-      "published": "2026-11-14T22:06:25+05:30"
+      "title": "Experimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials",
+      "url": "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+      "published": "2026-11-13T12:45:30+05:30"
     },
     {
-      "title": "LPG distributors seek higher commissions, flexibility on new connections amid PNG push",
-      "url": "https://www.thehindu.com/business/Industry/lpg-distributors-seek-higher-commissions-flexibility-on-new-connections-amid-png-push/article71702560.ece",
-      "published": "2026-11-14T21:56:08+05:30"
+      "title": "Swabbing public transport to identify urban microbiomes, a city’s microbial signature",
+      "url": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
+      "published": "2026-11-13T11:08:47+05:30"
     },
     {
-      "title": "Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target",
-      "url": "https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece",
-      "published": "2026-11-14T21:35:55+05:30"
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T14:56:21+00:00"
     },
     {
-      "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
-      "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
-      "published": "2026-11-14T09:47:31+05:30"
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:00:31+00:00"
     },
     {
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T23:11:51+00:00"
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:42:27+00:00"
     },
     {
-      "title": "Sooryavanshi becomes youngest captain in men's T20s",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T09:53:45+00:00"
+      "title": "How to spot November's planetary parade in the pre-dawn sky",
+      "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T10:49:57+00:00"
     },
     {
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T15:16:50+00:00"
-    },
-    {
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T19:53:57+00:00"
-    },
-    {
-      "title": "Second catch attempt for SpaceX Starship rocket",
+      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T14:18:41+00:00"
+      "published": "2026-11-14T22:15:52+00:00"
     },
     {
-      "title": "Bluetongue virus confirmed on County Down farm",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T06:56:58+00:00"
+      "title": "What could El Niño mean for winter weather in the US and Canada?",
+      "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T18:50:15+00:00"
     },
     {
-      "title": "Summer heatwave put bin crews lives at risk, says council worker",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T12:03:04+00:00"
-    },
-    {
-      "title": "How many sewage spills have happened in your part of Scotland?",
-      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T06:31:51+00:00"
-    },
-    {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T17:16:36+00:00"
-    },
-    {
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T14:20:57+00:00"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T15:15:57+00:00"
-    },
-    {
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:28:06+00:00"
-    },
-    {
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:17:58+00:00"
-    },
-    {
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:00:10+00:00"
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T18:08:20+00:00"
     }
   ]
 }
