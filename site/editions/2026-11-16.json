@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "date": "2026-11-16",
-  "generated_at": "2026-11-15T19:33:04.446059+00:00",
+  "generated_at": "2026-11-15T21:10:26.733396+00:00",
   "status": "ready",
   "sets": [
     {
@@ -1812,6 +1812,681 @@
       ],
       "release_wave": 2,
       "release_at": "2026-11-16T13:00:00+05:30"
+    },
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-16.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the primary claim made in the PIL filed in the High Court regarding Kodanad estate land?",
+            "hi": "कोडनाड एस्टेट भूमि के संबंध में उच्च न्यायालय में दायर जनहित याचिका में किया गया प्राथमिक दावा क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The private road should be closed permanently.",
+                "hi": "निजी रास्ते को स्थाई रूप से बंद किया जाए।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The state must acquire Kodanad estate land for converting a private road into a public road.",
+                "hi": "एक निजी सड़क को सार्वजनिक सड़क में बदलने के लिए राज्य को कोडनाड एस्टेट की भूमि का अधिग्रहण करना होगा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The private road should be maintained by the local residents.",
+                "hi": "निजी सड़क का रख-रखाव स्थानीय निवासियों द्वारा किया जाना चाहिए।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The private road should be restricted to estate workers only.",
+                "hi": "निजी सड़क केवल एस्टेट श्रमिकों तक ही सीमित होनी चाहिए।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline explicitly states the PIL's claim: 'State must acquire Kodanad estate land for converting a private road into a public road'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+            "hi": "शीर्षक में जनहित याचिका के दावे को स्पष्ट रूप से बताया गया है: 'राज्य को एक निजी सड़क को सार्वजनिक सड़क में बदलने के लिए कोडनाड एस्टेट भूमि का अधिग्रहण करना चाहिए।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-36"
+        },
+        {
+          "prompt": {
+            "en": "Why was the PIL filed concerning the Kodanad estate land, according to the local resident?",
+            "hi": "स्थानीय निवासी के अनुसार, कोडनाड एस्टेट भूमि के संबंध में जनहित याचिका क्यों दायर की गई थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To protest against illegal construction on the estate.",
+                "hi": "संपत्ति पर अवैध निर्माण के विरोध में."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To demand compensation for land acquisition.",
+                "hi": "भूमि अधिग्रहण के मुआवजे की मांग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Because of restrictions imposed on using the private road which was their only access to the outside world",
+                "hi": "निजी सड़क का उपयोग करने पर लगाए गए प्रतिबंधों के कारण, जो बाहरी दुनिया तक उनकी एकमात्र पहुंच थी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To request better maintenance of the private road.",
+                "hi": "निजी सड़क के बेहतर रखरखाव का अनुरोध करना।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The local resident filed the case 'claiming that the inhabitants of two hamlets were facing hardship because of restrictions imposed on using the private road which was their only access to the outside world'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+            "hi": "स्थानीय निवासी ने यह दावा करते हुए मामला दायर किया कि दो बस्तियों के निवासियों को निजी सड़क का उपयोग करने पर लगाए गए प्रतिबंधों के कारण कठिनाई का सामना करना पड़ रहा था, जो बाहरी दुनिया तक उनकी एकमात्र पहुंच थी।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-37"
+        },
+        {
+          "prompt": {
+            "en": "Which body has called for an inquiry and sought a report from the DGP regarding the Kallakurichi issue?",
+            "hi": "कल्लाकुरिची मुद्दे के संबंध में किस निकाय ने जांच का आह्वान किया है और डीजीपी से रिपोर्ट मांगी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "National Human Rights Commission (NHRC)",
+                "hi": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "National Commission for Women (NCW)",
+                "hi": "राष्ट्रीय महिला आयोग (एनसीडब्ल्यू)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Supreme Court of India",
+                "hi": "भारत का सर्वोच्च न्यायालय"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ministry of Home Affairs",
+                "hi": "गृह मंत्रालय"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline states, 'NCW calls for inquiry, seeks report from DGP over Kallakurichi issue'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
+            "hi": "शीर्षक में कहा गया है, 'एनसीडब्ल्यू ने जांच की मांग की, कल्लाकुरिची मुद्दे पर डीजीपी से रिपोर्ट मांगी।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-38"
+        },
+        {
+          "prompt": {
+            "en": "What specific demand has Anbumani made concerning guest lecturers?",
+            "hi": "अंबुमणि ने अतिथि व्याख्याताओं के संबंध में क्या विशेष मांग की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Demand for permanent positions",
+                "hi": "स्थायी पदों की मांग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Demand for better working conditions",
+                "hi": "बेहतर कामकाजी परिस्थितियों की मांग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Seeks pay hike for guest lecturers from Sept. 1",
+                "hi": "1 सितंबर से अतिथि व्याख्याताओं के लिए वेतन वृद्धि की मांग"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Demand for increased research grants",
+                "hi": "शोध अनुदान बढ़ाने की मांग"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'Anbumani seeks pay hike for guest lecturers from Sept. 1'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'अंबुमणि 1 सितंबर से अतिथि व्याख्याताओं के लिए वेतन वृद्धि चाहते हैं।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-39"
+        },
+        {
+          "prompt": {
+            "en": "Who is scheduled to inaugurate the facilitation centre set up by CIAL for Sabarimala pilgrims?",
+            "hi": "सबरीमाला तीर्थयात्रियों के लिए CIAL द्वारा स्थापित सुविधा केंद्र का उद्घाटन कौन करने वाला है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Governor of Kerala",
+                "hi": "केरल के राज्यपाल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Union Minister of Tourism",
+                "hi": "केंद्रीय पर्यटन मंत्री"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The CIAL Chairman",
+                "hi": "सीआईएएल अध्यक्ष"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Chief Minister V.D. Satheesan",
+                "hi": "मुख्यमंत्री वी.डी. सतीसन"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Chief Minister V.D. Satheesan to inaugurate the facility on November 17'.\nSource: https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+            "hi": "अंश में कहा गया है, 'मुख्यमंत्री वी.डी. सतीसन 17 नवंबर को इस सुविधा का उद्घाटन करेंगे।\nस्रोत: https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-40"
+        },
+        {
+          "prompt": {
+            "en": "Approximately how many kilometers of GCC roads are to be transferred to the Highways department?",
+            "hi": "लगभग कितने किलोमीटर जीसीसी सड़कें राजमार्ग विभाग को हस्तांतरित की जानी हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "About 50 km",
+                "hi": "लगभग 50 कि.मी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "About 60 km",
+                "hi": "लगभग 60 कि.मी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "About 70 km",
+                "hi": "लगभग 70 कि.मी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "About 80 km",
+                "hi": "लगभग 80 कि.मी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline states, 'About 70 km of GCC roads to be handed over to Highways'.\nSource: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+            "hi": "शीर्षक में कहा गया है, 'लगभग 70 किमी जीसीसी सड़कें राजमार्गों को सौंपी जाएंगी।'\nस्रोत: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-41"
+        },
+        {
+          "prompt": {
+            "en": "Which type of roads are most of those being transferred from GCC to Highways, according to a source?",
+            "hi": "एक सूत्र के अनुसार, जीसीसी से राजमार्गों में स्थानांतरित होने वाली अधिकांश सड़कें किस प्रकार की हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Residential colony roads",
+                "hi": "आवासीय कॉलोनी की सड़कें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Industrial access roads",
+                "hi": "औद्योगिक पहुंच मार्ग"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pedestrian-only pathways",
+                "hi": "केवल पैदल चलने वालों के लिए रास्ते"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bus route roads linked to highways located within the city limits",
+                "hi": "बस मार्ग की सड़कें शहर की सीमा के भीतर स्थित राजमार्गों से जुड़ी हुई हैं"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "A source states, 'Most of them are bus route roads linked to highways located within the city limits'.\nSource: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+            "hi": "एक सूत्र का कहना है, 'उनमें से ज्यादातर बस रूट वाली सड़कें हैं जो शहर की सीमा के भीतर स्थित राजमार्गों से जुड़ी हुई हैं।'\nस्रोत: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-42"
+        },
+        {
+          "prompt": {
+            "en": "What fueled the new wave of youth dissent in India during the summer?",
+            "hi": "गर्मियों के दौरान भारत में युवा असंतोष की नई लहर को किसने बढ़ावा दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Frustration and irreverent online satire",
+                "hi": "हताशा और अपमानजनक ऑनलाइन व्यंग्य"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Government policy successes",
+                "hi": "सरकारी नीति की सफलताएँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Economic prosperity and job growth",
+                "hi": "आर्थिक समृद्धि और नौकरी में वृद्धि"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "International political movements",
+                "hi": "अंतर्राष्ट्रीय राजनीतिक आंदोलन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that the youth dissent was 'fuelled by frustration and irreverent online satire'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि युवा असंतोष 'हताशा और अपमानजनक ऑनलाइन व्यंग्य से प्रेरित' था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-43"
+        },
+        {
+          "prompt": {
+            "en": "What was the approximate number of fatalities in a recent bus-truck collision in north-east India?",
+            "hi": "हाल ही में उत्तर-पूर्व भारत में बस-ट्रक की टक्कर में मरने वालों की अनुमानित संख्या कितनी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "At least 10",
+                "hi": "कम से कम 10"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "At least 15",
+                "hi": "कम से कम 15"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "At least 30",
+                "hi": "कम से कम 30"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "At least 24",
+                "hi": "कम से कम 24"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline reports, 'At least 24 killed after bus collides with truck in north-east India'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक रिपोर्ट है, 'उत्तर-पूर्व भारत में बस और ट्रक की टक्कर में कम से कम 24 लोगों की मौत।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-44"
+        },
+        {
+          "prompt": {
+            "en": "Following the electrocution of a boy in Malappuram due to a snapped stay wire, what immediate action was taken by the concerned Minister?",
+            "hi": "मलप्पुरम में टूटे तार के कारण करंट लगने से एक लड़के की मौत के बाद संबंधित मंत्री ने तत्काल क्या कार्रवाई की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Announced financial compensation",
+                "hi": "आर्थिक मुआवजे की घोषणा की"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Ordered a departmental inquiry",
+                "hi": "विभागीय जांच के आदेश दिये गये"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Directed immediate repair of all wires",
+                "hi": "सभी तारों की तत्काल मरम्मत का निर्देश दिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Visited the victim's family",
+                "hi": "पीड़ित परिवार से मुलाकात की"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states that the 'Minister orders probe' in response to the electrocution incident, which implies ordering a departmental inquiry.\nSource: https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि बिजली गिरने की घटना के जवाब में 'मंत्री ने जांच के आदेश दिए', जिसका तात्पर्य विभागीय जांच का आदेश देना है।\nस्रोत: https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-45"
+        },
+        {
+          "prompt": {
+            "en": "At the GIO conference in Kochi, what did Bilkis Bano's husband, Patel Yakub Rasool, highlight regarding her life?",
+            "hi": "कोच्चि में जीआईओ सम्मेलन में बिलकिस बानो के पति पटेल याकूब रसूल ने उनके जीवन के बारे में क्या बताया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Her contributions to social work",
+                "hi": "सामाजिक कार्यों में उनका योगदान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The long and arduous struggle for justice she had to wage",
+                "hi": "न्याय के लिए उन्हें लंबा और कठिन संघर्ष करना पड़ा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Her advocacy for women's rights",
+                "hi": "महिलाओं के अधिकारों के लिए उनकी वकालत"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Her efforts in community building",
+                "hi": "सामुदायिक निर्माण में उनके प्रयास"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt directly states that Bilkis Bano's husband 'recollected the long and arduous struggle for justice she had to wage.'\nSource: https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
+            "hi": "अंश सीधे तौर पर बताता है कि बिलकिस बानो के पति को 'न्याय के लिए उनके द्वारा किए गए लंबे और कठिन संघर्ष की याद है।'\nस्रोत: https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-46"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary demand put forth by guest teachers in Haryana during their mock Assembly?",
+            "hi": "हरियाणा में अतिथि शिक्षकों द्वारा अपनी मॉक असेंबली के दौरान रखी गई प्राथमिक मांग क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increase in salary",
+                "hi": "वेतन में वृद्धि"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Reduction in working hours",
+                "hi": "काम के घंटों में कमी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Better working conditions",
+                "hi": "बेहतर कामकाजी परिस्थितियाँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Regularisation of their services",
+                "hi": "उनकी सेवाओं का नियमितीकरण"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states that guest teachers in Haryana 'demand regularisation' of their services.\nSource: https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा कि हरियाणा में अतिथि शिक्षक अपनी सेवाओं को 'नियमित करने की मांग' करते हैं।\nस्रोत: https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-47"
+        },
+        {
+          "prompt": {
+            "en": "In response to rain deficit in Alirajpur district, what two key measures were announced by the Chief Minister of Madhya Pradesh for farmers?",
+            "hi": "अलीराजपुर जिले में बारिश की कमी के जवाब में, मध्य प्रदेश के मुख्यमंत्री ने किसानों के लिए किन दो प्रमुख उपायों की घोषणा की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Crop loss survey and financial aid",
+                "hi": "फसल हानि सर्वेक्षण एवं वित्तीय सहायता"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Crop insurance and seed subsidies",
+                "hi": "फसल बीमा और बीज सब्सिडी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Loan waivers and new irrigation projects",
+                "hi": "ऋण माफ़ी और नई सिंचाई परियोजनाएँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Market price support and storage facilities",
+                "hi": "बाजार मूल्य समर्थन और भंडारण सुविधाएं"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Chief Minister of Madhya Pradesh 'announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district' as measures for farmers.\nSource: https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+            "hi": "मध्य प्रदेश के मुख्यमंत्री ने किसानों के लिए उपायों के रूप में 'फसल नुकसान सर्वेक्षण, बारिश की कमी वाले अलीराजपुर जिले में किसानों के लिए वित्तीय सहायता की घोषणा की।'\nस्रोत: https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-48"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-16T18:00:00+05:30"
     }
   ],
   "sources": [
@@ -1819,6 +2494,11 @@
       "title": "Hyderabad hospital performs combined heart valve procedures in single sitting",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
       "published": "2026-11-16T00:29:37+05:30"
+    },
+    {
+      "title": "‘My entire life has been a struggle,’ says Bilkis Bano at GIO conference in Kochi",
+      "url": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
+      "published": "2026-11-15T23:51:50+05:30"
     },
     {
       "title": "Air purifier sales surge as Delhi-NCR AQI deteriorates; demand spreads beyond traditional markets",
@@ -1871,6 +2551,16 @@
       "published": "2026-11-13T11:08:47+05:30"
     },
     {
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:11:51+00:00"
+    },
+    {
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T15:16:50+00:00"
+    },
+    {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T14:56:21+00:00"
@@ -1904,6 +2594,46 @@
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T18:08:20+00:00"
+    },
+    {
+      "title": "State must acquire Kodanad estate land for converting a private road into a public road: PIL in HC",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+      "published": "2026-11-16T00:46:30+05:30"
+    },
+    {
+      "title": "NCW calls for inquiry, seeks report from DGP over Kallakurichi issue",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
+      "published": "2026-11-16T00:42:15+05:30"
+    },
+    {
+      "title": "Anbumani seeks pay hike for guest lecturers from Sept. 1",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
+      "published": "2026-11-16T00:40:31+05:30"
+    },
+    {
+      "title": "CIAL sets up facilitation centre for Sabarimala pilgrims",
+      "url": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+      "published": "2026-11-16T00:38:55+05:30"
+    },
+    {
+      "title": "About 70 km of GCC roads to be handed over to Highways",
+      "url": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
+      "published": "2026-11-16T00:32:13+05:30"
+    },
+    {
+      "title": "Boy electrocuted by snapped stay wire in Malappuram; Minister orders probe",
+      "url": "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
+      "published": "2026-11-16T01:36:43+05:30"
+    },
+    {
+      "title": "Guest teachers in Haryana hold mock Assembly, demand regularisation",
+      "url": "https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
+      "published": "2026-11-16T01:21:50+05:30"
+    },
+    {
+      "title": "M.P. CM announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+      "published": "2026-11-16T01:21:13+05:30"
     }
   ]
 }
