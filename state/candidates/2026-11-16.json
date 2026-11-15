@@ -1,0 +1,375 @@
+{
+  "date": "2026-11-16",
+  "sets": [
+    {
+      "title": "Science, Technology & Health",
+      "source_filename": "daily-2026-11-16.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What significant medical achievement was recently performed by a Hyderabad hospital?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The first successful lung transplant in the region."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A new non-invasive cancer treatment."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A complex brain surgery using robotic assistance."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Combined heart valve procedures in single sitting."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly states the Hyderabad hospital performed \"combined heart valve procedures in single sitting\".\nSource: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-1"
+        },
+        {
+          "prompt": {
+            "en": "What new distance record is NASA's Voyager 1 spacecraft approaching?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Reaching the Oort Cloud."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Achieving a full light-year from Earth."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Approaching another star system."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Closing in on a light-day in interstellar space."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states that \"NASA's Voyager 1 closes in on a light-day in interstellar space\" for a new distance record.\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Health",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-16-2"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1",
+      "title": "Hyderabad hospital performs combined heart valve procedures in single sitting",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+      "published": "2026-11-16T00:29:37+05:30",
+      "text": ""
+    },
+    {
+      "id": "2",
+      "title": "Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’",
+      "url": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+      "published": "2026-11-16T00:25:07+05:30",
+      "text": "In an aggressive tone, the Punjabi artist appeared to take a dig at the political opposition to his Aura India Tour 2026, which was kicked off with the concert in Indore’s Delight Dastoor ground"
+    },
+    {
+      "id": "3",
+      "title": "‘My entire life has been a struggle,’ says Bilkis Bano at GIO conference in Kochi",
+      "url": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
+      "published": "2026-11-15T23:51:50+05:30",
+      "text": "Her husband, Patel Yakub Rasool, who attended the conference, recollected the long and arduous struggle for justice she had to wage."
+    },
+    {
+      "id": "4",
+      "title": "P. Viswanathan and Selvaperunthagai spar over comments on T.N.’s law and order situation",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/p-viswanathan-and-selvaperunthagai-spar-over-comments-on-tns-law-and-order-situation/article71705749.ece",
+      "published": "2026-11-15T23:51:02+05:30",
+      "text": "The Minister questions the former TNCC president on which party he is going to next"
+    },
+    {
+      "id": "5",
+      "title": "Congress leader urges Amit Shah to address concerns of BCs",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/congress-leader-urges-amit-shah-to-address-concerns-of-bcs/article71705438.ece",
+      "published": "2026-11-15T23:50:06+05:30",
+      "text": ""
+    },
+    {
+      "id": "6",
+      "title": "200 patients receive medical services at health camp",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/200-patients-receive-medical-services-at-health-camp/article71705552.ece",
+      "published": "2026-11-15T23:41:57+05:30",
+      "text": ""
+    },
+    {
+      "id": "7",
+      "title": "Air purifier sales surge as Delhi-NCR AQI deteriorates; demand spreads beyond traditional markets",
+      "url": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+      "published": "2026-11-15T16:09:04+05:30",
+      "text": "The segment, earlier considered to be a niche and largely confined to top metropolitan cities, is now witnessing demand from other parts of the country, including Maharashtra, Karnataka, Tamil Nadu and Telangana."
+    },
+    {
+      "id": "8",
+      "title": "PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals",
+      "url": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+      "published": "2026-11-15T12:41:34+05:30",
+      "text": "The bank has also launched its premium PNB Metal Credit Card Luxura, which has attracted 27,140 customers so far"
+    },
+    {
+      "id": "9",
+      "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection, says Chairman Tuhin Pandey",
+      "url": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+      "published": "2026-11-15T12:38:23+05:30",
+      "text": "The SEBI chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a ‘human-in-the-loop’ approach"
+    },
+    {
+      "id": "10",
+      "title": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
+      "url": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+      "published": "2026-11-15T12:29:38+05:30",
+      "text": "Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14"
+    },
+    {
+      "id": "11",
+      "title": "FPIs pump ₹84,290 crore into equities in first fortnight of November",
+      "url": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
+      "published": "2026-11-15T12:02:39+05:30",
+      "text": "According to the data, Foreign Portfolio Investors (FPIs) made a net investment of ₹84,290 crore in Indian equities during November 2-13, covering nine trading sessions."
+    },
+    {
+      "id": "12",
+      "title": "Anthropic’s valuation can’t secure its moat",
+      "url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+      "published": "2026-11-15T07:46:11+05:30",
+      "text": "Its engineers need to keep building progressively more capable models; the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments"
+    },
+    {
+      "id": "13",
+      "title": "SpaceX pulls off first-ever spaceship ‘catch’",
+      "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+      "published": "2026-11-15T12:54:53+05:30",
+      "text": "The Starship emerged from the clouds after surviving the extreme heat of re-entering Earth’s atmosphere, then descended slowly over SpaceX’s south Texas Starbase before slipping smoothly between mechanical “chopstick arms” above Launch Pad 2"
+    },
+    {
+      "id": "14",
+      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record",
+      "url": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+      "published": "2026-11-15T11:29:47+05:30",
+      "text": "NASA is looking at another 18,000 years before the spacecraft achieves a full light-year and more than double that before it comes near another star"
+    },
+    {
+      "id": "15",
+      "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+      "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+      "published": "2026-11-14T09:47:31+05:30",
+      "text": "Starship expected to descend from space after completing 14 orbits around Earth, setting up its debut catch landing for ​Saturday afternoon; the Super Heavy booster was diverted from its return flight path to a fixed point over the Gulf of Mexico before exploding a short distance ‌over the sea surface"
+    },
+    {
+      "id": "16",
+      "title": "Experimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials",
+      "url": "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+      "published": "2026-11-13T12:45:30+05:30",
+      "text": "A pooled analysis of the studies found that about two-thirds of participants receiving the drug retatrutide experienced at least a 50% reduction in knee pain, compared with 38% of those receiving a placebo"
+    },
+    {
+      "id": "17",
+      "title": "Swabbing public transport to identify urban microbiomes, a city’s microbial signature",
+      "url": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
+      "published": "2026-11-13T11:08:47+05:30",
+      "text": "A recent study in the Chennai Metro Rail showed a wide range of microbes found on high-touch surfaces, though researchers said there was no cause for fear and no immediate reason to act"
+    },
+    {
+      "id": "18",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:11:51+00:00",
+      "text": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire."
+    },
+    {
+      "id": "19",
+      "title": "Sooryavanshi becomes youngest captain in men's T20s",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T09:53:45+00:00",
+      "text": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket."
+    },
+    {
+      "id": "20",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T15:16:50+00:00",
+      "text": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
+    },
+    {
+      "id": "21",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T14:56:21+00:00",
+      "text": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+    },
+    {
+      "id": "22",
+      "title": "Minister backs legal right to job support for young people",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T13:06:15+00:00",
+      "text": "The work and pensions secretary said the level of support currently on offer was too vague."
+    },
+    {
+      "id": "23",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T00:01:07+00:00",
+      "text": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
+    },
+    {
+      "id": "24",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:00:31+00:00",
+      "text": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
+    },
+    {
+      "id": "25",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:42:27+00:00",
+      "text": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+    },
+    {
+      "id": "26",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T09:29:25+00:00",
+      "text": "Knowing how much heat your home loses is important before installing a new heating system."
+    },
+    {
+      "id": "27",
+      "title": "How to spot November's planetary parade in the pre-dawn sky",
+      "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T10:49:57+00:00",
+      "text": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November."
+    },
+    {
+      "id": "28",
+      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T22:15:52+00:00",
+      "text": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"."
+    },
+    {
+      "id": "29",
+      "title": "Bluetongue virus confirmed on County Down farm",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:56:58+00:00",
+      "text": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep."
+    },
+    {
+      "id": "30",
+      "title": "What could El Niño mean for winter weather in the US and Canada?",
+      "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T18:50:15+00:00",
+      "text": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex."
+    },
+    {
+      "id": "31",
+      "title": "Summer heatwave put bin crews lives at risk, says council worker",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T12:03:04+00:00",
+      "text": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed."
+    },
+    {
+      "id": "32",
+      "title": "How many sewage spills have happened in your part of Scotland?",
+      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T06:31:51+00:00",
+      "text": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found."
+    },
+    {
+      "id": "33",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T18:08:20+00:00",
+      "text": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+    },
+    {
+      "id": "34",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T13:42:58+00:00",
+      "text": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+    },
+    {
+      "id": "35",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T11:06:32+00:00",
+      "text": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
+    },
+    {
+      "id": "36",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T13:37:45+00:00",
+      "text": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+    },
+    {
+      "id": "37",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T08:17:41+00:00",
+      "text": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
+    },
+    {
+      "id": "38",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T17:23:40+00:00",
+      "text": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+    }
+  ]
+}
