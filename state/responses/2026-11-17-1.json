@@ -1,0 +1,37 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": "{\n  \"sets\": [\n    {\n      \"title\": \"National Affairs, Policy & Governance\",\n      \"questions\": [\n        {\n          \"source_id\": \"1\",\n          \"evidence\": \"two SPOs were killed by the Army in a mistaken-identity case on November 11\",\n          \"prompt\": {\n            \"en\": \"According to Mr. Karra, what was the alleged cause of death for two SPOs in Kishtwar?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"killed by terrorists in a targeted attack on November 11\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"killed by the Army in a mistaken-identity case on November 11\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"killed during an encounter with militants on November 11\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"killed due to cross-firing during a protest on November 11\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"b\",\n          \"explanation\": {\n            \"en\": \"Mr. Karra explicitly stated that 'two SPOs were killed by the Army in a mistaken-identity case on November 11'.\"\n          }\n        },\n        {\n          \"source_id\": \"1\",\n          \"evidence\": \"Congress is spreading misleading information to shift blame from terrorists to security forces\",\n          \"prompt\": {\n            \"en\": \"How did senior BJP leader Sharma describe the Congress's actions regarding the Kishtwar incident?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"Congress is demanding a thorough investigation\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"Congress is seeking a peaceful resolution\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"Congress is highlighting security lapses\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"Congress is spreading misleading information to shift blame from terrorists to security forces\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"d\",\n          \"explanation\": {\n            \"en\": \"Senior BJP leader Sharma alleged that 'Congress is spreading misleading information to shift blame from terrorists to security forces'.\"\n          }\n        },\n        {\n          \"source_id\": \"2\",\n          \"evidence\": \"Bishop of Calcutta Reverend Paritosh Canning ruled out claims of religious conversion by institutions affiliated with the Churches of North India\",\n          \"prompt\": {\n            \"en\": \"What specific claim did Bishop of Calcutta Reverend Paritosh Canning rule out regarding institutions affiliated with the Churches of North India?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"claims of financial mismanagement\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"claims of religious conversion by institutions affiliated with the Churches of North India\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"claims of political lobbying\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"claims of property disputes\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"b\",\n          \"explanation\": {\n            \"en\": \"The Bishop of Calcutta Reverend Paritosh Canning 'ruled out claims of religious conversion by institutions affiliated with the Churches of North India'.\"\n          }\n        },\n        {\n          \"source_id\": \"3\",\n          \"evidence\": \"The police administration has turned a blind eye and is not functioning impartially"
+          }
+        ]
+      },
+      "finishReason": "MAX_TOKENS"
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 12341,
+    "candidatesTokenCount": 947,
+    "totalTokenCount": 36327,
+    "trafficType": "ON_DEMAND",
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 12341
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 947
+      }
+    ],
+    "thoughtsTokenCount": 23039
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "createTime": "2026-11-16T22:30:08.563435Z",
+  "responseId": "8IP7auuxIv2bpucPvrv18Qs"
+}
