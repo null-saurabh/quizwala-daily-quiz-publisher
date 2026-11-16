@@ -1,0 +1,37 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "role": "model",
+        "parts": [
+          {
+            "text": "{\n  \"sets\": [\n    {\n      \"title\": \"National Affairs, Policy & Governance\",\n      \"questions\": [\n        {\n          \"source_id\": \"1\",\n          \"evidence\": \"his government is working to build the progressive Punjab they envision\",\n          \"prompt\": {\n            \"en\": \"What is the primary goal articulated by the Chief Minister for Punjab?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"To build the progressive Punjab they envision.\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"To focus solely on agricultural reforms.\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"To attract only foreign direct investment.\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"To reduce the state's historical debt.\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"a\",\n          \"explanation\": {\n            \"en\": \"The Chief Minister explicitly stated that \\\"his government is working to build the progressive Punjab they envision.\\\"\"\n          }\n        },\n        {\n          \"source_id\": \"2\",\n          \"evidence\": \"two SPOs were killed by the Army in a mistaken-identity case on November 11\",\n          \"prompt\": {\n            \"en\": \"According to Mr. Karra, what was the alleged cause of death for two SPOs in Kishtwar on November 11?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"A terrorist ambush.\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"A mistaken-identity case by the Army.\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"Cross-border shelling.\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"An accidental firing during training.\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"b\",\n          \"explanation\": {\n            \"en\": \"Mr. Karra stated that \\\"two SPOs were killed by the Army in a mistaken-identity case on November 11\\\".\"\n          }\n        },\n        {\n          \"source_id\": \"2\",\n          \"evidence\": \"Congress is spreading misleading information to shift blame from terrorists to security forces\",\n          \"prompt\": {\n            \"en\": \"How did senior BJP leader Sharma characterize the Congress's actions regarding the Kishtwar incident?\"\n          },\n          \"options\": [\n            {\n              \"id\": \"a\",\n              \"text\": {\n                \"en\": \"As a constructive criticism of security protocols.\"\n              }\n            },\n            {\n              \"id\": \"b\",\n              \"text\": {\n                \"en\": \"As an attempt to seek justice for the victims.\"\n              }\n            },\n            {\n              \"id\": \"c\",\n              \"text\": {\n                \"en\": \"As spreading misleading information to shift blame from terrorists to security forces.\"\n              }\n            },\n            {\n              \"id\": \"d\",\n              \"text\": {\n                \"en\": \"As a call for an independent inquiry.\"\n              }\n            }\n          ],\n          \"correct_option_id\": \"c\",\n          \"explanation\": {\n            \"en\": \"Senior BJP leader Sharma alleged that \\\"Congress is spreading misleading information to shift blame from terrorists to security forces\\\".\"\n          }\n        },\n        {\n          \"source_id\": \"3\",\n          \"evidence\": \"Bishop of Calcutta Reverend Paritosh Canning ruled out claims of religious conversion by institutions affiliated with the Churches of North India\",\n          \"prompt\": {\n            \"en\": \"What specific claim did Bishop of Calcutta Reverend Paritosh Canning refute regarding institutions affiliated with the Churches of North India?\"\n          "
+          }
+        ]
+      },
+      "finishReason": "MAX_TOKENS"
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 12466,
+    "candidatesTokenCount": 946,
+    "totalTokenCount": 36452,
+    "trafficType": "ON_DEMAND",
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 12466
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 946
+      }
+    ],
+    "thoughtsTokenCount": 23040
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "createTime": "2026-11-16T23:10:12.369398Z",
+  "responseId": "VI37avbFFu6potQP5tjjkAM"
+}

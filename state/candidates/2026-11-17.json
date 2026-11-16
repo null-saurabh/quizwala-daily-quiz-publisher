@@ -142,6 +142,98 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-17-3"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary goal articulated by the Chief Minister for Punjab?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To attract only foreign direct investment."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To focus solely on agricultural reforms."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To build the progressive Punjab they envision."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To reduce the state's historical debt."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Chief Minister explicitly stated that \"his government is working to build the progressive Punjab they envision.\"\nSource: https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-4"
+        },
+        {
+          "prompt": {
+            "en": "According to Mr. Karra, what was the alleged cause of death for two SPOs in Kishtwar on November 11?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A mistaken-identity case by the Army."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A terrorist ambush."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cross-border shelling."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An accidental firing during training."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Mr. Karra stated that \"two SPOs were killed by the Army in a mistaken-identity case on November 11\".\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-5"
         }
       ],
       "quarantined": [],
@@ -430,6 +522,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T19:30:30+00:00",
       "text": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict."
+    },
+    {
+      "id": "1",
+      "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+      "url": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+      "published": "2026-11-17T04:27:18+05:30",
+      "text": "The Chief Minister said his government is working to build the progressive Punjab they envision"
     }
   ]
 }
