@@ -1,1083 +1,794 @@
 {
   "schema_version": 2,
-  "date": "2026-11-16",
-  "generated_at": "2026-11-15T21:10:26.733396+00:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T00:24:23.607716+00:00",
   "status": "ready",
   "sets": [
     {
-      "title": "Science, Technology & Health",
-      "source_filename": "daily-2026-11-16.json",
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-17.json",
       "questions": [
         {
           "prompt": {
-            "en": "What significant medical achievement was recently performed by a Hyderabad hospital?",
-            "hi": "हाल ही में हैदराबाद के एक अस्पताल ने कौन सी महत्वपूर्ण चिकित्सा उपलब्धि हासिल की?"
+            "en": "According to Mr. Karra, what was the alleged cause of death for two SPOs in Kishtwar?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The first successful lung transplant in the region.",
-                "hi": "क्षेत्र में पहला सफल फेफड़ा प्रत्यारोपण।"
+                "en": "killed by terrorists in a targeted attack on November 11"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "A new non-invasive cancer treatment.",
-                "hi": "एक नया गैर-आक्रामक कैंसर उपचार।"
+                "en": "killed during an encounter with militants on November 11"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A complex brain surgery using robotic assistance.",
-                "hi": "रोबोटिक सहायता से एक जटिल मस्तिष्क सर्जरी।"
+                "en": "killed by the Army in a mistaken-identity case on November 11"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Combined heart valve procedures in single sitting.",
-                "hi": "एक ही बैठक में संयुक्त हृदय वाल्व प्रक्रियाएं।"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The title explicitly states the Hyderabad hospital performed \"combined heart valve procedures in single sitting\".\nSource: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि हैदराबाद अस्पताल ने \"एक ही बार में संयुक्त हृदय वाल्व प्रक्रियाएं\" कीं।\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-1"
-        },
-        {
-          "prompt": {
-            "en": "What new distance record is NASA's Voyager 1 spacecraft approaching?",
-            "hi": "नासा का वोयाजर 1 अंतरिक्ष यान किस नए दूरी रिकॉर्ड की ओर आ रहा है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Reaching the Oort Cloud.",
-                "hi": "ऊर्ट बादल तक पहुँचना."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Achieving a full light-year from Earth.",
-                "hi": "पृथ्वी से पूर्ण प्रकाश वर्ष प्राप्त करना।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Approaching another star system.",
-                "hi": "किसी अन्य तारा प्रणाली के निकट पहुँचना।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Closing in on a light-day in interstellar space.",
-                "hi": "अंतरतारकीय अंतरिक्ष में एक प्रकाश-दिवस पर समापन।"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The title clearly states that \"NASA's Voyager 1 closes in on a light-day in interstellar space\" for a new distance record.\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि \"नासा का वोयाजर 1 एक नए दूरी रिकॉर्ड के लिए अंतरतारकीय अंतरिक्ष में एक प्रकाश-दिवस पर बंद होता है\"।\nस्रोत: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-2"
-        },
-        {
-          "prompt": {
-            "en": "What is a key aspect of the proposed AI usage guidelines for capital markets, as stated by the SEBI chief?",
-            "hi": "जैसा कि सेबी प्रमुख ने कहा, पूंजी बाजार के लिए प्रस्तावित एआई उपयोग दिशानिर्देशों का एक प्रमुख पहलू क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Focus on increasing AI adoption without regulatory oversight",
-                "hi": "नियामक निरीक्षण के बिना एआई अपनाने को बढ़ाने पर ध्यान दें"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Prioritizing automation over human intervention in all AI applications",
-                "hi": "सभी एआई अनुप्रयोगों में मानवीय हस्तक्षेप पर स्वचालन को प्राथमिकता देना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a ‘human-in-the-loop’ approach",
-                "hi": "एआई के उपयोग के लिए उचित रेलिंग स्थापित करना, जिसमें प्रकटीकरण, विनियमित संस्थाओं की जवाबदेही और 'मानव-इन-द-लूप' दृष्टिकोण शामिल है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Exclusively targeting small and medium enterprises for AI implementation",
-                "hi": "एआई कार्यान्वयन के लिए विशेष रूप से छोटे और मध्यम उद्यमों को लक्षित करना"
+                "en": "killed due to cross-firing during a protest on November 11"
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The SEBI chief explicitly stated that the proposed guidelines would 'focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a ‘human-in-the-loop’ approach'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-            "hi": "सेबी प्रमुख ने स्पष्ट रूप से कहा कि प्रस्तावित दिशानिर्देश 'एआई के उपयोग के लिए उचित रेलिंग स्थापित करने पर ध्यान केंद्रित करेंगे, जिसमें खुलासे, विनियमित संस्थाओं की जवाबदेही और 'मानव-इन-द-लूप' दृष्टिकोण शामिल हैं।'\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
+            "en": "Mr. Karra explicitly stated that 'two SPOs were killed by the Army in a mistaken-identity case on November 11'.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-3"
+          "id": "2026-11-17-1"
         },
         {
           "prompt": {
-            "en": "Which regulatory body is set to issue AI usage guidelines for capital markets?",
-            "hi": "कौन सी नियामक संस्था पूंजी बाजार के लिए AI उपयोग दिशानिर्देश जारी करने के लिए तैयार है?"
+            "en": "How did senior BJP leader Sharma describe the Congress's actions regarding the Kishtwar incident?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Reserve Bank of India (RBI)",
-                "hi": "भारतीय रिजर्व बैंक (आरबीआई)"
+                "en": "Congress is spreading misleading information to shift blame from terrorists to security forces"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Ministry of Finance",
-                "hi": "वित्त मंत्रालय"
+                "en": "Congress is seeking a peaceful resolution"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "National Payments Corporation of India (NPCI)",
-                "hi": "भारतीय राष्ट्रीय भुगतान निगम (एनपीसीआई)"
+                "en": "Congress is highlighting security lapses"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "SEBI",
-                "hi": "सेबी"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The headline clearly states 'SEBI to issue AI usage guidelines for capital markets'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है 'सेबी पूंजी बाजार के लिए एआई उपयोग दिशानिर्देश जारी करेगा।'\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-4"
-        },
-        {
-          "prompt": {
-            "en": "What specific approach is emphasized for AI use in capital markets, according to SEBI's upcoming guidelines?",
-            "hi": "सेबी के आगामी दिशानिर्देशों के अनुसार, पूंजी बाजार में एआई के उपयोग के लिए किस विशिष्ट दृष्टिकोण पर जोर दिया गया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A fully automated decision-making system",
-                "hi": "एक पूरी तरह से स्वचालित निर्णय लेने की प्रणाली"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "An AI-only oversight model",
-                "hi": "एक AI-केवल निरीक्षण मॉडल"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A 'human-in-the-loop' approach",
-                "hi": "एक 'मानव-इन-द-लूप' दृष्टिकोण"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A disclosure-free operational model",
-                "hi": "एक प्रकटीकरण-मुक्त परिचालन मॉडल"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The SEBI chief mentioned that the guidelines would include 'a ‘human-in-the-loop’ approach' for AI use.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-            "hi": "सेबी प्रमुख ने उल्लेख किया कि दिशानिर्देशों में एआई उपयोग के लिए 'मानव-इन-द-लूप' दृष्टिकोण' शामिल होगा।\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-5"
-        },
-        {
-          "prompt": {
-            "en": "What is a key challenge for AI firm Anthropic to sustain its profitability, as highlighted in the excerpt?",
-            "hi": "जैसा कि अंश में बताया गया है, एआई फर्म एंथ्रोपिक के लिए अपनी लाभप्रदता बनाए रखने की प्रमुख चुनौती क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Lack of skilled engineers",
-                "hi": "कुशल इंजीनियरों की कमी"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Inability to secure its moat through valuation",
-                "hi": "मूल्यांकन के माध्यम से अपनी खाई को सुरक्षित करने में असमर्थता"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Sustaining its profitability after honouring its infra commitments",
-                "hi": "अपनी बुनियादी प्रतिबद्धताओं को पूरा करने के बाद अपनी लाभप्रदता को बनाए रखना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Building progressively more capable models",
-                "hi": "उत्तरोत्तर अधिक सक्षम मॉडलों का निर्माण"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The excerpt states that 'the AI firm has also not established that it will be able to sustain its profitability after honouring its infra commitments'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-            "hi": "अंश में कहा गया है कि 'एआई फर्म ने यह भी स्थापित नहीं किया है कि वह अपनी बुनियादी प्रतिबद्धताओं का सम्मान करने के बाद अपनी लाभप्रदता को बनाए रखने में सक्षम होगी।'\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-6"
-        },
-        {
-          "prompt": {
-            "en": "According to the article, what is essential for Anthropic's engineers to keep building?",
-            "hi": "लेख के अनुसार, एंथ्रोपिक के इंजीनियरों के लिए निर्माण जारी रखने के लिए क्या आवश्यक है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Progressively more capable models",
-                "hi": "उत्तरोत्तर अधिक सक्षम मॉडल"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "New marketing strategies",
-                "hi": "नई मार्केटिंग रणनीतियाँ"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Financial partnerships",
-                "hi": "वित्तीय भागीदारी"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Stronger investor relations",
-                "hi": "मजबूत निवेशक संबंध"
+                "en": "Congress is demanding a thorough investigation"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The text explicitly states, 'Its engineers need to keep building progressively more capable models'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-            "hi": "पाठ में स्पष्ट रूप से कहा गया है, 'इसके इंजीनियरों को उत्तरोत्तर अधिक सक्षम मॉडल बनाते रहने की जरूरत है।'\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
+            "en": "Senior BJP leader Sharma alleged that 'Congress is spreading misleading information to shift blame from terrorists to security forces'.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-7"
+          "id": "2026-11-17-2"
         },
         {
           "prompt": {
-            "en": "What significant feat did SpaceX recently achieve with its Starship spacecraft?",
-            "hi": "स्पेसएक्स ने हाल ही में अपने स्टारशिप अंतरिक्ष यान के साथ कौन सी महत्वपूर्ण उपलब्धि हासिल की?"
+            "en": "What specific claim did Bishop of Calcutta Reverend Paritosh Canning rule out regarding institutions affiliated with the Churches of North India?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "First successful orbital launch",
-                "hi": "पहला सफल कक्षीय प्रक्षेपण"
+                "en": "claims of religious conversion by institutions affiliated with the Churches of North India"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "First-ever spaceship ‘catch’",
-                "hi": "पहली बार अंतरिक्ष यान 'पकड़'"
+                "en": "claims of financial mismanagement"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Deployment of a new satellite constellation",
-                "hi": "एक नये उपग्रह समूह की तैनाती"
+                "en": "claims of political lobbying"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Successful Mars landing",
-                "hi": "सफल मंगल लैंडिंग"
+                "en": "claims of property disputes"
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The headline clearly states, 'SpaceX pulls off first-ever spaceship ‘catch’'.\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'स्पेसएक्स ने पहली बार अंतरिक्ष यान 'कैच' निकाला।'\nस्रोत: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+            "en": "The Bishop of Calcutta Reverend Paritosh Canning 'ruled out claims of religious conversion by institutions affiliated with the Churches of North India'.\nSource: https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-8"
+          "id": "2026-11-17-3"
         },
         {
           "prompt": {
-            "en": "How was SpaceX's Starship captured after re-entering Earth's atmosphere?",
-            "hi": "पृथ्वी के वायुमंडल में पुनः प्रवेश करने के बाद स्पेसएक्स के स्टारशिप को कैसे कैप्चर किया गया?"
+            "en": "What is the primary goal articulated by the Chief Minister for Punjab?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It landed on a designated runway.",
-                "hi": "यह एक निर्धारित रनवे पर उतरा।"
+                "en": "To attract only foreign direct investment."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It splashed down in the ocean.",
-                "hi": "यह समुद्र में छिटककर गिर गया।"
+                "en": "To focus solely on agricultural reforms."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It slipped smoothly between mechanical “chopstick arms”.",
-                "hi": "यह यांत्रिक \"चॉपस्टिक आर्म्स\" के बीच आसानी से फिसल गया।"
+                "en": "To build the progressive Punjab they envision."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It was caught by a net.",
-                "hi": "इसे जाल से पकड़ लिया गया।"
+                "en": "To reduce the state's historical debt."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The excerpt describes the Starship as 'slipping smoothly between mechanical “chopstick arms”' for its capture.\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
-            "hi": "अंश में स्टारशिप को अपने कब्जे में लेने के लिए 'यांत्रिक \"चॉपस्टिक हथियारों\" के बीच आसानी से फिसलने' के रूप में वर्णित किया गया है।\nस्रोत: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+            "en": "The Chief Minister explicitly stated that \"his government is working to build the progressive Punjab they envision.\"\nSource: https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-9"
+          "id": "2026-11-17-4"
         },
         {
           "prompt": {
-            "en": "How long is it estimated before NASA's Voyager 1 spacecraft achieves a full light-year?",
-            "hi": "नासा के वोयाजर 1 अंतरिक्ष यान द्वारा पूर्ण प्रकाश वर्ष प्राप्त करने में कितना समय लगने का अनुमान है?"
+            "en": "According to Mr. Karra, what was the alleged cause of death for two SPOs in Kishtwar on November 11?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Another 1,800 years",
-                "hi": "अन्य 1,800 वर्ष"
+                "en": "A mistaken-identity case by the Army."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Another 18,000 years",
-                "hi": "अन्य 18,000 वर्ष"
+                "en": "A terrorist ambush."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Another 180,000 years",
-                "hi": "अन्य 180,000 वर्ष"
+                "en": "Cross-border shelling."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Another 180 years",
-                "hi": "अगले 180 साल"
+                "en": "An accidental firing during training."
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The source states, 'NASA is looking at another 18,000 years before the spacecraft achieves a full light-year'.\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
-            "hi": "सूत्र का कहना है, 'अंतरिक्ष यान के पूर्ण प्रकाश वर्ष तक पहुंचने से पहले नासा अगले 18,000 वर्षों पर विचार कर रहा है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece"
+            "en": "Mr. Karra stated that \"two SPOs were killed by the Army in a mistaken-identity case on November 11\".\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-10"
+          "id": "2026-11-17-5"
         },
         {
           "prompt": {
-            "en": "What percentage of participants receiving the experimental drug retatrutide experienced at least a 50% reduction in knee pain during trials?",
-            "hi": "प्रयोगात्मक दवा रेटाट्रूटाइड प्राप्त करने वाले प्रतिभागियों में से कितने प्रतिशत ने परीक्षण के दौरान घुटने के दर्द में कम से कम 50% की कमी का अनुभव किया?"
+            "en": "What were some of the key areas of discussion at the BJP's meeting in Mathura for the Assembly polls?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "About one-third",
-                "hi": "लगभग एक तिहाई"
+                "en": "International trade agreements and foreign policy."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "About half",
-                "hi": "लगभग आधा"
+                "en": "Global economic trends and technological advancements."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "About two-thirds",
-                "hi": "लगभग दो-तिहाई"
+                "en": "Organisational programmes, booth empowerment, and public welfare benefits."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "About three-quarters",
-                "hi": "लगभग तीन-चौथाई"
+                "en": "Bilateral relations with neighboring countries."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The analysis found that 'about two-thirds of participants receiving the drug retatrutide experienced at least a 50% reduction in knee pain'.\nSource: https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
-            "hi": "विश्लेषण में पाया गया कि 'रेटाट्रूटाइड दवा प्राप्त करने वाले लगभग दो-तिहाई प्रतिभागियों ने घुटने के दर्द में कम से कम 50% की कमी का अनुभव किया।'\nस्रोत: https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece"
+            "en": "The excerpt states that the meeting was held to \"discuss organisational programmes, booth empowerment, and public welfare benefits,\" directly matching option b.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-11"
+          "id": "2026-11-17-6"
         },
         {
           "prompt": {
-            "en": "What did a recent study in the Chennai Metro Rail reveal about microbes?",
-            "hi": "चेन्नई मेट्रो रेल में हाल ही में हुए एक अध्ययन से रोगाणुओं के बारे में क्या पता चला?"
+            "en": "What is the overarching objective that CM Mann's government is working towards in Punjab?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "A complete absence of microbes on surfaces",
-                "hi": "सतहों पर रोगाणुओं की पूर्ण अनुपस्थिति"
+                "en": "Establishing new international trade routes."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Microbes were exclusively found in the air, not on surfaces",
-                "hi": "सूक्ष्मजीव विशेष रूप से हवा में पाए जाते थे, सतहों पर नहीं"
+                "en": "Modernizing agricultural practices with foreign aid."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Only pathogenic microbes were present",
-                "hi": "केवल रोगजनक रोगाणु ही मौजूद थे"
+                "en": "Building the progressive Punjab they envision."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "A wide range of microbes found on high-touch surfaces",
-                "hi": "अत्यधिक स्पर्श वाली सतहों पर सूक्ष्मजीवों की एक विस्तृत श्रृंखला पाई गई"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The study 'showed a wide range of microbes found on high-touch surfaces' in the Chennai Metro Rail.\nSource: https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
-            "hi": "अध्ययन में चेन्नई मेट्रो रेल में 'उच्च-स्पर्श वाली सतहों पर पाए जाने वाले रोगाणुओं की एक विस्तृत श्रृंखला दिखाई गई'।\nस्रोत: https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-12"
-        },
-        {
-          "prompt": {
-            "en": "Which tech company recently experienced a day-long global outage affecting its services?",
-            "hi": "हाल ही में किस टेक कंपनी को एक दिन के वैश्विक आउटेज का सामना करना पड़ा जिससे उसकी सेवाएं प्रभावित हुईं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Google",
-                "hi": "गूगल"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Apple",
-                "hi": "सेब"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Microsoft",
-                "hi": "माइक्रोसॉफ्ट"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Amazon",
-                "hi": "अमेज़न"
+                "en": "Expanding industrial output through privatization."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The headline explicitly states, 'Microsoft says services fully restored after day-long global outage'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'माइक्रोसॉफ्ट का कहना है कि दिन भर के वैश्विक आउटेज के बाद सेवाएं पूरी तरह से बहाल हो गईं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+            "en": "CM Mann explicitly stated that \"his government is working to build the progressive Punjab they envision,\" which is the overarching objective.\nSource: https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-13"
+          "id": "2026-11-17-7"
         },
         {
           "prompt": {
-            "en": "What were some of the Microsoft services affected by the recent global outage?",
-            "hi": "हालिया वैश्विक आउटेज से Microsoft की कुछ सेवाएँ क्या प्रभावित हुईं?"
+            "en": "According to Bongaon MP Santanu Thakur, what is the alleged state of the police administration in West Bengal amidst intra-party feuds?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Windows, Xbox, and Bing",
-                "hi": "विंडोज़, एक्सबॉक्स और बिंग"
+                "en": "It is actively mediating disputes."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Azure, OneDrive, and Edge",
-                "hi": "एज़्योर, वनड्राइव और एज"
+                "en": "It has turned a blind eye and is not functioning impartially."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Outlook, Teams and Copilot",
-                "hi": "आउटलुक, टीमें और सहपायलट"
+                "en": "It is functioning impartially and effectively."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Skype, SharePoint, and GitHub",
-                "hi": "स्काइप, शेयरपॉइंट और गिटहब"
+                "en": "It is collaborating with central agencies."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Bongaon MP Santanu Thakur alleged that \"The police administration has turned a blind eye and is not functioning impartially.\"\nSource: https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-8"
+        },
+        {
+          "prompt": {
+            "en": "Besides organisational programmes and booth empowerment, what other strategic aspects were discussed by the BJP in its Mathura meeting?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Electoral strategy and caste-based outreach."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "International economic partnerships."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Scientific research and development."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Environmental conservation initiatives."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states the meeting was also \"outlining electoral strategy and caste-based outreach,\" in addition to other points.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-9"
+        },
+        {
+          "prompt": {
+            "en": "What specific social issues does CM Mann mention his government is working to free Punjab from?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Drugs and unemployment."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Poverty and illiteracy."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Corruption and crime."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Disease and malnutrition."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the article directly quotes CM Mann as saying \"Punjab free from drugs and unemployment,\" indicating these are the issues.\nSource: https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-10"
+        },
+        {
+          "prompt": {
+            "en": "What event, according to Mr. Karra, led to the deaths of two SPOs on November 11?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A terrorist ambush."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A cross-border firing incident."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A mistaken-identity case by the Army."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An accidental explosion."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The excerpt mentions 'Outlook, Teams and Copilot' as the services affected by the outage.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में आउटेज से प्रभावित सेवाओं के रूप में 'आउटलुक, टीम्स और कोपायलट' का उल्लेख है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+            "en": "Mr. Karra explicitly stated that \"two SPOs were killed by the Army in a mistaken-identity case on November 11.\"\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-14"
+          "id": "2026-11-17-11"
         },
         {
           "prompt": {
-            "en": "Which planets are expected to align in the pre-dawn sky throughout November?",
-            "hi": "पूरे नवंबर में भोर से पहले आकाश में किन ग्रहों के संरेखित होने की उम्मीद है?"
+            "en": "What is the Christian community in West Bengal seeking from the Chief Minister ahead of Christmas?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Saturn, Uranus, Neptune, and Pluto",
-                "hi": "शनि, यूरेनस, नेपच्यून और प्लूटो"
+                "en": "Intervention over targeted attacks."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Mercury, Venus, Mars and Jupiter",
-                "hi": "बुध, शुक्र, मंगल और बृहस्पति"
+                "en": "Financial aid for community projects."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Earth, Moon, Sun, and Mars",
-                "hi": "पृथ्वी, चंद्रमा, सूर्य और मंगल"
+                "en": "Special holiday declarations."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Jupiter, Saturn, Uranus, and Neptune",
-                "hi": "बृहस्पति, शनि, यूरेनस और नेपच्यून"
+                "en": "Support for religious festivals."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states that the \"Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas.\"\nSource: https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-12"
+        },
+        {
+          "prompt": {
+            "en": "What specific incident led to speculation of an intra-party feud within the BJP in West Bengal?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A disagreement over electoral strategy."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The murder of a BJP worker by own party members."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A public protest against party leadership."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Resignations of key party officials."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The article states, 'The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November'.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-            "hi": "लेख में कहा गया है, 'बुध, शुक्र, मंगल और बृहस्पति ग्रह पूरे नवंबर में भोर से पहले आकाश में संरेखित होंगे।'\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss"
+            "en": "The title of the article directly states that the \"Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal.\"\nSource: https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-15"
+          "id": "2026-11-17-13"
         },
         {
           "prompt": {
-            "en": "What method did SpaceX use to catch the Starship rocket stage mid-air?",
-            "hi": "स्पेसएक्स ने स्टारशिप रॉकेट चरण को मध्य हवा में पकड़ने के लिए किस विधि का उपयोग किया?"
+            "en": "What is highlighted as a consequence of not having a credible benchmark for poverty estimates in India?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "A large parachute system",
-                "hi": "एक बड़ी पैराशूट प्रणाली"
+                "en": "It makes it hard to say how much progress has been made or remains to be done."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "A water landing system",
-                "hi": "एक जल अवतरण प्रणाली"
+                "en": "It leads to international sanctions."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A magnetic levitation system",
-                "hi": "एक चुंबकीय उत्तोलन प्रणाली"
+                "en": "It increases academic research funding."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Huge mechanical arms nicknamed \"chopsticks\"",
-                "hi": "विशाल यांत्रिक हथियारों को उपनाम दिया गया \"चॉपस्टिक्स\""
+                "en": "It simplifies policy-making processes."
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The excerpt specifies that 'The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश निर्दिष्ट करता है कि 'रॉकेट चरण को \"चॉपस्टिक्स\" उपनाम वाले विशाल यांत्रिक हथियारों का उपयोग करके मध्य हवा में पकड़ा गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states that \"without a credible benchmark, it is hard to say how much, or how much remains to be done\" regarding India's progress on poverty.\nSource: https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-16"
+          "id": "2026-11-17-14"
         },
         {
           "prompt": {
-            "en": "What was the outcome of SpaceX's recent attempt to catch the Starship rocket stage?",
-            "hi": "स्पेसएक्स के स्टारशिप रॉकेट चरण को पकड़ने के हालिया प्रयास का परिणाम क्या था?"
+            "en": "What specific amount of Yes Bank’s additional tier-1 bonds was set aside by the Supreme Court’s judgment, prompting the RBI’s review petition?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It failed to re-enter the atmosphere.",
-                "hi": "यह वातावरण में पुनः प्रवेश करने में विफल रहा।"
+                "en": "₹8,415 crore."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It successfully catches top of huge Starship rocket for first time",
-                "hi": "इसने पहली बार सफलतापूर्वक विशाल स्टारशिप रॉकेट की चोटी पकड़ी"
+                "en": "₹1,200 crore."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It successfully landed on a traditional launchpad.",
-                "hi": "यह पारंपरिक लॉन्चपैड पर सफलतापूर्वक उतरा।"
+                "en": "₹5,000 crore."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It exploded upon re-entry.",
-                "hi": "दोबारा प्रवेश करने पर इसमें विस्फोट हो गया।"
+                "en": "₹10,000 crore."
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The headline clearly states, 'SpaceX successfully catches top of huge Starship rocket for first time'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'स्पेसएक्स ने पहली बार सफलतापूर्वक विशाल स्टारशिप रॉकेट की चोटी पकड़ी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+            "en": "The RBI filed a review petition against the Supreme Court's judgment that set aside the write-off of \"₹8,415 crore of Yes Bank’s additional tier-1 bonds.\"\nSource: https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-17"
+          "id": "2026-11-17-15"
         },
         {
           "prompt": {
-            "en": "How does El Niño typically affect conditions further north in the US and Canada during winter?",
-            "hi": "सर्दियों के दौरान अल नीनो आमतौर पर अमेरिका और कनाडा के उत्तर में स्थितियों को कैसे प्रभावित करता है?"
+            "en": "What is one of the key changes made by India to its short-term military recruitment scheme?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It brings more rain and colder conditions.",
-                "hi": "यह अधिक बारिश और ठंड की स्थिति लाता है।"
+                "en": "Reducing the age limit for recruitment."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It brings drier, warmer conditions.",
-                "hi": "यह शुष्क, गर्म स्थितियाँ लाता है।"
+                "en": "Increasing the number of short-term recruits."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It leads to increased snowfall.",
-                "hi": "इससे बर्फबारी बढ़ जाती है।"
+                "en": "Giving young soldiers a longer military stint and another shot at permanent service."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It has no discernible impact on weather conditions.",
-                "hi": "इसका मौसम की स्थिति पर कोई स्पष्ट प्रभाव नहीं पड़ता है।"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt states that El Niño winters bring 'drier, warmer conditions further north' in the US and Canada.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में कहा गया है कि अल नीनो सर्दियाँ अमेरिका और कनाडा में 'उत्तर की ओर शुष्क, गर्म स्थिति' लाती हैं।\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-18"
-        },
-        {
-          "prompt": {
-            "en": "What technology does President Zelensky urge the US and Elon Musk to lift restrictions on?",
-            "hi": "राष्ट्रपति ज़ेलेंस्की ने अमेरिका और एलन मस्क से किस तकनीक पर प्रतिबंध हटाने का आग्रह किया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "5G network infrastructure",
-                "hi": "5जी नेटवर्क इंफ्रास्ट्रक्चर"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Advanced drone technology",
-                "hi": "उन्नत ड्रोन तकनीक"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Starlink",
-                "hi": "स्टारलिंक"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Cybersecurity software",
-                "hi": "साइबर सुरक्षा सॉफ्टवेयर"
+                "en": "Eliminating all short-term recruitment options."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The headline clearly states, 'Zelensky urges US and Musk to lift Starlink restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'ज़ेलेंस्की ने अमेरिका और मस्क से स्टारलिंक प्रतिबंध हटाने का आग्रह किया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states that India \"has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-19"
+          "id": "2026-11-17-16"
         },
         {
           "prompt": {
-            "en": "According to President Zelensky, what is the impact of Starlink restrictions on Ukraine?",
-            "hi": "राष्ट्रपति ज़ेलेंस्की के अनुसार स्टारलिंक प्रतिबंधों का यूक्रेन पर क्या प्रभाव पड़ेगा?"
+            "en": "Who are William and Catherine scheduled to meet later in the week during their visit to India?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "They are enhancing Ukraine's defense capabilities.",
-                "hi": "वे यूक्रेन की रक्षा क्षमताओं को बढ़ा रहे हैं।"
+                "en": "The Chief Minister of Mumbai."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "They are making it difficult to stop Russian attacks.",
-                "hi": "वे रूसी हमलों को रोकना मुश्किल बना रहे हैं."
+                "en": "The President of India."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "They are improving communication with allies.",
-                "hi": "वे सहयोगियों के साथ संचार में सुधार कर रहे हैं।"
+                "en": "Indian Prime Minister Narendra Modi."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "They are irrelevant to the ongoing conflict.",
-                "hi": "वे चल रहे संघर्ष के लिए अप्रासंगिक हैं।"
+                "en": "Local cricket team captains."
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "Zelensky states that 'restrictions are still in place and making it difficult to stop Russian attacks'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-            "hi": "ज़ेलेंस्की का कहना है कि 'प्रतिबंध अभी भी लागू हैं और रूसी हमलों को रोकना मुश्किल हो रहा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt mentions that William and Catherine are visiting India \"ahead of a meeting with Indian Prime Minister Narendra Modi later in the week.\"\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-20"
-        },
-        {
-          "prompt": {
-            "en": "What type of medical procedure was recently performed by a Hyderabad hospital in a single sitting?",
-            "hi": "हाल ही में हैदराबाद के एक अस्पताल द्वारा एक ही बैठक में किस प्रकार की चिकित्सा प्रक्रिया की गई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Brain tumor removal",
-                "hi": "ब्रेन ट्यूमर हटाना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Combined heart valve procedures",
-                "hi": "संयुक्त हृदय वाल्व प्रक्रियाएं"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Kidney transplant",
-                "hi": "किडनी प्रत्यारोपण"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Spinal cord surgery",
-                "hi": "रीढ़ की हड्डी की सर्जरी"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The headline explicitly states, 'Hyderabad hospital performs combined heart valve procedures in single sitting'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'हैदराबाद अस्पताल एक ही बार में संयुक्त हृदय वाल्व प्रक्रिया करता है।'\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece"
-          },
-          "section": "Science, Technology & Health",
-          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-21"
+          "id": "2026-11-17-17"
         }
       ],
       "quarantined": [],
@@ -1085,725 +796,563 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-11-16T06:30:00+05:30"
+      "release_at": "2026-11-17T06:30:00+05:30"
     },
     {
       "title": "Economy, Business & Finance",
-      "source_filename": "daily-2026-11-16.json",
+      "source_filename": "daily-2026-11-17.json",
       "questions": [
         {
           "prompt": {
-            "en": "What is the primary reason for the recent surge in air purifier sales?",
-            "hi": "वायु शोधक की बिक्री में हालिया उछाल का प्राथमिक कारण क्या है?"
+            "en": "How much is IBM investing annually in India?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Delhi-NCR AQI deteriorates",
-                "hi": "दिल्ली-एनसीआर का AQI बिगड़ा"
+                "en": "$1 billion."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Increased marketing campaigns",
-                "hi": "विपणन अभियानों में वृद्धि"
+                "en": "$3 billion."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Seasonal discounts",
-                "hi": "मौसमी छूट"
+                "en": "$5 billion."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "New product launches",
-                "hi": "नये उत्पाद लॉन्च"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The headline directly links the surge in sales to 'Delhi-NCR AQI deteriorates'.\nSource: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
-            "hi": "शीर्षक सीधे तौर पर बिक्री में बढ़ोतरी को 'दिल्ली-NCR AQI बिगड़ने' से जोड़ता है।\nस्रोत: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-22"
-        },
-        {
-          "prompt": {
-            "en": "Beyond traditional metropolitan cities, where is the demand for air purifiers now spreading?",
-            "hi": "पारंपरिक महानगरीय शहरों से परे, अब वायु शोधक की मांग कहाँ फैल रही है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Only to rural areas",
-                "hi": "केवल ग्रामीण क्षेत्रों के लिए"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "From other parts of the country, including Maharashtra, Karnataka, Tamil Nadu and Telangana",
-                "hi": "महाराष्ट्र, कर्नाटक, तमिलनाडु और तेलंगाना सहित देश के अन्य हिस्सों से"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To smaller towns within metropolitan regions",
-                "hi": "महानगरीय क्षेत्रों के भीतर छोटे शहरों के लिए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Exclusively to international markets",
-                "hi": "विशेष रूप से अंतर्राष्ट्रीय बाज़ारों के लिए"
+                "en": "$10 billion."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The excerpt states that demand is 'now witnessing demand from other parts of the country, including Maharashtra, Karnataka, Tamil Nadu and Telangana'.\nSource: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
-            "hi": "अंश में कहा गया है कि 'अब महाराष्ट्र, कर्नाटक, तमिलनाडु और तेलंगाना सहित देश के अन्य हिस्सों से मांग देखी जा रही है।'\nस्रोत: https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece"
+            "en": "The title explicitly states \"IBM investing $3 billion annually in India.\"\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-23"
+          "id": "2026-11-17-18"
         },
         {
           "prompt": {
-            "en": "What quarterly profit target has PNB set for its credit card and cash management verticals?",
-            "hi": "पीएनबी ने अपने क्रेडिट कार्ड और नकदी प्रबंधन क्षेत्रों के लिए कौन सा तिमाही लाभ लक्ष्य निर्धारित किया है?"
+            "en": "What is IBM's planned global investment in quantum technology?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "₹100 crore",
-                "hi": "₹100 करोड़"
+                "en": "$10 billion."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "₹200 crore",
-                "hi": "₹200 करोड़"
+                "en": "$5 billion."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "₹500 crore",
-                "hi": "₹500 करोड़"
+                "en": "$1 billion."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "₹1,000 crore",
-                "hi": "₹1,000 करोड़"
+                "en": "$3 billion."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states that IBM \"plans $10 bn global quantum push.\"\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-19"
+        },
+        {
+          "prompt": {
+            "en": "According to IBM CEO Arvind Krishna, what percentage of jobs could AI displace over the next decade?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5-10%."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "20-30%."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "10-20%."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "30-40%."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "IBM CEO Arvind Krishna stated that \"AI could displace 10-20% of jobs over the next decade.\"\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-20"
+        },
+        {
+          "prompt": {
+            "en": "Which industry is particularly vulnerable to job reductions due to AI, according to IBM CEO Arvind Krishna?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The BPO industry."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Healthcare."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Manufacturing."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Agriculture."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Arvind Krishna mentioned that \"the BPO industry likely to face some of the biggest reductions\" due to AI.\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-21"
+        },
+        {
+          "prompt": {
+            "en": "What was the value of Yes Bank's additional tier-1 bonds whose write-off was set aside by the Supreme Court, leading to RBI's review petition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1,000 crore."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹8,415 crore."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹5,000 crore."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹12,000 crore."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The headline indicates that 'PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals'.\nSource: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
-            "hi": "शीर्षक बताता है कि 'पीएनबी की नजर क्रेडिट कार्ड, नकदी प्रबंधन क्षेत्रों से प्रत्येक तिमाही में 200 करोड़ रुपये के लाभ पर है।'\nस्रोत: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece"
+            "en": "The excerpt states that the Supreme Court's judgment set aside the write-off of \"₹8,415 crore of Yes Bank’s additional tier-1 bonds.\"\nSource: https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+          "source_label": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-24"
+          "id": "2026-11-17-22"
         },
         {
           "prompt": {
-            "en": "Which premium product has PNB recently launched, attracting over 27,000 customers?",
-            "hi": "पीएनबी ने हाल ही में कौन सा प्रीमियम उत्पाद लॉन्च किया है, जिसने 27,000 से अधिक ग्राहकों को आकर्षित किया है?"
+            "en": "What is Asgard Alcobev's target capacity expansion for its northeast brewing unit?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "PNB Platinum Debit Card",
-                "hi": "पीएनबी प्लैटिनम डेबिट कार्ड"
+                "en": "10.8 million cases."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "PNB Gold Savings Account",
-                "hi": "पीएनबी गोल्ड सेविंग अकाउंट"
+                "en": "7.5 million cases."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "PNB Metal Credit Card Luxura",
-                "hi": "पीएनबी मेटल क्रेडिट कार्ड लक्ज़रा"
+                "en": "5 million cases."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "PNB Digital Wallet",
-                "hi": "पीएनबी डिजिटल वॉलेट"
+                "en": "15 million cases."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states that Asgard Alcobev is \"expanding northeast brewing unit capacity to 10.8 million cases.\"\nSource: https://www.thehindu.com/business/asgard-alcobev-expanding-northeast-brewing-unit-capacity-to-108-million-cases/article71709123.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/asgard-alcobev-expanding-northeast-brewing-unit-capacity-to-108-million-cases/article71709123.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-23"
+        },
+        {
+          "prompt": {
+            "en": "What was the approximate revenue reported by Pricol's DICVS business in FY26?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹2,400 crore."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,500 crore."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹3,000 crore."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹4,000 crore."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that \"The DICVS business reported revenue of approximately ₹2,400 crore in FY26.\"\nSource: https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-24"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of Pricol's consolidated revenue did the DICVS business account for in FY26?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "40%."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "60%."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "50%."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "70%."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The DICVS business was \"accounting for nearly 60% of Pricol’s consolidated revenue.\"\nSource: https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-25"
+        },
+        {
+          "prompt": {
+            "en": "What demographic group is the job lookup tool primarily aimed at?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Experienced professionals."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Retired citizens seeking part-time employment."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Individuals aged 16-24 looking for work."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Entrepreneurs seeking business opportunities."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The text states, 'The bank has also launched its premium PNB Metal Credit Card Luxura, which has attracted 27,140 customers so far'.\nSource: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
-            "hi": "टेक्स्ट में कहा गया है, 'बैंक ने अपना प्रीमियम पीएनबी मेटल क्रेडिट कार्ड लक्ज़ुरा भी लॉन्च किया है, जिसने अब तक 27,140 ग्राहकों को आकर्षित किया है।'\nस्रोत: https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece"
+            "en": "The title of the article directly addresses \"Aged 16-24 and looking for work?\" indicating the target demographic.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-25"
+          "id": "2026-11-17-26"
         },
         {
           "prompt": {
-            "en": "How much has Mahanagar Gas cumulatively increased CNG prices since May 14?",
-            "hi": "14 मई से महानगर गैस ने CNG की कीमतों में कुल कितनी वृद्धि की है?"
+            "en": "What alternative housing strategy are some people adopting due to affordability issues?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "₹1.5 per kg",
-                "hi": "₹1.5 प्रति किग्रा"
+                "en": "Buying homes with people they don't know."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "₹5.0 per kg",
-                "hi": "₹5.0 प्रति किग्रा"
+                "en": "Moving to smaller towns."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "₹15.0 per kg",
-                "hi": "₹15.0 प्रति किग्रा"
+                "en": "Renting luxury apartments."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "₹9.5 per kg",
-                "hi": "₹9.5 प्रति किग्रा"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The excerpt states, 'Cumulatively prices of the vehicular gas have increased ₹9.5 per kg across six tranches since May 14'.\nSource: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
-            "hi": "अंश में कहा गया है, '14 मई से छह चरणों में वाहन गैस की संचयी कीमतें ₹9.5 प्रति किलोग्राम बढ़ गई हैं।'\nस्रोत: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-26"
-        },
-        {
-          "prompt": {
-            "en": "What was the recent per kg hike in CNG prices by Mahanagar Gas in Mumbai?",
-            "hi": "मुंबई में महानगर गैस द्वारा सीएनजी की कीमतों में हाल ही में प्रति किलोग्राम कितनी बढ़ोतरी हुई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "₹1.5/kg",
-                "hi": "₹1.5/किलो"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "₹1.0/kg",
-                "hi": "₹1.0/किलो"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "₹0.5/kg",
-                "hi": "₹0.5/किलो"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "₹2.0/kg",
-                "hi": "₹2.0/किलो"
+                "en": "Investing in commercial properties."
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The headline clearly states, 'Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg'.\nSource: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'महानगर गैस ने मुंबई में सीएनजी की कीमतों में ₹1.5/किग्रा की बढ़ोतरी की।'\nस्रोत: https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece"
+            "en": "The excerpt states that \"People who can't afford to get on the housing ladder are buying homes with people they don't know.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-27"
+          "id": "2026-11-17-27"
         },
         {
           "prompt": {
-            "en": "What was the net investment made by Foreign Portfolio Investors (FPIs) in Indian equities during November 2-13?",
-            "hi": "2-13 नवंबर के दौरान विदेशी पोर्टफोलियो निवेशकों (FPI) द्वारा भारतीय इक्विटी में किया गया शुद्ध निवेश कितना था?"
+            "en": "What policy change is a key report urging to create more jobs for under-25s?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "₹84,290 crore",
-                "hi": "₹84,290 करोड़"
+                "en": "Increasing minimum wage."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "₹42,145 crore",
-                "hi": "₹42,145 करोड़"
+                "en": "Expanding vocational training programs."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "₹126,435 crore",
-                "hi": "₹126,435 करोड़"
+                "en": "Cutting National Insurance."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "₹168,580 crore",
-                "hi": "₹168,580 करोड़"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The data shows FPIs 'made a net investment of ₹84,290 crore in Indian equities during November 2-13'.\nSource: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
-            "hi": "आंकड़ों से पता चलता है कि एफपीआई ने '2-13 नवंबर के दौरान भारतीय इक्विटी में ₹84,290 करोड़ का शुद्ध निवेश किया।'\nस्रोत: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-28"
-        },
-        {
-          "prompt": {
-            "en": "Over how many trading sessions did FPIs make a net investment of ₹84,290 crore in Indian equities in early November?",
-            "hi": "नवंबर की शुरुआत में FPI ने कितने कारोबारी सत्रों में भारतीय इक्विटी में ₹84,290 करोड़ का शुद्ध निवेश किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Nine trading sessions",
-                "hi": "नौ व्यापारिक सत्र"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Seven trading sessions",
-                "hi": "सात व्यापारिक सत्र"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Eleven trading sessions",
-                "hi": "ग्यारह व्यापारिक सत्र"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Thirteen trading sessions",
-                "hi": "तेरह व्यापारिक सत्र"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt specifies that the investment was made 'covering nine trading sessions'.\nSource: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
-            "hi": "अंश निर्दिष्ट करता है कि निवेश 'नौ व्यापारिक सत्रों को कवर करते हुए' किया गया था।\nस्रोत: https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-29"
-        },
-        {
-          "prompt": {
-            "en": "What concern has the Nvidia scandal raised regarding advanced AI chips?",
-            "hi": "उन्नत एआई चिप्स के संबंध में एनवीडिया घोटाले ने क्या चिंता पैदा की है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Their environmental impact",
-                "hi": "उनका पर्यावरणीय प्रभाव"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Their limited processing power",
-                "hi": "उनकी सीमित प्रसंस्करण शक्ति"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Their high manufacturing cost",
-                "hi": "उनकी उच्च विनिर्माण लागत"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Whether advanced AI chips ended up in China, despite US restrictions",
-                "hi": "क्या अमेरिकी प्रतिबंधों के बावजूद उन्नत AI चिप्स चीन में समाप्त हो गए"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The excerpt states, 'The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में कहा गया है, 'एनवीडिया घोटाले ने इस बात पर सवाल उठाया है कि क्या अमेरिकी प्रतिबंधों के बावजूद उन्नत एआई चिप्स चीन में समाप्त हो गए।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-30"
-        },
-        {
-          "prompt": {
-            "en": "Despite US restrictions, what is the concern regarding advanced AI chips mentioned in the Nvidia scandal?",
-            "hi": "अमेरिकी प्रतिबंधों के बावजूद, एनवीडिया घोटाले में उल्लिखित उन्नत एआई चिप्स के बारे में चिंता क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Their overproduction",
-                "hi": "उनका अतिउत्पादन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Their use in domestic consumer electronics",
-                "hi": "घरेलू उपभोक्ता इलेक्ट्रॉनिक्स में उनका उपयोग"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Whether advanced AI chips ended up in China",
-                "hi": "क्या उन्नत AI चिप्स चीन में समाप्त हो गए"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Their impact on global supply chains",
-                "hi": "वैश्विक आपूर्ति श्रृंखलाओं पर उनका प्रभाव"
+                "en": "Subsidizing higher education."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The excerpt highlights the concern 'whether advanced AI chips ended up in China, despite US restrictions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश इस चिंता पर प्रकाश डालता है कि 'क्या अमेरिकी प्रतिबंधों के बावजूद उन्नत एआई चिप्स चीन में समाप्त हो गए।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+            "en": "The title of the article states that a report urges to \"Create more jobs for under-25s by cutting National Insurance.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-31"
+          "id": "2026-11-17-28"
         },
         {
           "prompt": {
-            "en": "What has the Jensen Huang scandal cast a spotlight on regarding Singapore?",
-            "hi": "जेन्सेन हुआंग घोटाले ने सिंगापुर के संबंध में किस बात पर प्रकाश डाला है?"
+            "en": "What is the primary purpose of reliable poverty estimates beyond academic use?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Singapore's success as a chip hub - and a location for alleged illicit trade",
-                "hi": "चिप हब के रूप में सिंगापुर की सफलता - और कथित अवैध व्यापार का स्थान"
+                "en": "To provide a credible benchmark for assessing progress and remaining work."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Its burgeoning tourism industry",
-                "hi": "इसका उभरता हुआ पर्यटन उद्योग"
+                "en": "To attract foreign investment."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Its advancements in renewable energy",
-                "hi": "नवीकरणीय ऊर्जा में इसकी प्रगति"
+                "en": "To determine international aid eligibility."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Its efforts in space exploration",
-                "hi": "अंतरिक्ष अन्वेषण में इसके प्रयास"
+                "en": "To influence global market trends."
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The text states, 'The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-            "hi": "पाठ में कहा गया है, 'इस घोटाले ने चिप हब के रूप में सिंगापुर की सफलता और कथित अवैध व्यापार के स्थान पर प्रकाश डाला है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states that \"without a credible benchmark, it is hard to say how much, or how much remains to be done,\" implying that reliable estimates provide this benchmark.\nSource: https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-32"
-        },
-        {
-          "prompt": {
-            "en": "What role does Singapore play in the context of the Jensen Huang scandal, besides being a chip hub?",
-            "hi": "चिप हब होने के अलावा, जेन्सेन हुआंग घोटाले के संदर्भ में सिंगापुर की क्या भूमिका है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A location for alleged illicit trade",
-                "hi": "कथित अवैध व्यापार के लिए एक स्थान"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A center for AI research",
-                "hi": "एआई अनुसंधान के लिए एक केंद्र"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A major consumer market for chips",
-                "hi": "चिप्स के लिए एक प्रमुख उपभोक्ता बाज़ार"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A primary manufacturer of chip components",
-                "hi": "चिप घटकों का एक प्राथमिक निर्माता"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The scandal has highlighted Singapore as 'a location for alleged illicit trade'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-            "hi": "इस घोटाले ने सिंगापुर को 'कथित अवैध व्यापार के लिए एक स्थान' के रूप में उजागर किया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-33"
-        },
-        {
-          "prompt": {
-            "en": "What is the primary objective of SEBI's upcoming AI usage guidelines for capital markets?",
-            "hi": "पूंजी बाजार के लिए सेबी के आगामी एआई उपयोग दिशानिर्देशों का प्राथमिक उद्देश्य क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "To promote rapid AI adoption without regulation",
-                "hi": "विनियमन के बिना तेजी से एआई अपनाने को बढ़ावा देना"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To mandate AI use for all market participants",
-                "hi": "सभी बाजार सहभागियों के लिए एआई का उपयोग अनिवार्य करना"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To restrict all AI use in financial services",
-                "hi": "वित्तीय सेवाओं में सभी एआई उपयोग को प्रतिबंधित करना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To focus on investor protection",
-                "hi": "निवेशक सुरक्षा पर ध्यान केंद्रित करना"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The headline explicitly states that the guidelines will 'focus on investor protection'.\nSource: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि दिशानिर्देश 'निवेशक सुरक्षा पर ध्यान केंद्रित' करेंगे।\nस्रोत: https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-34"
-        },
-        {
-          "prompt": {
-            "en": "What is the main concern raised about Anthropic's valuation?",
-            "hi": "एंथ्रोपिक के मूल्यांकन के बारे में मुख्य चिंता क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It is too low to attract investors.",
-                "hi": "निवेशकों को आकर्षित करने के लिए यह बहुत कम है."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It is based on outdated technology.",
-                "hi": "यह पुरानी तकनीक पर आधारित है।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It can’t secure its moat.",
-                "hi": "यह अपनी खाई को सुरक्षित नहीं रख सकता।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It is not publicly disclosed.",
-                "hi": "इसका सार्वजनिक तौर पर खुलासा नहीं किया गया है."
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The headline directly states, 'Anthropic’s valuation can’t secure its moat'.\nSource: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-            "hi": "शीर्षक में सीधे तौर पर कहा गया है, 'एंथ्रोपिक का मूल्यांकन इसकी खाई को सुरक्षित नहीं कर सकता।'\nस्रोत: https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-35"
+          "id": "2026-11-17-29"
         }
       ],
       "quarantined": [],
@@ -1811,674 +1360,1207 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-11-16T13:00:00+05:30"
+      "release_at": "2026-11-17T13:00:00+05:30"
     },
     {
-      "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-11-16.json",
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-17.json",
       "questions": [
         {
           "prompt": {
-            "en": "What is the primary claim made in the PIL filed in the High Court regarding Kodanad estate land?",
-            "hi": "कोडनाड एस्टेट भूमि के संबंध में उच्च न्यायालय में दायर जनहित याचिका में किया गया प्राथमिक दावा क्या है?"
+            "en": "In which fields did noted agricultural scientist K. Prabhakaran Nair make immense contributions?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The private road should be closed permanently.",
-                "hi": "निजी रास्ते को स्थाई रूप से बंद किया जाए।"
+                "en": "Astrophysics and quantum mechanics."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The state must acquire Kodanad estate land for converting a private road into a public road.",
-                "hi": "एक निजी सड़क को सार्वजनिक सड़क में बदलने के लिए राज्य को कोडनाड एस्टेट की भूमि का अधिग्रहण करना होगा।"
+                "en": "Sustainable agriculture, soil science and agronomy."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The private road should be maintained by the local residents.",
-                "hi": "निजी सड़क का रख-रखाव स्थानीय निवासियों द्वारा किया जाना चाहिए।"
+                "en": "Marine biology and oceanography."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The private road should be restricted to estate workers only.",
-                "hi": "निजी सड़क केवल एस्टेट श्रमिकों तक ही सीमित होनी चाहिए।"
+                "en": "Computer science and artificial intelligence."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The headline explicitly states the PIL's claim: 'State must acquire Kodanad estate land for converting a private road into a public road'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
-            "hi": "शीर्षक में जनहित याचिका के दावे को स्पष्ट रूप से बताया गया है: 'राज्य को एक निजी सड़क को सार्वजनिक सड़क में बदलने के लिए कोडनाड एस्टेट भूमि का अधिग्रहण करना चाहिए।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece"
+            "en": "The excerpt states that K. Prabhakaran Nair \"made immense contributions to sustainable agriculture, soil science and agronomy.\"\nSource: https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
+            "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-36"
+          "id": "2026-11-17-30"
         },
         {
           "prompt": {
-            "en": "Why was the PIL filed concerning the Kodanad estate land, according to the local resident?",
-            "hi": "स्थानीय निवासी के अनुसार, कोडनाड एस्टेट भूमि के संबंध में जनहित याचिका क्यों दायर की गई थी?"
+            "en": "What was the primary objective of the rescue-and-relocation project in Keralam regarding orchids?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "To protest against illegal construction on the estate.",
-                "hi": "संपत्ति पर अवैध निर्माण के विरोध में."
+                "en": "To cultivate new orchid varieties."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "To demand compensation for land acquisition.",
-                "hi": "भूमि अधिग्रहण के मुआवजे की मांग"
+                "en": "To export orchids for commercial purposes."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Because of restrictions imposed on using the private road which was their only access to the outside world",
-                "hi": "निजी सड़क का उपयोग करने पर लगाए गए प्रतिबंधों के कारण, जो बाहरी दुनिया तक उनकी एकमात्र पहुंच थी"
+                "en": "To study orchid genetics."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "To request better maintenance of the private road.",
-                "hi": "निजी सड़क के बेहतर रखरखाव का अनुरोध करना।"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The local resident filed the case 'claiming that the inhabitants of two hamlets were facing hardship because of restrictions imposed on using the private road which was their only access to the outside world'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
-            "hi": "स्थानीय निवासी ने यह दावा करते हुए मामला दायर किया कि दो बस्तियों के निवासियों को निजी सड़क का उपयोग करने पर लगाए गए प्रतिबंधों के कारण कठिनाई का सामना करना पड़ रहा था, जो बाहरी दुनिया तक उनकी एकमात्र पहुंच थी।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-37"
-        },
-        {
-          "prompt": {
-            "en": "Which body has called for an inquiry and sought a report from the DGP regarding the Kallakurichi issue?",
-            "hi": "कल्लाकुरिची मुद्दे के संबंध में किस निकाय ने जांच का आह्वान किया है और डीजीपी से रिपोर्ट मांगी है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "National Human Rights Commission (NHRC)",
-                "hi": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी)"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "National Commission for Women (NCW)",
-                "hi": "राष्ट्रीय महिला आयोग (एनसीडब्ल्यू)"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Supreme Court of India",
-                "hi": "भारत का सर्वोच्च न्यायालय"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Ministry of Home Affairs",
-                "hi": "गृह मंत्रालय"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The headline states, 'NCW calls for inquiry, seeks report from DGP over Kallakurichi issue'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
-            "hi": "शीर्षक में कहा गया है, 'एनसीडब्ल्यू ने जांच की मांग की, कल्लाकुरिची मुद्दे पर डीजीपी से रिपोर्ट मांगी।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-38"
-        },
-        {
-          "prompt": {
-            "en": "What specific demand has Anbumani made concerning guest lecturers?",
-            "hi": "अंबुमणि ने अतिथि व्याख्याताओं के संबंध में क्या विशेष मांग की है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Demand for permanent positions",
-                "hi": "स्थायी पदों की मांग"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Demand for better working conditions",
-                "hi": "बेहतर कामकाजी परिस्थितियों की मांग"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Seeks pay hike for guest lecturers from Sept. 1",
-                "hi": "1 सितंबर से अतिथि व्याख्याताओं के लिए वेतन वृद्धि की मांग"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Demand for increased research grants",
-                "hi": "शोध अनुदान बढ़ाने की मांग"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The headline clearly states, 'Anbumani seeks pay hike for guest lecturers from Sept. 1'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'अंबुमणि 1 सितंबर से अतिथि व्याख्याताओं के लिए वेतन वृद्धि चाहते हैं।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-39"
-        },
-        {
-          "prompt": {
-            "en": "Who is scheduled to inaugurate the facilitation centre set up by CIAL for Sabarimala pilgrims?",
-            "hi": "सबरीमाला तीर्थयात्रियों के लिए CIAL द्वारा स्थापित सुविधा केंद्र का उद्घाटन कौन करने वाला है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The Governor of Kerala",
-                "hi": "केरल के राज्यपाल"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The Union Minister of Tourism",
-                "hi": "केंद्रीय पर्यटन मंत्री"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The CIAL Chairman",
-                "hi": "सीआईएएल अध्यक्ष"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Chief Minister V.D. Satheesan",
-                "hi": "मुख्यमंत्री वी.डी. सतीसन"
+                "en": "To save native orchids from roadside trees felled in Keralam."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The excerpt states, 'Chief Minister V.D. Satheesan to inaugurate the facility on November 17'.\nSource: https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
-            "hi": "अंश में कहा गया है, 'मुख्यमंत्री वी.डी. सतीसन 17 नवंबर को इस सुविधा का उद्घाटन करेंगे।\nस्रोत: https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece"
+            "en": "The excerpt clearly states that \"A rescue-and-relocation project has saved over 27,000 native orchids from roadside trees felled in Keralam.\"\nSource: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+            "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-40"
+          "id": "2026-11-17-31"
         },
         {
           "prompt": {
-            "en": "Approximately how many kilometers of GCC roads are to be transferred to the Highways department?",
-            "hi": "लगभग कितने किलोमीटर जीसीसी सड़कें राजमार्ग विभाग को हस्तांतरित की जानी हैं?"
+            "en": "How many native orchids were saved by the rescue-and-relocation project in Keralam?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "About 50 km",
-                "hi": "लगभग 50 कि.मी"
+                "en": "Over 27,000."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "About 60 km",
-                "hi": "लगभग 60 कि.मी"
+                "en": "Over 10,000."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "About 70 km",
-                "hi": "लगभग 70 कि.मी"
+                "en": "Over 5,000."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "About 80 km",
-                "hi": "लगभग 80 कि.मी"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The headline states, 'About 70 km of GCC roads to be handed over to Highways'.\nSource: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
-            "hi": "शीर्षक में कहा गया है, 'लगभग 70 किमी जीसीसी सड़कें राजमार्गों को सौंपी जाएंगी।'\nस्रोत: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-41"
-        },
-        {
-          "prompt": {
-            "en": "Which type of roads are most of those being transferred from GCC to Highways, according to a source?",
-            "hi": "एक सूत्र के अनुसार, जीसीसी से राजमार्गों में स्थानांतरित होने वाली अधिकांश सड़कें किस प्रकार की हैं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Residential colony roads",
-                "hi": "आवासीय कॉलोनी की सड़कें"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Industrial access roads",
-                "hi": "औद्योगिक पहुंच मार्ग"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Pedestrian-only pathways",
-                "hi": "केवल पैदल चलने वालों के लिए रास्ते"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Bus route roads linked to highways located within the city limits",
-                "hi": "बस मार्ग की सड़कें शहर की सीमा के भीतर स्थित राजमार्गों से जुड़ी हुई हैं"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "A source states, 'Most of them are bus route roads linked to highways located within the city limits'.\nSource: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
-            "hi": "एक सूत्र का कहना है, 'उनमें से ज्यादातर बस रूट वाली सड़कें हैं जो शहर की सीमा के भीतर स्थित राजमार्गों से जुड़ी हुई हैं।'\nस्रोत: https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-42"
-        },
-        {
-          "prompt": {
-            "en": "What fueled the new wave of youth dissent in India during the summer?",
-            "hi": "गर्मियों के दौरान भारत में युवा असंतोष की नई लहर को किसने बढ़ावा दिया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Frustration and irreverent online satire",
-                "hi": "हताशा और अपमानजनक ऑनलाइन व्यंग्य"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Government policy successes",
-                "hi": "सरकारी नीति की सफलताएँ"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Economic prosperity and job growth",
-                "hi": "आर्थिक समृद्धि और नौकरी में वृद्धि"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "International political movements",
-                "hi": "अंतर्राष्ट्रीय राजनीतिक आंदोलन"
+                "en": "Over 1,900."
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The excerpt states that the youth dissent was 'fuelled by frustration and irreverent online satire'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में कहा गया है कि युवा असंतोष 'हताशा और अपमानजनक ऑनलाइन व्यंग्य से प्रेरित' था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt states that the project \"has saved over 27,000 native orchids.\"\nSource: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+            "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-43"
+          "id": "2026-11-17-32"
         },
         {
           "prompt": {
-            "en": "What was the approximate number of fatalities in a recent bus-truck collision in north-east India?",
-            "hi": "हाल ही में उत्तर-पूर्व भारत में बस-ट्रक की टक्कर में मरने वालों की अनुमानित संख्या कितनी थी?"
+            "en": "What percentage of the relocated orchids were still alive after one to two years?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "At least 10",
-                "hi": "कम से कम 10"
+                "en": "Less than 50%."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "At least 15",
-                "hi": "कम से कम 15"
+                "en": "Exactly 60%."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "At least 30",
-                "hi": "कम से कम 30"
+                "en": "More than 71%."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "At least 24",
-                "hi": "कम से कम 24"
+                "en": "Around 85%."
               }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The headline reports, 'At least 24 killed after bus collides with truck in north-east India'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक रिपोर्ट है, 'उत्तर-पूर्व भारत में बस और ट्रक की टक्कर में कम से कम 24 लोगों की मौत।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt mentions that \"more than 71% were still alive\" after one to two years.\nSource: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+            "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-44"
+          "id": "2026-11-17-33"
         },
         {
           "prompt": {
-            "en": "Following the electrocution of a boy in Malappuram due to a snapped stay wire, what immediate action was taken by the concerned Minister?",
-            "hi": "मलप्पुरम में टूटे तार के कारण करंट लगने से एक लड़के की मौत के बाद संबंधित मंत्री ने तत्काल क्या कार्रवाई की?"
+            "en": "What was the purpose of humanity's 1974 attempt involving a radio telescope in Puerto Rico?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Announced financial compensation",
-                "hi": "आर्थिक मुआवजे की घोषणा की"
+                "en": "To map distant galaxies."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Ordered a departmental inquiry",
-                "hi": "विभागीय जांच के आदेश दिये गये"
+                "en": "To study solar flares."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Directed immediate repair of all wires",
-                "hi": "सभी तारों की तत्काल मरम्मत का निर्देश दिया"
+                "en": "To communicate with extraterrestrial intelligence."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Visited the victim's family",
-                "hi": "पीड़ित परिवार से मुलाकात की"
+                "en": "To detect gravitational waves."
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The headline clearly states that the 'Minister orders probe' in response to the electrocution incident, which implies ordering a departmental inquiry.\nSource: https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि बिजली गिरने की घटना के जवाब में 'मंत्री ने जांच के आदेश दिए', जिसका तात्पर्य विभागीय जांच का आदेश देना है।\nस्रोत: https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece"
+            "en": "The excerpt describes the 1974 attempt as an effort \"to communicate with extraterrestrial intelligence.\"\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-communication-with-extraterrestrial-intelligence/article71706616.ece",
+            "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/daily-quiz-communication-with-extraterrestrial-intelligence/article71706616.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-45"
+          "id": "2026-11-17-34"
         },
         {
           "prompt": {
-            "en": "At the GIO conference in Kochi, what did Bilkis Bano's husband, Patel Yakub Rasool, highlight regarding her life?",
-            "hi": "कोच्चि में जीआईओ सम्मेलन में बिलकिस बानो के पति पटेल याकूब रसूल ने उनके जीवन के बारे में क्या बताया?"
+            "en": "What are Nāpōwawāʻenakaulua described as in the context of celestial bodies?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Her contributions to social work",
-                "hi": "सामाजिक कार्यों में उनका योगदान"
+                "en": "A newly discovered planet."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The long and arduous struggle for justice she had to wage",
-                "hi": "न्याय के लिए उन्हें लंबा और कठिन संघर्ष करना पड़ा"
+                "en": "A close pair of ancient quasars."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Her advocacy for women's rights",
-                "hi": "महिलाओं के अधिकारों के लिए उनकी वकालत"
+                "en": "A distant supernova remnant."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Her efforts in community building",
-                "hi": "सामुदायिक निर्माण में उनके प्रयास"
+                "en": "A binary star system."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The excerpt directly states that Bilkis Bano's husband 'recollected the long and arduous struggle for justice she had to wage.'\nSource: https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
-            "hi": "अंश सीधे तौर पर बताता है कि बिलकिस बानो के पति को 'न्याय के लिए उनके द्वारा किए गए लंबे और कठिन संघर्ष की याद है।'\nस्रोत: https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece"
+            "en": "The excerpt identifies Nāpōwawāʻenakaulua as \"a close pair of ancient quasars.\"\nSource: https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece",
+            "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-46"
+          "id": "2026-11-17-35"
         },
         {
           "prompt": {
-            "en": "What was the primary demand put forth by guest teachers in Haryana during their mock Assembly?",
-            "hi": "हरियाणा में अतिथि शिक्षकों द्वारा अपनी मॉक असेंबली के दौरान रखी गई प्राथमिक मांग क्या थी?"
+            "en": "How was the Starship spacecraft caught upon its return from orbit?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Increase in salary",
-                "hi": "वेतन में वृद्धि"
+                "en": "It was caught by the “chopstick arms” at SpaceX’s Starbase launch pad."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Reduction in working hours",
-                "hi": "काम के घंटों में कमी"
+                "en": "It deployed parachutes for a soft landing."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Better working conditions",
-                "hi": "बेहतर कामकाजी परिस्थितियाँ"
+                "en": "It landed on a floating platform."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Regularisation of their services",
-                "hi": "उनकी सेवाओं का नियमितीकरण"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The source explicitly states that guest teachers in Haryana 'demand regularisation' of their services.\nSource: https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
-            "hi": "सूत्र ने स्पष्ट रूप से कहा कि हरियाणा में अतिथि शिक्षक अपनी सेवाओं को 'नियमित करने की मांग' करते हैं।\nस्रोत: https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-16-47"
-        },
-        {
-          "prompt": {
-            "en": "In response to rain deficit in Alirajpur district, what two key measures were announced by the Chief Minister of Madhya Pradesh for farmers?",
-            "hi": "अलीराजपुर जिले में बारिश की कमी के जवाब में, मध्य प्रदेश के मुख्यमंत्री ने किसानों के लिए किन दो प्रमुख उपायों की घोषणा की?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Crop loss survey and financial aid",
-                "hi": "फसल हानि सर्वेक्षण एवं वित्तीय सहायता"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Crop insurance and seed subsidies",
-                "hi": "फसल बीमा और बीज सब्सिडी"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Loan waivers and new irrigation projects",
-                "hi": "ऋण माफ़ी और नई सिंचाई परियोजनाएँ"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Market price support and storage facilities",
-                "hi": "बाजार मूल्य समर्थन और भंडारण सुविधाएं"
+                "en": "It performed a vertical landing on its engines."
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The Chief Minister of Madhya Pradesh 'announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district' as measures for farmers.\nSource: https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
-            "hi": "मध्य प्रदेश के मुख्यमंत्री ने किसानों के लिए उपायों के रूप में 'फसल नुकसान सर्वेक्षण, बारिश की कमी वाले अलीराजपुर जिले में किसानों के लिए वित्तीय सहायता की घोषणा की।'\nस्रोत: https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece"
+            "en": "The excerpt states that Starship \"was caught by the “chopstick arms” at SpaceX’s Starbase launch pad in Texas.\"\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+            "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-16-48"
+          "id": "2026-11-17-36"
+        },
+        {
+          "prompt": {
+            "en": "What specific astronomical distance is NASA's Voyager 1 spacecraft closing in on for a new record?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A light-year."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A light-month."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A light-hour."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A light-day."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title indicates that \"NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record.\"\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-37"
+        },
+        {
+          "prompt": {
+            "en": "According to NASA, what is the projected timeframe for Voyager 1 to achieve a full light-year?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Another 1,800 years."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Another 180,000 years."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Another 18,000 years."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Another 1.8 million years."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that \"NASA is looking at another 18,000 years before the spacecraft achieves a full light-year.\"\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-38"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary allegation made by Attorney General Rob Bonta against OpenAI?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Violation of intellectual property rights."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Unfair business practices."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Misleading and endangering the public."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Data privacy breaches."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that \"Attorney General Rob Bonta alleges OpenAI misled and endangered the public.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-39"
+        },
+        {
+          "prompt": {
+            "en": "What weather phenomenon is expected to disrupt travel in northern England and southern Scotland?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Heavy rainfall."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Strong winds."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Snow."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Fog."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions that \"Snow could bring some transport disruption to the hills of northern England and southern Scotland.\"\nSource: BBC News · https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-40"
+        },
+        {
+          "prompt": {
+            "en": "What type of weather warnings have been issued for parts of the UK?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Red warnings."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Yellow weather warnings."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Green warnings."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Amber warnings."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states \"Yellow weather warnings issued for snow as temperatures plummet.\"\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-41"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the gas field from which gas has started flowing after government approval?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "North Sea gas field."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Aberdeen gas field."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jackdaw gas field."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Scottish gas field."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions that \"the Jackdaw gas field... had been approved.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-42"
+        },
+        {
+          "prompt": {
+            "en": "What celestial phenomenon involving multiple planets is visible in the pre-dawn sky during November?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A meteor shower."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A solar eclipse."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A lunar eclipse."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A planetary alignment of Mercury, Venus, Mars and Jupiter."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that \"The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.\"\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-43"
+        },
+        {
+          "prompt": {
+            "en": "What specific mechanism was employed to catch the Starship rocket stage mid-air?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A large net."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A drone with grappling hooks."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A magnetic field."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Huge mechanical arms nicknamed \"chopsticks\"."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt specifies that \"The rocket stage was caught mid air using huge mechanical arms nicknamed 'chopsticks'.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-44"
+        },
+        {
+          "prompt": {
+            "en": "What is the potential impact of the Houthi rebel advance in Yemen?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased regional stability."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Further destabilisation of the global economy."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Promotion of international trade."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Resolution of humanitarian crises."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title of the article states that the \"Houthi rebel advance in Yemen may further destabilise global economy.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-45"
+        },
+        {
+          "prompt": {
+            "en": "What is the nature of the Houthis' support, as mentioned in the excerpt?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "UN-backed."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Saudi-backed."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "US-backed."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Iran-backed."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt describes them as \"The Iran-backed Houthis.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-46"
+        },
+        {
+          "prompt": {
+            "en": "What landmark was reportedly hit during Russia's biggest Ukrainian drone attack of the war?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A major military base."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Landmark Crimea bridge."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The capital city's main airport."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A critical energy facility."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states \"Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-47"
+        },
+        {
+          "prompt": {
+            "en": "According to Russia, approximately how many drones did Ukraine launch over the course of a day during the biggest drone attack?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Over 500 drones."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Over 1,000 drones."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Over 2,000 drones."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Over 3,000 drones."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that \"Russia said Ukraine had launched over 2,000 drones over the course of a day.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-48"
+        },
+        {
+          "prompt": {
+            "en": "How many air raid alerts did Kyiv experience during the reported drone attack?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5 air raid alerts."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "10 air raid alerts."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "20 air raid alerts."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A record 17 air raid alerts."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt mentions that \"Kyiv came under a record 17 air raid alerts.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-49"
+        },
+        {
+          "prompt": {
+            "en": "Who has been announced as the next James Bond?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Daniel Craig."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Robert Pattinson."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Idris Elba."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Tom Hardy."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that \"Robert Pattinson has been announced as the next James Bond.\"\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-50"
+        },
+        {
+          "prompt": {
+            "en": "What number actor is Robert Pattinson in the role of James Bond?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fifth."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Sixth."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Seventh."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Eighth."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that Robert Pattinson is \"becoming the seventh actor to take up the mantle of 007.\"\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-51"
+        },
+        {
+          "prompt": {
+            "en": "What did a forensic expert's analysis of autopsy photos suggest regarding Jeffrey Epstein's death?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He died of natural causes."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He was killed."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He committed suicide."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The cause of death was inconclusive."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title states that a \"Forensic expert says his analysis of autopsy photos suggests Epstein was killed.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-52"
+        },
+        {
+          "prompt": {
+            "en": "According to Professor Michael Freeman, what are Jeffrey Epstein's injuries consistent with?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An accidental fall."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Self-inflicted wounds."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pre-existing medical conditions."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A homicide."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Professor Michael Freeman stated that he believes \"the convicted sex offender's injuries are consistent with a homicide.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-53"
+        },
+        {
+          "prompt": {
+            "en": "For what crime is Lindsay Clancy scheduled to face a retrial next year?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fraud."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Theft."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Assault."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Deaths of her three children."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states that \"Lindsay Clancy to face retrial next year for deaths of her three children.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-54"
+        },
+        {
+          "prompt": {
+            "en": "Why did Lindsay Clancy's first trial fall apart?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A 12-person jury failed to reach a verdict."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A key witness recanted their testimony."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lack of evidence."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The judge declared a mistrial due to procedural errors."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explains that the trial \"fell apart when a 12-person jury failed to reach a verdict.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-55"
         }
       ],
       "quarantined": [],
@@ -2486,54 +2568,79 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-11-16T18:00:00+05:30"
+      "release_at": "2026-11-17T18:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "Hyderabad hospital performs combined heart valve procedures in single sitting",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
-      "published": "2026-11-16T00:29:37+05:30"
+      "title": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+      "published": "2026-11-17T03:36:43+05:30"
     },
     {
-      "title": "‘My entire life has been a struggle,’ says Bilkis Bano at GIO conference in Kochi",
-      "url": "https://www.thehindu.com/news/national/kerala/my-entire-life-has-been-a-struggle-says-bilkis-bano-at-gio-conference-in-kochi/article71704988.ece",
-      "published": "2026-11-15T23:51:50+05:30"
+      "title": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
+      "url": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+      "published": "2026-11-17T03:06:56+05:30"
     },
     {
-      "title": "Air purifier sales surge as Delhi-NCR AQI deteriorates; demand spreads beyond traditional markets",
-      "url": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
-      "published": "2026-11-15T16:09:04+05:30"
+      "title": "West Bengal BJP supporters beating up own party members, says Union Minister as feuds rise in party",
+      "url": "https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+      "published": "2026-11-17T02:28:28+05:30"
     },
     {
-      "title": "PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals",
-      "url": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
-      "published": "2026-11-15T12:41:34+05:30"
+      "title": "Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal",
+      "url": "https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
+      "published": "2026-11-17T02:27:47+05:30"
     },
     {
-      "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection, says Chairman Tuhin Pandey",
-      "url": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
-      "published": "2026-11-15T12:38:23+05:30"
+      "title": "A poverty line that falls short",
+      "url": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+      "published": "2026-11-17T01:07:56+05:30"
     },
     {
-      "title": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
-      "url": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
-      "published": "2026-11-15T12:29:38+05:30"
+      "title": "IBM investing $3 billion annually in India, plans $10 bn global quantum push: CEO",
+      "url": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+      "published": "2026-11-16T23:29:34+05:30"
     },
     {
-      "title": "FPIs pump ₹84,290 crore into equities in first fortnight of November",
-      "url": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
-      "published": "2026-11-15T12:02:39+05:30"
+      "title": "Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order",
+      "url": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+      "published": "2026-11-16T23:18:08+05:30"
     },
     {
-      "title": "Anthropic’s valuation can’t secure its moat",
-      "url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
-      "published": "2026-11-15T07:46:11+05:30"
+      "title": "Asgard Alcobev expanding northeast brewing unit capacity to 10.8 million cases",
+      "url": "https://www.thehindu.com/business/asgard-alcobev-expanding-northeast-brewing-unit-capacity-to-108-million-cases/article71709123.ece",
+      "published": "2026-11-16T21:56:27+05:30"
+    },
+    {
+      "title": "Pricol to focus on ACFMS and precision products",
+      "url": "https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+      "published": "2026-11-16T21:54:40+05:30"
+    },
+    {
+      "title": "Noted agricultural scientist K. Prabhakaran Nair dies",
+      "url": "https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
+      "published": "2026-11-16T14:59:25+05:30"
+    },
+    {
+      "title": "Keralam’s orchids endure from highway trees to salt-sprayed shores",
+      "url": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+      "published": "2026-11-16T12:20:02+05:30"
+    },
+    {
+      "title": "Daily Quiz: Communication with extraterrestrial intelligence",
+      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-communication-with-extraterrestrial-intelligence/article71706616.ece",
+      "published": "2026-11-16T07:12:50+05:30"
+    },
+    {
+      "title": "Nāpōwawāʻenakaulua",
+      "url": "https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece",
+      "published": "2026-11-16T05:41:01+05:30"
     },
     {
       "title": "SpaceX pulls off first-ever spaceship ‘catch’",
       "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
-      "published": "2026-11-15T12:54:53+05:30"
+      "published": "2026-11-15T18:25:36+05:30"
     },
     {
       "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record",
@@ -2541,39 +2648,29 @@
       "published": "2026-11-15T11:29:47+05:30"
     },
     {
-      "title": "Experimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials",
-      "url": "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
-      "published": "2026-11-13T12:45:30+05:30"
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T00:41:42+00:00"
     },
     {
-      "title": "Swabbing public transport to identify urban microbiomes, a city’s microbial signature",
-      "url": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
-      "published": "2026-11-13T11:08:47+05:30"
+      "title": "Prince and Princess of Wales play street cricket in Mumbai",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T08:13:17+00:00"
     },
     {
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T23:11:51+00:00"
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T13:19:33+00:00"
     },
     {
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T15:16:50+00:00"
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T06:24:08+00:00"
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T14:56:21+00:00"
-    },
-    {
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T23:00:31+00:00"
-    },
-    {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T06:42:27+00:00"
+      "title": "Yellow weather warnings issued for snow as temperatures plummet",
+      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T10:02:04+00:00"
     },
     {
       "title": "How to spot November's planetary parade in the pre-dawn sky",
@@ -2586,54 +2683,59 @@
       "published": "2026-11-14T22:15:52+00:00"
     },
     {
-      "title": "What could El Niño mean for winter weather in the US and Canada?",
-      "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T18:50:15+00:00"
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T21:40:07+00:00"
     },
     {
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T18:08:20+00:00"
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T14:58:12+00:00"
     },
     {
-      "title": "State must acquire Kodanad estate land for converting a private road into a public road: PIL in HC",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/state-must-acquire-kodanad-estate-land-for-converting-a-private-road-into-a-public-road-pil-in-hc/article71704828.ece",
-      "published": "2026-11-16T00:46:30+05:30"
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T17:18:54+00:00"
     },
     {
-      "title": "NCW calls for inquiry, seeks report from DGP over Kallakurichi issue",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
-      "published": "2026-11-16T00:42:15+05:30"
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T20:33:57+00:00"
     },
     {
-      "title": "Anbumani seeks pay hike for guest lecturers from Sept. 1",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece",
-      "published": "2026-11-16T00:40:31+05:30"
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T19:30:30+00:00"
     },
     {
-      "title": "CIAL sets up facilitation centre for Sabarimala pilgrims",
-      "url": "https://www.thehindu.com/news/national/kerala/cial-sets-up-facilitation-centre-for-sabarimala-pilgrims/article71704623.ece",
-      "published": "2026-11-16T00:38:55+05:30"
+      "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+      "url": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+      "published": "2026-11-17T04:27:18+05:30"
     },
     {
-      "title": "About 70 km of GCC roads to be handed over to Highways",
-      "url": "https://www.thehindu.com/news/cities/chennai/about-70-km-of-gcc-roads-to-be-handed-over-to-highways/article71705586.ece",
-      "published": "2026-11-16T00:32:13+05:30"
+      "title": "BJP holds key party meeting in Mathura for Assembly polls",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+      "published": "2026-11-17T04:57:22+05:30"
     },
     {
-      "title": "Boy electrocuted by snapped stay wire in Malappuram; Minister orders probe",
-      "url": "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece",
-      "published": "2026-11-16T01:36:43+05:30"
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:12:24+00:00"
     },
     {
-      "title": "Guest teachers in Haryana hold mock Assembly, demand regularisation",
-      "url": "https://www.thehindu.com/news/national/haryana/guest-teachers-in-haryana-hold-mock-assembly-demand-regularisation/article71705467.ece",
-      "published": "2026-11-16T01:21:50+05:30"
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:00:03+00:00"
     },
     {
-      "title": "M.P. CM announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
-      "published": "2026-11-16T01:21:13+05:30"
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:00:02+00:00"
+    },
+    {
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:09:54+00:00"
     }
   ]
 }

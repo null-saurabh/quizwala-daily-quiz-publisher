@@ -1,0 +1,2741 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T00:24:23.607716+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-17.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to Mr. Karra, what was the alleged cause of death for two SPOs in Kishtwar?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "killed by terrorists in a targeted attack on November 11"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "killed during an encounter with militants on November 11"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "killed by the Army in a mistaken-identity case on November 11"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "killed due to cross-firing during a protest on November 11"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Mr. Karra explicitly stated that 'two SPOs were killed by the Army in a mistaken-identity case on November 11'.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-1"
+        },
+        {
+          "prompt": {
+            "en": "How did senior BJP leader Sharma describe the Congress's actions regarding the Kishtwar incident?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Congress is spreading misleading information to shift blame from terrorists to security forces"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Congress is seeking a peaceful resolution"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Congress is highlighting security lapses"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Congress is demanding a thorough investigation"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Senior BJP leader Sharma alleged that 'Congress is spreading misleading information to shift blame from terrorists to security forces'.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-2"
+        },
+        {
+          "prompt": {
+            "en": "What specific claim did Bishop of Calcutta Reverend Paritosh Canning rule out regarding institutions affiliated with the Churches of North India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "claims of religious conversion by institutions affiliated with the Churches of North India"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "claims of financial mismanagement"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "claims of political lobbying"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "claims of property disputes"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The Bishop of Calcutta Reverend Paritosh Canning 'ruled out claims of religious conversion by institutions affiliated with the Churches of North India'.\nSource: https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-3"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary goal articulated by the Chief Minister for Punjab?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To attract only foreign direct investment."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To focus solely on agricultural reforms."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To build the progressive Punjab they envision."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To reduce the state's historical debt."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Chief Minister explicitly stated that \"his government is working to build the progressive Punjab they envision.\"\nSource: https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-4"
+        },
+        {
+          "prompt": {
+            "en": "According to Mr. Karra, what was the alleged cause of death for two SPOs in Kishtwar on November 11?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A mistaken-identity case by the Army."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A terrorist ambush."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cross-border shelling."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An accidental firing during training."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Mr. Karra stated that \"two SPOs were killed by the Army in a mistaken-identity case on November 11\".\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-5"
+        },
+        {
+          "prompt": {
+            "en": "What were some of the key areas of discussion at the BJP's meeting in Mathura for the Assembly polls?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "International trade agreements and foreign policy."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Global economic trends and technological advancements."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Organisational programmes, booth empowerment, and public welfare benefits."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bilateral relations with neighboring countries."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that the meeting was held to \"discuss organisational programmes, booth empowerment, and public welfare benefits,\" directly matching option b.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-6"
+        },
+        {
+          "prompt": {
+            "en": "What is the overarching objective that CM Mann's government is working towards in Punjab?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Establishing new international trade routes."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Modernizing agricultural practices with foreign aid."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Building the progressive Punjab they envision."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Expanding industrial output through privatization."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "CM Mann explicitly stated that \"his government is working to build the progressive Punjab they envision,\" which is the overarching objective.\nSource: https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-7"
+        },
+        {
+          "prompt": {
+            "en": "According to Bongaon MP Santanu Thakur, what is the alleged state of the police administration in West Bengal amidst intra-party feuds?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is actively mediating disputes."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It has turned a blind eye and is not functioning impartially."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is functioning impartially and effectively."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is collaborating with central agencies."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Bongaon MP Santanu Thakur alleged that \"The police administration has turned a blind eye and is not functioning impartially.\"\nSource: https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-8"
+        },
+        {
+          "prompt": {
+            "en": "Besides organisational programmes and booth empowerment, what other strategic aspects were discussed by the BJP in its Mathura meeting?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Electoral strategy and caste-based outreach."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "International economic partnerships."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Scientific research and development."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Environmental conservation initiatives."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states the meeting was also \"outlining electoral strategy and caste-based outreach,\" in addition to other points.\nSource: https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-9"
+        },
+        {
+          "prompt": {
+            "en": "What specific social issues does CM Mann mention his government is working to free Punjab from?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Drugs and unemployment."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Poverty and illiteracy."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Corruption and crime."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Disease and malnutrition."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the article directly quotes CM Mann as saying \"Punjab free from drugs and unemployment,\" indicating these are the issues.\nSource: https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-10"
+        },
+        {
+          "prompt": {
+            "en": "What event, according to Mr. Karra, led to the deaths of two SPOs on November 11?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A terrorist ambush."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A cross-border firing incident."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A mistaken-identity case by the Army."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An accidental explosion."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Mr. Karra explicitly stated that \"two SPOs were killed by the Army in a mistaken-identity case on November 11.\"\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-11"
+        },
+        {
+          "prompt": {
+            "en": "What is the Christian community in West Bengal seeking from the Chief Minister ahead of Christmas?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Intervention over targeted attacks."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Financial aid for community projects."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Special holiday declarations."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Support for religious festivals."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states that the \"Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas.\"\nSource: https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-12"
+        },
+        {
+          "prompt": {
+            "en": "What specific incident led to speculation of an intra-party feud within the BJP in West Bengal?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A disagreement over electoral strategy."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The murder of a BJP worker by own party members."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A public protest against party leadership."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Resignations of key party officials."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title of the article directly states that the \"Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal.\"\nSource: https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-13"
+        },
+        {
+          "prompt": {
+            "en": "What is highlighted as a consequence of not having a credible benchmark for poverty estimates in India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It makes it hard to say how much progress has been made or remains to be done."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It leads to international sanctions."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It increases academic research funding."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It simplifies policy-making processes."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that \"without a credible benchmark, it is hard to say how much, or how much remains to be done\" regarding India's progress on poverty.\nSource: https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-14"
+        },
+        {
+          "prompt": {
+            "en": "What specific amount of Yes Bank’s additional tier-1 bonds was set aside by the Supreme Court’s judgment, prompting the RBI’s review petition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹8,415 crore."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,200 crore."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹5,000 crore."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹10,000 crore."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The RBI filed a review petition against the Supreme Court's judgment that set aside the write-off of \"₹8,415 crore of Yes Bank’s additional tier-1 bonds.\"\nSource: https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-15"
+        },
+        {
+          "prompt": {
+            "en": "What is one of the key changes made by India to its short-term military recruitment scheme?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Reducing the age limit for recruitment."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increasing the number of short-term recruits."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Giving young soldiers a longer military stint and another shot at permanent service."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Eliminating all short-term recruitment options."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that India \"has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-16"
+        },
+        {
+          "prompt": {
+            "en": "Who are William and Catherine scheduled to meet later in the week during their visit to India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Chief Minister of Mumbai."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The President of India."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Indian Prime Minister Narendra Modi."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Local cricket team captains."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions that William and Catherine are visiting India \"ahead of a meeting with Indian Prime Minister Narendra Modi later in the week.\"\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-17"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-17T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-17.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "How much is IBM investing annually in India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1 billion."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$3 billion."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$5 billion."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$10 billion."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states \"IBM investing $3 billion annually in India.\"\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-18"
+        },
+        {
+          "prompt": {
+            "en": "What is IBM's planned global investment in quantum technology?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$10 billion."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$5 billion."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$1 billion."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$3 billion."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states that IBM \"plans $10 bn global quantum push.\"\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-19"
+        },
+        {
+          "prompt": {
+            "en": "According to IBM CEO Arvind Krishna, what percentage of jobs could AI displace over the next decade?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5-10%."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "20-30%."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "10-20%."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "30-40%."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "IBM CEO Arvind Krishna stated that \"AI could displace 10-20% of jobs over the next decade.\"\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-20"
+        },
+        {
+          "prompt": {
+            "en": "Which industry is particularly vulnerable to job reductions due to AI, according to IBM CEO Arvind Krishna?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The BPO industry."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Healthcare."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Manufacturing."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Agriculture."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Arvind Krishna mentioned that \"the BPO industry likely to face some of the biggest reductions\" due to AI.\nSource: https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-21"
+        },
+        {
+          "prompt": {
+            "en": "What was the value of Yes Bank's additional tier-1 bonds whose write-off was set aside by the Supreme Court, leading to RBI's review petition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹1,000 crore."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹8,415 crore."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹5,000 crore."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹12,000 crore."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that the Supreme Court's judgment set aside the write-off of \"₹8,415 crore of Yes Bank’s additional tier-1 bonds.\"\nSource: https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-22"
+        },
+        {
+          "prompt": {
+            "en": "What is Asgard Alcobev's target capacity expansion for its northeast brewing unit?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "10.8 million cases."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "7.5 million cases."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "5 million cases."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "15 million cases."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states that Asgard Alcobev is \"expanding northeast brewing unit capacity to 10.8 million cases.\"\nSource: https://www.thehindu.com/business/asgard-alcobev-expanding-northeast-brewing-unit-capacity-to-108-million-cases/article71709123.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/asgard-alcobev-expanding-northeast-brewing-unit-capacity-to-108-million-cases/article71709123.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-23"
+        },
+        {
+          "prompt": {
+            "en": "What was the approximate revenue reported by Pricol's DICVS business in FY26?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹2,400 crore."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹1,500 crore."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹3,000 crore."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹4,000 crore."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that \"The DICVS business reported revenue of approximately ₹2,400 crore in FY26.\"\nSource: https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-24"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of Pricol's consolidated revenue did the DICVS business account for in FY26?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "40%."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "60%."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "50%."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "70%."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The DICVS business was \"accounting for nearly 60% of Pricol’s consolidated revenue.\"\nSource: https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-25"
+        },
+        {
+          "prompt": {
+            "en": "What demographic group is the job lookup tool primarily aimed at?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Experienced professionals."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Retired citizens seeking part-time employment."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Individuals aged 16-24 looking for work."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Entrepreneurs seeking business opportunities."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title of the article directly addresses \"Aged 16-24 and looking for work?\" indicating the target demographic.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-26"
+        },
+        {
+          "prompt": {
+            "en": "What alternative housing strategy are some people adopting due to affordability issues?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Buying homes with people they don't know."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Moving to smaller towns."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Renting luxury apartments."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Investing in commercial properties."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that \"People who can't afford to get on the housing ladder are buying homes with people they don't know.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-27"
+        },
+        {
+          "prompt": {
+            "en": "What policy change is a key report urging to create more jobs for under-25s?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increasing minimum wage."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Expanding vocational training programs."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cutting National Insurance."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Subsidizing higher education."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title of the article states that a report urges to \"Create more jobs for under-25s by cutting National Insurance.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-28"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary purpose of reliable poverty estimates beyond academic use?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To provide a credible benchmark for assessing progress and remaining work."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To attract foreign investment."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To determine international aid eligibility."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To influence global market trends."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that \"without a credible benchmark, it is hard to say how much, or how much remains to be done,\" implying that reliable estimates provide this benchmark.\nSource: https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-29"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-17T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-17.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "In which fields did noted agricultural scientist K. Prabhakaran Nair make immense contributions?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Astrophysics and quantum mechanics."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Sustainable agriculture, soil science and agronomy."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Marine biology and oceanography."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Computer science and artificial intelligence."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that K. Prabhakaran Nair \"made immense contributions to sustainable agriculture, soil science and agronomy.\"\nSource: https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-30"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary objective of the rescue-and-relocation project in Keralam regarding orchids?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To cultivate new orchid varieties."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To export orchids for commercial purposes."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To study orchid genetics."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To save native orchids from roadside trees felled in Keralam."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt clearly states that \"A rescue-and-relocation project has saved over 27,000 native orchids from roadside trees felled in Keralam.\"\nSource: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-31"
+        },
+        {
+          "prompt": {
+            "en": "How many native orchids were saved by the rescue-and-relocation project in Keralam?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Over 27,000."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Over 10,000."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Over 5,000."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Over 1,900."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that the project \"has saved over 27,000 native orchids.\"\nSource: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-32"
+        },
+        {
+          "prompt": {
+            "en": "What percentage of the relocated orchids were still alive after one to two years?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Less than 50%."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Exactly 60%."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than 71%."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Around 85%."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions that \"more than 71% were still alive\" after one to two years.\nSource: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-33"
+        },
+        {
+          "prompt": {
+            "en": "What was the purpose of humanity's 1974 attempt involving a radio telescope in Puerto Rico?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To map distant galaxies."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To study solar flares."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To communicate with extraterrestrial intelligence."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To detect gravitational waves."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt describes the 1974 attempt as an effort \"to communicate with extraterrestrial intelligence.\"\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-communication-with-extraterrestrial-intelligence/article71706616.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/daily-quiz-communication-with-extraterrestrial-intelligence/article71706616.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-34"
+        },
+        {
+          "prompt": {
+            "en": "What are Nāpōwawāʻenakaulua described as in the context of celestial bodies?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A newly discovered planet."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A close pair of ancient quasars."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A distant supernova remnant."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A binary star system."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt identifies Nāpōwawāʻenakaulua as \"a close pair of ancient quasars.\"\nSource: https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-35"
+        },
+        {
+          "prompt": {
+            "en": "How was the Starship spacecraft caught upon its return from orbit?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was caught by the “chopstick arms” at SpaceX’s Starbase launch pad."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It deployed parachutes for a soft landing."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It landed on a floating platform."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It performed a vertical landing on its engines."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that Starship \"was caught by the “chopstick arms” at SpaceX’s Starbase launch pad in Texas.\"\nSource: https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-36"
+        },
+        {
+          "prompt": {
+            "en": "What specific astronomical distance is NASA's Voyager 1 spacecraft closing in on for a new record?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A light-year."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A light-month."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A light-hour."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A light-day."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title indicates that \"NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record.\"\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-37"
+        },
+        {
+          "prompt": {
+            "en": "According to NASA, what is the projected timeframe for Voyager 1 to achieve a full light-year?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Another 1,800 years."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Another 180,000 years."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Another 18,000 years."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Another 1.8 million years."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that \"NASA is looking at another 18,000 years before the spacecraft achieves a full light-year.\"\nSource: https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-38"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary allegation made by Attorney General Rob Bonta against OpenAI?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Violation of intellectual property rights."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Unfair business practices."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Misleading and endangering the public."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Data privacy breaches."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that \"Attorney General Rob Bonta alleges OpenAI misled and endangered the public.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-39"
+        },
+        {
+          "prompt": {
+            "en": "What weather phenomenon is expected to disrupt travel in northern England and southern Scotland?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Heavy rainfall."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Strong winds."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Snow."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Fog."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions that \"Snow could bring some transport disruption to the hills of northern England and southern Scotland.\"\nSource: BBC News · https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-40"
+        },
+        {
+          "prompt": {
+            "en": "What type of weather warnings have been issued for parts of the UK?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Red warnings."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Yellow weather warnings."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Green warnings."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Amber warnings."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states \"Yellow weather warnings issued for snow as temperatures plummet.\"\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-41"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the gas field from which gas has started flowing after government approval?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "North Sea gas field."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Aberdeen gas field."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jackdaw gas field."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Scottish gas field."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt mentions that \"the Jackdaw gas field... had been approved.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-42"
+        },
+        {
+          "prompt": {
+            "en": "What celestial phenomenon involving multiple planets is visible in the pre-dawn sky during November?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A meteor shower."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A solar eclipse."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A lunar eclipse."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A planetary alignment of Mercury, Venus, Mars and Jupiter."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that \"The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.\"\nSource: BBC News · https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-43"
+        },
+        {
+          "prompt": {
+            "en": "What specific mechanism was employed to catch the Starship rocket stage mid-air?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A large net."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A drone with grappling hooks."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A magnetic field."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Huge mechanical arms nicknamed \"chopsticks\"."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt specifies that \"The rocket stage was caught mid air using huge mechanical arms nicknamed 'chopsticks'.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-44"
+        },
+        {
+          "prompt": {
+            "en": "What is the potential impact of the Houthi rebel advance in Yemen?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased regional stability."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Further destabilisation of the global economy."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Promotion of international trade."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Resolution of humanitarian crises."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title of the article states that the \"Houthi rebel advance in Yemen may further destabilise global economy.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-45"
+        },
+        {
+          "prompt": {
+            "en": "What is the nature of the Houthis' support, as mentioned in the excerpt?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "UN-backed."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Saudi-backed."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "US-backed."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Iran-backed."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt describes them as \"The Iran-backed Houthis.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-46"
+        },
+        {
+          "prompt": {
+            "en": "What landmark was reportedly hit during Russia's biggest Ukrainian drone attack of the war?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A major military base."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Landmark Crimea bridge."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The capital city's main airport."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A critical energy facility."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states \"Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-47"
+        },
+        {
+          "prompt": {
+            "en": "According to Russia, approximately how many drones did Ukraine launch over the course of a day during the biggest drone attack?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Over 500 drones."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Over 1,000 drones."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Over 2,000 drones."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Over 3,000 drones."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that \"Russia said Ukraine had launched over 2,000 drones over the course of a day.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-48"
+        },
+        {
+          "prompt": {
+            "en": "How many air raid alerts did Kyiv experience during the reported drone attack?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5 air raid alerts."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "10 air raid alerts."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "20 air raid alerts."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A record 17 air raid alerts."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt mentions that \"Kyiv came under a record 17 air raid alerts.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-49"
+        },
+        {
+          "prompt": {
+            "en": "Who has been announced as the next James Bond?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Daniel Craig."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Robert Pattinson."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Idris Elba."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Tom Hardy."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that \"Robert Pattinson has been announced as the next James Bond.\"\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-50"
+        },
+        {
+          "prompt": {
+            "en": "What number actor is Robert Pattinson in the role of James Bond?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fifth."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Sixth."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Seventh."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Eighth."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that Robert Pattinson is \"becoming the seventh actor to take up the mantle of 007.\"\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-51"
+        },
+        {
+          "prompt": {
+            "en": "What did a forensic expert's analysis of autopsy photos suggest regarding Jeffrey Epstein's death?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He died of natural causes."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He was killed."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He committed suicide."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The cause of death was inconclusive."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title states that a \"Forensic expert says his analysis of autopsy photos suggests Epstein was killed.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-52"
+        },
+        {
+          "prompt": {
+            "en": "According to Professor Michael Freeman, what are Jeffrey Epstein's injuries consistent with?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An accidental fall."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Self-inflicted wounds."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Pre-existing medical conditions."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A homicide."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Professor Michael Freeman stated that he believes \"the convicted sex offender's injuries are consistent with a homicide.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-53"
+        },
+        {
+          "prompt": {
+            "en": "For what crime is Lindsay Clancy scheduled to face a retrial next year?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fraud."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Theft."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Assault."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Deaths of her three children."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states that \"Lindsay Clancy to face retrial next year for deaths of her three children.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-54"
+        },
+        {
+          "prompt": {
+            "en": "Why did Lindsay Clancy's first trial fall apart?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A 12-person jury failed to reach a verdict."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A key witness recanted their testimony."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lack of evidence."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The judge declared a mistrial due to procedural errors."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explains that the trial \"fell apart when a 12-person jury failed to reach a verdict.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-17-55"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-17T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece",
+      "published": "2026-11-17T03:36:43+05:30"
+    },
+    {
+      "title": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
+      "url": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece",
+      "published": "2026-11-17T03:06:56+05:30"
+    },
+    {
+      "title": "West Bengal BJP supporters beating up own party members, says Union Minister as feuds rise in party",
+      "url": "https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece",
+      "published": "2026-11-17T02:28:28+05:30"
+    },
+    {
+      "title": "Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal",
+      "url": "https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece",
+      "published": "2026-11-17T02:27:47+05:30"
+    },
+    {
+      "title": "A poverty line that falls short",
+      "url": "https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece",
+      "published": "2026-11-17T01:07:56+05:30"
+    },
+    {
+      "title": "IBM investing $3 billion annually in India, plans $10 bn global quantum push: CEO",
+      "url": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece",
+      "published": "2026-11-16T23:29:34+05:30"
+    },
+    {
+      "title": "Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order",
+      "url": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+      "published": "2026-11-16T23:18:08+05:30"
+    },
+    {
+      "title": "Asgard Alcobev expanding northeast brewing unit capacity to 10.8 million cases",
+      "url": "https://www.thehindu.com/business/asgard-alcobev-expanding-northeast-brewing-unit-capacity-to-108-million-cases/article71709123.ece",
+      "published": "2026-11-16T21:56:27+05:30"
+    },
+    {
+      "title": "Pricol to focus on ACFMS and precision products",
+      "url": "https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece",
+      "published": "2026-11-16T21:54:40+05:30"
+    },
+    {
+      "title": "Noted agricultural scientist K. Prabhakaran Nair dies",
+      "url": "https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
+      "published": "2026-11-16T14:59:25+05:30"
+    },
+    {
+      "title": "Keralam’s orchids endure from highway trees to salt-sprayed shores",
+      "url": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+      "published": "2026-11-16T12:20:02+05:30"
+    },
+    {
+      "title": "Daily Quiz: Communication with extraterrestrial intelligence",
+      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-communication-with-extraterrestrial-intelligence/article71706616.ece",
+      "published": "2026-11-16T07:12:50+05:30"
+    },
+    {
+      "title": "Nāpōwawāʻenakaulua",
+      "url": "https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece",
+      "published": "2026-11-16T05:41:01+05:30"
+    },
+    {
+      "title": "SpaceX pulls off first-ever spaceship ‘catch’",
+      "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+      "published": "2026-11-15T18:25:36+05:30"
+    },
+    {
+      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record",
+      "url": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+      "published": "2026-11-15T11:29:47+05:30"
+    },
+    {
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T00:41:42+00:00"
+    },
+    {
+      "title": "Prince and Princess of Wales play street cricket in Mumbai",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T08:13:17+00:00"
+    },
+    {
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T13:19:33+00:00"
+    },
+    {
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T06:24:08+00:00"
+    },
+    {
+      "title": "Yellow weather warnings issued for snow as temperatures plummet",
+      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T10:02:04+00:00"
+    },
+    {
+      "title": "How to spot November's planetary parade in the pre-dawn sky",
+      "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T10:49:57+00:00"
+    },
+    {
+      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T22:15:52+00:00"
+    },
+    {
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T21:40:07+00:00"
+    },
+    {
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T14:58:12+00:00"
+    },
+    {
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T17:18:54+00:00"
+    },
+    {
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T20:33:57+00:00"
+    },
+    {
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T19:30:30+00:00"
+    },
+    {
+      "title": "Tribute to Kartar Singh Sarabha, Punjab free from drugs and unemployment, says CM Mann",
+      "url": "https://www.thehindu.com/news/national/punjab/tribute-to-kartar-singh-sarabha-punjab-free-from-drugs-and-unemployment-says-cm-mann/article71709559.ece",
+      "published": "2026-11-17T04:27:18+05:30"
+    },
+    {
+      "title": "BJP holds key party meeting in Mathura for Assembly polls",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-holds-key-party-meeting-in-mathura-for-assembly-polls/article71709422.ece",
+      "published": "2026-11-17T04:57:22+05:30"
+    },
+    {
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:12:24+00:00"
+    },
+    {
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:00:03+00:00"
+    },
+    {
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:00:02+00:00"
+    },
+    {
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:09:54+00:00"
+    }
+  ]
+}
