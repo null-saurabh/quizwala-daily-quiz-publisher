@@ -1,0 +1,2779 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-18",
+  "generated_at": "2026-11-17T21:21:28.779180+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-18.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What directive did J&K CM Omar Abdullah issue to outside companies operating in the region?",
+            "hi": "जम्मू-कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने क्षेत्र में काम करने वाली बाहरी कंपनियों को क्या निर्देश जारी किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To prioritize environmental sustainability in all projects.",
+                "hi": "सभी परियोजनाओं में पर्यावरणीय स्थिरता को प्राथमिकता देना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To collaborate with local government bodies on project implementation.",
+                "hi": "परियोजना कार्यान्वयन पर स्थानीय सरकारी निकायों के साथ सहयोग करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To invest a minimum of ₹30 crores in development projects.",
+                "hi": "विकास परियोजनाओं में न्यूनतम ₹30 करोड़ का निवेश करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To ensure that local residents are hired for available positions.",
+                "hi": "यह सुनिश्चित करना कि उपलब्ध पदों पर स्थानीय निवासियों को नियुक्त किया जाए।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly states the J&K CM's directive: 'Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside companies', indicating a focus on local employment.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से जम्मू-कश्मीर के मुख्यमंत्री के निर्देश को बताया गया है: 'बाहरी लोगों को काम पर रखने की अनुमति नहीं देंगे, स्थानीय लोगों को काम पर रखें: जम्मू-कश्मीर के मुख्यमंत्री उमर अब्दुल्ला बाहरी कंपनियों को काम पर रखें', जो स्थानीय रोजगार पर ध्यान केंद्रित करने का संकेत देता है।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-1"
+        },
+        {
+          "prompt": {
+            "en": "In which districts were development projects worth ₹30 crores inaugurated by the J&K CM?",
+            "hi": "जम्मू-कश्मीर के मुख्यमंत्री द्वारा किन जिलों में ₹30 करोड़ की विकास परियोजनाओं का उद्घाटन किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Srinagar, Pulwama, and Anantnag",
+                "hi": "श्रीनगर, पुलवामा और अनंतनाग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Jammu, Samba, and Kathua",
+                "hi": "जम्मू, सांबा और कठुआ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Leh, Kargil, and Doda",
+                "hi": "लेह, कारगिल और डोडा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Udhampur, Rajouri, and Poonch",
+                "hi": "उधमपुर, राजौरी और पुंछ"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that the CM made the statement 'during the inauguration of development projects worth ₹30 crores in Jammu, Samba and Kathua districts'.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
+            "hi": "अंश में कहा गया है कि सीएम ने यह बयान 'जम्मू, सांबा और कठुआ जिलों में 30 करोड़ रुपये की विकास परियोजनाओं के उद्घाटन के दौरान' दिया।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-2"
+        },
+        {
+          "prompt": {
+            "en": "What reason did the Kolkata Police give for refusing permission to SFI activists to set up a bookstall near Calcutta University?",
+            "hi": "कोलकाता पुलिस ने एसएफआई कार्यकर्ताओं को कलकत्ता विश्वविद्यालय के पास बुक स्टॉल लगाने की अनुमति देने से इनकार करने का क्या कारण बताया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Concerns about potential disruption to traffic flow.",
+                "hi": "यातायात प्रवाह में संभावित व्यवधान के बारे में चिंताएँ।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lack of proper documentation for the bookstall.",
+                "hi": "बुकस्टॉल के लिए उचित दस्तावेज का अभाव।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The bookstall location was too close to a sensitive area.",
+                "hi": "बुकस्टॉल का स्थान संवेदनशील क्षेत्र के बहुत करीब था।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Previous incidents of public disorder caused by SFI activists.",
+                "hi": "एसएफआई कार्यकर्ताओं द्वारा सार्वजनिक अव्यवस्था की पिछली घटनाएं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that 'police refused on November 16 evening, saying it could disrupt traffic'.\nSource: https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से बताया कि 'पुलिस ने 16 नवंबर की शाम को यह कहते हुए इनकार कर दिया कि इससे यातायात बाधित हो सकता है।'\nस्रोत: https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-3"
+        },
+        {
+          "prompt": {
+            "en": "What was a key finding of the inquiry report regarding the convocation ceremony row at Maharaja’s College?",
+            "hi": "महाराजा कॉलेज में दीक्षांत समारोह विवाद के संबंध में जांच रिपोर्ट का मुख्य निष्कर्ष क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The college administration failed to provide adequate security.",
+                "hi": "कॉलेज प्रशासन पर्याप्त सुरक्षा मुहैया कराने में विफल रहा."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The suspended students were not given a fair hearing.",
+                "hi": "निलंबित छात्रों की निष्पक्ष सुनवाई नहीं की गई।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "External political interference instigated the row.",
+                "hi": "बाहरी राजनीतिक हस्तक्षेप ने विवाद को भड़काया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The incident caused disrepute to the institution's public image.",
+                "hi": "इस घटना से संस्था की सार्वजनिक छवि को बदनामी हुई।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The inquiry report 'finds' that 'The incident caused disrepute to the image of the institution in the public domain'.\nSource: https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
+            "hi": "जांच रिपोर्ट में 'पाया गया' कि 'इस घटना के कारण सार्वजनिक क्षेत्र में संस्थान की छवि खराब हुई।'\nस्रोत: https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-4"
+        },
+        {
+          "prompt": {
+            "en": "How was a Kochi woman allegedly cheated out of ₹90,000?",
+            "hi": "कोच्चि की एक महिला से कथित तौर पर ₹90,000 की धोखाधड़ी कैसे की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Through a phishing email requesting bank account details.",
+                "hi": "एक फ़िशिंग ईमेल के माध्यम से बैंक खाते के विवरण का अनुरोध करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By an unidentified person promising to activate a credit card over the phone.",
+                "hi": "किसी अज्ञात व्यक्ति द्वारा फ़ोन पर क्रेडिट कार्ड सक्रिय करने का वादा किया गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Via an online investment scheme that turned out to be fraudulent.",
+                "hi": "एक ऑनलाइन निवेश योजना के माध्यम से जो धोखाधड़ीपूर्ण निकली।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Through a fake job offer requiring an upfront security deposit.",
+                "hi": "एक फर्जी नौकरी की पेशकश के माध्यम से अग्रिम सुरक्षा जमा की आवश्यकता होती है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states the complainant was 'allegedly cheated by an unidentified person who contacted her over the phone, promising to activate a credit card'.\nSource: https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece",
+            "hi": "अंश में कहा गया है कि शिकायतकर्ता को 'कथित तौर पर एक अज्ञात व्यक्ति द्वारा धोखा दिया गया था, जिसने क्रेडिट कार्ड सक्रिय करने का वादा करके उससे फोन पर संपर्क किया था।'\nस्रोत: https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-5"
+        },
+        {
+          "prompt": {
+            "en": "What did the Kerala High Court direct the Cusat Syndicate to examine regarding suspended employees?",
+            "hi": "केरल उच्च न्यायालय ने क्यूसैट सिंडिकेट को निलंबित कर्मचारियों के संबंध में क्या जांच करने का निर्देश दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The possibility of immediate reinstatement without review.",
+                "hi": "समीक्षा के बिना तत्काल बहाली की संभावना."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The financial implications of their suspension on the university.",
+                "hi": "उनके निलंबन का विश्वविद्यालय पर वित्तीय प्रभाव पड़ेगा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Whether the continued suspension was justified.",
+                "hi": "क्या लगातार निलंबन उचित था?"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Alternative disciplinary actions instead of suspension.",
+                "hi": "निलंबन के बजाय वैकल्पिक अनुशासनात्मक कार्रवाई।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The court 'directed the Syndicate to examine whether the continued suspension was justified'.\nSource: https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece",
+            "hi": "अदालत ने 'सिंडिकेट को यह जांचने का निर्देश दिया कि क्या निरंतर निलंबन उचित था।'\nस्रोत: https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-6"
+        },
+        {
+          "prompt": {
+            "en": "What was Bilkis Bano's reaction to the top court order regarding the bail of two convicts in the Gujarat riots gang-rape case?",
+            "hi": "गुजरात दंगा सामूहिक बलात्कार मामले में दो दोषियों की जमानत के संबंध में शीर्ष अदालत के आदेश पर बिलकिस बानो की क्या प्रतिक्रिया थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She expressed satisfaction with the judicial process.",
+                "hi": "उन्होंने न्यायिक प्रक्रिया पर संतोष व्यक्त किया."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She accepted the decision as a part of the legal system.",
+                "hi": "उन्होंने इस फैसले को कानूनी व्यवस्था का हिस्सा मानते हुए स्वीकार किया."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She spoke of her 'pain, shock and disbelief' and vowed to fight back.",
+                "hi": "उसने अपने 'दर्द, सदमे और अविश्वास' के बारे में बात की और वापस लड़ने की कसम खाई।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She sought immediate intervention from international bodies.",
+                "hi": "उन्होंने अंतरराष्ट्रीय निकायों से तत्काल हस्तक्षेप की मांग की।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'बिलकिस बानो ने शीर्ष अदालत के आदेश पर अपने \"दर्द, सदमे और अविश्वास\" के बारे में बात की है और वापस लड़ने की कसम खाई है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-7"
+        },
+        {
+          "prompt": {
+            "en": "What is a key characteristic of the problems being addressed by Indian AI start-ups, as mentioned in the source?",
+            "hi": "जैसा कि स्रोत में बताया गया है, भारतीय एआई स्टार्ट-अप द्वारा संबोधित की जा रही समस्याओं की एक प्रमुख विशेषता क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are primarily focused on global market expansion.",
+                "hi": "वे मुख्य रूप से वैश्विक बाजार विस्तार पर केंद्रित हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They are mainly developing solutions for the healthcare sector.",
+                "hi": "वे मुख्य रूप से स्वास्थ्य सेवा क्षेत्र के लिए समाधान विकसित कर रहे हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They are solving uniquely Indian challenges.",
+                "hi": "वे विशिष्ट भारतीय चुनौतियों का समाधान कर रहे हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are focused on replicating Western AI models for local use.",
+                "hi": "वे स्थानीय उपयोग के लिए पश्चिमी एआई मॉडल की नकल करने पर केंद्रित हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt highlights that 'dozens of Indian AI start-ups are solving uniquely Indian challenges'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश इस बात पर प्रकाश डालता है कि 'दर्जनों भारतीय एआई स्टार्ट-अप विशिष्ट भारतीय चुनौतियों का समाधान कर रहे हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-8"
+        },
+        {
+          "prompt": {
+            "en": "What significant change has India made to its short-term military recruitment scheme?",
+            "hi": "भारत ने अपनी अल्पकालिक सैन्य भर्ती योजना में क्या महत्वपूर्ण बदलाव किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It has increased the minimum age for recruitment.",
+                "hi": "इसमें भर्ती के लिए न्यूनतम आयु बढ़ा दी गई है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It has introduced a shorter training period for recruits.",
+                "hi": "इसने रंगरूटों के लिए छोटी प्रशिक्षण अवधि की शुरुआत की है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It now offers young soldiers a longer military stint and another chance at permanent service.",
+                "hi": "अब यह युवा सैनिकों को लंबे समय तक सैन्य कार्यकाल और स्थायी सेवा का एक और मौका प्रदान करता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It has reduced the number of recruits taken in each cycle.",
+                "hi": "इससे प्रत्येक चक्र में होने वाली भर्तियों की संख्या कम हो गई है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that 'India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि 'भारत ने अपनी भर्ती योजना को नरम कर दिया है, जिससे युवा सैनिकों को लंबे समय तक सैन्य कार्यकाल और स्थायी सेवा में एक और मौका मिलेगा।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-9"
+        },
+        {
+          "prompt": {
+            "en": "What activity did Prince William and Catherine engage in during their visit to Mumbai, as mentioned in the source?",
+            "hi": "जैसा कि स्रोत में बताया गया है, प्रिंस विलियम और कैथरीन अपनी मुंबई यात्रा के दौरान किस गतिविधि में शामिल हुए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They played street cricket with locals.",
+                "hi": "उन्होंने स्थानीय लोगों के साथ स्ट्रीट क्रिकेट खेला।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They visited historical monuments.",
+                "hi": "उन्होंने ऐतिहासिक स्मारकों का दौरा किया."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They attended a formal state dinner.",
+                "hi": "वे एक औपचारिक राजकीय रात्रिभोज में शामिल हुए।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They participated in a cultural dance event.",
+                "hi": "उन्होंने एक सांस्कृतिक नृत्य कार्यक्रम में भाग लिया।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the source explicitly mentions 'Prince and Princess of Wales play street cricket in Mumbai', and the text confirms they 'met locals on their visit to India'.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत के शीर्षक में स्पष्ट रूप से उल्लेख किया गया है कि 'वेल्स के राजकुमार और राजकुमारी मुंबई में स्ट्रीट क्रिकेट खेलते हैं', और पाठ पुष्टि करता है कि वे 'भारत की अपनी यात्रा पर स्थानीय लोगों से मिले थे।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-10"
+        },
+        {
+          "prompt": {
+            "en": "What event did William and Kate celebrate in Mumbai, joined by sporting and acting stars?",
+            "hi": "विलियम और केट ने खेल और अभिनय सितारों के साथ मुंबई में किस कार्यक्रम का जश्न मनाया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Earthshot Prize winners.",
+                "hi": "अर्थशॉट पुरस्कार विजेता।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A cultural exchange program.",
+                "hi": "एक सांस्कृतिक आदान-प्रदान कार्यक्रम."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An international film festival.",
+                "hi": "एक अंतरराष्ट्रीय फिल्म महोत्सव."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A charity gala for children's education.",
+                "hi": "बच्चों की शिक्षा के लिए एक चैरिटी पर्व।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states 'William and Kate celebrate Earthshot Prize winners in Mumbai', and the text confirms they were joined by stars for 'the annual environmental awards ceremony'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है 'विलियम और केट ने मुंबई में अर्थशॉट पुरस्कार विजेताओं का जश्न मनाया', और पाठ पुष्टि करता है कि वे 'वार्षिक पर्यावरण पुरस्कार समारोह' के लिए सितारों के साथ शामिल हुए थे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-11"
+        },
+        {
+          "prompt": {
+            "en": "What should be India's primary objective regarding space security, according to the opinion piece?",
+            "hi": "राय के अनुसार, अंतरिक्ष सुरक्षा के संबंध में भारत का प्राथमिक उद्देश्य क्या होना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To establish military dominance in outer space.",
+                "hi": "बाह्य अंतरिक्ष में सैन्य प्रभुत्व स्थापित करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To prevent disruption in space from creating vulnerability on Earth.",
+                "hi": "अंतरिक्ष में व्यवधान को पृथ्वी पर भेद्यता पैदा करने से रोकने के लिए।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To develop offensive space capabilities to deter adversaries.",
+                "hi": "विरोधियों को रोकने के लिए आक्रामक अंतरिक्ष क्षमताओं का विकास करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To collaborate with global powers to militarize space for collective security.",
+                "hi": "सामूहिक सुरक्षा के लिए स्थान का सैन्यीकरण करने के लिए वैश्विक शक्तियों के साथ सहयोग करना।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'India’s objective should not be to turn outer space into another arena of conflict, but to ensure that disruption in space does not translate into vulnerability on Earth'.\nSource: https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece",
+            "hi": "अंश में कहा गया है, 'भारत का उद्देश्य बाहरी अंतरिक्ष को संघर्ष के दूसरे क्षेत्र में बदलना नहीं होना चाहिए, बल्कि यह सुनिश्चित करना होना चाहिए कि अंतरिक्ष में व्यवधान पृथ्वी पर भेद्यता में तब्दील न हो।'\nस्रोत: https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-12"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary goal for which three space companies have been selected in India?",
+            "hi": "प्राथमिक लक्ष्य क्या है जिसके लिए भारत में तीन अंतरिक्ष कंपनियों का चयन किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To launch new communication satellites for rural areas.",
+                "hi": "ग्रामीण क्षेत्रों के लिए नए संचार उपग्रह लॉन्च करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To explore mineral resources on celestial bodies.",
+                "hi": "आकाशीय पिंडों पर खनिज संसाधनों का पता लगाना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To conduct atmospheric research for climate change studies.",
+                "hi": "जलवायु परिवर्तन अध्ययन के लिए वायुमंडलीय अनुसंधान करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To develop high-resolution 3D reconstruction techniques for Indian cities.",
+                "hi": "भारतीय शहरों के लिए उच्च-रिज़ॉल्यूशन वाली 3डी पुनर्निर्माण तकनीक विकसित करना।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states that three space companies were selected to 'develop high-resolution 3D reconstruction techniques for Indian cities'.\nSource: https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से बताया कि तीन अंतरिक्ष कंपनियों को 'भारतीय शहरों के लिए उच्च-रिज़ॉल्यूशन 3डी पुनर्निर्माण तकनीक विकसित करने' के लिए चुना गया था।\nस्रोत: https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-13"
+        },
+        {
+          "prompt": {
+            "en": "Which two Indian cities will be covered in the pilot demonstrations for high-resolution 3D reconstruction techniques?",
+            "hi": "उच्च-रिज़ॉल्यूशन 3डी पुनर्निर्माण तकनीकों के पायलट प्रदर्शनों में किन दो भारतीय शहरों को शामिल किया जाएगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Bengaluru and Shimla",
+                "hi": "बेंगलुरु और शिमला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Delhi and Kolkata",
+                "hi": "दिल्ली और कोलकाता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mumbai and Chennai",
+                "hi": "मुंबई और चेन्नई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Hyderabad and Jaipur",
+                "hi": "हैदराबाद और जयपुर"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt specifies that 'The pilot demonstrations will cover Bengaluru and Shimla'.\nSource: https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+            "hi": "अंश निर्दिष्ट करता है कि 'पायलट प्रदर्शन बेंगलुरु और शिमला को कवर करेगा।'\nस्रोत: https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-14"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-18T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-18.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Which pharmaceutical company's Mumbai office and Bhiwandi depot were searched by the DRI?",
+            "hi": "DRI द्वारा किस दवा कंपनी के मुंबई कार्यालय और भिवंडी डिपो की तलाशी ली गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sun Pharmaceutical Industries",
+                "hi": "सन फार्मास्युटिकल इंडस्ट्रीज"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Dr. Reddy's Laboratories",
+                "hi": "डॉ. रेड्डीज प्रयोगशालाएँ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lupin",
+                "hi": "ल्यूपिन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cipla",
+                "hi": "सिप्ला"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states 'DRI searches Cipla’s Mumbai office and Bhiwandi depot'.\nSource: https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से लिखा है 'DRI ने सिप्ला के मुंबई कार्यालय और भिवंडी डिपो की तलाशी ली।'\nस्रोत: https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-15"
+        },
+        {
+          "prompt": {
+            "en": "What was the reason for the DRI search on Cipla's facilities?",
+            "hi": "सिप्ला की सुविधाओं पर डीआरआई खोज का कारण क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Allegations of patent infringement.",
+                "hi": "पेटेंट उल्लंघन का आरोप."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Concerns over drug quality control.",
+                "hi": "दवा गुणवत्ता नियंत्रण पर चिंता."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Discrepancies in imported drug classification.",
+                "hi": "आयातित दवा वर्गीकरण में विसंगतियाँ।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Investigation into illegal drug manufacturing.",
+                "hi": "अवैध दवा निर्माण की जांच।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title specifies the reason for the search as 'over imported drug classification'.\nSource: https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece",
+            "hi": "शीर्षक खोज का कारण 'अत्यधिक आयातित दवा वर्गीकरण' के रूप में निर्दिष्ट करता है।\nस्रोत: https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-16"
+        },
+        {
+          "prompt": {
+            "en": "How much capital does BPCL plan to raise through a bond sale?",
+            "hi": "बीपीसीएल बांड बिक्री के माध्यम से कितनी पूंजी जुटाने की योजना बना रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹5,000 crore",
+                "hi": "₹5,000 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹12,000 crore",
+                "hi": "₹12,000 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹9,000 crore",
+                "hi": "₹9,000 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹15,000 crore",
+                "hi": "₹15,000 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states 'BPCL plans to raise ₹9,000 crore through bond sale'.\nSource: https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि 'बीपीसीएल ने बांड बिक्री के माध्यम से ₹9,000 करोड़ जुटाने की योजना बनाई है।'\nस्रोत: https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-17"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary purpose for BPCL's planned bond sale?",
+            "hi": "BPCL की नियोजित बांड बिक्री का प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To repay existing short-term debts.",
+                "hi": "मौजूदा अल्पकालिक ऋण चुकाने के लिए."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To fund its refinery expansion and petrochemical projects.",
+                "hi": "इसकी रिफाइनरी विस्तार और पेट्रोकेमिकल परियोजनाओं को वित्तपोषित करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To acquire a smaller oil marketing company.",
+                "hi": "एक छोटी तेल विपणन कंपनी का अधिग्रहण करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To invest in renewable energy ventures.",
+                "hi": "नवीकरणीय ऊर्जा उद्यमों में निवेश करना।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states the bond sale is 'to fund its refinery expansion and petrochemical projects'.\nSource: https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece",
+            "hi": "अंश में कहा गया है कि बांड की बिक्री 'इसके रिफाइनरी विस्तार और पेट्रोकेमिकल परियोजनाओं को वित्त पोषित करने के लिए है।'\nस्रोत: https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-18"
+        },
+        {
+          "prompt": {
+            "en": "How much investment does Reliance plan for compressed biogas plants by 2030?",
+            "hi": "रिलायंस ने 2030 तक संपीड़ित बायोगैस संयंत्रों के लिए कितना निवेश करने की योजना बनाई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1.0 billion",
+                "hi": "$1.0 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$2.5 billion",
+                "hi": "$2.5 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$2.0 billion",
+                "hi": "$2.0 बिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$1.6 billion",
+                "hi": "$1.6 बिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states 'Reliance plans $1.6 billion investment in 100 compressed biogas plants by 2030'.\nSource: https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'रिलायंस ने 2030 तक 100 संपीड़ित बायोगैस संयंत्रों में 1.6 बिलियन डॉलर के निवेश की योजना बनाई है।'\nस्रोत: https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-19"
+        },
+        {
+          "prompt": {
+            "en": "What is Reliance's daily biogas production target using agricultural residue?",
+            "hi": "कृषि अवशेषों का उपयोग करके रिलायंस का दैनिक बायोगैस उत्पादन लक्ष्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "One million cubic metres"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Five million cubic metres"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Three million cubic metres"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ten million cubic metres"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'The company aims to produce five million cubic metres of biogas daily using agricultural residue'.\nSource: https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece",
+            "hi": "अंश में कहा गया है, 'कंपनी का लक्ष्य कृषि अवशेषों का उपयोग करके प्रतिदिन पांच मिलियन क्यूबिक मीटर बायोगैस का उत्पादन करना है।'\nस्रोत: https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-20"
+        },
+        {
+          "prompt": {
+            "en": "What type of stock purchases is SEBI considering placing curbs on?",
+            "hi": "सेबी किस प्रकार की स्टॉक खरीद पर अंकुश लगाने पर विचार कर रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Leveraged stock purchases by retail investors.",
+                "hi": "खुदरा निवेशकों द्वारा स्टॉक खरीद का लाभ उठाया गया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Direct equity investments by institutional investors.",
+                "hi": "संस्थागत निवेशकों द्वारा प्रत्यक्ष इक्विटी निवेश।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Purchases of government bonds by foreign entities.",
+                "hi": "विदेशी संस्थाओं द्वारा सरकारी बांड की खरीद।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Investments in mutual funds with long lock-in periods.",
+                "hi": "लंबी लॉक-इन अवधि वाले म्यूचुअल फंड में निवेश।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states 'SEBI weighs curbs on leveraged stock purchases amid rising retail exposure'.\nSource: https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है 'बढ़ते खुदरा जोखिम के बीच सेबी लीवरेज्ड स्टॉक खरीद पर अंकुश लगा रहा है।'\nस्रोत: https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-21"
+        },
+        {
+          "prompt": {
+            "en": "Which category of shares accounts for most of the exposure in margin-funded positions, according to SEBI's observation?",
+            "hi": "सेबी के अवलोकन के अनुसार, किस श्रेणी के शेयरों का मार्जिन-फंडेड पोजीशन में सबसे अधिक एक्सपोज़र है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Large-cap shares",
+                "hi": "लार्ज-कैप शेयर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Blue-chip shares",
+                "hi": "ब्लू-चिप शेयर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Public sector undertaking shares",
+                "hi": "सार्वजनिक क्षेत्र के उपक्रम के शेयर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Small- and mid-cap shares",
+                "hi": "छोटे और मिडकैप शेयर"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt mentions that 'small- and mid-cap shares accounting for most of the exposure' in margin-funded positions.\nSource: https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece",
+            "hi": "अंश में उल्लेख किया गया है कि मार्जिन-फंडेड पोजीशन में 'छोटे और मिड-कैप शेयर अधिकांश एक्सपोजर के लिए जिम्मेदार हैं।'\nस्रोत: https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-22"
+        },
+        {
+          "prompt": {
+            "en": "What is NMDC's target for pellet capacity?",
+            "hi": "एनएमडीसी का पेलेट क्षमता का लक्ष्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "10 million tonnes",
+                "hi": "10 मिलियन टन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "24 million tonnes",
+                "hi": "24 मिलियन टन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "18 million tonnes",
+                "hi": "18 मिलियन टन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "30 million tonnes",
+                "hi": "30 मिलियन टन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title states 'NMDC eyes 24 million tonnes pellet capacity'.\nSource: https://www.thehindu.com/business/nmdc-eyes-24-million-tonnes-pellet-capacity/article71713102.ece",
+            "hi": "शीर्षक में कहा गया है, 'एनएमडीसी की नजर 24 मिलियन टन पेलेट क्षमता पर है।'\nस्रोत: https://www.thehindu.com/business/nmdc-eyes-24-million-tonnes-pellet-capacity/article71713102.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/nmdc-eyes-24-million-tonnes-pellet-capacity/article71713102.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-23"
+        },
+        {
+          "prompt": {
+            "en": "Which company is acquiring a majority stake in Bion?",
+            "hi": "कौन सी कंपनी बायोन में बहुमत हिस्सेदारी हासिल कर रही है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sai Parenterals",
+                "hi": "साई पेरेंटरल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cipla",
+                "hi": "सिप्ला"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Dr. Reddy's",
+                "hi": "डॉ. रेड्डीज"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sun Pharma",
+                "hi": "सन फार्मा"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states 'Sai Parenterals acquiring majority stake in Bion'.\nSource: https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है 'साई पेरेंटरल्स बायोन में बहुमत हिस्सेदारी हासिल कर रहा है।'\nस्रोत: https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-24"
+        },
+        {
+          "prompt": {
+            "en": "What is a key benefit for Sai Parenterals from acquiring Bion?",
+            "hi": "बायोन का अधिग्रहण करने से साई पैरेंट्रल्स को मुख्य लाभ क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Strengthening its presence in India’s prescription market with new brands and staff.",
+                "hi": "नए ब्रांडों और कर्मचारियों के साथ भारत के प्रिस्क्रिप्शन बाजार में अपनी उपस्थिति मजबूत करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Expansion into international markets.",
+                "hi": "अंतरराष्ट्रीय बाज़ारों में विस्तार."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Access to Bion's manufacturing facilities.",
+                "hi": "बायोन की विनिर्माण सुविधाओं तक पहुंच।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Diversification into over-the-counter drug segments.",
+                "hi": "ओवर-द-काउंटर दवा खंडों में विविधीकरण।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Sai Parenterals stated that 'The acquisition will add 16 established brands and around 250 field staff, strengthening its presence in India’s prescription market'.\nSource: https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece",
+            "hi": "साई पैरेंटेरल्स ने कहा कि 'अधिग्रहण से 16 स्थापित ब्रांड और लगभग 250 फील्ड स्टाफ जुड़ेंगे, जिससे भारत के प्रिस्क्रिप्शन बाजार में इसकी उपस्थिति मजबूत होगी।'\nस्रोत: https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-25"
+        },
+        {
+          "prompt": {
+            "en": "What was Jensen Huang's stance on returning as Nvidia CEO if the board requested him?",
+            "hi": "यदि बोर्ड ने उनसे अनुरोध किया तो एनवीडिया सीईओ के रूप में लौटने पर जेन्सेन हुआंग का रुख क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He stated he would be 'honoured' to return.",
+                "hi": "उन्होंने कहा कि वापसी करके उन्हें 'सम्मानित' महसूस होगा।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He would consider it only if there were significant changes to the board.",
+                "hi": "वह इस पर तभी विचार करेंगे जब बोर्ड में महत्वपूर्ण बदलाव होंगे।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He expressed reluctance due to previous commitments.",
+                "hi": "उन्होंने पिछली प्रतिबद्धताओं के कारण अनिच्छा व्यक्त की।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He indicated he would only return for a higher compensation package.",
+                "hi": "उन्होंने संकेत दिया कि वह केवल ऊंचे मुआवजे पैकेज के लिए ही लौटेंगे।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states 'Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'जेन्सेन हुआंग का कहना है कि अगर बोर्ड ने उनसे पूछा तो एनवीडिया सीईओ के रूप में लौटना उनके लिए 'सम्मानित' होगा।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-26"
+        },
+        {
+          "prompt": {
+            "en": "What specific proposal is considered 'essential' by a business group to tackle the 'Neet problem' and help firms hire under-25s?",
+            "hi": "'नीट समस्या' से निपटने और कंपनियों को 25 वर्ष से कम आयु वालों को नौकरी पर रखने में मदद करने के लिए एक व्यावसायिक समूह द्वारा किस विशिष्ट प्रस्ताव को 'आवश्यक' माना जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increasing minimum wage for young employees.",
+                "hi": "युवा कर्मचारियों के लिए न्यूनतम वेतन बढ़ाना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cutting employers' National Insurance costs.",
+                "hi": "नियोक्ताओं की राष्ट्रीय बीमा लागत में कटौती।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Providing direct subsidies to businesses hiring young people.",
+                "hi": "युवा लोगों को काम पर रखने वाले व्यवसायों को प्रत्यक्ष सब्सिडी प्रदान करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mandating a quota for under-25 hires in large companies.",
+                "hi": "बड़ी कंपनियों में 25 साल से कम उम्र के लोगों के लिए कोटा अनिवार्य करना।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt mentions that 'The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में उल्लेख किया गया है कि 'नियोक्ताओं की राष्ट्रीय बीमा लागत में कटौती का प्रस्ताव नीट समस्या से निपटने के लिए \"आवश्यक\" है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-27"
+        },
+        {
+          "prompt": {
+            "en": "What alternative strategy are some people adopting to afford housing when they cannot do so alone?",
+            "hi": "कुछ लोग आवास का खर्च वहन करने के लिए कौन सी वैकल्पिक रणनीति अपना रहे हैं जब वे अकेले ऐसा नहीं कर सकते?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Relying solely on government housing schemes.",
+                "hi": "केवल सरकारी आवास योजनाओं पर निर्भर हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Moving to smaller towns with lower property prices.",
+                "hi": "कम संपत्ति की कीमतों वाले छोटे शहरों में जाना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Buying homes with someone they don't know.",
+                "hi": "किसी ऐसे व्यक्ति के साथ घर खरीदना जिसे वे नहीं जानते।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Opting for long-term rental agreements instead of ownership.",
+                "hi": "स्वामित्व के बजाय दीर्घकालिक किराये के समझौते का विकल्प चुनना।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'People who can't afford to get on the housing ladder are buying homes with someone they don't know'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'जो लोग आवास की सीढ़ी पर चढ़ने में सक्षम नहीं हैं, वे किसी ऐसे व्यक्ति के साथ घर खरीद रहे हैं जिसे वे नहीं जानते हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-28"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-18T06:30:00+05:30"
+    },
+    {
+      "title": "Science, Environment & Space",
+      "source_filename": "daily-2026-11-18.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What solution are operators pursuing to bridge the gap between satellite-recorded data and data availability to ground users?",
+            "hi": "सैटेलाइट-रिकॉर्ड किए गए डेटा और ग्राउंड उपयोगकर्ताओं के लिए डेटा उपलब्धता के बीच अंतर को पाटने के लिए ऑपरेटर क्या समाधान अपना रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Developing faster ground-based data processing centers.",
+                "hi": "तेजी से जमीन आधारित डेटा प्रोसेसिंग केंद्रों का विकास करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Implementing a solution called in-orbit computing.",
+                "hi": "इन-ऑर्बिट कंप्यूटिंग नामक समाधान लागू करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Increasing the number of ground stations for data reception.",
+                "hi": "डेटा रिसेप्शन के लिए ग्राउंड स्टेशनों की संख्या बढ़ाना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Utilizing quantum entanglement for instantaneous data transfer.",
+                "hi": "तात्कालिक डेटा स्थानांतरण के लिए क्वांटम उलझाव का उपयोग।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that 'operators are pursuing a solution called in-orbit computing' to bridge this gap.\nSource: https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
+            "hi": "अंश में कहा गया है कि 'ऑपरेटर इस अंतर को पाटने के लिए इन-ऑर्बिट कंप्यूटिंग नामक एक समाधान अपना रहे हैं।'\nस्रोत: https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-29"
+        },
+        {
+          "prompt": {
+            "en": "What is the basic idea behind in-orbit computing?",
+            "hi": "इन-ऑर्बिट कंप्यूटिंग के पीछे मूल विचार क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To store all raw data onboard satellites for long-term archival.",
+                "hi": "दीर्घकालिक अभिलेखीय के लिए सभी कच्चे डेटा को उपग्रहों पर संग्रहीत करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To transmit all recorded data to Earth for comprehensive ground analysis.",
+                "hi": "व्यापक जमीनी विश्लेषण के लिए सभी रिकॉर्ड किए गए डेटा को पृथ्वी पर प्रसारित करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To analyze data onboard the satellite and send back only the most relevant information.",
+                "hi": "उपग्रह पर डेटा का विश्लेषण करना और केवल सबसे प्रासंगिक जानकारी वापस भेजना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To use satellites as relay stations for data from other celestial bodies.",
+                "hi": "अन्य खगोलीय पिंडों से डेटा के लिए उपग्रहों को रिले स्टेशन के रूप में उपयोग करना।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The basic idea of in-orbit computing is 'to analyse some data onboard the satellite and only send back the most relevant information'.\nSource: https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
+            "hi": "इन-ऑर्बिट कंप्यूटिंग का मूल विचार 'उपग्रह पर कुछ डेटा का विश्लेषण करना और केवल सबसे प्रासंगिक जानकारी वापस भेजना' है।\nस्रोत: https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-30"
+        },
+        {
+          "prompt": {
+            "en": "What was the survival rate of the relocated orchids in Keralam after one to two years?",
+            "hi": "केरलम में एक से दो वर्षों के बाद स्थानांतरित ऑर्किड की जीवित रहने की दर क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Less than 50%",
+                "hi": "50% से कम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than 71%",
+                "hi": "71% से अधिक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exactly 60%",
+                "hi": "बिल्कुल 60%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Approximately 85%",
+                "hi": "लगभग 85%"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that 'more than 71% were still alive' after one to two years.\nSource: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+            "hi": "अंश में कहा गया है कि एक से दो वर्षों के बाद '71% से अधिक अभी भी जीवित थे'।\nस्रोत: https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-31"
+        },
+        {
+          "prompt": {
+            "en": "What is the core claim campaigners are taking to the High Court regarding poultry farms?",
+            "hi": "पोल्ट्री फार्मों के संबंध में प्रचारक उच्च न्यायालय में मुख्य दावा क्या कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Poultry farms are facing unfair competition from imports.",
+                "hi": "पोल्ट्री फार्मों को आयात से अनुचित प्रतिस्पर्धा का सामना करना पड़ रहा है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A 'regulatory gap' risks poultry farms polluting rivers.",
+                "hi": "एक 'नियामक अंतर' के कारण पोल्ट्री फार्मों द्वारा नदियों को प्रदूषित करने का जोखिम है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Poultry farm workers are subject to poor working conditions.",
+                "hi": "पोल्ट्री फार्म श्रमिकों को काम करने की खराब परिस्थितियों का सामना करना पड़ता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Poultry farms are not receiving adequate government subsidies.",
+                "hi": "पोल्ट्री फार्मों को पर्याप्त सरकारी सब्सिडी नहीं मिल रही है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title states 'Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'अभियानकर्ता नदियों को प्रदूषित करने वाले पोल्ट्री फार्मों के जोखिम 'नियामक अंतर' का दावा उच्च न्यायालय में ले जाते हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-32"
+        },
+        {
+          "prompt": {
+            "en": "How much money is estimated to be needed to clean up one of Europe's largest illegal dumps?",
+            "hi": "यूरोप के सबसे बड़े अवैध डंपों में से एक को साफ़ करने के लिए कितने पैसे की आवश्यकता होने का अनुमान है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Less than £50 million",
+                "hi": "£50 मिलियन से कम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than £160 million",
+                "hi": "£160 मिलियन से अधिक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Approximately £100 million",
+                "hi": "लगभग £100 मिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Around £200 million",
+                "hi": "लगभग £200 मिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title specifies 'More than £160m needed to clean up one of Europe's largest illegal dumps'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक निर्दिष्ट करता है 'यूरोप के सबसे बड़े अवैध डंपों में से एक को साफ करने के लिए £160 मिलियन से अधिक की आवश्यकता है'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-33"
+        },
+        {
+          "prompt": {
+            "en": "Which meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night?",
+            "hi": "कौन सा उल्कापात, जो अपने चमकीले और तेज़ उल्काओं के लिए जाना जाता है, मंगलवार की रात को चरम पर होगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Leonid meteor shower",
+                "hi": "लियोनिद उल्का बौछार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Geminid meteor shower",
+                "hi": "जेमिनिड उल्कापात"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Perseid meteor shower",
+                "hi": "पर्सीड उल्कापात"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Orionid meteor shower",
+                "hi": "ओरियोनिड उल्कापात"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states, 'The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night'.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'लियोनिड उल्कापात, जो अपने चमकीले और तेज़ उल्काओं के लिए जाना जाता है, मंगलवार रात को चरम पर होगा।'\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-34"
+        },
+        {
+          "prompt": {
+            "en": "What weather phenomenon is expected to bring transport disruption to the hills of northern England and southern Scotland?",
+            "hi": "किस मौसम की घटना से उत्तरी इंग्लैंड और दक्षिणी स्कॉटलैंड की पहाड़ियों में परिवहन में व्यवधान आने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Heavy rainfall",
+                "hi": "भारी वर्षा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Snow",
+                "hi": "हिमपात"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Strong winds",
+                "hi": "तेज़ हवाएँ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Dense fog",
+                "hi": "घना कोहरा"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt mentions, 'Snow could bring some transport disruption to the hills of northern England and southern Scotland'.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में उल्लेख किया गया है, 'हिमपात उत्तरी इंग्लैंड और दक्षिणी स्कॉटलैंड की पहाड़ियों पर कुछ परिवहन व्यवधान ला सकता है।'\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-35"
+        },
+        {
+          "prompt": {
+            "en": "What type of weather is expected to grip northern parts of the UK, bringing a threat of ice and hill snow?",
+            "hi": "यूके के उत्तरी हिस्सों में किस प्रकार का मौसम रहने की उम्मीद है, जिससे बर्फ और पहाड़ी बर्फबारी का खतरा होगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Warm and humid weather",
+                "hi": "गर्म और आर्द्र मौसम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Colder, wintry weather",
+                "hi": "ठंडा, सर्दी का मौसम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mild and rainy weather",
+                "hi": "हल्का और बरसात का मौसम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Dry and sunny weather",
+                "hi": "शुष्क और धूप वाला मौसम"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states, 'A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times'.\nSource: BBC News · https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'ब्रिटेन के कुछ उत्तरी हिस्सों में कड़ाके की ठंड और सर्दियों का मौसम रहेगा, जिससे कभी-कभी बर्फ और पहाड़ी बर्फबारी का खतरा पैदा हो जाएगा।'\nस्रोत: BBC News · https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-36"
+        },
+        {
+          "prompt": {
+            "en": "Which country has lost its measles elimination status after 26 years?",
+            "hi": "किस देश ने 26 वर्षों के बाद खसरा उन्मूलन की स्थिति खो दी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "United States",
+                "hi": "संयुक्त राज्य अमेरिका"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Canada",
+                "hi": "कनाडा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "United Kingdom",
+                "hi": "यूनाइटेड किंगडम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Australia",
+                "hi": "ऑस्ट्रेलिया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states 'US loses measles elimination status after 26 years'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि 'अमेरिका ने 26 वर्षों के बाद खसरा उन्मूलन का दर्जा खो दिया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-37"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason cited for the US losing its measles elimination status?",
+            "hi": "अमेरिका द्वारा खसरा उन्मूलन स्थिति खोने का प्राथमिक कारण क्या बताया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Record case numbers and measles-related deaths not seen since the early 1990s.",
+                "hi": "1990 के दशक की शुरुआत से रिकॉर्ड मामले संख्या और खसरे से संबंधित मौतें नहीं देखी गईं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A significant decline in vaccination rates across all age groups.",
+                "hi": "सभी आयु समूहों में टीकाकरण दरों में उल्लेखनीय गिरावट।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A new, more virulent strain of measles.",
+                "hi": "खसरे का एक नया, अधिक विषैला प्रकार।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increased international travel leading to more imported cases.",
+                "hi": "अंतर्राष्ट्रीय यात्रा में वृद्धि के कारण अधिक आयातित मामले सामने आए।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s', which is the context for losing elimination status.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि 'राज्यों ने 1990 के दशक की शुरुआत के बाद पहली बार 5,400 से अधिक मामलों और खसरे से संबंधित 10 मौतों की सूचना दी है', जो उन्मूलन की स्थिति खोने का संदर्भ है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & Space",
+          "source_label": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-38"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-18T13:00:00+05:30"
+    },
+    {
+      "title": "International Relations & Global Events",
+      "source_filename": "daily-2026-11-18.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the primary focus of the new US restrictions mentioned in the source?",
+            "hi": "स्रोत में उल्लिखित नए अमेरिकी प्रतिबंधों का प्राथमिक फोकस क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Trade tariffs on agricultural products.",
+                "hi": "कृषि उत्पादों पर व्यापार शुल्क."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Restrictions on chip exports and access to computing power.",
+                "hi": "चिप निर्यात और कंप्यूटिंग शक्ति तक पहुंच पर प्रतिबंध।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Limitations on oil and gas imports.",
+                "hi": "तेल और गैस आयात पर सीमाएँ।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sanctions on financial institutions.",
+                "hi": "वित्तीय संस्थानों पर प्रतिबंध."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title and text indicate 'new US chip restrictions' and that 'The new rules restrict chip exports and also access to their computing power'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक और पाठ 'नए अमेरिकी चिप प्रतिबंध' को दर्शाते हैं और 'नए नियम चिप निर्यात और उनकी कंप्यूटिंग शक्ति तक पहुंच को भी प्रतिबंधित करते हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-39"
+        },
+        {
+          "prompt": {
+            "en": "What does China heavily rely on that is being restricted by new US rules?",
+            "hi": "चीन किस चीज़ पर अत्यधिक निर्भर है जिसे नए अमेरिकी नियमों द्वारा प्रतिबंधित किया जा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Chip exports and access to computing power.",
+                "hi": "चिप निर्यात और कंप्यूटिंग शक्ति तक पहुंच।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Foreign investment in its technology sector.",
+                "hi": "इसके प्रौद्योगिकी क्षेत्र में विदेशी निवेश।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Access to raw materials for manufacturing.",
+                "hi": "विनिर्माण के लिए कच्चे माल तक पहुंच।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "International intellectual property rights.",
+                "hi": "अंतर्राष्ट्रीय बौद्धिक संपदा अधिकार."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'The new rules restrict chip exports and also access to their computing power, which China relies on heavily'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि 'नए नियम चिप निर्यात और उनकी कंप्यूटिंग शक्ति तक पहुंच को भी प्रतिबंधित करते हैं, जिस पर चीन बहुत अधिक निर्भर करता है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-40"
+        },
+        {
+          "prompt": {
+            "en": "What event did Zelensky hail as an 'unprecedented' attack by Ukraine?",
+            "hi": "ज़ेलेंस्की ने किस घटना को यूक्रेन द्वारा 'अभूतपूर्व' हमला बताया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The partial collapse of Putin's Crimean Bridge.",
+                "hi": "पुतिन का क्रीमियन ब्रिज आंशिक रूप से ढह गया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A successful counter-offensive in eastern Ukraine.",
+                "hi": "पूर्वी यूक्रेन में एक सफल जवाबी हमला।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The downing of multiple Russian fighter jets.",
+                "hi": "कई रूसी लड़ाकू विमानों को मार गिराया जाना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A major cyberattack on Russian government systems.",
+                "hi": "रूसी सरकारी प्रणालियों पर एक बड़ा साइबर हमला।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states 'Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'पुतिन का क्रीमियन ब्रिज आंशिक रूप से ढह गया क्योंकि ज़ेलेंस्की ने यूक्रेन के 'अभूतपूर्व' हमले की सराहना की।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-41"
+        },
+        {
+          "prompt": {
+            "en": "According to Ukraine, what was the nature of the attack on the Crimean Bridge?",
+            "hi": "यूक्रेन के अनुसार क्रीमिया ब्रिज पर हमले की प्रकृति क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A naval blockade.",
+                "hi": "एक नौसैनिक नाकाबंदी."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A missile and drone attack.",
+                "hi": "मिसाइल और ड्रोन हमला."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A ground assault.",
+                "hi": "एक ज़मीनी हमला."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A sabotage operation by special forces.",
+                "hi": "विशेष बलों द्वारा एक तोड़फोड़ अभियान."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'यूक्रेन का कहना है कि रूस के कब्जे वाले क्रीमिया में रणनीतिक पुल पर मिसाइल और ड्रोन हमले की योजना बनाने में कई हफ्ते लग गए।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-42"
+        },
+        {
+          "prompt": {
+            "en": "What is the Crimean Bridge considered a key symbol of?",
+            "hi": "क्रीमियन ब्रिज किसका प्रमुख प्रतीक माना जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Russian economic prosperity.",
+                "hi": "रूसी आर्थिक समृद्धि."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Russia's occupation of Ukraine.",
+                "hi": "यूक्रेन पर रूस का कब्ज़ा."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Russian military engineering.",
+                "hi": "रूसी सैन्य इंजीनियरिंग."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Russian cultural heritage.",
+                "hi": "रूसी सांस्कृतिक विरासत."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source describes the Crimean Bridge as 'One of the key symbols of Russia's occupation of Ukraine'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने क्रीमियन ब्रिज को 'यूक्रेन पर रूस के कब्जे के प्रमुख प्रतीकों में से एक' के रूप में वर्णित किया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-43"
+        },
+        {
+          "prompt": {
+            "en": "What infrastructure has Moscow targeted in Kyiv?",
+            "hi": "मास्को ने कीव में किस बुनियादी ढांचे को लक्षित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Residential areas.",
+                "hi": "आवासीय क्षेत्र."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Government buildings.",
+                "hi": "सरकारी भवन."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Power plants.",
+                "hi": "बिजली संयंत्र."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Bridges.",
+                "hi": "पुल."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Moscow has targeted bridges in Kyiv'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'मास्को ने कीव में पुलों को निशाना बनाया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-44"
+        },
+        {
+          "prompt": {
+            "en": "What did Ukraine severely damage in response to Moscow's strikes?",
+            "hi": "मास्को के हमलों के जवाब में यूक्रेन को क्या गंभीर क्षति हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A Russian military base.",
+                "hi": "एक रूसी सैन्य अड्डा."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An oil refinery in Russia.",
+                "hi": "रूस में एक तेल रिफाइनरी."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A Russian naval vessel.",
+                "hi": "एक रूसी नौसैनिक जहाज."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A critical bridge linking Russia to occupied Crimea.",
+                "hi": "रूस को अधिकृत क्रीमिया से जोड़ने वाला एक महत्वपूर्ण पुल।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source mentions that 'Ukraine severely damaged a critical bridge linking Russia to occupied Crimea'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का उल्लेख है कि 'यूक्रेन ने रूस को कब्जे वाले क्रीमिया से जोड़ने वाले एक महत्वपूर्ण पुल को गंभीर रूप से क्षतिग्रस्त कर दिया।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-45"
+        },
+        {
+          "prompt": {
+            "en": "How many people were killed in the recent Russian military plane crash?",
+            "hi": "हाल ही में रूसी सैन्य विमान दुर्घटना में कितने लोग मारे गए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "19",
+                "hi": "19"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "15",
+                "hi": "15"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "10",
+                "hi": "10"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "25",
+                "hi": "25"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states 'Russian military plane crashes killing all 19 on board'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'रूसी सैन्य विमान दुर्घटनाग्रस्त हो गया, जिसमें सवार सभी 19 लोगों की मौत हो गई।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-46"
+        },
+        {
+          "prompt": {
+            "en": "What was the preliminary believed cause of the Russian military plane crash, according to Russia's defence ministry?",
+            "hi": "रूस के रक्षा मंत्रालय के अनुसार, रूसी सैन्य विमान दुर्घटना का प्रारंभिक अनुमानित कारण क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Pilot error.",
+                "hi": "पायलट त्रुटि."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Adverse weather conditions.",
+                "hi": "प्रतिकूल मौसम की स्थिति."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A technical malfunction.",
+                "hi": "एक तकनीकी खराबी."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "External interference.",
+                "hi": "बाहरी हस्तक्षेप."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Russia's defence ministry 'preliminarily believes a technical malfunction was the cause of the crash'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+            "hi": "रूस का रक्षा मंत्रालय 'प्रारंभिक रूप से मानता है कि दुर्घटना का कारण तकनीकी खराबी थी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-47"
+        },
+        {
+          "prompt": {
+            "en": "According to the health ministry, who was shot dead in the West Bank?",
+            "hi": "स्वास्थ्य मंत्रालय के अनुसार वेस्ट बैंक में किसकी गोली मारकर हत्या कर दी गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An Israeli soldier.",
+                "hi": "एक इजराइली सैनिक."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A Palestinian man.",
+                "hi": "एक फ़िलिस्तीनी आदमी."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An international aid worker.",
+                "hi": "एक अंतरराष्ट्रीय सहायता कर्मी."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A Palestinian woman, 72.",
+                "hi": "72 वर्षीय एक फ़िलिस्तीनी महिला।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states 'Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'स्वास्थ्य मंत्रालय का कहना है कि वेस्ट बैंक में इजरायली निवासियों ने 72 वर्षीय फिलिस्तीनी महिला की गोली मारकर हत्या कर दी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-48"
+        },
+        {
+          "prompt": {
+            "en": "What are the conflicting accounts regarding the incident in al-Duyuk al-Tahta?",
+            "hi": "अल-दुयुक अल-तहता में घटना के संबंध में परस्पर विरोधी विवरण क्या हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Palestinians claim self-defense, while Israeli military claims accidental firing.",
+                "hi": "फ़िलिस्तीनी आत्मरक्षा का दावा करते हैं, जबकि इज़रायली सेना आकस्मिक गोलीबारी का दावा करती है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Palestinians allege a planned ambush, while Israeli military claims a training accident.",
+                "hi": "फ़िलिस्तीनियों ने सुनियोजित घात का आरोप लगाया है, जबकि इज़रायली सेना ने प्रशिक्षण दुर्घटना का दावा किया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Palestinians report a robbery, while Israeli military reports a border skirmish.",
+                "hi": "फ़िलिस्तीनी डकैती की रिपोर्ट करते हैं, जबकि इज़रायली सेना सीमा पर झड़प की रिपोर्ट करती है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Palestinians say settlers attacked, while Israeli military says settlers fired after being attacked.",
+                "hi": "फ़िलिस्तीनियों का कहना है कि बसने वालों ने हमला किया, जबकि इज़रायली सेना का कहना है कि बसने वालों ने हमला करने के बाद गोलीबारी की।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt details the conflicting accounts: 'Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में परस्पर विरोधी वृत्तांतों का विवरण दिया गया है: 'फिलिस्तीनियों का कहना है कि अल-दुयुक अल-तहता में बसने वालों ने हमला किया था, जबकि इजरायली सेना का कहना है कि हमला होने के बाद बसने वालों ने गोलीबारी की।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-49"
+        },
+        {
+          "prompt": {
+            "en": "Where did the incident involving the shooting of a 72-year-old Palestinian woman occur?",
+            "hi": "72 वर्षीय फ़िलिस्तीनी महिला को गोली मारने की घटना कहाँ घटित हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "West Bank",
+                "hi": "वेस्ट बैंक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "East Jerusalem",
+                "hi": "पूर्वी यरूशलेम"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gaza Strip",
+                "hi": "गाजा पट्टी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Tel Aviv",
+                "hi": "तेल अवीव"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title specifies the location as 'West Bank'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक स्थान को 'वेस्ट बैंक' के रूप में निर्दिष्ट करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-18-50"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-18T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to outside companies",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/wont-allow-hiring-of-outsiders-hire-locals-jk-cm-omar-abdullah-to-outside-companies/article71713475.ece",
+      "published": "2026-11-18T02:17:09+05:30"
+    },
+    {
+      "title": "Ruckus erupts between SFI activists and police over setting up bookstalls near Calcutta University",
+      "url": "https://www.thehindu.com/news/national/west-bengal/ruckus-erupts-between-sfi-activists-and-police-over-setting-up-bookstalls-near-calcutta-university/article71713007.ece",
+      "published": "2026-11-18T01:52:19+05:30"
+    },
+    {
+      "title": "Convocation ceremony row: Maharaja’s College council asks suspended students to accept their mistake",
+      "url": "https://www.thehindu.com/news/national/kerala/convocation-ceremony-row-maharajas-college-council-asks-suspended-students-to-accept-their-mistake/article71713079.ece",
+      "published": "2026-11-18T01:42:21+05:30"
+    },
+    {
+      "title": "Kochi woman loses ₹90,000 in credit card activation scam",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-woman-loses-90000-in-credit-card-activation-scam/article71711687.ece",
+      "published": "2026-11-18T01:34:19+05:30"
+    },
+    {
+      "title": "Kerala High Court allows Cusat employees to seek review of suspension",
+      "url": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-allows-cusat-employees-to-seek-review-of-suspension/article71712795.ece",
+      "published": "2026-11-18T01:31:05+05:30"
+    },
+    {
+      "title": "DRI searches Cipla’s Mumbai office and Bhiwandi depot over imported drug classification",
+      "url": "https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece",
+      "published": "2026-11-17T23:40:31+05:30"
+    },
+    {
+      "title": "BPCL plans to raise ₹9,000 crore through bond sale after nearly four years",
+      "url": "https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece",
+      "published": "2026-11-17T23:39:20+05:30"
+    },
+    {
+      "title": "Reliance plans $1.6 billion investment in 100 compressed biogas plants by 2030",
+      "url": "https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece",
+      "published": "2026-11-17T23:38:09+05:30"
+    },
+    {
+      "title": "SEBI weighs curbs on leveraged stock purchases amid rising retail exposure",
+      "url": "https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece",
+      "published": "2026-11-17T23:35:59+05:30"
+    },
+    {
+      "title": "NMDC eyes 24 million tonnes pellet capacity",
+      "url": "https://www.thehindu.com/business/nmdc-eyes-24-million-tonnes-pellet-capacity/article71713102.ece",
+      "published": "2026-11-17T22:47:09+05:30"
+    },
+    {
+      "title": "Sai Parenterals acquiring majority stake in Bion",
+      "url": "https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece",
+      "published": "2026-11-17T22:40:42+05:30"
+    },
+    {
+      "title": "India needs a comprehensive doctrine on space security",
+      "url": "https://www.thehindu.com/opinion/op-ed/india-needs-a-comprehensive-doctrine-on-space-security/article71713238.ece",
+      "published": "2026-11-18T01:02:33+05:30"
+    },
+    {
+      "title": "Three space companies selected to develop high-resolution 3D reconstruction techniques for Indian cities",
+      "url": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+      "published": "2026-11-17T18:02:52+05:30"
+    },
+    {
+      "title": "Orbital computing could let scientists rent ‘brainpower’ in space",
+      "url": "https://www.thehindu.com/sci-tech/science/orbital-computing-could-let-scientists-rent-brainpower-in-space/article71707329.ece",
+      "published": "2026-11-16T18:31:30+05:30"
+    },
+    {
+      "title": "Keralam’s orchids endure from highway trees to salt-sprayed shores",
+      "url": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece",
+      "published": "2026-11-16T12:20:02+05:30"
+    },
+    {
+      "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
+      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T09:27:44+00:00"
+    },
+    {
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:25:53+00:00"
+    },
+    {
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T00:41:42+00:00"
+    },
+    {
+      "title": "Prince and Princess of Wales play street cricket in Mumbai",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T08:13:17+00:00"
+    },
+    {
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:24:21+00:00"
+    },
+    {
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T15:56:04+00:00"
+    },
+    {
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:00:02+00:00"
+    },
+    {
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T14:25:45+00:00"
+    },
+    {
+      "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+      "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T21:00:51+00:00"
+    },
+    {
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:20:36+00:00"
+    },
+    {
+      "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
+      "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T09:46:31+00:00"
+    },
+    {
+      "title": "Dazzling Leonid meteor shower to peak on Tuesday night",
+      "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T09:03:08+00:00"
+    },
+    {
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T08:01:38+00:00"
+    },
+    {
+      "title": "Yellow weather warnings issued for snow as temperatures plummet",
+      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T10:02:04+00:00"
+    },
+    {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T16:56:38+00:00"
+    },
+    {
+      "title": "How the attack on Crimean Bridge unfolded",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T15:38:10+00:00"
+    },
+    {
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T17:19:57+00:00"
+    },
+    {
+      "title": "Russian military plane crashes killing all 19 on board",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T21:06:11+00:00"
+    },
+    {
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T21:04:00+00:00"
+    },
+    {
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T20:30:20+00:00"
+    }
+  ]
+}
