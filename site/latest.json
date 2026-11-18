@@ -1,9 +1,1735 @@
 {
   "schema_version": 2,
   "date": "2026-11-19",
-  "generated_at": "2026-11-18T20:54:23.635594+00:00",
+  "generated_at": "2026-11-18T21:43:17.634186+00:00",
   "status": "ready",
   "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-19.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Surinder Singh was arrested by the NIA in connection with a blast on the railway line of the Dedicated Freight Corridor Corporation of India Limited (DFCCIL). This incident occurred between which two stations?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ambala and Ludhiana stations"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chandigarh and Ambala Cantt stations"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Patiala and Sirhind stations"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Shambhu and Rajpura stations"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that Surinder Singh was arrested in connection with a blast 'between Shambhu and Rajpura stations, on April 27'.\nSource: https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-1"
+        },
+        {
+          "prompt": {
+            "en": "A plea in the Supreme Court seeks disclosure regarding which specific category of voters who have submitted enumeration forms?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "ASDD voters"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Service voters"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Overseas Indian voters"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "First-time voters"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The petitioners specifically 'seek disclosure of the number of ASDD voters who have submitted enumeration forms'.\nSource: https://www.thehindu.com/news/national/plea-in-sc-asks-how-many-voters-have-filled-enumeration-forms-to-get-back-on-electoral-rolls/article71715998.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/plea-in-sc-asks-how-many-voters-have-filled-enumeration-forms-to-get-back-on-electoral-rolls/article71715998.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-2"
+        },
+        {
+          "prompt": {
+            "en": "Karnataka is charting a 1,000 MW roadmap. Which region in Karnataka was highlighted as a strategic growth corridor for capacity expansion and enhanced global connectivity via cable landing stations?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "North Karnataka, particularly Hubballi"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Coastal Karnataka, especially Mangaluru"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Central Karnataka, around Davangere"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Southern Karnataka, including Mysuru"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states, 'Coastal Karnataka, especially Mangaluru, was highlighted as a strategic growth corridor for capacity expansion and enhanced global connectivity via cable landing stations'.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-charts-1000-mw-roadmap-in-consultation-with-industry-stakeholders/article71716752.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-1000-mw-roadmap-in-consultation-with-industry-stakeholders/article71716752.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-3"
+        },
+        {
+          "prompt": {
+            "en": "A PIL plea before Madras High Court insists on declaring the Parandur airport abandonment decision unconstitutional. What is the litigant's claim regarding the basis of this decision?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was abandoned without any technical data, expert committee report or comparative economic study."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It lacked public consultation and local community consent."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It was based on an outdated environmental impact assessment."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The decision was influenced by political pressure from opposition parties."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The litigant 'claims the project had been abandoned without any technical data, expert committee report or comparative economic study in support of the decision'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-4"
+        },
+        {
+          "prompt": {
+            "en": "The Bombay High Court set aside ICICI Bank Board of Directors’ sanction order on Chanda Kochhar. The court held that which authority has jurisdiction under Section 36-AA(1) of the Banking Regulation Act, 1949 to grant permission?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Ministry of Finance"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Reserve Bank of India"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Securities and Exchange Board of India (SEBI)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Central Bureau of Investigation (CBI)"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The court explicitly held that 'the Reserve Bank of India constitutes the authority with jurisdiction under Section 36-AA(1) of the Banking Regulation Act, 1949 to grant permission'.\nSource: https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-5"
+        },
+        {
+          "prompt": {
+            "en": "During their India tour, William and Kate met with which Indian dignitary as they wrapped up their visit?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The President of India"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Chief Justice of India"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Vice President of India"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "PM Modi"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source clearly states, 'William and Kate meet PM Modi as they wrap up India tour'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-6"
+        },
+        {
+          "prompt": {
+            "en": "The Tamil Nadu Growth Conclave 2026, a joint initiative, aims to focus on a specific number of key sectors. How many sectors are targeted for this conclave?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "8"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "12"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "10"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states that the Tamil Nadu Growth Conclave 2026 will \"focus on 10 key sectors\".\nSource: https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-29"
+        },
+        {
+          "prompt": {
+            "en": "In a recent incident in Bihar's Bettiah, armed robbers looted jewellery. What was the approximate value of the jewellery stolen?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "More than ₹30 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than ₹20 crore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than ₹10 crore"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More than ₹40 crore"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The news report clearly states that the robbers \"loot jewellery worth more than ₹30 crore at gunpoint\".\nSource: https://www.thehindu.com/news/national/bihar/armed-robbers-loot-jewellery-worth-more-than-30-crore-at-gunpoint-in-bihars-bettiah/article71717203.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/bihar/armed-robbers-loot-jewellery-worth-more-than-30-crore-at-gunpoint-in-bihars-bettiah/article71717203.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-30"
+        },
+        {
+          "prompt": {
+            "en": "The NIA recently arrested an individual in connection with the Rajpura-Shambhu blast case. This blast occurred on the railway line of which specific corporation?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Indian Railways"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rail Vikas Nigam Limited (RVNL)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Konkan Railway Corporation Limited (KRCL)"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source specifies that the blast occurred \"on the railway line of the Dedicated Freight Corridor Corporation of India Limited (DFCCIL)\".\nSource: https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-31"
+        },
+        {
+          "prompt": {
+            "en": "A plea in the Supreme Court seeks disclosure regarding voters who have submitted enumeration forms. What specific action do petitioners want for those who used Form 6?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To be re-registered with new EPIC numbers"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To have their names removed from electoral rolls"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To retain their old EPIC numbers"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To be granted special voting rights"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The petitioners explicitly \"want those who used Form 6 to retain their old EPIC numbers\".\nSource: https://www.thehindu.com/news/national/plea-in-sc-asks-how-many-voters-have-filled-enumeration-forms-to-get-back-on-electoral-rolls/article71715998.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/plea-in-sc-asks-how-many-voters-have-filled-enumeration-forms-to-get-back-on-electoral-rolls/article71715998.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-32"
+        },
+        {
+          "prompt": {
+            "en": "The Bombay High Court set aside ICICI Bank's sanction order regarding Chanda Kochhar. This ruling pertained to the interpretation of which specific section of the Banking Regulation Act, 1949?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Section 36-AA(1)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Section 29-B(2)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Section 45-C(3)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Section 18-A(1)"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The court's decision was based on the authority under \"Section 36-AA(1) of the Banking Regulation Act, 1949 to grant permission\".\nSource: https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-33"
+        },
+        {
+          "prompt": {
+            "en": "During their India visit, William and Kate met PM Modi. Besides this meeting, what other significant event did their India tour include?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A visit to the Taj Mahal"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Their appearance at the annual Earthshot Prize"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A state dinner with the President"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A cricket match with local celebrities"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source mentions that their India visit \"also included their appearance at the annual Earthshot Prize\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-34"
+        },
+        {
+          "prompt": {
+            "en": "Bilkis Bano, the survivor of the Gujarat riots gang-rape, expressed \"pain, shock and disbelief\" following a top court order. This order was related to what specific legal development?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Acquittal of all accused"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Bail for two convicts"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Reopening of the case"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Transfer of the case to another state"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Bilkis Bano's reaction was specifically to the \"bail for two convicts\" granted by the top court.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-35"
+        },
+        {
+          "prompt": {
+            "en": "India has reportedly softened its short-term military recruitment scheme. What is one of the key benefits offered to young soldiers under the revised scheme?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Immediate promotion to officer rank"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Exemption from combat duties"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A longer military stint and another shot at permanent service"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Guaranteed overseas postings"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that the softened scheme is \"giving young soldiers a longer military stint and another shot at permanent service\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-36"
+        },
+        {
+          "prompt": {
+            "en": "During their visit to India, Prince William and Catherine engaged in street cricket. In which Indian city did this event take place?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mumbai"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Bengaluru"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "New Delhi"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Chennai"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title and text explicitly state that they \"play street cricket in Mumbai\".\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-37"
+        },
+        {
+          "prompt": {
+            "en": "The Tamil Nadu Growth Conclave 2026 is being organized through a collaboration between UEF and which prominent Indian institution?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "IIM-B"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "IIT-D"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "IIT-M"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "IISc"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states \"UEF, IIT-M join hands for Tamil Nadu Growth Conclave 2026\", indicating IIT-M is the collaborating institution.\nSource: https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-38"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-19T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-19.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "India has imposed a significant duty and tax on bulk Scotch imports. What is the percentage of this duty and tax?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "162.5%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "125%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "100%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "200%"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'India imposes 162.5% duty and tax on bulk Scotch imports'.\nSource: https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-7"
+        },
+        {
+          "prompt": {
+            "en": "ACME has sealed a $3.6-billion deal for an Odisha green ammonia project. What is the annual production capacity of this facility?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "500,000 tonnes"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "760,000 tonnes"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "1,000,000 tonnes"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "1,200,000 tonnes"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source mentions, 'With an annual production capacity of 760,000 tonnes, the facility is expected to be commissioned by 2029'.\nSource: https://www.thehindu.com/business/acme-seals-36-billion-deal-for-odisha-green-ammonia-project/article71717139.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/acme-seals-36-billion-deal-for-odisha-green-ammonia-project/article71717139.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-8"
+        },
+        {
+          "prompt": {
+            "en": "India's crude import bill for October soared significantly. By what percentage did it increase, and what was its value?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased by 50% to $15 billion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased by 65% to $17 billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Increased by 87.5% to $19.5 billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increased by 11% to $12 billion"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title states, 'India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions'.\nSource: https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-9"
+        },
+        {
+          "prompt": {
+            "en": "According to forecasts, by how much is a typical energy bill expected to go up annually from January in the UK?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "£250 a year"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "£443 a year"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "£300 a year"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "£500 a year"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states, 'Typical energy bill forecast to go up by £443 a year from January'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-10"
+        },
+        {
+          "prompt": {
+            "en": "What is the current trend in prices in the UK, as indicated by recent inflation figures?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Prices are stabilizing after a period of rapid increase."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Prices are declining due to reduced consumer demand."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Prices are showing moderate growth, in line with expectations."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Prices are rising at their fastest pace for a year."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states, 'Prices are rising at their fastest pace for a year in the UK'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-11"
+        },
+        {
+          "prompt": {
+            "en": "The AI company Anthropic, whose founders are set to become multi-billionaires, is behind which AI product?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "ChatGPT"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Claude"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Gemini"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Copilot"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source identifies Anthropic as 'The AI company behind Claude'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-12"
+        },
+        {
+          "prompt": {
+            "en": "Nvidia recently reported soaring sales. What was the context of Jensen Huang's exit from the company?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "His exit was dramatic."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He was reinstated as CEO."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He retired after a long tenure."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He left to start a new venture."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Nvidia reported strong earnings 'after the dramatic exit of Jensen Huang'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-13"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang, the former Nvidia chief executive, has been central to which major technological trend?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The rise of quantum computing"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The expansion of virtual reality"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The development of blockchain technology"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The artificial intelligence boom"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that Jensen Huang 'has been at the centre of the artificial intelligence boom'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-14"
+        },
+        {
+          "prompt": {
+            "en": "Pakistan's solar revolution has been successful. What is the current solar share of Pakistan's electricity, up from 1%?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "10%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "15%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "28%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "35%"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source indicates that the solar share of Pakistan's electricity has increased 'from 1% to 28%'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-15"
+        },
+        {
+          "prompt": {
+            "en": "India has imposed a 162.5% duty and tax on bulk Scotch imports, leading to a dispute. Which major liquor companies have containers stuck at Indian ports due to this issue?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "United Spirits, Radico Khaitan, Allied Blenders"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Moët Hennessy, Remy Cointreau, Edrington"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Beam Suntory, Brown-Forman, Campari Group"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Pernod Ricard, Diageo, Bacardi"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly names \"Pernod Ricard, Diageo and Bacardi\" as the companies whose containers are stuck.\nSource: https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-39"
+        },
+        {
+          "prompt": {
+            "en": "IndoSpace has recently opened a new industrial and logistics park. In which state is the Narasapura-II park located?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Karnataka"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Maharashtra"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tamil Nadu"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Gujarat"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states \"IndoSpace opens Narasapura-II industrial, logistics park in Karnataka\".\nSource: https://www.thehindu.com/business/indospace-opens-narasapura-ii-industrial-logistics-park-in-karnataka/article71716787.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/indospace-opens-narasapura-ii-industrial-logistics-park-in-karnataka/article71716787.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-40"
+        },
+        {
+          "prompt": {
+            "en": "ACME has secured a significant deal for a green ammonia project in Odisha. What is the total value of this deal?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$3.6-billion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$2.5-billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$4.2-billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$5.0-billion"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that ACME \"seals $3.6-billion deal for Odisha green ammonia project\".\nSource: https://www.thehindu.com/business/acme-seals-36-billion-deal-for-odisha-green-ammonia-project/article71717139.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/acme-seals-36-billion-deal-for-odisha-green-ammonia-project/article71717139.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-41"
+        },
+        {
+          "prompt": {
+            "en": "Apollo Micro and Redon have signed an MoU for collaboration. What specific type of systems will they be collaborating on?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Autonomous underwater vehicles"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Satellite communication systems"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tethered drone systems"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Advanced missile guidance systems"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The MoU is specifically to \"collaborate for tethered drone systems\".\nSource: https://www.thehindu.com/business/Industry/apollo-micro-redon-ink-mou-to-collaborate-for-tethered-drone-systems/article71717093.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/apollo-micro-redon-ink-mou-to-collaborate-for-tethered-drone-systems/article71717093.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-42"
+        },
+        {
+          "prompt": {
+            "en": "India's crude import bill for October saw a significant increase. What factor is mentioned as offering a partial natural hedge against this increase?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Higher petroleum product exports"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased domestic crude production"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Strategic petroleum reserves release"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Reduced industrial demand"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states that \"higher petroleum product exports offer a partial natural hedge\" against the rising import bill.\nSource: https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-43"
+        },
+        {
+          "prompt": {
+            "en": "Indian AI start-ups are addressing various challenges. Which two specific sectors are mentioned where AI is being used to fix \"uniquely Indian challenges\"?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Broken roads and messy land records"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Education and agriculture"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Textile manufacturing and logistics"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Renewable energy and water management"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The article specifically highlights AI start-ups \"fixing India's broken roads and messy land records\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-44"
+        },
+        {
+          "prompt": {
+            "en": "In the UK, typical energy bills are forecast to jump by a certain percentage annually from January. What is this projected percentage increase?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "15%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "26%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "20%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "30%"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states that \"Energy bills are expected to jump by 26% a year for a typical household\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-45"
+        },
+        {
+          "prompt": {
+            "en": "Recent inflation figures in the UK indicate that prices are rising at their fastest pace for a year. What is identified as a primary contributor to these rising costs?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Higher energy costs"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lower transportation costs"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Increased food production"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Reduced consumer demand"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The article explicitly mentions that \"higher energy costs are on the way\" as a factor contributing to rising prices.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-46"
+        },
+        {
+          "prompt": {
+            "en": "Anthropic, the AI company behind Claude, is set to sell its shares. On which stock market is this transaction expected to take place?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "London Stock Exchange"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "US stock market"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tokyo Stock Exchange"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Frankfurt Stock Exchange"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states that the company \"is about to sell its shares on the US stock market\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-47"
+        },
+        {
+          "prompt": {
+            "en": "Nvidia, described as an \"AI chip giant,\" recently reported strong quarterly earnings. What type of company is Nvidia primarily known as?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Software development firm"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "AI chip giant"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Cloud computing provider"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "E-commerce platform"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source refers to Nvidia as \"The AI chip giant\", indicating its primary business.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-48"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang, the former Nvidia chief executive, has been at the center of the artificial intelligence boom. What was his specific role at Nvidia?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Chief Financial Officer"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Chief Operating Officer"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Chief Technology Officer"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Chief Executive"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source identifies him as \"The former Nvidia chief executive\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-49"
+        },
+        {
+          "prompt": {
+            "en": "Pakistan's solar revolution has been very successful, with solar share of electricity rising significantly. What is a consequence mentioned due to this rapid growth?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The national grid is lagging behind"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased electricity exports"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Reduced electricity tariffs"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Over-reliance on fossil fuels"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title and text explicitly state that \"the national grid is lagging behind\" as a result of the solar revolution.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-50"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-19T13:00:00+05:30"
+    },
     {
       "title": "Science, Environment & World Affairs",
       "source_filename": "daily-2026-11-19.json",
@@ -605,716 +2331,842 @@
           "warnings": [],
           "page": 1,
           "id": "2026-11-19-28"
+        },
+        {
+          "prompt": {
+            "en": "The 2027 edition of the Times Higher Education rankings assessed a significant number of institutions globally. How many institutions were assessed in this edition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "911"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "1,158"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "1,058"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "1,200"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that the 2027 edition \"assessed 1,058 institutions across 102 countries and territories\".\nSource: https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-51"
+        },
+        {
+          "prompt": {
+            "en": "Cyclone 'Akvan' is being monitored by APSDMA. What was its speed increase over the past six hours, as reported?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5 kmph"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "9 kmph"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "7 kmph"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "10 kmph"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, \"The storm picked up speed to 7 kmph over the past six hours.\"\nSource: https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-52"
+        },
+        {
+          "prompt": {
+            "en": "The UN Sustainable Development Goals group for science and technology has been rejigged. What is the primary focus of this group in the context of global efforts?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Promoting space exploration"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Developing new military technologies"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Achieving the 2030 Agenda for Sustainable Development"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Regulating artificial intelligence"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The group's constitution is linked to the international community's efforts to \"achieve the 2030 Agenda for Sustainable Development\".\nSource: https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-53"
+        },
+        {
+          "prompt": {
+            "en": "NASA's Voyager 1 probe, which recently reached a 'light-day' milestone, was launched in a specific year. When was this robotic probe launched?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "1972"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "1985"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "1981"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "1977"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states, \"The robotic probe, launched in 1977\".\nSource: https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-54"
+        },
+        {
+          "prompt": {
+            "en": "While China's LineShine retains the top spot, which Indian machine is the highest ranked on the list of the world's most powerful supercomputers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Pratyush"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mihir"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Param Siddhi-AI"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Shakti Cloud"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source clearly states, \"The highest ranked Indian machine on the list is Shakti Cloud at number 35\".\nSource: https://www.thehindu.com/sci-tech/science/lineshine-computers-defending-champ/article71712174.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/lineshine-computers-defending-champ/article71712174.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-55"
+        },
+        {
+          "prompt": {
+            "en": "A CCMB study points to a new way of tackling fungal infections. What is a significant problem with existing antifungal drugs that makes infections harder to treat?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are too expensive"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fungi develop resistance to them"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have severe side effects"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are not widely available"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states that \"Fungi can gradually develop resistance to current antifungal drugs, making infections increasingly difficult to treat\".\nSource: https://www.thehindu.com/news/cities/Hyderabad/ccmb-study-points-to-new-way-of-tackling-fungal-infections/article71711826.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-study-points-to-new-way-of-tackling-fungal-infections/article71711826.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-56"
+        },
+        {
+          "prompt": {
+            "en": "The longevity of the Voyager 1 mission has allowed successive generations of researchers to find more uses for its data. What is a key aspect highlighted about its data collection?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It only collects historical data"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It has stopped collecting data"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its data is no longer relevant"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It continues to collect new information"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source mentions that the mission's longevity allows for new uses of its data \"even as it continues to collect new information\".\nSource: https://www.thehindu.com/sci-tech/science/voyager-1-one-light-day-away-from-earth-today-is-a-marvel-of-science/article71708334.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/voyager-1-one-light-day-away-from-earth-today-is-a-marvel-of-science/article71708334.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-57"
+        },
+        {
+          "prompt": {
+            "en": "NASA's Voyager 1 is described as humanity's farthest spacecraft. Approximately how far away from Earth is it when it reaches one light-day?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Less than 1 billion miles"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Around 5 billion miles"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than 16 billion miles"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Exactly 20 billion miles"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that Voyager 1 is \"more than 16 billion miles away\" when it reaches one light-day from Earth.\nSource: https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-58"
+        },
+        {
+          "prompt": {
+            "en": "Europe aims to be a leader in a new generation of computer chips. What is the fundamental technology these new chips are planned to use for data processing?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Quantum entanglement"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Superconducting circuits"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Light to process data"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Biological neural networks"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source specifies that these new chips \"use light to process data\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-59"
+        },
+        {
+          "prompt": {
+            "en": "Torrential rain has caused widespread flooding in South Florida. What are some of the critical services and infrastructure impacted by these disruptions?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Power grids and communication networks"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Agricultural lands and national parks"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Schools, roads, hospitals and airports"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ports and railway lines"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source explicitly lists \"schools, roads, hospitals and airports\" as being impacted by the disruptions.\nSource: BBC News · https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-60"
+        },
+        {
+          "prompt": {
+            "en": "An investigation by the Office for Environmental Protection found that the Stormont department (Daera) failed to protect wild birds. Which body conducted this investigation?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Environmental Protection Agency"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Wildlife Conservation Society"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Department of Agriculture, Environment and Rural Affairs"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Office for Environmental Protection"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that \"The Office for Environmental Protection said Daera had not complied with environmental law\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-61"
+        },
+        {
+          "prompt": {
+            "en": "A man died of lung cancer 14 years after falling into a lagoon at a toxic waste dump fire. What type of cancer did he die from?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Liver cancer"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lung cancer"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Bone cancer"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Brain cancer"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states, \"Steve Williams died of lung cancer\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-62"
+        },
+        {
+          "prompt": {
+            "en": "A bathing site in Britain failed many water quality tests despite a dry summer with few sewage spills. What was the primary issue being tested for at this site?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Air quality"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Water quality"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Soil quality"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Noise pollution"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The article discusses why \"one bathing site failed so many water quality tests,\" indicating water quality was the primary concern.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-63"
+        },
+        {
+          "prompt": {
+            "en": "An adviser has warned that the UK could miss legally binding climate targets if EV targets are cut. Who issued this warning?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An adviser"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An industry lobbyist"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A government minister"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "An opposition party leader"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states that \"an adviser warns\" about the risk of missing climate targets.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-64"
+        },
+        {
+          "prompt": {
+            "en": "Ukrainian forces are fighting an underground war with Russia in an old gas pipeline. What is a key advantage of fighting below ground in this context?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Out of sight of Russian drones"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Easier access to supplies"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Better communication networks"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More stable terrain"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source highlights that fighting is \"below ground and out of sight of Russian drones\".\nSource: BBC News · https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-65"
+        },
+        {
+          "prompt": {
+            "en": "Donald Trump recently shook hands with Putin and Xi ahead of historic talks. Where are these talks scheduled to take place?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "China"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "United States"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Russia"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Switzerland"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source mentions \"historic talks in China\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-66"
+        },
+        {
+          "prompt": {
+            "en": "The Israeli military launched a rare ground operation in Gaza beyond the Yellow Line. How did Hamas condemn this incursion?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As a necessary security measure"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "As a \"flagrant\" ceasefire violation"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As a limited tactical move"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As a humanitarian effort"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states that \"Hamas condemns the incursion... as a \"flagrant\" ceasefire violation.\"\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-67"
+        },
+        {
+          "prompt": {
+            "en": "Kuwait repelled an Iranian attack following a US air strike on the Iranian island of Qeshm. Which other country reported being attacked by Iran after this US strike?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Saudi Arabia"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Bahrain"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Qatar"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "UAE"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states, \"Bahrain says it was also attacked by Iran\".\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-19-68"
         }
       ],
       "quarantined": [],
       "warnings": [
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
-      "release_wave": 1,
-      "release_at": "2026-11-19T06:30:00+05:30"
-    },
-    {
-      "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-11-19.json",
-      "questions": [
-        {
-          "prompt": {
-            "en": "Surinder Singh was arrested by the NIA in connection with a blast on the railway line of the Dedicated Freight Corridor Corporation of India Limited (DFCCIL). This incident occurred between which two stations?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Ambala and Ludhiana stations"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Chandigarh and Ambala Cantt stations"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Patiala and Sirhind stations"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Shambhu and Rajpura stations"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The source states that Surinder Singh was arrested in connection with a blast 'between Shambhu and Rajpura stations, on April 27'.\nSource: https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-1"
-        },
-        {
-          "prompt": {
-            "en": "A plea in the Supreme Court seeks disclosure regarding which specific category of voters who have submitted enumeration forms?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "ASDD voters"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Service voters"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Overseas Indian voters"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "First-time voters"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The petitioners specifically 'seek disclosure of the number of ASDD voters who have submitted enumeration forms'.\nSource: https://www.thehindu.com/news/national/plea-in-sc-asks-how-many-voters-have-filled-enumeration-forms-to-get-back-on-electoral-rolls/article71715998.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/plea-in-sc-asks-how-many-voters-have-filled-enumeration-forms-to-get-back-on-electoral-rolls/article71715998.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-2"
-        },
-        {
-          "prompt": {
-            "en": "Karnataka is charting a 1,000 MW roadmap. Which region in Karnataka was highlighted as a strategic growth corridor for capacity expansion and enhanced global connectivity via cable landing stations?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "North Karnataka, particularly Hubballi"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Coastal Karnataka, especially Mangaluru"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Central Karnataka, around Davangere"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Southern Karnataka, including Mysuru"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source explicitly states, 'Coastal Karnataka, especially Mangaluru, was highlighted as a strategic growth corridor for capacity expansion and enhanced global connectivity via cable landing stations'.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-charts-1000-mw-roadmap-in-consultation-with-industry-stakeholders/article71716752.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-1000-mw-roadmap-in-consultation-with-industry-stakeholders/article71716752.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-3"
-        },
-        {
-          "prompt": {
-            "en": "A PIL plea before Madras High Court insists on declaring the Parandur airport abandonment decision unconstitutional. What is the litigant's claim regarding the basis of this decision?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It was abandoned without any technical data, expert committee report or comparative economic study."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It lacked public consultation and local community consent."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It was based on an outdated environmental impact assessment."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The decision was influenced by political pressure from opposition parties."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The litigant 'claims the project had been abandoned without any technical data, expert committee report or comparative economic study in support of the decision'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/declare-parandur-airport-abandonment-decision-unconstitutional-insists-a-pil-plea-before-madras-high-court/article71716148.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-4"
-        },
-        {
-          "prompt": {
-            "en": "The Bombay High Court set aside ICICI Bank Board of Directors’ sanction order on Chanda Kochhar. The court held that which authority has jurisdiction under Section 36-AA(1) of the Banking Regulation Act, 1949 to grant permission?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Ministry of Finance"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Reserve Bank of India"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Securities and Exchange Board of India (SEBI)"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Central Bureau of Investigation (CBI)"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The court explicitly held that 'the Reserve Bank of India constitutes the authority with jurisdiction under Section 36-AA(1) of the Banking Regulation Act, 1949 to grant permission'.\nSource: https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-5"
-        },
-        {
-          "prompt": {
-            "en": "During their India tour, William and Kate met with which Indian dignitary as they wrapped up their visit?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The President of India"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The Chief Justice of India"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The Vice President of India"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "PM Modi"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The source clearly states, 'William and Kate meet PM Modi as they wrap up India tour'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-6"
-        },
-        {
-          "prompt": {
-            "en": "India has imposed a significant duty and tax on bulk Scotch imports. What is the percentage of this duty and tax?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "162.5%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "125%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "100%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "200%"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title explicitly states, 'India imposes 162.5% duty and tax on bulk Scotch imports'.\nSource: https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/india-imposes-1625-duty-and-tax-on-bulk-scotch-imports-amid-uk-trade-pact-dispute/article71717239.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-7"
-        },
-        {
-          "prompt": {
-            "en": "ACME has sealed a $3.6-billion deal for an Odisha green ammonia project. What is the annual production capacity of this facility?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "500,000 tonnes"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "760,000 tonnes"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "1,000,000 tonnes"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "1,200,000 tonnes"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source mentions, 'With an annual production capacity of 760,000 tonnes, the facility is expected to be commissioned by 2029'.\nSource: https://www.thehindu.com/business/acme-seals-36-billion-deal-for-odisha-green-ammonia-project/article71717139.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/acme-seals-36-billion-deal-for-odisha-green-ammonia-project/article71717139.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-8"
-        },
-        {
-          "prompt": {
-            "en": "India's crude import bill for October soared significantly. By what percentage did it increase, and what was its value?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Increased by 50% to $15 billion"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Increased by 65% to $17 billion"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Increased by 87.5% to $19.5 billion"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Increased by 11% to $12 billion"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title states, 'India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions'.\nSource: https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/business/Economy/indias-oct-crude-import-bill-soars-875-to-195-bn-amid-west-asia-tensions-volumes-up-11/article71716652.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-9"
-        },
-        {
-          "prompt": {
-            "en": "According to forecasts, by how much is a typical energy bill expected to go up annually from January in the UK?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "£250 a year"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "£443 a year"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "£300 a year"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "£500 a year"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source states, 'Typical energy bill forecast to go up by £443 a year from January'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-10"
-        },
-        {
-          "prompt": {
-            "en": "What is the current trend in prices in the UK, as indicated by recent inflation figures?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Prices are stabilizing after a period of rapid increase."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Prices are declining due to reduced consumer demand."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Prices are showing moderate growth, in line with expectations."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Prices are rising at their fastest pace for a year."
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The source explicitly states, 'Prices are rising at their fastest pace for a year in the UK'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-11"
-        },
-        {
-          "prompt": {
-            "en": "The AI company Anthropic, whose founders are set to become multi-billionaires, is behind which AI product?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "ChatGPT"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Claude"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Gemini"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Copilot"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source identifies Anthropic as 'The AI company behind Claude'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-12"
-        },
-        {
-          "prompt": {
-            "en": "Nvidia recently reported soaring sales. What was the context of Jensen Huang's exit from the company?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "His exit was dramatic."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "He was reinstated as CEO."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "He retired after a long tenure."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "He left to start a new venture."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Nvidia reported strong earnings 'after the dramatic exit of Jensen Huang'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-13"
-        },
-        {
-          "prompt": {
-            "en": "Jensen Huang, the former Nvidia chief executive, has been central to which major technological trend?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The rise of quantum computing"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The expansion of virtual reality"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The development of blockchain technology"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The artificial intelligence boom"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The source states that Jensen Huang 'has been at the centre of the artificial intelligence boom'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-14"
-        },
-        {
-          "prompt": {
-            "en": "Pakistan's solar revolution has been successful. What is the current solar share of Pakistan's electricity, up from 1%?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "10%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "15%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "28%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "35%"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The source indicates that the solar share of Pakistan's electricity has increased 'from 1% to 28%'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-19-15"
-        }
-      ],
-      "quarantined": [],
-      "warnings": [
-        "AI-generated from linked public news sources. Check important facts against the source."
-      ],
-      "release_wave": 2,
-      "release_at": "2026-11-19T13:00:00+05:30"
+      "release_wave": 3,
+      "release_at": "2026-11-19T18:00:00+05:30"
     }
   ],
   "sources": [
@@ -1349,6 +3201,11 @@
       "published": "2026-11-18T23:00:21+05:30"
     },
     {
+      "title": "IndoSpace opens Narasapura-II industrial, logistics park in Karnataka",
+      "url": "https://www.thehindu.com/business/indospace-opens-narasapura-ii-industrial-logistics-park-in-karnataka/article71716787.ece",
+      "published": "2026-11-18T22:54:39+05:30"
+    },
+    {
       "title": "ACME seals $3.6-billion deal for Odisha green ammonia project",
       "url": "https://www.thehindu.com/business/acme-seals-36-billion-deal-for-odisha-green-ammonia-project/article71717139.ece",
       "published": "2026-11-18T22:44:06+05:30"
@@ -1357,6 +3214,11 @@
       "title": "Bombay HC sets aside ICICI Bank Board of Directors’ sanction order on Chanda Kochhar",
       "url": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
       "published": "2026-11-18T22:31:36+05:30"
+    },
+    {
+      "title": "Apollo Micro, Redon ink MoU to collaborate for tethered drone systems",
+      "url": "https://www.thehindu.com/business/Industry/apollo-micro-redon-ink-mou-to-collaborate-for-tethered-drone-systems/article71717093.ece",
+      "published": "2026-11-18T22:26:36+05:30"
     },
     {
       "title": "India’s Oct. crude import bill soars 87.5% to $19.5-bn amid West Asia tensions, volumes up 11%",
@@ -1384,9 +3246,39 @@
       "published": "2026-11-18T13:47:26+05:30"
     },
     {
+      "title": "Voyager 1, one light-day away from earth today, is a marvel of science",
+      "url": "https://www.thehindu.com/sci-tech/science/voyager-1-one-light-day-away-from-earth-today-is-a-marvel-of-science/article71708334.ece",
+      "published": "2026-11-18T10:35:02+05:30"
+    },
+    {
+      "title": "NASA’s Voyager 1 reaches one light-day from Earth on November 18: What does it mean?",
+      "url": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece",
+      "published": "2026-11-18T10:30:29+05:30"
+    },
+    {
       "title": "William and Kate meet PM Modi as they wrap up India tour",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T20:07:08+00:00"
+    },
+    {
+      "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
+      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T09:27:44+00:00"
+    },
+    {
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:25:53+00:00"
+    },
+    {
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T00:41:42+00:00"
+    },
+    {
+      "title": "Prince and Princess of Wales play street cricket in Mumbai",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T08:13:17+00:00"
     },
     {
       "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
@@ -1419,9 +3311,24 @@
       "published": "2026-11-18T00:00:24+00:00"
     },
     {
+      "title": "Torrential rain causes widespread flooding in South Florida",
+      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T20:29:18+00:00"
+    },
+    {
       "title": "Stormont department failing to protect wild birds, investigation finds",
       "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T12:13:32+00:00"
+    },
+    {
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T10:48:49+00:00"
+    },
+    {
+      "title": "What's gone wrong at Britain's worst bathing site?",
+      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T06:12:44+00:00"
     },
     {
       "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
@@ -1457,6 +3364,21 @@
       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
       "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T13:04:48+00:00"
+    },
+    {
+      "title": "UEF, IIT-M join hands for Tamil Nadu Growth Conclave 2026; focus on 10 key sectors",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
+      "published": "2026-11-19T02:34:34+05:30"
+    },
+    {
+      "title": "Panjab University improves its global standing in interdisciplinary scientific research",
+      "url": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+      "published": "2026-11-19T02:29:41+05:30"
+    },
+    {
+      "title": "Armed robbers loot jewellery worth more than ₹30 crore at gunpoint in Bihar’s Bettiah",
+      "url": "https://www.thehindu.com/news/national/bihar/armed-robbers-loot-jewellery-worth-more-than-30-crore-at-gunpoint-in-bihars-bettiah/article71717203.ece",
+      "published": "2026-11-19T02:11:58+05:30"
     }
   ]
 }
