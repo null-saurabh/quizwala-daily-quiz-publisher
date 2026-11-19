@@ -1,0 +1,2967 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-20",
+  "generated_at": "2026-11-19T20:59:34.005810+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-20.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to the India Meteorological Department (IMD), where is Cyclone ‘Akvan’ expected to make landfall?",
+            "hi": "भारत मौसम विज्ञान विभाग (IMD) के अनुसार, चक्रवात 'अकवन' के कहाँ टकराने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "North Tamil Nadu and South Andhra Pradesh coasts near Chennai",
+                "hi": "चेन्नई के पास उत्तरी तमिलनाडु और दक्षिणी आंध्र प्रदेश तट"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "West Bengal and Bangladesh coasts near Sundarbans",
+                "hi": "सुंदरबन के पास पश्चिम बंगाल और बांग्लादेश तट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "North Andhra Pradesh and South Odisha coasts close to Gopalpur",
+                "hi": "उत्तरी आंध्र प्रदेश और दक्षिणी ओडिशा तट गोपालपुर के करीब हैं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Odisha and West Bengal coasts near Paradip",
+                "hi": "पारादीप के पास ओडिशा और पश्चिम बंगाल तट"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that the severe cyclonic storm is likely to cross 'north Andhra Pradesh and south Odisha coasts close to Gopalpur'.\nSource: https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+            "hi": "अंश में कहा गया है कि भीषण चक्रवाती तूफान 'उत्तरी आंध्र प्रदेश और गोपालपुर के करीब दक्षिण ओडिशा तटों' को पार करने की संभावना है।\nस्रोत: https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-1"
+        },
+        {
+          "prompt": {
+            "en": "When is Cyclone ‘Akvan’ expected to make landfall, as per current predictions?",
+            "hi": "वर्तमान पूर्वानुमानों के अनुसार, चक्रवात 'अकवन' के कब टकराने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By noon on November 20",
+                "hi": "20 नवंबर को दोपहर तक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By midnight on November 20",
+                "hi": "20 नवंबर की आधी रात तक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "By evening on November 19",
+                "hi": "19 नवंबर को शाम तक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Early morning on November 21",
+                "hi": "21 नवंबर की सुबह-सुबह"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The provided text explicitly mentions that the cyclone is likely to cross 'by noon on November 20'.\nSource: https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+            "hi": "प्रदान किए गए पाठ में स्पष्ट रूप से उल्लेख किया गया है कि चक्रवात '20 नवंबर को दोपहर तक' पार करने की संभावना है।\nस्रोत: https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-2"
+        },
+        {
+          "prompt": {
+            "en": "In the context of the Trinamool party symbol row, what was the stance of the Leader of the Opposition in the West Bengal Assembly, Ritabrata Banerjee?",
+            "hi": "तृणमूल पार्टी चुनाव चिह्न विवाद के संदर्भ में पश्चिम बंगाल विधानसभा में विपक्ष के नेता रीतब्रत बनर्जी का रुख क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He asserted that the symbol does not belong to either faction and Abhishek Banerjee cannot claim it.",
+                "hi": "उन्होंने जोर देकर कहा कि यह प्रतीक चिन्ह किसी भी गुट का नहीं है और अभिषेक बनर्जी इस पर दावा नहीं कर सकते।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He stated that the symbol belongs to the original party founder.",
+                "hi": "उन्होंने कहा कि यह चिन्ह मूल पार्टी संस्थापक का है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He supported Abhishek Banerjee's claim over the symbol.",
+                "hi": "उन्होंने सिंबल पर अभिषेक बनर्जी के दावे का समर्थन किया."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He suggested a new symbol be designed for both factions.",
+                "hi": "उन्होंने सुझाव दिया कि दोनों गुटों के लिए एक नया प्रतीक तैयार किया जाए।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Ritabrata Banerjee stated that 'the symbol does not belong to either faction and Mr. Banerjee will not be able to stake claim over the symbol'.\nSource: https://www.thehindu.com/news/national/west-bengal/trinamool-party-symbol-row-abhishek-banerjee-says-twin-flower-symbol-will-return-in-seven-days/article71721362.ece",
+            "hi": "ऋतब्रत बनर्जी ने कहा कि 'यह चुनाव चिन्ह किसी भी गुट का नहीं है और श्री बनर्जी इस चुनाव चिन्ह पर दावा नहीं कर पाएंगे।'\nस्रोत: https://www.thehindu.com/news/national/west-bengal/trinamool-party-symbol-row-abhishek-banerjee-says-twin-flower-symbol-will-return-in-seven-days/article71721362.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/trinamool-party-symbol-row-abhishek-banerjee-says-twin-flower-symbol-will-return-in-seven-days/article71721362.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-3"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason for the protest by advocates and traders in Vaniyambadi?",
+            "hi": "वानीयंबादी में अधिवक्ताओं और व्यापारियों के विरोध का मुख्य कारण क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To demand better infrastructure for existing courts",
+                "hi": "मौजूदा अदालतों के लिए बेहतर बुनियादी ढांचे की मांग करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To advocate for an additional district court",
+                "hi": "अतिरिक्त जिला न्यायालय की वकालत करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To protest against the relocation of existing courts",
+                "hi": "मौजूदा अदालतों के स्थानांतरण के विरोध में"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To seek a reduction in court fees",
+                "hi": "न्यायालय शुल्क में कमी की मांग करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states, 'Advocates, traders protest in Vaniyambadi for additional district court'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece",
+            "hi": "शीर्षक में साफ लिखा है, 'वकील, व्यापारियों ने अतिरिक्त जिला अदालत के लिए वानीयंबाडी में विरोध प्रदर्शन किया।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-4"
+        },
+        {
+          "prompt": {
+            "en": "How many lower courts are currently operational in Vaniyambadi, according to the provided information?",
+            "hi": "प्रदान की गई जानकारी के अनुसार, वानीयंबाडी में वर्तमान में कितनी निचली अदालतें कार्यरत हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "One",
+                "hi": "एक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Two",
+                "hi": "दो"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Three",
+                "hi": "तीन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Four",
+                "hi": "चार"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'At present, Vaniyambadi has three lower courts'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece",
+            "hi": "अंश में कहा गया है, 'वर्तमान में, वानियमबाड़ी में तीन निचली अदालतें हैं।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-5"
+        },
+        {
+          "prompt": {
+            "en": "The CBI recently secured the deportation of a murder accused wanted by the police of which Indian state?",
+            "hi": "सीबीआई ने हाल ही में किस भारतीय राज्य की पुलिस द्वारा वांछित एक हत्या के आरोपी का निर्वासन सुनिश्चित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Karnataka",
+                "hi": "कर्नाटक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kerala",
+                "hi": "केरल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly mentions, 'CBI secures deportation of murder accused wanted by Kerala Police from UAE'.\nSource: https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से उल्लेख है, 'सीबीआई ने केरल पुलिस द्वारा वांछित हत्या के आरोपियों को संयुक्त अरब अमीरात से निर्वासित किया।'\nस्रोत: https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-6"
+        },
+        {
+          "prompt": {
+            "en": "When did the murder incident, for which the accused was deported, originally occur?",
+            "hi": "हत्या की घटना, जिसके लिए अभियुक्त को निर्वासित किया गया था, मूल रूप से कब घटी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "September 1, 2007",
+                "hi": "1 सितम्बर 2007"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "October 1, 2008",
+                "hi": "1 अक्टूबर 2008"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "November 1, 2009",
+                "hi": "1 नवंबर 2009"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "December 1, 2010",
+                "hi": "1 दिसंबर 2010"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The text states, 'The incident occurred on October 1, 2008'.\nSource: https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece",
+            "hi": "टेक्स्ट में कहा गया है, 'घटना 1 अक्टूबर 2008 को हुई थी।'\nस्रोत: https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-7"
+        },
+        {
+          "prompt": {
+            "en": "What was the recent decision of the Kerala High Court regarding Public Interest Litigations (PILs) filed against the reconstitution of the Waqf Board?",
+            "hi": "वक्फ बोर्ड के पुनर्गठन के खिलाफ दायर जनहित याचिकाओं (पीआईएल) के संबंध में केरल उच्च न्यायालय का हालिया निर्णय क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It upheld the PILs and quashed the reconstitution.",
+                "hi": "इसने जनहित याचिकाओं को बरकरार रखा और पुनर्गठन को रद्द कर दिया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It referred the matter to a larger bench.",
+                "hi": "इसने मामले को बड़ी पीठ के पास भेज दिया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It ordered a stay on the reconstitution process.",
+                "hi": "इसने पुनर्गठन प्रक्रिया पर रोक लगाने का आदेश दिया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It disposed of the PILs.",
+                "hi": "इसने जनहित याचिकाओं का निपटारा कर दिया।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'Kerala High Court disposes of PILs against reconstitution of Waqf Board'.\nSource: https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'केरल उच्च न्यायालय ने वक्फ बोर्ड के पुनर्गठन के खिलाफ जनहित याचिकाओं का निपटारा किया।'\nस्रोत: https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-8"
+        },
+        {
+          "prompt": {
+            "en": "What was the Kerala High Court's earlier stance in October regarding the reconstitution of the Waqf Board?",
+            "hi": "वक्फ बोर्ड के पुनर्गठन के संबंध में अक्टूबर में केरल उच्च न्यायालय का पहले क्या रुख था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It had refused to stay the reconstitution of the board.",
+                "hi": "इसने बोर्ड के पुनर्गठन पर रोक लगाने से इनकार कर दिया था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It had approved the reconstitution without any objections.",
+                "hi": "इसने बिना किसी आपत्ति के पुनर्गठन को मंजूरी दे दी थी।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It had ordered a stay on the reconstitution.",
+                "hi": "इसमें पुनर्गठन पर रोक लगाने का आदेश दिया गया था।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It had sought more clarifications before making a decision.",
+                "hi": "उसने निर्णय लेने से पहले और स्पष्टीकरण मांगा था।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt mentions, 'The High Court had refused to stay the reconstitution of the board in October'.\nSource: https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece",
+            "hi": "अंश में उल्लेख है, 'उच्च न्यायालय ने अक्टूबर में बोर्ड के पुनर्गठन पर रोक लगाने से इनकार कर दिया था।'\nस्रोत: https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-9"
+        },
+        {
+          "prompt": {
+            "en": "According to a new Pew study, what is the projected demographic trend for India's religious make-up?",
+            "hi": "एक नए प्यू अध्ययन के अनुसार, भारत की धार्मिक संरचना के लिए अनुमानित जनसांख्यिकीय प्रवृत्ति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India will become predominantly Muslim by 2050.",
+                "hi": "2050 तक भारत मुस्लिम बहुल हो जाएगा।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The proportion of all religious groups will remain static.",
+                "hi": "सभी धार्मिक समूहों का अनुपात स्थिर रहेगा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Christian population is projected to grow the fastest.",
+                "hi": "ईसाई आबादी सबसे तेजी से बढ़ने का अनुमान है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "India will remain predominantly Hindu, but its Muslim population will grow faster.",
+                "hi": "भारत मुख्य रूप से हिंदू रहेगा, लेकिन इसकी मुस्लिम आबादी तेजी से बढ़ेगी।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The survey indicates that 'India will remain predominantly Hindu, though its Muslim population is projected to grow faster'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+            "hi": "सर्वेक्षण से संकेत मिलता है कि 'भारत मुख्य रूप से हिंदू बना रहेगा, हालांकि इसकी मुस्लिम आबादी तेजी से बढ़ने का अनुमान है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-10"
+        },
+        {
+          "prompt": {
+            "en": "Which religious group's population is projected to grow faster in India, according to a new Pew study?",
+            "hi": "एक नए प्यू अध्ययन के अनुसार, भारत में किस धार्मिक समूह की जनसंख्या तेजी से बढ़ने का अनुमान है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Hindu population",
+                "hi": "हिंदू आबादी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Muslim population",
+                "hi": "मुस्लिम आबादी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Christian population",
+                "hi": "ईसाई आबादी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sikh population",
+                "hi": "सिख आबादी"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The study projects that 'its Muslim population is projected to grow faster'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+            "hi": "अध्ययन में अनुमान लगाया गया है कि 'इसकी मुस्लिम आबादी तेजी से बढ़ने का अनुमान है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-11"
+        },
+        {
+          "prompt": {
+            "en": "How did Bilkis Bano react to the top court order concerning the bail of two convicts in the Gujarat riots gang-rape case?",
+            "hi": "गुजरात दंगों के सामूहिक बलात्कार मामले में दो दोषियों की जमानत के संबंध में शीर्ष अदालत के आदेश पर बिलकिस बानो की क्या प्रतिक्रिया थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "She expressed relief and satisfaction with the judicial process.",
+                "hi": "उन्होंने न्यायिक प्रक्रिया से राहत और संतुष्टि व्यक्त की।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She accepted the decision as a final outcome.",
+                "hi": "उसने निर्णय को अंतिम परिणाम के रूप में स्वीकार किया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "She spoke of her 'pain, shock and disbelief'.",
+                "hi": "उन्होंने अपने 'दर्द, सदमा और अविश्वास' के बारे में बताया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She called for immediate public protests.",
+                "hi": "उन्होंने तत्काल सार्वजनिक विरोध प्रदर्शन का आह्वान किया।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Bilkis Bano 'has spoken of her \"pain, shock and disbelief\" at the top court order'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+            "hi": "बिलकिस बानो ने शीर्ष अदालत के आदेश पर अपने \"दर्द, सदमे और अविश्वास\" के बारे में बात की है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-12"
+        },
+        {
+          "prompt": {
+            "en": "What was Bilkis Bano's resolve following her reaction to the top court order?",
+            "hi": "शीर्ष अदालत के आदेश पर अपनी प्रतिक्रिया के बाद बिलकिस बानो ने क्या संकल्प लिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To appeal for clemency from the President",
+                "hi": "राष्ट्रपति से क्षमादान की अपील करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To withdraw from public life",
+                "hi": "सार्वजनिक जीवन से हट जाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To seek international intervention",
+                "hi": "अंतर्राष्ट्रीय हस्तक्षेप की तलाश करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To fight back",
+                "hi": "वापस लड़ने के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states that she 'vowed to fight back'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि उसने 'वापस लड़ने की कसम खाई'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-13"
+        },
+        {
+          "prompt": {
+            "en": "Which Indian dignitary did Prince William and Kate meet as they concluded their India tour?",
+            "hi": "अपने भारत दौरे के समापन पर प्रिंस विलियम और केट ने किस भारतीय गणमान्य व्यक्ति से मुलाकात की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The President of India",
+                "hi": "भारत के राष्ट्रपति"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Vice President of India",
+                "hi": "भारत के उपराष्ट्रपति"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Chief Justice of India",
+                "hi": "भारत के मुख्य न्यायाधीश"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Prime Minister of India",
+                "hi": "भारत के प्रधान मंत्री"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'William and Kate meet PM Modi'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में साफ लिखा है, 'विलियम और केट ने पीएम मोदी से मुलाकात की।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-14"
+        },
+        {
+          "prompt": {
+            "en": "What was one of Catherine's activities on the last day of the royal couple's trip to India?",
+            "hi": "शाही जोड़े की भारत यात्रा के अंतिम दिन कैथरीन की गतिविधियों में से एक क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Attending a cultural festival in Delhi",
+                "hi": "दिल्ली में एक सांस्कृतिक उत्सव में भाग ले रहा हूँ"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Visiting a historical monument in Agra",
+                "hi": "आगरा में एक ऐतिहासिक स्मारक का दौरा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Participating in a business summit in Bengaluru",
+                "hi": "बेंगलुरु में एक बिजनेस समिट में हिस्सा ले रहा हूं"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Visiting a Mumbai maternity hospital",
+                "hi": "मुंबई प्रसूति अस्पताल का दौरा"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Catherine visits Mumbai maternity hospital on the last day of royal trip'.\nSource: BBC News · https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'कैथरीन ने शाही यात्रा के आखिरी दिन मुंबई प्रसूति अस्पताल का दौरा किया।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-15"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-20T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-20.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What was the approximate valuation of Anthropic, the maker of the Claude chatbot, at its IPO price, including employee stock options and restricted shares?",
+            "hi": "कर्मचारी स्टॉक विकल्प और प्रतिबंधित शेयरों सहित, क्लाउड चैटबॉट के निर्माता एंथ्रोपिक का आईपीओ मूल्य पर अनुमानित मूल्यांकन क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$81.3 billion",
+                "hi": "$81.3 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$1.03 trillion",
+                "hi": "$1.03 ट्रिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$1.5 trillion",
+                "hi": "$1.5 ट्रिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$1.8 trillion",
+                "hi": "$1.8 ट्रिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states that 'The IPO price valued the maker of the Claude chatbot at about $1.5 trillion, including employee stock options and restricted shares'.\nSource: https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
+            "hi": "अंश में कहा गया है कि 'आईपीओ मूल्य में क्लाउड चैटबॉट के निर्माता का मूल्य लगभग 1.5 ट्रिलियन डॉलर था, जिसमें कर्मचारी स्टॉक विकल्प और प्रतिबंधित शेयर शामिल थे।'\nस्रोत: https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-16"
+        },
+        {
+          "prompt": {
+            "en": "At what share price did Anthropic's valuation reach approximately $1.8 trillion?",
+            "hi": "किस शेयर मूल्य पर एंथ्रोपिक का मूल्यांकन लगभग $1.8 ट्रिलियन तक पहुंच गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$81.3 per share",
+                "hi": "$81.3 प्रति शेयर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$83 per share",
+                "hi": "$83 प्रति शेयर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$103 per share",
+                "hi": "$103 प्रति शेयर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$98 per share",
+                "hi": "$98 प्रति शेयर"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The text indicates, 'At around $98 a share, the company was worth about $1.8 trillion'.\nSource: https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
+            "hi": "पाठ इंगित करता है, 'लगभग $98 प्रति शेयर पर, कंपनी का मूल्य लगभग $1.8 ट्रिलियन था'।\nस्रोत: https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-17"
+        },
+        {
+          "prompt": {
+            "en": "At what price did Anthropic, the maker of Claude, initially price its shares for the IPO?",
+            "hi": "क्लाउड के निर्माता एंथ्रोपिक ने शुरू में आईपीओ के लिए अपने शेयरों की कीमत किस कीमत पर रखी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$81 apiece",
+                "hi": "प्रत्येक $81"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$98 apiece",
+                "hi": "प्रत्येक $98"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$83 apiece",
+                "hi": "प्रत्येक $83"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$103 apiece",
+                "hi": "प्रत्येक $103"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'The Claude maker priced its shares at $83 apiece'.\nSource: https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+            "hi": "अंश में कहा गया है, 'क्लाउड निर्माता ने अपने शेयरों की कीमत 83 डॉलर प्रति शेयर रखी है।'\nस्रोत: https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-18"
+        },
+        {
+          "prompt": {
+            "en": "Under which ticker symbol is Anthropic scheduled to begin trading on Nasdaq?",
+            "hi": "एंथ्रोपिक किस टिकर प्रतीक के तहत नैस्डैक पर व्यापार शुरू करने वाला है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "AICL",
+                "hi": "एआईसीएल"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "CLDE",
+                "hi": "सीएलडीई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "ANT",
+                "hi": "चींटी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "AIPH",
+                "hi": "एआईपीएच"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text specifies that trading will begin 'under the ticker ANT'.\nSource: https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+            "hi": "पाठ निर्दिष्ट करता है कि व्यापार 'टिकर एएनटी के तहत' शुरू होगा।\nस्रोत: https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-19"
+        },
+        {
+          "prompt": {
+            "en": "When was Anthropic's trading scheduled to begin on Nasdaq?",
+            "hi": "नैस्डैक पर एन्थ्रोपिक का व्यापार कब शुरू होने वाला था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "November 18",
+                "hi": "18 नवंबर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "November 19",
+                "hi": "19 नवंबर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "November 20",
+                "hi": "20 नवंबर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "November 21",
+                "hi": "21 नवंबर"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'trading scheduled to begin on Nasdaq... on November 19'.\nSource: https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+            "hi": "अंश में कहा गया है, 'नैस्डेक पर ट्रेडिंग 19 नवंबर को शुरू होने वाली है।'\nस्रोत: https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-20"
+        },
+        {
+          "prompt": {
+            "en": "What have SEBI and PFRDA called for to fund the 'Viksit Bharat 2047' initiative?",
+            "hi": "सेबी और पीएफआरडीए ने 'विकसित भारत 2047' पहल को वित्त पोषित करने के लिए क्या कहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased foreign direct investment",
+                "hi": "प्रत्यक्ष विदेशी निवेश में वृद्धि"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Deeper capital markets",
+                "hi": "गहरा पूंजी बाज़ार"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Greater government borrowing from international institutions",
+                "hi": "अंतरराष्ट्रीय संस्थाओं से अधिक सरकारी उधारी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Higher taxation on corporate profits",
+                "hi": "कॉर्पोरेट मुनाफ़े पर अधिक कराधान"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title indicates, 'SEBI, PFRDA call for deeper capital markets to fund Viksit Bharat 2047'.\nSource: https://www.thehindu.com/business/deep-capital-markets-long-term-financing-key-to-funding-indias-growth-says-sebis-murty/article71721459.ece",
+            "hi": "शीर्षक इंगित करता है, 'सेबी, पीएफआरडीए विकसित भारत 2047 को वित्त पोषित करने के लिए गहन पूंजी बाजार का आह्वान करता है।'\nस्रोत: https://www.thehindu.com/business/deep-capital-markets-long-term-financing-key-to-funding-indias-growth-says-sebis-murty/article71721459.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/deep-capital-markets-long-term-financing-key-to-funding-indias-growth-says-sebis-murty/article71721459.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-21"
+        },
+        {
+          "prompt": {
+            "en": "What factors have contributed to the resilience of Indian markets amidst volatility caused by foreign portfolio investor outflows?",
+            "hi": "विदेशी पोर्टफोलियो निवेशकों के बहिर्प्रवाह के कारण उत्पन्न अस्थिरता के बीच भारतीय बाजारों के लचीलेपन में किन कारकों ने योगदान दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Sustained participation by retail investors and domestic institutional investors (DIIs)",
+                "hi": "खुदरा निवेशकों और घरेलू संस्थागत निवेशकों (डीआईआई) की निरंतर भागीदारी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased government subsidies and tax holidays",
+                "hi": "सरकारी सब्सिडी और कर अवकाश में वृद्धि"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Strict capital controls imposed by the central bank",
+                "hi": "केंद्रीय बैंक द्वारा लगाए गए सख्त पूंजी नियंत्रण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Significant inflows from foreign institutional investors",
+                "hi": "विदेशी संस्थागत निवेशकों से महत्वपूर्ण निवेश"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The text states, 'Sustained participation by retail investors and domestic institutional investors (DIIs) had helped Indian markets remain resilient'.\nSource: https://www.thehindu.com/business/deep-capital-markets-long-term-financing-key-to-funding-indias-growth-says-sebis-murty/article71721459.ece",
+            "hi": "पाठ में कहा गया है, 'खुदरा निवेशकों और घरेलू संस्थागत निवेशकों (डीआईआई) की निरंतर भागीदारी ने भारतीय बाजारों को लचीला बने रहने में मदद की है।'\nस्रोत: https://www.thehindu.com/business/deep-capital-markets-long-term-financing-key-to-funding-indias-growth-says-sebis-murty/article71721459.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/deep-capital-markets-long-term-financing-key-to-funding-indias-growth-says-sebis-murty/article71721459.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-22"
+        },
+        {
+          "prompt": {
+            "en": "How much capital did Shree Anandhaas raise in its recent round of funding?",
+            "hi": "श्री आनंदहास ने अपने हालिया फंडिंग दौर में कितनी पूंजी जुटाई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹50 crore",
+                "hi": "₹50 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹80 crore",
+                "hi": "₹80 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹110 crore",
+                "hi": "₹110 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹150 crore",
+                "hi": "₹150 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'Shree Anandhaas raises ₹110 crore in a fresh round of funding'.\nSource: https://www.thehindu.com/business/Industry/shree-anandhaas-raises-110-crore-in-a-fresh-round-of-funding/article71721044.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'श्री आनंदहास ने फंडिंग के नए दौर में ₹110 करोड़ जुटाए।'\nस्रोत: https://www.thehindu.com/business/Industry/shree-anandhaas-raises-110-crore-in-a-fresh-round-of-funding/article71721044.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/shree-anandhaas-raises-110-crore-in-a-fresh-round-of-funding/article71721044.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-23"
+        },
+        {
+          "prompt": {
+            "en": "What is one of the primary uses for the fresh capital raised by Shree Anandhaas?",
+            "hi": "श्री आनंददास द्वारा जुटाई गई नई पूंजी का प्राथमिक उपयोग क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To acquire a competitor company",
+                "hi": "किसी प्रतिस्पर्धी कंपनी का अधिग्रहण करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To diversify into unrelated business sectors",
+                "hi": "असंबंधित व्यावसायिक क्षेत्रों में विविधता लाना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To expand its network of outlets",
+                "hi": "अपने आउटलेट्स के नेटवर्क का विस्तार करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To pay off existing long-term debts",
+                "hi": "मौजूदा दीर्घकालिक ऋणों का भुगतान करने के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text specifies that the capital will be used 'to expand its network of outlets'.\nSource: https://www.thehindu.com/business/Industry/shree-anandhaas-raises-110-crore-in-a-fresh-round-of-funding/article71721044.ece",
+            "hi": "पाठ निर्दिष्ट करता है कि पूंजी का उपयोग 'अपने आउटलेट के नेटवर्क का विस्तार करने के लिए' किया जाएगा।\nस्रोत: https://www.thehindu.com/business/Industry/shree-anandhaas-raises-110-crore-in-a-fresh-round-of-funding/article71721044.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/shree-anandhaas-raises-110-crore-in-a-fresh-round-of-funding/article71721044.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-24"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary demand of petrol pump dealers mentioned in the news?",
+            "hi": "समाचार में उल्लिखित पेट्रोल पंप डीलरों की प्राथमिक मांग क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Reduction in fuel prices",
+                "hi": "ईंधन की कीमतों में कमी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increase in non-fuel revenue streams",
+                "hi": "गैर-ईंधन राजस्व धाराओं में वृद्धि"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Government subsidies for infrastructure",
+                "hi": "बुनियादी ढांचे के लिए सरकारी सब्सिडी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Margin hike",
+                "hi": "मार्जिन में बढ़ोतरी"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'Petrol pump dealers seek margin hike'.\nSource: https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'पेट्रोल पंप डीलर मार्जिन में बढ़ोतरी चाहते हैं।'\nस्रोत: https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-25"
+        },
+        {
+          "prompt": {
+            "en": "How did Oil Minister Hardeep Puri characterize LPG distributors and petrol pump operators?",
+            "hi": "तेल मंत्री हरदीप पुरी ने एलपीजी वितरकों और पेट्रोल पंप संचालकों का क्या हाल किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As an important part of India’s response to global turmoil",
+                "hi": "वैश्विक उथल-पुथल पर भारत की प्रतिक्रिया के एक महत्वपूर्ण हिस्से के रूप में"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "As a burden on the national exchequer",
+                "hi": "राष्ट्रीय खजाने पर बोझ के रूप में"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As entities requiring strict government regulation",
+                "hi": "सख्त सरकारी विनियमन की आवश्यकता वाली संस्थाओं के रूप में"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As contributors to inflationary pressures",
+                "hi": "मुद्रास्फीति के दबावों में योगदानकर्ताओं के रूप में"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Oil Minister Hardeep Puri mentioned that they 'were an important part of India’s response to global turmoil from the last four years'.\nSource: https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
+            "hi": "तेल मंत्री हरदीप पुरी ने उल्लेख किया कि वे 'पिछले चार वर्षों से वैश्विक उथल-पुथल पर भारत की प्रतिक्रिया का एक महत्वपूर्ण हिस्सा थे।'\nस्रोत: https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-26"
+        },
+        {
+          "prompt": {
+            "en": "What were some of the key areas for which PM Modi criticized industry leaders?",
+            "hi": "कुछ प्रमुख क्षेत्र क्या थे जिनके लिए पीएम मोदी ने उद्योग जगत के नेताओं की आलोचना की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Static wages, employment, and manufacturing standards",
+                "hi": "स्थिर मजदूरी, रोजगार और विनिर्माण मानक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lack of innovation and digital adoption",
+                "hi": "नवाचार और डिजिटल अपनाने का अभाव"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Excessive focus on exports over domestic consumption",
+                "hi": "घरेलू खपत से अधिक निर्यात पर अत्यधिक ध्यान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Insufficient investment in corporate social responsibility",
+                "hi": "कॉर्पोरेट सामाजिक उत्तरदायित्व में अपर्याप्त निवेश"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states, 'PM Modi pulls up industry leaders over static wages, employment, manufacturing standards'.\nSource: https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
+            "hi": "शीर्षक में कहा गया है, 'पीएम मोदी ने स्थिर वेतन, रोजगार, विनिर्माण मानकों को लेकर उद्योग जगत के नेताओं की खिंचाई की।'\nस्रोत: https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-27"
+        },
+        {
+          "prompt": {
+            "en": "What specific criticism did PM Modi level against India Inc regarding tax benefits?",
+            "hi": "कर लाभ के संबंध में पीएम मोदी ने इंडिया इंक के खिलाफ क्या विशेष आलोचना की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "For demanding more tax benefits from the government",
+                "hi": "सरकार से अधिक कर लाभ की मांग के लिए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "For not passing on tax benefits to people",
+                "hi": "लोगों को कर लाभ नहीं देने के लिए"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "For misusing tax benefits for personal gain",
+                "hi": "व्यक्तिगत लाभ के लिए कर लाभ का दुरुपयोग करने के लिए"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "For failing to utilize tax benefits for expansion",
+                "hi": "विस्तार के लिए कर लाभ का उपयोग करने में विफल रहने के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt mentions, 'Modi slams India Inc for not passing on tax benefits to people'.\nSource: https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
+            "hi": "अंश में उल्लेख है, 'मोदी ने लोगों को कर लाभ नहीं देने के लिए इंडिया इंक की आलोचना की।'\nस्रोत: https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-28"
+        },
+        {
+          "prompt": {
+            "en": "In which sectors are Indian AI start-ups primarily focusing on solving 'uniquely Indian challenges'?",
+            "hi": "भारतीय एआई स्टार्ट-अप मुख्य रूप से किन क्षेत्रों में 'विशिष्ट भारतीय चुनौतियों' को हल करने पर ध्यान केंद्रित कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Space exploration and deep-sea mining",
+                "hi": "अंतरिक्ष अन्वेषण और गहरे समुद्र में खनन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Luxury goods and international tourism",
+                "hi": "विलासिता के सामान और अंतर्राष्ट्रीय पर्यटन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Legal-tech and healthcare",
+                "hi": "कानूनी-तकनीक और स्वास्थ्य देखभाल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "High-frequency trading and quantum computing",
+                "hi": "उच्च-आवृत्ति व्यापार और क्वांटम कंप्यूटिंग"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text states, 'From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+            "hi": "पाठ में कहा गया है, 'कानूनी-तकनीक से लेकर स्वास्थ्य सेवा तक, दर्जनों भारतीय एआई स्टार्ट-अप विशिष्ट भारतीय चुनौतियों का समाधान कर रहे हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-29"
+        },
+        {
+          "prompt": {
+            "en": "What is the anticipated market position for Anthropic following its IPO, among US companies?",
+            "hi": "आईपीओ के बाद अमेरिकी कंपनियों के बीच एंथ्रोपिक की अनुमानित बाजार स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Among the top 50 most valuable US companies",
+                "hi": "शीर्ष 50 सबसे मूल्यवान अमेरिकी कंपनियों में से एक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Among the top 20 most valuable US companies",
+                "hi": "शीर्ष 20 सबसे मूल्यवान अमेरिकी कंपनियों में से एक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Among the top 10 most valuable US companies",
+                "hi": "शीर्ष 10 सबसे मूल्यवान अमेरिकी कंपनियों में से एक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Among the top 5 most valuable US companies",
+                "hi": "शीर्ष 5 सबसे मूल्यवान अमेरिकी कंपनियों में से एक"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The IPO 'is expected to put it in the top 10 most valuable US companies'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+            "hi": "उम्मीद है कि आईपीओ इसे शीर्ष 10 सबसे मूल्यवान अमेरिकी कंपनियों में शामिल कर देगा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-30"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-20T06:30:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-20.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is identified as India's next major challenge in the pharmaceutical sector, building on its success in making drugs affordable?",
+            "hi": "दवाओं को किफायती बनाने में सफलता के आधार पर फार्मास्युटिकल क्षेत्र में भारत की अगली बड़ी चुनौती क्या मानी जाती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To become a global leader in vaccine production",
+                "hi": "वैक्सीन उत्पादन में वैश्विक नेता बनना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To develop new drugs for common ailments",
+                "hi": "सामान्य बीमारियों के लिए नई दवाएं विकसित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To make rare-disease drugs accessible",
+                "hi": "दुर्लभ बीमारियों की दवाओं को सुलभ बनाना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To reduce the cost of generic medicines further",
+                "hi": "जेनेरिक दवाओं की लागत को और कम करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The text states, 'the next challenge is to show the world how to make rare-disease drugs accessible'.\nSource: https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+            "hi": "पाठ में कहा गया है, 'अगली चुनौती दुनिया को यह दिखाना है कि दुर्लभ बीमारियों की दवाओं को कैसे सुलभ बनाया जाए।'\nस्रोत: https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-31"
+        },
+        {
+          "prompt": {
+            "en": "What combination of factors could enable India to build a globally competitive rare-disease pharmaceutical sector?",
+            "hi": "किन कारकों का संयोजन भारत को विश्व स्तर पर प्रतिस्पर्धी दुर्लभ-रोग फार्मास्युटिकल क्षेत्र बनाने में सक्षम बना सकता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Streamlined regulatory pathway, appropriate financial incentives, and government procurement",
+                "hi": "सुव्यवस्थित नियामक मार्ग, उचित वित्तीय प्रोत्साहन और सरकारी खरीद"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased foreign investment, reduced import duties, and private research funding",
+                "hi": "विदेशी निवेश में वृद्धि, आयात शुल्क में कमी और निजी अनुसंधान निधि"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Focus on traditional medicine, international collaborations, and public awareness campaigns",
+                "hi": "पारंपरिक चिकित्सा, अंतर्राष्ट्रीय सहयोग और जन जागरूकता अभियानों पर ध्यान दें"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Export-oriented policies, intellectual property waivers, and academic partnerships",
+                "hi": "निर्यात-उन्मुख नीतियां, बौद्धिक संपदा छूट, और शैक्षणिक भागीदारी"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt lists 'a streamlined regulatory pathway, appropriate financial incentives, and government procurement' as key factors.\nSource: https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+            "hi": "अंश में प्रमुख कारकों के रूप में 'एक सुव्यवस्थित नियामक मार्ग, उचित वित्तीय प्रोत्साहन और सरकारी खरीद' को सूचीबद्ध किया गया है।\nस्रोत: https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-32"
+        },
+        {
+          "prompt": {
+            "en": "What is the current concern regarding the social fabric of Asian elephants?",
+            "hi": "एशियाई हाथियों के सामाजिक ताने-बाने को लेकर वर्तमान चिंता क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is fraying to a ‘tipping point’.",
+                "hi": "यह एक 'टिपिंग प्वाइंट' तक भयावह है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is becoming more complex and diverse.",
+                "hi": "यह अधिक जटिल और विविध होता जा रहा है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is strengthening due to conservation efforts.",
+                "hi": "संरक्षण प्रयासों से यह मजबूत हो रहा है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is adapting well to human encroachment.",
+                "hi": "यह मानव अतिक्रमण को अच्छी तरह से अपना रहा है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title states, 'Social fabric of Asian elephants fraying to a ‘tipping point’'.\nSource: https://www.thehindu.com/sci-tech/science/science-newsletter-social-fabric-of-asian-elephants-fraying-to-a-tipping-point/article71710255.ece",
+            "hi": "शीर्षक में कहा गया है, 'एशियाई हाथियों का सामाजिक ताना-बाना 'टिपिंग प्वाइंट' तक टूट रहा है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/science-newsletter-social-fabric-of-asian-elephants-fraying-to-a-tipping-point/article71710255.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/science-newsletter-social-fabric-of-asian-elephants-fraying-to-a-tipping-point/article71710255.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-33"
+        },
+        {
+          "prompt": {
+            "en": "In which specific area has Panjab University improved its global standing?",
+            "hi": "पंजाब यूनिवर्सिटी ने किस विशिष्ट क्षेत्र में अपनी वैश्विक स्थिति में सुधार किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Interdisciplinary scientific research",
+                "hi": "अंतःविषय वैज्ञानिक अनुसंधान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Business management and entrepreneurship",
+                "hi": "व्यवसाय प्रबंधन और उद्यमिता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sports and cultural exchange programs",
+                "hi": "खेल एवं सांस्कृतिक आदान-प्रदान कार्यक्रम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Humanities and social sciences",
+                "hi": "मानविकी और सामाजिक विज्ञान"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly mentions, 'Panjab University improves its global standing in interdisciplinary scientific research'.\nSource: https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से उल्लेख है, 'पंजाब विश्वविद्यालय अंतःविषय वैज्ञानिक अनुसंधान में अपनी वैश्विक स्थिति में सुधार करता है।'\nस्रोत: https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-34"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary focus of the recently rejigged UN group?",
+            "hi": "हाल ही में पुनर्गठित संयुक्त राष्ट्र समूह का प्राथमिक फोकस क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "International trade regulations",
+                "hi": "अंतर्राष्ट्रीय व्यापार नियम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Global financial stability",
+                "hi": "वैश्विक वित्तीय स्थिरता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sustainable Development Goals for science, technology",
+                "hi": "विज्ञान, प्रौद्योगिकी के लिए सतत विकास लक्ष्य"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Peacekeeping operations",
+                "hi": "शांति स्थापना अभियान"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'UN Sustainable Development Goals group for science, technology rejigged'.\nSource: https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'विज्ञान, प्रौद्योगिकी के लिए संयुक्त राष्ट्र सतत विकास लक्ष्य समूह में फेरबदल'।\nस्रोत: https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-35"
+        },
+        {
+          "prompt": {
+            "en": "Riddhipratim Basu was recently awarded the 2026 Infosys Prize in which category?",
+            "hi": "रिद्धिप्रतिम बसु को हाल ही में किस श्रेणी में 2026 इंफोसिस पुरस्कार से सम्मानित किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Physical Sciences",
+                "hi": "भौतिक विज्ञान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Engineering and Computer Science",
+                "hi": "इंजीनियरिंग और कंप्यूटर विज्ञान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Humanities",
+                "hi": "मानविकी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mathematical Sciences",
+                "hi": "गणितीय विज्ञान"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Riddhipratim Basu has been awarded the 2026 Infosys Prize in mathematical sciences'.\nSource: https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+            "hi": "अंश में कहा गया है, 'रिद्धिप्रतिम बसु को गणितीय विज्ञान में 2026 इंफोसिस पुरस्कार से सम्मानित किया गया है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-36"
+        },
+        {
+          "prompt": {
+            "en": "What is the core focus of Riddhipratim Basu's research, for which he received the Infosys Prize?",
+            "hi": "रिद्धिप्रतिम बसु के शोध का मुख्य फोकस क्या है, जिसके लिए उन्हें इंफोसिस पुरस्कार मिला?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Developing new algorithms for artificial intelligence",
+                "hi": "कृत्रिम बुद्धिमत्ता के लिए नए एल्गोरिदम विकसित करना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Understanding how random events produce predictable patterns in physical systems using mathematics",
+                "hi": "यह समझना कि कैसे यादृच्छिक घटनाएँ गणित का उपयोग करके भौतिक प्रणालियों में पूर्वानुमानित पैटर्न उत्पन्न करती हैं"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Exploring the philosophical implications of mathematical theories",
+                "hi": "गणितीय सिद्धांतों के दार्शनिक निहितार्थों की खोज"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Applying statistical methods to economic forecasting",
+                "hi": "आर्थिक पूर्वानुमान के लिए सांख्यिकीय तरीकों को लागू करना"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "His work involves using 'mathematics to understand how random events produce predictable patterns in physical systems'.\nSource: https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+            "hi": "उनके काम में 'गणित का उपयोग करके यह समझना शामिल है कि कैसे यादृच्छिक घटनाएं भौतिक प्रणालियों में पूर्वानुमानित पैटर्न उत्पन्न करती हैं।'\nस्रोत: https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-37"
+        },
+        {
+          "prompt": {
+            "en": "What is Europe's strategic ambition in the technology sector, as mentioned in the news?",
+            "hi": "जैसा कि समाचार में बताया गया है, प्रौद्योगिकी क्षेत्र में यूरोप की रणनीतिक महत्वाकांक्षा क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To dominate the software development market",
+                "hi": "सॉफ्टवेयर विकास बाजार पर हावी होना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To become a leader in quantum computing",
+                "hi": "क्वांटम कंप्यूटिंग में अग्रणी बनना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To lead in renewable energy technologies",
+                "hi": "नवीकरणीय ऊर्जा प्रौद्योगिकियों में नेतृत्व करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To catch the next computer chip wave",
+                "hi": "अगली कंप्यूटर चिप तरंग को पकड़ने के लिए"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states, 'Europe plans to catch the next computer chip wave'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'यूरोप अगली कंप्यूटर चिप तरंग को पकड़ने की योजना बना रहा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-38"
+        },
+        {
+          "prompt": {
+            "en": "What novel technology do the new generation of computer chips, in which Europe aims to be a leader, utilize for data processing?",
+            "hi": "कंप्यूटर चिप्स की नई पीढ़ी, जिसमें यूरोप अग्रणी बनने का लक्ष्य रखता है, डेटा प्रोसेसिंग के लिए किस नवीन तकनीक का उपयोग करती है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Quantum entanglement",
+                "hi": "क्वांटम उलझाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Superconducting circuits",
+                "hi": "अतिचालक सर्किट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Light",
+                "hi": "रोशनी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Molecular self-assembly",
+                "hi": "आणविक स्व-संयोजन"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The new generation of computer chips 'use light to process data'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+            "hi": "कंप्यूटर चिप्स की नई पीढ़ी 'डेटा को संसाधित करने के लिए प्रकाश का उपयोग करती है'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-39"
+        },
+        {
+          "prompt": {
+            "en": "What was the approximate distance of the epic migration completed by the wading bird named Phil?",
+            "hi": "फिल नामक पक्षी द्वारा पूरी की गई महाकाव्य प्रवास की अनुमानित दूरी कितनी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "3,000 miles",
+                "hi": "3,000 मील"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "4,500 miles",
+                "hi": "4,500 मील"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "6,800 miles",
+                "hi": "6,800 मील"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "8,000 miles",
+                "hi": "8,000 मील"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The bird completed 'a 6,800-mile round trip to Siberia and back'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+            "hi": "पक्षी ने 'साइबेरिया और वापसी की 6,800 मील की यात्रा' पूरी की।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-40"
+        },
+        {
+          "prompt": {
+            "en": "What specific environmental protection failure was identified in an investigation concerning the Stormont department?",
+            "hi": "स्टॉर्मॉन्ट विभाग से संबंधित एक जांच में किस विशिष्ट पर्यावरण संरक्षण विफलता की पहचान की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Failure to manage marine ecosystems",
+                "hi": "समुद्री पारिस्थितिकी तंत्र का प्रबंधन करने में विफलता"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Failure to protect wild birds",
+                "hi": "जंगली पक्षियों की सुरक्षा में विफलता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Failure to regulate industrial pollution",
+                "hi": "औद्योगिक प्रदूषण को नियंत्रित करने में विफलता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Failure to conserve native plant species",
+                "hi": "देशी पौधों की प्रजातियों के संरक्षण में विफलता"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title states, 'Stormont department failing to protect wild birds'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'स्ट्रॉमोंट विभाग जंगली पक्षियों की रक्षा करने में विफल रहा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-41"
+        },
+        {
+          "prompt": {
+            "en": "Which specific environmental law requirement did the Stormont department (Daera) fail to comply with, according to the Office for Environmental Protection?",
+            "hi": "पर्यावरण संरक्षण कार्यालय के अनुसार, स्टॉर्मॉन्ट विभाग (डेरा) किस विशिष्ट पर्यावरण कानून की आवश्यकता का पालन करने में विफल रहा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Regulations on waste disposal",
+                "hi": "अपशिष्ट निपटान पर विनियम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Guidelines for sustainable forestry",
+                "hi": "टिकाऊ वानिकी के लिए दिशानिर्देश"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Protocols for climate change mitigation",
+                "hi": "जलवायु परिवर्तन शमन के लिए प्रोटोकॉल"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Requirements to classify and update Special Protection Areas",
+                "hi": "विशेष सुरक्षा क्षेत्रों को वर्गीकृत और अद्यतन करने की आवश्यकताएँ"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Daera 'had not complied with environmental law requiring it to classify and update Special Protection Areas'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+            "hi": "डेरा ने 'विशेष सुरक्षा क्षेत्रों को वर्गीकृत करने और अद्यतन करने के लिए आवश्यक पर्यावरण कानून का अनुपालन नहीं किया था।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-42"
+        },
+        {
+          "prompt": {
+            "en": "What was the cause of death for Steve Williams, 14 years after an incident at a toxic waste dump fire?",
+            "hi": "जहरीले कचरे के ढेर में लगी आग की घटना के 14 साल बाद स्टीव विलियम्स की मौत का कारण क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Heart attack",
+                "hi": "दिल का दौरा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Kidney failure",
+                "hi": "गुर्दे की विफलता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Lung cancer",
+                "hi": "फेफड़ों का कैंसर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Liver disease",
+                "hi": "जिगर की बीमारी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Steve Williams 'died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+            "hi": "स्टीव विलियम्स की 'जहरीले अपशिष्ट डंप की आग में लैगून में गिरने के 14 साल बाद फेफड़ों के कैंसर से मृत्यु हो गई।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-43"
+        },
+        {
+          "prompt": {
+            "en": "Despite a dry summer with few sewage spills, what issue plagued one bathing site in Britain?",
+            "hi": "शुष्क गर्मी और सीवेज के कुछ रिसाव के बावजूद, ब्रिटेन में एक स्नान स्थल को किस समस्या ने परेशान किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "High levels of plastic pollution",
+                "hi": "प्लास्टिक प्रदूषण का उच्च स्तर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Failure in water quality tests",
+                "hi": "जल गुणवत्ता परीक्षण में विफलता"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Excessive algal blooms",
+                "hi": "अत्यधिक शैवालीय प्रस्फुटन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Overcrowding by tourists",
+                "hi": "पर्यटकों की अत्यधिक भीड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The bathing site 'failed so many water quality tests'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+            "hi": "स्नान स्थल 'कई जल गुणवत्ता परीक्षणों में विफल' रहा।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-44"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-20T13:00:00+05:30"
+    },
+    {
+      "title": "International Relations & Geopolitics",
+      "source_filename": "daily-2026-11-20.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Besides meeting PM Modi, what other significant event was part of the royal couple's India visit?",
+            "hi": "पीएम मोदी से मुलाकात के अलावा, शाही जोड़े की भारत यात्रा का अन्य कौन सा महत्वपूर्ण कार्यक्रम था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A state dinner hosted by the President",
+                "hi": "राष्ट्रपति द्वारा आयोजित राजकीय रात्रिभोज"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A visit to the Indian Parliament",
+                "hi": "भारतीय संसद का भ्रमण"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Their appearance at the annual Earthshot Prize",
+                "hi": "वार्षिक अर्थशॉट पुरस्कार में उनकी उपस्थिति"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A tour of the Taj Mahal",
+                "hi": "ताज महल का भ्रमण"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The visit 'also included their appearance at the annual Earthshot Prize'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+            "hi": "इस यात्रा में 'वार्षिक अर्थशॉट पुरस्कार में उनकी उपस्थिति भी शामिल थी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-45"
+        },
+        {
+          "prompt": {
+            "en": "What was the duration of the Prince and Princess of Wales' trip to India?",
+            "hi": "वेल्स के राजकुमार और राजकुमारी की भारत यात्रा की अवधि क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Two days",
+                "hi": "दो दिन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Five days",
+                "hi": "पांच दिन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Four days",
+                "hi": "चार दिन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Three days",
+                "hi": "तीन दिन"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states they 'ended their three-day trip to India'.\nSource: BBC News · https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है कि उन्होंने 'भारत की अपनी तीन दिवसीय यात्रा समाप्त कर दी।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-46"
+        },
+        {
+          "prompt": {
+            "en": "What was the recent ruling by the top UN court regarding Myanmar?",
+            "hi": "म्यांमार के संबंध में संयुक्त राष्ट्र की शीर्ष अदालत का हालिया फैसला क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Myanmar was found guilty of war crimes against its ethnic minorities.",
+                "hi": "म्यांमार को अपने जातीय अल्पसंख्यकों के खिलाफ युद्ध अपराधों का दोषी पाया गया था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Myanmar was cleared of all charges related to human rights violations.",
+                "hi": "म्यांमार को मानवाधिकार उल्लंघन से संबंधित सभी आरोपों से मुक्त कर दिया गया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Myanmar was ordered to pay reparations to neighboring countries.",
+                "hi": "म्यांमार को पड़ोसी देशों को मुआवज़ा देने का आदेश दिया गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Myanmar committed genocide against the Rohingya minority.",
+                "hi": "म्यांमार ने रोहिंग्या अल्पसंख्यकों का नरसंहार किया।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'Myanmar committed genocide against Rohingya minority, top UN court rules'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'म्यांमार ने रोहिंग्या अल्पसंख्यकों के खिलाफ नरसंहार किया, शीर्ष संयुक्त राष्ट्र अदालत के नियम।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-47"
+        },
+        {
+          "prompt": {
+            "en": "The International Court of Justice verdict against Myanmar is related to a military crackdown that occurred in which year?",
+            "hi": "म्यांमार के खिलाफ अंतर्राष्ट्रीय न्यायालय का फैसला किस वर्ष हुई सैन्य कार्रवाई से संबंधित है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2015",
+                "hi": "2015"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2017",
+                "hi": "2017"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2016",
+                "hi": "2016"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2018",
+                "hi": "2018"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The verdict 'concerns a 2017 military crackdown'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+            "hi": "फैसला '2017 की सैन्य कार्रवाई से संबंधित है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-48"
+        },
+        {
+          "prompt": {
+            "en": "What is the significance of the recent meeting between Trump, Putin, and Xi?",
+            "hi": "ट्रम्प, पुतिन और शी के बीच हालिया मुलाकात के क्या हैं मायने?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was their first meeting ever.",
+                "hi": "यह उनकी अब तक की पहली मुलाकात थी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It marked a new era of bilateral cooperation.",
+                "hi": "इसने द्विपक्षीय सहयोग के एक नए युग की शुरुआत की।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It was their first trilateral discussion.",
+                "hi": "यह उनकी पहली त्रिपक्षीय चर्चा थी।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was focused solely on economic agreements.",
+                "hi": "यह पूरी तरह से आर्थिक समझौतों पर केंद्रित था।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt highlights that 'this is their first trilateral discussion'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश इस बात पर प्रकाश डालता है कि 'यह उनकी पहली त्रिपक्षीय चर्चा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-49"
+        },
+        {
+          "prompt": {
+            "en": "What is the stated position of European allies of Ukraine regarding negotiations with Russia?",
+            "hi": "रूस के साथ बातचीत के संबंध में यूक्रेन के यूरोपीय सहयोगियों की घोषित स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They have a 'united' negotiating position.",
+                "hi": "उनके पास 'एकजुट' बातचीत की स्थिति है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They are divided on the approach to negotiations.",
+                "hi": "वे बातचीत के दृष्टिकोण पर विभाजित हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They refuse to engage in any negotiations.",
+                "hi": "वे किसी भी बातचीत में शामिल होने से इनकार करते हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are waiting for US leadership before forming a position.",
+                "hi": "वे कोई पद बनाने से पहले अमेरिकी नेतृत्व का इंतजार कर रहे हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "European allies 'say they have a \"united\" negotiating position'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+            "hi": "यूरोपीय सहयोगियों का कहना है कि उनके पास \"एकजुट\" बातचीत की स्थिति है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-50"
+        },
+        {
+          "prompt": {
+            "en": "Where did European allies of Ukraine hold a summit to discuss their negotiating position?",
+            "hi": "यूक्रेन के यूरोपीय सहयोगियों ने अपनी बातचीत की स्थिति पर चर्चा करने के लिए कहाँ एक शिखर सम्मेलन आयोजित किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Paris",
+                "hi": "पेरिस"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Berlin",
+                "hi": "बर्लिन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "London",
+                "hi": "लंदन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Brussels",
+                "hi": "ब्रुसेल्स"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The summit was held 'in Berlin'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+            "hi": "शिखर सम्मेलन 'बर्लिन में' आयोजित किया गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-51"
+        },
+        {
+          "prompt": {
+            "en": "What kind of response has Putin vowed following Ukraine's strikes on the Crimean Bridge?",
+            "hi": "क्रीमिया ब्रिज पर यूक्रेन के हमले के बाद पुतिन ने किस तरह की प्रतिक्रिया की कसम खाई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A diplomatic response through international bodies",
+                "hi": "अंतर्राष्ट्रीय निकायों के माध्यम से एक राजनयिक प्रतिक्रिया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A response focused on economic sanctions",
+                "hi": "एक प्रतिक्रिया आर्थिक प्रतिबंधों पर केंद्रित थी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A proportionate response targeting military infrastructure",
+                "hi": "सैन्य बुनियादी ढांचे को लक्षित करने वाली एक आनुपातिक प्रतिक्रिया"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A 'far more painful' response",
+                "hi": "एक 'कहीं अधिक दर्दनाक' प्रतिक्रिया"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title states, 'Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'पुतिन ने क्रीमियन ब्रिज पर यूक्रेन के हमलों पर 'कहीं अधिक दर्दनाक' प्रतिक्रिया देने की कसम खाई है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-52"
+        },
+        {
+          "prompt": {
+            "en": "What does the Crimean Bridge symbolize in the context of the conflict?",
+            "hi": "संघर्ष के संदर्भ में क्रीमियन ब्रिज किसका प्रतीक है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "International cooperation in infrastructure projects",
+                "hi": "बुनियादी ढांचा परियोजनाओं में अंतर्राष्ट्रीय सहयोग"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Russia's economic ties with Europe",
+                "hi": "यूरोप के साथ रूस के आर्थिक संबंध"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Ukrainian sovereignty over its territories",
+                "hi": "अपने क्षेत्रों पर यूक्रेन की संप्रभुता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Russia's occupation of the Crimean Peninsula",
+                "hi": "क्रीमिया प्रायद्वीप पर रूस का कब्ज़ा"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The bridge is described as 'a symbol of Russia's occupation of the Crimean Peninsula'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+            "hi": "इस पुल को 'क्रीमिया प्रायद्वीप पर रूस के कब्जे का प्रतीक' बताया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-53"
+        },
+        {
+          "prompt": {
+            "en": "What caused the major damage to the Crimean Bridge recently?",
+            "hi": "हाल ही में क्रीमियन ब्रिज को सबसे बड़ी क्षति किस कारण से हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A natural disaster",
+                "hi": "एक प्राकृतिक आपदा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A combined attack by Ukraine",
+                "hi": "यूक्रेन द्वारा संयुक्त हमला"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An accidental structural failure",
+                "hi": "एक आकस्मिक संरचनात्मक विफलता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sabotage by internal dissidents",
+                "hi": "आंतरिक असंतुष्टों द्वारा तोड़फोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The bridge 'suffered major damaged following a combined attack by Ukraine'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+            "hi": "'यूक्रेन के संयुक्त हमले के बाद पुल को भारी क्षति पहुंची।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Geopolitics",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-20-54"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-20T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cyclone ‘Akvan’ updates: Three lakh evacuated, 423 rescue teams deployed as cyclone heads to Odisha",
+      "url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+      "published": "2026-11-20T01:43:37+05:30"
+    },
+    {
+      "title": "Trinamool party symbol row: Abhishek Banerjee says twin flower symbol will return in seven days",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-party-symbol-row-abhishek-banerjee-says-twin-flower-symbol-will-return-in-seven-days/article71721362.ece",
+      "published": "2026-11-20T01:29:48+05:30"
+    },
+    {
+      "title": "Advocates, traders protest in Vaniyambadi for additional district court",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/advocates-traders-protest-in-vaniyambadi-for-additional-district-court/article71720306.ece",
+      "published": "2026-11-20T01:07:09+05:30"
+    },
+    {
+      "title": "CBI secures deportation of murder accused wanted by Kerala Police from UAE",
+      "url": "https://www.thehindu.com/news/national/kerala/cbi-secures-deportation-of-murder-accused-wanted-by-kerala-police-from-uae/article71720445.ece",
+      "published": "2026-11-20T01:06:03+05:30"
+    },
+    {
+      "title": "Kerala High Court disposes of PILs against reconstitution of Waqf Board",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece",
+      "published": "2026-11-20T01:03:47+05:30"
+    },
+    {
+      "title": "Anthropic soars in Wall Street debut despite AI jitters",
+      "url": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece",
+      "published": "2026-11-20T00:46:06+05:30"
+    },
+    {
+      "title": "Anthropic raises $81 billion in IPO amid AI market volatility",
+      "url": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+      "published": "2026-11-20T00:08:46+05:30"
+    },
+    {
+      "title": "SEBI, PFRDA call for deeper capital markets to fund Viksit Bharat 2047",
+      "url": "https://www.thehindu.com/business/deep-capital-markets-long-term-financing-key-to-funding-indias-growth-says-sebis-murty/article71721459.ece",
+      "published": "2026-11-19T22:58:06+05:30"
+    },
+    {
+      "title": "Shree Anandhaas raises ₹110 crore in a fresh round of funding",
+      "url": "https://www.thehindu.com/business/Industry/shree-anandhaas-raises-110-crore-in-a-fresh-round-of-funding/article71721044.ece",
+      "published": "2026-11-19T22:50:05+05:30"
+    },
+    {
+      "title": "Petrol pump dealers seek margin hike; Centre explores ways to boost non-fuel revenues",
+      "url": "https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
+      "published": "2026-11-19T22:41:15+05:30"
+    },
+    {
+      "title": "PM Modi pulls up industry leaders over static wages, employment, manufacturing standards",
+      "url": "https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
+      "published": "2026-11-19T22:35:39+05:30"
+    },
+    {
+      "title": "Why rare-disease drugs could become India’s next pharma frontier",
+      "url": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+      "published": "2026-11-19T14:00:20+05:30"
+    },
+    {
+      "title": "Social fabric of Asian elephants fraying to a ‘tipping point’",
+      "url": "https://www.thehindu.com/sci-tech/science/science-newsletter-social-fabric-of-asian-elephants-fraying-to-a-tipping-point/article71710255.ece",
+      "published": "2026-11-19T09:43:43+05:30"
+    },
+    {
+      "title": "Panjab University improves its global standing in interdisciplinary scientific research",
+      "url": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+      "published": "2026-11-19T02:29:41+05:30"
+    },
+    {
+      "title": "UN Sustainable Development Goals group for science, technology rejigged",
+      "url": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
+      "published": "2026-11-18T23:15:54+05:30"
+    },
+    {
+      "title": "Keep humans at centre of math as we adapt to AI: Infosys laureate",
+      "url": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+      "published": "2026-11-18T18:24:58+05:30"
+    },
+    {
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T00:38:52+00:00"
+    },
+    {
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T20:07:08+00:00"
+    },
+    {
+      "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
+      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T09:27:44+00:00"
+    },
+    {
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:25:53+00:00"
+    },
+    {
+      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T22:32:47+00:00"
+    },
+    {
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T21:28:08+00:00"
+    },
+    {
+      "title": "Europe plans to catch the next computer chip wave",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T00:00:24+00:00"
+    },
+    {
+      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T13:35:29+00:00"
+    },
+    {
+      "title": "Stormont department failing to protect wild birds, investigation finds",
+      "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T12:13:32+00:00"
+    },
+    {
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T10:48:49+00:00"
+    },
+    {
+      "title": "What's gone wrong at Britain's worst bathing site?",
+      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T06:12:44+00:00"
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T20:07:02+00:00"
+    },
+    {
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T17:38:22+00:00"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T19:16:21+00:00"
+    },
+    {
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T13:07:35+00:00"
+    }
+  ]
+}
