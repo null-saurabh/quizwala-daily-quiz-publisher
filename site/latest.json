@@ -1,518 +1,472 @@
 {
   "schema_version": 2,
-  "date": "2026-11-21",
-  "generated_at": "2026-11-20T20:44:27.165182+00:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-21T19:47:47.107225+00:00",
   "status": "ready",
   "sets": [
     {
-      "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-11-21.json",
+      "title": "National Affairs & Governance (India)",
+      "source_filename": "daily-2026-11-22.json",
       "questions": [
         {
           "prompt": {
-            "en": "The postponement of the Special Summary Revision (SSR) of electoral rolls in West Bengal is primarily linked to which upcoming events?"
+            "en": "Which organization in Tamil Nadu has committed to supporting Micro, Small, and Medium Enterprises (MSMEs) by leveraging its professional network?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "State Assembly elections in the following year."
+                "en": "AIPC Tamil Nadu"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Pending civic elections in West Bengal, specifically for Howrah and Kolkata."
+                "en": "CII Tamil Nadu"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A national census operation scheduled for the upcoming months."
+                "en": "FICCI Tamil Nadu"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Delimitation exercise for Lok Sabha constituencies."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt states, 'The development comes ahead of pending civic elections in West Bengal. The State government is keen to hold elections to the civic bodies of Howrah and Kolkata,' directly linking the SSR postponement to these upcoming civic polls.\nSource: https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-1"
-        },
-        {
-          "prompt": {
-            "en": "What was the stated reason by the West Bengal CEO office for postponing the Special Summary Revision (SSR) of electoral rolls?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Unavoidable circumstances."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Awaiting further directives from the Election Commission of India."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Logistical challenges due to festive season."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Technical issues with the electoral roll software."
+                "en": "TANSTIA Tamil Nadu"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The title of the source explicitly states, 'West Bengal CEO office postpones SSR due to unavoidable circumstances,' indicating this as the official reason.\nSource: https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+            "en": "The headline explicitly states that 'AIPC Tamil Nadu to support MSMEs through professional network', indicating AIPC Tamil Nadu as the organization involved.\nSource: https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
             "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-2"
+          "id": "2026-11-22-1"
         },
         {
           "prompt": {
-            "en": "Which of the following is NOT part of the four-point formula proposed by the Congress party regarding delimitation?"
+            "en": "According to historian Ramachandra Guha, who represents the 'core ideological enemy' of the Sangh Parivar?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Implementing a 10-year freeze on delimitation."
+                "en": "Gandhi"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Retaining the current number of Lok Sabha seats at 543."
+                "en": "B.R. Ambedkar"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Maintaining the existing State-wise distribution of seats."
+                "en": "Sardar Vallabhbhai Patel"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Providing one-third reservation for women in Lok Sabha."
+                "en": "Jawaharlal Nehru"
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The excerpt mentions 'a 25-year freeze' as part of the proposal, not a 10-year freeze. The other options are explicitly mentioned as part of the Congress's formula.\nSource: https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+            "en": "The title directly quotes Ramachandra Guha stating, 'Gandhi is the core ideological enemy of the Sangh Parivar'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
             "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-3"
+          "id": "2026-11-22-2"
         },
         {
           "prompt": {
-            "en": "What is the proposed duration for the freeze on delimitation as per the Congress party's formula?"
+            "en": "What trend are energy generators observing regarding solar energy installations in Tamil Nadu?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "10 years"
+                "en": "A rapid increase in solar energy installations."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "15 years"
+                "en": "A stagnation in solar energy installations."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "25 years"
+                "en": "A potential slowdown in solar energy installations."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "50 years"
+                "en": "A shift towards wind energy installations."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The source explicitly states that the party proposes 'a 25-year freeze' as part of its delimitation formula.\nSource: https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+            "en": "The headline explicitly states, 'T.N. may see solar energy installations slowing down, say energy generators'.\nSource: https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
             "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-4"
+          "id": "2026-11-22-3"
         },
         {
           "prompt": {
-            "en": "Regarding women's representation, what does the Congress party's delimitation formula propose?"
+            "en": "What type of gallery dedicated to Raja Ravi Varma was recently inaugurated in Chennai?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "One-third reservation for women in Lok Sabha."
+                "en": "A gallery of sculptures and paintings."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "A 10% reservation for women in all State Assemblies."
+                "en": "A gallery of Oleographs and Chromo Lithographs."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Reservation for women only in constituencies with low female voter turnout."
+                "en": "A gallery of photographs and sketches."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "A system of rotational reservation for women in Lok Sabha seats."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt clearly states the proposal includes 'one-third reservation for women' in the context of Lok Sabha seats.\nSource: https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-5"
-        },
-        {
-          "prompt": {
-            "en": "What was a notable aspect of the triplets' delivery at a Telangana government hospital, as highlighted in the news?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It was the first-ever triplet delivery in a government hospital in Telangana."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The delivery occurred after non-ART treatment."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The babies were full-term and required no special care."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The mother was over 50 years old."
+                "en": "A gallery of modern art installations."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The title explicitly mentions, 'Woman delivers triplets after non-ART treatment at Telangana govt. hospital,' highlighting the non-ART aspect.\nSource: https://www.thehindu.com/news/cities/Hyderabad/woman-delivers-triplets-after-non-art-treatment-at-telangana-govt-hospital-premature-babies-discharged-after-nicu-care/article71725333.ece",
+            "en": "The title clearly states, 'Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai'.\nSource: https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
             "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/woman-delivers-triplets-after-non-art-treatment-at-telangana-govt-hospital-premature-babies-discharged-after-nicu-care/article71725333.ece",
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-6"
+          "id": "2026-11-22-4"
         },
         {
           "prompt": {
-            "en": "An Indian man was recently sentenced in the US for his involvement in a plot. What was the primary target of this plot?"
+            "en": "According to Tagore, which organizations are allegedly attempting to create communal tension in Tamil Nadu?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "A US-based journalist."
+                "en": "DMK, AIADMK, Congress"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "An Indian diplomat in the US."
+                "en": "CPI, CPM, VCK"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A US government official."
+                "en": "BJP, Hindu Munnani, RSS"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "A US-based Sikh separatist leader."
+                "en": "SDPI, PFI, AIMIM"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline directly attributes the statement to Tagore, saying 'BJP, Hindu Munnani, RSS trying to create communal tension in T.N., says Tagore'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/bjp-hindu-munnani-rss-trying-to-create-communal-tensionin-tn-says-tagore/article71728506.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/bjp-hindu-munnani-rss-trying-to-create-communal-tensionin-tn-says-tagore/article71728506.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-5"
+        },
+        {
+          "prompt": {
+            "en": "When is the Chennai International Book Fair 2027 scheduled to be held?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "December 1 to 3"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "January 16 to 18"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "February 10 to 12"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "March 5 to 7"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states, 'Chennai International Book Fair 2027 to be held from January 16 to 18'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-6"
+        },
+        {
+          "prompt": {
+            "en": "What significant conservation initiative is described as the 'first intercontinental transfer of wild cats into the country'?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Project Tiger"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Project Elephant"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "'Project Cheetah'"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Project Lion"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The evidence states, 'A video explainer on 'Project Cheetah', the first intercontinental transfer of wild cats into the country.', directly identifying 'Project Cheetah'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-7"
+        },
+        {
+          "prompt": {
+            "en": "An Indian national was recently sentenced in the US for involvement in a plot targeting whom?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A US Senator"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A US-based Sikh separatist leader"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A prominent Indian diplomat"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A US federal judge"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states, 'Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason cited for the increasing market share of cumin-laced fizzy sodas in India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Aggressive marketing campaigns by manufacturers."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lower pricing compared to traditional cola giants."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Health benefits associated with cumin."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Growing demand for homegrown flavours."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The title clearly states, 'Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader,' identifying the target.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+            "en": "The excerpt states, 'Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-7"
+          "id": "2026-11-22-9"
         },
         {
           "prompt": {
-            "en": "What charges did Nikhil Gupta plead guilty to in connection with the plot to assassinate a US-based Sikh separatist leader?"
+            "en": "What are the key agenda items for discussion during Nepal's Prime Minister's meeting with his Indian counterpart?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Espionage and sedition."
+                "en": "Cultural exchange programs and tourism promotion."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering."
+                "en": "Border security and defense alliances."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Illegal arms trafficking and visa fraud."
+                "en": "Trade, connectivity and regional cooperation."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Terrorism financing and illegal immigration."
+                "en": "Educational reforms and student exchange."
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The excerpt explicitly states, 'Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February,' detailing the charges.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+            "en": "The excerpt states, 'Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-8"
-        },
-        {
-          "prompt": {
-            "en": "What is the overall projection for India's religious composition, according to a new Pew study?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "India will become predominantly Muslim."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "India will remain predominantly Hindu."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "India will see a significant rise in Christian population."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "India will have an equal distribution of all major religions."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt clearly states, 'India will remain predominantly Hindu, though its Muslim population is projected to grow faster,' indicating the continued Hindu majority.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-9"
-        },
-        {
-          "prompt": {
-            "en": "In which Indian state did a truck driver recently win a significant Diwali lottery prize?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Uttar Pradesh"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Punjab"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Rajasthan"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Haryana"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source explicitly mentions, 'he won a Diwali lottery in the northern Indian state of Punjab,' identifying the state.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-10"
-        },
-        {
-          "prompt": {
-            "en": "What is notable about the Prince and Princess of Wales' recent trip to India in the context of their international tours?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It was their first international tour since 2022."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It was their longest international tour to date."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It was their first visit to an Asian country."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It marked their official retirement from international duties."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt states, 'the couple's first international tour since 2022,' highlighting its significance in their travel history.\nSource: BBC News · https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-11"
+          "id": "2026-11-22-29"
         }
       ],
       "quarantined": [],
@@ -520,739 +474,325 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-11-21T06:30:00+05:30"
+      "release_at": "2026-11-22T06:30:00+05:30"
     },
     {
       "title": "Economy, Business & Finance",
-      "source_filename": "daily-2026-11-21.json",
+      "source_filename": "daily-2026-11-22.json",
       "questions": [
         {
           "prompt": {
-            "en": "Which organization is set to lead a business delegation to Japan starting November 30?"
+            "en": "IndusInd Bank invoked 'malus and clawback provisions' against a former executive based on the findings of an inquiry report. Who conducted this inquiry?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "FICCI"
+                "en": "A sitting Supreme Court judge"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "CII"
+                "en": "An independent auditor"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "ASSOCHAM"
+                "en": "The Reserve Bank of India"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "IJCCI"
+                "en": "A former Bombay High Court judge"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The title explicitly states, 'IJCCI to lead business delegation to Japan from Nov. 30,' identifying the organization.\nSource: https://www.thehindu.com/news/national/tamil-nadu/ijcci-to-lead-business-delegation-to-japan-from-nov-30/article71725299.ece",
+            "en": "The excerpt states, 'The bank’s board acted on an inquiry report by a former Bombay High Court judge and invoked malus and clawback provisions from March 24, 2020'.\nSource: https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece",
             "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/ijcci-to-lead-business-delegation-to-japan-from-nov-30/article71725299.ece",
+          "source_label": "https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-12"
+          "id": "2026-11-22-10"
         },
         {
           "prompt": {
-            "en": "How many vendors participated in the Atomic Energy Department’s Vendor-Buyer Meet?"
+            "en": "What is the projected market size for India's building automation sector by the year 2030?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "25"
+                "en": "$5 billion"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "75"
+                "en": "$7.8 billion"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "53"
+                "en": "$20 billion"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "100"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title clearly states, '53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet,' indicating the number of participants.\nSource: https://www.thehindu.com/news/national/tamil-nadu/53-vendors-participate-in-atomic-energy-departments-vendor-buyer-meet/article71725312.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/53-vendors-participate-in-atomic-energy-departments-vendor-buyer-meet/article71725312.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-13"
-        },
-        {
-          "prompt": {
-            "en": "What was the core sector growth rate in October 2026, reaching a series-high?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "8.5%"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "9.2%"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "10.9%"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "11.5%"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The title explicitly states, 'core sector growth to series-high of 10.9% in October 2026,' providing the exact growth rate.\nSource: https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-14"
-        },
-        {
-          "prompt": {
-            "en": "Which sectors experienced contraction in October 2026, despite overall core sector growth?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Coal and electricity sectors."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Infrastructure and manufacturing."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Fuel-related sectors."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Steel and cement sectors."
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The excerpt states, 'On the other hand, fuel-related sectors contracted again,' indicating these sectors experienced a decline.\nSource: https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-15"
-        },
-        {
-          "prompt": {
-            "en": "What was a significant factor contributing to the growth seen in the coal and electricity sectors in October 2026?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A statistical effect rather than growth in actual output."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Increased actual output due to new projects."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Decreased demand leading to surplus production."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Government subsidies for these sectors."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The source clarifies, 'a large part of this was due to a statistical effect rather than growth in actual output,' for coal and electricity sectors.\nSource: https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-16"
-        },
-        {
-          "prompt": {
-            "en": "What was the amount of penalty imposed by IRDAI on Star Health?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "₹2 crore"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "₹1 crore"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "₹5 crore"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "₹10 crore"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title explicitly states, 'IRDAI imposes ₹2 cr penalty on Star Health,' indicating the penalty amount.\nSource: https://www.thehindu.com/business/Industry/irdai-imposes-2-cr-penalty-on-star-health/article71725657.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/irdai-imposes-2-cr-penalty-on-star-health/article71725657.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-17"
-        },
-        {
-          "prompt": {
-            "en": "How many first-time players entered the coal sector through the recent auction rounds?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "20"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "15"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "10"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "25"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title clearly states, '20 first-time players enter sector,' referring to the coal auction rounds.\nSource: https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-18"
-        },
-        {
-          "prompt": {
-            "en": "In the 16th round of commercial mine auctions, how many blocks were put forth, and how were they categorized by exploration status?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "25 blocks: 21 fully explored, 4 partially explored."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "20 blocks: 15 fully explored, 5 partially explored."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "30 blocks: 20 fully explored, 10 partially explored."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "22 blocks: 18 fully explored, 4 partially explored."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt specifies, 'The 16th round of commercial mine auctions put forth 25 blocks, comprising 21 fully explored and four partially explored mines.'\nSource: https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-19"
-        },
-        {
-          "prompt": {
-            "en": "How many bids were attracted in the recent coal auction rounds?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "50"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "85"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "65"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "100"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title states, 'Coal auction rounds attract 85 bids,' directly providing the number of bids.\nSource: https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-20"
-        },
-        {
-          "prompt": {
-            "en": "What is the primary concern flagged by the Chief Economic Adviser (CEA) regarding capital markets?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Excessive foreign investment in equity markets."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Lack of retail investor participation in capital markets."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The dominance of corporate bond markets over equity markets."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The need to align capital markets with India’s development priorities."
+                "en": "$12.56 billion"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The title clearly states, 'CEA flags need to align capital markets with India’s development priorities,' indicating the core concern.\nSource: https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece",
+            "en": "The headline clearly states, 'India’s building automation market likely to grow to $12.56 billion by 2030'.\nSource: https://www.thehindu.com/business/indias-building-automation-market-likely-to-grow-to-1256-billion-by-2030/article71729114.ece",
             "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece",
+          "source_label": "https://www.thehindu.com/business/indias-building-automation-market-likely-to-grow-to-1256-billion-by-2030/article71729114.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-21"
+          "id": "2026-11-22-11"
         },
         {
           "prompt": {
-            "en": "What is the approximate proportion of India's corporate bond market relative to its GDP, as highlighted by the CEA?"
+            "en": "According to Rangesh Raghavan, head of Lam Research India, what specific skill gap does India's semiconductor industry face despite a large pool of engineering graduates?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Around 130% of GDP."
+                "en": "Shortage of people with practical knowledge of fabrication processes."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Approximately 50% of GDP."
+                "en": "Lack of theoretical knowledge in semiconductor physics."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Only about 16% of GDP."
+                "en": "Shortage of software engineering graduates."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Less than 5% of GDP."
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The excerpt states, 'while the corporate bond market accounted for only about 16%,' in relation to GDP.\nSource: https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-22"
-        },
-        {
-          "prompt": {
-            "en": "What was the trend in jewellery demand for Q3, despite a surge in gold prices?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It saw a significant decline."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It remained resilient."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It remained stagnant."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It shifted entirely to other precious metals."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title explicitly states, 'Jewellery demand remains resilient for Q3 despite gold price surge,' indicating its continued strength.\nSource: https://www.thehindu.com/business/Industry/jewellery-demand-remains-resilient-for-q3-despite-gold-price-surge/article71675165.ece",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/Industry/jewellery-demand-remains-resilient-for-q3-despite-gold-price-surge/article71675165.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-23"
-        },
-        {
-          "prompt": {
-            "en": "Despite Anthropic's IPO gain, what was the broader trend observed in AI stocks and the Nasdaq?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Anthropic's gain failed to lift AI stocks as Nasdaq slid 2.25%."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "AI stocks remained stable, and Nasdaq showed minor gains."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "AI stocks surged, and Nasdaq rose significantly."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "AI stocks experienced a mixed trend, while Nasdaq remained flat."
+                "en": "Insufficient number of mechanical engineering graduates."
               }
             }
           ],
           "correct_option_id": "a",
           "explanation": {
-            "en": "The title clearly states, 'Anthropic’s 17% IPO gain fails to lift AI stocks as Nasdaq slides 2.25%,' summarizing the market trend.\nSource: https://www.thehindu.com/business/anthropics-17-ipo-gain-fails-to-lift-ai-stocks-as-nasdaq-slides-225/article71725100.ece",
+            "en": "Rangesh Raghavan states, 'the semiconductor industry faces a shortage of people with practical knowledge of fabrication processes'.\nSource: https://www.thehindu.com/business/lam-research-intensifies-focus-on-indiansemiconductor-mart-as-local-fab-discussions-gather-momentum/article71729041.ece",
             "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/anthropics-17-ipo-gain-fails-to-lift-ai-stocks-as-nasdaq-slides-225/article71725100.ece",
+          "source_label": "https://www.thehindu.com/business/lam-research-intensifies-focus-on-indiansemiconductor-mart-as-local-fab-discussions-gather-momentum/article71729041.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-24"
+          "id": "2026-11-22-12"
         },
         {
           "prompt": {
-            "en": "What factors contributed to questions about the wider AI rally, despite Anthropic's initial strong IPO performance?"
+            "en": "What is the purpose of the $5 million grant offered by Google to IIT Kharagpur?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Lack of investor interest in AI companies."
+                "en": "For infrastructure development."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "A technology sell-off and contrasting views among investors."
+                "en": "For AI research, talent development."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "A general market upturn boosting all tech stocks."
+                "en": "For student scholarships."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Regulatory concerns specific to Anthropic."
+                "en": "For faculty recruitment."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The excerpt states, 'a technology sell-off and contrasting views among investors left questions about the wider AI rally,' identifying these as contributing factors.\nSource: https://www.thehindu.com/business/anthropics-17-ipo-gain-fails-to-lift-ai-stocks-as-nasdaq-slides-225/article71725100.ece",
+            "en": "The headline specifies, 'Google offers $5 mn to IIT Kharagpur for AI research, talent development'.\nSource: https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
             "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/anthropics-17-ipo-gain-fails-to-lift-ai-stocks-as-nasdaq-slides-225/article71725100.ece",
+          "source_label": "https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-25"
+          "id": "2026-11-22-13"
         },
         {
           "prompt": {
-            "en": "What is driving the increased market share of cumin-laced fizzy sodas in India?"
+            "en": "What factors are cited as prominent concerns contributing to the dive in gold, copper, and aluminium prices to multi-month lows?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Aggressive marketing by multinational corporations."
+                "en": "Increased demand from emerging markets."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "A decline in the overall beverage market."
+                "en": "New discoveries of metal reserves."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Government subsidies for traditional drinks."
+                "en": "Decreased production costs for these metals."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Increased demand for homegrown flavours."
+                "en": "Hawkish commentary from U.S. Fed and concerns over global economic growth."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The source states, 'Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up,' directly linking the trend to demand for local tastes.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+            "en": "The excerpt states, 'Hawkish commentary from U.S. Fed and concerns over global economic growth have been among the more prominent concerns.'.\nSource: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
             "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-26"
+          "id": "2026-11-22-14"
         },
         {
           "prompt": {
-            "en": "What was the primary reason cited for Anthropic shares falling after their strong opening?"
+            "en": "From which country did Kirloskar firms secure a ₹366 crore order for pumps?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "A wider tech sell-off continuing in the market."
+                "en": "South African refinery"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Company-specific financial issues."
+                "en": "Egyptian refinery"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Negative reviews of their AI products."
+                "en": "Nigerian refinery"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Increased competition from other AI firms."
+                "en": "Kenyan refinery"
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The title explicitly states, 'Anthropic shares fall after blockbuster opening as wider tech sell-off continues,' identifying the broader market trend as the reason.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "en": "The headline clearly states, 'Kirloskar firms bag ₹366 crore pumps order from Nigerian refinery'.\nSource: https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-15"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary factor that dragged down markets, including the S&P 500 and Dow Jones Industrial Average, into correction territory?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rising interest rates"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased commodity prices"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tech stock sell-off"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Geopolitical tensions"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline states, 'Tech stock sell-off drags markets down as Anthropic shares slide', indicating the tech stock sell-off as the primary factor.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
           "section": "Economy, Business & Finance",
@@ -1260,191 +800,145 @@
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-27"
+          "id": "2026-11-22-16"
         },
         {
           "prompt": {
-            "en": "What is an unlikely outcome of the new cost-cutting UK-EU trade deal, according to Faisal Islam?"
+            "en": "What specific threat has former US President Trump made regarding US firms and AI data centers?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Boost to the economy."
+                "en": "A threat to impose higher taxes on US firms building AI data centres domestically."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Increased business confidence."
+                "en": "A threat to subsidize US firms building AI data centres overseas."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Improved trade relations."
+                "en": "A threat to nationalize all AI data centres built by US firms."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Lower food prices for shoppers."
+                "en": "A threat to ban US firms from building AI data centres overseas."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The title of the source states, 'This cost-cutting UK-EU deal doesn't mean lower prices will follow,' specifically mentioning that lower prices are not expected.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "en": "The headline clearly states, 'Trump threatens ban on US firms building AI data centres overseas'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-28"
+          "id": "2026-11-22-17"
         },
         {
           "prompt": {
-            "en": "What is a potential positive economic impact of the new UK-EU trade deal, as suggested by the analysis?"
+            "en": "What record did GTA 6 sales achieve by hitting $3.8 billion in a single day?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It will significantly lower food prices for shoppers."
+                "en": "The biggest video game launch of the year."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It will eliminate all trade barriers between the UK and EU."
+                "en": "The highest single-day film box office record."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It will lead to immediate job creation in all sectors."
+                "en": "The biggest entertainment launch in history."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It should boost the economy more than other post-Brexit agreements."
+                "en": "The fastest-selling game in the GTA series."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-18"
+        },
+        {
+          "prompt": {
+            "en": "According to Google, what two key elements are essential for building AI that benefits everyone?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Government regulation and private investment."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Open-source development and public access."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rapid prototyping and market feedback."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Deep collaboration and strong academic leadership."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The excerpt states, 'but should boost the economy more than other post-Brexit agreements,' indicating a positive economic impact.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "en": "Google states, 'Building AI that works for everyone requires deep collaboration and strong academic leadership'.\nSource: https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
             "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-29"
-        },
-        {
-          "prompt": {
-            "en": "What specific campaign is credited with boosting retail sales of tinned food and long-life milk?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "'Eat Healthy, Live Long' campaign."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "'Be Ready' campaign."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "'Support Local Producers' campaign."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "'Stock Up for Winter' campaign."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title explicitly mentions, 'after 'Be Ready' campaign launch,' as the reason for the boost in sales.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-30"
-        },
-        {
-          "prompt": {
-            "en": "What is the expected financial status of the seven founders of Anthropic, following the company's stock market debut?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "They are expected to become millionaires."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "They are expected to become multi-millionaires."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Their financial status is uncertain due to market volatility."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "They are expected to become multi-billionaires."
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The title clearly states, 'The seven Anthropic founders who are about to become multi-billionaires,' indicating their expected financial status.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-31"
+          "id": "2026-11-22-19"
         }
       ],
       "quarantined": [],
@@ -1452,443 +946,351 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-11-21T13:00:00+05:30"
+      "release_at": "2026-11-22T13:00:00+05:30"
     },
     {
-      "title": "Science, Environment & World Affairs",
-      "source_filename": "daily-2026-11-21.json",
+      "title": "Science, Technology & Environment",
+      "source_filename": "daily-2026-11-22.json",
       "questions": [
         {
           "prompt": {
-            "en": "What is a key advantage of the newly developed non-verbal online game for autistic adolescents, particularly for India?"
+            "en": "What is the potential medical implication of the CCMB team's identification of genes that spur nerve repair?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "It requires advanced technological infrastructure only available in major metros."
+                "en": "It could lead to new cancer therapies."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "It is designed exclusively for verbal autistic individuals."
+                "en": "It helps understand genetic disorders."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "It bypasses the need to translate complex clinical instructions into regional languages."
+                "en": "It offers insights into viral infections."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "It is a physical board game requiring in-person interaction."
+                "en": "It raises the possibility of paralysis treatment."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline states that the discovery 'raise possibility of paralysis treatment'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-20"
+        },
+        {
+          "prompt": {
+            "en": "Mathematician Alessandro Masullo's paper details efforts to solve what specific challenge?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mathematics’s greatest unsolved problem"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Navier-Stokes existence and smoothness problem"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The P versus NP problem"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Birch and Swinnerton-Dyer conjecture"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt mentions Masullo's paper 'detailing his efforts to crack mathematics’s greatest unsolved problem'.\nSource: https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-21"
+        },
+        {
+          "prompt": {
+            "en": "Which AI model, developed by Anthropic, is claimed to have found a proof for the Riemann hypothesis?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "ChatGPT"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Claude"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Bard"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Gemini"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'Levent Alpöge of Anthropic has announced that he and the company’s AI model Claude have found a proof of the Riemann hypothesis'.\nSource: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-22"
+        },
+        {
+          "prompt": {
+            "en": "The Riemann hypothesis, for which a proof has been claimed by an AI model, primarily concerns what mathematical concept?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The properties of irrational numbers."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The behavior of complex functions."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The distribution of prime numbers."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The nature of infinite series."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The excerpt highlights its promise for India 'by bypassing the need to translate complex clinical instructions into regional languages,' making it more accessible.\nSource: https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece",
+            "en": "The excerpt specifies that the Riemann hypothesis 'concerns the distribution of prime numbers'.\nSource: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
             "hi": null
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece",
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-32"
+          "id": "2026-11-22-23"
         },
         {
           "prompt": {
-            "en": "What tool is being explored to understand how autistic people parse information?"
+            "en": "Which human-made object recently achieved the milestone of traveling 'one light day'?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Traditional psychological interviews."
+                "en": "New Horizons"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Advanced neuroimaging techniques."
+                "en": "Pioneer 10"
               }
             },
             {
               "id": "c",
               "label": "C",
-              "text": {
-                "en": "Standardized written questionnaires."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A video game."
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The title of the source directly mentions, 'A video game can help say,' in the context of how autistic people parse information.\nSource: https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-33"
-        },
-        {
-          "prompt": {
-            "en": "Which human-made object recently became the first to travel 'one light day'?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Hubble Space Telescope"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "International Space Station"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "New Horizons probe"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
               "text": {
                 "en": "Voyager 1"
               }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cassini"
+              }
             }
           ],
-          "correct_option_id": "d",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The source explicitly states, 'Voyager 1 which on November 18 became the first human-made object to travel ‘one light day’,' identifying the object.\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-on-voyager-1/article71722882.ece",
+            "en": "The excerpt states, 'Test yourself on Voyager 1 which on November 18 became the first human-made object to travel ‘one light day’'.\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-on-voyager-1/article71722882.ece",
             "hi": null
           },
-          "section": "Science, Environment & World Affairs",
+          "section": "Science, Technology & Environment",
           "source_label": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-voyager-1/article71722882.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-34"
+          "id": "2026-11-22-24"
         },
         {
           "prompt": {
-            "en": "What is being highlighted as India's potential 'next pharma frontier'?"
+            "en": "The article raises a question about AI's potential role in judging what specific financial aspect of individuals?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Rare-disease drugs."
+                "en": "Investment portfolio performance."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Vaccines for infectious diseases."
+                "en": "Tax compliance."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Over-the-counter medications."
+                "en": "Credit worthiness."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Ayurvedic and traditional medicines."
+                "en": "Retirement planning."
               }
             }
           ],
-          "correct_option_id": "a",
+          "correct_option_id": "c",
           "explanation": {
-            "en": "The title of the source directly asks, 'Why rare-disease drugs could become India’s next pharma frontier,' indicating this as the subject.\nSource: https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+            "en": "The question in the article is, 'Should AI be judging our credit worthiness?', indicating this as the focus.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-35"
+          "id": "2026-11-22-25"
         },
         {
           "prompt": {
-            "en": "How many institutions were assessed in the 2027 edition of the Times Higher Education rankings, and in how many countries/territories?"
+            "en": "What is the primary issue that has led to a deadlock in the COP31 climate talks?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "1,058 institutions across 102 countries and territories."
+                "en": "Disagreement on carbon pricing mechanisms."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "911 institutions across 90 countries."
+                "en": "Fight over fossil fuels."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "850 institutions across 85 countries."
+                "en": "Debate over renewable energy targets."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "1,200 institutions across 110 countries."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt states, 'assessed 1,058 institutions across 102 countries and territories,' for the 2027 edition.\nSource: https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-36"
-        },
-        {
-          "prompt": {
-            "en": "Which UN group has recently been rejigged, focusing on science and technology?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "UN Sustainable Development Goals group for science, technology"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "UN Security Council"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "UN Human Rights Council"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "UN Peacekeeping Operations"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The title explicitly states, 'UN Sustainable Development Goals group for science, technology rejigged,' identifying the group.\nSource: https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-37"
-        },
-        {
-          "prompt": {
-            "en": "The rejigging of the UN Sustainable Development Goals group for science and technology is aligned with efforts to achieve which global agenda?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The Paris Agreement on Climate Change."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The Millennium Development Goals."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The Kyoto Protocol."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The 2030 Agenda for Sustainable Development."
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The excerpt states, 'to achieve the 2030 Agenda for Sustainable Development,' as the context for the group's constitution.\nSource: https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-38"
-        },
-        {
-          "prompt": {
-            "en": "What policy threat has Trump recently made concerning US firms and AI data centers?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A ban on US firms investing in AI research domestically."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A ban on US firms building AI data centres overseas."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A mandate for US firms to build all AI data centers in specific US states."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A tax incentive for US firms to build AI data centers in developing nations."
+                "en": "Lack of consensus on adaptation strategies."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The title clearly states, 'Trump threatens ban on US firms building AI data centres overseas,' outlining the policy threat.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+            "en": "The headline explicitly states, 'Fight over fossil fuels leaves COP31 climate talks in deadlock'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-39"
+          "id": "2026-11-22-26"
         },
         {
           "prompt": {
-            "en": "What are the dual objectives of the government's push for more homes to adopt heat pumps?"
+            "en": "Which planet is expected to receive a visitor after an eight-year space voyage?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
-              "text": {
-                "en": "To increase fossil fuel consumption and raise energy bills."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "To cut fossil fuel use and drive down energy bills."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "To promote traditional heating methods and reduce energy efficiency."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "To export heat pump technology and create new jobs abroad."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt states, 'to cut fossil fuel use and drive down energy bills,' as the government's objectives for heat pump adoption.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-40"
-        },
-        {
-          "prompt": {
-            "en": "Which planet is about to receive a visitor after an eight-year voyage, promising the best-ever views?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Mercury"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
               "text": {
                 "en": "Mars"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Venus"
               }
             },
             {
@@ -1902,343 +1304,113 @@
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Venus"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt mentions, 'our best ever view of Mercury - the closest planet to the Sun,' indicating Mercury is the destination.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-41"
-        },
-        {
-          "prompt": {
-            "en": "What are African countries demanding at the UN climate summit in Turkey?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "More technological assistance for space exploration."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Increased military aid from developed nations."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "More funding from developed nations to help them cope with climate change."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Preferential trade agreements for agricultural products."
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The excerpt states, 'African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change,' clearly outlining their demand.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-42"
-        },
-        {
-          "prompt": {
-            "en": "What remarkable feat did a wading bird named Phil accomplish, astonishing conservationists?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It learned to mimic human speech."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It survived in an extremely polluted environment."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It discovered a new species of insect."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It completed a 6,800-mile round trip to Siberia and back."
+                "en": "Mercury"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The excerpt states, 'A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back,' detailing its accomplishment.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+            "en": "The headline states, 'Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-43"
+          "id": "2026-11-22-27"
         },
         {
           "prompt": {
-            "en": "Where are the survivors of Uganda's deadly landslide seeking justice?"
+            "en": "What are African countries primarily demanding from developed nations at the UN climate summit in Turkey?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The International Criminal Court."
+                "en": "Technological assistance for renewable energy."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The United Nations."
+                "en": "Relaxation of emission reduction targets."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The African Union."
+                "en": "Preferential trade agreements for climate-friendly products."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Their national government only."
+                "en": "More funding to help them cope with climate change."
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "d",
           "explanation": {
-            "en": "The title clearly states, 'Survivors of Uganda's deadly landslide seek justice at the UN,' indicating their destination for justice.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+            "en": "The excerpt states, 'African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-44"
+          "id": "2026-11-22-28"
         },
         {
           "prompt": {
-            "en": "What are the key areas covered by the recently agreed UK-EU deal?"
+            "en": "How did Ukrainian President Zelensky characterize the strikes on the Crimean Bridge?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Military cooperation, space exploration, and digital currency."
+                "en": "An act of aggression."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "British food exports, emissions trading, and a youth experience scheme."
+                "en": "A strategic miscalculation."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Immigration policies, defense spending, and healthcare reforms."
+                "en": "A 'fair response'."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Fisheries quotas, financial services, and intellectual property rights."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt explicitly states, 'The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme,' detailing the covered areas.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-45"
-        },
-        {
-          "prompt": {
-            "en": "What incident recently occurred in Poland while Ukraine's allies were holding a military exercise?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A major cyber-attack on critical infrastructure."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A Russian missile hit."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A large-scale border infiltration attempt."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "An accidental explosion at a military base."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title clearly states, 'Russian missile hits Poland as Ukraine's allies hold military exercise,' describing the incident.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-46"
-        },
-        {
-          "prompt": {
-            "en": "What did Russia target in Kyiv days after Ukraine reportedly hit the Crimean Bridge?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Government administrative buildings."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Kyiv crossings."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Residential areas."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Military training facilities."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title explicitly states, 'Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge,' identifying the targets.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-            "hi": null
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-21-47"
-        },
-        {
-          "prompt": {
-            "en": "Approximately how many women were killed in South Africa within a three-month period, as reported?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Around 100"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Around 300"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Nearly 600"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Over 1000"
+                "en": "A violation of international law."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The title clearly states, 'Nearly 600 women killed in South Africa within three months,' providing the approximate number.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+            "en": "The headline states, 'Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
             "hi": null
           },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-21-48"
+          "id": "2026-11-22-30"
         }
       ],
       "quarantined": [],
@@ -2246,69 +1418,89 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-11-21T18:00:00+05:30"
+      "release_at": "2026-11-22T18:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "West Bengal CEO office postpones SSR due to unavoidable circumstances",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
-      "published": "2026-11-21T01:41:35+05:30"
+      "title": "AIPC Tamil Nadu to support MSMEs through professional network",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
+      "published": "2026-11-22T01:12:58+05:30"
     },
     {
-      "title": "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
-      "url": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
-      "published": "2026-11-21T01:25:46+05:30"
+      "title": "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
+      "published": "2026-11-22T01:12:47+05:30"
     },
     {
-      "title": "Woman delivers triplets after non-ART treatment at Telangana govt. hospital; premature babies discharged after NICU care",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/woman-delivers-triplets-after-non-art-treatment-at-telangana-govt-hospital-premature-babies-discharged-after-nicu-care/article71725333.ece",
-      "published": "2026-11-21T01:20:03+05:30"
+      "title": "T.N. may see solar energy installations slowing down, say energy generators",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
+      "published": "2026-11-22T01:12:20+05:30"
     },
     {
-      "title": "IJCCI to lead business delegation to Japan from Nov. 30",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/ijcci-to-lead-business-delegation-to-japan-from-nov-30/article71725299.ece",
-      "published": "2026-11-21T01:19:59+05:30"
+      "title": "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
+      "url": "https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
+      "published": "2026-11-22T01:12:07+05:30"
     },
     {
-      "title": "53 vendors participate in Atomic Energy Department’s Vendor-Buyer Meet",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/53-vendors-participate-in-atomic-energy-departments-vendor-buyer-meet/article71725312.ece",
-      "published": "2026-11-21T01:19:54+05:30"
+      "title": "BJP, Hindu Munnani, RSS trying to create communal tension in T.N., says Tagore",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-hindu-munnani-rss-trying-to-create-communal-tensionin-tn-says-tagore/article71728506.ece",
+      "published": "2026-11-22T01:09:34+05:30"
     },
     {
-      "title": "Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026",
-      "url": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece",
-      "published": "2026-11-21T01:18:11+05:30"
+      "title": "Chennai International Book Fair 2027 to be held from January 16 to 18",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+      "published": "2026-11-22T01:08:00+05:30"
     },
     {
-      "title": "IRDAI imposes ₹2 cr penalty on Star Health",
-      "url": "https://www.thehindu.com/business/Industry/irdai-imposes-2-cr-penalty-on-star-health/article71725657.ece",
-      "published": "2026-11-20T22:39:30+05:30"
+      "title": "IndusInd Bank terminates Sumant Kathpalia’s services, invokes clawback provisions",
+      "url": "https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece",
+      "published": "2026-11-21T22:39:48+05:30"
     },
     {
-      "title": "Coal auction rounds attract 85 bids; 20 first-time players enter sector",
-      "url": "https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece",
-      "published": "2026-11-20T22:17:37+05:30"
+      "title": "India’s building automation market likely to grow to $12.56 billion by 2030",
+      "url": "https://www.thehindu.com/business/indias-building-automation-market-likely-to-grow-to-1256-billion-by-2030/article71729114.ece",
+      "published": "2026-11-21T22:17:22+05:30"
     },
     {
-      "title": "CEA flags need to align capital markets with India’s development priorities",
-      "url": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece",
-      "published": "2026-11-20T21:44:09+05:30"
+      "title": "Lam Research intensifies focus on Indian semiconductor mart as local fab discussions gather momentum",
+      "url": "https://www.thehindu.com/business/lam-research-intensifies-focus-on-indiansemiconductor-mart-as-local-fab-discussions-gather-momentum/article71729041.ece",
+      "published": "2026-11-21T22:11:05+05:30"
     },
     {
-      "title": "Jewellery demand remains resilient for Q3 despite gold price surge",
-      "url": "https://www.thehindu.com/business/Industry/jewellery-demand-remains-resilient-for-q3-despite-gold-price-surge/article71675165.ece",
-      "published": "2026-11-20T21:33:44+05:30"
+      "title": "Google offers $5 mn to IIT Kharagpur for AI research, talent development",
+      "url": "https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
+      "published": "2026-11-21T21:56:48+05:30"
     },
     {
-      "title": "Anthropic’s 17% IPO gain fails to lift AI stocks as Nasdaq slides 2.25%",
-      "url": "https://www.thehindu.com/business/anthropics-17-ipo-gain-fails-to-lift-ai-stocks-as-nasdaq-slides-225/article71725100.ece",
-      "published": "2026-11-20T21:32:24+05:30"
+      "title": "Gold, copper, aluminium dive to at least 7-month lows",
+      "url": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+      "published": "2026-11-21T21:27:45+05:30"
     },
     {
-      "title": "How do autistic people parse information? A video game can help say",
-      "url": "https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece",
-      "published": "2026-11-20T10:30:10+05:30"
+      "title": "Kirloskar firms bag ₹366 crore pumps order from Nigerian refinery",
+      "url": "https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece",
+      "published": "2026-11-21T20:30:51+05:30"
+    },
+    {
+      "title": "CCMB team identifies genes that spur nerve repair, raise possibility of paralysis treatment",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+      "published": "2026-11-21T12:34:36+05:30"
+    },
+    {
+      "title": "‘All human, no AI’ Riemann hypothesis proof out on same day as Claude’s claim",
+      "url": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+      "published": "2026-11-21T11:02:58+05:30"
+    },
+    {
+      "title": "AI cracks math’s most famous problem. Have mathematicians lost a guiding light?",
+      "url": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+      "published": "2026-11-21T09:52:51+05:30"
+    },
+    {
+      "title": "Watch | How has ‘Project Cheetah’ progressed in India?",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
+      "published": "2026-11-20T17:16:22+05:30"
     },
     {
       "title": "Daily Quiz: On Voyager 1",
@@ -2316,24 +1508,14 @@
       "published": "2026-11-20T06:47:15+05:30"
     },
     {
-      "title": "Why rare-disease drugs could become India’s next pharma frontier",
-      "url": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
-      "published": "2026-11-19T14:00:20+05:30"
-    },
-    {
-      "title": "Panjab University improves its global standing in interdisciplinary scientific research",
-      "url": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
-      "published": "2026-11-19T02:29:41+05:30"
-    },
-    {
-      "title": "UN Sustainable Development Goals group for science, technology rejigged",
-      "url": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece",
-      "published": "2026-11-18T23:15:54+05:30"
-    },
-    {
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T19:27:49+00:00"
+    },
+    {
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T23:28:17+00:00"
     },
     {
       "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
@@ -2341,44 +1523,29 @@
       "published": "2026-11-19T23:29:00+00:00"
     },
     {
-      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T00:38:52+00:00"
-    },
-    {
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T11:38:09+00:00"
-    },
-    {
-      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T22:32:47+00:00"
-    },
-    {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T20:00:53+00:00"
-    },
-    {
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T16:41:52+00:00"
+      "published": "2026-11-20T22:42:47+00:00"
     },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T20:35:26+00:00"
+      "published": "2026-11-20T20:54:12+00:00"
     },
     {
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T09:44:56+00:00"
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T22:53:24+00:00"
     },
     {
-      "title": "What are heat pumps and how much do they cost?",
-      "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T10:24:52+00:00"
+      "title": "Should AI be judging our credit worthiness?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T07:32:19+00:00"
+    },
+    {
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T19:33:49+00:00"
     },
     {
       "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
@@ -2391,39 +1558,9 @@
       "published": "2026-11-20T05:03:43+00:00"
     },
     {
-      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T13:35:29+00:00"
-    },
-    {
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T09:21:54+00:00"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T23:42:07+00:00"
-    },
-    {
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T17:49:48+00:00"
-    },
-    {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T16:54:29+00:00"
-    },
-    {
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T13:01:16+00:00"
-    },
-    {
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T15:55:16+00:00"
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T13:17:38+00:00"
     }
   ]
 }

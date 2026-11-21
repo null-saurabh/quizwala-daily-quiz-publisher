@@ -1,0 +1,1566 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-22",
+  "generated_at": "2026-11-21T19:47:47.107225+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs & Governance (India)",
+      "source_filename": "daily-2026-11-22.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Which organization in Tamil Nadu has committed to supporting Micro, Small, and Medium Enterprises (MSMEs) by leveraging its professional network?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "AIPC Tamil Nadu"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "CII Tamil Nadu"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "FICCI Tamil Nadu"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "TANSTIA Tamil Nadu"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The headline explicitly states that 'AIPC Tamil Nadu to support MSMEs through professional network', indicating AIPC Tamil Nadu as the organization involved.\nSource: https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-1"
+        },
+        {
+          "prompt": {
+            "en": "According to historian Ramachandra Guha, who represents the 'core ideological enemy' of the Sangh Parivar?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gandhi"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "B.R. Ambedkar"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sardar Vallabhbhai Patel"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Jawaharlal Nehru"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title directly quotes Ramachandra Guha stating, 'Gandhi is the core ideological enemy of the Sangh Parivar'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-2"
+        },
+        {
+          "prompt": {
+            "en": "What trend are energy generators observing regarding solar energy installations in Tamil Nadu?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A rapid increase in solar energy installations."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A stagnation in solar energy installations."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A potential slowdown in solar energy installations."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A shift towards wind energy installations."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline explicitly states, 'T.N. may see solar energy installations slowing down, say energy generators'.\nSource: https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-3"
+        },
+        {
+          "prompt": {
+            "en": "What type of gallery dedicated to Raja Ravi Varma was recently inaugurated in Chennai?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A gallery of sculptures and paintings."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A gallery of Oleographs and Chromo Lithographs."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A gallery of photographs and sketches."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A gallery of modern art installations."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states, 'Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai'.\nSource: https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-4"
+        },
+        {
+          "prompt": {
+            "en": "According to Tagore, which organizations are allegedly attempting to create communal tension in Tamil Nadu?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "DMK, AIADMK, Congress"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "CPI, CPM, VCK"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "BJP, Hindu Munnani, RSS"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "SDPI, PFI, AIMIM"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline directly attributes the statement to Tagore, saying 'BJP, Hindu Munnani, RSS trying to create communal tension in T.N., says Tagore'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/bjp-hindu-munnani-rss-trying-to-create-communal-tensionin-tn-says-tagore/article71728506.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/bjp-hindu-munnani-rss-trying-to-create-communal-tensionin-tn-says-tagore/article71728506.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-5"
+        },
+        {
+          "prompt": {
+            "en": "When is the Chennai International Book Fair 2027 scheduled to be held?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "December 1 to 3"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "January 16 to 18"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "February 10 to 12"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "March 5 to 7"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title explicitly states, 'Chennai International Book Fair 2027 to be held from January 16 to 18'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-6"
+        },
+        {
+          "prompt": {
+            "en": "What significant conservation initiative is described as the 'first intercontinental transfer of wild cats into the country'?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Project Tiger"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Project Elephant"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "'Project Cheetah'"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Project Lion"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The evidence states, 'A video explainer on 'Project Cheetah', the first intercontinental transfer of wild cats into the country.', directly identifying 'Project Cheetah'.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-7"
+        },
+        {
+          "prompt": {
+            "en": "An Indian national was recently sentenced in the US for involvement in a plot targeting whom?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A US Senator"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A US-based Sikh separatist leader"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A prominent Indian diplomat"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A US federal judge"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states, 'Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-8"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary reason cited for the increasing market share of cumin-laced fizzy sodas in India?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Aggressive marketing campaigns by manufacturers."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lower pricing compared to traditional cola giants."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Health benefits associated with cumin."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Growing demand for homegrown flavours."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-9"
+        },
+        {
+          "prompt": {
+            "en": "What are the key agenda items for discussion during Nepal's Prime Minister's meeting with his Indian counterpart?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cultural exchange programs and tourism promotion."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Border security and defense alliances."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Trade, connectivity and regional cooperation."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Educational reforms and student exchange."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-29"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-22T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-22.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "IndusInd Bank invoked 'malus and clawback provisions' against a former executive based on the findings of an inquiry report. Who conducted this inquiry?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A sitting Supreme Court judge"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An independent auditor"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Reserve Bank of India"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A former Bombay High Court judge"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'The bank’s board acted on an inquiry report by a former Bombay High Court judge and invoked malus and clawback provisions from March 24, 2020'.\nSource: https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-10"
+        },
+        {
+          "prompt": {
+            "en": "What is the projected market size for India's building automation sector by the year 2030?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$5 billion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$7.8 billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$20 billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$12.56 billion"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline clearly states, 'India’s building automation market likely to grow to $12.56 billion by 2030'.\nSource: https://www.thehindu.com/business/indias-building-automation-market-likely-to-grow-to-1256-billion-by-2030/article71729114.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/indias-building-automation-market-likely-to-grow-to-1256-billion-by-2030/article71729114.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-11"
+        },
+        {
+          "prompt": {
+            "en": "According to Rangesh Raghavan, head of Lam Research India, what specific skill gap does India's semiconductor industry face despite a large pool of engineering graduates?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Shortage of people with practical knowledge of fabrication processes."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lack of theoretical knowledge in semiconductor physics."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Shortage of software engineering graduates."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Insufficient number of mechanical engineering graduates."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Rangesh Raghavan states, 'the semiconductor industry faces a shortage of people with practical knowledge of fabrication processes'.\nSource: https://www.thehindu.com/business/lam-research-intensifies-focus-on-indiansemiconductor-mart-as-local-fab-discussions-gather-momentum/article71729041.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/lam-research-intensifies-focus-on-indiansemiconductor-mart-as-local-fab-discussions-gather-momentum/article71729041.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-12"
+        },
+        {
+          "prompt": {
+            "en": "What is the purpose of the $5 million grant offered by Google to IIT Kharagpur?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "For infrastructure development."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "For AI research, talent development."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "For student scholarships."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "For faculty recruitment."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline specifies, 'Google offers $5 mn to IIT Kharagpur for AI research, talent development'.\nSource: https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-13"
+        },
+        {
+          "prompt": {
+            "en": "What factors are cited as prominent concerns contributing to the dive in gold, copper, and aluminium prices to multi-month lows?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased demand from emerging markets."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "New discoveries of metal reserves."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Decreased production costs for these metals."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Hawkish commentary from U.S. Fed and concerns over global economic growth."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'Hawkish commentary from U.S. Fed and concerns over global economic growth have been among the more prominent concerns.'.\nSource: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-14"
+        },
+        {
+          "prompt": {
+            "en": "From which country did Kirloskar firms secure a ₹366 crore order for pumps?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "South African refinery"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Egyptian refinery"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Nigerian refinery"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kenyan refinery"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'Kirloskar firms bag ₹366 crore pumps order from Nigerian refinery'.\nSource: https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-15"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary factor that dragged down markets, including the S&P 500 and Dow Jones Industrial Average, into correction territory?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rising interest rates"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased commodity prices"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Tech stock sell-off"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Geopolitical tensions"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline states, 'Tech stock sell-off drags markets down as Anthropic shares slide', indicating the tech stock sell-off as the primary factor.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-16"
+        },
+        {
+          "prompt": {
+            "en": "What specific threat has former US President Trump made regarding US firms and AI data centers?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A threat to impose higher taxes on US firms building AI data centres domestically."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A threat to subsidize US firms building AI data centres overseas."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A threat to nationalize all AI data centres built by US firms."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A threat to ban US firms from building AI data centres overseas."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline clearly states, 'Trump threatens ban on US firms building AI data centres overseas'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-17"
+        },
+        {
+          "prompt": {
+            "en": "What record did GTA 6 sales achieve by hitting $3.8 billion in a single day?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The biggest video game launch of the year."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The highest single-day film box office record."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The biggest entertainment launch in history."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The fastest-selling game in the GTA series."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-18"
+        },
+        {
+          "prompt": {
+            "en": "According to Google, what two key elements are essential for building AI that benefits everyone?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Government regulation and private investment."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Open-source development and public access."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rapid prototyping and market feedback."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Deep collaboration and strong academic leadership."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Google states, 'Building AI that works for everyone requires deep collaboration and strong academic leadership'.\nSource: https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-19"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-22T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Technology & Environment",
+      "source_filename": "daily-2026-11-22.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the potential medical implication of the CCMB team's identification of genes that spur nerve repair?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It could lead to new cancer therapies."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It helps understand genetic disorders."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It offers insights into viral infections."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It raises the possibility of paralysis treatment."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline states that the discovery 'raise possibility of paralysis treatment'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-20"
+        },
+        {
+          "prompt": {
+            "en": "Mathematician Alessandro Masullo's paper details efforts to solve what specific challenge?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mathematics’s greatest unsolved problem"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Navier-Stokes existence and smoothness problem"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The P versus NP problem"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Birch and Swinnerton-Dyer conjecture"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt mentions Masullo's paper 'detailing his efforts to crack mathematics’s greatest unsolved problem'.\nSource: https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-21"
+        },
+        {
+          "prompt": {
+            "en": "Which AI model, developed by Anthropic, is claimed to have found a proof for the Riemann hypothesis?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "ChatGPT"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Claude"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Bard"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Gemini"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'Levent Alpöge of Anthropic has announced that he and the company’s AI model Claude have found a proof of the Riemann hypothesis'.\nSource: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-22"
+        },
+        {
+          "prompt": {
+            "en": "The Riemann hypothesis, for which a proof has been claimed by an AI model, primarily concerns what mathematical concept?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The properties of irrational numbers."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The behavior of complex functions."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The distribution of prime numbers."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The nature of infinite series."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt specifies that the Riemann hypothesis 'concerns the distribution of prime numbers'.\nSource: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-23"
+        },
+        {
+          "prompt": {
+            "en": "Which human-made object recently achieved the milestone of traveling 'one light day'?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "New Horizons"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Pioneer 10"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Voyager 1"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cassini"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'Test yourself on Voyager 1 which on November 18 became the first human-made object to travel ‘one light day’'.\nSource: https://www.thehindu.com/sci-tech/science/daily-quiz-on-voyager-1/article71722882.ece",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-voyager-1/article71722882.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-24"
+        },
+        {
+          "prompt": {
+            "en": "The article raises a question about AI's potential role in judging what specific financial aspect of individuals?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Investment portfolio performance."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Tax compliance."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Credit worthiness."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Retirement planning."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The question in the article is, 'Should AI be judging our credit worthiness?', indicating this as the focus.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-25"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary issue that has led to a deadlock in the COP31 climate talks?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Disagreement on carbon pricing mechanisms."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fight over fossil fuels."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Debate over renewable energy targets."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Lack of consensus on adaptation strategies."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline explicitly states, 'Fight over fossil fuels leaves COP31 climate talks in deadlock'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-26"
+        },
+        {
+          "prompt": {
+            "en": "Which planet is expected to receive a visitor after an eight-year space voyage?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mars"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Venus"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Jupiter"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Mercury"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline states, 'Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-27"
+        },
+        {
+          "prompt": {
+            "en": "What are African countries primarily demanding from developed nations at the UN climate summit in Turkey?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Technological assistance for renewable energy."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Relaxation of emission reduction targets."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Preferential trade agreements for climate-friendly products."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More funding to help them cope with climate change."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-28"
+        },
+        {
+          "prompt": {
+            "en": "How did Ukrainian President Zelensky characterize the strikes on the Crimean Bridge?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "An act of aggression."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A strategic miscalculation."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A 'fair response'."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A violation of international law."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline states, 'Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-22-30"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-22T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AIPC Tamil Nadu to support MSMEs through professional network",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/aipc-tamil-nadu-to-support-msmes-through-professional-network/article71728876.ece",
+      "published": "2026-11-22T01:12:58+05:30"
+    },
+    {
+      "title": "Gandhi is the core ideological enemy of the Sangh Parivar: Ramachandra Guha",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ramachandra-guha/article71729385.ece",
+      "published": "2026-11-22T01:12:47+05:30"
+    },
+    {
+      "title": "T.N. may see solar energy installations slowing down, say energy generators",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/tn-may-see-solar-energy-installations-slowing-down-say-energy-generators/article71728600.ece",
+      "published": "2026-11-22T01:12:20+05:30"
+    },
+    {
+      "title": "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
+      "url": "https://www.thehindu.com/news/cities/chennai/raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs-inaugurated-in-chennai/article71729335.ece",
+      "published": "2026-11-22T01:12:07+05:30"
+    },
+    {
+      "title": "BJP, Hindu Munnani, RSS trying to create communal tension in T.N., says Tagore",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-hindu-munnani-rss-trying-to-create-communal-tensionin-tn-says-tagore/article71728506.ece",
+      "published": "2026-11-22T01:09:34+05:30"
+    },
+    {
+      "title": "Chennai International Book Fair 2027 to be held from January 16 to 18",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-international-book-fair-2027-to-be-held-from-january-16-to-18/article71728191.ece",
+      "published": "2026-11-22T01:08:00+05:30"
+    },
+    {
+      "title": "IndusInd Bank terminates Sumant Kathpalia’s services, invokes clawback provisions",
+      "url": "https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece",
+      "published": "2026-11-21T22:39:48+05:30"
+    },
+    {
+      "title": "India’s building automation market likely to grow to $12.56 billion by 2030",
+      "url": "https://www.thehindu.com/business/indias-building-automation-market-likely-to-grow-to-1256-billion-by-2030/article71729114.ece",
+      "published": "2026-11-21T22:17:22+05:30"
+    },
+    {
+      "title": "Lam Research intensifies focus on Indian semiconductor mart as local fab discussions gather momentum",
+      "url": "https://www.thehindu.com/business/lam-research-intensifies-focus-on-indiansemiconductor-mart-as-local-fab-discussions-gather-momentum/article71729041.ece",
+      "published": "2026-11-21T22:11:05+05:30"
+    },
+    {
+      "title": "Google offers $5 mn to IIT Kharagpur for AI research, talent development",
+      "url": "https://www.thehindu.com/business/google-offers-5-mn-to-iit-kharagpur-for-ai-research-talent-development/article71729164.ece",
+      "published": "2026-11-21T21:56:48+05:30"
+    },
+    {
+      "title": "Gold, copper, aluminium dive to at least 7-month lows",
+      "url": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+      "published": "2026-11-21T21:27:45+05:30"
+    },
+    {
+      "title": "Kirloskar firms bag ₹366 crore pumps order from Nigerian refinery",
+      "url": "https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece",
+      "published": "2026-11-21T20:30:51+05:30"
+    },
+    {
+      "title": "CCMB team identifies genes that spur nerve repair, raise possibility of paralysis treatment",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+      "published": "2026-11-21T12:34:36+05:30"
+    },
+    {
+      "title": "‘All human, no AI’ Riemann hypothesis proof out on same day as Claude’s claim",
+      "url": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+      "published": "2026-11-21T11:02:58+05:30"
+    },
+    {
+      "title": "AI cracks math’s most famous problem. Have mathematicians lost a guiding light?",
+      "url": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+      "published": "2026-11-21T09:52:51+05:30"
+    },
+    {
+      "title": "Watch | How has ‘Project Cheetah’ progressed in India?",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
+      "published": "2026-11-20T17:16:22+05:30"
+    },
+    {
+      "title": "Daily Quiz: On Voyager 1",
+      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-voyager-1/article71722882.ece",
+      "published": "2026-11-20T06:47:15+05:30"
+    },
+    {
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T19:27:49+00:00"
+    },
+    {
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T23:28:17+00:00"
+    },
+    {
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:29:00+00:00"
+    },
+    {
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T22:42:47+00:00"
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T20:54:12+00:00"
+    },
+    {
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T22:53:24+00:00"
+    },
+    {
+      "title": "Should AI be judging our credit worthiness?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T07:32:19+00:00"
+    },
+    {
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T19:33:49+00:00"
+    },
+    {
+      "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T05:59:56+00:00"
+    },
+    {
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T05:03:43+00:00"
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T13:17:38+00:00"
+    }
+  ]
+}
