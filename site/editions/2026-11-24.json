@@ -1,0 +1,1985 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:23:06.996405+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-24.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "The CBI recently facilitated the return of a murder accused from Kazakhstan. In which city of Kazakhstan was the accused tracked down?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Almaty"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Shymkent"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Astana"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Karaganda"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that the accused, Ashish Kumar, was 'tracked down to Almaty airport in Kazakhstan', confirming Almaty as the city.\nSource: https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-1"
+        },
+        {
+          "prompt": {
+            "en": "Tripura Chief Minister Manik Saha commented on the presence of masked men in a BJP election rally. What was his stance on such behaviour?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He supported it as a form of protest."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He dismissed it as a minor incident not requiring party intervention."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He stated the party does not approve of such behaviour and is inquiring into the matter."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He indicated it was a security measure for party workers."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Manik Saha's direct quote, 'our party does not approve such behaviour from our ranks. The party is inquiring into the matter and will follow up,' clearly indicates his stance.\nSource: https://www.thehindu.com/news/national/tripura/manik-saha-says-party-probing-presence-of-masked-men-in-bjp-election-rally/article71736249.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tripura/manik-saha-says-party-probing-presence-of-masked-men-in-bjp-election-rally/article71736249.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-2"
+        },
+        {
+          "prompt": {
+            "en": "Union Minister Kiren Rijiju recently stated that they are close to realizing PM Narendra Modi’s dream for Kashmir. What specific activity did he recall undertaking to discuss this dream?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Organizing large public rallies in Srinagar."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Holding extensive consultations with local political leaders."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Launching new development projects across the valley."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Visiting frontier districts to meet soldiers and discuss how to realise the dream."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Kiren Rijiju explicitly stated, 'we visited frontier districts to meet soldiers and discuss how to realise the dream of PM Modi,' which directly answers the question.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-3"
+        },
+        {
+          "prompt": {
+            "en": "The Madras High Court recently asked if a bank manager would accept an apology from Kayalvizhi Alagiri. What was the context of the potential closure of criminal prosecution against the accused?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The victim was subjected to physical assault and the police were given time to ascertain if the victim would agree for closure."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The accused offered financial compensation to the victim."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The court found insufficient evidence to proceed with the case."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The accused agreed to perform community service as a form of penance."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that the police were granted time 'to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused', establishing the context of the physical assault and the victim's consent for closure.\nSource: https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-4"
+        },
+        {
+          "prompt": {
+            "en": "A Rajasthan women’s varsity signed an MoU with BRICS nations for a global leadership centre. What was the primary focus of the summit during which this MoU was signed?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Promoting technological innovation and digital literacy among women."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Promoting women’s leadership, cultural exchanges, and mutual cooperation and innovative research across the 11 BRICS member countries."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Enhancing economic cooperation and trade agreements between BRICS members."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Discussing strategies for climate change mitigation and sustainable development."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source clearly states the summit 'focused on promoting women’s leadership, cultural exchanges, and mutual cooperation and innovative research across the 11 BRICS member countries'.\nSource: https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-5"
+        },
+        {
+          "prompt": {
+            "en": "The news mentions a proposal for extending scholarships to Sri Lankan students. For what specific purpose is this scholarship being proposed?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To pursue engineering education in Tamil Nadu."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To undertake research in agricultural sciences in India."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To pursue medical education in Tamil Nadu."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To study humanities and social sciences in Indian universities."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title of the source explicitly states 'Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-6"
+        },
+        {
+          "prompt": {
+            "en": "IRDAI has formed an expert panel on distribution and commission reforms. What is one of the key objectives of this committee regarding the transition pathways?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To completely overhaul the existing commission structure without any phased approach."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To increase the regulatory burden on all insurers and distributors."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To recommend transition pathways, including phased implementation and supportive measures, to address concerns of smaller insurers and distributors."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To primarily focus on increasing the market share of larger insurance companies."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states the committee's role is to 'recommend transition pathways, including phased implementation and supportive measures, to address concerns of smaller insurers and distributors'.\nSource: https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-7"
+        },
+        {
+          "prompt": {
+            "en": "According to projections, how many white-collar jobs is India expected to have by the year 2027?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "1.05 crore"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "1.38 crore"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "1.50 crore"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "1.75 crore"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states, 'India will have 1.38 crore white-collar jobs in 2027'.\nSource: https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-8"
+        },
+        {
+          "prompt": {
+            "en": "India recently pledged $1.6 billion to Nepal. What is this pledge intended to achieve in the bilateral relationship?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To reset ties as Nepal rebuilds after deadly floods, securing Indian funding, port access and a new train service."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To support Nepal's tourism industry after the pandemic."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To fund Nepal's defence modernization programs."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To establish new cultural exchange programs between the two nations."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states that Nepal's prime minister secured Indian funding, port access, and a new train service 'As Nepal rebuilds after deadly floods' to 'reset of ties'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-9"
+        },
+        {
+          "prompt": {
+            "en": "The MoU signed by a Rajasthan women's varsity with BRICS nations aims to establish a global leadership centre. How many BRICS member countries are involved in the broader cooperation discussed at the summit?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "9"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "5"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "11"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "15"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt specifies that the summit focused on cooperation 'across the 11 BRICS member countries'.\nSource: https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-10"
+        },
+        {
+          "prompt": {
+            "en": "Beyond financial funding, what other key benefits did Nepal secure from India as part of the recent pledge?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Preferential trade agreements and visa-free travel."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Port access and a new train service."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Educational scholarships and cultural grants."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Military training and intelligence sharing."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly mentions that Nepal secured 'port access and a new train service' in addition to Indian funding.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-11"
+        },
+        {
+          "prompt": {
+            "en": "The IRDAI expert panel on distribution and commission reforms is tasked with addressing concerns of which specific stakeholders?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Only large, established insurance companies."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Smaller insurers and distributors."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Foreign institutional investors in the insurance sector."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Policyholders and consumers directly."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The committee's mandate is specifically 'to address concerns of smaller insurers and distributors'.\nSource: https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-12"
+        },
+        {
+          "prompt": {
+            "en": "In the case before the Madras High Court involving Kayalvizhi Alagiri, what is the police's immediate task regarding the victim?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To provide security to the victim."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To investigate further details of the physical assault."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To mediate a financial settlement between the parties."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The court granted time for the police 'to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-13"
+        },
+        {
+          "prompt": {
+            "en": "Kiren Rijiju's statement about realizing PM Modi's dream for Kashmir highlights a specific approach taken. What was notable about the scale of programmes during his visits to frontier districts?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Programmes involved extensive international collaboration."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "There were large-scale public programmes."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Programmes were primarily focused on economic development."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "There were no large programmes as they visited frontier districts to meet soldiers."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Kiren Rijiju explicitly recalled, 'there were no large programmes as we visited frontier districts to meet soldiers', indicating a focused, smaller-scale approach.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-14"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-24T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-24.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Wall Street saw a significant rally after Nvidia reinstated Jensen Huang as CEO. What was the immediate impact on Nvidia's shares?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nvidia shares fell by 10%."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Nvidia shares surged 32.2%, on track for their biggest one-day jump in more than two decades."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Nvidia shares remained stable with no significant change."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Nvidia shares experienced a modest increase of 5%."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source clearly states, 'Nvidia shares surged 32.2%, on track for their biggest one-day jump in more than two decades'.\nSource: https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-15"
+        },
+        {
+          "prompt": {
+            "en": "The reinstatement of Jensen Huang as Nvidia CEO followed input from the U.S. government. Which specific U.S. official welcomed this move?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Secretary of Commerce."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Treasury Secretary."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "U.S. President Donald Trump."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Federal Reserve Chairman."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt directly quotes, 'U.S. President Donald Trump welcomed the move as a “correct and proper decision”'.\nSource: https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-16"
+        },
+        {
+          "prompt": {
+            "en": "The IRDAI expert panel on distribution and commission reforms is expected to recommend measures to support which specific entities in the insurance sector?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Smaller insurers and distributors."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Government-owned insurance companies exclusively."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Foreign portfolio investors in the insurance market."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Only large multinational insurance corporations."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The committee's objective is 'to address concerns of smaller insurers and distributors', indicating these are the entities to be supported.\nSource: https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-17"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of Mahanadi Coalfields' Initial Public Offering (IPO) on its final day?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was partially subscribed."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It was undersubscribed."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It was fully subscribed."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was withdrawn due to lack of interest."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states, 'Mahanadi Coalfields IPO fully subscribed on final day'.\nSource: https://www.thehindu.com/business/mahanadi-coalfields-ipo-fully-subscribed-on-final-day/article71736093.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/mahanadi-coalfields-ipo-fully-subscribed-on-final-day/article71736093.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-18"
+        },
+        {
+          "prompt": {
+            "en": "Projections indicate that India will have 1.38 crore white-collar jobs by 2027. This figure represents a forecast for which specific type of employment?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Blue-collar jobs."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Agricultural jobs."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "White-collar jobs."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Informal sector jobs."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source directly states, 'India will have 1.38 crore white-collar jobs in 2027', specifying the type of jobs.\nSource: https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-19"
+        },
+        {
+          "prompt": {
+            "en": "President Trump's pressure on Nvidia to reappoint Jensen Huang had a significant financial impact. How much value did Huang's comeback help add to the company's stock?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1 trillion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$100 billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$500 billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$2 trillion"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that Huang's comeback 'helped add $1tn to the company's stock value', where $1tn signifies $1 trillion.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-20"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang's role was described as crucial in Nvidia's journey. What specific technological area is he considered a 'lynchpin' of?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Biotechnology"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "AI"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Renewable energy"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Space exploration"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states Huang's role as 'lynchpin of AI' was crucial.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-21"
+        },
+        {
+          "prompt": {
+            "en": "The jump in Nvidia shares after Jensen Huang's return had a broader positive effect on the stock markets. Which tech-heavy index saw a significant rise?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nasdaq"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "S&P 500"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "FTSE 100"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Dow Jones Industrial Average"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'the tech-heavy Nasdaq up 6.5%' was lifted by the jump in Nvidia shares.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-22"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang, the Nvidia chief executive, has been central to which major economic and technological phenomenon?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The e-commerce revolution."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The dot-com bubble."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The cryptocurrency surge."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The artificial intelligence boom."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source clearly states that Jensen Huang 'has been at the centre of the artificial intelligence boom'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-23"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang's return to Nvidia is described as remarkable. What was the context of his resignation prior to his return?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Due to health reasons."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To pursue other business ventures."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Following a disagreement with the board."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "While mired in scandal of extra-marital affairs."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states he resigned 'while mired in scandal of extra-marital affairs', providing the context for his departure.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-24"
+        },
+        {
+          "prompt": {
+            "en": "The US is set to blacklist an Asian AI firm named Megaspeed. What is the accusation against Megaspeed that led to this decision?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Intellectual property theft from US companies."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Engaging in unfair trade practices in the AI sector."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Developing AI technology for military applications without US approval."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Funneling AI chips to China after a former executive's affair with Jensen Huang became public."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states that 'Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-25"
+        },
+        {
+          "prompt": {
+            "en": "The reinstatement of Jensen Huang as CEO led to Nvidia shares being on track for their biggest one-day jump in how long?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "More than three decades."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than a decade."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than two decades."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More than five years."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states Nvidia shares were 'on track for their biggest one-day jump in more than two decades'.\nSource: https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-26"
+        },
+        {
+          "prompt": {
+            "en": "Following Jensen Huang's return, Nvidia's value climbed by almost $1 trillion. What was the percentage increase in the tech-heavy Nasdaq index?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "3.2%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "8.0%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "4.5%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "6.5%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source specifies that 'the tech-heavy Nasdaq up 6.5%' after Nvidia's value climbed.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-27"
+        },
+        {
+          "prompt": {
+            "en": "The US blacklisting of Megaspeed is linked to the Nvidia scandal. What specific action is Megaspeed accused of regarding AI chips?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Exporting AI chips to sanctioned entities."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Manufacturing counterfeit AI chips."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Funneling AI chips to China."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Developing AI chips with stolen US technology."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt directly states that 'Megaspeed has been accused of funneling AI chips to China'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-28"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-24T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-24.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Pixxel and IIT Kanpur have partnered for hyperspectral imaging and AI research. What is the primary aim of this initiative?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To strengthen environmental monitoring and analysis through advanced multi-sensor data fusion and next-generation remote sensing applications."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To develop new satellite communication technologies."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To create AI-powered solutions for urban planning."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To research new materials for spacecraft construction."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states the initiative 'aims to strengthen environmental monitoring and analysis through advanced multi-sensor data fusion and next-generation remote sensing applications'.\nSource: https://www.thehindu.com/business/Industry/pixxel-iit-kanpur-join-hands-for-hyperspectral-imaging-ai-research/article71735977.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/business/Industry/pixxel-iit-kanpur-join-hands-for-hyperspectral-imaging-ai-research/article71735977.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-29"
+        },
+        {
+          "prompt": {
+            "en": "Researchers from Kerala have linked the regular use of fairness creams to nephrotic syndrome. What toxic substance was found in high levels in the blood and urine samples of affected patients?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lead"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mercury"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Arsenic"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cadmium"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that 'Heavy metal screening... revealed high levels of mercury', linking it to the nephrotic syndrome cases.\nSource: https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-30"
+        },
+        {
+          "prompt": {
+            "en": "The Japan-Europe spacecraft BepiColombo has begun its orbit of Mercury. Which of the following is a question the mission seeks to answer about Mercury?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Whether it has liquid water oceans."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Why it has a magnetic field."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Why it has rings like Saturn."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "If it supports extraterrestrial life."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states, 'The mission will seek to answer questions about Mercury such as why it has a magnetic field'.\nSource: https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-31"
+        },
+        {
+          "prompt": {
+            "en": "An opinion piece argues that Indian science needs fewer borders. What is one of the key requirements listed for research institutions to improve?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "More government control over research topics."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased administrative burdens."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Reduced autonomy."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Timely funding, better teaching incentives, greater autonomy, leadership control, safeguards against quid pro quo, and reduced administrative burdens."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt lists 'timely funding, better teaching incentives, greater autonomy, leadership control, safeguards against quid pro quo, and reduced administrative burdens' as needs for research institutions.\nSource: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-32"
+        },
+        {
+          "prompt": {
+            "en": "The Bay of Bengal has experienced three cyclones in three weeks, a frequency described as uncommon. What trend has been observed regarding the average number of cyclones in the post-monsoon period after 2001?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The average increased."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The average remained stable."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Data is insufficient to determine a trend."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The average decreased."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that the average number of cyclones in the post-monsoon period was 'increasing after 2001'.\nSource: https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-33"
+        },
+        {
+          "prompt": {
+            "en": "A CCMB team has identified genes that spur nerve repair. This discovery raises the possibility of treatment for which medical condition?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Paralysis"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cancer"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Diabetes"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Alzheimer's disease"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title of the source directly links the discovery to raising the 'possibility of paralysis treatment'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-34"
+        },
+        {
+          "prompt": {
+            "en": "The failure of COP31 climate talks is attributed to several factors. Which of the following was NOT mentioned as a reason for torpedoing the talks?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Interests of oil-producing countries."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Lack of scientific consensus on climate change."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A US boycott."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A dispute over finance."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt lists 'Interests of oil-producing countries, a US boycott and a dispute over finance' as reasons for the failure, but does not mention lack of scientific consensus.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-35"
+        },
+        {
+          "prompt": {
+            "en": "The COP31 summit in Antalya was notable for a specific characteristic in UN history. What was it?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It had the highest number of participating countries."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It was the first COP held in Asia."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It achieved the most comprehensive climate agreement."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was the longest-running climate talks in UN history."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states, 'The COP31 summit in Antalya was the longest-running climate talks in UN history'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-36"
+        },
+        {
+          "prompt": {
+            "en": "The COP31 climate talks ended with no deal, exposing deep divisions. Which country co-hosted COP31 and attributed the failure to 'difficult geopolitical times'?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "United Kingdom"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Australia"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Canada"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Germany"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'The prime minister of Australia, which co-hosted COP31, attributed the failure to 'difficult geopolitical times''.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-37"
+        },
+        {
+          "prompt": {
+            "en": "The Japan-Europe spacecraft BepiColombo is visiting Mercury after an eight-year epic voyage. How is Mercury described in relation to the Sun?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The largest planet from the Sun."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The coldest planet from the Sun."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The furthest planet from the Sun."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The closest planet to the Sun."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source describes Mercury as 'the closest planet to the Sun'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-38"
+        },
+        {
+          "prompt": {
+            "en": "Ukrainian drones reportedly hit a Russian warship. In which country did this incident occur, according to Zelensky?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Crimea"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Syria"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Black Sea"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Libya"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source title clearly states, 'Russian warship hit by Ukrainian drones in Libya, Zelensky says'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-39"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-24T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CBI facilitates return of murder accused from Kazakhstan",
+      "url": "https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+      "published": "2026-11-24T02:58:22+05:30"
+    },
+    {
+      "title": "Manik Saha says party probing presence of masked men in BJP election rally",
+      "url": "https://www.thehindu.com/news/national/tripura/manik-saha-says-party-probing-presence-of-masked-men-in-bjp-election-rally/article71736249.ece",
+      "published": "2026-11-24T02:44:23+05:30"
+    },
+    {
+      "title": "Close to realising PM Narendra Modi’s dream for Kashmir, says Kiren Rijiju",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+      "published": "2026-11-24T02:32:38+05:30"
+    },
+    {
+      "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+      "published": "2026-11-24T02:29:04+05:30"
+    },
+    {
+      "title": "Rajasthan women’s varsity signs MoU with BRICS nations for global leadership centre",
+      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+      "published": "2026-11-24T02:15:25+05:30"
+    },
+    {
+      "title": "Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+      "published": "2026-11-24T02:04:05+05:30"
+    },
+    {
+      "title": "Wall Street roars back as Nvidia reinstates Jensen Huang as CEO",
+      "url": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+      "published": "2026-11-23T23:45:34+05:30"
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+      "published": "2026-11-23T23:45:03+05:30"
+    },
+    {
+      "title": "IRDAI forms expert panel on distribution, commission reforms",
+      "url": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+      "published": "2026-11-23T23:24:44+05:30"
+    },
+    {
+      "title": "Mahanadi Coalfields IPO fully subscribed on final day",
+      "url": "https://www.thehindu.com/business/mahanadi-coalfields-ipo-fully-subscribed-on-final-day/article71736093.ece",
+      "published": "2026-11-23T23:05:09+05:30"
+    },
+    {
+      "title": "India will have 1.38 crore white-collar jobs in 2027",
+      "url": "https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+      "published": "2026-11-23T22:50:42+05:30"
+    },
+    {
+      "title": "Pixxel, IIT Kanpur join hands for hyperspectral imaging, AI research",
+      "url": "https://www.thehindu.com/business/Industry/pixxel-iit-kanpur-join-hands-for-hyperspectral-imaging-ai-research/article71735977.ece",
+      "published": "2026-11-23T22:46:43+05:30"
+    },
+    {
+      "title": "In search of skin lightening creams, kidneys take a hit",
+      "url": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
+      "published": "2026-11-23T13:13:44+05:30"
+    },
+    {
+      "title": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
+      "url": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+      "published": "2026-11-23T10:54:30+05:30"
+    },
+    {
+      "title": "Indian science needs fewer borders",
+      "url": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+      "published": "2026-11-22T23:51:56+05:30"
+    },
+    {
+      "title": "Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained",
+      "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+      "published": "2026-11-22T10:48:02+05:30"
+    },
+    {
+      "title": "CCMB team identifies genes that spur nerve repair, raise possibility of paralysis treatment",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+      "published": "2026-11-21T12:34:36+05:30"
+    },
+    {
+      "title": "India pledges $1.6bn to Nepal in reset of ties",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:39:30+00:00"
+    },
+    {
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T23:10:27+00:00"
+    },
+    {
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T17:11:58+00:00"
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T21:23:42+00:00"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T16:12:35+00:00"
+    },
+    {
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:49:52+00:00"
+    },
+    {
+      "title": "What failure of COP31 reveals about a divided world",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T17:24:25+00:00"
+    },
+    {
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T06:33:50+00:00"
+    },
+    {
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T05:15:06+00:00"
+    },
+    {
+      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T10:44:12+00:00"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T23:16:08+00:00"
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:41:23+00:00"
+    }
+  ]
+}

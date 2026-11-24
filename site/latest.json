@@ -1,726 +1,656 @@
 {
   "schema_version": 2,
-  "date": "2026-11-23",
-  "generated_at": "2026-11-22T20:00:06.256390+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:23:06.996405+00:00",
   "status": "ready",
   "sets": [
     {
       "title": "National Affairs, Policy & Governance",
-      "source_filename": "daily-2026-11-23.json",
+      "source_filename": "daily-2026-11-24.json",
       "questions": [
         {
           "prompt": {
-            "en": "In a recent Mumbai assault case, police registered the case under sections of which new legal code?",
-            "hi": "हाल ही में मुंबई हमले के मामले में पुलिस ने किस नई कानूनी संहिता की धाराओं के तहत मामला दर्ज किया?"
+            "en": "The CBI recently facilitated the return of a murder accused from Kazakhstan. In which city of Kazakhstan was the accused tracked down?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The Indian Penal Code, 1860",
-                "hi": "भारतीय दंड संहिता, 1860"
+                "en": "Almaty"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The Code of Criminal Procedure, 1973",
-                "hi": "दंड प्रक्रिया संहिता, 1973"
+                "en": "Shymkent"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The Juvenile Justice (Care and Protection of Children) Act, 2015",
-                "hi": "किशोर न्याय (बच्चों की देखभाल और संरक्षण) अधिनियम, 2015"
+                "en": "Astana"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The Bharatiya Nyaya Sanhita, 2023",
-                "hi": "भारतीय न्याय संहिता, 2023"
+                "en": "Karaganda"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that the accused, Ashish Kumar, was 'tracked down to Almaty airport in Kazakhstan', confirming Almaty as the city.\nSource: https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-1"
+        },
+        {
+          "prompt": {
+            "en": "Tripura Chief Minister Manik Saha commented on the presence of masked men in a BJP election rally. What was his stance on such behaviour?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He supported it as a form of protest."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He dismissed it as a minor incident not requiring party intervention."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He stated the party does not approve of such behaviour and is inquiring into the matter."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He indicated it was a security measure for party workers."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Manik Saha's direct quote, 'our party does not approve such behaviour from our ranks. The party is inquiring into the matter and will follow up,' clearly indicates his stance.\nSource: https://www.thehindu.com/news/national/tripura/manik-saha-says-party-probing-presence-of-masked-men-in-bjp-election-rally/article71736249.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tripura/manik-saha-says-party-probing-presence-of-masked-men-in-bjp-election-rally/article71736249.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-2"
+        },
+        {
+          "prompt": {
+            "en": "Union Minister Kiren Rijiju recently stated that they are close to realizing PM Narendra Modi’s dream for Kashmir. What specific activity did he recall undertaking to discuss this dream?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Organizing large public rallies in Srinagar."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Holding extensive consultations with local political leaders."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Launching new development projects across the valley."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Visiting frontier districts to meet soldiers and discuss how to realise the dream."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The excerpt explicitly states that the case was 'registered under sections ... of the Bharatiya Nyaya Sanhita, 2023', indicating the use of this new legal code.\nSource: https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है कि मामला 'भारतीय न्याय संहिता, 2023 की धाराओं के तहत पंजीकृत' था, जो इस नए कानूनी कोड के उपयोग का संकेत देता है।\nस्रोत: https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece"
+            "en": "Kiren Rijiju explicitly stated, 'we visited frontier districts to meet soldiers and discuss how to realise the dream of PM Modi,' which directly answers the question.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+            "hi": null
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-1"
+          "id": "2026-11-24-3"
         },
         {
           "prompt": {
-            "en": "According to a former Minister, what percentage of Group A posts are vacant at PGIMS Rohtak?",
-            "hi": "एक पूर्व मंत्री के अनुसार पीजीआईएमएस रोहतक में ग्रुप ए के कितने प्रतिशत पद खाली हैं?"
+            "en": "The Madras High Court recently asked if a bank manager would accept an apology from Kayalvizhi Alagiri. What was the context of the potential closure of criminal prosecution against the accused?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Under 20%",
-                "hi": "20% से कम"
+                "en": "The victim was subjected to physical assault and the police were given time to ascertain if the victim would agree for closure."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Around 30%",
-                "hi": "लगभग 30%"
+                "en": "The accused offered financial compensation to the victim."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Over 40%",
-                "hi": "40% से अधिक"
+                "en": "The court found insufficient evidence to proceed with the case."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Nearly 50%",
-                "hi": "लगभग 50%"
+                "en": "The accused agreed to perform community service as a form of penance."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that the police were granted time 'to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused', establishing the context of the physical assault and the victim's consent for closure.\nSource: https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-4"
+        },
+        {
+          "prompt": {
+            "en": "A Rajasthan women’s varsity signed an MoU with BRICS nations for a global leadership centre. What was the primary focus of the summit during which this MoU was signed?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Promoting technological innovation and digital literacy among women."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Promoting women’s leadership, cultural exchanges, and mutual cooperation and innovative research across the 11 BRICS member countries."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Enhancing economic cooperation and trade agreements between BRICS members."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Discussing strategies for climate change mitigation and sustainable development."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source clearly states the summit 'focused on promoting women’s leadership, cultural exchanges, and mutual cooperation and innovative research across the 11 BRICS member countries'.\nSource: https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-5"
+        },
+        {
+          "prompt": {
+            "en": "The news mentions a proposal for extending scholarships to Sri Lankan students. For what specific purpose is this scholarship being proposed?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To pursue engineering education in Tamil Nadu."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To undertake research in agricultural sciences in India."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To pursue medical education in Tamil Nadu."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To study humanities and social sciences in Indian universities."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The excerpt directly states, 'Over 40% Group A posts vacant at PGIMS Rohtak, says former Minister'.\nSource: https://www.thehindu.com/news/national/haryana/over-40-group-a-posts-vacant-atpgimsrohtak-says-former-minister/article71731991.ece",
-            "hi": "अंश में सीधे तौर पर कहा गया है, 'पूर्व मंत्री का कहना है, 'पीजीआईएमएस रोहतक में ग्रुप ए के 40% से अधिक पद खाली हैं।'\nस्रोत: https://www.thehindu.com/news/national/haryana/over-40-group-a-posts-vacant-atpgimsrohtak-says-former-minister/article71731991.ece"
+            "en": "The title of the source explicitly states 'Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+            "hi": null
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/haryana/over-40-group-a-posts-vacant-atpgimsrohtak-says-former-minister/article71731991.ece",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-2"
+          "id": "2026-11-24-6"
         },
         {
           "prompt": {
-            "en": "Which institution is reported to have over 40% Group A posts vacant?",
-            "hi": "किस संस्थान में ग्रुप ए के 40% से अधिक पद रिक्त होने की सूचना है?"
+            "en": "IRDAI has formed an expert panel on distribution and commission reforms. What is one of the key objectives of this committee regarding the transition pathways?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "PGIMS Rohtak",
-                "hi": "पीजीआईएमएस,रोहतक"
+                "en": "To completely overhaul the existing commission structure without any phased approach."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "AIIMS Delhi",
-                "hi": "एम्स दिल्ली"
+                "en": "To increase the regulatory burden on all insurers and distributors."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "JIPMER Puducherry",
-                "hi": "JIPMER पुडुचेरी"
+                "en": "To recommend transition pathways, including phased implementation and supportive measures, to address concerns of smaller insurers and distributors."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "NIMHANS Bengaluru",
-                "hi": "निमहंस बेंगलुरु"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The source explicitly mentions 'Over 40% Group A posts vacant at PGIMS Rohtak'.\nSource: https://www.thehindu.com/news/national/haryana/over-40-group-a-posts-vacant-atpgimsrohtak-says-former-minister/article71731991.ece",
-            "hi": "स्रोत में स्पष्ट रूप से 'पीजीआईएमएस रोहतक में ग्रुप ए के 40% से अधिक पद खाली' का उल्लेख है।\nस्रोत: https://www.thehindu.com/news/national/haryana/over-40-group-a-posts-vacant-atpgimsrohtak-says-former-minister/article71731991.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/haryana/over-40-group-a-posts-vacant-atpgimsrohtak-says-former-minister/article71731991.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-3"
-        },
-        {
-          "prompt": {
-            "en": "The historic Lavi Fair is traditionally held in which region of India?",
-            "hi": "ऐतिहासिक लवी मेला पारंपरिक रूप से भारत के किस क्षेत्र में आयोजित किया जाता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Himachal Pradesh",
-                "hi": "हिमाचल प्रदेश"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Jammu & Kashmir",
-                "hi": "जम्मू एवं कश्मीर"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Uttarakhand",
-                "hi": "उत्तराखंड"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Sikkim",
-                "hi": "सिक्किम"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt states, 'Rampur Bushahr’s Lavi Fair in Himachal Pradesh', clearly locating the fair in Himachal Pradesh.\nSource: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-            "hi": "अंश में कहा गया है, 'हिमाचल प्रदेश में रामपुर बुशहर का लवी मेला', स्पष्ट रूप से हिमाचल प्रदेश में मेले का पता लगाता है।\nस्रोत: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-4"
-        },
-        {
-          "prompt": {
-            "en": "The Lavi Fair in Rampur Bushahr traces a historical journey from traditional trade practices to modern economic activities. What does it currently include?",
-            "hi": "रामपुर बुशहर में लवी मेला पारंपरिक व्यापार प्रथाओं से लेकर आधुनिक आर्थिक गतिविधियों तक की ऐतिहासिक यात्रा का पता लगाता है। इसमें वर्तमान में क्या शामिल है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Women entrepreneurs and digital payments",
-                "hi": "महिला उद्यमी और डिजिटल भुगतान"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Focus on agricultural produce and livestock",
-                "hi": "कृषि उपज और पशुधन पर ध्यान दें"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Only wool and barter systems",
-                "hi": "केवल ऊन और वस्तु विनिमय प्रणाली"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Exclusive trade of precious metals",
-                "hi": "कीमती धातुओं का विशेष व्यापार"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The source highlights that the Lavi Fair 'traces a Himalayan journey from wool and barter to women entrepreneurs and digital payments', indicating its evolution to include modern economic elements.\nSource: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-            "hi": "स्रोत इस बात पर प्रकाश डालता है कि लवी मेला 'ऊन और वस्तु विनिमय से लेकर महिला उद्यमियों और डिजिटल भुगतान तक की हिमालयी यात्रा का पता लगाता है', जो आधुनिक आर्थिक तत्वों को शामिल करने के लिए इसके विकास का संकेत देता है।\nस्रोत: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-5"
-        },
-        {
-          "prompt": {
-            "en": "What is the overarching reform suggested for Indian science to foster better progress and collaboration?",
-            "hi": "बेहतर प्रगति और सहयोग को बढ़ावा देने के लिए भारतीय विज्ञान के लिए सुझाया गया व्यापक सुधार क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Increased international competition",
-                "hi": "अंतर्राष्ट्रीय प्रतिस्पर्धा में वृद्धि"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Fewer borders",
-                "hi": "कम सीमाएँ"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "More centralized control",
-                "hi": "अधिक केन्द्रीकृत नियंत्रण"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Stricter regulatory frameworks",
-                "hi": "सख्त नियामक ढाँचे"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The title of the article directly states, 'Indian science needs fewer borders', encapsulating the main reform suggested.\nSource: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
-            "hi": "लेख का शीर्षक सीधे तौर पर बताता है, 'भारतीय विज्ञान को कम सीमाओं की आवश्यकता है', जो सुझाए गए मुख्य सुधार को दर्शाता है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-6"
-        },
-        {
-          "prompt": {
-            "en": "According to the opinion piece, which of the following is NOT listed as a requirement for Indian research institutions?",
-            "hi": "राय के अनुसार, निम्नलिखित में से क्या भारतीय अनुसंधान संस्थानों के लिए आवश्यकता के रूप में सूचीबद्ध नहीं है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Increased administrative burdens",
-                "hi": "प्रशासनिक बोझ बढ़ा"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Timely funding",
-                "hi": "समय पर फंडिंग"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Greater autonomy",
-                "hi": "अधिक स्वायत्तता"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Better teaching incentives",
-                "hi": "बेहतर शिक्षण प्रोत्साहन"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt explicitly states that research institutions need 'reduced administrative burdens', making 'increased administrative burdens' the incorrect option.\nSource: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है कि अनुसंधान संस्थानों को 'कम प्रशासनिक बोझ' की आवश्यकता है, जो 'बढ़े हुए प्रशासनिक बोझ' को गलत विकल्प बनाता है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-7"
-        },
-        {
-          "prompt": {
-            "en": "What is a key characteristic of 'Project Cheetah' as highlighted in the provided source?",
-            "hi": "दिए गए स्रोत में हाइलाइट किए गए 'प्रोजेक्ट चीता' की प्रमुख विशेषता क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "It focuses on marine conservation.",
-                "hi": "यह समुद्री संरक्षण पर केंद्रित है।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "It is the first intercontinental transfer of wild cats.",
-                "hi": "यह जंगली बिल्लियों का पहला अंतरमहाद्वीपीय स्थानांतरण है।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "It aims to reintroduce extinct species.",
-                "hi": "इसका उद्देश्य विलुप्त प्रजातियों को फिर से प्रस्तुत करना है।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "It involves only domestic animal relocation.",
-                "hi": "इसमें केवल घरेलू पशुओं का स्थानांतरण शामिल है।"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source describes 'Project Cheetah' as 'the first intercontinental transfer of wild cats into the country', highlighting its unique nature.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
-            "hi": "स्रोत 'प्रोजेक्ट चीता' को 'देश में जंगली बिल्लियों का पहला अंतरमहाद्वीपीय स्थानांतरण' के रूप में वर्णित करता है, जो इसकी अनूठी प्रकृति पर प्रकाश डालता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-8"
-        },
-        {
-          "prompt": {
-            "en": "The provided source offers information on 'Project Cheetah' in what specific format?",
-            "hi": "प्रदान किया गया स्रोत 'प्रोजेक्ट चीता' पर किस विशिष्ट प्रारूप में जानकारी प्रदान करता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A video explainer",
-                "hi": "एक वीडियो व्याख्याता"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A policy document",
-                "hi": "एक नीति दस्तावेज़"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A detailed research paper",
-                "hi": "एक विस्तृत शोध पत्र"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "An infographic series",
-                "hi": "एक इन्फोग्राफिक श्रृंखला"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The source explicitly states, 'A video explainer on 'Project Cheetah'', indicating the format of the information.\nSource: https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
-            "hi": "स्रोत स्पष्ट रूप से बताता है, 'प्रोजेक्ट चीता' पर एक वीडियो व्याख्याता, जानकारी के प्रारूप को दर्शाता है।\nस्रोत: https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-9"
-        },
-        {
-          "prompt": {
-            "en": "In the Mumbai assault case involving juveniles, who registered the case and produced the individuals before the Board?",
-            "hi": "किशोरों से जुड़े मुंबई हमले के मामले में किसने मामला दर्ज किया और व्यक्तियों को बोर्ड के समक्ष पेश किया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The victims' families",
-                "hi": "पीड़ित परिवार"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Police",
-                "hi": "पुलिस"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The local municipality",
-                "hi": "स्थानीय नगर पालिका"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A non-governmental organization",
-                "hi": "एक गैर सरकारी संगठन"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt clearly states, 'Police registered a case and produced all eight before the Board', indicating the police's role.\nSource: https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'पुलिस ने मामला दर्ज किया और सभी आठों को बोर्ड के सामने पेश किया', जो पुलिस की भूमिका को दर्शाता है।\nस्रोत: https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece"
-          },
-          "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-10"
-        },
-        {
-          "prompt": {
-            "en": "The Lavi Fair in Rampur is characterized by its long history and cultural significance. What is a key aspect of its identity?",
-            "hi": "रामपुर का लवी मेला अपने लंबे इतिहास और सांस्कृतिक महत्व के कारण जाना जाता है। इसकी पहचान का प्रमुख पहलू क्या है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Modern art exhibitions",
-                "hi": "आधुनिक कला प्रदर्शनियाँ"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "International culinary festivals",
-                "hi": "अंतर्राष्ट्रीय पाक त्यौहार"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Storytelling through 300 years of Himalayan trade and tradition",
-                "hi": "300 वर्षों के हिमालयी व्यापार और परंपरा के माध्यम से कहानी सुनाना"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Contemporary music concerts",
-                "hi": "समसामयिक संगीत समारोह"
+                "en": "To primarily focus on increasing the market share of larger insurance companies."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The title of the article describes the fair as 'Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition', highlighting its historical and cultural narrative.\nSource: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-            "hi": "लेख का शीर्षक मेले का वर्णन 'रामपुर का लवी मेला: 300 वर्षों के हिमालयी व्यापार और परंपरा के माध्यम से कहानी' के रूप में करता है, जो इसके ऐतिहासिक और सांस्कृतिक आख्यान पर प्रकाश डालता है।\nस्रोत: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+            "en": "The excerpt states the committee's role is to 'recommend transition pathways, including phased implementation and supportive measures, to address concerns of smaller insurers and distributors'.\nSource: https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+            "hi": null
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-11"
+          "id": "2026-11-24-7"
         },
         {
           "prompt": {
-            "en": "Beyond timely funding, what other crucial support is advocated for Indian research institutions to improve their functioning?",
-            "hi": "समय पर वित्त पोषण के अलावा, भारतीय अनुसंधान संस्थानों को अपने कामकाज में सुधार के लिए और किस महत्वपूर्ण सहायता की वकालत की जाती है?"
+            "en": "According to projections, how many white-collar jobs is India expected to have by the year 2027?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Stricter government oversight",
-                "hi": "सख्त सरकारी निरीक्षण"
+                "en": "1.05 crore"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Better teaching incentives and greater autonomy",
-                "hi": "बेहतर शिक्षण प्रोत्साहन और अधिक स्वायत्तता"
+                "en": "1.38 crore"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Increased bureaucratic procedures",
-                "hi": "नौकरशाही प्रक्रियाओं में वृद्धि"
+                "en": "1.50 crore"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Reduced leadership control",
-                "hi": "नेतृत्व नियंत्रण में कमी"
+                "en": "1.75 crore"
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The source lists 'better teaching incentives, greater autonomy, leadership control, safeguards against quid pro quo, and reduced administrative burdens' as needs for research institutions, alongside timely funding.\nSource: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
-            "hi": "स्रोत समय पर वित्त पोषण के साथ-साथ अनुसंधान संस्थानों की जरूरतों के रूप में 'बेहतर शिक्षण प्रोत्साहन, अधिक स्वायत्तता, नेतृत्व नियंत्रण, बदले की भावना के खिलाफ सुरक्षा उपाय और कम प्रशासनिक बोझ' को सूचीबद्ध करता है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece"
+            "en": "The source explicitly states, 'India will have 1.38 crore white-collar jobs in 2027'.\nSource: https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+            "hi": null
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+          "source_label": "https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-12"
+          "id": "2026-11-24-8"
         },
         {
           "prompt": {
-            "en": "What specific type of burden is suggested to be reduced for research institutions to enhance their efficiency?",
-            "hi": "अनुसंधान संस्थानों को अपनी दक्षता बढ़ाने के लिए किस विशिष्ट प्रकार के बोझ को कम करने का सुझाव दिया गया है?"
+            "en": "India recently pledged $1.6 billion to Nepal. What is this pledge intended to achieve in the bilateral relationship?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Financial burdens",
-                "hi": "वित्तीय बोझ"
+                "en": "To reset ties as Nepal rebuilds after deadly floods, securing Indian funding, port access and a new train service."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Administrative burdens",
-                "hi": "प्रशासनिक बोझ"
+                "en": "To support Nepal's tourism industry after the pandemic."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Research burdens",
-                "hi": "अनुसंधान का बोझ"
+                "en": "To fund Nepal's defence modernization programs."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Teaching burdens",
-                "hi": "शिक्षण का बोझ"
+                "en": "To establish new cultural exchange programs between the two nations."
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The excerpt explicitly mentions 'reduced administrative burdens' as a need for research institutions.\nSource: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
-            "hi": "अंश में स्पष्ट रूप से अनुसंधान संस्थानों की आवश्यकता के रूप में 'कम प्रशासनिक बोझ' का उल्लेख किया गया है।\nस्रोत: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece"
+            "en": "The source states that Nepal's prime minister secured Indian funding, port access, and a new train service 'As Nepal rebuilds after deadly floods' to 'reset of ties'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-13"
+          "id": "2026-11-24-9"
         },
         {
           "prompt": {
-            "en": "The Lavi Fair, historically known for wool and barter, has evolved to include which modern economic elements?",
-            "hi": "लवी मेला, जो ऐतिहासिक रूप से ऊन और वस्तु विनिमय के लिए जाना जाता है, किन आधुनिक आर्थिक तत्वों को शामिल करने के लिए विकसित हुआ है?"
+            "en": "The MoU signed by a Rajasthan women's varsity with BRICS nations aims to establish a global leadership centre. How many BRICS member countries are involved in the broader cooperation discussed at the summit?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Only cash transactions",
-                "hi": "केवल नकद लेनदेन"
+                "en": "9"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Women entrepreneurs and digital payments",
-                "hi": "महिला उद्यमी और डिजिटल भुगतान"
+                "en": "5"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Bartering for services",
-                "hi": "सेवाओं के लिए वस्तु विनिमय"
+                "en": "11"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Exclusive use of foreign currency",
-                "hi": "विदेशी मुद्रा का विशेष उपयोग"
+                "en": "15"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt specifies that the summit focused on cooperation 'across the 11 BRICS member countries'.\nSource: https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-10"
+        },
+        {
+          "prompt": {
+            "en": "Beyond financial funding, what other key benefits did Nepal secure from India as part of the recent pledge?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Preferential trade agreements and visa-free travel."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Port access and a new train service."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Educational scholarships and cultural grants."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Military training and intelligence sharing."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The source states the fair's journey evolved 'from wool and barter to women entrepreneurs and digital payments', indicating these modern elements.\nSource: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-            "hi": "सूत्र का कहना है कि मेले की यात्रा 'ऊन और वस्तु विनिमय से महिला उद्यमियों और डिजिटल भुगतान तक' विकसित हुई, जो इन आधुनिक तत्वों का संकेत देती है।\nस्रोत: https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+            "en": "The source explicitly mentions that Nepal secured 'port access and a new train service' in addition to Indian funding.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "National Affairs, Policy & Governance",
-          "source_label": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-14"
+          "id": "2026-11-24-11"
+        },
+        {
+          "prompt": {
+            "en": "The IRDAI expert panel on distribution and commission reforms is tasked with addressing concerns of which specific stakeholders?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Only large, established insurance companies."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Smaller insurers and distributors."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Foreign institutional investors in the insurance sector."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Policyholders and consumers directly."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The committee's mandate is specifically 'to address concerns of smaller insurers and distributors'.\nSource: https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-12"
+        },
+        {
+          "prompt": {
+            "en": "In the case before the Madras High Court involving Kayalvizhi Alagiri, what is the police's immediate task regarding the victim?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To provide security to the victim."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To investigate further details of the physical assault."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To mediate a financial settlement between the parties."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The court granted time for the police 'to find out if the victim, subjected to physical assault, would agree for closure of criminal prosecution against the accused'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-13"
+        },
+        {
+          "prompt": {
+            "en": "Kiren Rijiju's statement about realizing PM Modi's dream for Kashmir highlights a specific approach taken. What was notable about the scale of programmes during his visits to frontier districts?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Programmes involved extensive international collaboration."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "There were large-scale public programmes."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Programmes were primarily focused on economic development."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "There were no large programmes as they visited frontier districts to meet soldiers."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Kiren Rijiju explicitly recalled, 'there were no large programmes as we visited frontier districts to meet soldiers', indicating a focused, smaller-scale approach.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+            "hi": null
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-14"
         }
       ],
       "quarantined": [],
@@ -728,725 +658,655 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 1,
-      "release_at": "2026-11-23T06:30:00+05:30"
+      "release_at": "2026-11-24T06:30:00+05:30"
     },
     {
       "title": "Economy, Business & Finance",
-      "source_filename": "daily-2026-11-23.json",
+      "source_filename": "daily-2026-11-24.json",
       "questions": [
         {
           "prompt": {
-            "en": "Despite a low base effect, which sectors in India failed to show growth according to the editorial on core sector performance?",
-            "hi": "कम आधार प्रभाव के बावजूद, मुख्य क्षेत्र के प्रदर्शन पर संपादकीय के अनुसार भारत में कौन से क्षेत्र वृद्धि दिखाने में विफल रहे?"
+            "en": "Wall Street saw a significant rally after Nvidia reinstated Jensen Huang as CEO. What was the immediate impact on Nvidia's shares?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Coal and electricity",
-                "hi": "कोयला और बिजली"
+                "en": "Nvidia shares fell by 10%."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Oil and gas",
-                "hi": "तेल और गैस"
+                "en": "Nvidia shares surged 32.2%, on track for their biggest one-day jump in more than two decades."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Steel and cement",
-                "hi": "स्टील और सीमेंट"
+                "en": "Nvidia shares remained stable with no significant change."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Fertilizers and refinery products",
-                "hi": "उर्वरक और रिफाइनरी उत्पाद"
+                "en": "Nvidia shares experienced a modest increase of 5%."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The excerpt clearly states, 'Even a low base effect could not push India’s oil and gas sectors into growth', identifying these as the sectors that did not grow.\nSource: https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'यहां तक कि कम आधार प्रभाव भी भारत के तेल और गैस क्षेत्रों को विकास में नहीं धकेल सका', इनकी पहचान उन क्षेत्रों के रूप में की गई है जो विकास नहीं कर सके।\nस्रोत: https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece"
+            "en": "The source clearly states, 'Nvidia shares surged 32.2%, on track for their biggest one-day jump in more than two decades'.\nSource: https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece",
+          "source_label": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-15"
+          "id": "2026-11-24-15"
         },
         {
           "prompt": {
-            "en": "What specific proposal by SEBI has drawn criticism from the Congress party?",
-            "hi": "सेबी के किस विशिष्ट प्रस्ताव की कांग्रेस पार्टी ने आलोचना की है?"
+            "en": "The reinstatement of Jensen Huang as Nvidia CEO followed input from the U.S. government. Which specific U.S. official welcomed this move?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "To remove disclosure norms for FPIs",
-                "hi": "एफपीआई के लिए प्रकटीकरण मानदंडों को हटाना"
+                "en": "The Secretary of Commerce."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "To introduce new taxes on FPI investments",
-                "hi": "एफपीआई निवेश पर नये कर लगाना"
+                "en": "The Treasury Secretary."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "To increase trading hours for FPIs",
-                "hi": "एफपीआई के लिए ट्रेडिंग घंटे बढ़ाना"
+                "en": "U.S. President Donald Trump."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "To mandate higher domestic investment by FPIs",
-                "hi": "एफपीआई द्वारा उच्च घरेलू निवेश को अनिवार्य बनाना"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The source explicitly mentions 'SEBI’s proposal to remove disclosure norms for FPIs' as the subject of Congress's attack.\nSource: https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
-            "hi": "सूत्र ने स्पष्ट रूप से कांग्रेस के हमले के विषय के रूप में 'एफपीआई के लिए प्रकटीकरण मानदंडों को हटाने के सेबी के प्रस्ताव' का उल्लेख किया है।\nस्रोत: https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-16"
-        },
-        {
-          "prompt": {
-            "en": "Jairam Ramesh emphasized that 'ease of doing business' should not compromise what critical aspect?",
-            "hi": "जयराम रमेश ने इस बात पर जोर दिया कि 'व्यापार करने में आसानी' के किस महत्वपूर्ण पहलू से समझौता नहीं करना चाहिए?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Capital market integrity",
-                "hi": "पूंजी बाजार की अखंडता"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Employment generation",
-                "hi": "रोजगार सृजन"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Government revenue",
-                "hi": "सरकारी राजस्व"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Environmental regulations",
-                "hi": "पर्यावरण नियम"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "Jairam Ramesh's statement directly quoted is: 'Ease of doing business cannot come at the cost of capital market integrity'.\nSource: https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
-            "hi": "सीधे तौर पर उद्धृत जयराम रमेश का बयान है: 'कारोबार करने में आसानी पूंजी बाजार की अखंडता की कीमत पर नहीं आ सकती।'\nस्रोत: https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-17"
-        },
-        {
-          "prompt": {
-            "en": "In response to PM Modi's call to stop gold purchases, what balance did the All India Gem & Jewellery Domestic Council (GJC) advocate for?",
-            "hi": "सोने की खरीदारी बंद करने के पीएम मोदी के आह्वान के जवाब में, ऑल इंडिया जेम एंड ज्वैलरी डोमेस्टिक काउंसिल (जीजेसी) ने किस संतुलन की वकालत की?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Global trade and local production",
-                "hi": "वैश्विक व्यापार और स्थानीय उत्पादन"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Economic patriotism and cultural heritage",
-                "hi": "आर्थिक देशभक्ति और सांस्कृतिक विरासत"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Consumer demand and supply chain efficiency",
-                "hi": "उपभोक्ता मांग और आपूर्ति श्रृंखला दक्षता"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Investment in gold and other assets",
-                "hi": "सोने और अन्य परिसंपत्तियों में निवेश"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source states, 'Must balance ‘economic patriotism’ with cultural heritage: GJC on PM Modi’s call to stop gold purchases', directly answering the question.\nSource: https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-            "hi": "सूत्र ने सीधे सवाल का जवाब देते हुए कहा, 'सांस्कृतिक विरासत के साथ 'आर्थिक देशभक्ति' को संतुलित करना चाहिए: सोने की खरीद बंद करने के पीएम मोदी के आह्वान पर जीजेसी'।\nस्रोत: https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-18"
-        },
-        {
-          "prompt": {
-            "en": "What is the approximate contribution of the gold jewellery sector to the Indian economy, and what does it support?",
-            "hi": "भारतीय अर्थव्यवस्था में सोने के आभूषण क्षेत्र का अनुमानित योगदान क्या है और यह किसका समर्थन करता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "1-2% and supports thousands of livelihoods",
-                "hi": "1-2% और हजारों आजीविका का समर्थन करता है"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "3-4% and supports hundreds of thousands of livelihoods",
-                "hi": "3-4% और सैकड़ों हजारों आजीविका का समर्थन करता है"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "10-12% and supports billions of livelihoods",
-                "hi": "10-12% और अरबों आजीविका का समर्थन करता है"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "7-8% and supports millions of livelihoods",
-                "hi": "7-8% और लाखों आजीविका का समर्थन करता है"
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The excerpt clearly states that 'the gold jewellery sector contributes nearly 7-8% to the economy and supports millions of livelihoods'.\nSource: https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है कि 'सोने के आभूषण क्षेत्र अर्थव्यवस्था में लगभग 7-8% योगदान देता है और लाखों आजीविका का समर्थन करता है।'\nस्रोत: https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-19"
-        },
-        {
-          "prompt": {
-            "en": "The recent dive in prices of gold, copper, and aluminium to multi-month lows is primarily attributed to which combination of global economic factors?",
-            "hi": "हाल ही में सोने, तांबे और एल्युमीनियम की कीमतों में कई महीनों के निचले स्तर तक उछाल मुख्य रूप से वैश्विक आर्थिक कारकों के किस संयोजन के कारण है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Increased supply from mining operations and reduced industrial demand.",
-                "hi": "खनन कार्यों से आपूर्ति में वृद्धि और औद्योगिक मांग में कमी।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Hawkish commentary from the U.S. Fed and concerns over global economic growth.",
-                "hi": "यू.एस. फेड की तीखी टिप्पणी और वैश्विक आर्थिक विकास पर चिंताएँ।"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Geopolitical stability and a surge in investor confidence.",
-                "hi": "भू-राजनीतिक स्थिरता और निवेशकों के विश्वास में वृद्धि।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "New technological advancements reducing the need for these metals.",
-                "hi": "नई तकनीकी प्रगति ने इन धातुओं की आवश्यकता को कम कर दिया है।"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source explicitly states, 'Hawkish commentary from U.S. Fed and concerns over global economic growth have been among the more prominent concerns' for the price dive.\nSource: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
-            "hi": "सूत्र ने स्पष्ट रूप से कहा, 'अमेरिकी फेड की तीखी टिप्पणी और वैश्विक आर्थिक विकास पर चिंताएं कीमतों में गिरावट के लिए अधिक प्रमुख चिंताओं में से एक रही हैं।'\nस्रोत: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-20"
-        },
-        {
-          "prompt": {
-            "en": "Which commodities recently experienced a dive to at least 7-month lows?",
-            "hi": "हाल ही में कौन सी कमोडिटी कम से कम 7 महीने के निचले स्तर पर पहुंच गई है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Crude oil, natural gas, and platinum",
-                "hi": "कच्चा तेल, प्राकृतिक गैस और प्लैटिनम"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Gold, copper, and aluminium",
-                "hi": "सोना, तांबा और एल्युमीनियम"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Silver, zinc, and nickel",
-                "hi": "चाँदी, जस्ता और निकल"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Iron ore, lead, and tin",
-                "hi": "लौह अयस्क, सीसा और टिन"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The headline clearly states, 'Gold, copper, aluminium dive to at least 7-month lows', identifying these three commodities.\nSource: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'सोना, तांबा, एल्यूमीनियम कम से कम 7 महीने के निचले स्तर पर पहुंच गए', जो इन तीन वस्तुओं की पहचान करता है।\nस्रोत: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-21"
-        },
-        {
-          "prompt": {
-            "en": "The growing market share of cumin-laced fizzy sodas in India is primarily attributed to which consumer trend?",
-            "hi": "भारत में जीरा युक्त फ़िज़ी सोडा की बढ़ती बाज़ार हिस्सेदारी मुख्य रूप से किस उपभोक्ता प्रवृत्ति के कारण है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Aggressive marketing campaigns.",
-                "hi": "आक्रामक विपणन अभियान."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Demand for homegrown flavours.",
-                "hi": "घरेलू स्वादों की मांग."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Lower pricing compared to international brands.",
-                "hi": "अंतरराष्ट्रीय ब्रांडों की तुलना में कम कीमत।"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Health benefits of cumin.",
-                "hi": "जीरे के स्वास्थ्य लाभ."
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source states that cumin-laced sodas are gaining market share 'as demand for homegrown flavours goes up', indicating this as the primary reason.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र का कहना है कि 'जैसे-जैसे घरेलू स्वादों की मांग बढ़ रही है', जीरा-युक्त सोडा बाजार में हिस्सेदारी हासिल कर रहा है, जो इसे प्राथमिक कारण बताता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-22"
-        },
-        {
-          "prompt": {
-            "en": "The discussion around AI's role in financial decisions primarily questions its ability to judge what specific aspect of an individual's financial standing?",
-            "hi": "वित्तीय निर्णयों में एआई की भूमिका के बारे में चर्चा मुख्य रूप से किसी व्यक्ति की वित्तीय स्थिति के किस विशिष्ट पहलू को आंकने की इसकी क्षमता पर सवाल उठाती है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Investment portfolio performance.",
-                "hi": "निवेश पोर्टफोलियो प्रदर्शन."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Savings habits.",
-                "hi": "बचत की आदतें."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Tax compliance.",
-                "hi": "कर अनुपालन."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Credit worthiness.",
-                "hi": "ऋण पात्रता."
-              }
-            }
-          ],
-          "correct_option_id": "d",
-          "explanation": {
-            "en": "The headline directly asks, 'Should AI be judging our credit worthiness?', indicating this as the central financial aspect under discussion.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक सीधे पूछता है, 'क्या एआई को हमारी क्रेडिट योग्यता का आकलन करना चाहिए?', यह चर्चा के तहत केंद्रीय वित्तीय पहलू के रूप में इंगित करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-23"
-        },
-        {
-          "prompt": {
-            "en": "The article questions AI's capability to judge eligibility for which specific financial products?",
-            "hi": "लेख किस विशिष्ट वित्तीय उत्पादों के लिए पात्रता निर्धारित करने की एआई की क्षमता पर सवाल उठाता है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Stock market investments and mutual funds",
-                "hi": "शेयर बाजार निवेश और म्यूचुअल फंड"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Mortgages, car loans, or mobile phone contracts",
-                "hi": "बंधक, कार ऋण, या मोबाइल फ़ोन अनुबंध"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Health insurance and life insurance policies",
-                "hi": "स्वास्थ्य बीमा और जीवन बीमा पॉलिसियाँ"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Business loans and venture capital funding",
-                "hi": "व्यवसाय ऋण और उद्यम पूंजी वित्तपोषण"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt explicitly lists 'mortgage, car loan or mobile phone contract' as examples of what AI might judge.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश स्पष्ट रूप से 'बंधक, कार ऋण या मोबाइल फोन अनुबंध' को उदाहरण के रूप में सूचीबद्ध करता है कि एआई क्या निर्णय ले सकता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-24"
-        },
-        {
-          "prompt": {
-            "en": "Which specific sectors within India's core industry failed to achieve growth, even with a low base effect?",
-            "hi": "भारत के मुख्य उद्योग के कौन से विशिष्ट क्षेत्र कम आधार प्रभाव के साथ भी विकास हासिल करने में विफल रहे?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Oil and Gas",
-                "hi": "तेल और गैस"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Coal and Electricity",
-                "hi": "कोयला और बिजली"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Cement and Steel",
-                "hi": "सीमेंट और स्टील"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Fertilizers and Refinery Products",
-                "hi": "उर्वरक और रिफाइनरी उत्पाद"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The source explicitly states that 'India’s oil and gas sectors' could not be pushed 'into growth'.\nSource: https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece",
-            "hi": "सूत्र स्पष्ट रूप से बताता है कि 'भारत के तेल और गैस क्षेत्रों' को 'विकास में' नहीं धकेला जा सकता है।\nस्रोत: https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-25"
-        },
-        {
-          "prompt": {
-            "en": "Which organization responded to PM Modi's call to stop gold purchases, arguing for a balance between economic patriotism and cultural heritage?",
-            "hi": "किस संगठन ने आर्थिक देशभक्ति और सांस्कृतिक विरासत के बीच संतुलन का तर्क देते हुए, सोने की खरीद बंद करने के पीएम मोदी के आह्वान का जवाब दिया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The Reserve Bank of India (RBI)",
-                "hi": "भारतीय रिज़र्व बैंक (RBI)"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The All India Gem & Jewellery Domestic Council (GJC)",
-                "hi": "अखिल भारतीय रत्न एवं आभूषण घरेलू परिषद (जीजेसी)"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The Ministry of Finance",
-                "hi": "वित्त मंत्रालय"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The Federation of Indian Chambers of Commerce & Industry (FICCI)",
-                "hi": "फेडरेशन ऑफ इंडियन चैंबर्स ऑफ कॉमर्स एंड इंडस्ट्री (फिक्की)"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The excerpt clearly identifies 'The All India Gem & Jewellery Domestic Council (GJC)' as the organization that argued this point.\nSource: https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-            "hi": "अंश स्पष्ट रूप से 'द ऑल इंडिया जेम एंड ज्वैलरी डोमेस्टिक काउंसिल (जीजेसी)' को उस संगठन के रूप में पहचानता है जिसने इस बिंदु पर तर्क दिया था।\nस्रोत: https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-26"
-        },
-        {
-          "prompt": {
-            "en": "Which political party has criticized the government over SEBI's proposal to remove disclosure norms for Foreign Portfolio Investors (FPIs)?",
-            "hi": "विदेशी पोर्टफोलियो निवेशकों (एफपीआई) के लिए प्रकटीकरण मानदंडों को हटाने के सेबी के प्रस्ताव पर किस राजनीतिक दल ने सरकार की आलोचना की है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Bharatiya Janata Party (BJP)",
-                "hi": "भारतीय जनता पार्टी (भाजपा)"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Indian National Congress",
-                "hi": "भारतीय राष्ट्रीय कांग्रेस"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Aam Aadmi Party (AAP)",
-                "hi": "आम आदमी पार्टी (आप)"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Trinamool Congress (TMC)",
-                "hi": "तृणमूल कांग्रेस (टीएमसी)"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source explicitly states, 'Congress attacks government over SEBI’s proposal to remove disclosure norms for FPIs'.\nSource: https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
-            "hi": "सूत्र ने स्पष्ट रूप से कहा, 'कांग्रेस ने एफपीआई के लिए प्रकटीकरण मानदंडों को हटाने के सेबी के प्रस्ताव पर सरकार पर हमला किया।'\nस्रोत: https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece"
-          },
-          "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-27"
-        },
-        {
-          "prompt": {
-            "en": "The prices of gold, copper, and aluminium recently plunged to what specific low point?",
-            "hi": "सोना, तांबा और एल्युमीनियम की कीमतें हाल ही में किस विशिष्ट निचले बिंदु तक गिर गईं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "1-month lows",
-                "hi": "1 महीने का निचला स्तर"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "3-month lows",
-                "hi": "3 महीने का निचला स्तर"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "7-month lows",
-                "hi": "7 महीने का निचला स्तर"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "1-year lows",
-                "hi": "1 साल का निचला स्तर"
+                "en": "The Federal Reserve Chairman."
               }
             }
           ],
           "correct_option_id": "c",
           "explanation": {
-            "en": "The excerpt states that the commodities 'dive to at least 7-month lows'.\nSource: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
-            "hi": "अंश में कहा गया है कि कमोडिटीज़ 'कम से कम 7 महीने के निचले स्तर तक गोता लगाती हैं।'\nस्रोत: https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece"
+            "en": "The excerpt directly quotes, 'U.S. President Donald Trump welcomed the move as a “correct and proper decision”'.\nSource: https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+            "hi": null
           },
           "section": "Economy, Business & Finance",
-          "source_label": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-28"
+          "id": "2026-11-24-16"
+        },
+        {
+          "prompt": {
+            "en": "The IRDAI expert panel on distribution and commission reforms is expected to recommend measures to support which specific entities in the insurance sector?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Smaller insurers and distributors."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Government-owned insurance companies exclusively."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Foreign portfolio investors in the insurance market."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Only large multinational insurance corporations."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The committee's objective is 'to address concerns of smaller insurers and distributors', indicating these are the entities to be supported.\nSource: https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-17"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of Mahanadi Coalfields' Initial Public Offering (IPO) on its final day?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was partially subscribed."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It was undersubscribed."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It was fully subscribed."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was withdrawn due to lack of interest."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states, 'Mahanadi Coalfields IPO fully subscribed on final day'.\nSource: https://www.thehindu.com/business/mahanadi-coalfields-ipo-fully-subscribed-on-final-day/article71736093.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/mahanadi-coalfields-ipo-fully-subscribed-on-final-day/article71736093.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-18"
+        },
+        {
+          "prompt": {
+            "en": "Projections indicate that India will have 1.38 crore white-collar jobs by 2027. This figure represents a forecast for which specific type of employment?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Blue-collar jobs."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Agricultural jobs."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "White-collar jobs."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Informal sector jobs."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source directly states, 'India will have 1.38 crore white-collar jobs in 2027', specifying the type of jobs.\nSource: https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-19"
+        },
+        {
+          "prompt": {
+            "en": "President Trump's pressure on Nvidia to reappoint Jensen Huang had a significant financial impact. How much value did Huang's comeback help add to the company's stock?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$1 trillion"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$100 billion"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$500 billion"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$2 trillion"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that Huang's comeback 'helped add $1tn to the company's stock value', where $1tn signifies $1 trillion.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-20"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang's role was described as crucial in Nvidia's journey. What specific technological area is he considered a 'lynchpin' of?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Biotechnology"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "AI"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Renewable energy"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Space exploration"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states Huang's role as 'lynchpin of AI' was crucial.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-21"
+        },
+        {
+          "prompt": {
+            "en": "The jump in Nvidia shares after Jensen Huang's return had a broader positive effect on the stock markets. Which tech-heavy index saw a significant rise?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Nasdaq"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "S&P 500"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "FTSE 100"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Dow Jones Industrial Average"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt states that 'the tech-heavy Nasdaq up 6.5%' was lifted by the jump in Nvidia shares.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-22"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang, the Nvidia chief executive, has been central to which major economic and technological phenomenon?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The e-commerce revolution."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The dot-com bubble."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The cryptocurrency surge."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The artificial intelligence boom."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source clearly states that Jensen Huang 'has been at the centre of the artificial intelligence boom'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-23"
+        },
+        {
+          "prompt": {
+            "en": "Jensen Huang's return to Nvidia is described as remarkable. What was the context of his resignation prior to his return?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Due to health reasons."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To pursue other business ventures."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Following a disagreement with the board."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "While mired in scandal of extra-marital affairs."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states he resigned 'while mired in scandal of extra-marital affairs', providing the context for his departure.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-24"
+        },
+        {
+          "prompt": {
+            "en": "The US is set to blacklist an Asian AI firm named Megaspeed. What is the accusation against Megaspeed that led to this decision?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Intellectual property theft from US companies."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Engaging in unfair trade practices in the AI sector."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Developing AI technology for military applications without US approval."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Funneling AI chips to China after a former executive's affair with Jensen Huang became public."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source explicitly states that 'Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-25"
+        },
+        {
+          "prompt": {
+            "en": "The reinstatement of Jensen Huang as CEO led to Nvidia shares being on track for their biggest one-day jump in how long?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "More than three decades."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "More than a decade."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "More than two decades."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More than five years."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states Nvidia shares were 'on track for their biggest one-day jump in more than two decades'.\nSource: https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-26"
+        },
+        {
+          "prompt": {
+            "en": "Following Jensen Huang's return, Nvidia's value climbed by almost $1 trillion. What was the percentage increase in the tech-heavy Nasdaq index?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "3.2%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "8.0%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "4.5%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "6.5%"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source specifies that 'the tech-heavy Nasdaq up 6.5%' after Nvidia's value climbed.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-27"
+        },
+        {
+          "prompt": {
+            "en": "The US blacklisting of Megaspeed is linked to the Nvidia scandal. What specific action is Megaspeed accused of regarding AI chips?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Exporting AI chips to sanctioned entities."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Manufacturing counterfeit AI chips."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Funneling AI chips to China."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Developing AI chips with stolen US technology."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt directly states that 'Megaspeed has been accused of funneling AI chips to China'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-28"
         }
       ],
       "quarantined": [],
@@ -1454,725 +1314,517 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 2,
-      "release_at": "2026-11-23T13:00:00+05:30"
+      "release_at": "2026-11-24T13:00:00+05:30"
     },
     {
       "title": "Science, Environment & World Affairs",
-      "source_filename": "daily-2026-11-23.json",
+      "source_filename": "daily-2026-11-24.json",
       "questions": [
         {
           "prompt": {
-            "en": "What was the average frequency of cyclones per year in the Bay of Bengal during the post-monsoon period between 1982 and 2022?",
-            "hi": "1982 और 2022 के बीच मानसून के बाद की अवधि के दौरान बंगाल की खाड़ी में प्रति वर्ष चक्रवातों की औसत आवृत्ति क्या थी?"
+            "en": "Pixxel and IIT Kanpur have partnered for hyperspectral imaging and AI research. What is the primary aim of this initiative?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Around 0.5 cyclones",
-                "hi": "लगभग 0.5 चक्रवात"
+                "en": "To strengthen environmental monitoring and analysis through advanced multi-sensor data fusion and next-generation remote sensing applications."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Around 1.2 cyclones",
-                "hi": "लगभग 1.2 चक्रवात"
+                "en": "To develop new satellite communication technologies."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Around 2.5 cyclones",
-                "hi": "लगभग 2.5 चक्रवात"
+                "en": "To create AI-powered solutions for urban planning."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Around 1.8 cyclones",
-                "hi": "लगभग 1.8 चक्रवात"
+                "en": "To research new materials for spacecraft construction."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states the initiative 'aims to strengthen environmental monitoring and analysis through advanced multi-sensor data fusion and next-generation remote sensing applications'.\nSource: https://www.thehindu.com/business/Industry/pixxel-iit-kanpur-join-hands-for-hyperspectral-imaging-ai-research/article71735977.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/business/Industry/pixxel-iit-kanpur-join-hands-for-hyperspectral-imaging-ai-research/article71735977.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-29"
+        },
+        {
+          "prompt": {
+            "en": "Researchers from Kerala have linked the regular use of fairness creams to nephrotic syndrome. What toxic substance was found in high levels in the blood and urine samples of affected patients?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lead"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Mercury"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Arsenic"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Cadmium"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states that 'Heavy metal screening... revealed high levels of mercury', linking it to the nephrotic syndrome cases.\nSource: https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-30"
+        },
+        {
+          "prompt": {
+            "en": "The Japan-Europe spacecraft BepiColombo has begun its orbit of Mercury. Which of the following is a question the mission seeks to answer about Mercury?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Whether it has liquid water oceans."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Why it has a magnetic field."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Why it has rings like Saturn."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "If it supports extraterrestrial life."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states, 'The mission will seek to answer questions about Mercury such as why it has a magnetic field'.\nSource: https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-31"
+        },
+        {
+          "prompt": {
+            "en": "An opinion piece argues that Indian science needs fewer borders. What is one of the key requirements listed for research institutions to improve?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "More government control over research topics."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased administrative burdens."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Reduced autonomy."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Timely funding, better teaching incentives, greater autonomy, leadership control, safeguards against quid pro quo, and reduced administrative burdens."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The source explicitly states, 'there were around 1.8 cyclones a year in the post-monsoon period in 1982-2022'.\nSource: https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
-            "hi": "सूत्र स्पष्ट रूप से बताता है, '1982-2022 में मानसून के बाद की अवधि में प्रति वर्ष लगभग 1.8 चक्रवात थे।'\nस्रोत: https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
+            "en": "The excerpt lists 'timely funding, better teaching incentives, greater autonomy, leadership control, safeguards against quid pro quo, and reduced administrative burdens' as needs for research institutions.\nSource: https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-32"
+        },
+        {
+          "prompt": {
+            "en": "The Bay of Bengal has experienced three cyclones in three weeks, a frequency described as uncommon. What trend has been observed regarding the average number of cyclones in the post-monsoon period after 2001?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The average increased."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The average remained stable."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Data is insufficient to determine a trend."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The average decreased."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that the average number of cyclones in the post-monsoon period was 'increasing after 2001'.\nSource: https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+            "hi": null
           },
           "section": "Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-29"
+          "id": "2026-11-24-33"
         },
         {
           "prompt": {
-            "en": "The recent discovery by a CCMB team regarding genes that spur nerve repair holds potential for advancing treatment in which medical condition?",
-            "hi": "तंत्रिका मरम्मत को प्रेरित करने वाले जीन के संबंध में सीसीएमबी टीम की हालिया खोज किस चिकित्सीय स्थिति में उपचार को आगे बढ़ाने की क्षमता रखती है?"
+            "en": "A CCMB team has identified genes that spur nerve repair. This discovery raises the possibility of treatment for which medical condition?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Cancer therapy.",
-                "hi": "कैंसर चिकित्सा."
+                "en": "Paralysis"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Paralysis.",
-                "hi": "पक्षाघात."
+                "en": "Cancer"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Diabetes management.",
-                "hi": "मधुमेह प्रबंधन."
+                "en": "Diabetes"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Cardiovascular diseases.",
-                "hi": "हृदय संबंधी रोग."
+                "en": "Alzheimer's disease"
               }
             }
           ],
-          "correct_option_id": "b",
+          "correct_option_id": "a",
           "explanation": {
-            "en": "The excerpt states that the identification of genes for nerve repair 'raise possibility of paralysis treatment'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
-            "hi": "अंश में कहा गया है कि तंत्रिका मरम्मत के लिए जीन की पहचान 'पक्षाघात के इलाज की संभावना बढ़ाती है'।\nस्रोत: https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece"
+            "en": "The title of the source directly links the discovery to raising the 'possibility of paralysis treatment'.\nSource: https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
+            "hi": null
           },
           "section": "Science, Environment & World Affairs",
           "source_label": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-30"
+          "id": "2026-11-24-34"
         },
         {
           "prompt": {
-            "en": "Mathematician Alessandro Masullo's paper details his efforts to crack what is described as 'mathematics’s greatest unsolved problem'. Which problem is this?",
-            "hi": "गणितज्ञ एलेसेंड्रो मासुलो के पेपर में 'गणित की सबसे बड़ी अनसुलझी समस्या' के रूप में वर्णित समस्या को हल करने के उनके प्रयासों का विवरण दिया गया है। यह कौन सी समस्या है?"
+            "en": "The failure of COP31 climate talks is attributed to several factors. Which of the following was NOT mentioned as a reason for torpedoing the talks?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "The Riemann hypothesis.",
-                "hi": "रीमैन परिकल्पना."
+                "en": "Interests of oil-producing countries."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "The Poincaré Conjecture.",
-                "hi": "पोंकारे अनुमान."
+                "en": "Lack of scientific consensus on climate change."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "The Birch and Swinnerton-Dyer Conjecture.",
-                "hi": "बिर्च और स्विनर्टन-डायर अनुमान।"
+                "en": "A US boycott."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "The Navier-Stokes existence and smoothness.",
-                "hi": "नेवियर-स्टोक्स अस्तित्व और सहजता।"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "While the excerpt mentions 'mathematics’s greatest unsolved problem', the context from related articles (17) clearly identifies this as the Riemann hypothesis.\nSource: https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
-            "hi": "जबकि अंश में 'गणित की सबसे बड़ी अनसुलझी समस्या' का उल्लेख है, संबंधित लेखों (17) का संदर्भ स्पष्ट रूप से इसे रीमैन परिकल्पना के रूप में पहचानता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-31"
-        },
-        {
-          "prompt": {
-            "en": "Levent Alpöge of Anthropic, along with which AI model from the company, has announced finding a proof of the Riemann hypothesis?",
-            "hi": "एंथ्रोपिक के लेवेंट एल्पोगे ने कंपनी के किस एआई मॉडल के साथ रीमैन परिकल्पना का प्रमाण खोजने की घोषणा की है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Claude.",
-                "hi": "क्लाउड."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Gemini.",
-                "hi": "मिथुन."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "GPT-4.",
-                "hi": "जीपीटी-4."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Bard.",
-                "hi": "बार्ड."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt states that 'the company’s AI model Claude have found a proof of the Riemann hypothesis' with Levent Alpöge.\nSource: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
-            "hi": "अंश में कहा गया है कि 'कंपनी के एआई मॉडल क्लाउड को लेवेंट एल्पोगे के साथ रीमैन परिकल्पना का प्रमाण मिला है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-32"
-        },
-        {
-          "prompt": {
-            "en": "The Riemann hypothesis, a long-standing mathematical problem for which a proof has been claimed, specifically concerns itself with what aspect of numbers?",
-            "hi": "रीमैन परिकल्पना, एक लंबे समय से चली आ रही गणितीय समस्या जिसके प्रमाण का दावा किया गया है, विशेष रूप से संख्याओं के किस पहलू से संबंधित है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The distribution of prime numbers.",
-                "hi": "अभाज्य संख्याओं का वितरण."
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The properties of irrational numbers.",
-                "hi": "अपरिमेय संख्याओं के गुण."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "The nature of complex analysis.",
-                "hi": "जटिल विश्लेषण की प्रकृति."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The fundamental theorem of calculus.",
-                "hi": "कलन का मौलिक प्रमेय."
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The source explicitly defines the 'Riemann hypothesis, which concerns the distribution of prime numbers'.\nSource: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
-            "hi": "स्रोत स्पष्ट रूप से 'रीमैन परिकल्पना' को परिभाषित करता है, जो अभाज्य संख्याओं के वितरण से संबंधित है।\nस्रोत: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-33"
-        },
-        {
-          "prompt": {
-            "en": "The COP31 climate summit, which recently concluded without a major deal, was held in which country?",
-            "hi": "COP31 जलवायु शिखर सम्मेलन, जो हाल ही में बिना किसी बड़े समझौते के संपन्न हुआ, किस देश में आयोजित किया गया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Egypt",
-                "hi": "मिस्र"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Turkey",
-                "hi": "टर्की"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "UAE",
-                "hi": "संयुक्त अरब अमीरात"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Germany",
-                "hi": "जर्मनी"
+                "en": "A dispute over finance."
               }
             }
           ],
           "correct_option_id": "b",
           "explanation": {
-            "en": "The excerpt clearly states, 'The COP31 climate summit in Turkey has formally come to an end'.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'तुर्की में COP31 जलवायु शिखर सम्मेलन औपचारिक रूप से समाप्त हो गया है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss"
+            "en": "The excerpt lists 'Interests of oil-producing countries, a US boycott and a dispute over finance' as reasons for the failure, but does not mention lack of scientific consensus.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-34"
+          "id": "2026-11-24-35"
         },
         {
           "prompt": {
-            "en": "The COP31 climate summit failed to make a breakthrough primarily due to a significant disagreement over which specific issue?",
-            "hi": "COP31 जलवायु शिखर सम्मेलन मुख्य रूप से किस विशिष्ट मुद्दे पर महत्वपूर्ण असहमति के कारण सफल होने में विफल रहा?"
+            "en": "The COP31 summit in Antalya was notable for a specific characteristic in UN history. What was it?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Funding for adaptation measures.",
-                "hi": "अनुकूलन उपायों के लिए वित्त पोषण."
+                "en": "It had the highest number of participating countries."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Mechanisms for carbon trading.",
-                "hi": "कार्बन ट्रेडिंग के लिए तंत्र."
+                "en": "It was the first COP held in Asia."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Targets for renewable energy deployment.",
-                "hi": "नवीकरणीय ऊर्जा परिनियोजन के लक्ष्य."
+                "en": "It achieved the most comprehensive climate agreement."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Mentioning fossil fuels in the agreement.",
-                "hi": "समझौते में जीवाश्म ईंधन का जिक्र."
+                "en": "It was the longest-running climate talks in UN history."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The source states that the talks failed 'after a row about mentioning fossil fuels', identifying this as the core issue.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र का कहना है कि वार्ता 'जीवाश्म ईंधन के उल्लेख के बारे में विवाद के बाद' विफल रही, इसे मुख्य मुद्दे के रूप में पहचाना गया।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+            "en": "The source explicitly states, 'The COP31 summit in Antalya was the longest-running climate talks in UN history'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+            "hi": null
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-24-36"
+        },
+        {
+          "prompt": {
+            "en": "The COP31 climate talks ended with no deal, exposing deep divisions. Which country co-hosted COP31 and attributed the failure to 'difficult geopolitical times'?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "United Kingdom"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Australia"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Canada"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Germany"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'The prime minister of Australia, which co-hosted COP31, attributed the failure to 'difficult geopolitical times''.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-35"
+          "id": "2026-11-24-37"
         },
         {
           "prompt": {
-            "en": "A spacecraft has completed an eight-year epic voyage and is now visiting which 'mysterious' planet?",
-            "hi": "एक अंतरिक्ष यान ने आठ साल की महाकाव्य यात्रा पूरी कर ली है और अब वह किस 'रहस्यमय' ग्रह पर जा रहा है?"
+            "en": "The Japan-Europe spacecraft BepiColombo is visiting Mercury after an eight-year epic voyage. How is Mercury described in relation to the Sun?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "Mars.",
-                "hi": "मंगल."
+                "en": "The largest planet from the Sun."
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "Venus.",
-                "hi": "शुक्र."
+                "en": "The coldest planet from the Sun."
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "Jupiter.",
-                "hi": "बृहस्पति."
+                "en": "The furthest planet from the Sun."
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "Mercury.",
-                "hi": "बुध."
+                "en": "The closest planet to the Sun."
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The headline explicitly states, 'Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'रहस्यमय बुध को एक आगंतुक मिलता है - अंतरिक्ष यान की आठ साल की महाकाव्य यात्रा के बाद।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
+            "en": "The source describes Mercury as 'the closest planet to the Sun'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "Science, Environment & World Affairs",
           "source_label": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-36"
+          "id": "2026-11-24-38"
         },
         {
           "prompt": {
-            "en": "What is the primary objective and expected outcome of the spacecraft mission to Mercury?",
-            "hi": "बुध पर अंतरिक्ष यान मिशन का प्राथमिक उद्देश्य और अपेक्षित परिणाम क्या है?"
+            "en": "Ukrainian drones reportedly hit a Russian warship. In which country did this incident occur, according to Zelensky?"
           },
           "options": [
             {
               "id": "a",
               "label": "A",
               "text": {
-                "en": "To land a rover on its surface.",
-                "hi": "इसकी सतह पर एक रोवर को उतारना."
+                "en": "Crimea"
               }
             },
             {
               "id": "b",
               "label": "B",
               "text": {
-                "en": "To collect samples of its atmosphere.",
-                "hi": "इसके वातावरण के नमूने एकत्र करना।"
+                "en": "Syria"
               }
             },
             {
               "id": "c",
               "label": "C",
               "text": {
-                "en": "To provide our best ever view of Mercury.",
-                "hi": "बुध के बारे में हमारा अब तक का सबसे अच्छा दृश्य प्रदान करने के लिए।"
+                "en": "Black Sea"
               }
             },
             {
               "id": "d",
               "label": "D",
               "text": {
-                "en": "To search for signs of past water.",
-                "hi": "अतीत के जल के चिन्हों की खोज करना।"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The source states, 'The mission is set to give us our best ever view of Mercury', indicating its primary outcome.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र का कहना है, 'मिशन हमें बुध का अब तक का सबसे अच्छा दृश्य देने के लिए तैयार है', जो इसके प्राथमिक परिणाम का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-37"
-        },
-        {
-          "prompt": {
-            "en": "Regarding cyclone frequency in the Bay of Bengal post-monsoon, what trend was observed after 2001?",
-            "hi": "मानसून के बाद बंगाल की खाड़ी में चक्रवात की आवृत्ति के संबंध में, 2001 के बाद क्या प्रवृत्ति देखी गई?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "The average decreased significantly.",
-                "hi": "औसत में काफी कमी आई।"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "The average remained stable.",
-                "hi": "औसत स्थिर रहा."
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Data became unavailable.",
-                "hi": "डेटा अनुपलब्ध हो गया."
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "The average increased.",
-                "hi": "औसत बढ़ गया."
+                "en": "Libya"
               }
             }
           ],
           "correct_option_id": "d",
           "explanation": {
-            "en": "The excerpt clearly states, 'with the average increasing after 2001' for cyclone frequency.\nSource: https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
-            "hi": "अंश में स्पष्ट रूप से कहा गया है, '2001 के बाद चक्रवात आवृत्ति के औसत में वृद्धि हुई है।'\nस्रोत: https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
+            "en": "The source title clearly states, 'Russian warship hit by Ukrainian drones in Libya, Zelensky says'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "hi": null
           },
           "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+          "source_label": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
           "status": "ready",
           "warnings": [],
           "page": 1,
-          "id": "2026-11-23-38"
-        },
-        {
-          "prompt": {
-            "en": "How is the Riemann hypothesis described in the context of Alessandro Masullo's efforts to solve it?",
-            "hi": "इसे हल करने के एलेसेंड्रो मासुलो के प्रयासों के संदर्भ में रीमैन परिकल्पना का वर्णन कैसे किया गया है?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A minor mathematical puzzle",
-                "hi": "एक छोटी गणितीय पहेली"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "A recently discovered mathematical anomaly",
-                "hi": "हाल ही में खोजी गई एक गणितीय विसंगति"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Mathematics’s greatest unsolved problem",
-                "hi": "गणित की सबसे बड़ी अनसुलझी समस्या"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "A problem with limited practical application",
-                "hi": "सीमित व्यावहारिक अनुप्रयोग के साथ एक समस्या"
-              }
-            }
-          ],
-          "correct_option_id": "c",
-          "explanation": {
-            "en": "The source refers to the problem as 'mathematics’s greatest unsolved problem'.\nSource: https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
-            "hi": "स्रोत इस समस्या को 'गणित की सबसे बड़ी अनसुलझी समस्या' के रूप में संदर्भित करता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-39"
-        },
-        {
-          "prompt": {
-            "en": "For how long have mathematicians been trying to prove the Riemann hypothesis?",
-            "hi": "गणितज्ञ कितने समय से रीमैन परिकल्पना को सिद्ध करने का प्रयास कर रहे हैं?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "More than 160 years",
-                "hi": "160 वर्ष से अधिक"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Around 100 years",
-                "hi": "करीब 100 साल"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Less than 50 years",
-                "hi": "50 वर्ष से कम"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Over 200 years",
-                "hi": "200 वर्ष से अधिक"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt states, 'Mathematicians have spent more than 160 years trying to prove it'.\nSource: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
-            "hi": "अंश में कहा गया है, 'गणितज्ञों ने इसे साबित करने में 160 साल से अधिक समय बिताया है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-40"
-        },
-        {
-          "prompt": {
-            "en": "What was the ultimate outcome of the COP31 climate summit in Turkey?",
-            "hi": "तुर्की में COP31 जलवायु शिखर सम्मेलन का अंतिम परिणाम क्या था?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "A landmark agreement on fossil fuel phase-out",
-                "hi": "जीवाश्म ईंधन को चरणबद्ध तरीके से ख़त्म करने पर एक ऐतिहासिक समझौता"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Failure to reach a major climate deal",
-                "hi": "एक प्रमुख जलवायु समझौते तक पहुंचने में विफलता"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "A new global fund for climate adaptation",
-                "hi": "जलवायु अनुकूलन के लिए एक नया वैश्विक कोष"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Consensus on carbon pricing mechanisms",
-                "hi": "कार्बन मूल्य निर्धारण तंत्र पर सहमति"
-              }
-            }
-          ],
-          "correct_option_id": "b",
-          "explanation": {
-            "en": "The source clearly states, 'COP31 fails to reach major climate deal as talks expose deep divisions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-            "hi": "सूत्र ने स्पष्ट रूप से कहा, 'COP31 प्रमुख जलवायु समझौते तक पहुंचने में विफल रहा क्योंकि बातचीत से गहरे विभाजन उजागर हुए।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-41"
-        },
-        {
-          "prompt": {
-            "en": "Approximately how many countries participated in the COP31 climate talks that ended in a deadlock?",
-            "hi": "गतिरोध में समाप्त हुई COP31 जलवायु वार्ता में लगभग कितने देशों ने भाग लिया?"
-          },
-          "options": [
-            {
-              "id": "a",
-              "label": "A",
-              "text": {
-                "en": "Nearly 200 countries",
-                "hi": "लगभग 200 देश"
-              }
-            },
-            {
-              "id": "b",
-              "label": "B",
-              "text": {
-                "en": "Around 100 countries",
-                "hi": "लगभग 100 देश"
-              }
-            },
-            {
-              "id": "c",
-              "label": "C",
-              "text": {
-                "en": "Around 50 countries",
-                "hi": "लगभग 50 देश"
-              }
-            },
-            {
-              "id": "d",
-              "label": "D",
-              "text": {
-                "en": "Over 250 countries",
-                "hi": "250 से अधिक देश"
-              }
-            }
-          ],
-          "correct_option_id": "a",
-          "explanation": {
-            "en": "The excerpt mentions, 'Countries from nearly 200 countries are in a deadlock'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-            "hi": "अंश में उल्लेख है, 'लगभग 200 देशों के देश गतिरोध में हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-          },
-          "section": "Science, Environment & World Affairs",
-          "source_label": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "status": "ready",
-          "warnings": [],
-          "page": 1,
-          "id": "2026-11-23-42"
+          "id": "2026-11-24-39"
         }
       ],
       "quarantined": [],
@@ -2180,44 +1832,79 @@
         "AI-generated from linked public news sources. Check important facts against the source."
       ],
       "release_wave": 3,
-      "release_at": "2026-11-23T18:00:00+05:30"
+      "release_at": "2026-11-24T18:00:00+05:30"
     }
   ],
   "sources": [
     {
-      "title": "Six sent to juvenile home after Mumbai assault; Maharashtra SP leader seeks age change",
-      "url": "https://www.thehindu.com/news/national/maharashtra/six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-sp-leader-seeks-age-change/article71730888.ece",
-      "published": "2026-11-23T01:04:02+05:30"
+      "title": "CBI facilitates return of murder accused from Kazakhstan",
+      "url": "https://www.thehindu.com/news/national/haryana/cbi-facilitates-return-of-murder-accused-from-kazakhstan/article71735399.ece",
+      "published": "2026-11-24T02:58:22+05:30"
     },
     {
-      "title": "Over 40% Group A posts vacant at PGIMS Rohtak, says former Minister",
-      "url": "https://www.thehindu.com/news/national/haryana/over-40-group-a-posts-vacant-atpgimsrohtak-says-former-minister/article71731991.ece",
-      "published": "2026-11-23T01:01:11+05:30"
+      "title": "Manik Saha says party probing presence of masked men in BJP election rally",
+      "url": "https://www.thehindu.com/news/national/tripura/manik-saha-says-party-probing-presence-of-masked-men-in-bjp-election-rally/article71736249.ece",
+      "published": "2026-11-24T02:44:23+05:30"
     },
     {
-      "title": "Core accountability: On core sector performance",
-      "url": "https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece",
-      "published": "2026-11-23T01:09:58+05:30"
+      "title": "Close to realising PM Narendra Modi’s dream for Kashmir, says Kiren Rijiju",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/close-to-realising-pm-narendra-modis-dream-for-kashmir-says-kiren-rijiju/article71736247.ece",
+      "published": "2026-11-24T02:32:38+05:30"
     },
     {
-      "title": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
-      "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece",
-      "published": "2026-11-22T22:39:44+05:30"
+      "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+      "published": "2026-11-24T02:29:04+05:30"
     },
     {
-      "title": "Congress attacks government over SEBI’s proposal to remove disclosure norms for FPIs",
-      "url": "https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece",
-      "published": "2026-11-22T18:14:57+05:30"
+      "title": "Rajasthan women’s varsity signs MoU with BRICS nations for global leadership centre",
+      "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+      "published": "2026-11-24T02:15:25+05:30"
     },
     {
-      "title": "Must balance ‘economic patriotism’ with cultural heritage: GJC on PM Modi’s call to stop gold purchases",
-      "url": "https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece",
-      "published": "2026-11-22T16:53:51+05:30"
+      "title": "Proposal for extending scholarship to Sri Lankan students to pursue medical education in Tamil Nadu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+      "published": "2026-11-24T02:04:05+05:30"
     },
     {
-      "title": "Gold, copper, aluminium dive to at least 7-month lows",
-      "url": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
-      "published": "2026-11-22T15:19:41+05:30"
+      "title": "Wall Street roars back as Nvidia reinstates Jensen Huang as CEO",
+      "url": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece",
+      "published": "2026-11-23T23:45:34+05:30"
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+      "published": "2026-11-23T23:45:03+05:30"
+    },
+    {
+      "title": "IRDAI forms expert panel on distribution, commission reforms",
+      "url": "https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece",
+      "published": "2026-11-23T23:24:44+05:30"
+    },
+    {
+      "title": "Mahanadi Coalfields IPO fully subscribed on final day",
+      "url": "https://www.thehindu.com/business/mahanadi-coalfields-ipo-fully-subscribed-on-final-day/article71736093.ece",
+      "published": "2026-11-23T23:05:09+05:30"
+    },
+    {
+      "title": "India will have 1.38 crore white-collar jobs in 2027",
+      "url": "https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece",
+      "published": "2026-11-23T22:50:42+05:30"
+    },
+    {
+      "title": "Pixxel, IIT Kanpur join hands for hyperspectral imaging, AI research",
+      "url": "https://www.thehindu.com/business/Industry/pixxel-iit-kanpur-join-hands-for-hyperspectral-imaging-ai-research/article71735977.ece",
+      "published": "2026-11-23T22:46:43+05:30"
+    },
+    {
+      "title": "In search of skin lightening creams, kidneys take a hit",
+      "url": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece",
+      "published": "2026-11-23T13:13:44+05:30"
+    },
+    {
+      "title": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
+      "url": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece",
+      "published": "2026-11-23T10:54:30+05:30"
     },
     {
       "title": "Indian science needs fewer borders",
@@ -2235,39 +1922,49 @@
       "published": "2026-11-21T12:34:36+05:30"
     },
     {
-      "title": "‘All human, no AI’ Riemann hypothesis proof out on same day as Claude’s claim",
-      "url": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
-      "published": "2026-11-21T11:02:58+05:30"
+      "title": "India pledges $1.6bn to Nepal in reset of ties",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:39:30+00:00"
     },
     {
-      "title": "AI cracks math’s most famous problem. Have mathematicians lost a guiding light?",
-      "url": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
-      "published": "2026-11-21T09:52:51+05:30"
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T23:10:27+00:00"
     },
     {
-      "title": "Watch | How has ‘Project Cheetah’ progressed in India?",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece",
-      "published": "2026-11-20T17:16:22+05:30"
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T17:11:58+00:00"
     },
     {
-      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:29:00+00:00"
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T21:23:42+00:00"
     },
     {
-      "title": "Should AI be judging our credit worthiness?",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T07:32:19+00:00"
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T16:12:35+00:00"
     },
     {
-      "title": "What's next after no deal at COP31 climate summit?",
-      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T18:28:48+00:00"
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:49:52+00:00"
     },
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "title": "What failure of COP31 reveals about a divided world",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T17:24:25+00:00"
+    },
+    {
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T06:33:50+00:00"
+    },
+    {
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
       "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T18:17:59+00:00"
+      "published": "2026-11-23T05:15:06+00:00"
     },
     {
       "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
@@ -2275,9 +1972,14 @@
       "published": "2026-11-22T10:44:12+00:00"
     },
     {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T22:19:43+00:00"
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T23:16:08+00:00"
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:41:23+00:00"
     }
   ]
 }
