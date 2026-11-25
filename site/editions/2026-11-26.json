@@ -1,0 +1,1761 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-26",
+  "generated_at": "2026-11-25T22:00:01.353546+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance (India)",
+      "source_filename": "daily-2026-11-26.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What action did the Supreme Court suggest regarding the Kolkata Municipal Corporation (KMC) delimitation case?",
+            "hi": "कोलकाता नगर निगम (KMC) परिसीमन मामले में सुप्रीम कोर्ट ने क्या कार्रवाई का सुझाव दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To stay the Calcutta HC order indefinitely.",
+                "hi": "कलकत्ता HC के आदेश पर अनिश्चित काल तक रोक लगाने के लिए।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To appoint a new committee for delimitation.",
+                "hi": "परिसीमन हेतु नई समिति नियुक्त करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To immediately proceed with civic polls.",
+                "hi": "निकाय चुनावों को तुरंत आगे बढ़ाने के लिए।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To refer the case back to High Court for fresh look.",
+                "hi": "मामले को नये सिरे से विचार करने के लिए वापस उच्च न्यायालय में भेजना।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Supreme Court's suggestion was to send the KMC delimitation case 'back to High Court for fresh look', as indicated in the source.\nSource: https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+            "hi": "जैसा कि स्रोत में बताया गया है, सुप्रीम कोर्ट का सुझाव था कि केएमसी परिसीमन मामले को 'नये सिरे से देखने के लिए वापस उच्च न्यायालय में' भेजा जाए।\nस्रोत: https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-1"
+        },
+        {
+          "prompt": {
+            "en": "What specific action has the Governor undertaken concerning the Chief Minister's compliance with Supreme Court directions?",
+            "hi": "राज्यपाल ने मुख्यमंत्री द्वारा सर्वोच्च न्यायालय के निर्देशों के अनुपालन के संबंध में क्या विशिष्ट कार्रवाई की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Seeks CM’s report on compliance with SC’s directions.",
+                "hi": "सुप्रीम कोर्ट के निर्देशों के अनुपालन पर सीएम से रिपोर्ट मांगी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Requested a meeting with the Chief Justice.",
+                "hi": "मुख्य न्यायाधीश से मुलाकात का अनुरोध किया."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Issued a public statement on non-compliance.",
+                "hi": "गैर-अनुपालन पर एक सार्वजनिक बयान जारी किया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Initiated an independent investigation into the matter.",
+                "hi": "मामले की स्वतंत्र जांच शुरू की."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that the 'Governor seeks CM’s report on compliance with SC’s directions'.\nSource: https://www.thehindu.com/news/national/tamil-nadu/governor-seeks-cms-report-on-compliance-with-scs-directions/article71744124.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा कि 'राज्यपाल ने SC के निर्देशों के अनुपालन पर सीएम की रिपोर्ट मांगी है।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/governor-seeks-cms-report-on-compliance-with-scs-directions/article71744124.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/governor-seeks-cms-report-on-compliance-with-scs-directions/article71744124.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-2"
+        },
+        {
+          "prompt": {
+            "en": "Which language is proposed for inclusion in the Eighth Schedule of the Constitution, according to Suvendu Adhikari?",
+            "hi": "सुवेन्दु अधिकारी के अनुसार संविधान की आठवीं अनुसूची में किस भाषा को शामिल करने का प्रस्ताव है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Bengali",
+                "hi": "बंगाली"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Santhali",
+                "hi": "संथाली"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Rajbanshi language",
+                "hi": "राजबंशी भाषा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kokborok",
+                "hi": "कोकबोरोक"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Suvendu Adhikari announced the proposal for the 'Rajbanshi language to be included in Eighth Schedule of Constitution', as stated in the source.\nSource: https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+            "hi": "जैसा कि सूत्र में कहा गया है, सुवेंदु अधिकारी ने 'राजबंशी भाषा को संविधान की आठवीं अनुसूची में शामिल करने' के प्रस्ताव की घोषणा की।\nस्रोत: https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-3"
+        },
+        {
+          "prompt": {
+            "en": "When was the promise to include the Rajbanshi language in the Eighth Schedule of the Constitution made?",
+            "hi": "राजबंशी भाषा को संविधान की आठवीं अनुसूची में शामिल करने का वादा कब किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "During the 2024 Lok Sabha elections.",
+                "hi": "2024 के लोकसभा चुनाव के दौरान."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "As part of a recent parliamentary debate.",
+                "hi": "हालिया संसदीय बहस के एक भाग के रूप में।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "In a pre-election manifesto for 2025.",
+                "hi": "2025 के चुनाव पूर्व घोषणापत्र में।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "During their 2026 Assembly election campaign.",
+                "hi": "उनके 2026 विधानसभा चुनाव अभियान के दौरान।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source clarifies that the promise regarding the Rajbanshi language was made by the BJP 'during their 2026 Assembly election campaign'.\nSource: https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+            "hi": "सूत्र ने स्पष्ट किया कि राजबंशी भाषा के संबंध में वादा भाजपा ने 'अपने 2026 विधानसभा चुनाव अभियान के दौरान' किया था।\nस्रोत: https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-4"
+        },
+        {
+          "prompt": {
+            "en": "According to Thirumavalavan, how should the right to choose a partner be understood?",
+            "hi": "तिरुमावलवन के अनुसार साथी चुनने के अधिकार को किस प्रकार समझा जाना चाहिए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "As a privilege granted by family.",
+                "hi": "परिवार द्वारा प्रदत्त विशेषाधिकार के रूप में।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "As a community-sanctioned right.",
+                "hi": "समुदाय-स्वीकृत अधिकार के रूप में।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "As an aspect of constitutional freedom.",
+                "hi": "संवैधानिक स्वतंत्रता के एक पहलू के रूप में।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "As a caste-based entitlement.",
+                "hi": "जाति-आधारित अधिकार के रूप में।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Thirumavalavan's statement emphasizes that the 'Right to choose a partner is an aspect of constitutional freedom', not a privilege from family, caste, or community.\nSource: https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
+            "hi": "थिरुमावलवन का बयान इस बात पर जोर देता है कि 'साथी चुनने का अधिकार संवैधानिक स्वतंत्रता का एक पहलू है', न कि परिवार, जाति या समुदाय से विशेषाधिकार।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-5"
+        },
+        {
+          "prompt": {
+            "en": "In which constituency is Arul Vignesh an MLA?",
+            "hi": "अरुल विग्नेश किस निर्वाचन क्षेत्र से विधायक हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Chennai",
+                "hi": "चेन्नई"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Coimbatore",
+                "hi": "कोयंबटूर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Madurai",
+                "hi": "मदुरै"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kallakurichi",
+                "hi": "कल्लाकुरिची"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source identifies him as the 'Kallakurichi TVK MLA Arul Vignesh', indicating his constituency.\nSource: https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece",
+            "hi": "सूत्र ने उनकी पहचान 'कल्लाकुरिची टीवीके विधायक अरुल विग्नेश' के रूप में की है, जो उनके निर्वाचन क्षेत्र को दर्शाता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-6"
+        },
+        {
+          "prompt": {
+            "en": "What measure has been taken by the authorities at the MLA’s office in Kallakurichi following the summons?",
+            "hi": "सम्मन के बाद कल्लाकुरिची में विधायक के कार्यालय में अधिकारियों द्वारा क्या उपाय किए गए हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Police personnel have been deployed in strength.",
+                "hi": "भारी संख्या में पुलिसकर्मी तैनात किये गये हैं."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The office has been sealed.",
+                "hi": "कार्यालय को सील कर दिया गया है."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A public protest has been organized.",
+                "hi": "एक सार्वजनिक विरोध प्रदर्शन का आयोजन किया गया है."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The MLA has resigned from his post.",
+                "hi": "विधायक ने अपने पद से इस्तीफा दे दिया है."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source states that 'Police personnel have been deployed in strength at the MLA’s office in Kallakurichi' after the summons.\nSource: https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece",
+            "hi": "सूत्र का कहना है कि 'सम्मन के बाद कल्लाकुरिची में विधायक के कार्यालय पर बड़ी संख्या में पुलिस कर्मियों को तैनात किया गया है।'\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-7"
+        },
+        {
+          "prompt": {
+            "en": "What did the Delhi Police state regarding the anti-SIR march scheduled for November 26?",
+            "hi": "26 नवंबर को होने वाले एसआईआर विरोधी मार्च को लेकर दिल्ली पुलिस ने क्या कहा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Permission was granted for the march.",
+                "hi": "मार्च की इजाजत दे दी गई."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Organizers had secured all necessary approvals.",
+                "hi": "आयोजकों ने सभी आवश्यक मंजूरी हासिल कर ली थी।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The march was postponed indefinitely.",
+                "hi": "मार्च अनिश्चित काल के लिए स्थगित कर दिया गया."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "No permission sought for November 26 anti-SIR march.",
+                "hi": "26 नवंबर को एसआईआर विरोधी मार्च के लिए कोई अनुमति नहीं मांगी गई।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The Delhi Police explicitly stated that 'No permission sought for November 26 anti-SIR march', contradicting the organizers' claim of sending an 'intimation'.\nSource: https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
+            "hi": "दिल्ली पुलिस ने स्पष्ट रूप से कहा कि '26 नवंबर को एसआईआर विरोधी मार्च के लिए कोई अनुमति नहीं मांगी गई', जो आयोजकों के 'सूचना' भेजने के दावे का खंडन करती है।\nस्रोत: https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-8"
+        },
+        {
+          "prompt": {
+            "en": "What specific section of the BNSS (Bharatiya Nagarik Suraksha Sanhita) did the Delhi Police warn remains in force in the area of the proposed march?",
+            "hi": "दिल्ली पुलिस ने प्रस्तावित मार्च के क्षेत्र में बीएनएसएस (भारतीय नागरिक सुरक्षा संहिता) की कौन सी विशिष्ट धारा लागू रहने की चेतावनी दी थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Section 144",
+                "hi": "धारा 144"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Section 188",
+                "hi": "धारा 188"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Section 163 of BNSS",
+                "hi": "बीएनएसएस की धारा 163"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Section 120",
+                "hi": "धारा 120"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Delhi Police warned that 'Section 163 of BNSS remains in force in the area' where the march was planned.\nSource: https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
+            "hi": "दिल्ली पुलिस ने चेतावनी दी कि 'उस क्षेत्र में बीएनएसएस की धारा 163 लागू रहेगी' जहां मार्च की योजना बनाई गई थी।\nस्रोत: https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-9"
+        },
+        {
+          "prompt": {
+            "en": "What is one of the key actions taken by SEBI to simplify client onboarding?",
+            "hi": "क्लाइंट ऑनबोर्डिंग को सरल बनाने के लिए सेबी द्वारा उठाए गए प्रमुख कदमों में से एक क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Mandating biometric verification for all clients.",
+                "hi": "सभी ग्राहकों के लिए बायोमेट्रिक सत्यापन अनिवार्य करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Easing KYC norms.",
+                "hi": "केवाईसी मानदंडों को आसान बनाना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Introducing new complex documentation requirements.",
+                "hi": "नई जटिल दस्तावेज़ीकरण आवश्यकताओं का परिचय।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Requiring physical presence for all verifications.",
+                "hi": "सभी सत्यापनों के लिए भौतिक उपस्थिति की आवश्यकता।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states that 'SEBI eases KYC norms, simplifies client onboarding', indicating this as a key action.\nSource: https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है कि 'सेबी ने केवाईसी मानदंडों को आसान बनाया, क्लाइंट ऑनबोर्डिंग को सरल बनाया', जो इसे एक महत्वपूर्ण कार्रवाई के रूप में दर्शाता है।\nस्रोत: https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-10"
+        },
+        {
+          "prompt": {
+            "en": "Under the eased SEBI norms, when will the verification of a client's mobile number become optional for an intermediary?",
+            "hi": "सेबी के आसान नियमों के तहत, किसी ग्राहक के मोबाइल नंबर का सत्यापन किसी मध्यस्थ के लिए कब वैकल्पिक हो जाएगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "If the client provides a landline number.",
+                "hi": "यदि ग्राहक लैंडलाइन नंबर प्रदान करता है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "If the client is a foreign national.",
+                "hi": "यदि ग्राहक विदेशी नागरिक है."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "If the number is available in the KRA system and already verified and Aadhaar-seeded.",
+                "hi": "यदि नंबर केआरए प्रणाली में उपलब्ध है और पहले से ही सत्यापित और आधार-सीडेड है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "If the intermediary chooses to waive it for high-net-worth individuals.",
+                "hi": "यदि मध्यस्थ उच्च निवल मूल्य वाले व्यक्तियों के लिए इसे माफ करना चुनता है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "SEBI specified that 'verification of a client's mobile number will be optional for an intermediary if the number available in the KRA system has already been verified and tagged as Aadhaar-seeded'.\nSource: https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece",
+            "hi": "सेबी ने निर्दिष्ट किया कि 'किसी ग्राहक के मोबाइल नंबर का सत्यापन एक मध्यस्थ के लिए वैकल्पिक होगा यदि केआरए प्रणाली में उपलब्ध नंबर पहले ही सत्यापित किया जा चुका है और आधार-सीडेड के रूप में टैग किया गया है।'\nस्रोत: https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-11"
+        },
+        {
+          "prompt": {
+            "en": "What was the reason for deferring the final Calcutta High Court hearing on the Great Nicobar Island project?",
+            "hi": "ग्रेट निकोबार द्वीप परियोजना पर कलकत्ता उच्च न्यायालय की अंतिम सुनवाई को स्थगित करने का क्या कारण था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The court was on vacation.",
+                "hi": "अदालत छुट्टी पर थी."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A new judge was appointed to the case.",
+                "hi": "मामले के लिए एक नए न्यायाधीश की नियुक्ति की गई।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The petitioners withdrew their case.",
+                "hi": "याचिकाकर्ताओं ने अपना मामला वापस ले लिया."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Centre seeks to file affidavit, objections.",
+                "hi": "केंद्र हलफनामा, आपत्तियां दाखिल करना चाहता है."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states that the hearing was deferred because the 'Centre seeks to file affidavit, objections' regarding the project.\nSource: https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece",
+            "hi": "सूत्र का कहना है कि सुनवाई इसलिए टाल दी गई क्योंकि 'केंद्र परियोजना के संबंध में हलफनामा, आपत्तियां दाखिल करना चाहता है।'\nस्रोत: https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-12"
+        },
+        {
+          "prompt": {
+            "en": "What is the Centre's argument regarding the Forest Rights Act (FRA) in the context of the Great Nicobar Island project?",
+            "hi": "ग्रेट निकोबार द्वीप परियोजना के संदर्भ में वन अधिकार अधिनियम (एफआरए) के संबंध में केंद्र का तर्क क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The FRA should be strictly applied to the project.",
+                "hi": "परियोजना पर एफआरए को सख्ती से लागू किया जाना चाहिए।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The FRA needs amendments for island projects.",
+                "hi": "द्वीप परियोजनाओं के लिए एफआरए में संशोधन की आवश्यकता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The FRA is not implemented in the A&NI.",
+                "hi": "A&NI में FRA लागू नहीं किया गया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The FRA is superseded by environmental clearances.",
+                "hi": "एफआरए को पर्यावरणीय मंजूरी द्वारा प्रतिस्थापित किया गया है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The Centre's argument, as per the source, is that 'the FRA is not implemented in the A&NI' (Andaman & Nicobar Islands).\nSource: https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece",
+            "hi": "सूत्र के अनुसार, केंद्र का तर्क यह है कि 'ए एंड एनआई' (अंडमान और निकोबार द्वीप समूह) में एफआरए लागू नहीं है।\nस्रोत: https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-13"
+        },
+        {
+          "prompt": {
+            "en": "Who was barred from a UK flight at Delhi airport, according to the source?",
+            "hi": "सूत्र के मुताबिक, दिल्ली हवाई अड्डे पर यूके की उड़ान से किसे रोका गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A prominent Indian politician.",
+                "hi": "एक प्रमुख भारतीय राजनीतिज्ञ।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "An airline executive.",
+                "hi": "एक एयरलाइन कार्यकारी."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A foreign diplomat.",
+                "hi": "एक विदेशी राजनयिक."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Saurav Das.",
+                "hi": "सौरव दास."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source identifies 'Saurav Das' as the person who was barred from the UK flight.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने 'सौरव दास' की पहचान उस व्यक्ति के रूप में की है जिसे यूके की उड़ान से रोक दिया गया था।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-14"
+        },
+        {
+          "prompt": {
+            "en": "What specific infrastructure development was mentioned as part of the benefits Nepal secured from India's pledge?",
+            "hi": "नेपाल को भारत की प्रतिज्ञा से प्राप्त लाभों के हिस्से के रूप में किस विशिष्ट बुनियादी ढाँचे के विकास का उल्लेख किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A new airport.",
+                "hi": "एक नया हवाई अड्डा."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A hydroelectric power plant.",
+                "hi": "एक पनबिजली संयंत्र."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A major highway expansion.",
+                "hi": "एक प्रमुख राजमार्ग विस्तार."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A new train service.",
+                "hi": "एक नई रेल सेवा."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "Among the benefits secured by Nepal, the source explicitly mentions 'a new train service'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+            "hi": "नेपाल द्वारा सुरक्षित लाभों के बीच, स्रोत में स्पष्ट रूप से 'एक नई ट्रेन सेवा' का उल्लेख है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-15"
+        },
+        {
+          "prompt": {
+            "en": "For what specific reason did lawyers seek time from the Supreme Court regarding the KMC delimitation case?",
+            "hi": "केएमसी परिसीमन मामले में वकीलों ने किस खास वजह से सुप्रीम कोर्ट से समय मांगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To prepare for the next hearing.",
+                "hi": "अगली सुनवाई की तैयारी के लिए."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To get instructions on the suggestion from the court.",
+                "hi": "सुझाव पर न्यायालय से निर्देश प्राप्त करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To file additional petitions.",
+                "hi": "अतिरिक्त याचिकाएं दायर करने के लिए."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To negotiate a settlement with the opposing party.",
+                "hi": "विरोधी पक्ष के साथ समझौता वार्ता करना।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states that the case was listed for hearing 'after lawyers seek time to get instructions on the suggestion from the court'.\nSource: https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+            "hi": "सूत्र का कहना है कि 'वकीलों द्वारा अदालत से सुझाव पर निर्देश प्राप्त करने के लिए समय मांगने के बाद' मामले को सुनवाई के लिए सूचीबद्ध किया गया था।\nस्रोत: https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-16"
+        },
+        {
+          "prompt": {
+            "en": "What was the proposed route for the Constitution Day march, according to the organizers?",
+            "hi": "आयोजकों के अनुसार संविधान दिवस मार्च के लिए प्रस्तावित मार्ग क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "From India Gate to Parliament House.",
+                "hi": "इंडिया गेट से संसद भवन तक."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "From Red Fort to Rajghat.",
+                "hi": "लाल किले से राजघाट तक."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "From Valmiki Sadan to Jantar Mantar.",
+                "hi": "वाल्मिकी सदन से लेकर जंतर-मंतर तक."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "From Connaught Place to Rashtrapati Bhavan.",
+                "hi": "कनॉट प्लेस से राष्ट्रपति भवन तक."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The organizers, People Against SIR, emailed police details of the proposed march 'from Valmiki Sadan to Jantar Mantar'.\nSource: https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
+            "hi": "आयोजकों, पीपुल अगेंस्ट एसआईआर ने पुलिस को 'वाल्मीकि सदन से जंतर मंतर तक' प्रस्तावित मार्च का विवरण ईमेल किया।\nस्रोत: https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-17"
+        },
+        {
+          "prompt": {
+            "en": "What was the condition under which Nepal's prime minister secured Indian funding and other benefits?",
+            "hi": "वह कौन सी शर्त थी जिसके तहत नेपाल के प्रधान मंत्री ने भारतीय धन और अन्य लाभ प्राप्त किए?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By agreeing to a new trade pact.",
+                "hi": "एक नये व्यापार समझौते पर सहमति जताकर."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By offering military cooperation.",
+                "hi": "सैन्य सहयोग की पेशकश करके."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "By setting contentious issues aside.",
+                "hi": "विवादास्पद मुद्दों को किनारे रखकर."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "By privatizing state-owned enterprises.",
+                "hi": "राज्य के स्वामित्व वाले उद्यमों का निजीकरण करके।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source mentions that Nepal's prime minister 'sets contentious issues aside to secure Indian funding', indicating this as a condition.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने उल्लेख किया है कि नेपाल के प्रधान मंत्री 'भारतीय फंडिंग को सुरक्षित करने के लिए विवादास्पद मुद्दों को अलग रख देते हैं', यह एक शर्त के रूप में इंगित करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance (India)",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-18"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-26T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-26.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "Which regulatory body granted Alembic Pharma approval for an additional strength of a cancer drug?",
+            "hi": "किस नियामक संस्था ने एलेम्बिक फार्मा को कैंसर की दवा की अतिरिक्त ताकत के लिए मंजूरी दी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "U.S. FDA",
+                "hi": "यू.एस. एफ.डी.ए"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "European Medicines Agency (EMA)",
+                "hi": "यूरोपीय औषधि एजेंसी (ईएमए)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Central Drugs Standard Control Organisation (CDSCO)",
+                "hi": "केंद्रीय औषधि मानक नियंत्रण संगठन (सीडीएससीओ)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "World Health Organization (WHO)",
+                "hi": "विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ)"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that 'Alembic Pharma gets U.S. FDA nod for additional strength of cancer drug'.\nSource: https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा है कि 'एलेम्बिक फार्मा को कैंसर की दवा की अतिरिक्त ताकत के लिए यू.एस. एफडीए की मंजूरी मिल गई है।'\nस्रोत: https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-19"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective behind the IRDAI health panel forming two study groups?",
+            "hi": "IRDAI स्वास्थ्य पैनल द्वारा दो अध्ययन समूह बनाने के पीछे प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To reduce insurance premiums.",
+                "hi": "बीमा प्रीमियम कम करने के लिए."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To regulate foreign insurance companies.",
+                "hi": "विदेशी बीमा कंपनियों को विनियमित करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To develop new insurance products.",
+                "hi": "नये बीमा उत्पाद विकसित करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To enhance transparency in claims.",
+                "hi": "दावों में पारदर्शिता बढ़ाना।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source clearly states that the study groups were formed 'to enhance transparency in claims'.\nSource: https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece",
+            "hi": "सूत्र स्पष्ट रूप से बताता है कि अध्ययन समूहों का गठन 'दावों में पारदर्शिता बढ़ाने के लिए' किया गया था।\nस्रोत: https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-20"
+        },
+        {
+          "prompt": {
+            "en": "What is the context in which the IAC (Insurance Advisory Committee) Sub-Committee on Health Insurance formed the two study groups?",
+            "hi": "वह कौन सा संदर्भ है जिसमें स्वास्थ्य बीमा पर आईएसी (बीमा सलाहकार समिति) उप-समिति ने दो अध्ययन समूहों का गठन किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Declining health insurance coverage.",
+                "hi": "स्वास्थ्य बीमा कवरेज में गिरावट."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Introduction of new government health schemes.",
+                "hi": "नई सरकारी स्वास्थ्य योजनाओं की शुरूआत।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Expanding health insurance coverage.",
+                "hi": "स्वास्थ्य बीमा कवरेज का विस्तार."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A rise in fraudulent claims.",
+                "hi": "धोखाधड़ी वाले दावों में वृद्धि."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source indicates that the formation of the groups 'comes in the backdrop of expanding health insurance coverage'.\nSource: https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece",
+            "hi": "स्रोत इंगित करता है कि समूहों का गठन 'स्वास्थ्य बीमा कवरेज के विस्तार की पृष्ठभूमि में आता है'।\nस्रोत: https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-21"
+        },
+        {
+          "prompt": {
+            "en": "According to the RBI Bulletin, what was the CPI inflation rate in October 2026?",
+            "hi": "RBI बुलेटिन के अनुसार, अक्टूबर 2026 में CPI मुद्रास्फीति दर क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "5.5% (y-o-y)",
+                "hi": "5.5% (वर्ष-दर-वर्ष)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "6.0% (y-o-y)",
+                "hi": "6.0% (वर्ष-दर-वर्ष)"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "6.5% (y-o-y)",
+                "hi": "6.5% (वर्ष-दर-वर्ष)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "6.1 % (y-o-y)",
+                "hi": "6.1 % (वर्ष-दर-वर्ष)"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The RBI Bulletin reported that 'CPI inflation peaked to 6.1 % (y-o-y) in October 2026'.\nSource: https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+            "hi": "आरबीआई बुलेटिन ने बताया कि 'सीपीआई मुद्रास्फीति अक्टूबर 2026 में 6.1% (वर्ष-दर-वर्ष) पर पहुंच गई।'\nस्रोत: https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-22"
+        },
+        {
+          "prompt": {
+            "en": "How did the CPI inflation rate in October 2026 compare to the upper tolerance level?",
+            "hi": "अक्टूबर 2026 में सीपीआई मुद्रास्फीति दर की तुलना ऊपरी सहनशीलता स्तर से कैसे की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was significantly below the tolerance level.",
+                "hi": "यह सहनशीलता के स्तर से काफी नीचे था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It was exactly at the tolerance level.",
+                "hi": "यह बिल्कुल सहनशीलता के स्तर पर था."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It was slightly above the upper tolerance level of 6%.",
+                "hi": "यह 6% के ऊपरी सहनशीलता स्तर से थोड़ा ऊपर था।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It was well within the acceptable range.",
+                "hi": "यह स्वीकार्य सीमा के भीतर था।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states that the October 2026 CPI inflation was 'slightly above the upper tolerance level of 6%'.\nSource: https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+            "hi": "सूत्र का कहना है कि अक्टूबर 2026 सीपीआई मुद्रास्फीति '6% के ऊपरी सहनशीलता स्तर से थोड़ा ऊपर' थी।\nस्रोत: https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-23"
+        },
+        {
+          "prompt": {
+            "en": "What is the cost-saving target set by Air India CEO Tewolde Gebremariam?",
+            "hi": "एयर इंडिया के सीईओ टिवोल्डे गेब्रेमारियम द्वारा निर्धारित लागत-बचत लक्ष्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹3,000 crore",
+                "hi": "₹3,000 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹6,000 crore",
+                "hi": "₹6,000 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹9,000 crore",
+                "hi": "₹9,000 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹12,000 crore",
+                "hi": "₹12,000 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The Air India CEO 'sets ₹6,000 crore cost-saving target' as mentioned in the source.\nSource: https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece",
+            "hi": "जैसा कि स्रोत में बताया गया है, एयर इंडिया के सीईओ ने '₹6,000 करोड़ की लागत बचत का लक्ष्य निर्धारित किया है'।\nस्रोत: https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-24"
+        },
+        {
+          "prompt": {
+            "en": "What financial metric does Air India CEO Tewolde Gebremariam aim to bring below its revenue per available seat kilometre?",
+            "hi": "एयर इंडिया के सीईओ टिवोल्डे गेब्रेमारियम का लक्ष्य किस वित्तीय मीट्रिक का लक्ष्य प्रति उपलब्ध सीट किलोमीटर पर अपने राजस्व को कम करना है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Total debt",
+                "hi": "कुल कर्ज"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Cost per available seat kilometre",
+                "hi": "लागत प्रति उपलब्ध सीट किलोमीटर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Operating profit",
+                "hi": "परिचालन लाभ"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Passenger load factor",
+                "hi": "यात्री भार कारक"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Tewolde Gebremariam stated that 'Air India needs to bring its cost per available seat kilometre below its revenue per available seat kilometre'.\nSource: https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece",
+            "hi": "टिवोल्डे गेब्रेमारियम ने कहा कि 'एयर इंडिया को प्रति उपलब्ध सीट किलोमीटर अपनी लागत को अपने राजस्व प्रति उपलब्ध सीट किलोमीटर से कम लाने की जरूरत है।'\nस्रोत: https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-25"
+        },
+        {
+          "prompt": {
+            "en": "According to Mr. Gupta of Gartner, what has permanently altered NVIDIA’s operational landscape?",
+            "hi": "गार्टनर के श्री गुप्ता के अनुसार, किस चीज़ ने NVIDIA के परिचालन परिदृश्य को स्थायी रूप से बदल दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased market competition.",
+                "hi": "बाजार में प्रतिस्पर्धा बढ़ी."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Leadership turbulence.",
+                "hi": "नेतृत्व अशांति."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "New technological advancements.",
+                "hi": "नई तकनीकी प्रगति."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Global economic recession.",
+                "hi": "वैश्विक आर्थिक मंदी."
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "Mr. Gupta from Gartner noted that 'the leadership turbulence has permanently altered NVIDIA’s operational landscape'.\nSource: https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece",
+            "hi": "गार्टनर के श्री गुप्ता ने कहा कि 'नेतृत्व की उथल-पुथल ने NVIDIA के परिचालन परिदृश्य को स्थायी रूप से बदल दिया है।'\nस्रोत: https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-26"
+        },
+        {
+          "prompt": {
+            "en": "What types of headwinds is NVIDIA exposed to, according to Gartner?",
+            "hi": "गार्टनर के अनुसार, NVIDIA किस प्रकार की प्रतिकूल परिस्थितियों के संपर्क में है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Technological and market.",
+                "hi": "तकनीकी और बाजार."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Financial and operational.",
+                "hi": "वित्तीय और परिचालन."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Legal, regulatory, and commercial.",
+                "hi": "कानूनी, नियामक और वाणिज्यिक।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Geopolitical and supply chain.",
+                "hi": "भूराजनीतिक और आपूर्ति श्रृंखला।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "Gartner warns that NVIDIA is 'exposed to legal, regulatory, and commercial headwinds'.\nSource: https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece",
+            "hi": "गार्टनर ने चेतावनी दी है कि NVIDIA 'कानूनी, नियामक और वाणिज्यिक बाधाओं के संपर्क में है।'\nस्रोत: https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-27"
+        },
+        {
+          "prompt": {
+            "en": "What is the current trend observed in India's food inflation?",
+            "hi": "भारत की खाद्य मुद्रास्फीति में वर्तमान रुझान क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is declining rapidly.",
+                "hi": "इसमें तेजी से गिरावट आ रही है."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is broadening, squeezing household budgets.",
+                "hi": "यह घरेलू बजट को बढ़ा रहा है, निचोड़ रहा है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is stabilizing.",
+                "hi": "यह स्थिर हो रहा है."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It is limited to specific regions.",
+                "hi": "यह विशिष्ट क्षेत्रों तक ही सीमित है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states that 'India's food inflation is broadening, squeezing household budgets'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है कि 'भारत की खाद्य मुद्रास्फीति बढ़ रही है, जिससे घरेलू बजट कम हो रहा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-28"
+        },
+        {
+          "prompt": {
+            "en": "Which country, besides China, was specifically mentioned as being affected by the new US tariffs?",
+            "hi": "चीन के अलावा किस देश को विशेष रूप से नए अमेरिकी टैरिफ से प्रभावित होने का उल्लेख किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India",
+                "hi": "भारत"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Germany",
+                "hi": "जर्मनी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Japan",
+                "hi": "जापान"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "South Korea",
+                "hi": "दक्षिण कोरिया"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states that the new US tariffs would hit 'including India'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा है कि नए अमेरिकी टैरिफ 'भारत सहित' पर असर डालेंगे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-29"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary consequence of Poundland's collapse?",
+            "hi": "पाउंडलैंड के पतन का प्राथमिक परिणाम क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Expansion into new markets.",
+                "hi": "नये बाज़ारों में विस्तार."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased profits for competitors.",
+                "hi": "प्रतिस्पर्धियों के मुनाफ़े में वृद्धि।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A major acquisition.",
+                "hi": "एक बड़ा अधिग्रहण."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Putting 11,000 jobs at risk.",
+                "hi": "11,000 नौकरियों को ख़तरे में डाल रहा हूँ."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source highlights that 'Poundland collapses putting 11,000 jobs at risk'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने बताया कि 'पाउंडलैंड ढहने से 11,000 नौकरियां खतरे में पड़ गईं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-30"
+        },
+        {
+          "prompt": {
+            "en": "What was the reason for Poundland falling into administration?",
+            "hi": "पाउंडलैंड के प्रशासन में आने का क्या कारण था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Its owners failed to find a buyer.",
+                "hi": "इसके मालिक कोई खरीदार ढूंढने में असफल रहे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Rapid expansion.",
+                "hi": "तीव्र विस्तार."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A hostile takeover bid.",
+                "hi": "एक शत्रुतापूर्ण अधिग्रहण बोली."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increased competition from online retailers.",
+                "hi": "ऑनलाइन खुदरा विक्रेताओं से बढ़ती प्रतिस्पर्धा।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Poundland fell into administration 'after its owners failed to find a buyer'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+            "hi": "पाउंडलैंड प्रशासन में तब गिर गया जब उसके मालिक कोई खरीदार ढूंढने में असफल रहे।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-31"
+        },
+        {
+          "prompt": {
+            "en": "Which US stock index was reported to be down almost 4% in early trading due to intensifying fears over AI?",
+            "hi": "AI पर बढ़ती आशंकाओं के कारण शुरुआती कारोबार में किस अमेरिकी स्टॉक इंडेक्स में लगभग 4% की गिरावट दर्ज की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Dow Jones Industrial Average",
+                "hi": "डॉव जोन्स औद्योगिक औसत"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "S&P 500",
+                "hi": "एस एंड पी 500"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Nasdaq",
+                "hi": "नैस्डैक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Russell 2000",
+                "hi": "रसेल 2000"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source specifically mentions 'the tech-dominated Nasdaq down almost 4%'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत में विशेष रूप से उल्लेख किया गया है कि 'तकनीक-प्रभुत्व वाला नैस्डैक लगभग 4% नीचे है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-26-32"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-26T13:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
+      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+      "published": "2026-11-26T02:48:50+05:30"
+    },
+    {
+      "title": "Governor seeks CM’s report on compliance with SC’s directions",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/governor-seeks-cms-report-on-compliance-with-scs-directions/article71744124.ece",
+      "published": "2026-11-26T02:46:16+05:30"
+    },
+    {
+      "title": "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhikari",
+      "url": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+      "published": "2026-11-26T01:53:32+05:30"
+    },
+    {
+      "title": "Right to choose a partner is an aspect of constitutional freedom, not a privilege granted by a family, caste or community: Thirumavalavan",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
+      "published": "2026-11-26T01:45:56+05:30"
+    },
+    {
+      "title": "Kallakurichi TVK MLA Arul Vignesh summoned for questioning in harassment case",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-summoned-for-questioning-in-harassment-case/article71742298.ece",
+      "published": "2026-11-26T01:42:18+05:30"
+    },
+    {
+      "title": "No permission sought for November 26 anti-SIR march, Delhi Police say; organisers say ‘intimation’ sent",
+      "url": "https://www.thehindu.com/news/cities/Delhi/no-permission-sought-for-november-26-anti-sir-march-says-delhi-police/article71741234.ece",
+      "published": "2026-11-26T01:17:28+05:30"
+    },
+    {
+      "title": "Alembic Pharma gets U.S. FDA nod for additional strength of cancer drug",
+      "url": "https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece",
+      "published": "2026-11-25T22:45:04+05:30"
+    },
+    {
+      "title": "IRDAI health panel forms 2 study groups to enhance transparency in claims",
+      "url": "https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece",
+      "published": "2026-11-25T22:41:40+05:30"
+    },
+    {
+      "title": "Broad-based pressure on food prices continues: RBI Bulletin",
+      "url": "https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece",
+      "published": "2026-11-25T22:39:05+05:30"
+    },
+    {
+      "title": "SEBI eases KYC norms, simplifies client onboarding",
+      "url": "https://www.thehindu.com/business/sebi-eases-kyc-norms-simplifies-client-onboarding/article71743597.ece",
+      "published": "2026-11-25T22:34:54+05:30"
+    },
+    {
+      "title": "Three months into the job, Air India CEO Tewolde sets ₹6,000 crore cost-saving target, looks to boost revenues",
+      "url": "https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece",
+      "published": "2026-11-25T21:58:11+05:30"
+    },
+    {
+      "title": "Huang’s return restores stability, but NVIDIA faces years of scrutiny, warns Gartner",
+      "url": "https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece",
+      "published": "2026-11-25T21:45:46+05:30"
+    },
+    {
+      "title": "Great Nicobar Island project: Final Calcutta High Court hearing deferred as Centre seeks to file affidavit, objections",
+      "url": "https://www.thehindu.com/sci-tech/science/great-nicobar-island-project-final-calcutta-high-court-hearing-deferred-as-centre-seeks-to-file-affidavit-objections/article71743226.ece",
+      "published": "2026-11-25T23:44:58+05:30"
+    },
+    {
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T01:02:13+00:00"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:21:34+00:00"
+    },
+    {
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T18:07:46+00:00"
+    },
+    {
+      "title": "India pledges $1.6bn to Nepal in reset of ties",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:39:30+00:00"
+    },
+    {
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:31:10+00:00"
+    },
+    {
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:43:18+00:00"
+    }
+  ]
+}
