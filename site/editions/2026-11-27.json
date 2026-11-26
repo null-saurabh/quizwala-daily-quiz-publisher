@@ -1,0 +1,2717 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-27",
+  "generated_at": "2026-11-26T21:56:16.753131+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs & Governance",
+      "source_filename": "daily-2026-11-27.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to the latest National Family Health Survey (NFHS 2023-24), what is Rajasthan's position among Indian States regarding the prevalence of child marriage?",
+            "hi": "नवीनतम राष्ट्रीय परिवार स्वास्थ्य सर्वेक्षण (NFHS 2023-24) के अनुसार, बाल विवाह की व्यापकता के संबंध में भारतीय राज्यों में राजस्थान का स्थान क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fourth highest",
+                "hi": "चौथा उच्चतम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Fifth highest",
+                "hi": "पाँचवाँ सबसे ऊँचा"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Sixth highest",
+                "hi": "छठा उच्चतम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Seventh highest",
+                "hi": "सातवाँ उच्चतम"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source explicitly states, 'Rajasthan ranks sixth among India’s States with the highest prevalence of child marriage, according to the latest National Family Health Survey (2023-24).'\nSource: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+            "hi": "सूत्र स्पष्ट रूप से बताता है, 'नवीनतम राष्ट्रीय परिवार स्वास्थ्य सर्वेक्षण (2023-24) के अनुसार, राजस्थान बाल विवाह के उच्चतम प्रसार वाले भारत के राज्यों में छठे स्थान पर है।'\nस्रोत: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-1"
+        },
+        {
+          "prompt": {
+            "en": "Which of the following factors are identified as contributing to the prevalence of child marriage in Rajasthan, particularly in tribal and rural areas?",
+            "hi": "निम्नलिखित में से कौन से कारक राजस्थान में, विशेषकर आदिवासी और ग्रामीण क्षेत्रों में बाल विवाह के प्रसार में योगदान के रूप में पहचाने जाते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Poverty, lack of education, and customs like atta-satta",
+                "hi": "गरीबी, शिक्षा की कमी और आटा-सट्टा जैसी प्रथाएं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Urbanization and industrial growth",
+                "hi": "शहरीकरण और औद्योगिक विकास"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Government welfare schemes and increased literacy rates",
+                "hi": "सरकारी कल्याणकारी योजनाएँ और साक्षरता दर में वृद्धि"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Migration to cities and changing social norms",
+                "hi": "शहरों की ओर पलायन और बदलते सामाजिक मानदंड"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt clearly states, 'Poverty, the lack of education, and entrenched customs such as atta-satta, reinforced by a skewed sex ratio, continue to fuel the practice, particularly in tribal and rural areas.'\nSource: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'गरीबी, शिक्षा की कमी, और असंतुलित लिंगानुपात द्वारा प्रबलित आटा-सट्टा जैसी प्रचलित प्रथाएं, विशेष रूप से आदिवासी और ग्रामीण क्षेत्रों में इस प्रथा को बढ़ावा दे रही हैं।'\nस्रोत: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-2"
+        },
+        {
+          "prompt": {
+            "en": "What factors are empowering girls in Rajasthan to resist child marriage, according to the report?",
+            "hi": "रिपोर्ट के अनुसार, राजस्थान में बाल विवाह का विरोध करने के लिए कौन से कारक लड़कियों को सशक्त बना रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased economic independence and government support",
+                "hi": "आर्थिक स्वतंत्रता और सरकारी समर्थन में वृद्धि"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Legal reforms and community awareness campaigns",
+                "hi": "कानूनी सुधार और सामुदायिक जागरूकता अभियान"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Support from international NGOs and local self-help groups",
+                "hi": "अंतर्राष्ट्रीय गैर सरकारी संगठनों और स्थानीय स्वयं सहायता समूहों से समर्थन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Empowerment by education and greater access to social media",
+                "hi": "शिक्षा द्वारा सशक्तिकरण और सोशल मीडिया तक अधिक पहुंच"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source highlights that 'a growing number of girls, empowered by education and greater access to social media, are saying no' to child marriage.\nSource: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+            "hi": "सूत्र इस बात पर प्रकाश डालता है कि 'शिक्षा और सोशल मीडिया तक अधिक पहुंच से सशक्त लड़कियों की बढ़ती संख्या बाल विवाह को 'नहीं' कह रही है।\nस्रोत: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-3"
+        },
+        {
+          "prompt": {
+            "en": "Which international body has declared November 27 as the International Day for the Elimination of Child, Early and Forced Marriage?",
+            "hi": "किस अंतर्राष्ट्रीय संस्था ने 27 नवंबर को बाल, शीघ्र विवाह और जबरन विवाह उन्मूलन के लिए अंतर्राष्ट्रीय दिवस घोषित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "World Health Organization (WHO)",
+                "hi": "विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ)"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "UNICEF",
+                "hi": "यूनिसेफ"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "United Nations (UN)",
+                "hi": "संयुक्त राष्ट्र (यूएन)"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Amnesty International",
+                "hi": "एमनेस्टी इंटरनेशनल"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states, 'the United Nations has declared November 27 as the International Day for the Elimination of Child, Early and Forced Marriage'.\nSource: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'संयुक्त राष्ट्र ने 27 नवंबर को बाल, शीघ्र और जबरन विवाह के उन्मूलन के लिए अंतर्राष्ट्रीय दिवस घोषित किया है।'\nस्रोत: https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-4"
+        },
+        {
+          "prompt": {
+            "en": "What was the reason cited for denying Amina Khatun and Abdul Habib a residence proof necessary for a birth certificate?",
+            "hi": "अमीना खातून और अब्दुल हबीब को जन्म प्रमाण पत्र के लिए आवश्यक निवास प्रमाण देने से इंकार करने का क्या कारण बताया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Lack of proper identification documents",
+                "hi": "उचित पहचान दस्तावेजों का अभाव"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Abdul Habib’s name being struck off electoral rolls during SIR",
+                "hi": "एसआईआर के दौरान अब्दुल हबीब का नाम मतदाता सूची से हटा दिया गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Failure to provide proof of marriage",
+                "hi": "विवाह का प्रमाण देने में विफलता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Incomplete application forms",
+                "hi": "अपूर्ण आवेदन पत्र"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states they were 'denied a residence proof necessary for birth certificate on grounds that Abdul Habib’s name was struck off electoral rolls during SIR'.\nSource: https://www.thehindu.com/news/national/west-bengal/bdo-issues-residence-certificate-to-mother-of-child-denied-birth-certificate-due-to-sir-row/article71747493.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा है कि उन्हें 'इस आधार पर जन्म प्रमाण पत्र के लिए आवश्यक निवास प्रमाण देने से इनकार कर दिया गया था कि अब्दुल हबीब का नाम एसआईआर के दौरान मतदाता सूची से हटा दिया गया था।'\nस्रोत: https://www.thehindu.com/news/national/west-bengal/bdo-issues-residence-certificate-to-mother-of-child-denied-birth-certificate-due-to-sir-row/article71747493.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/west-bengal/bdo-issues-residence-certificate-to-mother-of-child-denied-birth-certificate-due-to-sir-row/article71747493.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-5"
+        },
+        {
+          "prompt": {
+            "en": "Which significant Bill is likely to be tabled in the special Parliament sitting commencing from November 30?",
+            "hi": "30 नवंबर से शुरू होने वाली विशेष संसद बैठक में कौन सा महत्वपूर्ण विधेयक पेश किए जाने की संभावना है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The National Education Policy Bill",
+                "hi": "राष्ट्रीय शिक्षा नीति विधेयक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Economic Reforms Bill",
+                "hi": "आर्थिक सुधार विधेयक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Amended Delimitation Bill",
+                "hi": "संशोधित परिसीमन विधेयक"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The Social Security Code Bill",
+                "hi": "सामाजिक सुरक्षा संहिता विधेयक"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30'.\nSource: https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'संशोधित परिसीमन विधेयक 30 नवंबर से विशेष संसद बैठक में पेश किए जाने की संभावना है।'\nस्रोत: https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-6"
+        },
+        {
+          "prompt": {
+            "en": "How long has it been since both Houses of Parliament were adjourned without prorogation before the announcement of the special sitting from November 30, 2026?",
+            "hi": "30 नवंबर, 2026 से विशेष बैठक की घोषणा से पहले संसद के दोनों सदनों को बिना सत्रावसान के स्थगित किए हुए कितना समय हो गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Over 100 days",
+                "hi": "100 दिन से अधिक"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Exactly 100 days",
+                "hi": "बिल्कुल 100 दिन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Less than 50 days",
+                "hi": "50 दिन से कम"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Approximately 75 days",
+                "hi": "लगभग 75 दिन"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source mentions, 'Centre announces special sitting of Parliament from November 30, 2026, over 100 days since both Houses were adjourned without prorogation'.\nSource: https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+            "hi": "सूत्र का उल्लेख है, 'केंद्र ने 30 नवंबर, 2026 से संसद की विशेष बैठक की घोषणा की है, 100 दिनों से अधिक समय बाद दोनों सदनों को बिना सत्रावसान के स्थगित कर दिया गया था।'\nस्रोत: https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-7"
+        },
+        {
+          "prompt": {
+            "en": "What is the deadline set by the Supreme Court for FSSAI to finalize stricter food labelling norms?",
+            "hi": "सख्त खाद्य लेबलिंग मानदंडों को अंतिम रूप देने के लिए एफएसएसएआई के लिए सुप्रीम कोर्ट द्वारा निर्धारित समय सीमा क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Two months",
+                "hi": "दो महीने"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Three months",
+                "hi": "तीन महीने"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Four months",
+                "hi": "चार महीने"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Six months",
+                "hi": "छह महीने"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'Supreme Court sets four-month deadline for FSSAI to finalise stricter food labelling norms'.\nSource: https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'सुप्रीम कोर्ट ने सख्त खाद्य लेबलिंग मानदंडों को अंतिम रूप देने के लिए एफएसएसएआई के लिए चार महीने की समय सीमा तय की है।'\nस्रोत: https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-8"
+        },
+        {
+          "prompt": {
+            "en": "Regarding food labelling, what specific nutrients has the Supreme Court directed FSSAI to treat as primary 'nutrients of concern'?",
+            "hi": "खाद्य लेबलिंग के संबंध में, सुप्रीम कोर्ट ने एफएसएसएआई को किस विशिष्ट पोषक तत्व को प्राथमिक 'चिंता के पोषक तत्व' के रूप में मानने का निर्देश दिया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Vitamins and minerals",
+                "hi": "विटामिन और खनिज"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Total sugars, saturated fat, and salt",
+                "hi": "कुल शर्करा, संतृप्त वसा और नमक"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Dietary fiber and protein",
+                "hi": "आहारीय फाइबर और प्रोटीन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Trans fats and artificial sweeteners",
+                "hi": "ट्रांस वसा और कृत्रिम मिठास"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source specifies, 'The court has asked FSSAI to treat ‘total sugars’ and ‘saturated fat’, rather than ‘added sugar’ and ‘added fat’, alongside salt, as the nutrients of concern'.\nSource: https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece",
+            "hi": "सूत्र बताते हैं, 'अदालत ने एफएसएसएआई से कहा है कि वह नमक के साथ-साथ 'अतिरिक्त चीनी' और 'अतिरिक्त वसा' के बजाय 'कुल शर्करा' और 'संतृप्त वसा' को चिंता के पोषक तत्वों के रूप में माने।'\nस्रोत: https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-9"
+        },
+        {
+          "prompt": {
+            "en": "Approximately how many people are estimated to have attended the wedding of Shivangi Singh, daughter of Anant Singh?",
+            "hi": "अनंत सिंह की बेटी शिवांगी सिंह की शादी में लगभग कितने लोगों के शामिल होने का अनुमान है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "One hundred thousand",
+                "hi": "एक लाख"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Half a million",
+                "hi": "आधा मिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Two hundred fifty thousand",
+                "hi": "दो सौ पचास हजार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "One million",
+                "hi": "दस लाख"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states, 'Half a million people are estimated to have attended the wedding of Shivangi Singh, daughter of Anant Singh'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvj6l162j0rpo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'अनंत सिंह की बेटी शिवांगी सिंह की शादी में पांच लाख लोगों के शामिल होने का अनुमान है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvj6l162j0rpo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvj6l162j0rpo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-10"
+        },
+        {
+          "prompt": {
+            "en": "What was the immediate consequence in India for a Pakistani TV show after it faced backlash?",
+            "hi": "एक पाकिस्तानी टीवी शो को विरोध का सामना करने के बाद भारत में इसका तत्काल परिणाम क्या हुआ?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was banned from all Indian television channels.",
+                "hi": "इसे सभी भारतीय टेलीविजन चैनलों पर प्रतिबंधित कर दिया गया था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It was subjected to a review by the Censor Board.",
+                "hi": "सेंसर बोर्ड ने इसकी समीक्षा की।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its broadcast time was shifted to late night slots.",
+                "hi": "इसके प्रसारण का समय देर रात के स्लॉट में स्थानांतरित कर दिया गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Two screenings of the show were cancelled.",
+                "hi": "शो की दो स्क्रीनिंग रद्द कर दी गईं।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline clearly states, 'Two screenings of Pakistani TV show cancelled in India after backlash'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में साफ़ लिखा है, 'प्रतिक्रिया के बाद भारत में पाकिस्तानी टीवी शो की दो स्क्रीनिंग रद्द कर दी गईं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-11"
+        },
+        {
+          "prompt": {
+            "en": "What is the name of the Pakistani TV show that has become a sensation in India but is now involved in a political controversy?",
+            "hi": "उस पाकिस्तानी टीवी शो का क्या नाम है जो भारत में सनसनी बन गया है लेकिन अब राजनीतिक विवाद में फंस गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Humsafar",
+                "hi": "हमसफ़र"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Zindagi Gulzar Hai",
+                "hi": "जिंदगी गुलजार है"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Mere Humsafar",
+                "hi": "मेरे हमसफ़र"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Dar-e-Nijaat",
+                "hi": "दर-ए-निजात"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source identifies the show as 'The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने शो की पहचान इस प्रकार की है, 'शो, दर-ए-निजात, भारत में एक सनसनी बन गया है लेकिन अब एक राजनीतिक विवाद में उलझा हुआ है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-27T06:30:00+05:30"
+    },
+    {
+      "title": "Economy & Business",
+      "source_filename": "daily-2026-11-27.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "During his visit to Japan, Karnataka's Large and Medium Industries Minister M.B. Patil held discussions with how many Japanese companies?",
+            "hi": "अपनी जापान यात्रा के दौरान कर्नाटक के बड़े और मध्यम उद्योग मंत्री एम.बी. पाटिल ने कितनी जापानी कंपनियों से चर्चा की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Two",
+                "hi": "दो"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Three",
+                "hi": "तीन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Four",
+                "hi": "चार"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Five",
+                "hi": "पांच"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt states, 'Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies'.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
+            "hi": "अंश में कहा गया है, 'बड़े और मध्यम उद्योग मंत्री एम.बी. पाटिल ने चार जापानी कंपनियों के साथ चर्चा की।'\nस्रोत: https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-13"
+        },
+        {
+          "prompt": {
+            "en": "What was the primary focus of the discussions held by Karnataka's Industries Minister with Japanese companies?",
+            "hi": "कर्नाटक के उद्योग मंत्री की जापानी कंपनियों के साथ हुई चर्चा का मुख्य फोकस क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Their existing operations in Karnataka and expansion plans",
+                "hi": "कर्नाटक में उनके मौजूदा परिचालन और विस्तार योजनाएं"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Negotiating trade agreements between India and Japan",
+                "hi": "भारत और जापान के बीच व्यापार समझौतों पर बातचीत"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Introducing new Japanese products to the Indian market",
+                "hi": "भारतीय बाज़ार में नए जापानी उत्पाद पेश करना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Recruiting Indian talent for their global operations",
+                "hi": "अपने वैश्विक परिचालन के लिए भारतीय प्रतिभाओं की भर्ती करना"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source indicates the discussions were 'focusing on their existing operations in Karnataka and expansion plans'.\nSource: https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
+            "hi": "सूत्र बताता है कि चर्चा 'कर्नाटक में उनके मौजूदा परिचालन और विस्तार योजनाओं पर केंद्रित थी।'\nस्रोत: https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-14"
+        },
+        {
+          "prompt": {
+            "en": "What amount has the NCLAT cleared for Jet Airways employees' dues?",
+            "hi": "एनसीएलएटी ने जेट एयरवेज के कर्मचारियों के बकाया के लिए कितनी राशि का भुगतान किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "₹240 crore",
+                "hi": "₹240 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "₹480 crore",
+                "hi": "₹480 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "₹360 crore",
+                "hi": "₹360 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "₹600 crore",
+                "hi": "₹600 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline clearly states, 'NCLAT clears ₹480 crore in Jet Airways employees’ dues'.\nSource: https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'एनसीएलएटी ने जेट एयरवेज के कर्मचारियों के बकाया ₹480 करोड़ का भुगतान किया।'\nस्रोत: https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-15"
+        },
+        {
+          "prompt": {
+            "en": "When did the Supreme Court order the liquidation of Jet Airways?",
+            "hi": "सुप्रीम कोर्ट ने जेट एयरवेज के परिसमापन का आदेश कब दिया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "November 2024",
+                "hi": "नवंबर 2024"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "November 2022",
+                "hi": "नवंबर 2022"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "November 2019",
+                "hi": "नवंबर 2019"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "November 2026",
+                "hi": "नवंबर 2026"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source mentions, 'In November 2024, the Supreme Court ordered its liquidation'.\nSource: https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece",
+            "hi": "सूत्र में बताया गया है, 'नवंबर 2024 में सुप्रीम कोर्ट ने इसके परिसमापन का आदेश दिया था।'\nस्रोत: https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-16"
+        },
+        {
+          "prompt": {
+            "en": "What is the total amount of climate equity funding India has attracted, as mentioned in the source?",
+            "hi": "जैसा कि स्रोत में बताया गया है, भारत ने जलवायु इक्विटी फंडिंग की कुल कितनी राशि आकर्षित की है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$25 billion",
+                "hi": "$25 बिलियन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$31 billion",
+                "hi": "$31 बिलियन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$35 billion",
+                "hi": "$35 बिलियन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$40 billion",
+                "hi": "$40 बिलियन"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline states, 'India attracts $31 billion in climate equity funding'.\nSource: https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece",
+            "hi": "शीर्षक में कहा गया है, 'भारत जलवायु इक्विटी फंडिंग में $31 बिलियन आकर्षित करता है।'\nस्रोत: https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-17"
+        },
+        {
+          "prompt": {
+            "en": "What is identified as critical for diversifying climate finance in India beyond power and transport sectors?",
+            "hi": "भारत में बिजली और परिवहन क्षेत्रों से परे जलवायु वित्त में विविधता लाने के लिए क्या महत्वपूर्ण माना जाता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increasing government subsidies for renewable energy",
+                "hi": "नवीकरणीय ऊर्जा के लिए सरकारी सब्सिडी बढ़ाना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Attracting more foreign direct investment in traditional industries",
+                "hi": "पारंपरिक उद्योगों में अधिक प्रत्यक्ष विदेशी निवेश आकर्षित करना"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Bridging the mismatch between project requirements and investor horizons",
+                "hi": "परियोजना आवश्यकताओं और निवेशक क्षितिज के बीच बेमेल को पाटना"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Focusing solely on large-scale infrastructure projects",
+                "hi": "केवल बड़े पैमाने पर बुनियादी ढांचा परियोजनाओं पर ध्यान केंद्रित करना"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'Bridging this mismatch between project requirements and investor horizons will be critical to diversifying climate finance beyond power and transport'.\nSource: https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece",
+            "hi": "सूत्र का कहना है, 'परियोजना आवश्यकताओं और निवेशक क्षितिज के बीच इस बेमेल को पाटना बिजली और परिवहन से परे जलवायु वित्त में विविधता लाने के लिए महत्वपूर्ण होगा।'\nस्रोत: https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-18"
+        },
+        {
+          "prompt": {
+            "en": "What factors are expected to support the growth momentum in banking stocks through FY27-28?",
+            "hi": "FY27-28 तक बैंकिंग शेयरों में वृद्धि की गति को किन कारकों से समर्थन मिलने की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Decreasing credit demand and volatile net interest margins",
+                "hi": "घटती ऋण मांग और अस्थिर शुद्ध ब्याज मार्जिन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Declining earnings strength and deteriorating asset quality",
+                "hi": "कमाई की ताकत में गिरावट और संपत्ति की गुणवत्ता में गिरावट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Increased regulatory scrutiny and reduced capital buffers",
+                "hi": "विनियामक जांच में वृद्धि और पूंजी बफ़र्स में कमी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Robust credit demand, stable NIMs, improving asset quality, and comfortable capital buffers",
+                "hi": "मजबूत ऋण मांग, स्थिर एनआईएम, परिसंपत्ति गुणवत्ता में सुधार और आरामदायक पूंजी बफर"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt lists 'robust credit demand, stable net interest margins (NIMs), improving asset quality and comfortable capital buffers' as supporting factors for growth momentum.\nSource: https://www.thehindu.com/business/markets/banking-stocks-rebound-on-earnings-strength-improving-asset-quality/article71746827.ece",
+            "hi": "अंश में विकास की गति के लिए सहायक कारकों के रूप में 'मजबूत क्रेडिट मांग, स्थिर शुद्ध ब्याज मार्जिन (एनआईएम), परिसंपत्ति गुणवत्ता में सुधार और आरामदायक पूंजी बफर' को सूचीबद्ध किया गया है।\nस्रोत: https://www.thehindu.com/business/markets/banking-stocks-rebound-on-earnings-strength-improving-asset-quality/article71746827.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/markets/banking-stocks-rebound-on-earnings-strength-improving-asset-quality/article71746827.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-19"
+        },
+        {
+          "prompt": {
+            "en": "How many retail shareholders are estimated to be affected by the Yes Bank AT1 bond verdict, facing a significant financial impact?",
+            "hi": "यस बैंक AT1 बांड फैसले से कितने खुदरा शेयरधारकों के प्रभावित होने का अनुमान है, जो एक महत्वपूर्ण वित्तीय प्रभाव का सामना कर रहे हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Approximately 60 lakh",
+                "hi": "लगभग 60 लाख"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Approximately 45 lakh",
+                "hi": "लगभग 45 लाख"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Approximately 30 lakh",
+                "hi": "लगभग 30 लाख"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Approximately 75 lakh",
+                "hi": "लगभग 75 लाख"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The headline clearly states, '60 lakh retail shareholders face ₹8,415-crore bill' due to the Yes Bank AT1 bond verdict.\nSource: https://www.thehindu.com/business/yes-bank-at1-bond-verdict-60-lakh-retail-shareholders-face-8415-crore-bill/article71746924.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'यस बैंक AT1 बांड फैसले के कारण 60 लाख खुदरा शेयरधारकों को ₹8,415 करोड़ के बिल का सामना करना पड़ेगा।'\nस्रोत: https://www.thehindu.com/business/yes-bank-at1-bond-verdict-60-lakh-retail-shareholders-face-8415-crore-bill/article71746924.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/yes-bank-at1-bond-verdict-60-lakh-retail-shareholders-face-8415-crore-bill/article71746924.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-20"
+        },
+        {
+          "prompt": {
+            "en": "What Compound Annual Growth Rate (CAGR) is the machine tool industry projecting for itself?",
+            "hi": "मशीन टूल उद्योग अपने लिए किस चक्रवृद्धि वार्षिक वृद्धि दर (सीएजीआर) का अनुमान लगा रहा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "9%",
+                "hi": "9%"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "11%",
+                "hi": "11%"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "10%",
+                "hi": "10%"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "12%",
+                "hi": "12%"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline states, 'Machine tool industry looks at 11 % CAGR'.\nSource: https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece",
+            "hi": "शीर्षक में कहा गया है, 'मशीन टूल उद्योग 11% सीएजीआर पर है।'\nस्रोत: https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-21"
+        },
+        {
+          "prompt": {
+            "en": "What was the year-on-year increase in domestic production for the machine tool industry, and what was its value?",
+            "hi": "मशीन टूल उद्योग के लिए घरेलू उत्पादन में साल-दर-साल कितनी वृद्धि हुई और इसका मूल्य क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "15% to ₹15,000 crore",
+                "hi": "15% से ₹15,000 करोड़"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "19% to ₹17,387 crore",
+                "hi": "19% से ₹17,387 करोड़"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "22% to ₹18,500 crore",
+                "hi": "22% से ₹18,500 करोड़"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "25% to ₹20,000 crore",
+                "hi": "25% से ₹20,000 करोड़"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states, 'Domestic production increased 19% year-on-year to ₹17,387 crore'.\nSource: https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece",
+            "hi": "सूत्र का कहना है, 'घरेलू उत्पादन साल-दर-साल 19% बढ़कर ₹17,387 करोड़ हो गया।'\nस्रोत: https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-22"
+        },
+        {
+          "prompt": {
+            "en": "Which country, among others, was specifically mentioned as being affected by the new tariffs announced by the US?",
+            "hi": "अमेरिका द्वारा घोषित नए टैरिफ से प्रभावित होने के लिए दूसरों के बीच किस देश का विशेष रूप से उल्लेख किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Japan",
+                "hi": "जापान"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "India",
+                "hi": "भारत"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Germany",
+                "hi": "जर्मनी"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Canada",
+                "hi": "कनाडा"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline explicitly states, 'US announces new tariffs on host of countries including India'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'अमेरिका ने भारत सहित कई देशों पर नए टैरिफ की घोषणा की।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-23"
+        },
+        {
+          "prompt": {
+            "en": "How have other countries responded to Trump's initial tariffs, according to the analysis?",
+            "hi": "विश्लेषण के अनुसार, अन्य देशों ने ट्रम्प के शुरुआती टैरिफ पर कैसे प्रतिक्रिया दी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They have increased their imports from the US.",
+                "hi": "उन्होंने अमेरिका से अपना आयात बढ़ा दिया है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They have sought immediate negotiations to remove tariffs.",
+                "hi": "उन्होंने टैरिफ हटाने के लिए तत्काल बातचीत की मांग की है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They have imposed retaliatory tariffs on all US goods.",
+                "hi": "उन्होंने सभी अमेरिकी वस्तुओं पर जवाबी शुल्क लगा दिया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They have rerouted trade and are looking beyond Trump's tenure.",
+                "hi": "उन्होंने व्यापार का मार्ग बदल दिया है और ट्रम्प के कार्यकाल से परे देख रहे हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'अन्य देशों ने उनके पहले टैरिफ सैल्वो के जवाब में व्यापार को फिर से बदल दिया है, अब वे ट्रम्प के कार्यकाल से परे देख रहे हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-24"
+        },
+        {
+          "prompt": {
+            "en": "Who do Poundland's management and MPs blame for the retailer's current situation?",
+            "hi": "खुदरा विक्रेता की वर्तमान स्थिति के लिए पाउंडलैंड का प्रबंधन और सांसद किसे दोषी मानते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Increased competition from online retailers",
+                "hi": "ऑनलाइन खुदरा विक्रेताओं से बढ़ती प्रतिस्पर्धा"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Economic downturn and reduced consumer spending",
+                "hi": "आर्थिक मंदी और उपभोक्ता खर्च में कमी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The retailer's owners, Gordon Brothers",
+                "hi": "खुदरा विक्रेता के मालिक, गॉर्डन ब्रदर्स"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Poor management decisions by the previous CEO",
+                "hi": "पिछले सीईओ द्वारा खराब प्रबंधन निर्णय"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source explicitly states, 'Poundland's management and MPs blame the retailer's owners, Gordon Brothers'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र स्पष्ट रूप से बताता है, 'पाउंडलैंड का प्रबंधन और सांसद खुदरा विक्रेता के मालिकों, गॉर्डन ब्रदर्स को दोषी मानते हैं।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy & Business",
+          "source_label": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-25"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-27T06:30:00+05:30"
+    },
+    {
+      "title": "Science, Technology & Environment",
+      "source_filename": "daily-2026-11-27.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "According to an Arabic meet, what aspect of language remains irreplaceable in the AI era?",
+            "hi": "एक अरबी बैठक के अनुसार, एआई युग में भाषा का कौन सा पहलू अपूरणीय बना हुआ है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Its grammatical structure",
+                "hi": "इसकी व्याकरणिक संरचना"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Its cultural values",
+                "hi": "इसके सांस्कृतिक मूल्य"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Its phonetic complexity",
+                "hi": "इसकी ध्वन्यात्मक जटिलता"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Its written script",
+                "hi": "इसकी लिखित स्क्रिप्ट"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline states, 'Cultural values of language remain irreplaceable in AI era: Arabic meet'.\nSource: https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece",
+            "hi": "शीर्षक में कहा गया है, 'एआई युग में भाषा के सांस्कृतिक मूल्य अपूरणीय बने हुए हैं: अरबी मीट'।\nस्रोत: https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-26"
+        },
+        {
+          "prompt": {
+            "en": "Researchers from which institution have developed an affordable method to grow microalgae?",
+            "hi": "किस संस्थान के शोधकर्ताओं ने सूक्ष्म शैवाल उगाने के लिए एक किफायती तरीका विकसित किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "BITS Pilani-Hyderabad",
+                "hi": "बिट्स पिलानी-हैदराबाद"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "IISc Bangalore",
+                "hi": "आईआईएससी बैंगलोर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "IIT Bombay",
+                "hi": "आईआईटी बॉम्बे"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "IIT Delhi",
+                "hi": "आईआईटी दिल्ली"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The headline specifies, 'BITS Pilani-Hyderabad researchers develop affordable way to grow microalgae'.\nSource: https://www.thehindu.com/news/national/telangana/bits-pilani-hyderabad-researchers-develop-affordable-way-to-grow-microalgae/article71746060.ece",
+            "hi": "शीर्षक स्पष्ट करता है, 'बिट्स पिलानी-हैदराबाद के शोधकर्ताओं ने सूक्ष्म शैवाल उगाने का किफायती तरीका विकसित किया है।'\nस्रोत: https://www.thehindu.com/news/national/telangana/bits-pilani-hyderabad-researchers-develop-affordable-way-to-grow-microalgae/article71746060.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/news/national/telangana/bits-pilani-hyderabad-researchers-develop-affordable-way-to-grow-microalgae/article71746060.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-27"
+        },
+        {
+          "prompt": {
+            "en": "How does India's annual per capita spending on research compare to that of China and the U.S.?",
+            "hi": "अनुसंधान पर भारत का वार्षिक प्रति व्यक्ति खर्च चीन और अमेरिका की तुलना में कैसा है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "India spends more than China but less than the U.S.",
+                "hi": "भारत चीन से अधिक लेकिन अमेरिका से कम खर्च करता है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "India spends more than both China and the U.S.",
+                "hi": "भारत चीन और अमेरिका दोनों से अधिक खर्च करता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "India spends significantly less than both China and the U.S.",
+                "hi": "भारत चीन और अमेरिका दोनों की तुलना में काफी कम खर्च करता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "India's spending is comparable to China's but less than the U.S.",
+                "hi": "भारत का खर्च चीन के बराबर है लेकिन अमेरिका से कम है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'India spends about $13 a year per person on research; China spends $250, the U.S. over $2,100,' indicating India spends significantly less.\nSource: https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
+            "hi": "सूत्र का कहना है, 'भारत अनुसंधान पर प्रति व्यक्ति प्रति वर्ष लगभग 13 डॉलर खर्च करता है; चीन $250 खर्च करता है, अमेरिका $2,100 से अधिक, यह दर्शाता है कि भारत काफी कम खर्च करता है।\nस्रोत: https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-28"
+        },
+        {
+          "prompt": {
+            "en": "What is the number of full-time-equivalent researchers per million people in India?",
+            "hi": "भारत में प्रति दस लाख लोगों पर पूर्णकालिक समकक्ष शोधकर्ताओं की संख्या कितनी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Approximately 150",
+                "hi": "लगभग 150"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Approximately 375",
+                "hi": "लगभग 375"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Approximately 262",
+                "hi": "लगभग 262"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Approximately 500",
+                "hi": "लगभग 500"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'There are just 262 full-time-equivalent researchers per million people in the country'.\nSource: https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
+            "hi": "सूत्र का कहना है, 'देश में प्रति दस लाख लोगों पर केवल 262 पूर्णकालिक समकक्ष शोधकर्ता हैं।'\nस्रोत: https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-29"
+        },
+        {
+          "prompt": {
+            "en": "What new feature has been revealed on the asteroid hit by NASA's DART mission, according to recent images?",
+            "hi": "हाल की छवियों के अनुसार, NASA के DART मिशन द्वारा हिट किए गए क्षुद्रग्रह पर कौन सी नई विशेषता सामने आई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A new moonlet",
+                "hi": "एक नयी चाँदनी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A deep canyon",
+                "hi": "एक गहरी घाटी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A prominent crater",
+                "hi": "एक प्रमुख गड्ढा"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Evidence of water ice",
+                "hi": "जल बर्फ के साक्ष्य"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline states, 'New images reveal crater on asteroid hit by NASA’s DART planetary defence mission'.\nSource: https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece",
+            "hi": "शीर्षक में कहा गया है, 'नई छवियां नासा के डार्ट ग्रह रक्षा मिशन द्वारा प्रभावित क्षुद्रग्रह पर गड्ढा दिखाती हैं।'\nस्रोत: https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-30"
+        },
+        {
+          "prompt": {
+            "en": "What is the full form of DART, the NASA spacecraft that collided with Dimorphos?",
+            "hi": "DART, NASA का अंतरिक्ष यान जो डिमोर्फोस से टकराया था, का पूर्ण रूप क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Deep Asteroid Reconnaissance Test",
+                "hi": "गहन क्षुद्रग्रह टोही परीक्षण"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Dynamic Asteroid Response Trajectory",
+                "hi": "गतिशील क्षुद्रग्रह प्रतिक्रिया प्रक्षेपवक्र"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Double Asteroid Redirection Test",
+                "hi": "डबल क्षुद्रग्रह पुनर्निर्देशन परीक्षण"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Distant Asteroid Research Technology",
+                "hi": "सुदूर क्षुद्रग्रह अनुसंधान प्रौद्योगिकी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source clarifies, 'The DART, short for Double Asteroid Redirection ⁠Test, spacecraft collided with Dimorphos on September 26, 2022'.\nSource: https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece",
+            "hi": "सूत्र ने स्पष्ट किया, 'DART, डबल क्षुद्रग्रह पुनर्निर्देशन परीक्षण के लिए संक्षिप्त, अंतरिक्ष यान 26 सितंबर, 2022 को डिमोर्फोस से टकरा गया।'\nस्रोत: https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-31"
+        },
+        {
+          "prompt": {
+            "en": "In what year did The Lancet Diabetes & Endocrinology establish a commission to set obesity-related guidelines?",
+            "hi": "लैंसेट डायबिटीज एंड एंडोक्रिनोलॉजी ने मोटापे से संबंधित दिशानिर्देश निर्धारित करने के लिए किस वर्ष एक आयोग की स्थापना की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "2023",
+                "hi": "2023"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "2024",
+                "hi": "2024"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "2026",
+                "hi": "2026"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "2025",
+                "hi": "2025"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'In 2025, The Lancet Diabetes & Endocrinology established a commission of 58 experts from different countries to set obesity-related guidelines'.\nSource: https://www.thehindu.com/sci-tech/science/how-waistlines-organ-function-tell-a-better-story-of-obesity-than-bmi-does/article71737994.ece",
+            "hi": "सूत्र का कहना है, '2025 में, द लैंसेट डायबिटीज एंड एंडोक्रिनोलॉजी ने मोटापे से संबंधित दिशानिर्देश तय करने के लिए विभिन्न देशों के 58 विशेषज्ञों का एक आयोग स्थापित किया।'\nस्रोत: https://www.thehindu.com/sci-tech/science/how-waistlines-organ-function-tell-a-better-story-of-obesity-than-bmi-does/article71737994.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/how-waistlines-organ-function-tell-a-better-story-of-obesity-than-bmi-does/article71737994.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-32"
+        },
+        {
+          "prompt": {
+            "en": "What significant development concerning AI models and mathematics was announced in the third week of November?",
+            "hi": "नवंबर के तीसरे सप्ताह में एआई मॉडल और गणित से संबंधित किस महत्वपूर्ण विकास की घोषणा की गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "AI models had created new mathematical theories.",
+                "hi": "एआई मॉडल ने नए गणितीय सिद्धांत तैयार किए थे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "AI models had developed new algorithms for mathematical computations.",
+                "hi": "एआई मॉडल ने गणितीय गणनाओं के लिए नए एल्गोरिदम विकसित किए थे।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "AI models had identified errors in existing mathematical proofs.",
+                "hi": "एआई मॉडल ने मौजूदा गणितीय प्रमाणों में त्रुटियों की पहचान की थी।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "AI models had solved longstanding mathematical problems.",
+                "hi": "एआई मॉडल ने लंबे समय से चली आ रही गणितीय समस्याओं को हल कर दिया है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source mentions 'various artificial intelligence (AI) models had solved longstanding mathematical problems' in the third week of November.\nSource: https://www.thehindu.com/sci-tech/science/top-10-math-problems-ai-models-have-taken-a-run-at-in-2026-so-far/article71745209.ece",
+            "hi": "स्रोत में उल्लेख किया गया है कि 'नवंबर के तीसरे सप्ताह में विभिन्न कृत्रिम बुद्धिमत्ता (एआई) मॉडल ने लंबे समय से चली आ रही गणितीय समस्याओं को हल कर दिया था।'\nस्रोत: https://www.thehindu.com/sci-tech/science/top-10-math-problems-ai-models-have-taken-a-run-at-in-2026-so-far/article71745209.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/top-10-math-problems-ai-models-have-taken-a-run-at-in-2026-so-far/article71745209.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-33"
+        },
+        {
+          "prompt": {
+            "en": "What is the current estimated value of India's space economy, and what is its projected growth within a decade?",
+            "hi": "भारत की अंतरिक्ष अर्थव्यवस्था का वर्तमान अनुमानित मूल्य क्या है, और एक दशक के भीतर इसकी अनुमानित वृद्धि क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "$5 billion, growing to $20-25 billion",
+                "hi": "$5 बिलियन, जो बढ़कर $20-25 बिलियन हो गया"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "$15 billion, growing to $60-65 billion",
+                "hi": "$15 बिलियन, जो बढ़कर $60-65 बिलियन हो गया"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "$12 billion, growing to $50-55 billion",
+                "hi": "$12 बिलियन, जो बढ़कर $50-55 बिलियन हो गया है"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "$9 billion, growing to $40-45 billion",
+                "hi": "$9 बिलियन, जो बढ़कर $40-45 बिलियन हो गया है"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'India’s space economy is currently valued at nearly $9 billion and is set to grow to $40-45 billion in less than a decade'.\nSource: https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+            "hi": "सूत्र का कहना है, 'भारत की अंतरिक्ष अर्थव्यवस्था का मूल्य वर्तमान में लगभग 9 बिलियन डॉलर है और एक दशक से भी कम समय में यह बढ़कर 40-45 बिलियन डॉलर हो जाएगा।'\nस्रोत: https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-34"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of the recent court ruling regarding Trump's deep-sea mining ambitions?",
+            "hi": "ट्रम्प की गहरे समुद्र में खनन महत्वाकांक्षाओं के संबंध में हालिया अदालत के फैसले का परिणाम क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It was approved with minor modifications.",
+                "hi": "इसे मामूली संशोधनों के साथ मंजूरी दे दी गई।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It received conditional approval.",
+                "hi": "इसे सशर्त मंजूरी मिली."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The decision was postponed indefinitely.",
+                "hi": "फैसला अनिश्चित काल के लिए टाल दिया गया."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It faced a second court defeat.",
+                "hi": "इसे दूसरी अदालती हार का सामना करना पड़ा।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline clearly states, 'Second court defeat for Trump's deep-sea mining ambitions'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'ट्रम्प की गहरे समुद्र में खनन की महत्वाकांक्षाओं की दूसरी अदालती हार'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-35"
+        },
+        {
+          "prompt": {
+            "en": "What significant plan by Elon Musk involving SpaceX data satellites has been approved?",
+            "hi": "स्पेसएक्स डेटा उपग्रहों से जुड़ी एलन मस्क की किस महत्वपूर्ण योजना को मंजूरी दे दी गई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A plan to send a million SpaceX data satellites into space.",
+                "hi": "दस लाख स्पेसएक्स डेटा उपग्रहों को अंतरिक्ष में भेजने की योजना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A plan to send 100,000 communication satellites.",
+                "hi": "100,000 संचार उपग्रह भेजने की योजना."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A plan to launch a new space telescope.",
+                "hi": "एक नई अंतरिक्ष दूरबीन लॉन्च करने की योजना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A plan to establish a lunar base with satellites.",
+                "hi": "उपग्रहों के साथ चंद्र आधार स्थापित करने की योजना।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The headline states, 'Musk's plan to send a million SpaceX data satellites into space approved'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'मस्क की दस लाख स्पेसएक्स डेटा उपग्रहों को अंतरिक्ष में भेजने की योजना स्वीकृत'।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-36"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary objective of the Starmind constellation?",
+            "hi": "स्टारमाइंड तारामंडल का प्राथमिक उद्देश्य क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To provide global internet access to remote areas.",
+                "hi": "सुदूर क्षेत्रों तक वैश्विक इंटरनेट पहुंच प्रदान करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To conduct advanced astronomical observations.",
+                "hi": "उन्नत खगोलीय प्रेक्षणों का संचालन करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+                "hi": "एआई कंप्यूटिंग शक्ति की बढ़ती मांग को पूरा करने के लिए यह सबसे अधिक लागत और ऊर्जा-कुशल तरीका है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To monitor climate change from space.",
+                "hi": "अंतरिक्ष से जलवायु परिवर्तन की निगरानी करना।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'स्टारमाइंड समूह का लक्ष्य एआई कंप्यूटिंग शक्ति की बढ़ती मांग को पूरा करने के लिए सबसे अधिक लागत और ऊर्जा-कुशल तरीका बनाना है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-37"
+        },
+        {
+          "prompt": {
+            "en": "What type of vessel capsized near Ibiza, and what was its cargo capacity?",
+            "hi": "इबीज़ा के पास किस प्रकार का जहाज पलट गया और उसकी मालवाहक क्षमता क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Oil tanker, carrying up to 5,000 tonnes",
+                "hi": "5,000 टन तक ले जाने वाला तेल टैंकर"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Diesel tanker, carrying up to 7,000 tonnes",
+                "hi": "7,000 टन तक ले जाने वाला डीजल टैंकर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Chemical tanker, carrying up to 6,000 tonnes",
+                "hi": "6,000 टन तक ले जाने वाला रासायनिक टैंकर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Gas tanker, carrying up to 8,000 tonnes",
+                "hi": "गैस टैंकर, 8,000 टन तक ले जाने वाला"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The headline specifies, 'Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में बताया गया है, 'इबिज़ा के पास 7,000 टन तक ले जा रहा डीज़ल टैंकर पलट गया, जिससे एक की मौत हो गई।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Technology & Environment",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-38"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-27T13:00:00+05:30"
+    },
+    {
+      "title": "International Relations & Global Events",
+      "source_filename": "daily-2026-11-27.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is significant about Sheikh Hasina's recent announcement regarding her return to Bangladesh?",
+            "hi": "बांग्लादेश लौटने के संबंध में शेख हसीना की हालिया घोषणा के बारे में क्या महत्वपूर्ण है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It is her first public statement about returning.",
+                "hi": "वापसी के बारे में यह उनका पहला सार्वजनिक बयान है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "She announced her return with a new political alliance.",
+                "hi": "उन्होंने एक नए राजनीतिक गठबंधन के साथ अपनी वापसी की घोषणा की।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is the first time she has set a specific date for her return.",
+                "hi": "यह पहली बार है जब उसने अपनी वापसी के लिए कोई विशेष तारीख तय की है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "She outlined a detailed plan for her political comeback.",
+                "hi": "उन्होंने अपनी राजनीतिक वापसी के लिए एक विस्तृत योजना की रूपरेखा तैयार की।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source highlights, 'Hasina has spoken several times of her desire to return, but this is the first time she has set a date'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र ने बताया, 'हसीना ने वापसी की इच्छा के बारे में कई बार बात की है, लेकिन यह पहली बार है जब उन्होंने डेट तय की है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-39"
+        },
+        {
+          "prompt": {
+            "en": "Which US company is involved in a dispute with a German firm over generic versions of its key model?",
+            "hi": "कौन सी अमेरिकी कंपनी अपने प्रमुख मॉडल के जेनेरिक संस्करण को लेकर एक जर्मन फर्म के साथ विवाद में शामिल है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Gibson",
+                "hi": "गिब्सन"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Martin",
+                "hi": "मार्टिन"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Fender",
+                "hi": "फेंडर"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Ibanez",
+                "hi": "इब्नेज़"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'US company Fender is in dispute with a German firm that makes generic versions of its key model'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'अमेरिकी कंपनी फेंडर का एक जर्मन फर्म के साथ विवाद चल रहा है जो उसके प्रमुख मॉडल का जेनेरिक संस्करण बनाती है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-40"
+        },
+        {
+          "prompt": {
+            "en": "What is the nationality of the boat dealer suspected of supplying Channel smuggling gangs?",
+            "hi": "चैनल तस्करी गिरोहों को आपूर्ति करने वाले संदिग्ध नाव डीलर की राष्ट्रीयता क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "French",
+                "hi": "फ़्रेंच"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "British",
+                "hi": "ब्रिटिश"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "German",
+                "hi": "जर्मन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Belgian",
+                "hi": "बेल्जियम"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline clearly states, 'German boat dealer suspected of supplying Channel smuggling gangs'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'जर्मन नाव डीलर पर चैनल तस्करी गिरोहों को आपूर्ति करने का संदेह है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-41"
+        },
+        {
+          "prompt": {
+            "en": "What proportion of Channel crossings in early 2026 are allegedly linked to boats or engines from the German dealer's firm?",
+            "hi": "2026 की शुरुआत में चैनल क्रॉसिंग का कितना अनुपात कथित तौर पर जर्मन डीलर की फर्म की नावों या इंजनों से जुड़ा हुआ है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Less than a fifth",
+                "hi": "पाँचवें से भी कम"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Approximately a quarter",
+                "hi": "लगभग एक चौथाई"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Nearly a third",
+                "hi": "लगभग एक तिहाई"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "More than half",
+                "hi": "आधे से ज्यादा"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source states, 'Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, '2026 की शुरुआत में लगभग एक तिहाई क्रॉसिंग में कथित तौर पर जर्मन व्यक्ति की कंपनी की नावें या इंजन शामिल थे।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-42"
+        },
+        {
+          "prompt": {
+            "en": "What charges could Marvin Reuter face in France if extradited?",
+            "hi": "प्रत्यर्पित किए जाने पर मार्विन रॉयटर को फ़्रांस में किन आरोपों का सामना करना पड़ सकता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Tax evasion and fraud",
+                "hi": "कर चोरी और धोखाधड़ी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Money laundering and arms trafficking",
+                "hi": "मनी लॉन्ड्रिंग और हथियारों की तस्करी"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Smuggling, criminal conspiracy and involuntary manslaughter",
+                "hi": "तस्करी, आपराधिक साजिश और अनैच्छिक हत्या"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Illegal immigration and human trafficking",
+                "hi": "अवैध आप्रवासन और मानव तस्करी"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source lists the potential charges as 'smuggling, criminal conspiracy and involuntary manslaughter charges'.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+            "hi": "स्रोत संभावित आरोपों को 'तस्करी, आपराधिक साजिश और अनैच्छिक हत्या के आरोप' के रूप में सूचीबद्ध करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-43"
+        },
+        {
+          "prompt": {
+            "en": "For what alleged crime will Gérard Depardieu stand trial, according to a court ruling?",
+            "hi": "अदालत के फैसले के अनुसार जेरार्ड डेपार्डियू पर किस कथित अपराध के लिए मुकदमा चलाया जाएगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Rape",
+                "hi": "बलात्कार"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Harassment",
+                "hi": "उत्पीड़न"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Assault",
+                "hi": "हमला"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Sexual misconduct",
+                "hi": "यौन दुराचार"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The headline states, 'Gérard Depardieu to stand trial for alleged rape of actress in 2018'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'जेरार्ड डेपार्डियू को 2018 में अभिनेत्री के कथित बलात्कार के लिए मुकदमा चलाना होगा।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-44"
+        },
+        {
+          "prompt": {
+            "en": "Which court ruled that Gérard Depardieu will go on trial for alleged rape?",
+            "hi": "किस अदालत ने फैसला सुनाया कि जेरार्ड डेपार्डिउ पर कथित बलात्कार के लिए मुकदमा चलाया जाएगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The International Criminal Court",
+                "hi": "अंतर्राष्ट्रीय आपराधिक न्यायालय"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A French Supreme Court",
+                "hi": "एक फ्रांसीसी सुप्रीम कोर्ट"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The European Court of Human Rights",
+                "hi": "यूरोपीय मानवाधिकार न्यायालय"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A Paris appeals court",
+                "hi": "एक पेरिस अपील अदालत"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source states, 'A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'पेरिस की एक अपील अदालत का नियम है कि चार्लोट अर्नोल्ड के कथित बलात्कार के लिए डेपर्डियू पर मुकदमा चलाया जाएगा।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-45"
+        },
+        {
+          "prompt": {
+            "en": "How did a pregnant US inmate escape, according to the report?",
+            "hi": "रिपोर्ट के मुताबिक एक गर्भवती अमेरिकी कैदी कैसे भाग निकली?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "By overpowering a guard during transport",
+                "hi": "परिवहन के दौरान एक गार्ड को ज़बरदस्ती करके"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "By escaping from the hospital during treatment",
+                "hi": "इलाज के दौरान अस्पताल से भाग कर"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "With outside help during a prison transfer",
+                "hi": "जेल स्थानांतरण के दौरान बाहरी मदद से"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "In a prison vehicle after a medical appointment",
+                "hi": "चिकित्सीय नियुक्ति के बाद जेल वाहन में"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The headline states, 'Pregnant US inmate escapes in prison vehicle after medical appointment'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'गर्भवती अमेरिकी कैदी चिकित्सा नियुक्ति के बाद जेल वाहन में भाग गई।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-46"
+        },
+        {
+          "prompt": {
+            "en": "For what charges was the escaped US inmate, Rebecca Taylor, imprisoned?",
+            "hi": "भागे हुए अमेरिकी कैदी रेबेका टेलर को किस आरोप में कैद किया गया था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Drug trafficking and assault",
+                "hi": "मादक पदार्थों की तस्करी और हमला"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Multiple theft and burglary charges",
+                "hi": "एकाधिक चोरी और सेंधमारी के आरोप"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Fraud and embezzlement",
+                "hi": "धोखाधड़ी और गबन"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Kidnapping and armed robbery",
+                "hi": "अपहरण और सशस्त्र डकैती"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source states, 'Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र का कहना है, 'रेबेका टेलर को कई चोरी और सेंधमारी के आरोपों में न्यू मैक्सिको में कैद किया गया था।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-47"
+        },
+        {
+          "prompt": {
+            "en": "How many Italians were killed in a strike in Kuwait, and which country denied responsibility?",
+            "hi": "कुवैत में हमले में कितने इटालियन मारे गए, और किस देश ने जिम्मेदारी से इनकार किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "One Italian, Saudi Arabia denied responsibility.",
+                "hi": "एक इतालवी, सऊदी अरब ने जिम्मेदारी से इनकार किया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Three Italians, Iraq denied responsibility.",
+                "hi": "तीन इटालियंस, इराक ने जिम्मेदारी से इनकार किया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Two Italians, Iran denied responsibility.",
+                "hi": "दो इटालियंस, ईरान ने जिम्मेदारी से इनकार किया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Four Italians, Syria denied responsibility.",
+                "hi": "चार इटालियंस, सीरिया ने जिम्मेदारी से इनकार किया।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The headline states, 'Two Italians killed in strike in Kuwait, as Iran denies responsibility'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में कहा गया है, 'कुवैत में हमले में दो इटालियन मारे गए, क्योंकि ईरान जिम्मेदारी से इनकार कर रहा है।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-48"
+        },
+        {
+          "prompt": {
+            "en": "For which company were the two Italians killed in Kuwait working, according to Italy's foreign ministry?",
+            "hi": "इटली के विदेश मंत्रालय के अनुसार, कुवैत में मारे गए दोनों इटालियन किस कंपनी के लिए काम कर रहे थे?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A French aerospace company",
+                "hi": "एक फ्रांसीसी एयरोस्पेस कंपनी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A British oil and gas firm",
+                "hi": "एक ब्रिटिश तेल और गैस फर्म"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An American construction conglomerate",
+                "hi": "एक अमेरिकी निर्माण समूह"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "German company Rheinmetall",
+                "hi": "जर्मन कंपनी Rheinmetall"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The source specifies, 'The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry'.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+            "hi": "सूत्र बताता है, 'इटली के विदेश मंत्रालय के अनुसार, यह जोड़ी जर्मन कंपनी राइनमेटॉल के तकनीशियन थे।'\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "International Relations & Global Events",
+          "source_label": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-27-49"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-27T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "In Rajasthan, the girls who refuse to be spoken for",
+      "url": "https://www.thehindu.com/news/national/rajasthan/in-rajasthan-the-girls-who-refuse-to-be-spoken-for/article71742334.ece",
+      "published": "2026-11-27T02:45:13+05:30"
+    },
+    {
+      "title": "Cultural values of language remain irreplaceable in AI era: Arabic meet",
+      "url": "https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece",
+      "published": "2026-11-27T02:24:15+05:30"
+    },
+    {
+      "title": "BDO issues residence certificate to mother of child denied birth certificate due to SIR row",
+      "url": "https://www.thehindu.com/news/national/west-bengal/bdo-issues-residence-certificate-to-mother-of-child-denied-birth-certificate-due-to-sir-row/article71747493.ece",
+      "published": "2026-11-27T02:23:07+05:30"
+    },
+    {
+      "title": "Karnataka Industries Minister holds talks with four Japanese companies",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
+      "published": "2026-11-27T02:22:06+05:30"
+    },
+    {
+      "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30",
+      "url": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece",
+      "published": "2026-11-27T01:34:56+05:30"
+    },
+    {
+      "title": "NCLAT clears ₹480 crore in Jet Airways employees’ dues, sets two-week deadline",
+      "url": "https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece",
+      "published": "2026-11-26T23:01:34+05:30"
+    },
+    {
+      "title": "Supreme Court sets four-month deadline for FSSAI to finalise stricter food labelling norms",
+      "url": "https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece",
+      "published": "2026-11-26T22:39:26+05:30"
+    },
+    {
+      "title": "India attracts $31 billion in climate equity funding, but capital remains concentrated in power, transport",
+      "url": "https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece",
+      "published": "2026-11-26T22:29:21+05:30"
+    },
+    {
+      "title": "Banking stocks rebound on earnings strength, improving asset quality",
+      "url": "https://www.thehindu.com/business/markets/banking-stocks-rebound-on-earnings-strength-improving-asset-quality/article71746827.ece",
+      "published": "2026-11-26T22:07:53+05:30"
+    },
+    {
+      "title": "Yes Bank AT1 bond verdict: 60 lakh retail shareholders face ₹8,415-crore bill",
+      "url": "https://www.thehindu.com/business/yes-bank-at1-bond-verdict-60-lakh-retail-shareholders-face-8415-crore-bill/article71746924.ece",
+      "published": "2026-11-26T21:51:58+05:30"
+    },
+    {
+      "title": "Machine tool industry looks at 11 % CAGR",
+      "url": "https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece",
+      "published": "2026-11-26T21:15:41+05:30"
+    },
+    {
+      "title": "BITS Pilani-Hyderabad researchers develop affordable way to grow microalgae",
+      "url": "https://www.thehindu.com/news/national/telangana/bits-pilani-hyderabad-researchers-develop-affordable-way-to-grow-microalgae/article71746060.ece",
+      "published": "2026-11-26T17:54:00+05:30"
+    },
+    {
+      "title": "Low funding for postdoc roles fuelling brain drain, govt. funds only 2,500 positions",
+      "url": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece",
+      "published": "2026-11-26T12:44:36+05:30"
+    },
+    {
+      "title": "New images reveal crater on asteroid hit by NASA’s DART planetary defence mission",
+      "url": "https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece",
+      "published": "2026-11-26T11:15:16+05:30"
+    },
+    {
+      "title": "How waistlines, organ function tell a better story of obesity than BMI does",
+      "url": "https://www.thehindu.com/sci-tech/science/how-waistlines-organ-function-tell-a-better-story-of-obesity-than-bmi-does/article71737994.ece",
+      "published": "2026-11-26T11:00:32+05:30"
+    },
+    {
+      "title": "Top 10 math problems AI models have taken a run at in 2026 (so far)",
+      "url": "https://www.thehindu.com/sci-tech/science/top-10-math-problems-ai-models-have-taken-a-run-at-in-2026-so-far/article71745209.ece",
+      "published": "2026-11-26T10:32:39+05:30"
+    },
+    {
+      "title": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
+      "url": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+      "published": "2026-11-26T06:56:45+05:30"
+    },
+    {
+      "title": "The big fat wedding of politician's daughter making headlines in India",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6l162j0rpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T10:38:00+00:00"
+    },
+    {
+      "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T08:30:12+00:00"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including India",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T04:10:58+00:00"
+    },
+    {
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T06:23:01+00:00"
+    },
+    {
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T19:55:58+00:00"
+    },
+    {
+      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T13:40:46+00:00"
+    },
+    {
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:01:37+00:00"
+    },
+    {
+      "title": "Second court defeat for Trump's deep-sea mining ambitions",
+      "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T18:22:28+00:00"
+    },
+    {
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T09:27:44+00:00"
+    },
+    {
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T05:00:24+00:00"
+    },
+    {
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T05:00:27+00:00"
+    },
+    {
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T15:17:18+00:00"
+    },
+    {
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T14:44:26+00:00"
+    },
+    {
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T14:35:22+00:00"
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T21:17:53+00:00"
+    }
+  ]
+}
