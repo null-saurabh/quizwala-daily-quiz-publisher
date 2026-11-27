@@ -1,0 +1,2342 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-28",
+  "generated_at": "2026-11-27T21:39:32.608834+00:00",
+  "status": "ready",
+  "sets": [
+    {
+      "title": "National Affairs, Policy & Governance",
+      "source_filename": "daily-2026-11-28.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What political accusation did Omar Abdullah make regarding the Amarnath route?",
+            "hi": "अमरनाथ रूट को लेकर उमर अब्दुल्ला ने क्या लगाया राजनीतिक आरोप?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That the BJP and others were trying to foment Hindu-Muslim discord over the Amarnath route.",
+                "hi": "कि भाजपा और अन्य लोग अमरनाथ मार्ग पर हिंदू-मुस्लिम विवाद पैदा करने की कोशिश कर रहे थे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That the route was being privatized for commercial gains.",
+                "hi": "व्यावसायिक लाभ के लिए इस मार्ग का निजीकरण किया जा रहा है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That the government was neglecting the safety of pilgrims on the route.",
+                "hi": "कि सरकार मार्ग पर तीर्थयात्रियों की सुरक्षा की उपेक्षा कर रही है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That the route was being used for illegal mining activities.",
+                "hi": "इस मार्ग का उपयोग अवैध खनन गतिविधियों के लिए किया जा रहा था।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "Omar Abdullah explicitly stated that ‘The BJP and those carrying the symbol of pen and inkpot are again trying to foment Hindu-Muslim discord over the Amarnath route,’ which is the core of his political accusation.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece",
+            "hi": "उमर अब्दुल्ला ने स्पष्ट रूप से कहा कि 'भाजपा और कलम और स्याही का प्रतीक रखने वाले लोग फिर से अमरनाथ मार्ग पर हिंदू-मुस्लिम कलह पैदा करने की कोशिश कर रहे हैं,' जो उनके राजनीतिक आरोप का मूल है।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-1"
+        },
+        {
+          "prompt": {
+            "en": "What charges led to the arrest of Kallakurichi TVK MLA Arul Vignesh?",
+            "hi": "कल्लाकुरिची टीवीके विधायक अरुल विग्नेश को किस आरोप में गिरफ्तार किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Charges of corruption and misuse of public funds.",
+                "hi": "भ्रष्टाचार और सार्वजनिक धन के दुरुपयोग के आरोप।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Charges of land encroachment and illegal construction.",
+                "hi": "ज़मीन पर कब्ज़ा और अवैध निर्माण का आरोप."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Charges of inciting public unrest.",
+                "hi": "सार्वजनिक अशांति भड़काने का आरोप."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Charges of harassing IAS officer.",
+                "hi": "आईएएस अधिकारी पर प्रताड़ित करने का आरोप."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer', directly indicating the reason for his arrest.\nSource: https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'कल्लाकुरिची टीवीके विधायक अरुल विग्नेश को आईएएस अधिकारी को परेशान करने के आरोप में गिरफ्तार किया गया', जो सीधे तौर पर उनकी गिरफ्तारी का कारण बताता है।\nस्रोत: https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-2"
+        },
+        {
+          "prompt": {
+            "en": "Who was recently appointed as Jammu & Kashmir’s Advocate General after a two-year vacancy?",
+            "hi": "हाल ही में दो साल की रिक्ति के बाद जम्मू और कश्मीर के महाधिवक्ता के रूप में किसे नियुक्त किया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Syed Faisal Qadri",
+                "hi": "सैयद फैसल कादरी"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Arul Vignesh",
+                "hi": "अरुल विग्नेश"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Omar Abdullah",
+                "hi": "उमर अब्दुल्ला"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Piyush Goyal",
+                "hi": "पीयूष गोयल"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The source explicitly states, 'Senior advocate Syed Faisal Qadri appointed as J&K’s Advocate General after two year gap', identifying him as the appointee.\nSource: https://www.thehindu.com/news/national/jammu-and-kashmir/senior-advocate-syed-faisal-qadri-appointed-as-jks-advocate-general-after-two-year-gap/article71751519.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा, 'वरिष्ठ वकील सैयद फैसल कादरी को दो साल के अंतराल के बाद जम्मू-कश्मीर के महाधिवक्ता के रूप में नियुक्त किया गया', उनकी पहचान इस नियुक्तिकर्ता के रूप में की गई है।\nस्रोत: https://www.thehindu.com/news/national/jammu-and-kashmir/senior-advocate-syed-faisal-qadri-appointed-as-jks-advocate-general-after-two-year-gap/article71751519.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/jammu-and-kashmir/senior-advocate-syed-faisal-qadri-appointed-as-jks-advocate-general-after-two-year-gap/article71751519.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-3"
+        },
+        {
+          "prompt": {
+            "en": "What are two key proposals of the new Constitutional Amendment Bill regarding Lok Sabha seats and representation?",
+            "hi": "लोकसभा सीटों और प्रतिनिधित्व के संबंध में नए संवैधानिक संशोधन विधेयक के दो प्रमुख प्रस्ताव क्या हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To reduce the number of Lok Sabha seats by 25% and introduce 10% reservation for women.",
+                "hi": "लोकसभा सीटों की संख्या 25% कम करना और महिलाओं के लिए 10% आरक्षण लागू करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To freeze the number of Lok Sabha seats until 2071 and remove all reservations.",
+                "hi": "2071 तक लोकसभा सीटों की संख्या स्थिर करना और सभी आरक्षण हटा देना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the Lok Sabha.",
+                "hi": "प्रत्येक राज्य में लोकसभा सीटों की संख्या 50% तक बढ़ाना; वे लोकसभा में महिलाओं के लिए 33% आरक्षण को भी लागू करते हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To maintain the current number of Lok Sabha seats and introduce 50% reservation for women.",
+                "hi": "लोकसभा सीटों की वर्तमान संख्या को बनाए रखना और महिलाओं के लिए 50% आरक्षण लागू करना।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states that the bill 'proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the Lok Sabha'.\nSource: https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है कि विधेयक 'प्रत्येक राज्य में लोकसभा सीटों की संख्या 50% बढ़ाने का प्रस्ताव करता है; वे लोकसभा में महिलाओं के लिए 33% आरक्षण भी लागू करते हैं।'\nस्रोत: https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-4"
+        },
+        {
+          "prompt": {
+            "en": "What significant change has been made regarding the link between Lok Sabha seat distribution and population stability in the 132nd Constitutional Amendment Bill?",
+            "hi": "132वें संविधान संशोधन विधेयक में लोकसभा सीट वितरण और जनसंख्या स्थिरता के बीच संबंध के संबंध में क्या महत्वपूर्ण परिवर्तन किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The link between population stability and Lok Sabha share has been strengthened.",
+                "hi": "जनसंख्या स्थिरता और लोकसभा हिस्सेदारी के बीच संबंध मजबूत हुआ है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The link between population stability and Lok Sabha share has been made conditional.",
+                "hi": "जनसंख्या स्थिरता और लोकसभा हिस्सेदारी के बीच संबंध को सशर्त बना दिया गया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The link between population stability and Lok Sabha share has been removed.",
+                "hi": "जनसंख्या स्थिरता और लोकसभा हिस्सेदारी के बीच का संबंध हटा दिया गया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The link between population stability and Lok Sabha share has been extended for another 25 years.",
+                "hi": "जनसंख्या स्थिरता और लोकसभा हिस्सेदारी के बीच संबंध अगले 25 वर्षों के लिए बढ़ा दिया गया है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The source explicitly states, 'That link between population stability and Lok Sabha share has been removed in the 132nd Constitutional Amendment Bill', indicating a significant change.\nSource: https://www.thehindu.com/news/national/lok-sabha-seat-freeze-is-no-longer-linked-to-population-stabilisation/article71752281.ece",
+            "hi": "सूत्र ने स्पष्ट रूप से कहा, '132वें संवैधानिक संशोधन विधेयक में जनसंख्या स्थिरता और लोकसभा हिस्सेदारी के बीच के लिंक को हटा दिया गया है, जो एक महत्वपूर्ण बदलाव का संकेत देता है।\nस्रोत: https://www.thehindu.com/news/national/lok-sabha-seat-freeze-is-no-longer-linked-to-population-stabilisation/article71752281.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/news/national/lok-sabha-seat-freeze-is-no-longer-linked-to-population-stabilisation/article71752281.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-5"
+        },
+        {
+          "prompt": {
+            "en": "What concern is raised regarding the implementation of cash transfer schemes and subsidies in terms of evaluation?",
+            "hi": "मूल्यांकन के संदर्भ में नकद हस्तांतरण योजनाओं और सब्सिडी के कार्यान्वयन के संबंध में क्या चिंता व्यक्त की गई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They are frequently implemented without any ex ante appraisal.",
+                "hi": "इन्हें अक्सर बिना किसी पूर्व मूल्यांकन के लागू किया जाता है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They are often too small to make a significant impact on poverty.",
+                "hi": "गरीबी पर महत्वपूर्ण प्रभाव डालने के लिए वे अक्सर बहुत छोटे होते हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They lead to excessive inflation and economic instability.",
+                "hi": "वे अत्यधिक मुद्रास्फीति और आर्थिक अस्थिरता को जन्म देते हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are primarily designed to benefit only a select few.",
+                "hi": "वे मुख्य रूप से केवल कुछ चुनिंदा लोगों को लाभ पहुंचाने के लिए डिज़ाइन किए गए हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt highlights that a social policy 'is often based on expected electoral gain, and is implemented without any ex ante appraisal', which is the concern raised about their evaluation.\nSource: https://www.thehindu.com/business/Economy/the-fiscal-cost-of-cash-transfer-schemes/article71747863.ece",
+            "hi": "अंश इस बात पर प्रकाश डालता है कि एक सामाजिक नीति 'अक्सर अपेक्षित चुनावी लाभ पर आधारित होती है, और बिना किसी पूर्व मूल्यांकन के लागू की जाती है', जो उनके मूल्यांकन के बारे में चिंता का विषय है।\nस्रोत: https://www.thehindu.com/business/Economy/the-fiscal-cost-of-cash-transfer-schemes/article71747863.ece"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.thehindu.com/business/Economy/the-fiscal-cost-of-cash-transfer-schemes/article71747863.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-6"
+        },
+        {
+          "prompt": {
+            "en": "What political motive did Omar Abdullah attribute to the 'Sheshnag row'?",
+            "hi": "उमर अब्दुल्ला ने 'शेषनाग विवाद' को क्या राजनीतिक मकसद बताया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He believed it was an attempt to divert attention from economic issues.",
+                "hi": "उनका मानना था कि यह आर्थिक मुद्दों से ध्यान भटकाने की कोशिश है."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He suggested it was a strategy to gain international support.",
+                "hi": "उन्होंने सुझाव दिया कि यह अंतरराष्ट्रीय समर्थन हासिल करने की एक रणनीति थी।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He saw a UP poll angle in Sheshnag row – ‘Stoking communal tension before elections’.",
+                "hi": "शेषनाग विवाद में उन्हें यूपी चुनाव का एंगल नजर आया- 'चुनाव से पहले सांप्रदायिक तनाव भड़काना'।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He thought it was aimed at promoting regional tourism.",
+                "hi": "उन्होंने सोचा कि इसका उद्देश्य क्षेत्रीय पर्यटन को बढ़ावा देना है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title directly states, 'Omar sees UP poll angle in Sheshnag row – ‘Stoking communal tension before elections’', indicating his attributed political motive.\nSource: https://indianexpress.com/article/india/omar-abdullah-accuses-bjp-pdp-communal-tension-amarnath-yatra-track-sheshnag-lake-up-polls-10981671/",
+            "hi": "शीर्षक में सीधे तौर पर कहा गया है, 'उमर शेषनाग विवाद में यूपी चुनाव का कोण देखते हैं - 'चुनाव से पहले सांप्रदायिक तनाव भड़काना'', जो उनके कथित राजनीतिक मकसद को दर्शाता है।\nस्रोत: https://indianexpress.com/article/india/omar-abdullah-accuses-bjp-pdp-communal-tension-amarnath-yatra-track-sheshnag-lake-up-polls-10981671/"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://indianexpress.com/article/india/omar-abdullah-accuses-bjp-pdp-communal-tension-amarnath-yatra-track-sheshnag-lake-up-polls-10981671/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-7"
+        },
+        {
+          "prompt": {
+            "en": "According to the Delimitation Bill, what is the proposed number of Lok Sabha seats?",
+            "hi": "परिसीमन विधेयक के अनुसार लोकसभा सीटों की प्रस्तावित संख्या कितनी है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "543 Lok Sabha seats",
+                "hi": "543 लोकसभा सीटें"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "750 Lok Sabha seats",
+                "hi": "750 लोकसभा सीटें"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "850 Lok Sabha seats",
+                "hi": "850 लोकसभा सीटें"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "900 Lok Sabha seats",
+                "hi": "900 लोकसभा सीटें"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title of the source explicitly mentions, 'Delimitation Bill full text: 850 Lok Sabha seats, women’s quota, 25-year freeze', directly stating the proposed number of seats.\nSource: https://indianexpress.com/article/india/delimitation-bill-full-text-constitution-132nd-amendment-bill-lok-sabha-seats-10981637/",
+            "hi": "स्रोत के शीर्षक में स्पष्ट रूप से उल्लेख किया गया है, 'परिसीमन विधेयक का पूरा पाठ: 850 लोकसभा सीटें, महिलाओं का कोटा, 25 साल की रोक', सीधे सीटों की प्रस्तावित संख्या बताती है।\nस्रोत: https://indianexpress.com/article/india/delimitation-bill-full-text-constitution-132nd-amendment-bill-lok-sabha-seats-10981637/"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://indianexpress.com/article/india/delimitation-bill-full-text-constitution-132nd-amendment-bill-lok-sabha-seats-10981637/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-8"
+        },
+        {
+          "prompt": {
+            "en": "What change has the Election Commission (EC) made regarding the honorarium for tribunal judges in Bengal?",
+            "hi": "बंगाल में ट्रिब्यूनल जजों के मानदेय को लेकर चुनाव आयोग (EC) ने क्या बदलाव किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It has hiked tribunal judges’ honorarium to Rs 2.5 lakh a month from Rs 25,000 a week.",
+                "hi": "इसने न्यायाधिकरण न्यायाधीशों का मानदेय 25,000 रुपये प्रति सप्ताह से बढ़ाकर 2.5 लाख रुपये प्रति माह कर दिया है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It has maintained the honorarium at Rs 25,000 a week.",
+                "hi": "इसने मानदेय 25,000 रुपये प्रति सप्ताह बरकरार रखा है."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It has reduced the honorarium to Rs 10,000 a month.",
+                "hi": "इसने मानदेय को घटाकर 10,000 रुपये प्रति माह कर दिया है."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It has introduced a performance-based bonus system instead of a fixed honorarium.",
+                "hi": "इसने निश्चित मानदेय के बजाय प्रदर्शन-आधारित बोनस प्रणाली शुरू की है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states, 'EC hikes tribunal judges’ honorarium to Rs 2.5 lakh a month from Rs 25,000 a week', detailing the change made.\nSource: https://indianexpress.com/article/india/election-commission-sir-hikes-honorarium-west-bengal-appellate-tribunal-retired-judges-10981490/",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'EC ने ट्रिब्यूनल जजों का मानदेय 25,000 रुपये प्रति सप्ताह से बढ़ाकर 2.5 लाख रुपये प्रति माह कर दिया है', जिसमें किए गए बदलाव का विवरण दिया गया है।\nस्रोत: https://indianexpress.com/article/india/election-commission-sir-hikes-honorarium-west-bengal-appellate-tribunal-retired-judges-10981490/"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://indianexpress.com/article/india/election-commission-sir-hikes-honorarium-west-bengal-appellate-tribunal-retired-judges-10981490/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-9"
+        },
+        {
+          "prompt": {
+            "en": "What change has been implemented regarding the fine for number plate toll-dodging?",
+            "hi": "नंबर प्लेट चुराने पर जुर्माने को लेकर क्या बदलाव लागू किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The fine goes up 5 times.",
+                "hi": "जुर्माना 5 गुना बढ़ जाता है."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The fine has been converted to community service.",
+                "hi": "जुर्माने को सामुदायिक सेवा में बदल दिया गया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The fine has been reduced by half.",
+                "hi": "जुर्माना आधा कर दिया गया है."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The fine has been abolished for first-time offenders.",
+                "hi": "पहली बार अपराध करने वालों के लिए जुर्माना समाप्त कर दिया गया है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'number plate toll-dodging fine goes up 5 times', indicating the increase in the penalty.\nSource: https://indianexpress.com/article/business/number-plate-tampering-five-times-toll-penalty-10981291/",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'नंबर प्लेट टोल-चकमा देने पर जुर्माना 5 गुना बढ़ गया है', जो जुर्माने में वृद्धि का संकेत देता है।\nस्रोत: https://indianexpress.com/article/business/number-plate-tampering-five-times-toll-penalty-10981291/"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://indianexpress.com/article/business/number-plate-tampering-five-times-toll-penalty-10981291/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-10"
+        },
+        {
+          "prompt": {
+            "en": "What type of network did India recently bust, leading to the rescue of 164 foreigners?",
+            "hi": "भारत ने हाल ही में किस प्रकार के नेटवर्क का भंडाफोड़ किया, जिससे 164 विदेशियों को बचाया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A drug smuggling and money laundering network.",
+                "hi": "नशीली दवाओं की तस्करी और मनी लॉन्ड्रिंग नेटवर्क।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A wildlife poaching and illegal timber trade network.",
+                "hi": "एक वन्यजीव अवैध शिकार और अवैध लकड़ी व्यापार नेटवर्क।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "An illegal arms trade and espionage network.",
+                "hi": "एक अवैध हथियार व्यापार और जासूसी नेटवर्क।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A cyberfraud and trafficking network.",
+                "hi": "एक साइबर धोखाधड़ी और तस्करी नेटवर्क।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'India busts cyberfraud and trafficking network rescuing 164 foreigners', identifying the nature of the network.\nSource: BBC News · https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'भारत ने साइबर धोखाधड़ी और तस्करी नेटवर्क का भंडाफोड़ कर 164 विदेशियों को बचाया', जिससे नेटवर्क की प्रकृति की पहचान होती है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-11"
+        },
+        {
+          "prompt": {
+            "en": "What significant legal gap is highlighted in South Asia regarding marital rape?",
+            "hi": "वैवाहिक बलात्कार के संबंध में दक्षिण एशिया में किस महत्वपूर्ण कानूनी अंतर को उजागर किया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A large part of South Asia has not outlawed marital rape.",
+                "hi": "दक्षिण एशिया के एक बड़े हिस्से ने वैवाहिक बलात्कार को ग़ैरकानूनी नहीं ठहराया है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The absence of legal aid for victims of marital abuse.",
+                "hi": "वैवाहिक दुर्व्यवहार के पीड़ितों के लिए कानूनी सहायता का अभाव।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The lack of awareness campaigns about marital rights.",
+                "hi": "वैवाहिक अधिकारों के बारे में जागरूकता अभियानों का अभाव।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The insufficient number of shelters for victims of domestic violence.",
+                "hi": "घरेलू हिंसा के पीड़ितों के लिए आश्रयों की अपर्याप्त संख्या।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'More than 100 countries have outlawed marital rape, but a large part of South Asia has not.', pointing out the legal gap.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, '100 से अधिक देशों ने वैवाहिक बलात्कार को गैरकानूनी घोषित कर दिया है, लेकिन दक्षिण एशिया के एक बड़े हिस्से ने ऐसा नहीं किया है।', कानूनी अंतर की ओर इशारा करते हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "National Affairs, Policy & Governance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-12"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 1,
+      "release_at": "2026-11-28T06:30:00+05:30"
+    },
+    {
+      "title": "Economy, Business & Finance",
+      "source_filename": "daily-2026-11-28.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "What economic trend is observed in the global fashion industry concerning Bangladesh and India amid unrest?",
+            "hi": "अशांति के बीच वैश्विक फैशन उद्योग में बांग्लादेश और भारत को लेकर क्या आर्थिक रुझान देखा गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Global fashion brands are increasing their investments in Bangladesh due to lower labor costs.",
+                "hi": "कम श्रम लागत के कारण वैश्विक फैशन ब्रांड बांग्लादेश में अपना निवेश बढ़ा रहे हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Brands diverted about $254 million worth ⁠of orders from Bangladesh, with most moving to neighbouring India.",
+                "hi": "ब्रांडों ने बांग्लादेश से लगभग 254 मिलियन डॉलर मूल्य के ऑर्डर डायवर्ट किए, जिनमें से अधिकांश पड़ोसी भारत में चले गए।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Global fashion brands are shifting their focus to other Southeast Asian countries.",
+                "hi": "वैश्विक फैशन ब्रांड अपना ध्यान अन्य दक्षिण पूर्व एशियाई देशों पर केंद्रित कर रहे हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Global fashion brands are reducing their overall production volume due to economic slowdown.",
+                "hi": "आर्थिक मंदी के कारण वैश्विक फैशन ब्रांड अपने कुल उत्पादन की मात्रा कम कर रहे हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The source explicitly states, 'Between November 1 and 18, brands diverted about $254 million worth ⁠of orders from Bangladesh, with most moving to neighbouring India', describing the observed economic trend.\nSource: https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
+            "hi": "सूत्र स्पष्ट रूप से बताता है, '1 से 18 नवंबर के बीच, ब्रांडों ने बांग्लादेश से लगभग 254 मिलियन डॉलर मूल्य के ऑर्डर डायवर्ट किए, जिनमें से अधिकांश पड़ोसी भारत में चले गए', जो कि देखे गए आर्थिक रुझान का वर्णन करता है।\nस्रोत: https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-13"
+        },
+        {
+          "prompt": {
+            "en": "What was the Bombay High Court's decision regarding the Tata Sons board meeting scheduled for November 30?",
+            "hi": "30 नवंबर को होने वाली टाटा संस की बोर्ड मीटिंग को लेकर बॉम्बे हाई कोर्ट का क्या फैसला था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "It postponed the meeting indefinitely.",
+                "hi": "इससे बैठक अनिश्चितकाल के लिए स्थगित हो गयी."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It ordered a new agenda for the meeting.",
+                "hi": "इसने बैठक के लिए एक नया एजेंडा तैयार करने का आदेश दिया।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It gives go-ahead for Tata Sons board meeting on November 30.",
+                "hi": "इसमें 30 नवंबर को टाटा संस की बोर्ड मीटिंग को हरी झंडी मिल गई है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It mandated the presence of all shareholders at the meeting.",
+                "hi": "इसने बैठक में सभी शेयरधारकों की उपस्थिति अनिवार्य कर दी।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'Bombay High Court gives go-ahead for Tata Sons board meeting on November 30', indicating the court's decision.\nSource: https://www.thehindu.com/business/bombay-high-court-gives-go-ahead-for-tata-sons-board-meeting-on-november-30/article71752235.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'बॉम्बे हाई कोर्ट ने 30 नवंबर को टाटा संस की बोर्ड बैठक के लिए हरी झंडी दे दी है', जो कोर्ट के फैसले का संकेत देता है।\nस्रोत: https://www.thehindu.com/business/bombay-high-court-gives-go-ahead-for-tata-sons-board-meeting-on-november-30/article71752235.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/bombay-high-court-gives-go-ahead-for-tata-sons-board-meeting-on-november-30/article71752235.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-14"
+        },
+        {
+          "prompt": {
+            "en": "What measure has the Southern India Mills' Association (SIMA) requested due to a cotton output shortfall?",
+            "hi": "कपास उत्पादन में कमी के कारण दक्षिणी भारत मिल्स एसोसिएशन (एसआईएमए) ने किस उपाय का अनुरोध किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A five-year import duty waiver.",
+                "hi": "पांच साल की आयात शुल्क माफी."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A ban on cotton exports for two years.",
+                "hi": "कपास निर्यात पर दो साल के लिए प्रतिबंध।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "A subsidy for domestic cotton production.",
+                "hi": "घरेलू कपास उत्पादन के लिए सब्सिडी।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A price ceiling on cotton sales.",
+                "hi": "कपास की बिक्री पर मूल्य सीमा।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'Cotton output shortfall: SIMA seeks five-year import duty waiver', detailing the requested measure.\nSource: https://www.thehindu.com/business/cotton-output-shortfall-sima-seeks-five-year-import-duty-waiver/article71751172.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'कपास उत्पादन में कमी: SIMA पांच साल के आयात शुल्क माफी चाहता है', अनुरोधित उपाय का विवरण देता है।\nस्रोत: https://www.thehindu.com/business/cotton-output-shortfall-sima-seeks-five-year-import-duty-waiver/article71751172.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/cotton-output-shortfall-sima-seeks-five-year-import-duty-waiver/article71751172.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-15"
+        },
+        {
+          "prompt": {
+            "en": "What is the RBI Governor's estimate for AI’s potential economic value to MSMEs, and what does he urge?",
+            "hi": "एमएसएमई के लिए एआई के संभावित आर्थिक मूल्य के लिए आरबीआई गवर्नर का अनुमान क्या है, और वह क्या आग्रह करते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He pegs AI's value at $100 billion and urges caution in adoption.",
+                "hi": "उन्होंने एआई का मूल्य 100 बिलियन डॉलर आंका है और इसे अपनाने में सावधानी बरतने का आग्रह किया है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He pegs AI’s potential economic value to MSMEs at $685 billion, urges faster adoption.",
+                "hi": "उन्होंने एमएसएमई के लिए एआई का संभावित आर्थिक मूल्य 685 अरब डॉलर आंका है और इसे तेजी से अपनाने का आग्रह किया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He estimates AI's value at $50 billion and suggests focusing on traditional methods.",
+                "hi": "उनका अनुमान है कि AI का मूल्य $50 बिलियन है और पारंपरिक तरीकों पर ध्यान केंद्रित करने का सुझाव देता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He believes AI has no significant economic value for MSMEs.",
+                "hi": "उनका मानना है कि एआई का एमएसएमई के लिए कोई महत्वपूर्ण आर्थिक मूल्य नहीं है।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The title clearly states, 'RBI Governor pegs AI’s potential economic value to MSMEs at $685 billion, urges faster adoption', providing both the estimate and the call to action.\nSource: https://www.thehindu.com/business/Industry/rbi-governor-pegs-ais-potential-economic-value-to-msmes-at-685-billion-urges-faster-adoption/article71751516.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'आरबीआई गवर्नर ने एमएसएमई के लिए एआई का संभावित आर्थिक मूल्य $685 बिलियन आंका है, इसे तेजी से अपनाने का आग्रह किया है', यह अनुमान और कार्रवाई का आह्वान दोनों प्रदान करता है।\nस्रोत: https://www.thehindu.com/business/Industry/rbi-governor-pegs-ais-potential-economic-value-to-msmes-at-685-billion-urges-faster-adoption/article71751516.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Industry/rbi-governor-pegs-ais-potential-economic-value-to-msmes-at-685-billion-urges-faster-adoption/article71751516.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-16"
+        },
+        {
+          "prompt": {
+            "en": "What recent action by the RBI is expected to improve banks’ liquidity and support credit deployment?",
+            "hi": "आरबीआई की किस हालिया कार्रवाई से बैंकों की तरलता में सुधार और ऋण परिनियोजन में सहायता की उम्मीद है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Cutting daily CRR maintenance to 90%, to unlock over ₹40,000 crore.",
+                "hi": "₹40,000 करोड़ से अधिक अनलॉक करने के लिए दैनिक सीआरआर रखरखाव में 90% की कटौती।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Introducing new regulations for foreign investments.",
+                "hi": "विदेशी निवेश के लिए नए नियम पेश करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Increasing the repo rate to control inflation.",
+                "hi": "महंगाई पर काबू पाने के लिए रेपो रेट बढ़ाना."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Implementing stricter lending norms for commercial banks.",
+                "hi": "वाणिज्यिक बैंकों के लिए ऋण देने के सख्त नियम लागू करना।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'RBI cuts daily CRR maintenance to 90%, to unlock over ₹40,000 crore', which is expected to improve banks' liquidity.\nSource: https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'RBI ने ₹40,000 करोड़ से अधिक को अनलॉक करने के लिए दैनिक CRR रखरखाव में 90% की कटौती की है', जिससे बैंकों की तरलता में सुधार की उम्मीद है।\nस्रोत: https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-17"
+        },
+        {
+          "prompt": {
+            "en": "What impact do U.S. chip curbs have on Asia data-centre investment, according to Fitch?",
+            "hi": "फिच के अनुसार, अमेरिकी चिप प्रतिबंधों का एशिया डेटा-सेंटर निवेश पर क्या प्रभाव पड़ेगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "They will accelerate Asia data-centre investment.",
+                "hi": "वे एशिया डेटा-सेंटर निवेश में तेजी लाएंगे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They will have no significant impact on Asia data-centre investment.",
+                "hi": "एशिया डेटा-सेंटर निवेश पर उनका कोई महत्वपूर्ण प्रभाव नहीं पड़ेगा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They will shift Asia data-centre investment to other regions.",
+                "hi": "वे एशिया डेटा-सेंटर निवेश को अन्य क्षेत्रों में स्थानांतरित करेंगे।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They will slow Asia data-centre investment.",
+                "hi": "वे एशिया डेटा-सेंटर निवेश को धीमा कर देंगे।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title clearly states, 'U.S. chip curbs will slow Asia data-centre investment, Fitch says', indicating the predicted impact.\nSource: https://www.thehindu.com/sci-tech/technology/us-chip-curbs-will-slow-asia-data-centre-investment-fitch-says/article71749270.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'यू.एस. फिच का कहना है, 'चिप प्रतिबंधों से एशिया डेटा-सेंटर निवेश धीमा हो जाएगा', जो अनुमानित प्रभाव का संकेत देता है।\nस्रोत: https://www.thehindu.com/sci-tech/technology/us-chip-curbs-will-slow-asia-data-centre-investment-fitch-says/article71749270.ece"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/us-chip-curbs-will-slow-asia-data-centre-investment-fitch-says/article71749270.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-18"
+        },
+        {
+          "prompt": {
+            "en": "What request has the Adani Group CFO made to the government regarding airlines?",
+            "hi": "अडानी ग्रुप के सीएफओ ने एयरलाइंस को लेकर सरकार से क्या अनुरोध किया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "To nationalize all private airlines.",
+                "hi": "सभी निजी एयरलाइनों का राष्ट्रीयकरण करना।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "To provide subsidies for airline operations.",
+                "hi": "एयरलाइन परिचालन के लिए सब्सिडी प्रदान करना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "To impose stricter regulations on airline competition.",
+                "hi": "एयरलाइन प्रतिस्पर्धा पर कड़े नियम लागू करना।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "To let us invest in airlines, facilitate their development.",
+                "hi": "आइए हम एयरलाइंस में निवेश करें, उनके विकास को सुविधाजनक बनाएं।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title directly quotes the Adani Group CFO saying, 'Have asked Government to let us invest in airlines, facilitate their development', which is their request.\nSource: https://indianexpress.com/article/business/adani-group-cfo-jugeshinder-robbie-singh-confirms-government-request-invest-in-airlines-omda-cross-holding-rules-10981682/",
+            "hi": "शीर्षक में सीधे तौर पर अदानी समूह के सीएफओ को यह कहते हुए उद्धृत किया गया है, 'हमने सरकार से हमें एयरलाइंस में निवेश करने, उनके विकास को सुविधाजनक बनाने की अनुमति देने के लिए कहा है', जो उनका अनुरोध है।\nस्रोत: https://indianexpress.com/article/business/adani-group-cfo-jugeshinder-robbie-singh-confirms-government-request-invest-in-airlines-omda-cross-holding-rules-10981682/"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://indianexpress.com/article/business/adani-group-cfo-jugeshinder-robbie-singh-confirms-government-request-invest-in-airlines-omda-cross-holding-rules-10981682/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-19"
+        },
+        {
+          "prompt": {
+            "en": "What two key recommendations did the RBI chief make for MSMEs to enhance their productivity?",
+            "hi": "आरबीआई प्रमुख ने एमएसएमई की उत्पादकता बढ़ाने के लिए उनके लिए कौन सी दो प्रमुख सिफारिशें कीं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "MSMEs should make the most of FTAs, adopt newer tech like AI.",
+                "hi": "एमएसएमई को एफटीए का अधिकतम लाभ उठाना चाहिए, एआई जैसी नई तकनीक अपनानी चाहिए।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Seek government bailouts and avoid foreign trade.",
+                "hi": "सरकारी सहायता लें और विदेशी व्यापार से बचें।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Focus on traditional manufacturing and reduce digital presence.",
+                "hi": "पारंपरिक विनिर्माण पर ध्यान दें और डिजिटल उपस्थिति कम करें।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Increase manual labor and decrease automation.",
+                "hi": "शारीरिक श्रम बढ़ाएँ और स्वचालन कम करें।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states the RBI chief's advice: 'MSMEs should make the most of FTAs, adopt newer tech like AI'.\nSource: https://indianexpress.com/article/business/rbi-governor-sanjay-malhotra-ai-economic-value-indian-msme-sector-productivity-fta-utilisation-mumbai-summit-10981091/",
+            "hi": "शीर्षक में आरबीआई प्रमुख की सलाह स्पष्ट रूप से बताई गई है: 'एमएसएमई को एफटीए का अधिकतम लाभ उठाना चाहिए, एआई जैसी नई तकनीक अपनानी चाहिए।'\nस्रोत: https://indianexpress.com/article/business/rbi-governor-sanjay-malhotra-ai-economic-value-indian-msme-sector-productivity-fta-utilisation-mumbai-summit-10981091/"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://indianexpress.com/article/business/rbi-governor-sanjay-malhotra-ai-economic-value-indian-msme-sector-productivity-fta-utilisation-mumbai-summit-10981091/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-20"
+        },
+        {
+          "prompt": {
+            "en": "What was Piyush Goyal's statement regarding a US trade deal after a new US tariff plan was announced?",
+            "hi": "नई अमेरिकी टैरिफ योजना की घोषणा के बाद अमेरिकी व्यापार समझौते के संबंध में पीयूष गोयल का क्या बयान था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The US trade deal was facing significant obstacles and delays.",
+                "hi": "अमेरिकी व्यापार समझौते को महत्वपूर्ण बाधाओं और देरी का सामना करना पड़ रहा था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The new US tariff plan had completely derailed the trade deal.",
+                "hi": "नई अमेरिकी टैरिफ योजना ने व्यापार समझौते को पूरी तरह से पटरी से उतार दिया था।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "India was withdrawing from trade negotiations with the US.",
+                "hi": "भारत अमेरिका के साथ व्यापार वार्ता से पीछे हट रहा था।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "US trade deal close, final path emerging.",
+                "hi": "अमेरिकी व्यापार समझौता करीब, अंतिम रास्ता निकल रहा है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title directly quotes Piyush Goyal's statement: 'US trade deal close, final path emerging'.\nSource: https://indianexpress.com/article/business/us-trade-deal-path-piyush-goyal-us-tariff-10980874/",
+            "hi": "शीर्षक सीधे तौर पर पीयूष गोयल के बयान को उद्धृत करता है: 'अमेरिकी व्यापार समझौता करीब, अंतिम रास्ता उभर रहा है'।\nस्रोत: https://indianexpress.com/article/business/us-trade-deal-path-piyush-goyal-us-tariff-10980874/"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://indianexpress.com/article/business/us-trade-deal-path-piyush-goyal-us-tariff-10980874/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-21"
+        },
+        {
+          "prompt": {
+            "en": "What warning is given in a report regarding India’s push for construction equipment like Tunnel Boring Machines (TBMs)?",
+            "hi": "टनल बोरिंग मशीन (टीबीएम) जैसे निर्माण उपकरणों पर भारत के जोर के संबंध में एक रिपोर्ट में क्या चेतावनी दी गई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That it should not become an ‘anti-China drive’.",
+                "hi": "कि यह 'चीन विरोधी अभियान' न बन जाए."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That it should become an 'anti-China drive' to promote self-reliance.",
+                "hi": "कि इसे आत्मनिर्भरता को बढ़ावा देने के लिए एक 'चीन विरोधी अभियान' बनना चाहिए।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That it should focus solely on domestic production without international collaboration.",
+                "hi": "कि उसे अंतरराष्ट्रीय सहयोग के बिना केवल घरेलू उत्पादन पर ध्यान केंद्रित करना चाहिए।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That it should prioritize imports over local manufacturing.",
+                "hi": "उसे स्थानीय विनिर्माण पर आयात को प्राथमिकता देनी चाहिए।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states the warning: 'India’s push for construction equipment like TBMs should not become an ‘anti-China drive’'.\nSource: https://indianexpress.com/article/business/tunnel-boring-machines-india-construction-equipment-anti-china-drive-10980692/",
+            "hi": "शीर्षक में स्पष्ट रूप से चेतावनी दी गई है: 'टीबीएम जैसे निर्माण उपकरणों पर भारत का जोर 'चीन विरोधी अभियान' नहीं बनना चाहिए।'\nस्रोत: https://indianexpress.com/article/business/tunnel-boring-machines-india-construction-equipment-anti-china-drive-10980692/"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://indianexpress.com/article/business/tunnel-boring-machines-india-construction-equipment-anti-china-drive-10980692/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-22"
+        },
+        {
+          "prompt": {
+            "en": "What is the reason cited for Trump's new tariffs being less of a threat, according to Faisal Islam?",
+            "hi": "फैसल इस्लाम के अनुसार, ट्रम्प के नए टैरिफ के खतरे से कम होने का क्या कारण बताया गया है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The global economy is now more resilient to trade wars.",
+                "hi": "वैश्विक अर्थव्यवस्था अब व्यापार युद्धों के प्रति अधिक लचीली है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Trump's political influence has significantly diminished.",
+                "hi": "ट्रम्प का राजनीतिक प्रभाव काफी कम हो गया है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Other countries have rerouted trade in response to his first tariff salvo.",
+                "hi": "अन्य देशों ने उनके पहले टैरिफ सैल्वो के जवाब में व्यापार का मार्ग बदल दिया है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The new tariffs are only symbolic and have no real economic impact.",
+                "hi": "नए टैरिफ केवल प्रतीकात्मक हैं और इनका कोई वास्तविक आर्थिक प्रभाव नहीं है।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt explains, 'Other countries have rerouted trade in response to his first tariff salvo', which is the reason for the reduced threat.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश बताता है, 'अन्य देशों ने उनके पहले टैरिफ सैल्वो के जवाब में व्यापार को फिर से बदल दिया है', जो कम खतरे का कारण है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-23"
+        },
+        {
+          "prompt": {
+            "en": "What financial commitment will the UK make to deliver EU deals, as revealed in new legal documents?",
+            "hi": "जैसा कि नए कानूनी दस्तावेजों में पता चला है, यूरोपीय संघ के सौदे पूरा करने के लिए यूके क्या वित्तीय प्रतिबद्धता करेगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The UK will pay 'participation' fee to deliver EU deals.",
+                "hi": "यूके ईयू सौदे वितरित करने के लिए 'भागीदारी' शुल्क का भुगतान करेगा।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The UK will receive a 'delivery bonus' from the EU.",
+                "hi": "यूके को ईयू से 'डिलीवरी बोनस' मिलेगा।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The UK will provide loans to EU member states.",
+                "hi": "यूके यूरोपीय संघ के सदस्य देशों को ऋण प्रदान करेगा।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The UK will establish a joint investment fund with the EU.",
+                "hi": "ब्रिटेन यूरोपीय संघ के साथ एक संयुक्त निवेश कोष स्थापित करेगा।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'UK to pay 'participation' fee to deliver EU deals', outlining the financial commitment.\nSource: BBC News · https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'यूके को यूरोपीय संघ के सौदे देने के लिए 'भागीदारी' शुल्क का भुगतान करना होगा', जो वित्तीय प्रतिबद्धता को रेखांकित करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-24"
+        },
+        {
+          "prompt": {
+            "en": "What was the market reaction in Asia after Jensen Huang's return as Nvidia CEO?",
+            "hi": "एनवीडिया सीईओ के रूप में जेन्सेन हुआंग की वापसी के बाद एशिया में बाजार की प्रतिक्रिया क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Asian stocks remained stable with no significant change.",
+                "hi": "एशियाई स्टॉक बिना किसी महत्वपूर्ण परिवर्तन के स्थिर रहे।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Asian stocks have been on a rollercoaster ride.",
+                "hi": "एशियाई शेयर उतार-चढ़ाव भरे दौर में हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Asian stocks experienced a sharp decline.",
+                "hi": "एशियाई शेयरों में भारी गिरावट देखी गई।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Asian stocks showed a steady and continuous rise.",
+                "hi": "एशियाई शेयरों में स्थिर और निरंतर वृद्धि देखी गई।"
+              }
+            }
+          ],
+          "correct_option_id": "b",
+          "explanation": {
+            "en": "The excerpt states, 'Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.', describing the market reaction.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में कहा गया है, 'एनवीडिया सीईओ के रूप में जेन्सेन हुआंग की चौंकाने वाली वापसी के बाद एशियाई शेयरों में उतार-चढ़ाव आया है।', बाजार की प्रतिक्रिया का वर्णन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-25"
+        },
+        {
+          "prompt": {
+            "en": "What accusation did French President Macron make against Brazilian meat, leading to Brazil's pushback?",
+            "hi": "फ़्रांसीसी राष्ट्रपति मैक्रॉन ने ब्राज़ीलियाई मांस के ख़िलाफ़ क्या आरोप लगाया, जिससे ब्राज़ील को झटका लगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "That it was of inferior quality and unsafe for consumption.",
+                "hi": "यह निम्न गुणवत्ता का था और उपभोग के लिए असुरक्षित था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "That it was being sold at unfairly low prices.",
+                "hi": "कि इसे अनुचित रूप से कम कीमत पर बेचा जा रहा था।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "That it was 'doped'.",
+                "hi": "कि यह 'डोप्ड' था।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "That it contributed to deforestation in the Amazon.",
+                "hi": "इसने अमेज़ॅन में वनों की कटाई में योगदान दिया।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states, 'Brazil pushes back on Macron calling its meat 'doped'', indicating the accusation made by Macron.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'ब्राजील अपने मांस को 'डोप्ड' कहने पर मैक्रॉन पर पलटवार करता है, जो मैक्रॉन द्वारा लगाए गए आरोप को दर्शाता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Economy, Business & Finance",
+          "source_label": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-26"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 2,
+      "release_at": "2026-11-28T13:00:00+05:30"
+    },
+    {
+      "title": "Science, Environment & World Affairs",
+      "source_filename": "daily-2026-11-28.json",
+      "questions": [
+        {
+          "prompt": {
+            "en": "How is pollution from northern India suggested to affect Sri Lanka's air quality?",
+            "hi": "उत्तर भारत के प्रदूषण से श्रीलंका की वायु गुणवत्ता पर क्या प्रभाव पड़ेगा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Pollution from northern India and the wider region travels over the Bay of Bengal to Sri Lanka during the northeast monsoon, and crop burning is part of that mix.",
+                "hi": "उत्तर-पूर्वी मानसून के दौरान उत्तरी भारत और व्यापक क्षेत्र से प्रदूषण बंगाल की खाड़ी से होते हुए श्रीलंका तक पहुँच जाता है और फसल जलाना उस मिश्रण का हिस्सा है।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is transported via ocean currents in the Arabian Sea.",
+                "hi": "इसका परिवहन समुद्री धाराओं के माध्यम से अरब सागर में होता है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is carried directly by westerly winds across the subcontinent.",
+                "hi": "यह उपमहाद्वीप में सीधे पछुआ हवाओं द्वारा ले जाया जाता है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It primarily affects Sri Lanka through industrial emissions from coastal areas.",
+                "hi": "यह मुख्य रूप से तटीय क्षेत्रों से औद्योगिक उत्सर्जन के माध्यम से श्रीलंका को प्रभावित करता है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explains, 'Pollution from northern India and the wider region travels over the Bay of Bengal to Sri Lanka during the northeast monsoon, and crop burning is part of that mix', detailing the mechanism.\nSource: https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece",
+            "hi": "अंश बताता है, 'उत्तर भारत और व्यापक क्षेत्र से प्रदूषण पूर्वोत्तर मानसून के दौरान बंगाल की खाड़ी से श्रीलंका तक जाता है, और फसल जलाना उस मिश्रण का हिस्सा है', तंत्र का विवरण देता है।\nस्रोत: https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-27"
+        },
+        {
+          "prompt": {
+            "en": "What items related to Stephen Hawking recently fetched significant sums at auction?",
+            "hi": "हाल ही में स्टीफन हॉकिंग से संबंधित किन वस्तुओं की नीलामी में अच्छी-खासी रकम प्राप्त हुई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "His personal library and astronomical equipment.",
+                "hi": "उनकी निजी लाइब्रेरी और खगोलीय उपकरण।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "His awards and medals.",
+                "hi": "उनके पुरस्कार और पदक।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "His scientific notes and a telescope.",
+                "hi": "उनके वैज्ञानिक नोट्स और एक दूरबीन।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "His early wheelchairs and a copy of his doctoral thesis.",
+                "hi": "उनकी शुरुआती व्हीलचेयर और उनकी डॉक्टरेट थीसिस की एक प्रति।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The excerpt states, 'one of the earliest wheelchairs used by Stephen Hawking fetched a whopping sum of nearly £300,000, while a copy of his doctoral thesis fetched almost £585,000', identifying the items.\nSource: https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+            "hi": "अंश में कहा गया है, 'स्टीफन हॉकिंग द्वारा उपयोग की जाने वाली सबसे शुरुआती व्हीलचेयर में से एक की कीमत लगभग £300,000 थी, जबकि उनकी डॉक्टरेट थीसिस की एक प्रति की कीमत लगभग £585,000 थी', वस्तुओं की पहचान।\nस्रोत: https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-28"
+        },
+        {
+          "prompt": {
+            "en": "What was the outcome of cyber attacks in Switzerland involving AI agents, according to the government?",
+            "hi": "सरकार के अनुसार स्विट्जरलैंड में एआई एजेंटों से जुड़े साइबर हमलों का परिणाम क्या था?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "In four ⁠of the five cases, the attacks were ​successful and systems ‌were compromised.",
+                "hi": "पांच मामलों में से चार में, हमले सफल रहे और सिस्टम से समझौता किया गया।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The AI agents were detected but failed to compromise any systems.",
+                "hi": "एआई एजेंटों का पता लगाया गया लेकिन वे किसी भी सिस्टम से समझौता करने में विफल रहे।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "All five attacks were successfully repelled without any data loss.",
+                "hi": "बिना किसी डेटा हानि के सभी पांच हमलों को सफलतापूर्वक रद्द कर दिया गया।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The attacks led to minor disruptions but no significant system compromise.",
+                "hi": "हमलों के कारण छोटी-मोटी रुकावटें आईं लेकिन सिस्टम से कोई महत्वपूर्ण समझौता नहीं हुआ।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt clearly states, 'In four ⁠of the five cases, the attacks were ​successful and systems ‌were compromised, BACS said', detailing the outcome.\nSource: https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'पांच मामलों में से चार में, हमले सफल रहे और सिस्टम से समझौता किया गया, बीएसीएस ने कहा', परिणाम का विवरण देते हुए।\nस्रोत: https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-29"
+        },
+        {
+          "prompt": {
+            "en": "What are the long-term health benefits identified in a study on sugar restriction during the first 1000 days of life?",
+            "hi": "जीवन के पहले 1000 दिनों के दौरान चीनी प्रतिबंध पर एक अध्ययन में पहचाने गए दीर्घकालिक स्वास्थ्य लाभ क्या हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Improved cognitive function and enhanced athletic performance.",
+                "hi": "बेहतर संज्ञानात्मक कार्य और बेहतर एथलेटिक प्रदर्शन।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Increased bone density and stronger immune system.",
+                "hi": "हड्डियों का घनत्व बढ़ता है और प्रतिरक्षा प्रणाली मजबूत होती है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Better vision and hearing in old age.",
+                "hi": "बुढ़ापे में बेहतर दृष्टि और श्रवण।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Reduces cancer incidence, pace of ageing.",
+                "hi": "कैंसर की घटनाओं, उम्र बढ़ने की गति को कम करता है।"
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly states, 'Sugar restriction during first 1000 days of life reduces cancer incidence, pace of ageing: study', outlining the identified health benefits.\nSource: https://www.thehindu.com/sci-tech/health/sugar-restriction-during-first-1000-days-of-life-reduces-cancer-incidence-pace-of-ageing-study/article71749630.ece",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'जीवन के पहले 1000 दिनों के दौरान चीनी पर प्रतिबंध से कैंसर की घटनाओं में कमी आती है, उम्र बढ़ने की गति कम होती है: अध्ययन', पहचाने गए स्वास्थ्य लाभों को रेखांकित करता है।\nस्रोत: https://www.thehindu.com/sci-tech/health/sugar-restriction-during-first-1000-days-of-life-reduces-cancer-incidence-pace-of-ageing-study/article71749630.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/health/sugar-restriction-during-first-1000-days-of-life-reduces-cancer-incidence-pace-of-ageing-study/article71749630.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-30"
+        },
+        {
+          "prompt": {
+            "en": "Which space agency unveiled the prototype of the Chandrayaan-5/LuPEX rover?",
+            "hi": "किस अंतरिक्ष एजेंसी ने चंद्रयान-5/LuPEX रोवर के प्रोटोटाइप का अनावरण किया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "ISRO, the Indian space agency.",
+                "hi": "इसरो, भारतीय अंतरिक्ष एजेंसी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "NASA, the American space agency.",
+                "hi": "अमेरिकी अंतरिक्ष एजेंसी नासा."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "JAXA, the Japanese space agency.",
+                "hi": "JAXA, जापानी अंतरिक्ष एजेंसी।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "ESA, the European Space Agency.",
+                "hi": "ईएसए, यूरोपीय अंतरिक्ष एजेंसी।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states, 'JAXA, the Japanese space agency, unveiled the rover in Japan on November 25', identifying the agency.\nSource: https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'जापानी अंतरिक्ष एजेंसी JAXA ने 25 नवंबर को जापान में रोवर का अनावरण किया, जिससे एजेंसी की पहचान हो गई।'\nस्रोत: https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-31"
+        },
+        {
+          "prompt": {
+            "en": "What significance does Jaishankar attribute to the Indian Ocean?",
+            "hi": "जयशंकर हिंद महासागर को क्या महत्व बताते हैं?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Indian Ocean key to global trade, energy, need greater coordination.",
+                "hi": "हिंद महासागर वैश्विक व्यापार, ऊर्जा की कुंजी, अधिक समन्वय की आवश्यकता।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "It is a key area for scientific research and exploration.",
+                "hi": "यह वैज्ञानिक अनुसंधान और अन्वेषण का एक प्रमुख क्षेत्र है।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "It is primarily a region for tourism and cultural exchange.",
+                "hi": "यह मुख्य रूप से पर्यटन और सांस्कृतिक आदान-प्रदान का क्षेत्र है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "It serves mainly as a fishing ground for coastal nations.",
+                "hi": "यह मुख्य रूप से तटीय देशों के लिए मछली पकड़ने के मैदान के रूप में कार्य करता है।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title directly quotes Jaishankar stating, 'Indian Ocean key to global trade, energy, need greater coordination', highlighting its significance.\nSource: https://indianexpress.com/article/india/s-jaishankar-25th-iora-council-of-ministers-meeting-new-delhi-indian-ocean-security-mahasagar-sergio-gor-10981454/",
+            "hi": "शीर्षक में सीधे तौर पर जयशंकर को यह कहते हुए उद्धृत किया गया है, 'हिंद महासागर वैश्विक व्यापार, ऊर्जा के लिए महत्वपूर्ण है, अधिक समन्वय की आवश्यकता है', जो इसके महत्व पर प्रकाश डालता है।\nस्रोत: https://indianexpress.com/article/india/s-jaishankar-25th-iora-council-of-ministers-meeting-new-delhi-indian-ocean-security-mahasagar-sergio-gor-10981454/"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://indianexpress.com/article/india/s-jaishankar-25th-iora-council-of-ministers-meeting-new-delhi-indian-ocean-security-mahasagar-sergio-gor-10981454/",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-32"
+        },
+        {
+          "prompt": {
+            "en": "What is the primary concern regarding the capsized tanker carrying 7,000 tonnes of diesel near Ibiza?",
+            "hi": "इबीज़ा के पास 7,000 टन डीजल ले जा रहे पलटे हुए टैंकर के संबंध में प्राथमिक चिंता क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Fears of a major oil spillage off Ibiza.",
+                "hi": "इबीज़ा में बड़े तेल रिसाव की आशंका।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The potential for a collision with other vessels.",
+                "hi": "अन्य जहाजों के साथ टकराव की संभावना।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The risk of the ship sinking further into the deep sea.",
+                "hi": "जहाज के और गहरे समुद्र में डूबने का ख़तरा."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The difficulty in salvaging the ship's cargo.",
+                "hi": "जहाज के माल को बचाने में कठिनाई."
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The excerpt explicitly states, 'There are fears of a major oil spillage off Ibiza', which is the primary concern.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'इबीज़ा में बड़े तेल रिसाव की आशंका है', जो प्राथमिक चिंता का विषय है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-33"
+        },
+        {
+          "prompt": {
+            "en": "What new information has satellite data revealed about some African cities?",
+            "hi": "कुछ अफ़्रीकी शहरों के बारे में उपग्रह डेटा से कौन सी नई जानकारी सामने आई है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "New satellite data shows how fast some African cities are sinking.",
+                "hi": "नए उपग्रह डेटा से पता चलता है कि कुछ अफ़्रीकी शहर कितनी तेज़ी से डूब रहे हैं।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "They are rapidly expanding their urban infrastructure.",
+                "hi": "वे तेजी से अपने शहरी बुनियादी ढांचे का विस्तार कर रहे हैं।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "They are experiencing unprecedented population growth.",
+                "hi": "वे अभूतपूर्व जनसंख्या वृद्धि का अनुभव कर रहे हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "They are becoming major hubs for technological innovation.",
+                "hi": "वे तकनीकी नवाचार के प्रमुख केंद्र बन रहे हैं।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title clearly states, 'New satellite data shows how fast some African cities are sinking', indicating the new revelation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'नए उपग्रह डेटा से पता चलता है कि कुछ अफ्रीकी शहर कितनी तेजी से डूब रहे हैं', जो नए रहस्योद्घाटन का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-34"
+        },
+        {
+          "prompt": {
+            "en": "What was a significant impact of the severe storms that hit the US on Thanksgiving?",
+            "hi": "थैंक्सगिविंग के दिन अमेरिका में आए भयंकर तूफान का क्या महत्वपूर्ण प्रभाव पड़ा?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Widespread flooding in major urban centers.",
+                "hi": "प्रमुख शहरी केंद्रों में व्यापक बाढ़।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Major disruptions to air travel across the country.",
+                "hi": "देश भर में हवाई यात्रा में बड़ा व्यवधान।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Hundreds of thousands still without power.",
+                "hi": "हज़ारों लोग अभी भी बिना बिजली के हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Significant damage to agricultural lands.",
+                "hi": "कृषि भूमि को महत्वपूर्ण क्षति।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states, 'Hundreds of thousands still without power after storms hit US on Thanksgiving', highlighting a significant impact.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'थैंक्सगिविंग के दिन अमेरिका में आए तूफान के बाद अभी भी सैकड़ों हजारों लोगों के पास बिजली नहीं है', जो एक महत्वपूर्ण प्रभाव को उजागर करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-35"
+        },
+        {
+          "prompt": {
+            "en": "What major event was postponed in New York due to severe weather conditions?",
+            "hi": "खराब मौसम की स्थिति के कारण न्यूयॉर्क में कौन सा प्रमुख कार्यक्रम स्थगित कर दिया गया?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The New York Marathon.",
+                "hi": "न्यूयॉर्क मैराथन."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The Times Square New Year's Eve celebration.",
+                "hi": "टाइम्स स्क्वायर पर नए साल की पूर्वसंध्या का जश्न।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Macy's Thanksgiving Day Parade.",
+                "hi": "मैसी की थैंक्सगिविंग डे परेड।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "The US Open tennis tournament.",
+                "hi": "यूएस ओपन टेनिस टूर्नामेंट."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The excerpt clearly states, 'Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.', identifying the postponed event.\nSource: BBC News · https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+            "hi": "अंश में स्पष्ट रूप से कहा गया है, 'मैसीज ने खराब मौसम के कारण न्यूयॉर्क में अपनी 100वीं वार्षिक थैंक्सगिविंग डे परेड स्थगित कर दी है।', स्थगित कार्यक्रम की पहचान करते हुए।\nस्रोत: BBC News · https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-36"
+        },
+        {
+          "prompt": {
+            "en": "What illegal activity was discovered at Amsterdam airport involving rare animals?",
+            "hi": "एम्स्टर्डम हवाई अड्डे पर दुर्लभ जानवरों से जुड़ी कौन सी अवैध गतिविधि पाई गई?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "Smuggling of exotic birds.",
+                "hi": "विदेशी पक्षियों की तस्करी."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "Illegal trade of endangered fish.",
+                "hi": "लुप्तप्राय मछली का अवैध व्यापार."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Trafficking of protected primates.",
+                "hi": "संरक्षित प्राइमेट्स की तस्करी."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "Rare turtles found inside baggage.",
+                "hi": "सामान के अंदर मिले दुर्लभ कछुए."
+              }
+            }
+          ],
+          "correct_option_id": "d",
+          "explanation": {
+            "en": "The title explicitly states, 'Rare turtles found inside baggage at Amsterdam airport', indicating the illegal activity.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'एम्स्टर्डम हवाई अड्डे पर सामान के अंदर दुर्लभ कछुए पाए गए', जो अवैध गतिविधि का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-37"
+        },
+        {
+          "prompt": {
+            "en": "What is the political situation in Spain as described in the context of an upcoming election?",
+            "hi": "आगामी चुनाव के संदर्भ में वर्णित स्पेन में राजनीतिक स्थिति क्या है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "The Spanish PM has withdrawn from the election race.",
+                "hi": "स्पेन के पीएम चुनावी दौड़ से हट गए हैं."
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "The election has been postponed due to political instability.",
+                "hi": "राजनीतिक अस्थिरता के कारण चुनाव स्थगित कर दिया गया है."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "The Spanish PM and rivals are rallying supporters in final pitch for votes.",
+                "hi": "स्पैनिश पीएम और प्रतिद्वंद्वी वोट के लिए अंतिम चरण में समर्थकों को एकजुट कर रहे हैं।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A coalition government has already been formed before the election.",
+                "hi": "चुनाव से पहले ही गठबंधन सरकार बन चुकी है."
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'Spanish PM and rivals rally supporters in final pitch for votes', describing the political situation.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'स्पेनिश पीएम और प्रतिद्वंद्वी वोट के लिए अंतिम चरण में समर्थकों की रैली करते हैं', जो राजनीतिक स्थिति का वर्णन करता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-38"
+        },
+        {
+          "prompt": {
+            "en": "What criticism did Ukrainian President Zelensky make regarding the relationship between Trump and Putin?",
+            "hi": "ट्रंप और पुतिन के रिश्ते को लेकर यूक्रेन के राष्ट्रपति ज़ेलेंस्की ने क्या आलोचना की?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He praised their efforts to de-escalate global tensions.",
+                "hi": "उन्होंने वैश्विक तनाव कम करने के उनके प्रयासों की सराहना की।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He called their relationship a model for international diplomacy.",
+                "hi": "उन्होंने अपने रिश्ते को अंतरराष्ट्रीय कूटनीति के लिए एक मॉडल बताया."
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He criticises 'strange' Trump-Putin friendship.",
+                "hi": "वह 'अजीब' ट्रंप-पुतिन दोस्ती की आलोचना करते हैं."
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He expressed indifference towards their interactions.",
+                "hi": "उन्होंने उनकी बातचीत के प्रति उदासीनता व्यक्त की।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title explicitly states, 'Zelensky criticises 'strange' Trump-Putin friendship in BBC interview', indicating his criticism.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'बीबीसी साक्षात्कार में ज़ेलेंस्की ने 'अजीब' ट्रम्प-पुतिन दोस्ती की आलोचना की, जो उनकी आलोचना का संकेत देता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-39"
+        },
+        {
+          "prompt": {
+            "en": "What challenge does Kyiv face as winter approaches, despite being weary of war?",
+            "hi": "युद्ध से थके होने के बावजूद, सर्दी आते ही कीव को किस चुनौती का सामना करना पड़ता है?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "A shortage of international aid and support.",
+                "hi": "अंतर्राष्ट्रीय सहायता और समर्थन की कमी।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "A mass exodus of its population to warmer climates.",
+                "hi": "इसकी आबादी का गर्म जलवायु की ओर बड़े पैमाने पर पलायन।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "Kyiv faces another punishing winter.",
+                "hi": "कीव को एक और कड़ाके की सर्दी का सामना करना पड़ रहा है।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "A severe economic recession and food scarcity.",
+                "hi": "भीषण आर्थिक मंदी और भोजन की कमी।"
+              }
+            }
+          ],
+          "correct_option_id": "c",
+          "explanation": {
+            "en": "The title clearly states, 'Weary of war but with no sign of backing down, Kyiv faces another punishing winter', highlighting the challenge.\nSource: BBC News · https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'युद्ध से थके हुए लेकिन पीछे हटने का कोई संकेत नहीं होने के कारण, कीव को एक और दर्दनाक सर्दी का सामना करना पड़ रहा है', जो चुनौती पर प्रकाश डालता है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-40"
+        },
+        {
+          "prompt": {
+            "en": "What was the recent conviction of a Kenyan doomsday cult leader?",
+            "hi": "केन्याई प्रलयकालीन पंथ नेता की हालिया सजा क्या थी?"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": "A",
+              "text": {
+                "en": "He was convicted over further 123 deaths.",
+                "hi": "उन्हें और 123 मौतों के लिए दोषी ठहराया गया था।"
+              }
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "text": {
+                "en": "He was convicted of illegal land acquisition.",
+                "hi": "उन्हें अवैध भूमि अधिग्रहण का दोषी ठहराया गया था।"
+              }
+            },
+            {
+              "id": "c",
+              "label": "C",
+              "text": {
+                "en": "He was convicted of tax evasion and fraud.",
+                "hi": "उन्हें कर चोरी और धोखाधड़ी का दोषी ठहराया गया था।"
+              }
+            },
+            {
+              "id": "d",
+              "label": "D",
+              "text": {
+                "en": "He was convicted of human trafficking.",
+                "hi": "उन्हें मानव तस्करी का दोषी ठहराया गया था।"
+              }
+            }
+          ],
+          "correct_option_id": "a",
+          "explanation": {
+            "en": "The title explicitly states, 'Kenyan doomsday cult leader convicted over further 123 deaths', detailing his recent conviction.\nSource: BBC News · https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+            "hi": "शीर्षक में स्पष्ट रूप से कहा गया है, 'केन्याई प्रलय के दिन के पंथ नेता को 123 से अधिक मौतों के लिए दोषी ठहराया गया', उनकी हालिया सजा का विवरण दिया गया है।\nस्रोत: BBC News · https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
+          },
+          "section": "Science, Environment & World Affairs",
+          "source_label": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+          "status": "ready",
+          "warnings": [],
+          "page": 1,
+          "id": "2026-11-28-41"
+        }
+      ],
+      "quarantined": [],
+      "warnings": [
+        "AI-generated from linked public news sources. Check important facts against the source."
+      ],
+      "release_wave": 3,
+      "release_at": "2026-11-28T18:00:00+05:30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Not a single foot of blacktopping done on Amarnath route, PDP-BJP stoking Hindu-Muslim discord: Omar Abdullah",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/not-a-single-foot-of-blacktopping-done-on-amarnath-route-pdp-bjp-stoking-hindu-muslim-discord-omar-abdullah/article71751958.ece",
+      "published": "2026-11-28T02:08:46+05:30"
+    },
+    {
+      "title": "Kallakurichi TVK MLA Arul Vignesh arrested on charges of harassing IAS officer",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-harassing-ias-officer/article71751055.ece",
+      "published": "2026-11-28T01:56:39+05:30"
+    },
+    {
+      "title": "Senior advocate Syed Faisal Qadri appointed as J&K’s Advocate General after two year gap",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/senior-advocate-syed-faisal-qadri-appointed-as-jks-advocate-general-after-two-year-gap/article71751519.ece",
+      "published": "2026-11-28T01:51:31+05:30"
+    },
+    {
+      "title": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
+      "url": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
+      "published": "2026-11-28T01:43:09+05:30"
+    },
+    {
+      "title": "Lok Sabha seat freeze is no longer linked to population stabilisation",
+      "url": "https://www.thehindu.com/news/national/lok-sabha-seat-freeze-is-no-longer-linked-to-population-stabilisation/article71752281.ece",
+      "published": "2026-11-28T01:39:17+05:30"
+    },
+    {
+      "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+      "url": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
+      "published": "2026-11-28T00:57:54+05:30"
+    },
+    {
+      "title": "Bombay High Court gives go-ahead for Tata Sons board meeting on November 30",
+      "url": "https://www.thehindu.com/business/bombay-high-court-gives-go-ahead-for-tata-sons-board-meeting-on-november-30/article71752235.ece",
+      "published": "2026-11-28T00:01:36+05:30"
+    },
+    {
+      "title": "Cotton output shortfall: SIMA seeks five-year import duty waiver",
+      "url": "https://www.thehindu.com/business/cotton-output-shortfall-sima-seeks-five-year-import-duty-waiver/article71751172.ece",
+      "published": "2026-11-27T22:41:59+05:30"
+    },
+    {
+      "title": "RBI Governor pegs AI’s potential economic value to MSMEs at $685 billion, urges faster adoption",
+      "url": "https://www.thehindu.com/business/Industry/rbi-governor-pegs-ais-potential-economic-value-to-msmes-at-685-billion-urges-faster-adoption/article71751516.ece",
+      "published": "2026-11-27T22:16:37+05:30"
+    },
+    {
+      "title": "The fiscal cost of cash-transfer schemes",
+      "url": "https://www.thehindu.com/business/Economy/the-fiscal-cost-of-cash-transfer-schemes/article71747863.ece",
+      "published": "2026-11-27T21:56:42+05:30"
+    },
+    {
+      "title": "RBI cuts daily CRR maintenance to 90%, to unlock over ₹40,000 crore",
+      "url": "https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece",
+      "published": "2026-11-27T21:50:17+05:30"
+    },
+    {
+      "title": "Is stubble burning in Punjab affecting Sri Lanka’s air quality?",
+      "url": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece",
+      "published": "2026-11-27T21:18:55+05:30"
+    },
+    {
+      "title": "Hawking, the celebrity theoretical physicist",
+      "url": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece",
+      "published": "2026-11-27T15:58:32+05:30"
+    },
+    {
+      "title": "AI agents used in five cyber attacks in Switzerland, government says",
+      "url": "https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece",
+      "published": "2026-11-27T14:11:22+05:30"
+    },
+    {
+      "title": "Sugar restriction during first 1000 days of life reduces cancer incidence, pace of ageing: study",
+      "url": "https://www.thehindu.com/sci-tech/health/sugar-restriction-during-first-1000-days-of-life-reduces-cancer-incidence-pace-of-ageing-study/article71749630.ece",
+      "published": "2026-11-27T14:04:21+05:30"
+    },
+    {
+      "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
+      "url": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece",
+      "published": "2026-11-27T11:56:59+05:30"
+    },
+    {
+      "title": "U.S. chip curbs will slow Asia data-centre investment, Fitch says",
+      "url": "https://www.thehindu.com/sci-tech/technology/us-chip-curbs-will-slow-asia-data-centre-investment-fitch-says/article71749270.ece",
+      "published": "2026-11-27T10:57:10+05:30"
+    },
+    {
+      "title": "Omar sees UP poll angle in Sheshnag row – ‘Stoking communal tension before elections’",
+      "url": "https://indianexpress.com/article/india/omar-abdullah-accuses-bjp-pdp-communal-tension-amarnath-yatra-track-sheshnag-lake-up-polls-10981671/",
+      "published": "2026-11-27T16:50:52+00:00"
+    },
+    {
+      "title": "Delimitation Bill full text: 850 Lok Sabha seats, women’s quota, 25-year freeze",
+      "url": "https://indianexpress.com/article/india/delimitation-bill-full-text-constitution-132nd-amendment-bill-lok-sabha-seats-10981637/",
+      "published": "2026-11-27T16:13:08+00:00"
+    },
+    {
+      "title": "Bengal SIR: EC hikes tribunal judges’ honorarium to Rs 2.5 lakh a month from Rs 25,000 a week",
+      "url": "https://indianexpress.com/article/india/election-commission-sir-hikes-honorarium-west-bengal-appellate-tribunal-retired-judges-10981490/",
+      "published": "2026-11-27T13:58:46+00:00"
+    },
+    {
+      "title": "Indian Ocean key to global trade, energy, need greater coordination: Jaishankar",
+      "url": "https://indianexpress.com/article/india/s-jaishankar-25th-iora-council-of-ministers-meeting-new-delhi-indian-ocean-security-mahasagar-sergio-gor-10981454/",
+      "published": "2026-11-27T13:56:39+00:00"
+    },
+    {
+      "title": "Have asked Government to let us invest in airlines, facilitate their development: Adani Group CFO",
+      "url": "https://indianexpress.com/article/business/adani-group-cfo-jugeshinder-robbie-singh-confirms-government-request-invest-in-airlines-omda-cross-holding-rules-10981682/",
+      "published": "2026-11-27T17:03:16+00:00"
+    },
+    {
+      "title": "After Express report, number plate toll-dodging fine goes up 5 times",
+      "url": "https://indianexpress.com/article/business/number-plate-tampering-five-times-toll-penalty-10981291/",
+      "published": "2026-11-27T11:51:32+00:00"
+    },
+    {
+      "title": "MSMEs should make the most of FTAs, adopt newer tech like AI, says RBI chief",
+      "url": "https://indianexpress.com/article/business/rbi-governor-sanjay-malhotra-ai-economic-value-indian-msme-sector-productivity-fta-utilisation-mumbai-summit-10981091/",
+      "published": "2026-11-27T10:33:31+00:00"
+    },
+    {
+      "title": "US trade deal close, final path emerging: Piyush Goyal after new US tariff plan",
+      "url": "https://indianexpress.com/article/business/us-trade-deal-path-piyush-goyal-us-tariff-10980874/",
+      "published": "2026-11-27T08:05:13+00:00"
+    },
+    {
+      "title": "India’s push for construction equipment like TBMs should not become an ‘anti-China drive’: Report",
+      "url": "https://indianexpress.com/article/business/tunnel-boring-machines-india-construction-equipment-anti-china-drive-10980692/",
+      "published": "2026-11-27T06:13:53+00:00"
+    },
+    {
+      "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T10:01:07+00:00"
+    },
+    {
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T08:13:43+00:00"
+    },
+    {
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T19:55:58+00:00"
+    },
+    {
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T23:17:12+00:00"
+    },
+    {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T23:08:12+00:00"
+    },
+    {
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T20:34:45+00:00"
+    },
+    {
+      "title": "New satellite data shows how fast some African cities are sinking",
+      "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T19:03:18+00:00"
+    },
+    {
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:45:05+00:00"
+    },
+    {
+      "title": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
+      "url": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T15:27:00+00:00"
+    },
+    {
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T13:38:07+00:00"
+    },
+    {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T20:57:04+00:00"
+    },
+    {
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:00:40+00:00"
+    },
+    {
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:42:50+00:00"
+    },
+    {
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T15:54:15+00:00"
+    },
+    {
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T17:19:31+00:00"
+    }
+  ]
+}
